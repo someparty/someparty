@@ -1,0 +1,6 @@
+<% wrap_layout :layout do %>
+  <article class="tc pa3 pa5-ns measure lh-copy">
+    <h1 f4 f3-ns mt4><%= current_article.title unless current_article.nil? %></h1>
+    <%= yield %>
+  </article>
+<% end %>
