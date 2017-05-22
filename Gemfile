@@ -9,17 +9,18 @@ gem 'wdm', '~> 0.1.0', platforms: [:mswin, :mingw]
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 
 # Middleman Gems
-gem "middleman", "~> 4.1"
-gem "middleman-blog"
-gem "middleman-livereload"
-gem 'middleman-autoprefixer'
-
-# performance
-gem 'middleman-minify-html'
-
+gem 'builder', '~> 3.0' # For feed.xml
 gem 'fastimage'
-
+gem 'middleman', '~> 4.1'
+gem 'middleman-autoprefixer'
+gem 'middleman-blog'
+gem 'middleman-livereload'
+gem 'middleman-meta-tags'
+gem 'middleman-minify-html'
+gem 'middleman-robots'
+gem 'middleman-search_engine_sitemap'
+gem 'nokogiri'
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 
-# For feed.xml.builder
-gem "builder", "~> 3.0"
+# development
+gem 'rubocop'

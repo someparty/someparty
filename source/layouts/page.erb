@@ -1,0 +1,6 @@
+<% wrap_layout :layout do %>
+  <article class="pa3 pa4-ns lh-copy f4">
+    <h1 class="f2 mt1 mb0 maxread center"><%= current_page.data.title unless current_page.data.title.nil? %></h1>
+    <%= yield %>
+  </article>
+<% end %>
