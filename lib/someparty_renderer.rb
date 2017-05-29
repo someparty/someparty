@@ -12,6 +12,8 @@ class SomePartyRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     elsif raw_html.include? 'instagram'
       doc.css('blockquote').add_class('dib tl')
       format("<div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
+    elsif raw_html.include? 'bandcamp'
+      format("<div class='center tc'>%s</div>", doc.to_html)
     else
       format("<div class='center'>%s</div>", doc.to_html)
     end

@@ -49,7 +49,7 @@ A recent episode of the [Canadaland](http://www.canadaland.com) podcast featured
 
 Vancouver's [Needles//Pins](http://www.needlesxpins.com/) have unveiled "All The Same" from their upcoming  full length *Good Night Tomorrow*. It's growling melodic punk rock track that anyone who grew up in the EpiFat 90s should dig. They band's slated to be part of a Mint Records showcase at this June's [Ottawa Explosion](http://ottawaexplosion.com/) alongside the reunited Smugglers.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2533488215/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3872605701/transparent=true/" seamless><a href="http://needlesxpins.bandcamp.com/album/good-night-tomorrow">Good Night, Tomorrow by NEEDLES//PINS</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2533488215/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://needlesxpins.bandcamp.com/album/good-night-tomorrow-mint-records-dirt-cult-records">Good Night, Tomorrow (Mint Records/Dirt Cult Records) by NEEDLES//PINS</a></iframe>
 
 The Flatliners' [Chris Cresswell](https://twitter.com/CrustCrustwell) was interviewed on Mark Fraser's Glasgow-based podcast [The Curator](http://thecuratorpodcast.com/tc61-season-2-episode-14-chris-cresswell-flatliners/?utm_content=buffer169bd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) about the band's new record, label, and evolving sonic direction. Count me as an early skeptic of *Inviting Light* but it's been in near constant rotation here as I wrestle with it.
 
