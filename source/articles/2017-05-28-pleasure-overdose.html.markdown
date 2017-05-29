@@ -45,7 +45,7 @@ The songs of *Inviting Light*, the new record, step away from the roaring anthem
 
 That said, after the requisite encore of the decade-old ska-punk favourite "Fred's Got Slacks," someone turned to me and said ecstatically "Dude! It's like high school!" so I'm not sure what people really want.
 
-##
+##Of Note
 
 [Ottawa Beat](http://ottawabeat.com/2017/05/18/brief-history-ottawa-explosion-weekend/) has written up a brief history of the [Ottawa Explosion Weekend](http://ottawaexplosion.com/) that delves into the shows and scenes that preceded, and gave raise to the now-annual garage-punk festival.
 
