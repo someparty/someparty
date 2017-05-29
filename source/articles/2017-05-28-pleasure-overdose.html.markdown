@@ -2,7 +2,7 @@
 title: Pleasure Overdose
 date: 2017-05-28
 author: adam@someparty.ca (Adam White)
-description: Soupcans release Pleasure Overdose. Sam Coffeey and the Iron Lungs, The Dirty Nil, and the Flatlienrs tour.
+description: Soupcans release Pleasure Overdose. Sam Coffeey and the Iron Lungs, The Dirty Nil, and the Flatliners tour.
 ---
 
 Part of my motivation in starting Some Party as a weekly newsletter was to force myself to operate outside the daily news cycle that Punknews and the rest of the Internet music apparatus thrives on. There's a formula to how a new music is disseminated and it should sound familiar. A band will make mention of their next album, perhaps by sharing a title or who's producing it, sometimes just their *intent* to record, that will kick off a round of press coverage. In the lead-up to the release you'll see the usual collection of stories, dribbled out over time. Studio photos show up on Instagram. Perhaps there's a studio clip of the guitarist noodling out the hook from a new song on Facebook. Eventually a single shows up on SoundCloud or BandCamp, and it's "exclusively" announced on one news outlet or another. That repeats a few times and eventually the record's released. The band, the label, a PR person if that's in the budget, and the press kick that ball back and forth.
