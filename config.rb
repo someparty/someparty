@@ -58,7 +58,6 @@ end
 
 activate :directory_indexes
 page '/404.html', directory_index: false
-page 'README.md', directory_index: false
 
 activate :autoprefixer
 
@@ -88,5 +87,9 @@ configure :build do
   activate :minify_javascript
 
   activate :gzip
+
+  after_build do |builder|
+    FileUtils.cp_r 'public/.', 'build'
+  end
 
 end

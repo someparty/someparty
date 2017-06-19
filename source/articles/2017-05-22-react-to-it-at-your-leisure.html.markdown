@@ -27,7 +27,7 @@ Some Party's going to pull on some of these threads and see where they go. I'll 
 
 ---
 
-![The Secrets from the Success Without College album cover](articles/the-secrets.jpg)
+![The Secrets from the Success Without College album cover](articles/the_secrets.jpg)
 
 ##Not Them! Not Here!
 
