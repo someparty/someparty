@@ -2,7 +2,7 @@
 title: Local Favourites
 date: 2017-07-09
 author: adam@someparty.ca (Adam White)
-description: x
+description: Deathsticks and Right Shitty put out a split. The Isotopes' new video. New Faith Healer song.
 ---
 
 It was never my intention to have Some Party be a *comprehensive* chronicle of the comings and goings of the Canadian music world. It would of course be impossible to do so as one person. This project's more interesting to me as a reflection of my own interests and obsessions anyways. Yet here I sit looking at the week in Canadian music news and I find it dominated by two names I had consciously decided not to cover.
