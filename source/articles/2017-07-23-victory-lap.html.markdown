@@ -18,7 +18,7 @@ There's going to be a lot to unpack about this record in the coming months, so I
 
 ##Of Note
 
-Pittsburgh's [Cruel Noise Records](https://www.cruelnoiserecords.com/) has set a release date for the six-song 7" [*Sweet Boy*](https://www.discogs.com/Booji-Boys-Sweet-Boy-/release/10593600) from the [Booji Boys](https://boojiboysfuneral.bandcamp.com/). The release, which compiles material the Halifax band originally made available on a limited run of tapes, now has an August 18th release date attached. There are five originals in the set along with a cover of The Undertones' "Family Entertainment."
+Pittsburgh's [Cruel Noise Records](https://www.cruelnoiserecords.com/) has set a release date for the six-song 7" [*Sweet Boy*](https://www.discogs.com/Booji-Boys-Sweet-Boy-/release/10593600) from the [Booji Boys](https://boojiboysfuneral.bandcamp.com/). The record, which compiles material the Halifax band originally made available on a limited run of tapes, now has an August 18th date attached. There are five originals in the set along with a cover of The Undertones' "Family Entertainment."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLYWO82FFq8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -43,7 +43,7 @@ Whatever you want to call it, "Thirty" feels pretty special and is completely en
 
 Episode 335 of [Vish Khanna](http://vishkhanna.com/)'s [Kreative Kontrol](http://vishkhanna.com/2017/07/20/ep-335-the-sadies-on-long-night/) podcast features [The Sadies](http://www.thesadies.net/) performing songs from their Polaris long listed album *Northern Passages*. The prolific Toronto alt-country / garage rock band visited Khanna's TV show *Long Night* to perform before the studio audience and chat about their catalogue.
 
-[Chad VanGaalen](https://chadvangaalen.bandcamp.com/) has released a new music video for the song "Pine and Clover," which the celebrated Calgary musician directed and animated himself. The sogn appears on the upcoming *Light Information* LP, due September 8th on [Flemish Eye](http://www.flemisheye.com/) in Canada and [Sub Pop](https://www.subpop.com/) elsewhere. You can find comments from the artist on the video's production, along with a list of upcoming fall tour dates, at [Sidewalk Hustle](http://www.sidewalkhustle.com/chad-vangaalen-shares-pine-and-clover-video/).
+[Chad VanGaalen](https://chadvangaalen.bandcamp.com/) has released a new music video for the song "Pine and Clover," which the celebrated Calgary musician directed and animated himself. The song appears on the upcoming *Light Information* LP, due September 8th on [Flemish Eye](http://www.flemisheye.com/) in Canada and [Sub Pop](https://www.subpop.com/) elsewhere. You can find comments from the artist on the video's production, along with a list of upcoming fall tour dates, at [Sidewalk Hustle](http://www.sidewalkhustle.com/chad-vangaalen-shares-pine-and-clover-video/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WQqTFJdNpZI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
