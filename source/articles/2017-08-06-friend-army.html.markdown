@@ -9,8 +9,6 @@ description: The Burning Hell return, Drew Thomson's new solo LP, new music from
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wTu5HXq4D-Q?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-[Watch: The Burning Hell - "Friend Army" @ YouTube](https://www.youtube.com/watch?v=wTu5HXq4D-Q)
-
 *Revival Beach* was recorded and mixed by Al Harle at [Big Jelly Studios](http://www.bigjellystudios.com/) in Ramsgate, UK this past June. Look for a September 29th release on [BB*ISLAND](http://bbislandmusic.com/shop/the-burning-hell-revival-beach-vinyl-cd). You can check out the cover art, track listing, and more over at the label's website.
 
 Speaking of The Burning Hell, a frequent member in recent years has been Peterborugh's [Nick Ferrio](http://www.nickferrio.com/). While Nick's taking a paternity leave from the group for this LP, he does have a collection of his own music that's also set for a September 29th release. Ferrio's new 10 song record is titled *Soothsayer* and was recorded with James McKenty in Peterborough with [Sean Conway](https://seanconway.bandcamp.com/) on bass and [Brandon Munro](https://brandonmunro.bandcamp.com/) on drums. There's no audio to share from this one yet, but expect it soon.
@@ -24,15 +22,11 @@ Remember all the speculation last week with regards to the tenth anniversary of 
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=761993831/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://drewthomson.bandcamp.com/album/the-drew-thomson-foundation-vol-1-huh-its-generally-pretty-empty-in-here">The Drew Thomson Foundation Vol 1: Huh, it&#39;s generally pretty empty in here by The Drew Thomson Foundation</a></iframe>
 
-[Listen: The Drew Thomson Foundation Vol 1 @ BandCamp](https://drewthomson.bandcamp.com/)
-
 Ottawa pop-punk group [The Riptides](http://www.theriptides.com/) are gearing up for a September 12th release of their new 18 song full length *Canadian Graffiti*. Portland's [Something To Do Records](http://somethingtodorecords.storenvy.com/) will be handling the LP, which is limited to 500. The band recorded at [Sonic Iguana](http://soniciguana.com/) studios with Mass Giorgini (Squirtgun, Screeching Weasel, Common Rider) and the album features art by Archie Comics' legend Dan Parent. The sunny lead single, complete with doo-wop harmonies, is titled "Goodbye Hawaii" and it's streaming now via [Dying Scene](http://dyingscene.com/news/the-riptides-pop-punk-announce-new-album-canadian-graffiti-stream-new-track-goodbye-hawaii/).
 
 Toronto's [Weaves](https://www.weavesband.com/), with their Polaris shortlist slot and prominent festival appearances this summer, are having a bit of a limelight moment. The band's taken the opportunity to announce their sophomore LP, *Wide Open*. The record's due on October 6th via [Buzz Records](http://buzzrecords.ca/) in Canada, [Kanine](http://kaninerecords.com/) in the States, and [Memphis Industries](http://www.memphis-industries.com/) overseas. The 11 song album opens with "#53," which has a bit of a soaring new wave thing going on. Check it out below. The album art, full track listing, and international tour dates running through the end of November can be found at [Pitchfork](http://pitchfork.com/news/weaves-announce-new-album-wide-open-share-new-song-53-listen/).
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/334967625&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-[Listen: Weaves - "#53" @ SoundCloud](https://soundcloud.com/weavesmusic/weaves-53)
 
 From atop Weaves' mountain of good will you can probably wave at [Partner](http://partnerband.tumblr.com/) over on their own peak. The Windsor-via-Sackville rock band seems to be doing just about everything right in the lead up to *In Search of Lost Time* this fall. Everything the group's released so far has been enormously fun and the new single "Play The Field" continues that trend. The song's featured in a new music video directed by Lesley Marshall and filmed at the University of Windsor. Josée Caron described the new track:
 
@@ -44,13 +38,9 @@ Caron and Niles provided some further background on their writing process in an 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/81gPPWA58m0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-[Watch: Partner - "Play the Field" @ YouTube](https://www.youtube.com/watch?v=81gPPWA58m0)
-
 Red Deer, Alberta skate-punk act [Trashed Ambulance](https://trashedambulance.bandcamp.com/) announced a new EP for release at the end of August on Montreal's [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/). *Instant* will be the band's second EP of the year, following *A Dime For Every Time* in May. It features two new tracks ("Kooby" and "12 Inches of Christmas") along with three re-recorded songs that originally appeared on the band's 2016 release *Blurry Thoughts*.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3611368799/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thousandislandsrecords.bandcamp.com/album/instant">Instant by Trashed Ambulance</a></iframe>
-
-[Listen: Trashed Ambulance - "Kooby" @ BandCamp](https://thousandislandsrecords.bandcamp.com/album/instant)
 
 Montreal melodic pop-punk act [Lost Love](https://lostlove.bandcamp.com/) have announced a set of August tour dates in Quebec and Ontario. Punknews has the [dates listed](https://www.punknews.org/article/64395/lost-love-maladroit-canada). The band will be taking Parisian punk act Maladroit along for the trip. Lost Love last released *Comfortable Scars* on [Stomp](http://www.stomprecords.com/) in 2016.
 
@@ -62,10 +52,6 @@ Montreal's [Dutchess Says](https://duchesssays.bandcamp.com/) are FME veterans, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZjvnmiqmXQY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-[Watch: Dutchess Says - "Negative Thoughts" @ YouTube](https://www.youtube.com/watch?v=ZjvnmiqmXQY)
-
 Also hailing from Montreal, [Chocolat](https://chocolatmtl.bandcamp.com/) is currently supporting their third full length, *Rencontrer Looloo*. The band's latest effort fully embraces the weird extremes of the psych-rock spectrum, complete wit a narrative that follows interdimensional space gurus and the like. Musically Chocolat shift often from charging hard rock to danceable grooves, taking as many genre twists over the course of the record as their trippy lyrical concept allows. The album was released this past November by [Dare to Care](http://www.daretocarerecords.com/), [Beyond Beyond is Beyond](http://beyondbeyondisbeyond.com/), and [Teenage Menopause](https://teenagemenopause.bandcamp.com/). At FME the band will play Cabaret de la dernière on Friday, September 1st.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XkZehXmNwiQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-[Watch: Chocolat - "Ah ouin" @ YouTube](https://www.youtube.com/watch?v=ZjvnmiqmXQY)
