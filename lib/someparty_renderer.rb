@@ -36,8 +36,29 @@ class SomePartyRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
   end
 
   def link(link, title, content)
+
+    # Below embedded media I want to insert a simple link
+    # to the source, which we'll use primarily in the emails
+    # but don't want to take up too much space on the web
+    # This type of link we'll detect in the markdown if it has
+    # a title that starts with "#", which is a little kludgy but
+    # doesn't break the source Markdown
+
+    css_class = 'black no-underline fw4 bb b--black'
+
+    if title
+      if title.start_with?('#')
+        css_class = 'black no-underline fw4 db tc f6 nt3'
+        if title.length > 1
+          title[0] = ''
+        else
+          title = nil
+        end
+      end
+    end
+
     if !@local_options[:no_links]
-      attributes = { title: title, class: 'black no-underline fw4 bb b--black', target: '_blank' }
+      attributes = { title: title, class: css_class, target: '_blank' }
       attributes.merge!(@local_options[:link_attributes]) if @local_options[:link_attributes]
       scope.link_to(content, link, attributes)
     else
