@@ -15,7 +15,7 @@ I exist outside the Canadian independent music establishment, both geographicall
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=126357830/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://dontbothermusic.bandcamp.com/track/culture-war-donner-party">Culture War Donner Party by Don&#39;t Bother</a></iframe>
 
-[Listen: Don't Bother - "Culture War Donner Party" @ BandCamp](https://www.punknews.org/article/64578/dont-bother-debuts-with-culture-war-donner-party "#")
+[Listen: Don't Bother - "Culture War Donner Party" @ BandCamp](https://dontbothermusic.bandcamp.com/track/culture-war-donner-party "#")
 
 Don't Bother makes their live debut in Toronto this fall, where they'll open for Atlanta's Omni with the Sulks on November 9th at Smiling Buddha.
 
