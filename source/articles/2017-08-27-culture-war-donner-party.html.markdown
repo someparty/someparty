@@ -17,7 +17,7 @@ I exist outside the Canadian independent music establishment, both geographicall
 
 [Listen: Don't Bother - "Culture War Donner Party" @ BandCamp](https://dontbothermusic.bandcamp.com/track/culture-war-donner-party "#")
 
-Don't Bother makes their live debut in Toronto this fall, where they'll open for Atlanta's Omni with the Sulks on November 9th at Smiling Buddha.
+Don't Bother makes their [live debut](https://www.facebook.com/events/132069460741631/) in Toronto this fall, where they'll open for Atlanta's Omni with the Sulks on November 9th at Smiling Buddha.
 
 ##Of Note
 
