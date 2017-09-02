@@ -5,19 +5,33 @@ class SomePartyRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
 
   def block_html(raw_html)
     doc = Nokogiri::HTML(raw_html)
+
+    # The lazyload class triggers the lazysizes.js loader to prevent all media
+    # from loading on page load. The src in an inframe has to be replaced with
+    # data-src as well.
+
+    doc.search('iframe').each do |iframe|
+      iframe['data-src'] = iframe['src']
+      iframe.remove_attribute('src')
+    end
+
     if raw_html.include? 'youtube'
-      doc.css('iframe').add_class('aspect-ratio--object')
+      doc.css('iframe').add_class('aspect-ratio--object lazyload')
       format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
              doc.to_html)
     elsif raw_html.include? 'instagram'
       doc.css('blockquote').add_class('dib tl')
+      doc.css('iframe').add_class('lazyload')
       format("<div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
     elsif raw_html.include? 'twitter-tweet'
       doc.css('blockquote').add_class('dib tl')
+      doc.css('iframe').add_class('lazyload')
       format("<div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
     elsif raw_html.include? 'bandcamp'
+      doc.css('iframe').add_class('lazyload')
       format("<div class='center tc'>%s</div>", doc.to_html)
     else
+      doc.css('iframe').add_class('lazyload')
       format("<div class='center'>%s</div>", doc.to_html)
     end
   end

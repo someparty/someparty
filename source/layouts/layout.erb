@@ -13,6 +13,8 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <%= javascript_include_tag "lazysizes.min.js" %>
+
     <%= auto_display_meta_tags %>
 
     <%= favicon_tag 'images/icons/favicon.ico' %>
@@ -592,8 +594,20 @@
       .instagram-media {
           margin: 0px auto!important;
       }
-          </style>
-        </head>
+
+      .lazyload,
+      .lazyloading {
+        opacity: .2;
+        background: black;
+      }
+
+      .lazyloaded {
+        opacity: 1;
+        transition: opacity 300ms;
+      }
+
+    </style>
+  </head>
   <body class="f3 ma0 fw3">
 
     <noscript>
