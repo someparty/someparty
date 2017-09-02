@@ -13,7 +13,7 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <%= javascript_include_tag "lazysizes.min.js" %>
+    <%= javascript_include_tag "lazysizes.min.js", :async => true %>
 
     <%= auto_display_meta_tags %>
 
@@ -28,8 +28,6 @@
     <% end %>
 
     <%= favicon_tag "images/icons/android-chrome-192x192.png", rel: 'icon', type: 'image/png', sizes: "192x192" %>
-
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet">
 
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 
