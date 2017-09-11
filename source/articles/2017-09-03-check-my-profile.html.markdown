@@ -31,7 +31,7 @@ Also this week, [Buzz Records](http://buzzrecords.ca/) shared details on the fir
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VGypQ7EIYZk" frameborder="0" allowfullscreen></iframe>
 
-[Listen: Casper Skulls - "Brother" @ YouTube](https://www.youtube.com/watch?v=atq0SG4ocsU "#")
+[Listen: Casper Skulls - "You Can Call Me Allocator" @ YouTube](https://www.youtube.com/watch?v=VGypQ7EIYZk "#")
 
 You can find tour dates and the cover art with the announcement. The band will be playing shows with Julie & The Wrong Guys in Ontario and will appear at both POP Montreal and the Halifax Pop Explosion before dropping into the States.
 
@@ -67,7 +67,7 @@ Speaking of Tough Age, the band recently announced that they've formed a label c
 
 [Watch: Beliefs - "Comb" @ YouTube](https://www.youtube.com/watch?v=2ObrrziZvB0 "#")
 
-Toronto hardcore group [Twin Rivals](https://twinrivals.bandcamp.com/), who recently signed to Long Island's [State Of Mind Recordings](http://www.stateofmindrecordings.com/), have released a new sign titled "Your Light." It will appear on the band's upcoming full length *On Tilt*, which is due out in the Spring of 2018.
+Toronto hardcore group [Twin Rivals](https://twinrivals.bandcamp.com/), who recently signed to Long Island's [State Of Mind Recordings](http://www.stateofmindrecordings.com/), have released a new song titled "Your Light." It will appear on the band's upcoming full length *On Tilt*, which is due out in the Spring of 2018.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3310713983/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://twinrivals.bandcamp.com/track/your-light">Your Light by Twin Rivals</a></iframe>
 
@@ -76,4 +76,4 @@ Toronto hardcore group [Twin Rivals](https://twinrivals.bandcamp.com/), who rece
 
 I'm pretty excited to welcome Toronto's [Bovine Sex Club](http://www.bovinesexclub.com/) on board as our September sponsor. I remember seeing the Bovine for the first time when I would take school trips into the city, and the dramatic junk-art exterior of the place was both fascinating and a little scary.  The iconic Queen Street West bar and live music venue has a number of shows coming up this fall, including Seas (members of Moneen) on [September 15](http://www.bovinesexclub.com/website/viewevent.php?id=1937) and the Plan 37 album release on [September 23](http://www.bovinesexclub.com/website/viewevent.php?id=1936).
 
-Finally, if you're looking for something compelling to ponder over this week you should absolutely devote some time to this piece at Noisey by Toronto writer [Graham Isador](https://twitter.com/presgang). Titled "[We Talked to Artists About How Sobering Up Changed Their Work](https://www.vice.com/en_ca/article/xwwm33/we-talked-to-artists-about-how-sobering-up-changed-their-work)," it features discussions with a number of artists on the intersection of substance abuse and creative expression, including a pretty revealing chat with [Drew Thomson](https://drewthomson.bandcamp.com) of London, Ontario's [Single Mothers](https://singlemothersband.bandcamp.com/).
+Finally, if you're looking for something compelling to ponder over this week you should absolutely devote some time to this piece at Vice by Toronto writer [Graham Isador](https://twitter.com/presgang). Titled "[We Talked to Artists About How Sobering Up Changed Their Work](https://www.vice.com/en_ca/article/xwwm33/we-talked-to-artists-about-how-sobering-up-changed-their-work)," it features discussions with a number of artists on the intersection of substance abuse and creative expression, including a pretty revealing chat with [Drew Thomson](https://drewthomson.bandcamp.com) of London, Ontario's [Single Mothers](https://singlemothersband.bandcamp.com/).
