@@ -31,13 +31,13 @@ The Polaris gala also saw the debut of a new song from Toronto's [Weaves](https:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mq_gVwu6gf4" frameborder="0" allowfullscreen></iframe>
 
-[Watch: Weaves - "Scream" ft. Tanya Tagaq](https://www.youtube.com/watch?v=Mq_gVwu6gf4 "#")
+[Watch: Weaves - "Scream" ft. Tanya Tagaq @ YouTube](https://www.youtube.com/watch?v=Mq_gVwu6gf4 "#")
 
 I saw [Partner](http://partnerband.tumblr.com/) play last Friday in Hamilton and it was wonderful. A few days earlier the Windsor-based band joined [George Stroumboulopoulos](http://strombo.com/) at his Toronto home to record a session for [The Strombo Show](http://strombo.com/radio/) (which was apparently their first radio session ever). The band performs their song-of-the-summer "Everybody Knows" and "Big Gay Hands" along with a cover of AC/DC's "Long Way To The Top." The five-piece is supporting their first full-length *In Search of Lost Time*, which came out earlier this month on [You’ve Changed Records](http://youvechangedrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_z_4n98GCwQ" frameborder="0" allowfullscreen></iframe>
 
-[Watch: Partner on House of Strombo](https://www.youtube.com/watch?v=_z_4n98GCwQ "#")
+[Watch: Partner on House of Strombo @ YouTube](https://www.youtube.com/watch?v=_z_4n98GCwQ "#")
 
 [METZ](http://www.metzztem.com/)' *Strange Peace* is now out on [Royal Mountain](https://www.royalmountainrecords.com/) and [Sub Pop](https://www.subpop.com/). The release came alongside a new video for the song "Cellophane," directed by Shayne Ehman, as well as an interview with [Vish Khanna](http://vishkhanna.com/) at [Exclaim](http://exclaim.ca/music/article/inside_the_making_of_metzs_strange_peace_with_steve_albini). There's something about that interview, which focuses a non-trivial portion of the word count to Steve Albini's eating habits (or lack thereof), that I find incredibly entertaining.
 
@@ -86,7 +86,9 @@ London, Ontario's [Single Mothers](https://singlemothersband.bandcamp.com/) have
 
 [Watch: Single Mothers - "Leash" @ YouTube](https://www.youtube.com/watch?v=s_4S8Ifabko "#")
 
-Finally, it's the end of summer and what better way to wrap it up than with [Spencer Burton](https://www.spencerburtonmusic.com/)'s song of the same name. The video by Colin Medley features the former Attack In Black member frolicking with a pig and brandishing a katana, which is how everyone in Niagara traditionally marks the beginning of fall. "End of the Summer" appears on *Songs Of*, another Dine Alone release from earlier this year.
+I'm bewildered on what to say about the trials and tribulations of Ottawa punk band [Zex](https://www.facebook.com/zexzexzexofficial/), but their chaotic week bears mentioning. The band suddenly found themselves with international media recognition when it came to light that a manufacturing error resulted in the A-Side of their album *Uphill Battle* pressed into copies of Beyoncé’s massive 2016 release *Lemonade*. The juxtaposition was magical and everyone had a good laugh. A few days later Zex found themselves dropped from [Magic Bullet Records](http://www.magicbulletrecords.com/). The attention from the Beyoncé mix-up brought to light multiple sexual assault allegations against Zex guitarist Jo Capitalcide and the label pulled the plug. There's a war of words underway on Facebook and elsewhere from people involved in the band's circle, but to my knowledge no charges have been laid against anyone regarding these allegations. Yikes.
+
+On a more pleasant note, it's the end of summer and what better way to wrap it up than with [Spencer Burton](https://www.spencerburtonmusic.com/)'s song of the same name. The video by Colin Medley features the former Attack In Black member frolicking with a pig and brandishing a katana, which is how everyone in Niagara traditionally marks the beginning of fall. "End of the Summer" appears on *Songs Of*, another Dine Alone release from earlier this year.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ygwNbAHz0ww" frameborder="0" allowfullscreen></iframe>
 
