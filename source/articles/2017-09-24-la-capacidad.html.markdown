@@ -21,7 +21,7 @@ Don't forget that [Godspeed You! Black Emperor](http://cstrecords.com/gybe/) did
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1554173777/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=128977105/transparent=true/" seamless><a href="http://lidopimienta.bandcamp.com/album/la-papessa">La Papessa by Lido Pimienta</a></iframe>
 
-[Listen: Lodo Pimienta - "La Capacidad" @ BandCamp](https://lidopimienta.bandcamp.com/track/la-capacidad "#")
+[Listen: Lido Pimienta - "La Capacidad" @ BandCamp](https://lidopimienta.bandcamp.com/track/la-capacidad "#")
 
 ##Of Note
 
