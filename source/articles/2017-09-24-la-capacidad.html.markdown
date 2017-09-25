@@ -56,15 +56,17 @@ Self-described bummer-pop band [No Frills](https://www.facebook.com/nofrillstheb
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W-z-Mq37g4Y" frameborder="0" allowfullscreen></iframe>
 
-[Listen: No Frills - "Vegetable Tray" @ YouTube](https://www.youtube.com/watch?v=W-z-Mq37g4Y)
+[Listen: No Frills - "Vegetable Tray" @ YouTube](https://www.youtube.com/watch?v=W-z-Mq37g4Y "#")
 
 Discordant Toronto's trio [WHIMM](https://whimm.bandcamp.com/) premiered a new video at [Post-Punk.com](http://www.post-punk.com/toronto-post-punk-trio-whimm-demonstrate-the-kuleshov-effect-in-their-video-for-second-sound/) for the song "Second Sound." The clip features appearances from a number of Toronto bands (HSY, Dilly Dally, Hooded Fang, and Cindy Lee) and is said to demonstrate the Kuleshov effect, described in the premiere as "a psychological phenomenon by which viewers derive more meaning from the interaction of two sequential shots rather than a single shot in isolation." Got that? You can check it out below.
 
 WHIMM's debut album is titled *A Stare Ajar* and will arrive on October 27 on [Pleasence Records](http://www.pleasencerecords.com/). The record was produced by Dean Tzenos of [Odonis Odonis](http://www.odonisodonis.com/).
 
-[Watch: WHIMM - "Second Sound" @ YouTube](https://www.youtube.com/watch?v=25MsxUCEegk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/25MsxUCEegk" frameborder="0" allowfullscreen></iframe>
 
-Flipping the mood completely, there's a new video from [Nardwuar](http://www.nardwuar.com/)'s pop-punk crew [The Evaporators](https://theevaporators.bandcamp.com) for the song "Chuckathanks," which appears on the band's recent Mint](http://www.mintrecs.com/)-released *Ogopogo Punk* album.
+[Watch: WHIMM - "Second Sound" @ YouTube](https://www.youtube.com/watch?v=25MsxUCEegk "#")
+
+Flipping the mood completely, there's a new video from [Nardwuar](http://www.nardwuar.com/)'s pop-punk crew [The Evaporators](https://theevaporators.bandcamp.com) for the song "Chuckathanks," which appears on the band's recent [Mint](http://www.mintrecs.com/)-released *Ogopogo Punk* album.
 
 There's an entirely distracting amount of Nardwuar content floating around this week as the prolific interviewer and Canadian music historian celebrates 30 years of his radio show on Vancouver's [CiTR](http://www.citr.ca/). At some point a, supercut of all his "Doot doo" sign-offs came across my desk and I had to pause the new Godspeed record to indulge in that. Of all that content, the feature posted at [The Outline](https://theoutline.com/post/2305/nardwuar-the-most-mysterious-man-in-music-journalism) is pretty cool in particular.
 
