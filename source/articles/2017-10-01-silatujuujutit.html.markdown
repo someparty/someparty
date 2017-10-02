@@ -2,7 +2,7 @@
 title: Silatujuujutit
 date: 2017-10-01
 author: adam@someparty.ca (Adam White)
-description: x
+description: Nunavut Music Week. Booji Boys cover Gang Green. Videos from Teenanger, the Riptides, and METZ live at the CBC.
 ---
 
 The inaugural [Nunavut Music Week](http://www.cbc.ca/news/canada/north/nunavut-music-week-1.4313747) just wrapped up in Iqaluit. The event, organized by local label [Aakuluk Music](http://www.aakulukmusic.com/), is trying to build bridges between local talent and the music industry infrastructure to the south.
