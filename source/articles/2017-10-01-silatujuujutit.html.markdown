@@ -36,7 +36,7 @@ Toronto's [Teenanger](https://teenanger.bandcamp.com/) have posted a video for "
 
 [Watch: Teenanger - "The Night Shift" @ YouTube](https://www.youtube.com/watch?v=sZVGd_elzE0&feature=youtu.be "#")
 
-[METZ](http://www.metzztem.com/) recently took part in a live studio session as part of [CBC Music](http://www.cbcmusic.ca/)'s First Play Live series. The Toronto three-piece noise-punk band's joined at the performance by [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh, who both mixed the session and pays keyboard on a few songs. The band recorded the session in support of their newly released full-length *Strange Peace* ( [Royal Mountain](https://www.royalmountainrecords.com/)/[Sub Pop](https://www.subpop.com/)) and play three songs from that record ("Drained Lake", "Raw Materials", and "Lost in the Blank City") along with their single from last year, "Eraser."
+[METZ](http://www.metzztem.com/) recently took part in a live studio session as part of [CBC Music](http://www.cbcmusic.ca/)'s First Play Live series. The Toronto three-piece noise-punk band's joined at the performance by [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh, who both mixed the session and pays keyboard on a few songs. The band recorded the session in support of their newly released full-length *Strange Peace* ([Royal Mountain](https://www.royalmountainrecords.com/)/[Sub Pop](https://www.subpop.com/)) and play three songs from that record ("Drained Lake", "Raw Materials", and "Lost in the Blank City") along with their single from last year, "Eraser."
 
 <iframe src="//www.cbc.ca/i/caffeine/syndicate/?mediaId=1050777667538" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
@@ -46,7 +46,7 @@ This week Niagara-on-the-Lake post-hardcore/emo group [Heavy Hearts](http://heav
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/axm87gN2XyU" frameborder="0" allowfullscreen></iframe>
 
-[Listen: Heavy Hearts - "No Heaven" @ YouTube](https://www.youtube.com/watch?v=sZVGd_elzE0&feature=youtu.be "#")
+[Listen: Heavy Hearts - "No Heaven" @ YouTube](https://www.youtube.com/watch?v=axm87gN2XyU "#")
 
 [The FADER](http://www.thefader.com/2017/09/28/chastity-chains-premiere) premiered "Chains," a sludgy new song from Whitby, Ontario's [Chastity](https://chastitysongs.bandcamp.com). Brooklyn's [Captured Tracks](http://www.capturedtracks.com/) will release the song as the title track of a new five-song EP, due out this October. Chastity lead Brandon Williams commented on the new material, which is quite a few degrees angrier than the *Peroxide* single from January:
 
