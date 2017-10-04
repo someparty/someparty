@@ -38,7 +38,7 @@ Toronto's [Teenanger](https://teenanger.bandcamp.com/) have posted a video for "
 
 [METZ](http://www.metzztem.com/) recently took part in a live studio session as part of [CBC Music](http://www.cbcmusic.ca/)'s First Play Live series. The Toronto three-piece noise-punk band's joined at the performance by [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh, who both mixed the session and pays keyboard on a few songs. The band recorded the session in support of their newly released full-length *Strange Peace* ([Royal Mountain](https://www.royalmountainrecords.com/)/[Sub Pop](https://www.subpop.com/)) and play three songs from that record ("Drained Lake", "Raw Materials", and "Lost in the Blank City") along with their single from last year, "Eraser."
 
-<iframe src="//www.cbc.ca/i/caffeine/syndicate/?mediaId=1050777667538" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.cbc.ca/i/caffeine/syndicate/?mediaId=1050777667538" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 [Watch: METZ @ CBC First Play Live](http://www.cbcmusic.ca/posts/19083/first-play-live-metz-strange-peace "#")
 
