@@ -17,7 +17,7 @@ If you've not yet checked out Century Palm, the band has a pair of 7" EPs and a 
 
 [Watch: Century Palm - "New Creation" @ YouTube](https://www.youtube.com/watch?v=_-6p-oeAyBY "#")
 
-Of the group's lineup, everyone's at work on something new. Penny Clark and Jesse Locke are two-thirds of [Tough Age](https://tough-age.bandcamp.com/) and are set to release their new LP *Shame* on the 20th. Paul Lawton recently unveiled his new band [Don't Bother](http://dontbothermusic.bandcamp.com). I'm not entirely certain what Andrew Payne's up to, but the former [Zebrassieres](https://zebrassieres.bandcamp.com/) frontman's sure to re-emerge sooner or later with something new.
+Of the group's lineup, everyone's at work on something new. Penny Clark and Jesse Locke are two-thirds of [Tough Age](https://tough-age.bandcamp.com/) and are set to release their new LP *Shame* on the 20th. Paul Lawton recently unveiled his new band [Don't Bother](http://dontbothermusic.bandcamp.com). I'm not entirely certain what Andrew Payne's up to, but the former [Zebrassieres](https://zebrassieres.bandcamp.com/) frontman's sure to re-emerge sooner or later with something new. (Update: Andrew's making electronic music solo as [Vanity Phase](https://vanityphase.bandcamp.com/)).
 
 ## Of Note
 
