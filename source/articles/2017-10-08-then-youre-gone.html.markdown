@@ -27,11 +27,11 @@ Speaking of [Tough Age](https://tough-age.bandcamp.com/), I bamboozled my family
 
 [Listen: Tough Age - "Piquant Frieze" @ SoundCloud](https://soundcloud.com/mint-records/tough-age-piquant-frieze "#")
 
-After a 30 year hiatus, [The Hot Nastys](http://citizenfreak.com/artists/96693-hot-nasties) are back with a (short) new song. "Hey There Girl" will appear on *The Ballad of the Social Blemishes*, an EP set for release soon on [Ugly Pop Records](http://uglypopvinyl.tumblr.com/). The band, notable for featuring a young [Warren Kinsella](http://warrenkinsella.com/) before his career in politics, formed in Calgary as The Social Blemishes in `76, so there's some history wrapped up in that title. You can hear an [outtake](https://www.youtube.com/watch?v=BrdIYOh0i4M) of the EP's title track online now as well.
+After a 30 year hiatus, [The Hot Nasties](http://citizenfreak.com/artists/96693-hot-nasties) are back with a (short) new song. "Hey There Girl" will appear on *The Ballad of the Social Blemishes*, an EP set for release soon on [Ugly Pop Records](http://uglypopvinyl.tumblr.com/). The band, notable for featuring a young [Warren Kinsella](http://warrenkinsella.com/) before his career in politics, formed in Calgary as The Social Blemishes in `76, so there's some history wrapped up in that title. You can hear an [outtake](https://www.youtube.com/watch?v=BrdIYOh0i4M) of the EP's title track online now as well.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkXRBorLZtQ" frameborder="0" allowfullscreen></iframe>
 
-[Watch: The Hot Nastys - "Hey There Girl" @ YouTube](https://www.youtube.com/watch?v=hkXRBorLZtQ&feature=youtu.be "#")
+[Watch: The Hot Nasties - "Hey There Girl" @ YouTube](https://www.youtube.com/watch?v=hkXRBorLZtQ&feature=youtu.be "#")
 
 Toronto's garage-pop act [Twist](https://www.twistofficial.com/) has shared a stylish and cinematic video for the song "Freak" from their recently released [Buzz Records](http://buzzrecords.ca/) EP *Benefits*. It was produced and directed by Jacq Andrade and Brittany Lucas. I suppose it's notable *now* that this was financed by the now-defunct video funding engine MuchFACT, so enjoy this sort of thing while it lasts. In an interview with [Noisey](https://noisey.vice.com/en_ca/article/evpqwj/break-free-from-toxic-relationships-with-twists-freak-video), Twist lead Laura Hermiston commented:
 
