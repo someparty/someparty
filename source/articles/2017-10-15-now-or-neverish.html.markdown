@@ -51,12 +51,8 @@ The Ottawa and Montreal nights of that Flatliners tour will also feature [Single
 
 Another band from London, the punk group [Grievances](https://www.facebook.com/grievanceslondon/), is now streaming their debut full-length *Late Bloomers* at [Dying Scene](http://dyingscene.com/news/ds-exclusive-grievances-premieres-new-album-late-bloomers/). [Chisel Records](http://chiselrecords.com/) is releasing the record this month. The band, which features Danny Kidd of [Wasted Potential](https://wastedpotential.bandcamp.com/), will celebrate the release on [October 30](https://www.facebook.com/events/167748223785660/) when they open the [Sam Coffey](https://samcoffeyandtheironlungs.bandcamp.com/) show in their hometown.
 
-[Listen: Grievances - "Late Bloomers" @ Dying Scene](http://dyingscene.com/news/ds-exclusive-grievances-premieres-new-album-late-bloomers/ "#")
-
 Toronto low-fi indie rock group [Deliluh](https://deliluh.bandcamp.com/) are set to release their second album of 2017 as a cassette on November 9. The album, titled *Linger in the Afterlight*, was actually recorded prior to *Day Catcher*, which was released in July. You can check out the album art and a stream of the record over at [Raw Materials](http://www.rawmaterialsmusic.com/blog/2017/10/9/deliluh-linger-in-the-afterlight-out-november-9-stream-here
 ). Frontman Kyle Knapp brought on a lengthy list of contributors for this set, including Nick Grottick and Jess Gierusz of [Bad Channels](https://badchannels.bandcamp.com/), and [Ostrich Tuning](https://ostrichtuning.bandcamp.com/)'s Ami Spears.
-
-[Listen: Deliluh - "Linger in the Afterlight" @ Raw Materials](http://www.rawmaterialsmusic.com/blog/2017/10/9/deliluh-linger-in-the-afterlight-out-november-9-stream-here "#")
 
 Burlington's [The Penske File](https://thepenskefileband.bandcamp.com/) recently appeared on [Live From The Rock Room](https://www.livefromtherockroom.com/), a studio performance video series run by Mike Felumlee of the Smoking Popes. The trio appeared in the Westmont, IL studio to perform their new single "Come What May." The track will likely end up on the band's next full-length for Montreal's [Stomp Records](http://www.stomprecords.com/).
 
