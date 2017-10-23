@@ -33,7 +33,7 @@ This week Ian Campeau, one of the founding members of Ottawa's [A Tribe Called R
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">*Major life announcement* <a href="https://t.co/EvYAJldnWv">pic.twitter.com/EvYAJldnWv</a></p>&mdash; Migizi Bebaayaad (@deejayndn) <a href="https://twitter.com/deejayndn/status/920636940239671296?ref_src=twsrc%5Etfw">October 18, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-An article in the [Ottawa Citizen](http://ottawacitizen.com/entertainment/local-arts/dj-ndn-announces-departure-from-a-tribe-called-red) states that the band's remaining members, Tim “2oolman” Hill  and Ehren “Bear Witness” Thomas, had reworked their set as a duo for their next immediate tour dates. The band's official statement on Campeau's departure confirmed that the project would continue:
+An article in the [Ottawa Citizen](http://ottawacitizen.com/entertainment/local-arts/dj-ndn-announces-departure-from-a-tribe-called-red) states that the band's remaining members, Tim “2oolman” Hill  and Ehren “Bear Witness” Thomas, had reworked their set as a duo for their next immediate tour dates. The band's official word on Campeau's departure confirmed that the project would continue:
 
 > "The artistic and political message of A Tribe Called Red remains unchanged and we’re looking forward to create more music, art and positive moments for the fans, and particularly for the indigenous youth.”
 
@@ -60,13 +60,13 @@ Montreal's [Laura Sauvage](http://www.laurasauvage.com/) has released a video fr
 
 [Watch: Laura Sauvage - "Alien (Anything Like It, Have You?)" @ YouTube](https://www.youtube.com/watch?v=2SdN-gzBFhA&feature=youtu.be "#")
 
-[Sam Coffey and the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) have released a video for the song "Pressure" from their recent [Dine Alone](http://dinealonerecords.com/) / [Burger Records](http://burgerrecords.com/) self-titled full length. The video was directed, edited, and produced by Nick Benidt, and was shot entirely on a Fischer Price PXL-2000. That's a toy camera from 1978 that records video to audio cassettes. For this shoot, they recorded over a cassette copy of the band's previous full-length *Gates of Hell*.
+[Sam Coffey and the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) have released a video for the song "Pressure" from their recent [Dine Alone](http://dinealonerecords.com/)/[Burger Records](http://burgerrecords.com/) self-titled full length. The video was directed, edited, and produced by Nick Benidt, and was shot entirely on a Fischer Price PXL-2000. That's a toy camera from 1978 that records video to audio cassettes. For this shoot, they recorded over a cassette copy of the band's previous full-length *Gates of Hell*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KAtZP6tzgmc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 [Watch: Sam Coffey and the Iron Lungs - "Pressure" @ YouTube](https://www.youtube.com/watch?v=KAtZP6tzgmc&app=desktop "#")
 
-Toronto indie-rock group [Casper Skulls](https://casperskulls.bandcamp.com/) continue to preview their fast-approaching [Buzz Records](http://buzzrecords.ca/) full-length *Mercy Works* with new media. This week they released a video for the song "Primeval," which looks at the rising cost of living in cities like Toronto. The video contrasts footage shot by Shawn Kosmerly of downtown Toronto the River and Sky Festival outside of Sudbury. You can read more at the [Consequence of Sound](https://consequenceofsound.net/2017/10/casper-skulls-lament-the-rising-cost-of-living-on-new-song-primeval-stream/) premiere.
+Toronto indie-rock group [Casper Skulls](https://casperskulls.bandcamp.com/) continue to preview their fast-approaching [Buzz Records](http://buzzrecords.ca/) full-length *Mercy Works* with new media. This week they released a video for the song "Primeval," which looks at the rising cost of living in cities like Toronto. The video contrasts footage shot by Shawn Kosmerly of downtown Toronto with the River and Sky Festival outside of Sudbury. You can read more at the [Consequence of Sound](https://consequenceofsound.net/2017/10/casper-skulls-lament-the-rising-cost-of-living-on-new-song-primeval-stream/) premiere.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_pzzFYiOUZU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
