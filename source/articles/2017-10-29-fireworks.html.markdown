@@ -14,7 +14,7 @@ Outrage and denunciations boiled on social media for a few days, with Keeler eve
 
 >It’s an earnest and humble statement and I believe him. Kudos on responding in a timely manner. When the leader of The Proud Boys claim you as one of their own, you probably should denounce that shit. I, as the author of this piece, do not think Jesse Keeler is a Proud Boy or alt-right. He just seems like a giant dummy that hung out with some sketchy people and definitely said some sketchy shit on Gavin’s podcast
 
-Whether that'll be enough to salvage the two-piece Toronto rock band's reputation among their fanbase remains to be seen. I'm not yet sure what I think. I'd prefer to take people at their word, and I don't personally know the people involved, but in abstract the "morbid curiosity" defence is always going to feel a little thin.
+Whether that'll be enough to salvage the two-piece Toronto rock band's reputation among their fanbase remains to be seen. I'm not yet sure what I believe. I'd prefer to take people at their word, and I don't personally know the people involved, but in abstract the "morbid curiosity" defence is always going to feel a little thin.
 
 That wasn't the only bit of ugliness in the Canadian music news this week. On Friday the [Halifax Pop Explosion](https://www.halifaxpopexplosion.com/) had to issue an apology for the actions of a volunteer, who interrupted a performance from [Polaris Music Prize](https://polarismusicprize.ca/) winner [Lido Pimienta](https://lidopimienta.bandcamp.com/) with what the festival has labelled overt racism.
 
@@ -36,7 +36,7 @@ It's been a couple years since [Steven Lambke](http://stevenlambke.com/)'s last 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347548594&amp;color=%2300aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-[Listen: Steve Lambke - "Fireworks" @ SoundCloud](https://soundcloud.com/steven-lambke/fireworks "#")
+[Listen: Steven Lambke - "Fireworks" @ SoundCloud](https://soundcloud.com/steven-lambke/fireworks "#")
 
 Steven's over in Europe [touring](https://www.facebook.com/sedatebookings/photos/a.231526063534212.58656.229711280382357/1627381840615287/?type=3&theater) as support for [Daniel Romano](http://www.danielromanomusic.com/)'s Jazz Police through November. After the You've Changed co-owners wrap that trip, the Cons will be back together for a pair of shows at the Horseshoe Tavern in December as part of the venue's 70th-anniversary celebrations.
 
