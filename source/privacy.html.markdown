@@ -7,7 +7,7 @@ The Some Party newsletter is distributed by [Tiny Letter](http://tinyletter.com)
 
 In short, they won't sell your email address or utilize that information for anything other than the operation of the email list.
 
-You're free to unsubscribe from Some Party at any time. You're also free to avoid the whole 3rd party email service by subscribing the [Some Party RSS feed](/feed.xml) and rolling your own. The content of every newsletter will be posted there as well. I'll also be publishing the archives on [Medium](https://medium.com/some-party).
+You're free to unsubscribe from Some Party at any time. You're also free to avoid the whole 3rd party email service by subscribing the [Some Party RSS feed](/feed.xml) and rolling your own. The content of every newsletter will be posted there as well.
 
 The code for Some Party is published at [GitHub](https://github.com/someparty/someparty) and available under an MIT license.
 
