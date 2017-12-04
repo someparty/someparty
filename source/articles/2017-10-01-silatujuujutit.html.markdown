@@ -62,7 +62,7 @@ This week Niagara-on-the-Lake post-hardcore/emo group [Heavy Hearts](http://heav
 
 [Watch: The Riptides - "Goodbye Hawaii" @ YouTube](https://www.youtube.com/watch?time_continue=20&v=uh3lUmLnv3o "#")
 
-Toronto indie-rock group [Casper Skulls](https://casperskulls.bandcamp.com/) have released another track from their upcoming [Buzz Records](http://buzzrecords.ca/) full-length *Mercy Works*. "Lingua Franca" features Melanie St. Pierre on lead vocals. You can head to [Noisey](https://noisey.vice.com/en_us/article/pakqgb/casper-skulls-seek-connection-on-atmospheric-new-single-lingua-franca) to read her thoughts on the track. Like the previous preview of the album, this track finds the band eschewing the aggression of their first EP for a more pensive take. *Mercy Works* is out on November 3rd.
+Toronto indie rock group [Casper Skulls](https://casperskulls.bandcamp.com/) have released another track from their upcoming [Buzz Records](http://buzzrecords.ca/) full-length *Mercy Works*. "Lingua Franca" features Melanie St. Pierre on lead vocals. You can head to [Noisey](https://noisey.vice.com/en_us/article/pakqgb/casper-skulls-seek-connection-on-atmospheric-new-single-lingua-franca) to read her thoughts on the track. Like the previous preview of the album, this track finds the band eschewing the aggression of their first EP for a more pensive take. *Mercy Works* is out on November 3rd.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U67fsCG0H_0" frameborder="0" allowfullscreen></iframe>
 

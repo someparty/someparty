@@ -41,7 +41,7 @@ Toronto's garage-pop act [Twist](https://www.twistofficial.com/) has shared a st
 
 [Watch: Twist - "Freak" @ YouTube](https://www.youtube.com/watch?time_continue=6&v=MS9i-hKxQn8 "#")
 
-Was the last [Rural Alberta Advantage](http://www.theraa.com/) record as hooky as the material from *The Wild*? 2014 feels like a hundred years ago. Everything the Toronto indie-rock act's released to preview the new record's stuck with me, and "Toughen Up" continues the trend. *The Wild* arrives on October 13th via [Paper Bag](http://paperbagrecords.com/).
+Was the last [Rural Alberta Advantage](http://www.theraa.com/) record as hooky as the material from *The Wild*? 2014 feels like a hundred years ago. Everything the Toronto indie rock act's released to preview the new record's stuck with me, and "Toughen Up" continues the trend. *The Wild* arrives on October 13th via [Paper Bag](http://paperbagrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ChmNW86Qbag" frameborder="0" allowfullscreen></iframe>
 
@@ -83,7 +83,7 @@ Halifax-based garage rock band [Gun Jr.](https://gunjr.bandcamp.com) is gearing 
 
 [Listen: Lo Siento - *Bingo Bango* @ BandCamp](https://lo-siento.bandcamp.com/album/bingo-bango "#")
 
-Montreal indie-rock quartet [Ought](https://internetought.com/) has signed to [Merge Records](https://www.mergerecords.com/) internationally and [Royal Mountain](https://www.royalmountainrecords.com/) here at home for the release of their next LP in 2018. That'll be the band's third, following the Constellation-released *Sun Coming Down* in 2015. Ought is currently on tour in the States and is set to play alongside Waxahatchee throughout November.
+Montreal indie rock quartet [Ought](https://internetought.com/) has signed to [Merge Records](https://www.mergerecords.com/) internationally and [Royal Mountain](https://www.royalmountainrecords.com/) here at home for the release of their next LP in 2018. That'll be the band's third, following the Constellation-released *Sun Coming Down* in 2015. Ought is currently on tour in the States and is set to play alongside Waxahatchee throughout November.
 
 [The Burning Hell](http://www.wearetheburninghell.com/)'s *Revival Beach* is now out, and the band shared a detailed write-up from author Matthew Pateman on the new album, commenting "No one on this planet has ever written anything so in-depth about any of our albums as this." You can read the piece at the [Pateman's Ponderings](https://patemanponders.blogspot.ca/2017/10/revival-beach-by-burning-hell.html) blog. *Revival Beach* was recorded and mixed by Al Harle at [Big Jelly Studios](http://www.bigjellystudios.com/) in Ramsgate, UK this past June and released at the end of September on [BB*ISLAND](http://bbislandmusic.com/shop/the-burning-hell-revival-beach-vinyl-cd).
 

@@ -65,7 +65,7 @@ Montreal's [Laura Sauvage](http://www.laurasauvage.com/) has released a video fr
 
 [Watch: Sam Coffey and the Iron Lungs - "Pressure" @ YouTube](https://www.youtube.com/watch?v=KAtZP6tzgmc&app=desktop "#")
 
-Toronto indie-rock group [Casper Skulls](https://casperskulls.bandcamp.com/) continue to preview their fast-approaching [Buzz Records](http://buzzrecords.ca/) full-length *Mercy Works* with new media. This week they released a video for the song "Primeval," which looks at the rising cost of living in cities like Toronto. The video contrasts footage (shot by Shawn Kosmerly) of downtown Toronto with scenes in nature outside Sudbury at the River and Sky Festival. You can read more at the [Consequence of Sound](https://consequenceofsound.net/2017/10/casper-skulls-lament-the-rising-cost-of-living-on-new-song-primeval-stream/) premiere.
+Toronto indie rock group [Casper Skulls](https://casperskulls.bandcamp.com/) continue to preview their fast-approaching [Buzz Records](http://buzzrecords.ca/) full-length *Mercy Works* with new media. This week they released a video for the song "Primeval," which looks at the rising cost of living in cities like Toronto. The video contrasts footage (shot by Shawn Kosmerly) of downtown Toronto with scenes in nature outside Sudbury at the River and Sky Festival. You can read more at the [Consequence of Sound](https://consequenceofsound.net/2017/10/casper-skulls-lament-the-rising-cost-of-living-on-new-song-primeval-stream/) premiere.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_pzzFYiOUZU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
