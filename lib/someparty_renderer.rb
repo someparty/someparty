@@ -70,7 +70,7 @@ class SomePartyRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
 
     if title
       if title.start_with?('#')
-        css_class = 'black no-underline fw4 db tc f6 nt3'
+        css_class = 'black no-underline fw4 db tc f6 nt3 mb4'
         if title.length > 1
           title[0] = ''
         else

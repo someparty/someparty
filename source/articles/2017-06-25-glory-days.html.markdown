@@ -41,7 +41,7 @@ Extremely low-fi Toronto punk act [Protruders](https://protruders.bandcamp.com) 
 
 Dartmouth, Nova Scotia's [Designosaur](https://designosaur.bandcamp.com) has the worst band name ever, and we just mentioned Pkew Pkew Pkew a few paragraphs up. The three-piece plays 90s style alt rock with a bit of a Sloan vibe. Their new full length *Seattle of the North* was recently released and you can check it out at [BandCamp](https://designosaur.bandcamp.com/album/seattle-of-the-north). They're also playing No Funsiwck in Moncton (ding!).
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=719271834/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://designosaur.bandcamp.com/album/seattle-of-the-north">Seattle of the North by Designosaur</a></iframe>
+<iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=719271834/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://designosaur.bandcamp.com/album/seattle-of-the-north">Seattle of the North by Designosaur</a></iframe>
 
 [New Noise](http://newnoisemagazine.com/video-premiere-new-swears-777/) premiered a video for [New Swears](https://newswears.bandcamp.com/)' song "777" from their newly released *and the Magic of Horses* full length. It was shot by Jordan Wiens, who was behind the camera on the band's 2015 "Stay Gold" video, and revisits the raucous street scene from that outing (although a bit more relaxed this time).
 

@@ -59,7 +59,6 @@ Montreal's [Les Dales Hawerchuk](https://lesdaleshawerchuk.bandcamp.com/), outsi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hbZqFTVozzs" frameborder="0" allowfullscreen></iframe>
 
-Windsor, Ontario native [Paul Jacobs](https://pauljacobs.bandcamp.com/) now calls Montreal home as well. His garage-psyche output is wildly prolific (six full-length albums, along with a pile of EPs and singles, released in just 3 years) and his music is often simultaneously hooky and discordant, trending towards the bizarre. Check out "Born in a Zoo" from 2016's *Pictures, Movies & Apartments* to get a taste. At FME Jacobs plays Friday night in the basement of the Petit Théâtre du Vieux Noranda with NYC punk-jazz combo
-Sunwatchers.
+Windsor, Ontario native [Paul Jacobs](https://pauljacobs.bandcamp.com/) now calls Montreal home as well. His garage-psyche output is wildly prolific (six full-length albums, along with a pile of EPs and singles, released in just 3 years) and his music is often simultaneously hooky and discordant, trending towards the bizarre. Check out "Born in a Zoo" from 2016's *Pictures, Movies & Apartments* to get a taste. At FME Jacobs plays Friday night in the basement of the Petit Théâtre du Vieux Noranda with NYC punk-jazz combo Sunwatchers.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4212434077/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://pauljacobs.bandcamp.com/album/pictures-movies-apartments">Pictures, Movies &amp; Apartments by Paul Jacobs</a></iframe>

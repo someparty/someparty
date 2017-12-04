@@ -81,7 +81,7 @@ A big thanks goes out to Toronto's [Bovine Sex Club](http://www.bovinesexclub.co
 
 A few weeks ago I shared a song from [Don't Bother](http://dontbothermusic.bandcamp.com), a punk five-piece from Toronto that features Paul Lawton ([Century Palm](https://centurypalm.bandcamp.com/), [Ketamines](https://ketamines.bandcamp.com/)), Priya Thomas ([Iroquois Falls](https://iroquoisfalls.bandcamp.com/)), Mark Streeter ([Dorothea Paas](https://dorotheapaas.bandcamp.com/)), and Matt Nish-Lapidus ([Several Futures](https://severalfutures.bandcamp.com/)), along with Ronnie Tee and Marc Holmes. The band recently released a second new song, titled "Keep Up." It's short and sweet, and you can check it out below.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3652123426/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://dontbothermusic.bandcamp.com/album/keep-up">Keep Up! by Don&#39;t Bother</a></iframe>
+<iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3652123426/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://dontbothermusic.bandcamp.com/album/keep-up">Keep Up! by Don&#39;t Bother</a></iframe>
 
 [Listen: Don't Bother - "Keep Up" @ BandCamp](https://dontbothermusic.bandcamp.com/album/keep-up "#")
 

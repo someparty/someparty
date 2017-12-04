@@ -69,7 +69,7 @@ Speaking of Tough Age, the band recently announced that they've formed a label c
 
 Toronto hardcore group [Twin Rivals](https://twinrivals.bandcamp.com/), who recently signed to Long Island's [State Of Mind Recordings](http://www.stateofmindrecordings.com/), have released a new song titled "Your Light." It will appear on the band's upcoming full length *On Tilt*, which is due out in the Spring of 2018.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3310713983/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://twinrivals.bandcamp.com/track/your-light">Your Light by Twin Rivals</a></iframe>
+<iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3310713983/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://twinrivals.bandcamp.com/track/your-light">Your Light by Twin Rivals</a></iframe>
 
 [Listen: Twin Rivals - "Your Light" @ BandCamp](https://twinrivals.bandcamp.com/track/your-light "#")
 

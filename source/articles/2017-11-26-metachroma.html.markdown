@@ -13,15 +13,15 @@ Last week Nathan Burger and David O'Connor, the drummer and lead vocalist of Ham
 
 [Listen: Pneumatic Tube @ BandCamp](https://pneumatictube.bandcamp.com/album/pneumatic-tube "#")
 
-Pneumatic Tube's of course not the only outlet for the TV Freaks members. It joins the ensemble [Sweet Dave and the Shallow Graves](https://sweetdaveandtheshallowgraves.bandcamp.com/), who released and toured behind *Mental Jails* earlier in the year. Three-quarters of TV Freaks and vocalist Angie Lanza have been performing as [Uncontrollable Urge](http://theuncontrollableurge.bandcamp.com/) at shows around Southern Ontario. That group just finished recording their debut record, which we should hear something from soon. Freaks bassist Kevin Bell also recently released a solo set under the name [Glimmering Prizes](https://glitteringprizesband.bandcamp.com/). Like everything from this family, it's short, fast, loud and a little off-kilter.
+Pneumatic Tube's of course not the only outlet for the TV Freaks members. It joins the ensemble [Sweet Dave and the Shallow Graves](https://sweetdaveandtheshallowgraves.bandcamp.com/), who released and toured behind *Mental Jails* earlier in the year. Three-quarters of TV Freaks and vocalist Angie Lanza have been performing as [Uncontrollable Urge](http://theuncontrollableurge.bandcamp.com/) at shows around Southern Ontario. That group just finished recording their debut record, which we should hear something from soon. Freaks bassist Kevin Bell also recently released a solo set under the name [Glittering Prizes](https://glitteringprizesband.bandcamp.com/). Like everything from this family, it's short, fast, loud and a little off-kilter.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3028539184/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://glitteringprizesband.bandcamp.com/album/glittering-prizes-ep">Glittering Prizes EP by Glittering Prizes</a></iframe>
 
-[Listen: Glimmering Prizes @ BandCamp](https://glitteringprizesband.bandcamp.com/ "#")
+[Listen: Glittering Prizes @ BandCamp](https://glitteringprizesband.bandcamp.com/ "#")
 
 Side-projects aside, TV Freaks proper are hard at work on a new record. The band's currently writing for the follow up to 2015's [Deranged](http://www.derangedrecords.com/)-released *Bad Luck Charms*, which saw the group produced by Dallas Good of [The Sadies](http://www.thesadies.net/) and mixed by Don Pyle of [Shadowy Men on a Shadowy Planet](https://shadowy.brainiac.com/). The band should have some new stuff together for December, which will see them both open one of those big ticket Alexisonfire reunion gigs then burn down 2017 at [This Ain't Hollywood](https://www.facebook.com/events/125834558086235/) for a New Years gig with Daniel Romano's Ancient Shapes and Ian Kehoe.
 
-#Of Note
+##Of Note
 
 Winnipeg post-punk band [1971](https://1971canada.bandcamp.com/) have released a video for the song "Anxiety (In the Depths of Northwestern Ontario)," which will stand as one of the band's final recordings. The group decided to part ways in the wake of the death of their founding member and bassist [Cameron Glen Cranston](http://yourlifemoments.ca/sitepages/obituary.asp?oid=1005368). He passed away unexpectedly earlier this year in Thunder Bay at the age of 25. The band commented on the track:
 

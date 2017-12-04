@@ -49,7 +49,7 @@ The organizers of Toronto's annual fall punk and hardcore festival [Not Dead Yet
 
 St. Catharines fuzz pop act [Strange Shakes](https://strangeshakes.bandcamp.com/) have released their new single "Pick Up The Phone." The band will be supporting New Swears on their upcoming tour date in the Garden City on Friday, July 14th at [Warehouse](https://www.facebook.com/warehouseniagara/).
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2530658449/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://strangeshakes.bandcamp.com/album/pick-up-the-phone">Pick up the Phone by Strange Shakes</a></iframe>
+<iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2530658449/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://strangeshakes.bandcamp.com/album/pick-up-the-phone">Pick up the Phone by Strange Shakes</a></iframe>
 
 Speaking of which, I'd like to welcome [Warehouse](https://www.facebook.com/warehouseniagara/) as the July sponsor of Some Party. Recently opened in St. Catharines, Ontario at 11 Geneva Street, the downtown venue has quickly become the go-to event space in Niagara for live music. Run by Erik Dickson of the [IndoorShoes](indoorshoesmusic.com) promotion team, Warehouse has upcoming shows this summer from Daniel Romano, Protest The Hero, Hundred Suns and more. Visit them on [Facebook](https://www.facebook.com/warehouseniagara/) to learn more and check out the ever-growing list of upcoming shows.
 

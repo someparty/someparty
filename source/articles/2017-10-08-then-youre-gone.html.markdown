@@ -67,7 +67,7 @@ The debut EP from Vancouver's [Corner Boys](https://cornerboys.bandcamp.com) is 
 
 Halifax-based garage rock band [Gun Jr.](https://gunjr.bandcamp.com) is gearing up for the release of their debut full length this Friday, titled *The Shakes*. Among their first batch of songs you'll find "Autumn Rose," which you can stream below. This follows the release of a song called "The Wolf" earlier in the year. There's a gritty quality to these guys that works really well on pop songs like these.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=711308116/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://gunjr.bandcamp.com/track/autumn-rose">Autumn Rose by Gun Jr.</a></iframe>
+<iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=711308116/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://gunjr.bandcamp.com/track/autumn-rose">Autumn Rose by Gun Jr.</a></iframe>
 
 [Listen: Gun Jr. - "Autumn Rose" @ BandCamp](http://gunjr.bandcamp.com/track/autumn-rose "#")
 
