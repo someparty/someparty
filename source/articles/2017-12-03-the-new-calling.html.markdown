@@ -65,7 +65,7 @@ Seattle's [KEXP](http://kexp.org/) has posted a 20-minute in-studio session from
 
 [Watch: Faith Healer - Live on KEXP @ YouTube](https://www.youtube.com/watch?v=0XWDBnZhSiI&feature=youtu.be&a "#")
 
-While you're checking out studio sessions, [CBC Music](http://www.cbcmusic.ca/) has a live performance from Toronto industrial/electronic act [Odonis Odonis](http://www.odonisodonis.com/) online as part of their First Play Live series. The trio performs "Eraser," "Check My Profile," "One," "Nasty Boy" — all of which appear on the band's recent [Felte](http://www.felte.net)-released LP *No Pop* — along with "Needs" from 2016's *Post Plague*.
+While you're checking out studio sessions, [CBC Music](http://www.cbcmusic.ca/) has a live performance from Toronto industrial/electronic act [Odonis Odonis](http://www.odonisodonis.com/) online as part of their First Play Live series. The trio performs "Eraser," "Check My Profile," "One," "Nasty Boy" — all of which appear on the band's recent [Telephone Explosion](https://www.telephoneexplosion.com/)-released LP *No Pop* — along with "Needs" from 2016's *Post Plague*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZB8_uecigm4?list=PLxuaaONzLc3czQX6PoXNnLVjThaH1_Sxu&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 

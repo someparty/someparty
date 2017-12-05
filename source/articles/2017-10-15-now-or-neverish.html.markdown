@@ -37,7 +37,7 @@ Toronto's [Ducks Unlimited](https://www.facebook.com/DucksUnltd/) have released 
 
 [Listen: Ducks Unlimited - "It's Easy" @ SoundCloud](https://soundcloud.com/ducksunltd/its-easy "#")
 
-[Odonis Odonis](http://www.odonisodonis.com/)' new full length *No Pop* arrives this Friday via  [Felte](http://www.felte.net), bringing 9 songs of industrial post-punk from the ever-shape-shifting Toronto band. You can preview the entire new record over at [CBC Music](http://www.cbcmusic.ca/first-plays/544/first-play-odonis-odonis-no-pop) now. The band also released a music video, directed by Cam Tomsett, for the song "Nasty Boy." For what's ostensibly a performance video, it's pretty damn aggressive.
+[Odonis Odonis](http://www.odonisodonis.com/)' new full length *No Pop* arrives this Friday via  [Telephone Explosion](https://www.telephoneexplosion.com/) and [Felte](http://www.felte.net), bringing 9 songs of industrial post-punk from the ever-shape-shifting Toronto band. You can preview the entire new record over at [CBC Music](http://www.cbcmusic.ca/first-plays/544/first-play-odonis-odonis-no-pop) now. The band also released a music video, directed by Cam Tomsett, for the song "Nasty Boy." For what's ostensibly a performance video, it's pretty damn aggressive.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8tLdLYB3kkY" frameborder="0" allowfullscreen></iframe>
 
