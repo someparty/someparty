@@ -43,7 +43,7 @@ Along with the audio, the band recorded a video for the song "Rebirth" from the 
 
 [Watch: Sellout - "Rebirth" @ YouTube](https://www.youtube.com/watch?v=hRJmycvP4Ak "#")
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3957234545/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://selloutpunk.bandcamp.com/album/sellout-ii">Sellout II by Sellout</a></iframe>
+<iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3957234545/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://selloutpunk.bandcamp.com/album/sellout-ii">Sellout II by Sellout</a></iframe>
 
 [Listen: Sellout - *Sellout II* @ BandCamp](https://selloutpunk.bandcamp.com/album/sellout-ii "#")
 
@@ -59,7 +59,7 @@ Speaking of returns, the Kitchener, Ontario rock band [Wayfarer](http://wayfarer
 
 I've previously mentioned that frontman Kyle Krische is working this hockey season to channel his hatred of the Leafs into both health and charity. Make sure you follow his ongoing experiment over at [Run Over The Buds](https://twitter.com/RunOverTheBuds).
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=946194329/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3456357418/transparent=true/" seamless><a href="http://wayfarer.bandcamp.com/album/sleep-through-to-the-light">Sleep Through to the Light by Wayfarer</a></iframe>
+<iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=946194329/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3456357418/transparent=true/" seamless><a href="http://wayfarer.bandcamp.com/album/sleep-through-to-the-light">Sleep Through to the Light by Wayfarer</a></iframe>
 
 [Listen: Wayfarer - "Worn Out" @ BandCamp](https://wayfarer.bandcamp.com/track/worn-out "#")
 
@@ -68,7 +68,7 @@ Montreal punk festival [Pouzza](https://pouzzafest.com/) has started to trickle 
 
 Pouzza will also feature US punk acts Arms Aloft, City Mouse, Mike Frazier, Sincere Engineer, A Wilhelm Scream, and War On Women. They'll be announcing one new addition per day, advent calendar style, up until Christmas. The festival will take place from May 18 to 20 in downtown Montreal.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2412293305/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=447778747/transparent=true/" seamless><a href="http://brixtonrobbers.bandcamp.com/album/bw-split-pins-vol-1-the-traders-brixton-robbers">BW split Pins vol. 1: The Traders / Brixton Robbers by Brixton Robbers</a></iframe>
+<iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2412293305/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=447778747/transparent=true/" seamless><a href="http://brixtonrobbers.bandcamp.com/album/bw-split-pins-vol-1-the-traders-brixton-robbers">BW split Pins vol. 1: The Traders / Brixton Robbers by Brixton Robbers</a></iframe>
 
 [Listen: Brixton Robbers - "How Did it Get There" @ BandCamp](https://brixtonrobbers.bandcamp.com/track/brixton-robbers-how-did-it-get-there "#")
 
@@ -118,7 +118,7 @@ Upholding a standard of respect and integrity within the Vancouver music communi
 
 The band's been prolific in 2017, having just put out their third release of the year. The LP *Who And When Is Stephen Networks?* came out at the end of October, following the *Rock Steady, New Mexico* EP and their self-titled debut full-length. I'm unaware what specific allegations the band's facing at this time.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=493026995/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=418200028/transparent=true/" seamless><a href="http://dopeysrobe.bandcamp.com/album/who-and-when-is-stephen-networks">Who And When Is Stephen Networks? by Dopey&#39;s Robe</a></iframe>
+<iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=493026995/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=418200028/transparent=true/" seamless><a href="http://dopeysrobe.bandcamp.com/album/who-and-when-is-stephen-networks">Who And When Is Stephen Networks? by Dopey&#39;s Robe</a></iframe>
 
 [Listen: Dopey's Robe - "21st Century" @ BandCamp](https://dopeysrobe.bandcamp.com/track/21st-century "#")
 
