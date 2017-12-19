@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Andre Ethier (the Deadly Snakes) returns. New music from Booji Boys and Sellout. Pouzza Fest 2017 lineup. Steve Adamyk Band recording.
 ---
 
-The Deadly Snakes were incredibly important to me. In the early 2000s as an undergrad at the University of Guelph, I spent a fair portion of my free time figuring out my musical identity and trying to square my teenage punk preferences with the world of Candian independent music that I was clumsily discovering. By the time I graduated and (begrudgingly) left town, I'd canonised a personal trilogy of bands. There were the Constantines (this was Three Gut territory, of course), the Weakerthans (a clear gateway from the SoCal punk of my youth), and on the dangerous, swaggering fringe was the Deadly Snakes.
+The Deadly Snakes were incredibly important to me. In the early 2000s as an undergrad at the University of Guelph, I spent a fair portion of my free time figuring out my musical identity and trying to square my teenage punk preferences with the world of Canadian independent music that I was clumsily discovering. By the time I graduated and (begrudgingly) left town, I'd canonised a personal trilogy of bands. There were the Constantines (this was Three Gut territory, of course), the Weakerthans (a clear gateway from the SoCal punk of my youth), and on the dangerous, swaggering fringe was the Deadly Snakes.
 
 I can draw a direct line from my interest in the raucous Toronto band to discovering garage rock. The Snakes' US label [In The Red](https://intheredrecords.com/) was home to all manner of low-fi, underground rock oddities and a preference for that sound's followed me to this day.
 
@@ -105,7 +105,7 @@ Hamilton alt-country trio [Elliott BROOD](https://www.elliottbrood.com/) played 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ybyeZY0zrog?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-[Watch: Elliott Brood - Live at Massey Hall](https://www.youtube.com/watch?v=ybyeZY0zrog "#")
+[Watch: Elliott BROOD - Live at Massey Hall @ YouTube](https://www.youtube.com/watch?v=ybyeZY0zrog "#")
 
 Surf/psych-influenced Vancouver punk band [Dopey's Robe](https://dopeysrobe.bandcamp.com/) is taking a break. The band announced:
 

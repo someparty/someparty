@@ -19,6 +19,10 @@ class SomePartyRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
       format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
              doc.to_html)
+     elsif raw_html.include? 'brightcove'
+      doc.css('iframe').add_class('aspect-ratio--object lazyload')
+      format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
+              doc.to_html)
     elsif raw_html.include? 'vimeo'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
       format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
