@@ -620,7 +620,7 @@
           <%= image_tag 'logo-wide.svg', alt: "Some Party", class: "w-100 mw5 mw5-l dn-l" %>
           <%= image_tag 'logo.svg', alt: "Some Party", class: "w-100 dn dib-l mw5 mw4-m mw-logo" %>
         </a>
-        <p class="f5 f5-ns mt4 center mw-slogan">A weekly newsletter on independent Canadian rock'n'roll, curated every Sunday evening by <a href="https://twitter.com/adamwhite" class="white b no-underline">Adam White</a> of <a href="https://www.punknews.org" class="white b no-underline">Punknews.org</a>. A sober second thought on new music, cool records, and the people making their own culture.</p>
+        <p class="f5 f5-ns mt4 center mw-slogan">A weekly newsletter on independent Canadian rock'n'roll, curated every Sunday evening by <a href="https://twitter.com/adamwhite" class="white b no-underline">Adam White</a> of <a href="https://www.punknews.org" class="white b no-underline">Punknews.org</a>: A sober second thought on new music, cool records, and the people making their own culture.</p>
 
         <%= partial '/_partials/subscribe' %>
       </div>
@@ -632,8 +632,10 @@
           <li class="dib mv2 mv4-ns mh2"><%= link_to 'Sponsors', '/sponsors.html', class: "no-underline black" %></li>
         </ul>
 
-        <div class="ph6 dib bb b--black-20 pv3 mb4 dn-l w-90"></div>
       </div>
+
+      <%= partial '/_partials/submit' %>
+
     </header>
 
     <div id="main" role="main" class="overflow-hidden relative">
