@@ -59,7 +59,7 @@ A video for "He Don't" has been released as well. Montreal-based photographer [M
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iOd8Kkr-P-M?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-[Watch: Boyhood - "He Don't" @ BandCamp](https://www.youtube.com/watch?v=iOd8Kkr-P-M "#")
+[Watch: Boyhood - "He Don't" @ YouTube](https://www.youtube.com/watch?v=iOd8Kkr-P-M "#")
 
 [The Heat Death](https://theheatdeath.bandcamp.com) is a collaboration between José Miguel Contreras of Toronto indie vets [By Divine Right](https://bydivineright.bandcamp.com/) and [Shotgun Jimmie](https://shotgunjimmie.net/). The duo's been heralding their debut for a year now, and with the release finally pending we're starting to hear a lot more from it. The band's self-titled record will feature eleven songs, four of which you can currently preview at BandCamp. Jimmie also revealed a video which previews the songs "Blue Beard," "You Know Who," and "Master of Emotion" at YouTube. Check it out below. The Heat Death oscillates between midtempo pop-rock (Jimmie's leads) and a lush slow-burn where Contreras takes charge, both vocalists maintaining their distinctive traits. It's all washed in a spacey reverb that gives this project its own character. The Heat Death's self-titled full length arrives on February 14.
 
@@ -129,7 +129,7 @@ That said, if you haven't seen [The Strombo Show](http://www.strombo.com/)'s [Ve
 
 [Watch: A Very Strombo Holiday Special @ YouTube](https://youtu.be/SQb0gSicps0?t=31m40s "#")
 
-On a similar note, [Sam Coffey & the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) cranked out a cover of Darlene Love's "Christmas (Baby Please Come Home)" for Toronto rock station [102.1 The Edge](https://edge.ca/) over the holidays. They took a few creative liberties and added more denim and chest hair to the mix than Love's intended, but it works.
+On a similar note, [Sam Coffey & the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) cranked out a cover of Darlene Love's "Christmas (Baby Please Come Home)" for Toronto rock station [102.1 The Edge](https://edge.ca/) over the holidays. They took a few creative liberties and added more denim and chest hair to the mix than Love surely intended, but it works.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpH88ZYKhoI?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
