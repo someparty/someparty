@@ -24,7 +24,7 @@ October's looking to be just as busy a release month as September, and a number 
 
 Nova Scotia not-for-profit DIY collective [Mirus Records](http://mirusrecords.com/) have released [*Mixtape I*](http://mirusrecords.bandcamp.com), their first compilation featuring exclusive new recordings from Halifax artists. The 15 song set is available digitally or as a limited edition made-to-order cassette. Profits from the sale of the comp will go to [The Plumbtree Project](http://mirusrecords.com/index.php/the-plumtree-project/), which aims to provide private music lessons to eight women, along with a few months in a jam space and passes to the Halifax Pop Explosion.
 
-The comp ends with a new track by the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), who broke out a cover of "Sold Out" by the early Boston punk act Gang Green. Frontman Cody Googoo  recently announced that their second Booji Boys full-length is nearing completion too. Look for it at some point on [Drunken Sailor Records](http://www.drunkensailorrecords.co.uk/).
+The comp ends with a new track by the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), who broke out a cover of "Sold Out" by the early Boston punk act Gang Green. Guitarist Cody Googoo recently announced that their second Booji Boys full-length is nearing completion too. Look for it at some point on [Drunken Sailor Records](http://www.drunkensailorrecords.co.uk/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXyWK8P3H6I" frameborder="0" allowfullscreen></iframe>
 
@@ -62,7 +62,7 @@ This week Niagara-on-the-Lake post-hardcore/emo group [Heavy Hearts](http://heav
 
 [Watch: The Riptides - "Goodbye Hawaii" @ YouTube](https://www.youtube.com/watch?time_continue=20&v=uh3lUmLnv3o "#")
 
-Toronto indie rock group [Casper Skulls](https://casperskulls.bandcamp.com/) have released another track from their upcoming [Buzz Records](http://buzzrecords.ca/) full-length *Mercy Works*. "Lingua Franca" features Melanie St. Pierre on lead vocals. You can head to [Noisey](https://noisey.vice.com/en_us/article/pakqgb/casper-skulls-seek-connection-on-atmospheric-new-single-lingua-franca) to read her thoughts on the track. Like the previous preview of the album, this track finds the band eschewing the aggression of their first EP for a more pensive take. *Mercy Works* is out on November 3rd.
+Toronto indie rock group [Casper Skulls](https://casperskulls.bandcamp.com/) have released another track from their upcoming [Buzz Records](http://buzzrecords.ca/) full-length *Mercy Works*. "Lingua Franca" features Melanie Gail St-Pierre on lead vocals. You can head to [Noisey](https://noisey.vice.com/en_us/article/pakqgb/casper-skulls-seek-connection-on-atmospheric-new-single-lingua-franca) to read her thoughts on the track. Like the previous preview of the album, this track finds the band eschewing the aggression of their first EP for a more pensive take. *Mercy Works* is out on November 3rd.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U67fsCG0H_0" frameborder="0" allowfullscreen></iframe>
 

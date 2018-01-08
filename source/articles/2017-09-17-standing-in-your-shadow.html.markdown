@@ -39,7 +39,7 @@ Speaking of Hosehead, label head Patrick Bertrand has been playing in the band [
 
 [Listen: Corner Boys - "Just Don't Care" @ BandCamp](https://cornerboys.bandcamp.com/album/just-dont-care-7 "#")
 
-While we're on the topic of Drunken Sailor, the label will continue to be the home of Halifax's [Booji Boys](https://boojiboysfuneral.bandcamp.com/) when they release their second LP. Frontman Cody Googoo announced that the new record is almost complete, but no other details are available yet. Is this my favourite band right now? Probably. It's a damn shame they won't be awarded the [Polaris Prize](https://polarismusicprize.ca/) this week, but it's not for my lack of trying.
+While we're on the topic of Drunken Sailor, the label will continue to be the home of Halifax's [Booji Boys](https://boojiboysfuneral.bandcamp.com/) when they release their second LP. Guitarist Cody Googoo announced that the new record is almost complete, but no other details are available yet. Is this my favourite band right now? Probably. It's a damn shame they won't be awarded the [Polaris Prize](https://polarismusicprize.ca/) this week, but it's not for my lack of trying.
 
 Speaking of Polaris, attendees of Monday's gala are going to pick up a free copy of a 7" that features 2015 winner [Buffy Sainte-Marie](http://buffysainte-marie.com/) and 2014 winner [Tanya Tagaq](http://tanyatagaq.com/) collaborating on the song "You Got To Run (Spirit Of The Wind)." The b-side of the record features a remix of the song by three-time nominees [A Tribe Called Red](http://atribecalledred.com/).
 
