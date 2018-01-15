@@ -42,6 +42,10 @@ class SomePartyRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
       format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
              doc.to_html)
+    elsif raw_html.include? 'npr.org'
+      doc.css('iframe').add_class('aspect-ratio--object lazyload')
+      format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
+              doc.to_html)
     else
       doc.css('iframe').add_class('lazyload')
       format("<div class='center'>%s</div>", doc.to_html)
