@@ -55,11 +55,11 @@ I'm quite taken by the low-fi indie-pop of "Tear Apart," by London, Ontario's [Y
 
 [Watch: Yess Woah - "Tear Apart" @ YouTube](https://www.youtube.com/watch?v=6sw__nGg9LA "#")
 
-Toronto garage-punk trio [Faiyaz And The Wasted Chances](https://faiyazandthewastedchances.bandcamp.com/) are gearing up to release a new EP this month, titled *Quality Control*. The hooky first single from that set is titled "Breakfast in Bed." The new materia was recorded and mixed by Dylan Frankland at [Candle Recording](https://www.facebook.com/pg/candlerecording/about/?ref=page_internal) and mastered by Noah Mintz at [Lacquer Channel](http://www.lacquerchannel.com/). I get New Swears vibes from this one.
+Toronto garage-punk trio [Faiyaz And The Wasted Chances](https://faiyazandthewastedchances.bandcamp.com/) are gearing up to release a new EP this month, titled *Quality Control*. The hooky first single from that set is titled "Breakfast in Bed." The new material was recorded and mixed by Dylan Frankland at [Candle Recording](https://www.facebook.com/pg/candlerecording/about/?ref=page_internal) and mastered by Noah Mintz at [Lacquer Channel](http://www.lacquerchannel.com/). I get New Swears vibes from this one.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3853204884/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1700577749/transparent=true/" seamless><a href="http://faiyazandthewastedchances.bandcamp.com/album/breakfast-in-bed-spilt-milk-singles">Breakfast in Bed / Spilt Milk Singles by Faiyaz And The Wasted Chances</a></iframe>
 
-[Listen: Faiyaz And The Wasted Chances - "Breakfest in Bed" @ BandCamp](https://faiyazandthewastedchances.bandcamp.com/track/breakfast-in-bed "#")
+[Listen: Faiyaz And The Wasted Chances - "Breakfast in Bed" @ BandCamp](https://faiyazandthewastedchances.bandcamp.com/track/breakfast-in-bed "#")
 
 NPR's [Tiny Desk](https://www.npr.org/series/tiny-desk-concerts/) series, which features bands performing live at the desk of [All Songs Considered](https://www.npr.org/sections/allsongs/) host Bob Boilen, recently featured
 [The Weather Station](http://www.theweatherstation.net/). Tamara Lindeman's joined for the session by bassist Ben Whiteley, Ian Kehoe (Attack In Black, Marine Dreams) on drums, and Will Kidman (Constantines, Woolly Leaves) on guitar to perform songs from the group's 2017 self-titled record. These include "Thirty," "You and I (On the Other Side of the World)," and "Free."

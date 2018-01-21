@@ -1,15 +1,15 @@
 <ul class="list pa0 ma0 mv4 flex justify-end">
-  <% next_article = article.next_article %>
-  <% if next_article %>
+  <% article_next = article.article_next %>
+  <% if article_next %>
     <li class="bg-black dim w-50 flex br bw3 b--white">
-      <a href="<%= next_article.url %>" class="white pa3 link inline-flex w-100 justify-between items-center" rel="next" title="Next article: <%= h next_article.title %>">
+      <a href="<%= article_next.url %>" class="white pa3 link inline-flex w-100 justify-between items-center" rel="next" title="Next article: <%= h article_next.title %>">
         <span class="f2 pr3" aria-hidden="true">«</span>
-        <span class="f6"><%= next_article.title %></span>
+        <span class="f6"><%= article_next.title %></span>
       </a>
     </li>
   <% end %>
 
-  <% prev_article = article.previous_article %>
+  <% prev_article = article.article_previous %>
   <% if prev_article %>
     <li class="bg-black dim w-50 flex bl bw3 b--white">
       <a href="<%= prev_article.url %>" class="white pa3 link inline-flex w-100 justify-between items-center" rel="prev" title="Previous article: <%= h prev_article.title %>">
