@@ -3,7 +3,7 @@
   <% if article_next %>
     <li class="bg-black dim w-50 flex br bw3 b--white">
       <a href="<%= article_next.url %>" class="white pa3 link inline-flex w-100 justify-between items-center" rel="next" title="Next article: <%= h article_next.title %>">
-        <span class="f2 pr3" aria-hidden="true">«</span>
+        <span class="f1 pr3" aria-hidden="true"><</span>
         <span class="f6"><%= article_next.title %></span>
       </a>
     </li>
@@ -14,7 +14,7 @@
     <li class="bg-black dim w-50 flex bl bw3 b--white">
       <a href="<%= prev_article.url %>" class="white pa3 link inline-flex w-100 justify-between items-center" rel="prev" title="Previous article: <%= h prev_article.title %>">
         <span class="f6"><%= prev_article.title %></span>
-        <span class="f2 pl3" aria-hidden="true">»</span>
+        <span class="f1 pl3" aria-hidden="true">></span>
       </a>
     </li>
   <% end %>
