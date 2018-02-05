@@ -51,7 +51,7 @@ Was the last [Rural Alberta Advantage](http://www.theraa.com/) record as hooky a
 
 <iframe style="border: 0; width: 350px; height: 522px;" src="https://bandcamp.com/EmbeddedPlayer/album=796136425/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://thepenskefileband.bandcamp.com/album/come-what-may">Come What May by The Penske File</a></iframe>
 
-[Listen: The Penske File - "Come What May" @ BandCamp](https://thepenskefileband.bandcamp.com/album/come-what-may "#")
+[Listen: The Penske File - "Come What May" @ Bandcamp](https://thepenskefileband.bandcamp.com/album/come-what-may "#")
 
 Dundas, Ontario's [The Dirty Nil](https://thedirtynil.bandcamp.com/) made their first network television appearance this week with a performance on [Last Call with Cason Daly](https://www.nbc.com/last-call-with-carson-daly/video/taran-killam-the-dirty-nil-reginald-hudlin/3595511). Given that this is a US TV network I'm going to assume that there'll be some asinine content restriction to prevent you from watching this in Canada, but you're certainly welcome to [try](https://www.nbc.com/last-call-with-carson-daly/video/taran-killam-the-dirty-nil-reginald-hudlin/3595511).
 
@@ -69,19 +69,19 @@ Halifax-based garage rock band [Gun Jr.](https://gunjr.bandcamp.com) is gearing 
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=711308116/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://gunjr.bandcamp.com/track/autumn-rose">Autumn Rose by Gun Jr.</a></iframe>
 
-[Listen: Gun Jr. - "Autumn Rose" @ BandCamp](http://gunjr.bandcamp.com/track/autumn-rose "#")
+[Listen: Gun Jr. - "Autumn Rose" @ Bandcamp](http://gunjr.bandcamp.com/track/autumn-rose "#")
 
 [Weird Canada](https://weirdcanada.com/) shared a handful of underground music from across the country this week, and from that batch I learned of Lethbridge, Alberta's [WINT](https://wint.bandcamp.com). The brainchild of Brandon Saucier, WINT operates as a trio live and they play sharp, angular post-punk. They're also pretty damn prolific all of a sudden, following up a single 2015 release with (as best I can follow) four releases this year. That includes this summer's *Memory//Paranoia* and a new full length titled *Information* that's listed for release this month. You can read up on the band at a [Beatroute](http://beatroute.ca/2017/04/11/32334/) article from this April and listen below.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3545055455/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://wint.bandcamp.com/album/memory-paranoia">Memory//Paranoia by WINT</a></iframe>
 
-[Listen: WINT - *Memory//Paranoia* @ BandCamp](http://wint.bandcamp.com/album/memory-paranoia "#")
+[Listen: WINT - *Memory//Paranoia* @ Bandcamp](http://wint.bandcamp.com/album/memory-paranoia "#")
 
 [Dominionated](http://dominionated.ca/albums/lo-siento-bingo-bango/) shared the recently released debut full-length from St. John's indie-pop trio [Lo Siento](https://lo-siento.bandcamp.com/). I wouldn't have expected to find a Spanish-language twee-pop act out of Newfoundland, but what do I know? The band, which is fronted by the Buenos Aires-born multidisciplinary artist [Pepa Chan](www.pepachan.com), put out the 7-song *Bingo Bango* at the end of August.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2607171012/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://lo-siento.bandcamp.com/album/bingo-bango">Bingo Bango by Lo Siento</a></iframe>
 
-[Listen: Lo Siento - *Bingo Bango* @ BandCamp](https://lo-siento.bandcamp.com/album/bingo-bango "#")
+[Listen: Lo Siento - *Bingo Bango* @ Bandcamp](https://lo-siento.bandcamp.com/album/bingo-bango "#")
 
 Montreal indie rock quartet [Ought](https://internetought.com/) has signed to [Merge Records](https://www.mergerecords.com/) internationally and [Royal Mountain](https://www.royalmountainrecords.com/) here at home for the release of their next LP in 2018. That'll be the band's third, following the Constellation-released *Sun Coming Down* in 2015. Ought is currently on tour in the States and is set to play alongside Waxahatchee throughout November.
 

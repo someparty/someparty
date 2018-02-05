@@ -7,7 +7,7 @@ description: Lido Pimienta wins the 2017 Polaris Music Prize. New videos from Pa
 
 Monday evening saw the 2017 [Polaris Music Prize](https://polarismusicprize.ca/) awarded in Toronto, with [Lido Pimienta](https://lidopimienta.bandcamp.com/) taking the award for her independent art-pop album *La Papessa*. I'm pretty proud to have voted for it, although I honestly didn't think she'd win (my money was on [A Tribe Called Red](http://atribecalledred.com/), on whose record Pimienta guests). I can certainly see why she did win though. The record manages to balance any number of descriptors. It's danceable and confident yet at times vulnerable and haunting. It makes a number of both personal and political statements that reflect Pimienta's status as a woman, an Indigenous person of colour, and a single mother. What makes *La Papessa* so interesting is that it does all of this completely in Spanish. When listening I never felt that my inability to understand the language took away from the record's power and purpose. (there's also a fascinating discussion to be had about how this win knocks the expected French / English Canadian cultural debate on its ear).
 
-There are some wonderful pieces about the record for you to dig into. A 2016 write-up on [BandCamp](https://daily.bandcamp.com/2016/10/27/lido-pimienta-feature/) by Jesse Locke touches on Pimienta's childhood playing hardcore and metal in Columbia. Melissa Vincent wrote a pretty comprehensive introductory piece for [Pitchfork](https://pitchfork.com/thepitch/why-you-need-to-know-lido-pimienta-who-just-won-canadas-most-important-music-prize/) as well.
+There are some wonderful pieces about the record for you to dig into. A 2016 write-up on [Bandcamp](https://daily.bandcamp.com/2016/10/27/lido-pimienta-feature/) by Jesse Locke touches on Pimienta's childhood playing hardcore and metal in Columbia. Melissa Vincent wrote a pretty comprehensive introductory piece for [Pitchfork](https://pitchfork.com/thepitch/why-you-need-to-know-lido-pimienta-who-just-won-canadas-most-important-music-prize/) as well.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/252089443&amp;color=%2300aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -21,7 +21,7 @@ Don't forget that [Godspeed You! Black Emperor](http://cstrecords.com/gybe/) did
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1554173777/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=128977105/transparent=true/" seamless><a href="http://lidopimienta.bandcamp.com/album/la-papessa">La Papessa by Lido Pimienta</a></iframe>
 
-[Listen: Lido Pimienta - "La Capacidad" @ BandCamp](https://lidopimienta.bandcamp.com/track/la-capacidad "#")
+[Listen: Lido Pimienta - "La Capacidad" @ Bandcamp](https://lidopimienta.bandcamp.com/track/la-capacidad "#")
 
 ##Of Note
 
@@ -78,7 +78,7 @@ There's an entirely distracting amount of Nardwuar content floating around this 
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3227292186/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2517853773/transparent=true/" seamless><a href="http://wares.bandcamp.com/album/wares-2">Wares by Wares</a></iframe>
 
-[Listen: Wares - "What You Want" @ BandCamp](https://wares.bandcamp.com/track/what-you-want "#")
+[Listen: Wares - "What You Want" @ Bandcamp](https://wares.bandcamp.com/track/what-you-want "#")
 
 London, Ontario's [Single Mothers](https://singlemothersband.bandcamp.com/) have released a new video for the song "Leash" from their recent [Dine Alone](http://dinealonerecords.com/)-released full-length *Our Pleasure*. The video, which appropriately features unleashed dogs doing their thing, was produced by Hamilton's [BlackLake](www.blacklakemedia.com). Single Mothers is in the midst of a North American tour with Touche Amore and Gouge Away and are set to visit the UK in November.
 

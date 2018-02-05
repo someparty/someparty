@@ -13,11 +13,11 @@ I caught the final [Century Palm](https://centurypalm.bandcamp.com/) show this p
 
 The night also served as the record release show for [The New Calling](https://thenewcalling.bandcamp.com/). That band features a pedigree that touches more of the Ottawa garage-punk scene than it would be possible to mention here. On their collective résumé you'll find the likes of [Bonnie Doon](https://bonniedoon.bandcamp.com/), [Warp Lines](https://warplines.bandcamp.com), Million Dollar Marxists, [Mothers Children](https://motherschildren.bandcamp.com/), [Voicemail](https://www.facebook.com/gary.voicemail/), [Sedatives](https://sedatives.bandcamp.com/), and [The White Wires](https://thewhitewires.bandcamp.com/) highlighted. Notably, this is the new vehicle for White Wires frontman Ian Manhire.
 
-This show coincided with the release of the band's debut four song self-titled 12" maxi EP on Moncton's [Subfiction Records](https://www.facebook.com/SubfictionRecords/) (the label's first release as well). It's limited to 500 copies and I can vouch for at least one of them. The record finds Manhire and company pairing that well-established Ottawa garage rock sound with some new wave influences and a hint of darkness. Live the band's set was remarkably polished. You can get a sense of their economic pop songwriting over at [BandCamp](https://subfictionrecords.bandcamp.com/album/sfr-001-the-new-calling-s-t). The chorus of their eponymous track should definitely stick with you.
+This show coincided with the release of the band's debut four song self-titled 12" maxi EP on Moncton's [Subfiction Records](https://www.facebook.com/SubfictionRecords/) (the label's first release as well). It's limited to 500 copies and I can vouch for at least one of them. The record finds Manhire and company pairing that well-established Ottawa garage rock sound with some new wave influences and a hint of darkness. Live the band's set was remarkably polished. You can get a sense of their economic pop songwriting over at [Bandcamp](https://subfictionrecords.bandcamp.com/album/sfr-001-the-new-calling-s-t). The chorus of their eponymous track should definitely stick with you.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1699444034/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3276619595/transparent=true/" seamless><a href="http://subfictionrecords.bandcamp.com/album/sfr-001-the-new-calling-s-t">SFR-001 • the New Calling - S/T by the New Calling</a></iframe>
 
-[Listen: The New Calling @ BandCamp](https://subfictionrecords.bandcamp.com/album/sfr-001-the-new-calling-s-t "#")
+[Listen: The New Calling @ Bandcamp](https://subfictionrecords.bandcamp.com/album/sfr-001-the-new-calling-s-t "#")
 
 I won't dwell too much on Century Palm in this mailing, as I gave them a fair amount of space when the breakup was [first announced](2017-10-08-then-youre-gone.html), but it was a great send-off. In the lead-up to the show the band collected and shared whatever demos they had archived away, and you can check that material out over at [SoundCloud](https://soundcloud.com/century-palm/sets/demos) once you've worked through the rest of their short catalogue.
 
@@ -27,19 +27,19 @@ Toronto's [Moul D.](https://moul-d.bandcamp.com/) have released *Demo CS*: six c
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3081430028/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://moul-d.bandcamp.com/album/demo-cs">Demo CS by Moul D.</a></iframe>
 
-[Listen: Moul D. - *Demo CS* @ BandCamp](https://moul-d.bandcamp.com/album/demo-cs "#")
+[Listen: Moul D. - *Demo CS* @ Bandcamp](https://moul-d.bandcamp.com/album/demo-cs "#")
 
-Welland, Ontario power-pop group [Big School](https://bigschoolband.bandcamp.com) have unveiled *Mint*, their first full-length album. The quartet of Mitch Courtois, Codey Thompson, Riley Simpson, and Andrew Stark recorded the 12-song set with local audio engineer Kenneth Roy Meehan. You can find the record, which is bright, loud, and fun as hell, over at [BandCamp](https://bigschoolband.bandcamp.com/album/mint). The band will celebrate the release [this Friday](https://www.facebook.com/events/1204099763023571/) at the [Black Sheep Lounge](http://www.blacksheeplounge.ca/) in Welland with support from St. Catharines’ rock band [Output](https://www.facebook.com/OutputNiagara/) and the enigmatic Welland group [Northern Primitive](https://northernprimitive.bandcamp.com/) (a welcome return of the latter, who've been off the board for at least a year).
+Welland, Ontario power-pop group [Big School](https://bigschoolband.bandcamp.com) have unveiled *Mint*, their first full-length album. The quartet of Mitch Courtois, Codey Thompson, Riley Simpson, and Andrew Stark recorded the 12-song set with local audio engineer Kenneth Roy Meehan. You can find the record, which is bright, loud, and fun as hell, over at [Bandcamp](https://bigschoolband.bandcamp.com/album/mint). The band will celebrate the release [this Friday](https://www.facebook.com/events/1204099763023571/) at the [Black Sheep Lounge](http://www.blacksheeplounge.ca/) in Welland with support from St. Catharines’ rock band [Output](https://www.facebook.com/OutputNiagara/) and the enigmatic Welland group [Northern Primitive](https://northernprimitive.bandcamp.com/) (a welcome return of the latter, who've been off the board for at least a year).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=346230010/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://bigschoolband.bandcamp.com/album/mint">Mint by Big School</a></iframe>
 
-[Listen: Big School - *Mint* @ BandCamp](https://bigschoolband.bandcamp.com/album/mint "#")
+[Listen: Big School - *Mint* @ Bandcamp](https://bigschoolband.bandcamp.com/album/mint "#")
 
 I'm really into the first single from Vancouver's [Night People](https://nightpeoplepunk.bandcamp.com/releases), which features dark, hooky punk rock awash in religious iconography (Ottawa's Crusades are cut from the same cloth). [Deranged](https://derangedrecords.bandcamp.com/album/night-people) released the four-song 7" in late October. Night People features current and former members of a number of west coast groups, including Pura Mania, [Spectres](https://spectresvancouver.bandcamp.com/), [Haggatha](https://haggatha.bandcamp.com/), After The Bombs, [Fashionism](https://fashionism.bandcamp.com/), New Town Animals, [The Jolts](https://thejolts.bandcamp.com/), Infidel, [A Rock Band Called Time](https://therockbandcalledtime.bandcamp.com/), and many others. I've had "Under the Sign of Christ" stuck in my head for the entire week.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1768834034/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4152661016/transparent=true/" seamless><a href="http://derangedrecords.bandcamp.com/album/night-people">night people by NIGHT PEOPLE</a></iframe>
 
-[Listen: Night People - "Under the Sign of Christ" @ BandCamp](https://derangedrecords.bandcamp.com/track/under-the-sign-of-christ "#")
+[Listen: Night People - "Under the Sign of Christ" @ Bandcamp](https://derangedrecords.bandcamp.com/track/under-the-sign-of-christ "#")
 
 Calgary punk act [Leather Jacuzzi](https://leatherjacuzzi.bandcamp.com/) (members of [Gawker](https://gawking.bandcamp.com/) and the late Sudden Infant Dance Syndrome) have released a video for the song "Gloved Hand Holding Caviar" from their new [Danger Records](https://dangerrecords.bandcamp.com/) LP *The Whole Hog*. That record collects the music from two cassettes, this year's tour release *Slander, Lies And Soda* and the band's 2016 debut *Monsters, Narcs & Idiots*. The video features many hands in many gloves, performing an assortment of tasks that gloved hands could do. This is without a doubt someone's fetish.
 
@@ -51,13 +51,13 @@ Montreal-via-Windsor garage-psyche artist [Paul Jacobs](https://pauljacobs.bandc
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4212434077/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2280088795/transparent=true/" seamless><a href="http://pauljacobs.bandcamp.com/album/pictures-movies-apartments">Pictures, Movies &amp; Apartments by Paul Jacobs</a></iframe>
 
-[Listen: Paul Jacobs - "See Through You" @ BandCamp](https://pauljacobs.bandcamp.com/track/see-through-you "#")
+[Listen: Paul Jacobs - "See Through You" @ Bandcamp](https://pauljacobs.bandcamp.com/track/see-through-you "#")
 
 Fredericton hardcore group [Deep Fryer](https://deepfryer.bandcamp.com) has released a four-song EP titled *Rockin' Right Hard*. The New Brunswick four-piece charges through a set of 90s-style hardcore with some quirky lyrical subject matter. The lead track "Jeremy," for example, tackles the legendary Patrick Roy / Jeremy Roenick feud from the '96 NHL playoffs. Timely stuff. The EP was recorded by Scott Miller of the Saint John metal group Anthesis at Ancient Temple Recordings.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2016939993/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://deepfryer.bandcamp.com/album/rockin-right-hard">Rockin&#39; Right Hard by DEEP FRYER</a></iframe>
 
-[Listen: Deep Fryer - "Rockin' Right Hard" @ BandCamp](https://deepfryer.bandcamp.com/album/rockin-right-hard "#")
+[Listen: Deep Fryer - "Rockin' Right Hard" @ Bandcamp](https://deepfryer.bandcamp.com/album/rockin-right-hard "#")
 
 Seattle's [KEXP](http://kexp.org/) has posted a 20-minute in-studio session from Edmonton indie rock act [Faith Healer](https://faithhealer.bandcamp.com/). The band performed four songs in Montreal's [Breakglass Studios](http://breakglass.ca/) on September 16 during [POP Montreal](https://popmontreal.com), including "Waiting," "Light of Loving," "Try," and "2nd Time." All four tracks are from the band's sophomore full length *Try ;-)*, which came out on [Mint Records](http://www.mintrecs.com/) that same month.
 

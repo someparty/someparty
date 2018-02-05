@@ -71,7 +71,7 @@ Bilingual Montreal punk band [Bolo Mojo](http://bolomojo.bandcamp.com) have rele
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1235977058/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://bolomojo.bandcamp.com/album/happiness-2">Happiness by Bolo Mojo</a></iframe>
 
-[Listen: Bolo Mojo - *Happiness* @ BandCamp](https://bolomojo.bandcamp.com/album/happiness-2 "#")
+[Listen: Bolo Mojo - *Happiness* @ Bandcamp](https://bolomojo.bandcamp.com/album/happiness-2 "#")
 
 The first bands playing the eleventh edition of [Burly Calling](
 http://www.burlycalling.com/) have been announced. The Burlington, Ontario music festival will take place from November 30 through December 2 across multiple venues in the city's downtown. This first wave of bands includes [Dead Tired](https://zdeadtiredz.bandcamp.com/) (George Pettit's post- Alexisonfire hardcore act), the latest incarnation of Toronto punk vets Trigger Happy as [An Almighty Trigger Happy](https://www.facebook.com/AnAlmightyTriggerHappy/), hometown up-and-comers [The Penske File](https://thepenskefileband.bandcamp.com/), Niagara-on-the-Lake post-hardcore/emo act [Heavy Hearts](http://heavyheartsband.com/), and a dozen more from a number of genres. You can find the full list at the event's website.

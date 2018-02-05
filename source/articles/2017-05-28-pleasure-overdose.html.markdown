@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Soupcans release Pleasure Overdose. Sam Coffey and the Iron Lungs, The Dirty Nil, and the Flatliners tour.
 ---
 
-Part of my motivation in starting Some Party as a weekly newsletter was to force myself to operate outside the daily news cycle that Punknews and the rest of the Internet music apparatus thrives on. There's a formula to how a new music is disseminated and it should sound familiar. A band will make mention of their next album, perhaps by sharing a title or who's producing it, sometimes just their *intent* to record, that will kick off a round of press coverage. In the lead-up to the release you'll see the usual collection of stories, dribbled out over time. Studio photos show up on Instagram. Perhaps there's a studio clip of the guitarist noodling out the hook from a new song on Facebook. Eventually a single shows up on SoundCloud or BandCamp, and it's "exclusively" announced on one news outlet or another. That repeats a few times and eventually the record's released. The band, the label, a PR person if that's in the budget, and the press kick that ball back and forth.
+Part of my motivation in starting Some Party as a weekly newsletter was to force myself to operate outside the daily news cycle that Punknews and the rest of the Internet music apparatus thrives on. There's a formula to how a new music is disseminated and it should sound familiar. A band will make mention of their next album, perhaps by sharing a title or who's producing it, sometimes just their *intent* to record, that will kick off a round of press coverage. In the lead-up to the release you'll see the usual collection of stories, dribbled out over time. Studio photos show up on Instagram. Perhaps there's a studio clip of the guitarist noodling out the hook from a new song on Facebook. Eventually a single shows up on SoundCloud or Bandcamp, and it's "exclusively" announced on one news outlet or another. That repeats a few times and eventually the record's released. The band, the label, a PR person if that's in the budget, and the press kick that ball back and forth.
 
 What you'll rarely see is news that an album *has been* released. That crosses the incredibly nebulous line between reporting and promotion.
 
@@ -21,7 +21,7 @@ Furthermore if you follow the band online one gets the distinct impression that 
 
 I did get answers, because Nick is great. I also got the distinct impression a veil of weird mystique is the preferred mode of operation for the band. If I was reporting for a news website I'd be more inclined to share the boring details I extracted, but that's not the goal *here*.
 
-You should go listen to *Pleasure Overdose* because it's cool. It picks up on the speed and moments of pure sludge that made *Soft Party* so vital, and tosses in a mix of free-flowing new ideas and deviations. Enjoy it for what it is. You can pay what you want for it at [BandCamp](https://thesoupcans.bandcamp.com/album/pleasure-overdose).
+You should go listen to *Pleasure Overdose* because it's cool. It picks up on the speed and moments of pure sludge that made *Soft Party* so vital, and tosses in a mix of free-flowing new ideas and deviations. Enjoy it for what it is. You can pay what you want for it at [Bandcamp](https://thesoupcans.bandcamp.com/album/pleasure-overdose).
 
 ##Human Party Trick
 

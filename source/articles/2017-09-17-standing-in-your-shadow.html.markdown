@@ -23,13 +23,13 @@ The Zellots' record is out on September 23rd. On the day of the release members 
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3069777647/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://supremeecho.bandcamp.com/album/zellots">Zellots by Supreme Echo</a></iframe>
 
-[Listen: Zellots - "On The Dole" @ BandCamp](https://supremeecho.bandcamp.com/album/zellots "#")
+[Listen: Zellots - "On The Dole" @ Bandcamp](https://supremeecho.bandcamp.com/album/zellots "#")
 
 While I'm on the topic of reissues I should also make mention of the self-titled Easy Money compilation that [Hosehead](https://hoseheadrecords.bandcamp.com/) put out this past May. Easy Money was a four-piece power-pop band from Victoria that was active from 79 through 83. While the band released two singles on Richards Records in 1980, the bulk of their recordings sat unreleased and unheard until this year. Hosehead's release collects their singles plus 11 more tracks.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=917458467/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://hoseheadrecords.bandcamp.com/album/compilation-lp-1979-1982">Compilation LP (1979-1982) by Easy Money</a></iframe>
 
-[Listen: Easy Money - "Getting Lost" @ BandCamp](https://hoseheadrecords.bandcamp.com/album/compilation-lp-1979-1982 "#")
+[Listen: Easy Money - "Getting Lost" @ Bandcamp](https://hoseheadrecords.bandcamp.com/album/compilation-lp-1979-1982 "#")
 
 ##Of Note
 
@@ -37,7 +37,7 @@ Speaking of Hosehead, label head Patrick Bertrand has been playing in the band [
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1806952106/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://cornerboys.bandcamp.com/album/just-dont-care-7">Just Don&#39;t Care 7&quot; by Corner Boys</a></iframe>
 
-[Listen: Corner Boys - "Just Don't Care" @ BandCamp](https://cornerboys.bandcamp.com/album/just-dont-care-7 "#")
+[Listen: Corner Boys - "Just Don't Care" @ Bandcamp](https://cornerboys.bandcamp.com/album/just-dont-care-7 "#")
 
 While we're on the topic of Drunken Sailor, the label will continue to be the home of Halifax's [Booji Boys](https://boojiboysfuneral.bandcamp.com/) when they release their second LP. Guitarist Cody Googoo announced that the new record is almost complete, but no other details are available yet. Is this my favourite band right now? Probably. It's a damn shame they won't be awarded the [Polaris Prize](https://polarismusicprize.ca/) this week, but it's not for my lack of trying.
 
@@ -83,7 +83,7 @@ A few weeks ago I shared a song from [Don't Bother](http://dontbothermusic.bandc
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3652123426/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://dontbothermusic.bandcamp.com/album/keep-up">Keep Up! by Don&#39;t Bother</a></iframe>
 
-[Listen: Don't Bother - "Keep Up" @ BandCamp](https://dontbothermusic.bandcamp.com/album/keep-up "#")
+[Listen: Don't Bother - "Keep Up" @ Bandcamp](https://dontbothermusic.bandcamp.com/album/keep-up "#")
 
 September continues to be an incredibly heavy release month and full-album streams of the latest records keep arriving. You can for a limited time check out [METZ](http://www.metzztem.com/)' Steve Albini-recorded *Strange Peace* over at [CBC Music](http://www.cbcmusic.ca/first-plays/495/first-play-metz-strange-peace) and *Luciferian Towers*, the latest post-rock opus from [Godspeed You! Black Emperor](http://www.brainwashed.com/godspeed/), at [NPR](http://www.npr.org/2017/09/14/550446122/first-listen-godspeed-you-black-emperor-luciferian-towers).
 

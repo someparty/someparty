@@ -49,13 +49,13 @@ Speaking of FME, one of the highlights was seeing Montreal's [Laura Sauvage](htt
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1603753621/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://laurasauvage.bandcamp.com/album/the-beautiful">&quot;The Beautiful&quot; by Laura Sauvage</a></iframe>
 
-[Listen: Laura Sauvage - "Alien (Anything Like It, Have You?)" @ BandCamp](https://laurasauvage.bandcamp.com/ "#")
+[Listen: Laura Sauvage - "Alien (Anything Like It, Have You?)" @ Bandcamp](https://laurasauvage.bandcamp.com/ "#")
 
 Saint-Lambert rock band [Zen Bamboo](https://zenbamboo.bandcamp.com/) have released a new single titled "Si c'est correct." The track was produced and engineered by [Malajube](https://malajube.bandcamp.com/)'s Thomas Augustin and will appear as part of the November installment of their album, which they've divided into chunks and are trickling out over four volumes. A video for the track can also be found on [YouTube](https://www.youtube.com/watch?v=ilHg4IRCntM).
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1768249204/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://zenbamboo.bandcamp.com/track/si-cest-correct">si c&#39;est correct by Zen Bamboo</a></iframe>
 
-[Listen: Zen Bamboo - "Si c'est correct" @ BandCamp](https://zenbamboo.bandcamp.com/ "#")
+[Listen: Zen Bamboo - "Si c'est correct" @ Bandcamp](https://zenbamboo.bandcamp.com/ "#")
 
 [Jesse Locke](https://twitter.com/wipeoutbeat) of [Century Palm](https://centurypalm.bandcamp.com/) and [Tough Age](https://tough-age.bandcamp.com/) recently announced that he'd be joining Hamilton's  [Simply Saucer](https://www.simplysaucer.com/) on a US tour in November. Also joining the band for the tour: Craig Bell of Cleveland proto-punk legends Rocket From The Tombs! There are no dates to share for this one yet, but pretty cool nonetheless.
 
@@ -71,7 +71,7 @@ Toronto hardcore group [Twin Rivals](https://twinrivals.bandcamp.com/), who rece
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3310713983/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://twinrivals.bandcamp.com/track/your-light">Your Light by Twin Rivals</a></iframe>
 
-[Listen: Twin Rivals - "Your Light" @ BandCamp](https://twinrivals.bandcamp.com/track/your-light "#")
+[Listen: Twin Rivals - "Your Light" @ Bandcamp](https://twinrivals.bandcamp.com/track/your-light "#")
 
 
 I'm pretty excited to welcome Toronto's [Bovine Sex Club](http://www.bovinesexclub.com/) on board as our September sponsor. I remember seeing the Bovine for the first time when I would take school trips into the city, and the dramatic junk-art exterior of the place was both fascinating and a little scary.  The iconic Queen Street West bar and live music venue has a number of shows coming up this fall, including Seas (members of Moneen) on [September 15](http://www.bovinesexclub.com/website/viewevent.php?id=1937) and the Plan 37 album release on [September 23](http://www.bovinesexclub.com/website/viewevent.php?id=1936).

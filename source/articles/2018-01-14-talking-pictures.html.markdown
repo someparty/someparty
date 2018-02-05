@@ -13,7 +13,7 @@ Bria Salmena's vocals sound pretty spectacular on this record. Listen to the fou
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3934359322/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=19673017/transparent=true/" seamless><a href="http://frigs.bandcamp.com/album/basic-behaviour">Basic Behaviour by FRIGS</a></iframe>
 
-[Listen: FRIGS - "Talking Pictures" @ BandCamp](https://frigs.bandcamp.com/track/talking-pictures "#")
+[Listen: FRIGS - "Talking Pictures" @ Bandcamp](https://frigs.bandcamp.com/track/talking-pictures "#")
 
 I'm not sure how much I can say about Welland, Ontario's three-piece [Dboy](https://www.dboylove.com). Hell, I'm not even sure if it's safe to pin them to the Rose City. Some evidence points that way, notably that the band's debut full length, a mock-live record titled *Prove Your Love - Live in Belem*, was recorded by Welland's [Daniel Romano](http://www.danielromanomusic.com/). Oh, that and the fact that a line in their manifesto claims "DBOY has seized the means of production in order to keep Welland the center of the universe." Did I mention they have a manifesto? This, good reader, is a band with a fucking manifesto.
 
@@ -23,7 +23,7 @@ Dboy's presenting a remix of Turbonegro's costuming (and liberal application of 
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3147524406/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://proveyourlove.bandcamp.com/album/prove-your-love-live-in-belem">Prove Your Love - Live in Belem by DBOY</a></iframe>
 
-[Listen: DBOY - "Prove Your Love - Live in Belem" @ BandCamp](https://proveyourlove.bandcamp.com/ "#")
+[Listen: DBOY - "Prove Your Love - Live in Belem" @ Bandcamp](https://proveyourlove.bandcamp.com/ "#")
 
 Celebrated Halifax indie-rock act [Nap Eyes](https://napeyes.bandcamp.com/) have announced the follow-up to their 2016 LP *Through Rock Fish Scale*. The band will return with *I'm Bad Now* on March 9, with [You've Changed Records](http://youvechangedrecords.com/) handling the Canadian release ([Paradise of Bachelors](http://www.paradiseofbachelors.com/) is covering the States, with [Jagjaguwar](https://jagjaguwar.com/) picking up the rest of the world). The new record features 10 songs, with an extra available digitally. The lead track "Every Time the Feeling" is streaming now. Frontman Nigel Chapman's crafted a high concept for the record, one that seems to holds its heady complexity up in contrast to the amiable, easy groove of Nap Eyes' music. The narrative's wrapped up in multiversal theory, as inspired by the writing of the British philosopher Olaf Stapledon. Grab a coffee and see what you can parse from the initial [press release](http://youvechangedrecords.com/2018/01/10/new-release-nap-eyes-im-bad-now/), which must have taken Paradise of Bachelors founder Brendan Greaves a minor eternity to craft.
 
@@ -37,7 +37,7 @@ Early in January, a pair of low-fi punk songs from a Windsor-based band dubbed [
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3101386885/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://nofixforyou.bandcamp.com/album/untitled">Untitled by No Fix</a></iframe>
 
-[Listen: No Fix - "Local Boys" / "Negative Reclusive" @ BandCamp](https://nofixforyou.bandcamp.com/album/untitled "#")
+[Listen: No Fix - "Local Boys" / "Negative Reclusive" @ Bandcamp](https://nofixforyou.bandcamp.com/album/untitled "#")
 
 A couple of days ago the Guelph, Ontario duo known only as the [Bullshit Hardcore Band](https://onedimensionalband.bandcamp.com) released a three-song EP. *False Flags, News Rags, and Body Bags* features three aggressively political songs, the title track along with "Skin in the Game" and "Apathy Rules." The band wrote and recorded the material in the spring and summer of 2017. If you want a sense of where this is rooted, check this note on an excerpt the band includes in the first song:
 
@@ -59,7 +59,7 @@ Toronto garage-punk trio [Faiyaz And The Wasted Chances](https://faiyazandthewas
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3853204884/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1700577749/transparent=true/" seamless><a href="http://faiyazandthewastedchances.bandcamp.com/album/breakfast-in-bed-spilt-milk-singles">Breakfast in Bed / Spilt Milk Singles by Faiyaz And The Wasted Chances</a></iframe>
 
-[Listen: Faiyaz And The Wasted Chances - "Breakfast in Bed" @ BandCamp](https://faiyazandthewastedchances.bandcamp.com/track/breakfast-in-bed "#")
+[Listen: Faiyaz And The Wasted Chances - "Breakfast in Bed" @ Bandcamp](https://faiyazandthewastedchances.bandcamp.com/track/breakfast-in-bed "#")
 
 NPR's [Tiny Desk](https://www.npr.org/series/tiny-desk-concerts/) series, which features bands performing live at the desk of [All Songs Considered](https://www.npr.org/sections/allsongs/) host Bob Boilen, recently featured
 [The Weather Station](http://www.theweatherstation.net/). Tamara Lindeman's joined for the session by bassist Ben Whiteley, Ian Kehoe (Attack In Black, Marine Dreams) on drums, and Will Kidman (Constantines, Woolly Leaves) on guitar to perform songs from the group's 2017 self-titled record. These include "Thirty," "You and I (On the Other Side of the World)," and "Free."

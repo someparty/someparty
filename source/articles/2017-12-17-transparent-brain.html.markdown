@@ -9,11 +9,11 @@ Let's take a minute to appreciate how essential [Ancient Shapes](http://ancients
 
 It wasn't crazy to assume that Romano'd forever leave the youthful [Attack In Black](https://www.facebook.com/attackinblack/) in the past as he pursued a serious musical career.  That's why Ancient Shapes is such a delight. Not only did Romano throw everyone by revisiting punk rock, but he did it by tapping a well of influence 25 or 30 years earlier than Attack In Black ever dared tread. That band's become an essential counterbalance to Romano's solo work, particularly as that material trends further into lush psychedelia. It also pokes holes in any attempt to pigeonhole Dan's direction as an artist. He's not returning from some roots diversion to the sound of his youth. He's not playing the nostalgia circuit for those early fans. He's operating on a whole other level and that uncertainty is thrilling.
 
-The latest from Ancient Shapes is a three-song EP that's both a fundraiser and a tribute. *Rats Forever* leads with a cover of the song "Teenagers" by early 80s Portland garage punk band the Rats. The Rats were one of Fred Cole's projects. In it the Lollypop Shoppe frontman played guitar and sang, with his wife Toddy on bass and a revolving list of drummers. Cole, of course, passed away this November at the age of 69. Two originals accompany the cover: "Transparent Brain" and "Something is in Flux." All proceeds from the album are being donated to the [Toronto Overdose Prevention Society](https://www.facebook.com/TorontoOPS/), a funding effort to support Overdose Action Toronto, the Toronto Harm Reduction Alliance, and the Toronto Harm Reduction Worker's Union. You can buy the release at BandCamp or donate directly to the organization's ongoing [crowdfunding campaign](https://www.gofundme.com/torontooverdosepreventionsociety).
+The latest from Ancient Shapes is a three-song EP that's both a fundraiser and a tribute. *Rats Forever* leads with a cover of the song "Teenagers" by early 80s Portland garage punk band the Rats. The Rats were one of Fred Cole's projects. In it the Lollypop Shoppe frontman played guitar and sang, with his wife Toddy on bass and a revolving list of drummers. Cole, of course, passed away this November at the age of 69. Two originals accompany the cover: "Transparent Brain" and "Something is in Flux." All proceeds from the album are being donated to the [Toronto Overdose Prevention Society](https://www.facebook.com/TorontoOPS/), a funding effort to support Overdose Action Toronto, the Toronto Harm Reduction Alliance, and the Toronto Harm Reduction Worker's Union. You can buy the release at Bandcamp or donate directly to the organization's ongoing [crowdfunding campaign](https://www.gofundme.com/torontooverdosepreventionsociety).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3991218460/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://ancientshapes.bandcamp.com/album/rats-forever">Rats Forever by Ancient Shapes</a></iframe>
 
-[Listen: Ancient Shapes - "Rats Forever" @ BandCamp](http://ancientshapes.bandcamp.com/album/rats-forever "#")
+[Listen: Ancient Shapes - "Rats Forever" @ Bandcamp](http://ancientshapes.bandcamp.com/album/rats-forever "#")
 
 It's particularly exciting how Ancient Shapes is starting to play off of Dan's solo endeavours. This winter he'll be taking the Jazz Police out west for a continuation of the *tournée infinite* in support of *Modern Pressure*. They kick off on January 10 in Winnipeg at The Good Will and wrap up on the 20th in Vancouver at Cobalt. Of course, if you drive out to BC, you've got get back home, so they're doing that as Ancient Shapes. That guise plays Vancouver four days later on January 24 and heads eastward to wrap up at Toronto's Smiling Buddha on February 11. You can find all the dates at [You've Changed](http://youvechangedrecords.com/tours/).
 
@@ -45,7 +45,7 @@ Were you aware that Ottawa garage-punk band [Average Times](https://averagetimes
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4129895122/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://averagetimes.bandcamp.com/album/seconds">Seconds by Average Times</a></iframe>
 
-[Listen: Average Times - "Seconds" @ BandCamp](https://averagetimes.bandcamp.com/album/seconds "#")
+[Listen: Average Times - "Seconds" @ Bandcamp](https://averagetimes.bandcamp.com/album/seconds "#")
 
 It's list season and I've been spending a lot of time trying to sort out my favourite records of 2017. One that rises a notch every time I listen to it is [The Weather Station](http://www.theweatherstation.net/)'s powerful self-titled release on [Paradise of Bachelors](http://www.paradiseofbachelors.com/) and [Outside Music](https://www.outside-music.com/). [CBC Music](http://www.cbcmusic.ca/) recently posted a live session that features Tamara Lindeman and her band performing nine songs from the record, accompanied at times by a full string section.
 
@@ -63,11 +63,11 @@ Halifax D-beat hardcore group [Fragment](https://fragmentpunk.bandcamp.com) have
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1636059379/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://fragmentpunk.bandcamp.com/album/in-the-dust-lp">IN THE DUST LP by FRAGMENT</a></iframe>
 
-[Listen: Fragment - *In The Dust* @ BandCamp](https://fragmentpunk.bandcamp.com/album/in-the-dust-lp "#")
+[Listen: Fragment - *In The Dust* @ Bandcamp](https://fragmentpunk.bandcamp.com/album/in-the-dust-lp "#")
 
 Not to make this newsletter disproportionally about [Paul Lawton](https://paullawton.bandcamp.com/) week after week, but he's giving us a lot of material so I'm going to run with it. The former [Ketamines](https://ketamines.bandcamp.com/) member recently saw the demise of [Century Palm](https://centurypalm.bandcamp.com/) and the launch of his new group [Don't Bother](http://dontbothermusic.bandcamp.com). Given the transition, the Toronto musician's collected and published a wealth of demo recordings related to both projects.
 
-First up is a set we're calling *Century Paul*, which is a collection of Paul's demo material from 2014 through 2017 for Century Palm. Along with the music, you really should dig into the notes on the BandCamp pages. If you nerd-out about the connective tissue between bands it's just a wealth of information. Check this out:
+First up is a set we're calling *Century Paul*, which is a collection of Paul's demo material from 2014 through 2017 for Century Palm. Along with the music, you really should dig into the notes on the Bandcamp pages. If you nerd-out about the connective tissue between bands it's just a wealth of information. Check this out:
 
 > Ketamines did a big, stupid tour in June 2013, the band was me, Andrew Payne, Alex "Sex Dwarf" Hamlyn, Jesse Locke and Sarah Ford (who smartly bailed on the band right before tour). That tour was a killer, and by September Andrew, Sarah and Alex were out of the band (replaced by Joel French from Sam Coffey and Carmen Leah). Truthfully, I was in a really bad place that year (that was peak "Slagging Off" / "Paul Lawton, most hated man in Canada" era), and was alienating to everyone around me. That tour was fateful, because Andrew, Alex and Jesse and I also did a few sets as Zebrassieres, Andrew's band from Ottawa that I truly admired.
 >
@@ -75,7 +75,7 @@ First up is a set we're calling *Century Paul*, which is a collection of Paul's 
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3487871602/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://paullawton.bandcamp.com/album/century-paul-2014-2017">Century Paul (2014-2017) by Century Paul</a></iframe>
 
-[Listen: Century Paul (2014-2017) @ BandCamp](https://paullawton.bandcamp.com/album/century-paul-2014-2017 "#")
+[Listen: Century Paul (2014-2017) @ Bandcamp](https://paullawton.bandcamp.com/album/century-paul-2014-2017 "#")
 
 Paul also posted a set titled *Bother*, featuring garage rock demoed in the period between the end of Century Palm and the eventual launch of Don't Bother. Lawton comments:
 
@@ -83,6 +83,6 @@ Paul also posted a set titled *Bother*, featuring garage rock demoed in the peri
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3236396529/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://paullawton.bandcamp.com/album/bothered-2017">Bothered (2017) by Bother</a></iframe>
 
-[Listen: Bothered @ BandCamp](https://paullawton.bandcamp.com/album/bothered-2017 "#")
+[Listen: Bothered @ Bandcamp](https://paullawton.bandcamp.com/album/bothered-2017 "#")
 
 That's it for this week, perhaps this calendar year. Unless something noteworthy goes down between now and the end of December, Some Party's taking the holidays off. Cheers.

@@ -11,13 +11,13 @@ Last week Nathan Burger and David O'Connor, the drummer and lead vocalist of Ham
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2424768229/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://pneumatictube.bandcamp.com/album/pneumatic-tube">Pneumatic Tube by Pneumatic Tube</a></iframe>
 
-[Listen: Pneumatic Tube @ BandCamp](https://pneumatictube.bandcamp.com/album/pneumatic-tube "#")
+[Listen: Pneumatic Tube @ Bandcamp](https://pneumatictube.bandcamp.com/album/pneumatic-tube "#")
 
 Pneumatic Tube's of course not the only outlet for the TV Freaks members. It joins the ensemble [Sweet Dave and the Shallow Graves](https://sweetdaveandtheshallowgraves.bandcamp.com/), who released and toured behind *Mental Jails* earlier in the year. Three-quarters of TV Freaks and vocalist Angie Lanza have been performing as [Uncontrollable Urge](http://theuncontrollableurge.bandcamp.com/) at shows around Southern Ontario. That group just finished recording their debut record, which we should hear something from soon. Freaks bassist Kevin Bell also recently released a solo set under the name [Glittering Prizes](https://glitteringprizesband.bandcamp.com/). Like everything from this family, it's short, fast, loud and a little off-kilter.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3028539184/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://glitteringprizesband.bandcamp.com/album/glittering-prizes-ep">Glittering Prizes EP by Glittering Prizes</a></iframe>
 
-[Listen: Glittering Prizes @ BandCamp](https://glitteringprizesband.bandcamp.com/ "#")
+[Listen: Glittering Prizes @ Bandcamp](https://glitteringprizesband.bandcamp.com/ "#")
 
 Side-projects aside, TV Freaks proper are hard at work on a new record. The band's currently writing for the follow up to 2015's [Deranged](http://www.derangedrecords.com/)-released *Bad Luck Charms*, which saw the group produced by Dallas Good of [The Sadies](http://www.thesadies.net/) and mixed by Don Pyle of [Shadowy Men on a Shadowy Planet](https://shadowy.brainiac.com/). The band should have some new stuff together for December, which will see them both open one of those big ticket Alexisonfire reunion gigs then burn down 2017 at [This Ain't Hollywood](https://www.facebook.com/events/125834558086235/) for a New Years gig with Daniel Romano's Ancient Shapes and Ian Kehoe.
 
@@ -43,7 +43,7 @@ As they're between records I've not had much to say yet about Greys in the lifes
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2984399029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://hereticalobjects.bandcamp.com/album/seance-works">Seance Works by C. R. Gillespie</a></iframe>
 
-[Listen: C.R. Gillespie - *Séance Works* @ BandCamp](https://hereticalobjects.bandcamp.com/album/seance-works "#")
+[Listen: C.R. Gillespie - *Séance Works* @ Bandcamp](https://hereticalobjects.bandcamp.com/album/seance-works "#")
 
 Toronto indie-pop act [Josh Mover & The Shakers](https://joshmoverandtheshakers.bandcamp.com/) have released a chill new single titled "Into a Ghost." The dark little tune was recorded at Union Sound Company by Ian Gomes (Teenanger, Odonis Odonis) and features Mover backed by Dilly Dally drummer Benjamin Reinhartz, Will Hunter and Joseph Landau of [Formalists](https://formalists.bandcamp.com/) on keys and lead guitar respectively, Mat Wronski of [The Sulks](https://thesulks.bandcamp.com/) on bass, and backing vocals from Clara Klein. The track will appear on an EP of the same name sometime soon.
 
@@ -67,7 +67,7 @@ London, Ontario punk band [Single Mothers](https://singlemothersband.bandcamp.co
 
 [Watch: Single Mothers - Audiotree Live @ Vimeo](https://vimeo.com/241019806 "#")
 
-[Listen: Single Mothers - Audiotree Live @ BandCamp](https://singlemothersband.bandcamp.com/album/single-mothers-audiotree-live "#")
+[Listen: Single Mothers - Audiotree Live @ Bandcamp](https://singlemothersband.bandcamp.com/album/single-mothers-audiotree-live "#")
 
 With his cross-country US tour long in his rear-view mirror, Calgary folk-punk road warrior [Seth Anderson](https://www.sethandersonmusic.com/) is over in Europe playing the Folk Machine Tour with Forest Pooky (based out of Serrières, France) and Reno, Nevada's Spike McGuire. Seth has two new songs on an EP produced for the tour, titled "Life Without the Fight" and "Meteors." You can check out the whole set below. The tour is currently in France and will visit Belgium, Germany, and Switzerland before the end of the year. Seth has the full itinerary up on his [Facebook](https://www.facebook.com/sethandersonsongs/) page so check there for dates and details.
 

@@ -24,7 +24,7 @@ Last week Bonnie Doon opened for [Weaves](https://www.weavesband.com/) when they
 
 [Watch: Weaves - "Slicked" @ YouTube](https://www.youtube.com/watch?time_continue=68&v=BEV1Zn2OJaY "#")
 
-Last week I wrote about the impending end of [Century Palm](https://centurypalm.bandcamp.com/) and listed off the three of the four members' other projects. I wasn't sure when I published what vocalist Andrew Payne was doing, but it took about 5 minutes for someone to fill me in. Payne, who fronted Ottawa's [Zebrassieres](https://zebrassieres.bandcamp.com/) before relocating to Toronto, is now working on a solo electronic music project under the guise [Vanity Phase](https://vanityphase.bandcamp.com/). He posted a video recently for the song "Feed My Mind," one of two tracks he has online (the other, "Move On" is at [BandCamp](https://vanityphase.bandcamp.com/)). The video is super weird and I love it.
+Last week I wrote about the impending end of [Century Palm](https://centurypalm.bandcamp.com/) and listed off the three of the four members' other projects. I wasn't sure when I published what vocalist Andrew Payne was doing, but it took about 5 minutes for someone to fill me in. Payne, who fronted Ottawa's [Zebrassieres](https://zebrassieres.bandcamp.com/) before relocating to Toronto, is now working on a solo electronic music project under the guise [Vanity Phase](https://vanityphase.bandcamp.com/). He posted a video recently for the song "Feed My Mind," one of two tracks he has online (the other, "Move On" is at [Bandcamp](https://vanityphase.bandcamp.com/)). The video is super weird and I love it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3kw56rAQlJU" frameborder="0" allowfullscreen></iframe>
 

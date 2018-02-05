@@ -37,7 +37,7 @@ class SomePartyRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
       format("<div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
     elsif raw_html.include? 'bandcamp'
       doc.css('iframe').add_class('lazyload')
-      # BandCamp's narrow player doesn't center nicely with the provided inline styles
+      # Bandcamp's narrow player doesn't center nicely with the provided inline styles
       if raw_html.include? 'border: 0; width: 100%; height: 120px;'
         doc.at_css('iframe').set_attribute('style', 'border: 0; width: 700px; max-width: 100%; height: 120px;')
       end

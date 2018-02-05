@@ -43,7 +43,7 @@ The material on these records is from the era when the band, originally from Edm
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=230611430/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://thefamines.bandcamp.com/album/the-complete-collected-singles-2008-2011">the Complete Collected Singles 2008-2011 by the Famines</a></iframe>
 
-[Listen: The Famines - *The Complete Collected Singles* @ BandCamp](http://thefamines.bandcamp.com/album/the-complete-collected-singles-2008-2011 "#")
+[Listen: The Famines - *The Complete Collected Singles* @ Bandcamp](http://thefamines.bandcamp.com/album/the-complete-collected-singles-2008-2011 "#")
 
 Ottawa's [Jon Creeden](http://www.joncreeden.com/) and his band the Flying Hellfish have released an EP of demos in the lead up to their appearance at [The Fest](http://thefestfl.com/) in Gainesville, Florida later this month. The set features a few live demos along with the finished version of the title track to the punk rock band's upcoming 2018 full-length *Stall*. The covers are a lot of fun, as they include both a spot-on version of Hot Water Music's "Jack of All Trades" and an aggressive take on the Propagandhi / Weakerthans staple "Anchorless."
 

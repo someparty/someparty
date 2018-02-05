@@ -44,7 +44,7 @@ Pleasence has also announced the signing of Toronto post-punk act [WHIMM](https:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YUjXYlohJfU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Punknews.org [premiered](https://www.punknews.org/article/64372/media-dead-broke-salem-punknews-exclusive) the new EP from Oakville's [Dead Broke](https://deadbrokeband.com/). The three song set, titled *Nice Words*, is now available over at [BandCamp](https://dead-broke.bandcamp.com/). The four-piece will be touring their indie rock / punk sound down to The Fest in Gainesville, Florida this October.
+Punknews.org [premiered](https://www.punknews.org/article/64372/media-dead-broke-salem-punknews-exclusive) the new EP from Oakville's [Dead Broke](https://deadbrokeband.com/). The three song set, titled *Nice Words*, is now available over at [Bandcamp](https://dead-broke.bandcamp.com/). The four-piece will be touring their indie rock / punk sound down to The Fest in Gainesville, Florida this October.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2235866708/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://dead-broke.bandcamp.com/album/nice-words">Nice Words by Dead Broke</a></iframe>
 

@@ -17,7 +17,7 @@ We were aware that Halifax punk band the [Booji Boys](https://boojiboysfuneral.b
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1019722367/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://boojiboysfuneral.bandcamp.com/album/weekend-rocker-lp">Weekend Rocker LP by Booji Boys</a></iframe>
 
-[Listen: Booji Boys - *Weekend Rocker* @ BandCamp](https://boojiboysfuneral.bandcamp.com/album/weekend-rocker-lp "#")
+[Listen: Booji Boys - *Weekend Rocker* @ Bandcamp](https://boojiboysfuneral.bandcamp.com/album/weekend-rocker-lp "#")
 
 Then there's Welland, Ontario's [Daniel Romano](http://www.danielromanomusic.com/). Danny had already announced an ingenious winter tour: he'd head out west to Vancouver with his band the Jazz Police while performing music from his solo catalogue, then change guises in BC and head back to Toronto playing as the punk group [Ancient Shapes](http://ancientshapes.bandcamp.com). Ancient Shapes even released a [charity EP](http://ancientshapes.bandcamp.com/album/rats-forever) in mid-December to get back on everyone's radar.
 
@@ -25,11 +25,11 @@ That wasn't enough though. Not one to be outdone when it comes to aggressively c
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2699164792/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://danielromano.bandcamp.com/album/nerveless">NERVELESS by Daniel Romano</a></iframe>
 
-[Listen: Daniel Romano: *NERVELESS* @ BandCamp](https://danielromano.bandcamp.com/album/nerveless "#")
+[Listen: Daniel Romano: *NERVELESS* @ Bandcamp](https://danielromano.bandcamp.com/album/nerveless "#")
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3573456479/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://danielromano.bandcamp.com/album/human-touch">HUMAN TOUCH by Daniel Romano</a></iframe>
 
-[Listen: Daniel Romano: *HUMAN TOUCH* @ BandCamp](https://danielromano.bandcamp.com/album/human-touch "#")
+[Listen: Daniel Romano: *HUMAN TOUCH* @ Bandcamp](https://danielromano.bandcamp.com/album/human-touch "#")
 
 The release schedules both acts have adopted here are abnormal, and there are mostly rational business reasons why that is. Labels don't release records on Christmas day when the audience is distracted. Bands avoid releasing material too close to the end of the year-end recap cycle because they want consideration. Barely anyone releases two full-lengths in a calendar year, and never two records at once, for a whole host of marketing reasons. Let's not even address the ticking time-bomb shelf life. As a fan, though, this is all quite exciting, and dare I say pretty punk. The industry works in predictable cycles, but as an artist, you need not bend to conventional wisdom. I'm just glad it's not my job to try and promote these things.
 
@@ -47,13 +47,13 @@ Over the holidays a four band split appeared featuring Toronto's irreverent punk
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=829282408/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://wlmrt.bandcamp.com/album/4-band-split">4 BAND SPLIT by WLMRT</a></iframe>
 
-[Listen: WLMRT / Deathsticks / Nüshu / Nightbummerz split @ BandCamp](https://wlmrt.bandcamp.com/album/4-band-split "#")
+[Listen: WLMRT / Deathsticks / Nüshu / Nightbummerz split @ Bandcamp](https://wlmrt.bandcamp.com/album/4-band-split "#")
 
-Ottawa's Caylie Runciman, better known as the indie-pop act [Boyhood](https://www.facebook.com/boyh00d/), released a handful of recordings in December. These include the songs "Drivin'" and "He Don't," both of which should appear in 2018 on an upcoming record titled *Bad Mantras*. It'll be following up 2012's Bruised Tongue-released *When I'm Hungry* LP. A cover of "Wivenhoe Bells II," originally by English low-fi pop group Cleaners from Venus, was posted at [BandCamp](https://boyhoodsongs.bandcamp.com/track/wivenhoe-bells-ii-cleaners-from-venus) for the holidays as well.
+Ottawa's Caylie Runciman, better known as the indie-pop act [Boyhood](https://www.facebook.com/boyh00d/), released a handful of recordings in December. These include the songs "Drivin'" and "He Don't," both of which should appear in 2018 on an upcoming record titled *Bad Mantras*. It'll be following up 2012's Bruised Tongue-released *When I'm Hungry* LP. A cover of "Wivenhoe Bells II," originally by English low-fi pop group Cleaners from Venus, was posted at [Bandcamp](https://boyhoodsongs.bandcamp.com/track/wivenhoe-bells-ii-cleaners-from-venus) for the holidays as well.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2399315780/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://boyhoodsongs.bandcamp.com/track/drivin">Drivin&#39; by boyhood</a></iframe>
 
-[Listen: Boyhood - "Drivin'" @ BandCamp](https://boyhoodsongs.bandcamp.com/track/drivin "#")
+[Listen: Boyhood - "Drivin'" @ Bandcamp](https://boyhoodsongs.bandcamp.com/track/drivin "#")
 
 A video for "He Don't" has been released as well. Montreal-based photographer [Monika Kraska](https://monikakraska.myportfolio.com/), who's also Runciman's sister-in-law, directed, shot, and edited the clip. You can check it out below. Boyhood was one of the many acts confirmed over the holidays for the [Megaphono](http://www.megaphono.tv/)music showcase festival in Ottawa.
 
@@ -61,7 +61,7 @@ A video for "He Don't" has been released as well. Montreal-based photographer [M
 
 [Watch: Boyhood - "He Don't" @ YouTube](https://www.youtube.com/watch?v=iOd8Kkr-P-M "#")
 
-[The Heat Death](https://theheatdeath.bandcamp.com) is a collaboration between José Miguel Contreras of Toronto indie vets [By Divine Right](https://bydivineright.bandcamp.com/) and [Shotgun Jimmie](https://shotgunjimmie.net/). The duo's been heralding their debut for a year now, and with the release finally pending we're starting to hear a lot more from it. The band's self-titled record will feature eleven songs, four of which you can currently preview at BandCamp. Jimmie also revealed a video which previews the songs "Blue Beard," "You Know Who," and "Master of Emotion" at YouTube. Check it out below. The Heat Death oscillates between midtempo pop-rock (Jimmie's leads) and a lush slow-burn where Contreras takes charge, both vocalists maintaining their distinctive traits. It's all washed in a spacey reverb that gives this project its own character. The Heat Death's self-titled full length arrives on February 14.
+[The Heat Death](https://theheatdeath.bandcamp.com) is a collaboration between José Miguel Contreras of Toronto indie vets [By Divine Right](https://bydivineright.bandcamp.com/) and [Shotgun Jimmie](https://shotgunjimmie.net/). The duo's been heralding their debut for a year now, and with the release finally pending we're starting to hear a lot more from it. The band's self-titled record will feature eleven songs, four of which you can currently preview at Bandcamp. Jimmie also revealed a video which previews the songs "Blue Beard," "You Know Who," and "Master of Emotion" at YouTube. Check it out below. The Heat Death oscillates between midtempo pop-rock (Jimmie's leads) and a lush slow-burn where Contreras takes charge, both vocalists maintaining their distinctive traits. It's all washed in a spacey reverb that gives this project its own character. The Heat Death's self-titled full length arrives on February 14.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Xg0yEy3lpA?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -83,25 +83,25 @@ In December a pair of Hamilton bands that share a few members played a double ca
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3447172171/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://blackbaron.bandcamp.com/album/seek-your-pleasure-b-w-another-day-above-ground">Seek Your Pleasure b/w Another Day Above Ground by Black Baron</a></iframe>
 
-[Listen: Black Baron - "Seek Your Pleasure" @ BandCamp](https://blackbaron.bandcamp.com/album/seek-your-pleasure-b-w-another-day-above-ground "#")
+[Listen: Black Baron - "Seek Your Pleasure" @ Bandcamp](https://blackbaron.bandcamp.com/album/seek-your-pleasure-b-w-another-day-above-ground "#")
 
-The new year came with a handful of new music from the Vancouver scene. [Chris-a-riffic](https://chrisariffic.bandcamp.com/), the quirky solo project of Chris Alscher ([They Shoot Horses Don't They?](https://theyshoothorsesdontthey.bandcamp.com/), [Collapsing Opposites](http://collapsingopposites.com/), Bible Belts, CiTR's [Parts Unknown](http://www.citr.ca/radio/parts-unknown/)), is back with a new full length on March 20 titled *Post-Season*. The 14 song set features a few Vancouver personalities you may know, including [Shawn Mrazek](http://shawnmrazek.com/) on drums and [Jay Arner](https://jayarner.bandcamp.com/) playing guitar and bass (and behind the boards), with contributions from Jarrett Samson of [Tough Age](https://tough-age.bandcamp.com/) and [Adrian Teacher](https://adrianteacher.bandcamp.com/) of the Subs and Apollo Ghosts. You can preview three songs over at BandCamp now.
+The new year came with a handful of new music from the Vancouver scene. [Chris-a-riffic](https://chrisariffic.bandcamp.com/), the quirky solo project of Chris Alscher ([They Shoot Horses Don't They?](https://theyshoothorsesdontthey.bandcamp.com/), [Collapsing Opposites](http://collapsingopposites.com/), Bible Belts, CiTR's [Parts Unknown](http://www.citr.ca/radio/parts-unknown/)), is back with a new full length on March 20 titled *Post-Season*. The 14 song set features a few Vancouver personalities you may know, including [Shawn Mrazek](http://shawnmrazek.com/) on drums and [Jay Arner](https://jayarner.bandcamp.com/) playing guitar and bass (and behind the boards), with contributions from Jarrett Samson of [Tough Age](https://tough-age.bandcamp.com/) and [Adrian Teacher](https://adrianteacher.bandcamp.com/) of the Subs and Apollo Ghosts. You can preview three songs over at Bandcamp now.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2315885752/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://chrisariffic.bandcamp.com/album/post-season">Post-Season by Chris-a-riffic</a></iframe>
 
-[Listen: Chris-a-riffic - "Memorial Cup" @ BandCamp](https://chrisariffic.bandcamp.com/album/post-season "#")
+[Listen: Chris-a-riffic - "Memorial Cup" @ Bandcamp](https://chrisariffic.bandcamp.com/album/post-season "#")
 
 While you're on the west coast, take a peek at the newly posted self-titled release from [Material](https://materialtheband.bandcamp.com/). The seven-song set is currently unmastered, so look for it to shared again once the final product is in, but even without that polish it shows a ton of promise and comes packing a heavy Replacements influence. Outside of a single upcoming show, I know next to nothing about Material, so I'll follow up on this in the future. The band's playing a [benefit](https://www.facebook.com/events/157215995005374/) for Indigenous land defenders on January 12 with [Alien Boys](http://www.alienboys.xyz/), [Chainsaw Lawnmower](https://championlawnmower.bandcamp.com/), and Deep End.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2520340906/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://materialtheband.bandcamp.com/album/material">Material by Material</a></iframe>
 
-[Listen: Material @ BandCamp](https://materialtheband.bandcamp.com/ "#")
+[Listen: Material @ Bandcamp](https://materialtheband.bandcamp.com/ "#")
 
-Ottawa party-punk quartet [New Swears](https://newswears.bandcamp.com/) released a charity single over the holidays. The songs "Illuminati Knights" and "Happy Birthday" find the band sounding a little more raw than their recent *And The Magic Of Horses* record found them. The band will donate all proceeds from the downloads to [Girls + Skate 613](http://ottawaskateboard.ca/girls-skate-613/) and [For Pivots Sake](http://ottawaskateboard.ca/for-pivots-sake/), organisations that provide mentoring and safe spaces for Ottawa youth to pick up skateboarding. You can grab the songs at BandCamp.
+Ottawa party-punk quartet [New Swears](https://newswears.bandcamp.com/) released a charity single over the holidays. The songs "Illuminati Knights" and "Happy Birthday" find the band sounding a little more raw than their recent *And The Magic Of Horses* record found them. The band will donate all proceeds from the downloads to [Girls + Skate 613](http://ottawaskateboard.ca/girls-skate-613/) and [For Pivots Sake](http://ottawaskateboard.ca/for-pivots-sake/), organisations that provide mentoring and safe spaces for Ottawa youth to pick up skateboarding. You can grab the songs at Bandcamp.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3349688037/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://newswears.bandcamp.com/album/illuminati-knights-happy-birthday">Illuminati Knights / Happy Birthday by New Swears</a></iframe>
 
-[Listen: New Swears - "Illuminati Knights" @ BandCamp](https://newswears.bandcamp.com/album/illuminati-knights-happy-birthday "#")
+[Listen: New Swears - "Illuminati Knights" @ Bandcamp](https://newswears.bandcamp.com/album/illuminati-knights-happy-birthday "#")
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2K6-zUBji3E?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 

@@ -11,7 +11,7 @@ I've yet to entirely figure out Zen Bamboo, stylistically. I first encountered t
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3929925992/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://zenbamboo.bandcamp.com/track/retour-au-noir">Retour au noir by Zen Bamboo</a></iframe>
 
-[Listen: Zen Bamboo - "Retour au noir" @ BandCamp](https://zenbamboo.bandcamp.com/track/retour-au-noir "#")
+[Listen: Zen Bamboo - "Retour au noir" @ Bandcamp](https://zenbamboo.bandcamp.com/track/retour-au-noir "#")
 
 Vancouver indie-pop act [Energy Slime](https://www.facebook.com/energyslime/), a side-project from members of [Jay Arner](https://jayarner.bandcamp.com/)'s band, have returned with a new single titled "It's Cold." The track's set for release on December 2 at the [Mint Records](http://www.mintrecs.com/) Ridiculously Early Xmas Party, where it'll be gifted to attendees as a  flexi disc greeting card.
 
@@ -27,7 +27,7 @@ While we're in Vancouver let's talk about [Necking](https://neckingband.bandcamp
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2911322872/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://neckingband.bandcamp.com/album/meditation-tape">Meditation Tape by Necking</a></iframe>
 
-[Listen: Necking - "All Melissas Are Keepers" @ BandCamp](https://neckingband.bandcamp.com/album/meditation-tape "#")
+[Listen: Necking - "All Melissas Are Keepers" @ Bandcamp](https://neckingband.bandcamp.com/album/meditation-tape "#")
 
 Toronto's [FRIGS](https://frigsmusic.com/) have shared the song "Doghead," the first preview of their upcoming LP for [Arts & Crafts](https://arts-crafts.ca/). It follows up the 2016 *Slush* EP and the subsequent "Chest" / "Trashyard" single. The new song was inspired by (and repurposes some dialogue from) *And the Ass Saw the Angel*, the 1989 novel by Australian legend Nick Cave. Vocalist Bria Salmena shows a huge amount of range on this track, and it tee's up the band's forthcoming record to be one to watch in 2018.
 
@@ -78,7 +78,7 @@ A new free compilation is showcasing the Southern Ontario hardcore scene. This i
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2720971294/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://tohc.bandcamp.com/album/toronto-hardcore-comp-vol-1">TORONTO HARDCORE COMP VOL.1 by toronto hardcore</a></iframe>
 
-[Listen: Toronto Hardcore Comp Vol.1 @ BandCamp](https://tohc.bandcamp.com/album/toronto-hardcore-comp-vol-1 "#")
+[Listen: Toronto Hardcore Comp Vol.1 @ Bandcamp](https://tohc.bandcamp.com/album/toronto-hardcore-comp-vol-1 "#")
 
 If you're looking for a compelling read, head to the CBC and check out [Julie Tausch](https://twitter.com/JuliaTausch)'s new piece titled "[Why Death From Above's alt-right controversy shouldn't come as a surprise](http://www.cbc.ca/arts/why-death-from-above-s-alt-right-controversy-shouldn-t-come-as-a-surprise-1.4395143)." In it, the author addresses the recent controversy that embroiled the popular Canadian rock band [Death From Above](http://www.deathfromabove1979.com/) when bassist Jesse Keeler was linked with the alt-right organization the Proud Boys in a viral blog post. Tausch looks at the band's history and argues "Death From Above's brand has been hipster men's rights activists (MRA) from the start."
 

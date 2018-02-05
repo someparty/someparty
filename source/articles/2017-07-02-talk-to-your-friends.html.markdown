@@ -23,7 +23,7 @@ The beauty of a project like this is how quick the turnaround can be when free o
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3029757273/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://thefamines.bandcamp.com/album/talk-to-your-friends">Talk to Your Friends by the Famines</a></iframe>
 
-You can acquire any of the Pentagon Black paper LPs what still exist from [BandCamp](https://thefamines.bandcamp.com/merch) or at shows.
+You can acquire any of the Pentagon Black paper LPs what still exist from [Bandcamp](https://thefamines.bandcamp.com/merch) or at shows.
 
 This week also say the release of the fourth [Dominionated](http://dominionated.ca/compilations/dominionated-iv/) compilation, a digital collection of classic Canadian songs covered and reinterpreted by modern Canadian bands. The labour of love was started back on the [Quick Before It Melts](http://www.quickbeforeitmelts.ca/) blog and has continued to the successor publication which shares its name. Part of the treat is the choice of songs, as "classic" doesn't necessarily imply "well-known" here and there's as much to explore in the source material as there are the performers.
 

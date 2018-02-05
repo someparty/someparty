@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Don't Bother forms in Toronto. No Warning returns. Videos from Sam Coffey, PUP, Fake Palms, Propagandhi, and The Weather Station.
 ---
 
-[Don't Bother](http://dontbothermusic.bandcamp.com) is a newly announced punk five-piece from Toronto, and the new project from Paul Lawton of [Century Palm](https://centurypalm.bandcamp.com/), [Ketamines](https://ketamines.bandcamp.com/), and [internet infamy](https://www.ominocity.com/2013/04/30/how-paul-lawton-became-the-most-hated-man-in-canadian-music-timeline/). The group features Lawton performing with Priya Thomas (who's played solo both under her own name and as [Iroquois Falls](https://iroquoisfalls.bandcamp.com/)), Mark Streeter of [Dorothea Paas](https://dorotheapaas.bandcamp.com/), and Matt Nish-Lapidus of [Several Futures](https://severalfutures.bandcamp.com/), along with Ronnie Tee and Marc Holmes. There's a single published song to the band's name at the moment, titled "Culture War Donner Party." Here's what the band had to say about in on BandCamp:
+[Don't Bother](http://dontbothermusic.bandcamp.com) is a newly announced punk five-piece from Toronto, and the new project from Paul Lawton of [Century Palm](https://centurypalm.bandcamp.com/), [Ketamines](https://ketamines.bandcamp.com/), and [internet infamy](https://www.ominocity.com/2013/04/30/how-paul-lawton-became-the-most-hated-man-in-canadian-music-timeline/). The group features Lawton performing with Priya Thomas (who's played solo both under her own name and as [Iroquois Falls](https://iroquoisfalls.bandcamp.com/)), Mark Streeter of [Dorothea Paas](https://dorotheapaas.bandcamp.com/), and Matt Nish-Lapidus of [Several Futures](https://severalfutures.bandcamp.com/), along with Ronnie Tee and Marc Holmes. There's a single published song to the band's name at the moment, titled "Culture War Donner Party." Here's what the band had to say about in on Bandcamp:
 
 >"this song is a critique of: [Torontopia](http://exclaim.ca/music/article/this_is_torontopia), big business indie, and about how I would kill to be involved in it. I've also been thinking about a listicle I read about the Donner party, where someone murdered two people to eat when trapped in the Sierra Nevada Mountains during one of the most brutal winters on record. One of the members murdered another member in self defense and was then was banished and I mean… I GET THAT.
 >
@@ -15,7 +15,7 @@ I exist outside the Canadian independent music establishment, both geographicall
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=126357830/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://dontbothermusic.bandcamp.com/track/culture-war-donner-party">Culture War Donner Party by Don&#39;t Bother</a></iframe>
 
-[Listen: Don't Bother - "Culture War Donner Party" @ BandCamp](https://dontbothermusic.bandcamp.com/track/culture-war-donner-party "#")
+[Listen: Don't Bother - "Culture War Donner Party" @ Bandcamp](https://dontbothermusic.bandcamp.com/track/culture-war-donner-party "#")
 
 Don't Bother makes their [live debut](https://www.facebook.com/events/132069460741631/) in Toronto this fall, where they'll open for Atlanta's Omni with the Sulks on November 9th at Smiling Buddha.
 
@@ -109,6 +109,6 @@ Montreal's [Blood and Glass](https://bloodandglass.bandcamp.com/) is an electro-
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=696854263/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://zenbamboo.bandcamp.com/album/volume-1-juv-nile">Volume 1: Juvénile by Zen Bamboo</a></iframe>
 
-[Listen: Zen Bamboo - "Volume 1: Juvénile" @ BandCamp](http://zenbamboo.bandcamp.com/album/volume-1-juv-nile "#")
+[Listen: Zen Bamboo - "Volume 1: Juvénile" @ Bandcamp](http://zenbamboo.bandcamp.com/album/volume-1-juv-nile "#")
 
 I interviewed Jenny Thibault, one of the event's organizers, a few weeks ago at [Punknews](https://www.punknews.org/article/64532/interviews-jenny-thibault-on-quebecs-fme) if you haven't checked that out yet. I also had a chat with French punk band [The Decline !](https://www.punknews.org/article/64580/interviews-the-decline-finally-cross-the-atlantic-for-fme) who are crossing the Atlantic for the first time to play the event. I'll be at FME next week, playing the part of the lost anglophone trying desperately to buy a beer without embarrassing himself. As such, next week I'll be a day or so late with the newsletter. You'll get by.

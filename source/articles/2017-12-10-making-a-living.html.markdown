@@ -45,7 +45,7 @@ Along with the audio, the band recorded a video for the song "Rebirth" from the 
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3957234545/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://selloutpunk.bandcamp.com/album/sellout-ii">Sellout II by Sellout</a></iframe>
 
-[Listen: Sellout - *Sellout II* @ BandCamp](https://selloutpunk.bandcamp.com/album/sellout-ii "#")
+[Listen: Sellout - *Sellout II* @ Bandcamp](https://selloutpunk.bandcamp.com/album/sellout-ii "#")
 
 Ottawa's [Steve Adamyk Band](http://www.steveadamykband.com) are back in the studio. They're working with producer [Mike Bond](http://www.producedbybond.com/) at [Wolf Lake Studios](https://www.wolflakestudios.com/) in Lac-des-Loups, Québec on what will become the follow-up to 2016's *Graceland*.
 
@@ -61,7 +61,7 @@ I've previously mentioned that frontman Kyle Krische is working this hockey seas
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=946194329/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3456357418/transparent=true/" seamless><a href="http://wayfarer.bandcamp.com/album/sleep-through-to-the-light">Sleep Through to the Light by Wayfarer</a></iframe>
 
-[Listen: Wayfarer - "Worn Out" @ BandCamp](https://wayfarer.bandcamp.com/track/worn-out "#")
+[Listen: Wayfarer - "Worn Out" @ Bandcamp](https://wayfarer.bandcamp.com/track/worn-out "#")
 
 Montreal punk festival [Pouzza](https://pouzzafest.com/) has started to trickle out their 2018 lineup. The event always brings together a roster that showcases local talent alongside some bigger name US  bands. So far the confirmed Canadian participants include Oakville's
  [Dead Broke](https://deadbrokeband.com/), Montreal ska-punk act [PL Mafia](https://plmafia.bandcamp.com/), and local punk band [The Horny Bitches](https://thehornybitches.bandcamp.com/). Pouzza's also announced a pair of reunion shows, with defunct Montreal street-punk group the [Brixton Robbers](https://brixtonrobbers.bandcamp.com/) returning to the fest (they played its second year in 2012) along with Calgary's [This Is A Standoff](https://www.facebook.com/thisisastandoff/). The latter group's original run lasted from 2007 through 2012.
@@ -70,13 +70,13 @@ Pouzza will also feature US punk acts Arms Aloft, City Mouse, Mike Frazier, Sinc
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2412293305/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=447778747/transparent=true/" seamless><a href="http://brixtonrobbers.bandcamp.com/album/bw-split-pins-vol-1-the-traders-brixton-robbers">BW split Pins vol. 1: The Traders / Brixton Robbers by Brixton Robbers</a></iframe>
 
-[Listen: Brixton Robbers - "How Did it Get There" @ BandCamp](https://brixtonrobbers.bandcamp.com/track/brixton-robbers-how-did-it-get-there "#")
+[Listen: Brixton Robbers - "How Did it Get There" @ Bandcamp](https://brixtonrobbers.bandcamp.com/track/brixton-robbers-how-did-it-get-there "#")
 
 Experimental and low-fi Ottawa rock projects [Empty Nesters](https://emptynesters.bandcamp.com/) and [Soft Life](https://softlife.bandcamp.com/) have released a 10-song split EP under the title *Empty Life*. Empty Nesters is the nom de plume of musician Eric Liao. Similarly, Soft Life is Marley Bouley. Both artists recorded their sides with drums by Robert Thomson.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3877504295/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://emptynesters.bandcamp.com/album/empty-life">Empty Life by Empty Nesters and Soft Life</a></iframe>
 
-[Listen: Empty Nesters and Soft Life - *Empty Life* @ BandCamp](https://emptynesters.bandcamp.com/album/empty-life "#")
+[Listen: Empty Nesters and Soft Life - *Empty Life* @ Bandcamp](https://emptynesters.bandcamp.com/album/empty-life "#")
 
 Calgary folk-punk [Seth Anderson](https://www.sethandersonmusic.com/) has posted a new live recording of his song "Meteors" for German music website [Alternative Entertainment](http://alternativeentertainment.de/). The song's an old one for Seth, originally appearing on 2008's *Refuge At Trail's End* album, which he recorded as The Renegade Kid. Seth is over in Europe as part of the Folk Machine Tour.
 
@@ -120,5 +120,5 @@ The band's been prolific in 2017, having just put out their third release of the
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=493026995/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=418200028/transparent=true/" seamless><a href="http://dopeysrobe.bandcamp.com/album/who-and-when-is-stephen-networks">Who And When Is Stephen Networks? by Dopey&#39;s Robe</a></iframe>
 
-[Listen: Dopey's Robe - "21st Century" @ BandCamp](https://dopeysrobe.bandcamp.com/track/21st-century "#")
+[Listen: Dopey's Robe - "21st Century" @ Bandcamp](https://dopeysrobe.bandcamp.com/track/21st-century "#")
 

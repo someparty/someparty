@@ -11,6 +11,6 @@ You're free to unsubscribe from Some Party at any time. You're also free to avoi
 
 The code for Some Party is published at [GitHub](https://github.com/someparty/someparty) and available under an MIT license.
 
-The online music ecosystem relies on third-party  companies to host music and video. It's likely that any of the services I share media from (YouTube, SoundCloud, BandCamp, Instagram, Twitter, Vimeo, etc) will include a traffic measurement mechanism in their embedded media players.
+The online music ecosystem relies on third-party  companies to host music and video. It's likely that any of the services I share media from (YouTube, SoundCloud, Bandcamp, Instagram, Twitter, Vimeo, etc) will include a traffic measurement mechanism in their embedded media players.
 
 The only other third-party service used here is Google Tag Manager and Google Analytics. My feelings won't be hurt if you block those on your end, but if you do please say hi once in a while so I know you're out there.

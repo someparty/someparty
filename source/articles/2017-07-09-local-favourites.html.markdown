@@ -22,7 +22,7 @@ So this is my formal acknowledgement, for the record, that the are some pretty d
 
 The Isotopes are taking their shtick across the pond this August when they tour to support CJ Ramone in the UK. You can find those dates at the Punknews link. If not for the strike, by the way, the 1994 World Series champions totally [could have been the Expos](http://www.cbssports.com/mlb/news/1994-mlb-strike-anniversary-what-if-the-expos-won-the-1994-world-series/).
 
-Gritty Saint John punk four-piece [Right Shitty](https://rightshitty.bandcamp.com/) (who I wrote about quite a bit back on the [second](https://www.someparty.ca/2017-06-04-best-buzz/) Some Party issue) are putting out a split release with Whitby, Ontario noise-duo [Deathsticks](https://buysomedeathsticks.bandcamp.com/). The New Brunswick band shares a pair of new songs while the Matt and Laura contribute "Local Favourites," an epic 9 minute wall of crunchy noise, distortion, and shouting. You can stream or buy the whole thing at BandCamp or on cassette at select shows.
+Gritty Saint John punk four-piece [Right Shitty](https://rightshitty.bandcamp.com/) (who I wrote about quite a bit back on the [second](https://www.someparty.ca/2017-06-04-best-buzz/) Some Party issue) are putting out a split release with Whitby, Ontario noise-duo [Deathsticks](https://buysomedeathsticks.bandcamp.com/). The New Brunswick band shares a pair of new songs while the Matt and Laura contribute "Local Favourites," an epic 9 minute wall of crunchy noise, distortion, and shouting. You can stream or buy the whole thing at Bandcamp or on cassette at select shows.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=359226132/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://rightshitty.bandcamp.com/album/deathsticks-split">Deathsticks Split by Right Shitty</a></iframe>
 
@@ -36,7 +36,7 @@ I watched Deathsticks perform at the Pentagon Black showcase that was part of th
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/3w-KBq_1mj8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Jim Di Gioia at [Dominionated](http://dominionated.ca/songs/past-blue-youth/) wrote highly of the new self-titled EP from angsty Regina post-punk act [Blue Youth](https://blueyouthsk.bandcamp.com), which came out this past May on [Grind Central](https://www.facebook.com/grindcentralrecords/). It was the first I'd heard of the three piece but there's a ton of energy and potential there. If you're partial to wound-up At The Drive-In style punk, you'd best check out the whole five song set over at BandCamp.
+Jim Di Gioia at [Dominionated](http://dominionated.ca/songs/past-blue-youth/) wrote highly of the new self-titled EP from angsty Regina post-punk act [Blue Youth](https://blueyouthsk.bandcamp.com), which came out this past May on [Grind Central](https://www.facebook.com/grindcentralrecords/). It was the first I'd heard of the three piece but there's a ton of energy and potential there. If you're partial to wound-up At The Drive-In style punk, you'd best check out the whole five song set over at Bandcamp.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1835833939/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://blueyouthsk.bandcamp.com/album/s-t-ep">s/t - EP by Blue Youth</a></iframe>
 

@@ -17,13 +17,13 @@ Last Friday, Adamyk reflected on Facebook about Eichhorn's death and importance 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=346180243/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://steveadamykband.bandcamp.com/album/speed-it-up">Speed It Up by Steve Adamyk Band</a></iframe>
 
-[Listen: Steve Adamyk - "Speed It Up" @ BandCamp](https://steveadamykband.bandcamp.com/album/speed-it-up "#")
+[Listen: Steve Adamyk - "Speed It Up" @ Bandcamp](https://steveadamykband.bandcamp.com/album/speed-it-up "#")
 
 It was fascinating how frequently P.Trash intersected with local music scenes across Canada, and his label served to amplify the reach of small bands to a global audience. Furthermore, Peter often paired with the bedroom labels that had emerged here, either offering European distribution or collaborating directly on projects. The now-defunct [Mammoth Cave](https://mammothcave.bandcamp.com), for example, co-released their 2011 *Bloodstains Across Ontario* compilation with P.Trash. The label's also worked together to release the full length from Calgary synth-punk group [Teledrome](https://mammothcave.bandcamp.com/album/teledrome).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=912527940/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4162961754/transparent=true/" seamless><a href="http://mammothcave.bandcamp.com/album/teledrome">Teledrome by Teledrome</a></iframe>
 
-[Listen: Teledrome - "Dial Tone" @ BandCamp](https://mammothcave.bandcamp.com/track/dial-tone "#")
+[Listen: Teledrome - "Dial Tone" @ Bandcamp](https://mammothcave.bandcamp.com/track/dial-tone "#")
 
 Patrick Bertrand of Vancouver's [Hosehead Records](https://hoseheadrecords.bandcamp.com/) shared some of his P.Trash collection on Instagram and commented on the German label's impact on his own.
 
@@ -67,7 +67,7 @@ You can preview the track "Waving Goodbye From a Tree" below. It's one of 15 son
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1279542331/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3485199335/transparent=true/" seamless><a href="http://chrisreimer.bandcamp.com/album/hello-people">Hello People by Chris Reimer</a></iframe>
 
-[Listen: Chris Reimer - "Waving Goodbye from a Tree" @ BandCamp](http://chrisreimer.bandcamp.com/track/waving-goodbye-from-a-tree "#")
+[Listen: Chris Reimer - "Waving Goodbye from a Tree" @ Bandcamp](http://chrisreimer.bandcamp.com/track/waving-goodbye-from-a-tree "#")
 
 Several of Reimer's bandmates from Women are of course now members of [Preoccupations](http://preoccupationsband.com/) (the band once contentiously known as Viet Cong). That group recently released the first single from their upcoming third studio album. The song's titled "Espionage," and it will appear on *New Material* when it arrives on March 23. [Flemish Eye](http://www.flemisheye.com/) will handle the release in Canada, with [Jagjaguwar](https://jagjaguwar.com/) working the set elsewhere.
 
@@ -85,7 +85,7 @@ Several of Reimer's bandmates from Women are of course now members of [Preoccupa
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=567074495/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://moon-king.bandcamp.com/track/ive-stopped-believing">I&#39;ve Stopped Believing by Moon King</a></iframe>
 
-[Listen: Moon King - "I've Stopped Believing" @ BandCamp](http://moon-king.bandcamp.com/track/ive-stopped-believing "#")
+[Listen: Moon King - "I've Stopped Believing" @ Bandcamp](http://moon-king.bandcamp.com/track/ive-stopped-believing "#")
 
 CBC arts & culture program [q]("http://www.cbc.ca/radio/q/") recently featured an oral history of [The 'B' Girls](https://www.facebook.com/therealbgirls/), the `77-era all-female Toronto punk band. That's a group that, in a few tumultuous years, become NYC-residing CBGB's regulars, played with the Ramones, Blondie, the Dead Boys, and joined the Clash on their *London Calling* tour. On the recording host Tom Power introduces bassist Cynthia Ross, who recount's the group's history. The 'B' Girls are playing shows again, and their never-released debut full length has finally seen the light of day on the legendary garage label [Bomp](http://www.bompstore.com/b-girls-bad-not-evil-starburst-vinyl-ltd-to-100-copies-hand-mixed/).
 
@@ -107,7 +107,7 @@ At the end of 2017 the five-piece Toronto garage-punk group [The Killer Wails](h
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3929442326/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thekillerwails.bandcamp.com/track/shake-it">Shake It by The Killer Wails</a></iframe>
 
-[Listen: The Killer Wails: "Shake It" @ BandCamp](http://thekillerwails.bandcamp.com/track/shake-it "#")
+[Listen: The Killer Wails: "Shake It" @ Bandcamp](http://thekillerwails.bandcamp.com/track/shake-it "#")
 
 [Wyrd Distro](http://distro.weirdcanada.com/), the non-profit Canadian music distribution service run entirely by volunteers from the  blog [Weird Canada](https://weirdcanada.com/), is shutting down. The online store is currently selling off their stock, and there's plenty of strange and wonderful underground Canadiana to pick up while supplies last. The store will cease operations entirely on February 16.
 

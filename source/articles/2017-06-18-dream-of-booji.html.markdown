@@ -40,7 +40,7 @@ Finally the [Smugglers](http://thesmugglers.com/) played what [Grant Lawrence](h
 
 ##Of Note
 
-I featured St. John's based [BBQT](https://bbqtband.bandcamp.com) on last week's newsletter at the recommendation of [Crossed Wires](https://crossedwireshfx.bandcamp.com)' Heather Grant. As she hinted, the band's released a new set of songs to coincide with their appearance at OWX. You can pick up "All Dressed" over at BandCamp.
+I featured St. John's based [BBQT](https://bbqtband.bandcamp.com) on last week's newsletter at the recommendation of [Crossed Wires](https://crossedwireshfx.bandcamp.com)' Heather Grant. As she hinted, the band's released a new set of songs to coincide with their appearance at OWX. You can pick up "All Dressed" over at Bandcamp.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=895846077/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://bbqtband.bandcamp.com/album/all-dressed">ALL DRESSED by BBQT</a></iframe>
 

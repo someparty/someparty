@@ -11,19 +11,19 @@ The release, which follows up 2015's P-Trash LP *Television Zombie*, was recorde
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=767668090/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://outtacontroller.bandcamp.com/track/prime-time">Prime Time by OUTTACONTROLLER</a></iframe>
 
-[Listen: Outtacontroller - "Prime Time" @ BandCamp](https://outtacontroller.bandcamp.com/track/prime-time "#")
+[Listen: Outtacontroller - "Prime Time" @ Bandcamp](https://outtacontroller.bandcamp.com/track/prime-time "#")
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hPrQvxD_rmk?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 [Watch: Outtacontroller - *No Echo* teaser @ YouTube](https://www.youtube.com/watch?v=hPrQvxD_rmk&feature=share "#")
 
-Loud, low-fi, scuzzy Toronto punk act [Protruders](https://protruders.bandcamp.com) has released yet another cassette and, true to form, are sharing just the unsegmented A and B-sides online. The palindromic new release is titled *PROTRUDERSREDURTORP*, which they're clearly never expecting a human to have to say aloud. The A-side was recorded this fall, with the inverse featuring material recorded live to air this past summer on Calgary's [CJSW](https://cjsw.com/). Each session apparently features a few different guests, but I'm not about to decipher the nicknames in the credits. The details are at [BandCamp](http://protruders.bandcamp.com/album/protrudersredurtorp) if you want to give it a shot.
+Loud, low-fi, scuzzy Toronto punk act [Protruders](https://protruders.bandcamp.com) has released yet another cassette and, true to form, are sharing just the unsegmented A and B-sides online. The palindromic new release is titled *PROTRUDERSREDURTORP*, which they're clearly never expecting a human to have to say aloud. The A-side was recorded this fall, with the inverse featuring material recorded live to air this past summer on Calgary's [CJSW](https://cjsw.com/). Each session apparently features a few different guests, but I'm not about to decipher the nicknames in the credits. The details are at [Bandcamp](http://protruders.bandcamp.com/album/protrudersredurtorp) if you want to give it a shot.
 
 Protruders is the successor project to [Kappa Chow](https://kappachow.bandcamp.com/) and features that band's brain trust of Joe and Isle, who relocated to Toronto from the Sackville. The group also counts Jarrett Samson of [Tough Age](https://tough-age.bandcamp.com/) among its roster.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2286419202/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://protruders.bandcamp.com/album/protrudersredurtorp">PROTRUDERSREDURTORP by protruders</a></iframe>
 
-[Listen: Protruders - *PROTRUDERSREDURTORP* @ BandCamp](http://protruders.bandcamp.com/album/protrudersredurtorp "#")
+[Listen: Protruders - *PROTRUDERSREDURTORP* @ Bandcamp](http://protruders.bandcamp.com/album/protrudersredurtorp "#")
 
 [Daniel Romano](http://www.danielromanomusic.com/)'s *tournée infinite* is getting ready to return home from Europe and Canadian shows are on the horizon. The eclectic and prolific singer/songwriter will take his live band, currently dubbed the Jazz Police, through Winnipeg, Saskatoon, Edmonton, Calgary, and Vancouver in January. Before that, Dan's power-pop side-project [Ancient Shapes](https://youvechangedrecords.bandcamp.com/album/ancient-shapes) will play [TV Freaks](https://www.facebook.com/teeveefreakzz/)' New Year's Eve show in Hamilton along with fellow Attack In Black alumnus [Ian Daniel Kehoe](https://www.iandanielkehoe.com/).
 
@@ -59,7 +59,7 @@ If you're in Ontario or Quebec you can expect to see some shows pairing First Ba
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3736216439/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://drunkensailorrecords.bandcamp.com/album/not-that-bad">Not That Bad by First Base</a></iframe>
 
-[Listen: First Base - "Not That Bad" @ BandCamp](https://drunkensailorrecords.bandcamp.com/album/not-that-bad "#")
+[Listen: First Base - "Not That Bad" @ Bandcamp](https://drunkensailorrecords.bandcamp.com/album/not-that-bad "#")
 
 If you're into First Base, then Ottawa's [Riptides](http://www.theriptides.com/) are mining a similar vein. The band, fresh off their 2017 full-length *Canadian Graffiti*, have announced a new limited edition 7" single for the song "Wimpy Goes to Washington," which is a reference to Jack Hayes (a.k.a. Wimpy Rutherford) of the aforementioned Queers. That track, paired with the crassly-named B-side "I Fucked Her At Tim Horton's" is coming out on December 15 via [Something to Do Records](http://somethingtodorecords.storenvy.com/products/22176158-the-riptides-wimpy-goes-to-washington-7).
 
@@ -67,7 +67,7 @@ Both songs were recorded and produced by Mass Giorgini at Sonic Iguana Studios d
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=429190222/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2856570947/transparent=true/" seamless><a href="http://theriptides.bandcamp.com/album/canadian-graffiti">Canadian Graffiti by The Riptides</a></iframe>
 
-[Listen: The Riptides - "Wimpy Goes to Washington" @ BandCamp](https://theriptides.bandcamp.com/track/wimpy-goes-to-washington "#")
+[Listen: The Riptides - "Wimpy Goes to Washington" @ Bandcamp](https://theriptides.bandcamp.com/track/wimpy-goes-to-washington "#")
 
 Last week I shared the new single from the revitalized Toronto garage-rock act [Bad River](https://baddriver.bandcamp.com/), and this past week I had the pleasure of premiering the video for that track at [Punknews](https://www.punknews.org/article/65177/bad-river-clean-air-punknews-exclusive
 ). The clip for the grungy number features lead singer Thom Huhtala on a druggy adventure with a cartoon dog and cockroach. The animated bits of the video were created by artist Nick Coyle.
