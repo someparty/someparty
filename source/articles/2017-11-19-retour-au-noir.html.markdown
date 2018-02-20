@@ -68,7 +68,7 @@ In a quick turnaround from last week's video, [Vanity Phase](https://vanityphase
 
 [Listen: Vanity Phase - "Win The Bread" @ SoundCloud](https://soundcloud.com/user-885031212/win-the-bread "#")
 
-Vancouver punk legends [D.O.A.](https://www.suddendeath.com/) have kicked off a [crowdfunding campaign](https://www.gofundme.com/help-doa-record-40th-anniversary-album ) to support the production of their next LP. The veteran band is working towards a new studio album which will celebrate their 40th anniversary. They're seeking $15,000 in assistance, with the usual ladder of rewards for contributors. This one tops out with one of Joey Shithead's guitars as an incentive at the $750 level.
+Vancouver punk legends [D.O.A.](https://www.suddendeath.com/) have kicked off a [crowdfunding campaign](https://www.gofundme.com/help-doa-record-40th-anniversary-album) to support the production of their next LP. The veteran band is working towards a new studio album which will celebrate their 40th anniversary. They're seeking $15,000 in assistance, with the usual ladder of rewards for contributors. This one tops out with one of Joey Shithead's guitars as an incentive at the $750 level.
 
 D.O.A.'s previous record, 2015's *Hard Rain Falling*, was similarly funded by fan contributions.
 
