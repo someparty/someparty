@@ -97,7 +97,7 @@ His sets will include material from 2014’s full-length *Angel Beach*, but also
 
 [Listen: The Smile Case - "I Don't Want It To Go To Hell" (acoustic demo) @ Bandcamp](https://smilecase.bandcamp.com/track/i-dont-want-it-to-go-to-hell-demo "#")
 
-Speaking of refugees of the Niagara music scene, Alexisonfire's [Wade MacNeil](http://www.wademacneil.com/) recently announced that a film he helped score will premiere at [SXSW](https://schedule.sxsw.com/2018/films/120732) this year. *The Ranger* is a horror flick directed by Jenn Wexler. The score, put together by MacNeil and Toronto's Andrew Gordon Macpherson, includes "lots of evil drones and new black lungs music on the soundtrack." Black Lungs is Wade's usually-but-not-always punk rock side-project that's gone through several v over the years.
+Speaking of refugees of the Niagara music scene, Alexisonfire's [Wade MacNeil](http://www.wademacneil.com/) recently announced that a film he helped score will premiere at [SXSW](https://schedule.sxsw.com/2018/films/120732) this year. *The Ranger* is a horror flick directed by Jenn Wexler. The score, put together by MacNeil and Toronto's Andrew Gordon Macpherson, includes "lots of evil drones and new black lungs music on the soundtrack." Black Lungs is Wade's usually-but-not-always punk rock side-project that's gone through several incarnations over the years.
 
 Here's how they describe *The Ranger*:
 

@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: New music from Man Made Hill, J Blissette, WHOOP-Szo, Boyhood. Attack In Black reissue. D.O.A. recording with Ron Reyes.
 ---
 
-Hamilton-via-Toronto "existential disco" project [Man Made Hill](https://manmadehillpleasence.bandcamp.com/) has announced a new release on [Pleasence Records](http://www.pleasencerecords.com/) titled *Fingertip*. The 18 song cassette will be Randall Gagne's 20th release under the name. Gagne commented on his difficult to peg sound in the label's press release, somehow becoming (fittingly) more obtuse in each successive statement:
+Hamilton-via-Toronto "existential disco" project [Man Made Hill](https://manmadehillpleasence.bandcamp.com/) has announced a new release on [Pleasence Records](http://www.pleasencerecords.com/) titled *Fingertip*. The 18 song cassette will be Randall Gagne's 20th release under the name. Gagne commented on his difficult to peg sound in the label's press release, somehow becoming (fittingly) more oblique in each successive statement:
 
 > "I think of it as some kind of Mutant Smorgasbord... I wanted these songs to feel physical in every way, and to show how music unfolds from the fingertip into all sensual centres... I wanted my songs to function as links to raw, concrete experience that can be held and kept, and integrated into your own personal history. Plus Total Attitude!”
 
@@ -32,7 +32,7 @@ Given how aggressively the members of Attack In Black have moved on and fostered
 
 [Listen: Attack In Black - "Fake Love Songs" @ Bandcamp](https://attackinblack.bandcamp.com/album/fake-love-songs-ep "#")
 
-Attack In Black were of course not the only act to hitch a romantically named release to Valentine's Day. Ottawa's Caylie Runciman, better known as the indie-pop act [Boyhood](https://www.facebook.com/boyh00d/), unveiled a new song titled "Luvbomb" that day as well. It's another track due to appear on *Bad Mantras* whenever it comes out.
+Attack In Black were of course not the only act to hitch a romantically named release to Valentine's Day. Belleville native Caylie Runciman, better known as the indie-pop act [Boyhood](https://www.facebook.com/boyh00d/), unveiled a new song titled "Luvbomb" that day as well. It's another track due to appear on *Bad Mantras* whenever it comes out.
 
 [Gorilla vs. Bear](http://www.gorillavsbear.net/video-premiere-boyhood-luvbomb/) premiered a video for the song as well. Montreal-based photographer [Monika Kraska](https://monikakraska.myportfolio.com/) (Runciman's sister-in-law) directed the clip.
 
