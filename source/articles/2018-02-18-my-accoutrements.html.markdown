@@ -76,8 +76,7 @@ D.O.A.'s previous record was 2015's *Hard Rain Falling*. The new set will be out
 
 [Look: Joe Keithley & Ron Reyes @ Instagram](https://www.instagram.com/p/BfJK0v0How1/ "#")
 
-Toronto's [The Holy Gasp](https://theholygasp.bandcamp.com) have released another new track, titled "What I Gotta Know." In a statement vocalist Benjamin Hackman and guitar player
-Sebastian Shinwell describe it as:
+Toronto's [The Holy Gasp](https://theholygasp.bandcamp.com) have released another new track, titled "What I Gotta Know." In a statement vocalist Benjamin Hackman and guitar player Sebastian Shinwell describe it as:
 
 > "a poppy little ditty that examines the many uncertain doors through which lovers walk on their quest toward togetherness, and tries to understand how polyamory is sometimes used as a lubricant for divorce."
 
