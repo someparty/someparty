@@ -577,12 +577,16 @@
         font-family: 'Lato', sans-serif;
       }
 
+      h1,h2 {
+        font-family: 'Oswald', sans-serif;
+      }
+
       .maxread {
-        max-width: 630px;
+        max-width: 600px;
       }
 
       .maxquote {
-        max-width: 600px;
+        max-width: 570px;
       }
 
       .someparty-back {
@@ -646,6 +650,10 @@
         </ul>
 
       </div>
+
+      <% if current_page.path != 'premieres/rust-owl-awkward-age.html'  %>
+        <%= partial '/_partials/premiere' %>
+      <% end %>
 
       <%= partial '/_partials/submit' %>
 
