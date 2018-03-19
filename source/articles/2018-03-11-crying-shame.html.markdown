@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: New songs from Jennifer Castle, Long Branch, Housepanther, Dusted, R U S T O W L, members of Sonic Avenues. Tommy and the Commies sign to Slovenly.
 ---
 
-It's seldom these days that you witness an online wave of pure positivity, particularly regarding music. Of course we're quite used to snap communal reactions to whatever political aberration is next down the pipe, but it feels rare to see everyone in your bubble simultaneously reacting to a piece of art. I think I may have just cultivated the right group of people to follow, but the arrival of [Jennifer Castle](https://twitter.com/jnfrcastle)]'s new single last week felt seismic. For a solid day wherever I looked, excitement over her forthcoming *Angels of Death* record was the common denominator.
+It's seldom these days that you witness an online wave of pure positivity, particularly regarding music. Of course we're quite used to snap communal reactions to whatever political aberration is next down the pipe, but it feels rare to see everyone in your bubble simultaneously reacting to a piece of art. I think I may have just cultivated the right group of people to follow, but the arrival of [Jennifer Castle](https://twitter.com/jnfrcastle)'s new single last week felt seismic. For a solid day wherever I looked, excitement over her forthcoming *Angels of Death* record was the common denominator.
 
 It's not surprising that so many of the mentions I saw were coming from other artists. Castle's list of collaborative credits could double as a list of my favourite records. She's had a role on landmark releases from the Constantines and Fucked Up. She backed Cons frontman Bry Webb on both of his solo efforts. Most recently we heard her on the universally acclaimed new U.S. Girls album *In a Poem Unlimited*. [Daniel Romano](http://www.danielromanomusic.com/) wrote an ode to her on *Modern Pressure* and called her one of the "freest performers in existence" in a recent [Kreative Kontrol](https://audioboom.com/posts/6014697-ep-324-daniel-romano-on-jennifer-castle-diss-tracks-u2-ramones-bob-dylan-and-modern-pressure) interview.
 
@@ -41,7 +41,7 @@ Expect a cassette release from this band, whatever they're to be called, within 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/410811273&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-[Chance & Max from Sonic Avenues - "Stripped Down Animals" @ SoundCloud](https://soundcloud.com/maxime-desharnais/stripped-down-animals "#")
+[Listen: Chance & Max from Sonic Avenues - "Stripped Down Animals" @ SoundCloud](https://soundcloud.com/maxime-desharnais/stripped-down-animals "#")
 
 I missed this last month, but Brian Borcherdt of the electronic group [Holy Fuck](https://www.holyfuckmusic.com/) has announced a new album from his comparatively lower-key rock band [Dusted](https://totallydusted.bandcamp.com/). The record, titled *Blackout Summer*, will the band's first since 2012's debut *Total Dust*. It represents their second attempt to record this particular set of songs. The press release details their failed first run at this material:
 
@@ -75,7 +75,7 @@ This week Some Party had the honour of premiering a new song from Winnipeg's [R 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2446477610/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3503486783/transparent=true/" seamless><a href="http://rustowl.bandcamp.com/album/r-u-s-t-o-w-l">R U S T O W L by R U S T O W L</a></iframe>
 
-[Listen: R U S T O W L - "Awkward Age" premire at Some Party](https://www.someparty.ca/premieres/rust-owl-awkward-age/ "#")
+[Listen: R U S T O W L - "Awkward Age" premiere at Some Party](https://www.someparty.ca/premieres/rust-owl-awkward-age/ "#")
 
 R U S T O W L will launch their EP at a joint release show on [March 23](https://www.facebook.com/events/224185148155596/) at Winnipeg's X-Cues Cafe with [Housepanther](https://baileewoods.bandcamp.com). That band, the solo project of indie pop singer/songwriter Bailee Woods, is set to release an album titled *Club Soda Lows* at the event.
 
