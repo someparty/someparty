@@ -51,7 +51,7 @@ Edmonton two-piece [Rhythm of Cruelty](https://rhythmofcruelty.bandcamp.com/) ha
 
 Is an album truly released when only half the digital gatekeepers add it to their catalogue? Toronto's Ben Cook had to ponder that last week when his new [Young Guv](https://youngguv.bandcamp.com/) LP was almost, but not entirely, released online.
 
-That's all cleared up now, so let's talk about the gloriously titled *2 Sad 2 Funk*, the proper follow-up to 2015's *Ripe 4 Luv*. This is Cook taking his pop persona to an extreme of 80s synths and vocoder effects. If part of what made *Ripe 4 Luv* so cool was how brazenly it constrasted Cook's aggressive work in [Fucked Up](http://fuckedup.cc/) and [No Warning](https://www.facebook.com/pg/nowarning666), this will undoubtedly have the same effect.
+That's all cleared up now, so let's talk about the gloriously titled *2 Sad 2 Funk*, the proper follow-up to 2015's *Ripe 4 Luv*. This is Cook taking his pop persona to an extreme of 80s synths and vocoder effects. If part of what made *Ripe 4 Luv* so cool was how brazenly it contrasted Cook's aggressive work in [Fucked Up](http://fuckedup.cc/) and [No Warning](https://www.facebook.com/pg/nowarning666), this will undoubtedly have the same effect.
 
 Glasgow label [Night School Records](http://nightschoolrecords.com/) is handling the release. A limited, hand-numbered first press LP sold out pretty much instantly, but details but a proper physical version are forthcoming.
 
@@ -85,7 +85,7 @@ Toronto punk trio [Talk Show Host](http://www.talkshowhost.ca/) recently release
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D_d46OfF4jg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Watch: The Penske File - Kamikaze Kids @ YouTube](https://youtu.be/D_d46OfF4jg "#")
+[Watch: The Penske File - "Kamikaze Kids" @ YouTube](https://youtu.be/D_d46OfF4jg "#")
 
 It's been a busy week of announcements for the recently reunited Vancouver punk group [Daggermouth](https://www.facebook.com/DaggermouthCA/). The band announced European tour dates and a vinyl reissue of their 2007 release *Turf Wars*. They paired that announcement with a new video for an old song, and you can check out "[You Do This as a Fad, We Do This as a Lifestyle](https://www.punknews.org/article/66276/media-watch-daggermouths-new-video-for-you-do-this-as-a-fad-we-do-this-as-a-lifestyle
 )" at Punknews.
@@ -94,7 +94,7 @@ The band also shared a new song, their first recording since splitting in 2008, 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDaggermouthCA%2Fvideos%2F827302324107620%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-[Watch: Daggermouth - "Ramen Noodle Doodle" @ Facebook](https://www.facebook.com/DaggermouthCA/videos/827302324107620/ "#")
+[Listen: Daggermouth - "Ramen Noodle Doodle" @ Facebook](https://www.facebook.com/DaggermouthCA/videos/827302324107620/ "#")
 
 Vancouver's [CiTR 101.9 FM](http://www.citr.ca/) recently announced the fifth volume in the *Pop Alliance* series, curated by University of British Columbia  radio station and members of the CiTR student executive. The 11-track set will arrive on April 13 from [Mint](http://www.mintrecs.com/) and will feature artists like Chris-a-riffic, Swim Team, and Devours. You can find more details and stream the new Devours track "Garnet Graves" at [Exclaim](https://exclaim.ca/music/article/mint_records_and_citr_team_up_for_pop_alliance_vol_5).
 

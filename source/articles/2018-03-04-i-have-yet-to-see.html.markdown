@@ -88,9 +88,9 @@ The CBC recently unveiled a documentary short directed by Luke Sargent which fol
 
 > The Love Songs of Oedipus Rex is the story of a man in emotional free fall. Benjamin’s father passed away. His therapist died suddenly. He and his wife are in the middle of a divorce. Heartbroken and grieving, Benjamin sets out to compose and record a massive concept album with his band The Holy Gasp.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XSNXwDcRLWU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tJFQOHecphM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Watch: The Love Songs of Oedipus Rex is the story of a man in emotional free fall @ YouTube](https://www.youtube.com/watch?v=XSNXwDcRLWU&feature=youtu.be "#")
+[Watch: The Love Songs of Oedipus Rex is the story of a man in emotional free fall @ YouTube](https://www.youtube.com/watch?v=tJFQOHecphM "#")
 
 Hull, Quebec power-pop band [Holy Christopher](https://holychristopher.bandcamp.com) has released the first single from their new EP *Land vs Sea*. Check out the catchy-as-hell "Hate Me/Hate You" below. The four-piece will release the set, which was recorded, mixed, and produced by Cody Parnell, on March 30. I get a bit of an Evaporators vibe from this one.
 
