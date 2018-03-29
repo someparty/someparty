@@ -33,6 +33,14 @@ The record arrives on May 4 from [Debt Offensive](http://debtoffensiverecs.bigca
 
 [Listen: Pre Nup - "Internet Arguments" @ Bandcamp](https://prenup.bandcamp.com/album/oh-well "#")
 
+Hamilton three-piece rock band [Lava Dolls](https://lavadolls.com/) recently released their new EP *Little Secrets*, which was recorded with the legendary Steve Albini. The band recorded entirely to tape, mixed, and mastered in less than 4 days at Electrical Audio in Chicago.
+
+The EP's, ballad "Behind You With Knives" took first place in the International Songwriting Competition’s Unsigned Category back in 2016. You can check out the whole thing at Bandcamp.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1812580475/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://lavadolls.bandcamp.com/album/little-secrets">Little Secrets by Lava Dolls</a></iframe>
+
+[Listen: Lava Dolls - *Little Secrets* @ Bandcamp](http://lavadolls.bandcamp.com/album/little-secrets "#")
+
 [Dying Scene](
 http://dyingscene.com/news/ds-exclusive-jon-creeden-and-the-flying-hellfish-premiere-new-video-for-nailbiter/) recently premiered a new video for the song "Nailbiter" from Ottawa's [Jon Creeden and The Flying Hellfish](http://www.joncreeden.com/). The big anthemic punk song appears on *Stall*, Creeden's recent full-length and his first with a full band. The Flying Hellfish includes drummer Jason Adair, guitarist Steve McCrimmon, and bassist Ryan Cox. The video was filmed by Jonah Aspler.
 
@@ -100,6 +108,6 @@ Tickets for the event are $25 at the door or $20 in advance. Advance tickets are
 
 [See: #GoodbyeOpioids campaign poster @ Instagram](https://www.instagram.com/p/BgrFADkHt4l/?hl=en "#")
 
-Finally, as is the season, the summer festival confirmations have started to roll in. Of note, [Riverfest Elora](https://riverfestelora.com) announced their 2018 lineup, which will see the Flaming Lips and Carly Rae Jepsen headline, with Blue Rodeo, July Talk, Wolf Parade, Bedouin Soundclash, Cuff The Fuke, Weaves, Sam Coffee and more appearing at the festival. The event takes place from August 17 to the 19th in Elora, Ontario.
+Finally, as is the season, the summer festival confirmations have started to roll in. Of note, [Riverfest Elora](https://riverfestelora.com) announced their 2018 lineup, which will see the Flaming Lips and Carly Rae Jepsen headline, with Blue Rodeo, July Talk, Wolf Parade, Bedouin Soundclash, Cuff The Duke, Weaves, Sam Coffee and more appearing at the festival. The event takes place from August 17 to the 19th in Elora, Ontario.
 
 Sarnia, Ontario's [Empty Fest](https://www.facebook.com/events/190079891613090/) also announced the lineup for their 10th year, with a diverse lineup headed Lido Pimienta, Moon King, and Yuka. Empty will run from May 3 to 5, and you can find the full show-by-show breakdown at Facebook.
