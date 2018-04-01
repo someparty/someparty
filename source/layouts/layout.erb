@@ -655,6 +655,10 @@
         <%= partial '/_partials/premiere' %>
       <% end %>
 
+      <% if current_page.path != 'premieres/colour-by-numbers-thaddeus.html'  %>
+        <%= partial '/_partials/premiere2' %>
+      <% end %>
+
       <%= partial '/_partials/submit' %>
 
     </header>
