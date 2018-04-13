@@ -21,7 +21,7 @@ Jacobs and his band (the real one, not Garbage Truck) are slated to play the [Di
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTZ8LY233II" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Listen: Garbage Truck - "Save For Food" EP](https://www.youtube.com/watch?v=cTZ8LY233II&feature=youtu.be "#")
+[Listen: Garbage Truck - "Save For Food" EP @ YouTube](https://www.youtube.com/watch?v=cTZ8LY233II&feature=youtu.be "#")
 
 [Mint Records](http://www.mintrecs.com/) has signed the Vancouver-based four-piece slacker-punk group [Dumb](https://dumbband.bandcamp.com/) and will release an LP from the band on June 22, titled *Seeing Green*. The 14 song set was recorded and mixed by Jordan Koop at The Noise Floor and
 mastered by Greg Mindorff at Suite Sound Labs.
@@ -46,7 +46,7 @@ I get such a *Marriage*-era Attack In Black vibe from this track. Check it out.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3552532136/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://espanola.bandcamp.com/album/outside-saskatoon-b-w-its-a-good-life-if-you-dont-weaken">Outside Saskatoon b/w It&#39;s A Good Life If You Don&#39;t Weaken by Espanola</a></iframe>
 
-[Listen: Espanola - "Outside Saskatoon" @ BandCamp](https://espanola.bandcamp.com/album/outside-saskatoon-b-w-its-a-good-life-if-you-dont-weaken "#")
+[Listen: Espanola - "Outside Saskatoon" @ Bandcamp](https://espanola.bandcamp.com/album/outside-saskatoon-b-w-its-a-good-life-if-you-dont-weaken "#")
 
 [Man Made Hill](https://manmadehillpleasence.bandcamp.com/) has released a video for "My Accoutrements," the ode to accessorizing and weirdo soul centrepiece from his recent [Pleasence Records](http://www.pleasencerecords.com/) full-length *Fingertip*.
 
@@ -70,7 +70,7 @@ Sore Points released a killer 7" on Hosehead Records last summer titled "Don't W
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k19H-Np_iik" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Sore Points on X Files](https://www.youtube.com/watch?v=k19H-Np_iik&feature=youtu.be "#")
+[Watch: Sore Points - "Unsaid Undone" on The X-Files @ YouTube](https://www.youtube.com/watch?v=k19H-Np_iik&feature=youtu.be "#")
 
 Last year the [New Constellations](https://www.newconstellations.ca/) tour brought together musicians from various genres and backgrounds for a unique, intimate set of shows across Canada and within several First Nations communities. The project was the brainchild of the [Basement Revue](http://www.basementrevue.com/) variety show and the music platform [Revolutions Per Minute](http://rpm.fm/), with curation by the Revue's Jason Collett, Cree/Dene media maker Jarrett Martineau, and poet Damian Rogers. Along with a 13 stop tour, New Constellations featured a mentorship program and workshop series for Indigenous youth. The artists who took part (a roster that included Lido Pimienta, Jasmyn Burke, and Ian Campeau) helped young Indigenous talent build skills in songwriting, composition, and production.
 
