@@ -33,7 +33,7 @@ Some Party's going to pull on some of these threads and see where they go. I'll 
 
 This past week saw the loss of first-wave Toronto punk veteran Freddy Pompeii. The Philadelphia native's late 70s stint as guitarist for the notorious [Viletones](http://www.viletonesofficial.com/) and later frontman of [The Secrets](http://www.canadianbands.com/Secrets.html) left an indelible mark on the city's emergent alternative music scene. There's a nice career summary and some great photos by Don Pyle over at [NOW Toronto](https://nowtoronto.com/music/in-memoriam-freddy-pompeii-viletones-the-secrets-1947-20/) that you should absolutely devote some time to. It's worth revisiting his 2015 chat with Damian Abraham on the [Turned Out A Punk](https://www.acast.com/turnedoutapunk/episode-60-freddie-pompeii-viletones-secrets-) podcast as well.
 
-Of course this past week also saw the loss of Soundgarden's Chris Cornell. While a great deal has been written in the past few days, take a few minutes to read the piece by [Greys](https://greys.bandcamp.com/)' Shezaad Jiwani at [Hazlitt](http://hazlitt.net/feature/one-more-time-around-remembering-chris-cornell). It speaks to the questions posed by the mental health aspects of Cornell's death.
+Of course this past week also saw the loss of Soundgarden's Chris Cornell. While a great deal has been written in the past few days, take a few minutes to read the piece by [Greys](https://greys.bandcamp.com/)' Shehzaad Jiwani at [Hazlitt](http://hazlitt.net/feature/one-more-time-around-remembering-chris-cornell). It speaks to the questions posed by the mental health aspects of Cornell's death.
 
 ##At least you landed it
 

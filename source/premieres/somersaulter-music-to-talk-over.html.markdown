@@ -18,6 +18,6 @@ You can hear the hypothetical PR person screaming "how the hell am I supposed to
 
 The 2 minute 59 pop single this is not. When Byrne and Cameron *do* sing on the record's three other tracks, they're pretty good! The case for building a marketing push around propulsive, sincere numbers like "Pauly," "Sincerity," or "Model Citizen" seems pretty solid. Of course, Somersaulter isn't going to hire that PR person, so whatever.
 
-Somersaulter will release their "Music To Talk Over" single today, Friday August 13, at [Bandcamp](https://somersaulter.bandcamp.com) along with a pre-order for the full EP. The ill portend of this particular calendar date fully acknowledged and dutifully ignored.
+Somersaulter will release their "Music To Talk Over" single today, Friday April 13, at [Bandcamp](https://somersaulter.bandcamp.com) along with a pre-order for the full EP. The ill portend of this particular calendar date fully acknowledged and dutifully ignored.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AQOn5FK5oSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
