@@ -99,13 +99,13 @@ The Corps will launch the new record this coming Saturday with a show at Vancouv
 
 [Watch: The Corps on Intergalactic Interviews - Ep. 169](https://www.youtube.com/watch?v=_k7vPw20pUE "#")
 
-Toronto's art-rock quartet [Weaves](https://www.weavesband.com/) has recorded a cover of the Arcade Fire's 2004 single "Neighbourhood #3 (Power's Out)." It's set to appear as part of a special promotional 10" to be made available in the fall from the [Polaris Music Prize](https://polarismusicprize.ca/). It's to be given away at select relailers with the purchase of a Polaris nominated album. You can check out video of Weaves' rendition below.
+Toronto's art-rock quartet [Weaves](https://www.weavesband.com/) has recorded a cover of the Arcade Fire's 2004 single "Neighborhood #3 (Power Out)." It's set to appear as part of a special promotional 10" to be made available in the fall from the [Polaris Music Prize](https://polarismusicprize.ca/). It's to be given away at select retailers with the purchase of a Polaris nominated album. You can check out video of Weaves' rendition below.
 
 Weaves last released the record *Wide Open* on [Buzz Records](http://buzzrecords.ca/) in October. They were shortlisted for the Polaris prize last year for their self-titled debut record.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmZT3_zej8E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Listen: Weaves - "Neighborhood #3 (Power Out)" @ YouTube](https://youtu.be/LmZT3_zej8E "#")
+[Watch: Weaves - "Neighborhood #3 (Power Out)" @ YouTube](https://youtu.be/LmZT3_zej8E "#")
 
 The second slate of performers has been confirmed for [SappyFest](http://www.sappyfest.com/), the early-August music festival that takes place annually in Sackville, New Brunswick.
 
@@ -115,7 +115,7 @@ Dog Day is a Halifax based rock act that's been on hiatus for the past five year
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2379681354/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://fundog.bandcamp.com/album/fade-out">Fade Out by DOG DAY</a></iframe>
 
-[Listen: Dog Day - "Alone with You" @ Bandcamp](https://fundog.bandcamp.com/album/fade-out "#")
+[Listen: Dog Day - "Alone With You" @ Bandcamp](https://fundog.bandcamp.com/album/fade-out "#")
 
 The Halifax/Montreal based [Nap Eyes](https://napeyes.bandcamp.com/) will also take part in the August festival. They're playing in support of their recent LP *I'm Bad Now*. That record, the band's third, saw a joint release in March from [You've Changed Records](http://youvechangedrecords.com/), [Paradise of Bachelors](http://www.paradiseofbachelors.com/), and [Jagjaguwar](https://jagjaguwar.com/) in different territories.
 
