@@ -61,7 +61,7 @@ class SomePartyRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
              doc.to_html)
     else
       doc.css('iframe').add_class('lazyload')
-      format("<div class='center'>%s</div>", doc.to_html)
+      format("<div class='center tc'>%s</div>", doc.to_html)
     end
   end
 

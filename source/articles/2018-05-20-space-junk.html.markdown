@@ -35,7 +35,7 @@ Fucked Up have been working on their follow up to their 2014 record *Glass Boys*
 
 [Listen: Fucked Up - "High Rise" @ YouTube](https://youtu.be/05Fy2lRT4rk "#")
 
-It was at a Fucked Up show in St. Catharines that I first encountered Toronto's [S.H.I.T.](http://whatwedoissecrete.org/) The blistering hardcore act will return with a new LP this summer titled "What Do You Stand For?," which is set for release on [Iron Lung Records](http://ironlungrecords.bigcartel.com) in North America and [La Vida Es Un Mus Discos](http://www.lavidaesunmus.com/) in the UK. It'll drop June 1, just in time for the band's European tour that kicks off in London that same day. You can find the dates at the band's website.
+It was at a Fucked Up show in St. Catharines that I first encountered Toronto's [S.H.I.T.](http://whatwedoissecrete.org/) The blistering hardcore act will return with a new LP this summer titled *What Do You Stand For?*, which is set for release on [Iron Lung Records](http://ironlungrecords.bigcartel.com) in North America and [La Vida Es Un Mus Discos](http://www.lavidaesunmus.com/) in the UK. It'll drop June 1, just in time for the band's European tour that kicks off in London that same day. You can find the dates at the band's website.
 
 The new record clocks in at 11 songs, two of which you can preview now. The tracks "Algorithm" and "Destiny" are streaming below.
 
