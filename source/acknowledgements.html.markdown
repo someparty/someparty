@@ -9,6 +9,6 @@ The photo in the site header is by [Courtney Michaud](http://www.courtneymichaud
 
 The Some Party website is build with [Middleman](https://middlemanapp.com/), an open source static website generator written in Ruby. It utilizes the functional CSS framework [Tachyons](http://tachyons.io/).
 
-I owe an enormous debt to my team at [JMR Logics](https://www.jmr.ca) / [Upper Rapids](https://www.upperrapids.ca) for the use of equipment to work on this project.
+I owe an enormous debt to my team at [JMR Logics](https://www.jmr.ca) for the use of equipment to work on this project.
 
 I owe a similarly enormous debt to Aubin Paul and everyone who volunteers their time to [Punknews.org](https://www.punknews.org) for maintaining the illusion that I'm someone with something to say about independent music.

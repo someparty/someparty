@@ -21,7 +21,7 @@ Fuudge is lead by David Bujold, who on wrote and recorded most of the band's pri
 
 [Watch: Fuudge - "Je sais pas comment faire avec les filles" @ Vimeo](https://vimeo.com/271772095 "#")
 
-A few years ago I somehow snuck onto the Polaris Music Prize jury, and the most rewarding part of that experience has been the constant reminder of how much is important art is being created outside the comfortable confines of the genres I grew up with. Vancouver-based Indigenous hip-hop duo [Snotty Nose Rez Kids](https://snottynoserezkids.com/) (Young D and Yung Trybez) are a prime example of that.
+A few years ago I somehow snuck onto the Polaris Music Prize jury, and the most rewarding part of that experience has been the constant reminder of how much important art is being created outside the comfortable confines of the genres I grew up with. Vancouver-based Indigenous hip-hop duo [Snotty Nose Rez Kids](https://snottynoserezkids.com/) (Young D and Yung Trybez) are a prime example of that.
 
 The group released a new video this past week to coincide with the news that the Canadian government had voted to purchase the divisive Trans Mountain oil pipeline from Kinder Morgan for $4.5 billion. SNRK's protest song, "The Warriors," first appeared on the *Tiny House Warriors Vol​.​1* compilation in March. [Tiny House Warriors](http://tinyhousewarriors.com/), the organization, is striving to stop Trans Mountain from crossing unceded Secwepemc Territory by building ten small houses strategically along the 518 km pipeline route.
 
