@@ -70,7 +70,7 @@ Last week Richard Trapunski interviewed guitarist Greg Benedetto for [NOW Toront
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=923386438/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://lavidaesunmus.bandcamp.com/album/complete-s-h-i-t-lp">Complete S.H.I.T. LP by S.H.I.T.</a></iframe>
 
-[Listen: S.H.I.T. - "Complete Shit" @ Bandcamp](https://lavidaesunmus.bandcamp.com/album/complete-s-h-i-t-lp "#")
+[Listen: S.H.I.T. - *Complete S.H.I.T.* @ Bandcamp](https://lavidaesunmus.bandcamp.com/album/complete-s-h-i-t-lp "#")
 
 Dundas, Ontario's [The Dirty Nil](https://thedirtynil.com/) recorded the follow up to 2016's *Higher Power* back in January at Toronto's  [Union Sound Company](http://unionsoundcompany.com/), but we're still waiting to hear what they've come up with.
 
