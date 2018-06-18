@@ -37,15 +37,15 @@ The song's available as *Psychic Readings Vol. 3*, the third release in the cass
 
 [Listen: Psychic Void - "Gutter Butter" @ Bandcamp](http://psychicvoid.bandcamp.com/track/gutter-butter "#")
 
-[Buzz Records](http://buzzrecords.ca/) has detailed the upcoming full-length from the Montreal-via-Peterborough art-punk three-piece [Lonely Parade](https://thelonelyparade.bandcamp.com/). The band's new record will be titled *The Pits*, and will be available on September 14. The trio worked at Toronto's Candle Recording Studio with Josh Korody of [Beliefs](http://beliefsmusic.com/) and [Greys](https://greys.bandcamp.com/)' Shehzaad Jiwani producing.
+[Buzz Records](http://buzzrecords.ca/) has detailed the upcoming full-length from the Montreal-via-Peterborough art-punk three-piece [Lonely Parade](https://thelonelyparade.bandcamp.com/). The band's new record will be titled *The Pits*, and will be available on September 14. The trio worked at Toronto's Candle Recording Studio with Josh Korody of [Beliefs](http://beliefsmusic.com/) and [Greys](https://greys.bandcamp.com/)' Shehzaad Jiwani producing. The record will feature the song "Night Cruise," which you can preview through a new video below.
 
 Augusta Veno spoke about the album, which was written in the wake of their Peterborough, Ontario scene dissolving.
 
 > “I don't think there's any way we could write another album like this now. It's charged with a very specific negative energy. We were friends with almost everyone in our tiny scene, and now no one talks to each other and nothing feels as penultimate as how it did in Peterborough then. It's so tiny there that if you fuck one thing up with someone and then go downtown, everybody knows. It just started feeling really small."
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=892127297/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1756535048/transparent=true/" seamless><a href="http://buzzrecordsto.bandcamp.com/album/the-pits-lp">The Pits (LP) by Lonely Parade</a></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiQilZrR_d0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Lonely Parade - "Night Cruise" @ Bandcamp](http://buzzrecordsto.bandcamp.com/track/night-cruise "#")
+[Watch: Lonely Parade - "Night Cruise" @ YouTube](https://www.youtube.com/watch?v=kiQilZrR_d0 "#")
 
 [Pleasence Records](http://www.pleasencerecords.com/) has released a new song from Toronto  singer-songwriter [Isla Craig](https://islacraig.bandcamp.com/), titled "Love Song." It's set to appear on her upcoming LP The Becoming, due on June 22. In a statement, Craig commented that the track explores "the womb of love, where we are held and offered refuge from the outside world... the dance between the interior and exterior worlds" and "the movement from idealized love towards one of reciprocity."
 
@@ -127,7 +127,7 @@ The Highest Order released a video featuring one of their captured live performa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JVHzC7AYoDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Watch: The Highest Order - "Midnight Rider" (Live at the Silver Dollar Room) @ YouTube](https://youtu.be/JVHzC7AYoDQ "#")
+[Watch: The Highest Order - "Midnight Rider" @ YouTube](https://youtu.be/JVHzC7AYoDQ "#")
 
 As someone who worshipped at the altar of Three Gut Records, I spent a few years very in-tune with the comings and goings of Oshawa alt-country act [Cuff The Duke](https://www.cufftheduke.ca/). The band recently announced the vinyl reissue of their 2015 self-titled album, their sophomore full-length that was their first release on Hayden's Hardwood Records. The limited edition pressing is set for an August 24 release. Cuff The Duke's lineup at the time featured Wayne Petti, Matt Faris, Paul Lowman, and Jeff Peers.
 
@@ -141,7 +141,7 @@ Coming from an era before YouTube, you may only have seen the band's video for "
 
 [Watch: Cuff The Duke - "Take My Money and Run" @ YouTube](https://youtu.be/FRNhPJ-qmhg "#")
 
-Burlington, Ontario melodic punk act [Shift-D](http://www.shift-dmusic.com/) are gearing up for the release of their new EP *This Message Will Self​-​Destruct*. That 8-song set arrives on June 21 via  Montreal's [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/). The band's unveilved another song from the collection, titled "Vicious Memory." You can check it out below.
+Burlington, Ontario melodic punk act [Shift-D](http://www.shift-dmusic.com/) are gearing up for the release of their new EP *This Message Will Self​-​Destruct*. That 8-song set arrives on June 21 via  Montreal's [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/). The band unveilved another song from the collection, titled "Vicious Memory." You can check it out below.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4176901591/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3525371158/transparent=true/" seamless><a href="http://thousandislandsrecords.bandcamp.com/album/this-message-will-self-destruct">This Message Will Self-Destruct by Shift-D</a></iframe>
 
