@@ -1,5 +1,12 @@
 require 'fastimage'
 
+# Starting with an environment variable of 'email' will trigger emails style
+# markdown rendering
+medium = :web
+medium = ENV['MEDIUM'].to_sym if ENV['MEDIUM']
+
+set :medium, medium
+
 ###
 # Page options, layouts, aliases and proxies
 ###
@@ -14,19 +21,24 @@ page '/*.txt', layout: false
 ###
 # Helpers
 ###
-
 require 'lib/someparty_helpers'
 helpers SomePartyHelpers
 
-require 'lib/someparty_renderer'
+require 'lib/someparty_email_renderer'
+require 'lib/someparty_web_renderer'
 
 activate :blog do |blog|
-
   blog.permalink = '{year}-{month}-{day}-{title}.html'
   # Matcher for blog source files
   blog.sources = 'articles/{year}-{month}-{day}-{title}.html'
   # blog.taglink = "tags/{tag}.html"
-  blog.layout = 'layouts/article'
+
+  if medium == :email
+    blog.layout = 'layouts/email'
+  else
+    blog.layout = 'layouts/article'
+  end
+
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
   # blog.year_link = "{year}.html"
@@ -62,8 +74,14 @@ page '/404.html', directory_index: false
 activate :autoprefixer
 
 set :markdown_engine, :redcarpet
-set :markdown,
-    fenced_code_blocks: true, renderer: SomePartyRenderer
+
+if medium == :email
+  set :markdown,
+      fenced_code_blocks: true, renderer: SomePartyEmailRenderer
+elsif medium == :web
+  set :markdown,
+      fenced_code_blocks: true, renderer: SomePartyWebRenderer
+end
 
 set :url_root, 'https://www.someparty.ca'
 

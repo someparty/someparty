@@ -1,7 +1,7 @@
 require 'middleman-core/renderers/redcarpet'
 
 # Extends the Redcarpet Markdown parser to generate Tachyons style CSS markup
-class SomePartyRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
+class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
 
   def block_html(raw_html)
     doc = Nokogiri::HTML(raw_html)

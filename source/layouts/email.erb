@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+  <head>
+    <style>
+      body {
+        max-width: 1000px;
+        margin: 0px auto;
+        font-size: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <p><%= current_article.date.strftime('%A %B %e, %Y') %></p>
+    <h1><%= current_article.title unless current_article.nil? %></h1>
+    <%= yield %>
+  </body>
+</html>

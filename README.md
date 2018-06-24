@@ -14,17 +14,25 @@ middleman server
 
 The site will then be available at: http://localhost:4567/
 
-To build the project run
+To build the project for the web run
 
 ```
 middleman build
 ```
 
+To run the project with simplified markup and no CSS, which is best used when copied into the mailing list email body, use:
+
+```
+MEDIUM='email' middleman server
+```
+
+You can then navigate to an individual article and copy the markup.
+
 ## Functional css
 
-Some Party uses the [Tachyons](http://tachyons.io/) functional CSS framework. A locally committed version of Tachyons 4.6.1 is located in the source/stylesheets directory.
+On the web, Some Party uses the [Tachyons](http://tachyons.io/) functional CSS framework. The included CSS is based on a subset of Tachyons 4.6.1 (only the tags needed, nothing more).
 
-All Some Party articles are written in Markdown and parsed using the [Redcarpet](https://github.com/vmg/redcarpet) Markdown parsing library. The file someparty_renderer.rb contains overrides for the default Redcarpet / Middleman implementation to insert Tachyons-style CSS tags the generated HTML tags.
+All Some Party articles are written in Markdown and parsed using the [Redcarpet](https://github.com/vmg/redcarpet) Markdown parsing library. The file someparty_web_renderer.rb contains overrides for the default Redcarpet / Middleman implementation to insert Tachyons-style CSS tags the generated HTML tags.
 
 ## Bug Reports
 
