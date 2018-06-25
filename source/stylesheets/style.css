@@ -554,10 +554,6 @@ h2 {
   max-width: 570px;
 }
 
-.someparty-back {
-  background-image: url("<%= image_path("the-beverleys-courtney-michaud.jpg") %>");
-}
-
 @media screen and (min-width: 60em) {
   .mw-logo {
     max-width: 13rem;

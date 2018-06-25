@@ -35,6 +35,10 @@
     <% css_path = sitemap.resources.select { |p| p.source_file.match(/style[.]css$/) }.first %>
     <style type="text/css">
       <%= css_path.render %>
+
+      .someparty-back {
+        background-image: url("<%= image_path("the-beverleys-courtney-michaud.jpg") %>");
+      }
     </style>
 
   </head>
