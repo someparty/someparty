@@ -39,8 +39,7 @@ BBQT features guitarist/vocalist Amery Sandford, guitarist Jack Bielli, bassist 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3596791756/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://bbqtband.bandcamp.com/album/all-for-show">ALL FOR SHOW by BBQT</a></iframe>
 
-[Listen: BBQT - *All For Show* @ Bandcamp](https://bbqtband.bandcamp.com/album/all-for-show
- "#")
+[Listen: BBQT - *All For Show* @ Bandcamp](https://bbqtband.bandcamp.com/album/all-for-show "#")
 
 [Pleasence Records](http://www.pleasencerecords.com/) has released another new song from *The Becoming*, the new LP from Toronto singer-songwriter [Isla Craig](https://islacraig.bandcamp.com/). This track, titled "There is a Hole," is described by the artist as "a song about the devouring aspects of desire, sex, and the internet." The track features synth player Johnny Spence and percussionist Evan Cartwright (both of Tasseomancy), and bassist Bram Gielen (Weaves, DIANA).
 
@@ -84,9 +83,9 @@ Live In Vacuum's labelmates [Mobina Galore](https://mobinagalore.bandcamp.com/) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bkfqa5MooLY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[watch: Mobina Galore - "Spend My Day" @ YouTube](https://youtu.be/Bkfqa5MooLY "#")
+[Watch: Mobina Galore - "Spend My Day" @ YouTube](https://youtu.be/Bkfqa5MooLY "#")
 
-Did you hear that the [Polaris Music Prize](https://polarismusicprize.ca) Long List is out? From my informal survey of people standing around between sets at the Ottawa Explosion this weekend reactions fell somewhere between "reasonably satisfied with reservations" and "smash the Cancon hegemony." I'm mixed, but mostly positive. In my opinion, there's a couple of glaringly safe albums here and you'll likely know them on sight. There are also, of course, a few tragic absentees that I'd have loved to see included (and I suppose, as a juror, I bear some responsibility for not waging a more persuasive campaign on their behalf). That all said there's still a lot of cool stuff to explore here (particularly if you've not run into the Francophone acts otherwise).  Among the Some Party regulars who made the cut,you'll find Winnipeg punk vets [Propagandhi](https://propagandhi.com/), my Halifax obsession the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), Windsor slackers [Partner](https://partnerband.bandcamp.com/), the grungy Toronto-based [FRIGS](https://frigsmusic.com/), the literate folk of [The Weather Station](http://www.theweatherstation.net/) and more. You can find the whole list on the prize's [website](https://polarismusicprize.ca/2018-long-list/).
+Did you hear that the [Polaris Music Prize](https://polarismusicprize.ca) Long List is out? From my informal survey of people standing around between sets at the Ottawa Explosion this weekend reactions fell somewhere between "reasonably satisfied with reservations" and "smash the Cancon hegemony." I'm mixed, but mostly positive. In my opinion, there's a couple of glaringly safe albums here and you'll likely know them on sight. There are also, of course, a few tragic absentees that I'd have loved to see included (and I suppose, as a juror, I bear some responsibility for not waging a more persuasive campaign on their behalf). That all said there's still a lot of cool stuff to explore here (particularly if you've not run into the Francophone acts otherwise).  Among the Some Party regulars who made the cut, you'll find Winnipeg punk vets [Propagandhi](https://propagandhi.com/), my Halifax obsession the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), Windsor slackers [Partner](https://partnerband.bandcamp.com/), the grungy Toronto-based [FRIGS](https://frigsmusic.com/), the literate folk of [The Weather Station](http://www.theweatherstation.net/) and more. You can find the whole list on the prize's [website](https://polarismusicprize.ca/2018-long-list/).
 
 Voting is underway now for the 10 album Short List, which will be announced on July 17. A grand jury will decide the eventual $50,000 prize winner, to be announced at a gala in Toronto on September 17.
 
@@ -101,6 +100,6 @@ While we await news on the forthcoming third album from Toronto's popular punk g
 >
 > Featuring photos / artwork by band favourites Amanda Fotes & Marie Enger, some of Stefan's patented misty-eyed nostalgia, some juicy 'real talk' from your favourite rhythm section, and WAY more (than is necessary).
 
-The zine will come packaged with a green flexi disc featuring a live recording of the song  "My Life Is Over and I Couldn't Be Happier" from the band's 2016 record *The Dream Is Over.* It was recorded at the band's recent New Years Eve show at Boot & Saddle in Philadelphia.
+The zine will come packaged with a green flexi disc featuring a live recording of the song  "My Life Is Over and I Couldn't Be Happier" from the band's 2016 record *The Dream Is Over.* It was recorded at the band's recent New Year's Eve show at Boot & Saddle in Philadelphia.
 
 You can snag one of these [here](https://puptheband.myshopify.com/collections/misc/products/pup-the-zine-vol-1-flexi).
