@@ -73,7 +73,7 @@ I'll have more on Oktoberfest and Black Forest soon. In the meantime, here's a t
 
 [Listen: Brutal Chérie - "Brisé" @ Bandcamp](http://brutalcherie.bandcamp.com/track/bris "#")
 
-Toronto punk/post-hardcore trio [Life In Vacuum](https://lifeinvacuum.bandcamp.com/) recently released a new video for their song "Quitting." The track appears on their recent [New Damage Records](http://newdamagerecords.com/0) LP *All You Can Quit*. Shayne Ehman directed the animated video.
+Toronto punk/post-hardcore trio [Life In Vacuum](https://lifeinvacuum.bandcamp.com/) recently released a new video for their song "Quitting." The track appears on their recent [New Damage Records](http://newdamagerecords.com/) LP *All You Can Quit*. Shayne Ehman directed the animated video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RcEpFXlYpf4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

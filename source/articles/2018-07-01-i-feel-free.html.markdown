@@ -9,7 +9,7 @@ Toronto's enigmatic four-piece [Dilly Dally](https://dillydally.bandcamp.com/) h
 
 The band, which features Monks with guitarist Liz Ball, bassist Jimmy Tony, and drummer Benjamin Reinhartz, recorded in Los Angeles with producer Rob Schnapf (Elliott Smith, Beck). In the press release, Monks describes the new record as having "doom metal vibes with lots of positive messages." If you somehow avoided *Sore* when it came out, it's time to circle back and do your homework. Dilly Dally's sound falls somewhere on the punk spectrum, with the grungy dynamics of 90s alt-rock factoring heavily and Monks' gravelly wail giving it an identity all its own.
 
-The announcement of Dilly Dally's return to action came with a pair of incredibly in-depth articles that details the band's near-breakup following *Sore*'s release. [Jill Krajewski](https://twitter.com/jillkrajewski) piece at Noisey titled *[Dilly Dally Almost Died](https://noisey.vice.com/en_us/article/gyk7qx/dilly-dally-heaven-i-feel-free-interview-2018)* feels pretty damn essential. An interview by Kim Taylor Bennett in [The FADER](http://www.thefader.com/2018/06/28/dilly-dally-heaven-interview-katie-monks) is also well worth your time.
+The announcement of Dilly Dally's return to action came with a pair of incredibly in-depth articles that details the band's near-breakup following *Sore*'s release. [Jill Krajewski](https://twitter.com/jillkrajewski)'s piece at Noisey titled *[Dilly Dally Almost Died](https://noisey.vice.com/en_us/article/gyk7qx/dilly-dally-heaven-i-feel-free-interview-2018)* feels pretty damn essential. An interview by Kim Taylor Bennett in [The FADER](http://www.thefader.com/2018/06/28/dilly-dally-heaven-interview-katie-monks) is also well worth your time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fdS1DCmXVpU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -41,7 +41,7 @@ Found Objects shares members with !ATTENTION!, Horses, Threes, and Pretty Boy. T
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1308729135/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://foundobjects666.bandcamp.com/album/now-that-youre-gone">Now That You&#39;re Gone by Found Objects</a></iframe>
 
-[Listen: Found Objects - "Now That You're Gone" @ Bandcamp](https://foundobjects666.bandcamp.com/album/now-that-youre-gone "#")
+[Listen: Found Objects - *Now That You're Gone* @ Bandcamp](https://foundobjects666.bandcamp.com/album/now-that-youre-gone "#")
 
 Mississauga pop-punk act [High Home](https://highhome.bandcamp.com/) will also celebrate a new release at that show. Also a duo, the band, which features Bryan Brocoy and Adam Furukawa, have a new EP out now titled *Teenage Summer*. Brocoy and Nick Ginn ([Hellbent](https://hellbentband.bandcamp.com/)) produced the five-song set at School House Studios in Dundas, Ontario.
 
