@@ -19,7 +19,7 @@ The band features vocalist/guitarist Jeffrey Vuorela, bassist/vocalist Jason Bel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7wsQ_AZ5nms" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Listen: These Fast Times - "Lights Too Loud" @ YouTube](https://youtu.be/7wsQ_AZ5nms "#")
+[Watch: These Fast Times - "Lights Too Loud" @ YouTube](https://youtu.be/7wsQ_AZ5nms "#")
 
 Toronto noise-punk duo [Not Of](https://notof.bandcamp.com/) have returned with a new full-length titled *Hypocritic Oath*, a nine-song record that includes the track "Astoria Jack." You can preview it below.
 
@@ -27,9 +27,9 @@ Not Of features guitarist John Ex and drummer Victor Malang. They recorded with 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N7aYnXXUitw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Listen: Not Of - "Astora Jack" @ YouTube](https://youtu.be/N7aYnXXUitw "#")
+[Watch: Not Of - "Astoria Jack" @ YouTube](https://youtu.be/N7aYnXXUitw "#")
 
-The first edition of the [Upsy Daisy](https://upsydaisytapes.bandcamp.com/) compilation has been released. The project features oddball songs from anonymous Canadian musicians that would never have otherwise never seen the light of day (primarily because they're, in the eyes of their embarrased creators, pretty dumb). Here's how the project describes itself:
+The first edition of the [Upsy Daisy](https://upsydaisytapes.bandcamp.com/) compilation has been released. The project features oddball songs from anonymous Canadian musicians that would never have otherwise never seen the light of day (primarily because they're, in the eyes of their embarrassed creators, pretty dumb). Here's how the project describes itself:
 
 > Upsy Daisy is a submission based compilation of original self recorded music from fake bands across Canada. Have you ever made a stupid song that you are too scared to show your bandmates? Are you too scared to even be in a band because you think your music is for mole people? Here's your chance to showcase your work alongside a roster of songs that were never intended to see the light of day. To submit to the next edition of Upsy Daisy, e-mail upsydaisytapes@gmail.com
 
@@ -95,4 +95,4 @@ While we're on the topic of Toronto shows, here's an (intentionally) weird one.
 
 August marks the 40th anniversary of Devo's debut full-length, and to celebrate a supergroup of Some Party-familiar Toronto musicians have formed a cover band for a special performance. The group Are We Not Devo? We Are Not! will play the *Q: Are We Not Men? A: We Are Devo!* album in its entirety on Wednesday, August 22 at the Baby G. The band will feature vocals from Andrew Payne ([Zebrassieres](https://zebrassieres.bandcamp.com/), [Vanity Phase](https://vanityphase.bandcamp.com/), [Century Palm](https://centurypalm.bandcamp.com/)), synths from [Leather Jacuzzi](https://leatherjacuzzi.bandcamp.com/)'s Sarah Ford, guitar from Century Palm's Alex Hamlyn, bass from Mike Simpson ([First Base](https://firstbase.bandcamp.com/), [Teen Archer](https://teenarcher.bandcamp.com/)), and drums from Jesse Locke ([Tough Age](https://tough-age.bandcamp.com/), [Rotten Column](http://rottencolumn.bandcamp.com)).
 
-You can find details and tickets for the show at [Facebook](https://www.facebook.com/events/401465700373529/).
+You can find details and tickets for the show on [Facebook](https://www.facebook.com/events/401465700373529/).
