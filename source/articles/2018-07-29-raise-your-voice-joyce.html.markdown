@@ -59,7 +59,7 @@ The band's contributions, "Heaven's on the Hillside" and "Stumble," were recorde
 
 Needles//Pins are also among the bands taking part in the upcoming [Rocket From Russia Fest](https://www.facebook.com/events/2087478708175505/) in Vancouver. They'll join Jesse LeBourdais and the Long Winter, Jock Tears, Sightlines, You Big Idiot, the Greatest Sons, Pavel Bures, and more at the three-day event. The festival's Saturday lineup notably features the first show from Vancouver's [Cambridge](https://www.facebook.com/pg/Cambridgebc) in about 5 years, along with the 20th-anniversary show for Kamloops pop-punk group [The Hextalls](https://www.facebook.com/pg/The-Hextalls-26536271448/).
 
-All three shows will take place at the Astoria venue from August 16 to 18. A compilation and zine produced by fest-founder Russia Tim will be produced for the event as well.
+All three shows will take place at the Astoria venue from August 16 to 18. A compilation and zine produced by fest-founder Russian Tim will be produced for the event as well.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1679962525/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3092457613/transparent=true/" seamless><a href="http://thehextalls.bandcamp.com/album/play-with-heart">Play With Heart by The Hextalls</a></iframe>
 

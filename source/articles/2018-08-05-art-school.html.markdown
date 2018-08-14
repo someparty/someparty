@@ -17,7 +17,7 @@ If you missed the gig you're still in luck as the band released what will presum
 
 I'm bewildered how some bands can exist for a time and leave a scant trace of themselves in Google. [Hugh Man](https://imhughman.bandcamp.com/) is one of them, a total Google sinkhole except for a few playlist mentions from Calgary's CJSW. As I understand it, this quirky project features one Michael Couvillon, the now-Toronto based musician better known as a part of Calgarian punks [Leather Jacuzzi](https://leatherjacuzzi.bandcamp.com/). Hugh Man put out a 6-song tape last September titled *How You Find That Goo?*, a release that's now paired with a new 8-song demo titled *Are We Dan, Sir?*. You can check it out at Bandcamp.
 
-Given how aggressively weird Hugh Man strives to be, it's appropriate that they'll be opening for Toronto's big [Devo tribute](https://www.facebook.com/events/401465700373529/) on August 22 at the Baby G. As I've shared previously, the cover band celebrating the 40th anniversary of *Q: Are We Not Men? A: We Are Devo!* will feature members of [Century Palm](https://centurypalm.bandcamp.com/)], [First Base](https://firstbase.bandcamp.com/), [Teen Archer](https://teenarcher.bandcamp.com/), and [Tough Age](https://tough-age.bandcamp.com/) among others.
+Given how aggressively weird Hugh Man strives to be, it's appropriate that they'll be opening for Toronto's big [Devo tribute](https://www.facebook.com/events/401465700373529/) on August 22 at the Baby G. As I've shared previously, the cover band celebrating the 40th anniversary of *Q: Are We Not Men? A: We Are Devo!* will feature members of [Century Palm](https://centurypalm.bandcamp.com/), [First Base](https://firstbase.bandcamp.com/), [Teen Archer](https://teenarcher.bandcamp.com/), and [Tough Age](https://tough-age.bandcamp.com/) among others.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=682252042/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://imhughman.bandcamp.com/album/are-we-dan-sir">Are We Dan, Sir? by Hugh Man</a></iframe>
 
@@ -37,7 +37,7 @@ Here's a little secret: you should be following the Twitter account run by Toron
 
 [Listen: Subverter - *Demo 2018* @ Bandcamp](https://subverter604.bandcamp.com/album/demo-2018 "#")
 
-I love how matter-of-fact Not Dead Yet is about some of the they champion. Take the wild hardcore act [Piper Maru](http://pipermaru.bandcamp.com). They're the hot new Toronto band, but everyone knows that. Apparently. I certainly didn't, but I live in a  bubble on the iffy end of the QEW. What's your excuse?
+I love how matter-of-fact Not Dead Yet is about some of the bands they champion. Take the wild hardcore act [Piper Maru](http://pipermaru.bandcamp.com). They're the hot new Toronto band, but everyone knows that. Apparently. I certainly didn't, but I live in a  bubble on the iffy end of the QEW. What's your excuse?
 
 Anyways, Piper Maru played their first hometown show back in May, and within the TO hardcore scene are amassing quite the following. A four-song EP from the group is now online at Bandcamp, and it indeed goes a long way in explaining why. The four-piece are next set to play a gig at [FAITH / VOID](https://faithvoidshop.com/) on August 15 with Oakland's Khiis and locals [Tashme](https://tashme.bandcamp.com/).
 
@@ -113,7 +113,7 @@ Saturday's lineup will feature an afternoon set from the irreverent Ottawa trio 
 
 [Listen: NECK - "Hipster Beard" @ Bandcamp](https://necktunes.bandcamp.com/track/hipster-beard "#")
 
-A few hours after NECK's cavelcade of nonsense the francophone punk group [Brutal Chérie](http://brutalcherie.bandcamp.com) will take the Black Frest stage. This trio's tough take on the genre alternately calls to mind beloved US melodic punk bands like Off With Their Heads and underground sensations like The Spits. The group was formed in 2010 by Thierry Hivon and Simon Deshaies, who had played together in the 90s Montreal band Sexhead. They're joined by Antoine Legault (of The Mata Haris) on drums. The group is supporting their 2017 full-length *Antisocial et Brutal*, their second full-length, which was released by Parisian punk label [Guerilla Asso](http://guerilla.limitedrun.com/).
+A few hours after NECK's cavalcade of nonsense the francophone punk group [Brutal Chérie](http://brutalcherie.bandcamp.com) will take the Black Frest stage. This trio's tough take on the genre alternately calls to mind beloved US melodic punk bands like Off With Their Heads and underground sensations like The Spits. The group was formed in 2010 by Thierry Hivon and Simon Deshaies, who had played together in the 90s Montreal band Sexhead. They're joined by Antoine Legault (of The Mata Haris) on drums. The group is supporting their 2017 full-length *Antisocial et Brutal*, their second full-length, which was released by Parisian punk label [Guerilla Asso](http://guerilla.limitedrun.com/).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1589100685/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://brutalcherie.bandcamp.com/album/antisocial-et-brutal">Antisocial et brutal by Brutal chérie</a></iframe>
 
