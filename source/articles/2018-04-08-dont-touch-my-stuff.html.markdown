@@ -23,8 +23,7 @@ Jacobs and his band (the real one, not Garbage Truck) are slated to play the [Di
 
 [Listen: Garbage Truck - "Save For Food" EP @ YouTube](https://www.youtube.com/watch?v=cTZ8LY233II&feature=youtu.be "#")
 
-[Mint Records](http://www.mintrecs.com/) has signed the Vancouver-based four-piece slacker-punk group [Dumb](https://dumbband.bandcamp.com/) and will release an LP from the band on June 22, titled *Seeing Green*. The 14 song set was recorded and mixed by Jordan Koop at The Noise Floor and
-mastered by Greg Mindorff at Suite Sound Labs.
+[Mint Records](http://www.mintrecs.com/) has signed the Vancouver-based four-piece slacker-punk group [Dumb](https://dumbband.bandcamp.com/) and will release an LP from the band on June 22, titled *Seeing Green*. The 14 song set was recorded and mixed by Jordan Koop at The Noise Floor and mastered by Greg Mindorff at Suite Sound Labs.
 
 Dumb singer and guitarist Franco Rossino premiered their new song "Mint" at [Paste](https://www.pastemagazine.com/articles/2018/04/daily-dose-dumb-mint.html), commenting:
 
