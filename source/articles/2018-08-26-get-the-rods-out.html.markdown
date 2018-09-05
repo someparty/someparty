@@ -106,4 +106,4 @@ Montreal's [Laureate](https://laureate.bandcamp.com/) occupies a sweet spot some
 
 [Listen: Mental Fix - *Bricolage* @ Bandcamp](http://mentalfix.bandcamp.com/album/bricolage "#")
 
-Oh, and this is an unsolicited endorsement, but if in the waning days of the summer you happen to find yourself at a cottage on Lake Erie and need a quality beech beer, you could do a hell of a lot worse than Beau's [Buenos Dias](https://beaus.ca/beer/buenos-dias/) citrus gruit. Speaking from experience.
+Oh, and this is an unsolicited endorsement, but if in the waning days of the summer you happen to find yourself at a cottage on Lake Erie and need a quality beach beer, you could do a hell of a lot worse than Beau's [Buenos Dias](https://beaus.ca/beer/buenos-dias/) citrus gruit. Speaking from experience.
