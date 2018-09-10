@@ -98,7 +98,7 @@ Wilson worked on the track at The Quarantine, the living room studio of Port Gre
 
 ##Black Forest
 
-For the past month, I've been profiling some of the band's playing the [Black Forest Stage](http://www.beausoktoberfest.ca/black-forest/) stage at [Beau's](http://www.beaus.ca/) annual [Oktoberfest](http://www.beausoktoberfest.ca/) concert this September. The music festival and fundraiser is will take place on September 21 and 22 in Vanleek Hill, Ontario, raising money to support the Ottawa skate community's youth charity [For Pivots Sake](http://ottawaskateboard.ca/for-pivots-sake/).
+For the past month, I've been profiling some of the bands playing the [Black Forest Stage](http://www.beausoktoberfest.ca/black-forest/) stage at [Beau's](http://www.beaus.ca/) annual [Oktoberfest](http://www.beausoktoberfest.ca/) concert this September. The music festival and fundraiser is will take place on September 21 and 22 in Vanleek Hill, Ontario, raising money to support the Ottawa skate community's youth charity [For Pivots Sake](http://ottawaskateboard.ca/for-pivots-sake/).
 
 Let's talk about **The Trapt**, a band that's proven notoriously difficult to do any meaningful research on. That's partly because their short career was entirely pre-internet and pretty much localized to the Ottawa scene of the time, but also because the namespace has been muddied significantly by later groups with similar names. The capital punk band was active at the end of the 80s, putting out a single 45 during that time titled *A Minute Late... A Dollar Short*. It came out on the Trashtone Sound Products label, which has similar discoverability problems in 2018.
 
