@@ -29,7 +29,7 @@ The EP will feature the new single "The Arousal of Repair," which you can stream
 
 [Listen: The Flatliners - "The Arousal of Repair" @ YouTube](https://youtu.be/p7mI7KlotL4 "#")
 
-Windsor's [Psychic Void](https://psychicvoid.bandcamp.com) released a killer 8-song tape earlier this year titled *Terminal Vacation*. It delivered a menacing mix of psyche-rock weirdness and 80s hardcore grit. The four-piece, which features vocalist Jesse Knight, guitarist Josh Kaiser, bassist Matty Menard, and drummer Pete Garant, has a new track to follow up that set online titled, "Gutter Butter."
+Windsor's [Psychic Void](https://psychicvoid.bandcamp.com) released a killer 8-song tape earlier this year titled *Terminal Vacation*. It delivered a menacing mix of psych-rock weirdness and 80s hardcore grit. The four-piece, which features vocalist Jesse Knight, guitarist Josh Kaiser, bassist Matty Menard, and drummer Pete Garant, has a new track to follow up that set online titled, "Gutter Butter."
 
 The song's available as *Psychic Readings Vol. 3*, the third release in the cassette series from local label [Psychic Readings Records](https://www.facebook.com/psychicreadingsrecords/). The tape, which has the song dubbed on both sides for good measure, comes with a download of both the track as well as the full Vol. 1 compilation. Josh Kaiser recorded "Gutter Butter," and the packaging features artwork and layout by Roye Trout.
 

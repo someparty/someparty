@@ -27,7 +27,7 @@ I'll move on to other topics in a moment, but here's what Damian had to say abou
 
 [Watch: Fucked Up - "Raise Your Voice Joyce" @ YouTube](https://youtu.be/vAh1Nm5Zjvw "#")
 
-Prolific Montreal-via-Windsor garage/psyche artist [Paul Jacobs](https://pauljacobs.bandcamp.com/) has announced his new LP. The record, titled *Easy*, is set to arrive on October 19 through the UK label [Stolen Body Records](https://stolenbodyrecords.co.uk/). Stolen Body was behind the physical release of Jacobs' 2016 full-length *Pictures, Movies & Apartments* as well.
+Prolific Montreal-via-Windsor garage/psychartist [Paul Jacobs](https://pauljacobs.bandcamp.com/) has announced his new LP. The record, titled *Easy*, is set to arrive on October 19 through the UK label [Stolen Body Records](https://stolenbodyrecords.co.uk/). Stolen Body was behind the physical release of Jacobs' 2016 full-length *Pictures, Movies & Apartments* as well.
 
 Just a few weeks ago Jacobs released a five-song EP titled *Story About Anything*, which is being sold as a limited run of 100 cassettes, each with a hand-drawn cover by Jacobs. In recent months he and bandmate Meagan Callen have also released some aggressively low-fi oddities as [Garbage Truck](https://www.youtube.com/watch?v=0L-7MlQZf9I).
 

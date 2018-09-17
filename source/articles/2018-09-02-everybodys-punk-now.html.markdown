@@ -73,7 +73,7 @@ Vancouver grunge/punk outfit [Dead Soft](http://dead-soft.com/) have a video onl
 
 [Watch: Dead Soft - "Down" @ YouTube](https://youtu.be/8jBfdMQiYCE "#")
 
-Montreal psyche-pop group [Anemone](https://anemonelovesyou.bandcamp.com/) has a new single out titled *Daffodils*. The dreamy track follows the band's *Baby Only You & I* EP from earlier in the year (a [Luminelle Records](http://luminellerecs.com/) release). Anemone is fronted by vocalist/keyboardist Chloé Soldevila and features Zachary Irving, Miles Dupire, Gabriel Lambert, and Samuel Gemme in the band.
+Montreal psych-pop group [Anemone](https://anemonelovesyou.bandcamp.com/) has a new single out titled *Daffodils*. The dreamy track follows the band's *Baby Only You & I* EP from earlier in the year (a [Luminelle Records](http://luminellerecs.com/) release). Anemone is fronted by vocalist/keyboardist Chloé Soldevila and features Zachary Irving, Miles Dupire, Gabriel Lambert, and Samuel Gemme in the band.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/492282507&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 

@@ -40,7 +40,7 @@ Jim Di Gioia at [Dominionated](http://dominionated.ca/songs/past-blue-youth/) wr
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1835833939/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://blueyouthsk.bandcamp.com/album/s-t-ep">s/t - EP by Blue Youth</a></iframe>
 
-A few weeks ago I [mentioned](https://www.someparty.ca/2017-06-25-glory-days/) that revived 70s Hamilton psyche-rock act [Simply Saucer](https://www.simplysaucer.com/) had appeared on Dawn Loucks and Mike Bell's [CJSW](http://cjsw.com/) show [Saved By the Bell](http://cjsw.com/program/saved-by-the-bell/episode/20170621/) during Sled Island. A video of their performance of the song "Bullet Proof Nothing" is up on YouTube now, and as an added bonus it's one of those 360 degree deals so you can explore the room as they play.
+A few weeks ago I [mentioned](https://www.someparty.ca/2017-06-25-glory-days/) that revived 70s Hamilton psych-rock act [Simply Saucer](https://www.simplysaucer.com/) had appeared on Dawn Loucks and Mike Bell's [CJSW](http://cjsw.com/) show [Saved By the Bell](http://cjsw.com/program/saved-by-the-bell/episode/20170621/) during Sled Island. A video of their performance of the song "Bullet Proof Nothing" is up on YouTube now, and as an added bonus it's one of those 360 degree deals so you can explore the room as they play.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/pjLu3FtUdRQ?rel=0" frameborder="0" allowfullscreen></iframe>
 

@@ -33,7 +33,7 @@ Nap Eyes once again features the Chapman and his Montreal-based bandmates Brad L
 
 [Watch: Nap Eyes - "Every Time the Feeling " @ YouTube](https://www.youtube.com/watch?v=liXRe7t7v2M "#")
 
-Early in January, a pair of low-fi punk songs from a Windsor-based band dubbed [No Fix](https://nofixforyou.bandcamp.com) popped up online. No Fix is the solo project of Matthew Menard, who plays in the group [Psychic Void](https://psychicvoid.bandcamp.com) (they released a searing, reverb-drenched, psyche-rock/hardcore-hybrid last summer). The songs "Local Boys" and "Negative Reclusive" find Matty channelling the late 70s with an authenticity and earnestness not unlike to the recent debut from Vancouver's Corner Boys.
+Early in January, a pair of low-fi punk songs from a Windsor-based band dubbed [No Fix](https://nofixforyou.bandcamp.com) popped up online. No Fix is the solo project of Matthew Menard, who plays in the group [Psychic Void](https://psychicvoid.bandcamp.com) (they released a searing, reverb-drenched, psych-rock/hardcore-hybrid last summer). The songs "Local Boys" and "Negative Reclusive" find Matty channelling the late 70s with an authenticity and earnestness not unlike to the recent debut from Vancouver's Corner Boys.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3101386885/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://nofixforyou.bandcamp.com/album/untitled">Untitled by No Fix</a></iframe>
 

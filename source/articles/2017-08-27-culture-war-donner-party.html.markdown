@@ -105,7 +105,7 @@ Montreal's [Blood and Glass](https://bloodandglass.bandcamp.com/) is an electro-
 
 [Watch: Blood and Glass - "Hop The Fence" @ YouTube](https://youtu.be/GpPuZyw7vxs "#")
 
-[Zen Bamboo](https://zenbamboo.bandcamp.com/) is a four-piece rock band from Saint-Lambert, Quebec. They're currently in the midst of releasing their first full-length, split into four parts to be released throughout 2017. The project, which was produced and engineered by [Malajube](https://malajube.bandcamp.com/)'s Thomas Augustin, will see its second installment arrive at FME. They'll perform at the Petit Théâtre du Vieux Noranda on Friday evening with Montreal psyche-rock act [Elephant Stone](https://www.elephantstone.ca/) and Brooklyn's A Place to Bury Strangers.
+[Zen Bamboo](https://zenbamboo.bandcamp.com/) is a four-piece rock band from Saint-Lambert, Quebec. They're currently in the midst of releasing their first full-length, split into four parts to be released throughout 2017. The project, which was produced and engineered by [Malajube](https://malajube.bandcamp.com/)'s Thomas Augustin, will see its second installment arrive at FME. They'll perform at the Petit Théâtre du Vieux Noranda on Friday evening with Montreal psych-rock act [Elephant Stone](https://www.elephantstone.ca/) and Brooklyn's A Place to Bury Strangers.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=696854263/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://zenbamboo.bandcamp.com/album/volume-1-juv-nile">Volume 1: Juvénile by Zen Bamboo</a></iframe>
 

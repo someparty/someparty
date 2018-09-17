@@ -57,7 +57,7 @@ Dusted's lineup in recent times has featured Borcherdt with guitarist Anna Edwar
 
 [Watch: Dusted - "Backwoods Ritual" @ YouTube](https://www.youtube.com/watch?v=OnHNkMvY4N0 "#")
 
-Sudbury's [Tommy and the Commies](https://tommyandthecommies.bandcamp.com) have announced that their debut 12" will be released on [Slovenly Recordings](https://www.slovenly.com/). There's no detail to share yet on a title or release date, but it's a very cool development given the Reno, Nevada label's track record of backing some excellent garage, punk, and psyche artists over the past 16 years.
+Sudbury's [Tommy and the Commies](https://tommyandthecommies.bandcamp.com) have announced that their debut 12" will be released on [Slovenly Recordings](https://www.slovenly.com/). There's no detail to share yet on a title or release date, but it's a very cool development given the Reno, Nevada label's track record of backing some excellent garage, punk, and psych artists over the past 16 years.
 
 The band has a few tour dates coming up in southern Ontario, including a show at Toronto's Baby G on [April 7](https://www.facebook.com/events/2028652384079267/) supporting the visiting French group Les Lullies (Slovenly artists themselves), and one on the [14th](https://www.facebook.com/events/151512908842796/) at Hamilton's Doors bar with [Flesh Rag](https://www.facebook.com/fleshrag/) and [Dboy](https://www.dboylove.com).
 

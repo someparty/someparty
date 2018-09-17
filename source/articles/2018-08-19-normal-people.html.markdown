@@ -77,7 +77,7 @@ Nap Eyes released *I'm Bad Now* earlier this year on [You've Changed Records](ht
 
 [Watch: Nap Eyes live at Old Granada Studios @ YouTube](https://youtu.be/z95sm_HZIcM "#")
 
-You can now stream the new solo record from Toronto multi-instrumentalist [Matthew “Doc” Dunn](https://soundcloud.com/cosmic_range), a spacious folk-rock effort titled *Lightbourn*. Dunn's best known these days as a member of the psyche act the [Cosmic Range](http://www.ideefixerecords.com/if015.html), and in particular as the architect behind the disco-inspired instrumentals powering Meg Remy's latest [U.S. Girls](http://yousgirls.blogspot.ca/) record, *In A Poem Unlimited*. While both Remy and [Isla Craig](https://islacraig.bandcamp.com/) appear on *Lightbourn* as backing vocalists, this is very much a solo effort from Dunn.
+You can now stream the new solo record from Toronto multi-instrumentalist [Matthew “Doc” Dunn](https://soundcloud.com/cosmic_range), a spacious folk-rock effort titled *Lightbourn*. Dunn's best known these days as a member of the psych act the [Cosmic Range](http://www.ideefixerecords.com/if015.html), and in particular as the architect behind the disco-inspired instrumentals powering Meg Remy's latest [U.S. Girls](http://yousgirls.blogspot.ca/) record, *In A Poem Unlimited*. While both Remy and [Isla Craig](https://islacraig.bandcamp.com/) appear on *Lightbourn* as backing vocalists, this is very much a solo effort from Dunn.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/570306885&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 

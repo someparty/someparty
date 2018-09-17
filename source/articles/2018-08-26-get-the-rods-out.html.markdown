@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Music and updates from Paul Jacobs, Petra Glynt, The Reaction, Ancient Shapes, Tommy and the Commies, The Dirty Nil, Maybe Kinda Sorta, Laureate, Mental Fix.
 ---
 
-Montreal psyche rocker, visual artist, and animator [Paul Jacobs](https://pauljacobs.bandcamp.com/) has released the first track from his upcoming LP *Easy*. The tune, titled "Sunday Morning 2," comes with a video animated (by hand) in Jacobs' instantly recognizable cartoon style. *Easy* is due on October 19 through the UK label [Stolen Body Records](https://stolenbodyrecords.co.uk/). I previously shared a teaser for this record back in [July](https://www.someparty.ca/2018-07-29-raise-your-voice-joyce/).
+Montreal psych rocker, visual artist, and animator [Paul Jacobs](https://pauljacobs.bandcamp.com/) has released the first track from his upcoming LP *Easy*. The tune, titled "Sunday Morning 2," comes with a video animated (by hand) in Jacobs' instantly recognizable cartoon style. *Easy* is due on October 19 through the UK label [Stolen Body Records](https://stolenbodyrecords.co.uk/). I previously shared a teaser for this record back in [July](https://www.someparty.ca/2018-07-29-raise-your-voice-joyce/).
 
 Jacobs, originally from Windsor, made his name as a one-man-band and has proved to be wildly prolific, often releasing several EPs and full-lengths within a single year. His last record, and his first vinyl release with Stolen Body, was 2016's *Pictures, Movies & Apartments*. It was followed up earlier this year by the five-song EP *Story About Anything* along with a handful of low-fi experiments shared under the name [Garbage Truck](https://www.youtube.com/watch?v=0L-7MlQZf9I).
 

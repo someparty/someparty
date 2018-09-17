@@ -112,7 +112,7 @@ Halifax garage rock band [Gun Jr.](https://gunjr.bandcamp.com) has released a ne
 
 [Listen: Gun Jr. - "This Hole" @ Bandcamp](https://gunjr.bandcamp.com/track/this-hole "#")
 
-Hamilton, Ontario's [The Crowleys](https://thecrowleys.bandcamp.com/) have released a new EP titled *Colours Change Their Tone*. The six-song set finds the band, who've been making music together since high school, continuing to turn out delicate rock songs with psyche flourishes. The EP was recorded, mixed, and produced by Michael Keire and Cohen Wylie at Threshold recording studio.
+Hamilton, Ontario's [The Crowleys](https://thecrowleys.bandcamp.com/) have released a new EP titled *Colours Change Their Tone*. The six-song set finds the band, who've been making music together since high school, continuing to turn out delicate rock songs with psych flourishes. The EP was recorded, mixed, and produced by Michael Keire and Cohen Wylie at Threshold recording studio.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2752464880/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thecrowleys.bandcamp.com/album/colours-change-their-tone">Colours Change Their Tone by The Crowleys</a></iframe>
 

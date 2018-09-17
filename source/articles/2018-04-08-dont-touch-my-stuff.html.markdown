@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Paul Jacobs returns with Garbage Truck. Dumb signs to Mint. New music from Espanola. Man Made Hill's new video. Ottawa Explosion Weekend lineup.
 ---
 
-2016's excellent *Pictures, Movies & Apartments* seemed like it had ushered in a new era for Montreal's [Paul Jacobs](https://pauljacobs.bandcamp.com/). The garage-psyche noisemaker was coming off a wildly prolific period three-year span that saw him digitally release (something like) six full-lengths plus a smattering of EPs. His sound had grown from chaotic one-man bedroom-sessions to a lush, fully orchestrated wall of sound. *Pictures* not only saw a real physical release on [Stolen Body Records](https://stolenbodyrecords.co.uk/product/paul-jacobs-pictures-movies-and-apartments/) but a proper supporting tour from Jacobs and his band the Big City Babies.
+2016's excellent *Pictures, Movies & Apartments* seemed like it had ushered in a new era for Montreal's [Paul Jacobs](https://pauljacobs.bandcamp.com/). The garage-psych noisemaker was coming off a wildly prolific period three-year span that saw him digitally release (something like) six full-lengths plus a smattering of EPs. His sound had grown from chaotic one-man bedroom-sessions to a lush, fully orchestrated wall of sound. *Pictures* not only saw a real physical release on [Stolen Body Records](https://stolenbodyrecords.co.uk/product/paul-jacobs-pictures-movies-and-apartments/) but a proper supporting tour from Jacobs and his band the Big City Babies.
 
 That almost sounds normal. Say it ain't so!
 
@@ -13,7 +13,7 @@ Fear not, because this week the weirdo low-fi Paul Jacobs came roaring back. The
 
 Because that's not enough for a given week, Jacobs also animated a video for the *Save For Food* song "[Craig's Here](https://www.youtube.com/watch?v=3FDhc9m4yvY)," a song about the Nintendo 64 game Goldeneye (or at least the guy playing it).
 
-Jacobs and his band (the real one, not Garbage Truck) are slated to play the [Distortion Psyche Fest](https://www.distorsionpsychfest.com/) in Montreal this May.
+Jacobs and his band (the real one, not Garbage Truck) are slated to play the [Distortion psychFest](https://www.distorsionpsychfest.com/) in Montreal this May.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0L-7MlQZf9I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
