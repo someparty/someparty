@@ -92,7 +92,7 @@ While the full extent of this thing remains to be revealed, you can now check ou
 
 ##Black Forest
 
-[Beau's](http://www.beaus.ca/)'s annual [Oktoberfest](http://www.beausoktoberfest.ca/) music festival and fundraiser is coming up next month. It'll take place on September 21 and 22 in Vanleek Hill, Ontario. Among the fully Canadian lineup, you'll find the punk-focused [Black Forest Stage](http://www.beausoktoberfest.ca/black-forest/) raising funds to support the Ottawa skate scene youth charity [For Pivots Sake](http://ottawaskateboard.ca/for-pivots-sake/). I've been digging through the Black Forest lineup each week in the lead-up to the event.
+[Beau's](http://www.beaus.ca/)'s annual [Oktoberfest](http://www.beausoktoberfest.ca/) music festival and fundraiser is coming up next month. It'll take place on September 21 and 22 in Vankleek Hill, Ontario. Among the fully Canadian lineup, you'll find the punk-focused [Black Forest Stage](http://www.beausoktoberfest.ca/black-forest/) raising funds to support the Ottawa skate scene youth charity [For Pivots Sake](http://ottawaskateboard.ca/for-pivots-sake/). I've been digging through the Black Forest lineup each week in the lead-up to the event.
 
 Montreal's [Laureate](https://laureate.bandcamp.com/) occupies a sweet spot somewhere between No Idea styled pop-punk, midwestern emo, and indie rock. They never entirely land in any one of those camps, but in doing so should appeal in all directions. The vocal interplay between Giancarlo Talarico and Erin Power might even fondly remind you of another beloved Montreal punk group, the now-defunct Fifth Hour Hero. Laureate are supporting their 2017 full-length *Landmarks*, which was released by [Jump Start Records](http://jumpstartrecords.com/).
 

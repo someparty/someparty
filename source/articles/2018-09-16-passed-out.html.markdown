@@ -95,7 +95,7 @@ The band features the titular Tommy backed by Jeff Houle ([Strange Attractor](ht
 
 ## Black Forest
 
-This week I'm wrapping up my little series profiling the bands playing the [Black Forest Stage](http://www.beausoktoberfest.ca/black-forest/) at [Beau's](http://www.beaus.ca/) [Oktoberfest](http://www.beausoktoberfest.ca/). The event will go down for this coming weekend (Friday, September 21 and Saturday, September 22) in Vanleek Hill, Ontario.
+This week I'm wrapping up my little series profiling the bands playing the [Black Forest Stage](http://www.beausoktoberfest.ca/black-forest/) at [Beau's](http://www.beaus.ca/) [Oktoberfest](http://www.beausoktoberfest.ca/). The event will go down for this coming weekend (Friday, September 21 and Saturday, September 22) in Vankleek Hill, Ontario.
 
 Last week I ran three interviews at Punknews.org taking a deeper look at some of these bands. The first was with Montreal pop-punk group [Lost Love](https://lostlove.bandcamp.com/). The band will take the catchy, Weezer-indebted tunes from their recent LP *Good Luck Rassco* to the Black Forest stage on Friday night. The group commented to me about their penchant for unabashed positivity in  troubling times:
 
