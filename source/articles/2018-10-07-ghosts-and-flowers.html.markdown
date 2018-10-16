@@ -63,7 +63,7 @@ Mumford and Googoo are also both members of [The Mark Vodka Group](https://markv
 
 [Listen: Negative Rage - *2017-2018 Suckin* @ Bandcamp](http://negativerage.bandcamp.com/album/2017-2018-suckin "#")
 
-Ross Miller of [The Dirty Nil](https://thedirtynil.bandcamp.com/) and [SIDEMAN](https://sidemanhc.bandcamp.com/) shared a surprise EP last week under his hardcore guise of[Blue](https://itcantallbeblue.bandcamp.com/). The five-song release, titled *Positive Attitude*, was recorded this past August by Nick Giammarco (of Welland's [Canyon Carvers](https://canyoncarvers.bandcamp.com/)) and Justis Krar (sometimes-[Single Mothers](https://singlemothersband.bandcamp.com/) member and the other glorious half of SIDEMAN). Miller plays every instrument on the lightning-quick record, with Giammarco throwing in some backing shouts on the track "Feelin' Blue."
+Ross Miller of [The Dirty Nil](https://thedirtynil.bandcamp.com/) and [SIDEMAN](https://sidemanhc.bandcamp.com/) shared a surprise EP last week under his hardcore guise of [Blue](https://itcantallbeblue.bandcamp.com/). The five-song release, titled *Positive Attitude*, was recorded this past August by Nick Giammarco (of Welland's [Canyon Carvers](https://canyoncarvers.bandcamp.com/)) and Justis Krar (sometimes-[Single Mothers](https://singlemothersband.bandcamp.com/) member and the other glorious half of SIDEMAN). Miller plays every instrument on the lightning-quick record, with Giammarco throwing in some backing shouts on the track "Feelin' Blue."
 
 The Nil are, of course, supporting the high-profile recent release of *Master Volume*, their massive sophomore LP and Miller's first with the band.
 
