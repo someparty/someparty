@@ -100,7 +100,7 @@ The band will celebrate the release on the 30th with a show at Ottawa's [LIVE on
 
 [Listen: Holy Christopher - "Hate Me/Hate You" @ Bandcamp](https://holychristopher.bandcamp.com/album/land-vs-sea "#")
 
-The hits keep comings from Windsor, or at least from the bands that Matthew Menard plays in. In earlier letters I've shared songs from his solo project [No Fix](https://nofixforyou.bandcamp.com) and the killer psyche/punk group [Psychic Void](https://psychicvoid.bandcamp.com), and here's another slice of aggression in the form of [Brain Itch](https://brainitch.bandcamp.com). The band recorded their new set, titled *Leave the Fold*, with Nick Kinnish at Serafina Studios. It should be available on cassette in April.
+The hits keep comings from Windsor, or at least from the bands that Matthew Menard plays in. In earlier letters I've shared songs from his solo project [No Fix](https://nofixforyou.bandcamp.com) and the killer psych/punk group [Psychic Void](https://psychicvoid.bandcamp.com), and here's another slice of aggression in the form of [Brain Itch](https://brainitch.bandcamp.com). The band recorded their new set, titled *Leave the Fold*, with Nick Kinnish at Serafina Studios. It should be available on cassette in April.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4155404735/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://brainitch.bandcamp.com/album/leave-the-fold">LEAVE THE FOLD by BRAIN ITCH</a></iframe>
 

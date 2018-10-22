@@ -27,7 +27,7 @@ Now based in the Annapolis Valley, Barlow has six records out under her name alo
 
 [Listen: Kim Barlow: "Whitehorse" @ SoundCloud](https://soundcloud.com/user-124859170/whitehorse "#")
 
-Vancouver punk act [Jock Tears](https://jocktears.bandcamp.com/) are finally ready to unveil their first full-length. The 12-song *Bad Boys* will debut this Friday on Inky Records. The set finds the band mixing attitude-driven Ramones-inspired numbers like "Boys With Bruises" alongside amusing twee tunes like the band's album-opening jock-baiting mission statement "Salt." The group recorded in Montreal at Value Sound with [Faith Healer](https://faithhealer.bandcamp.com/)'s [Renny Wilson](http://rennywilson.com/).
+Vancouver punk act [Jock Tears](https://jocktears.bandcamp.com/) are finally ready to unveil their first full-length. The 12-song *Bad Boys* will debut this Friday on Inky Records. The set finds the band mixing attitude-driven Ramones-inspired numbers like "Boys With Bruises" alongside amusing twee tunes like the band's namesake jock-baiting mission statement "Jock Tears." The group recorded in Montreal at Value Sound with [Faith Healer](https://faithhealer.bandcamp.com/)'s [Renny Wilson](http://rennywilson.com/).
 
 Vocalist Lauren Ray fronts Jock Tears. The quartet also features former [Tough Age](https://tough-age.bandcamp.com/) bassist Lauren Smith, guitarist Spencer Hargreaves ([Redrick Sultan](https://redricksultanband.bandcamp.com/)), and [Brutal Poodle](https://brutalpoodlevan.bandcamp.com/) drummer Dustin Bromley.
 
