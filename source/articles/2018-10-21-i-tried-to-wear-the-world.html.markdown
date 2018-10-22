@@ -31,7 +31,7 @@ Along with Lauren Ray, Jock Tears also features former [Tough Age](https://tough
 
 [Watch: Jock Tears - "Jock Tears" @ YouTube](https://youtu.be/t57RNj6D8GM "#")
 
-Quebec City dance-punk three-piece [VICTIME](https://victimelol.bandcamp.com/) have released a new single titled "Dodo-prémonition," a track that will appaer on thier upcoming EP *Mi-tronc, mi-jambe*. That set isn't expected until March of 2019 on [Michel Records](https://www.facebook.com/MichelRecords/). The track, which cumulates in a complete saxophone freak-out by guest David-Dugas Dion, is the band's first new material since their February full-length *La femme taupe*. The song was engineered and mixed by Simon Provencher at Le Pantoum.
+Quebec City dance-punk three-piece [VICTIME](https://victimelol.bandcamp.com/) have released a new single titled "Dodo-prémonition," a track that will appear on their upcoming EP *Mi-tronc, mi-jambe*. That set isn't expected until March of 2019 from [Michel Records](https://www.facebook.com/MichelRecords/). The track, which cumulates in a complete saxophone freak-out by guest David-Dugas Dion, is the band's first new material since their February full-length *La femme taupe*. The song was engineered and mixed by Simon Provencher at Le Pantoum.
 
 VICTIME features bassist/vocalist Laurence Gauthier-Brown, drummer Samuel Gougoux, and guitarist Simon Provencher.
 
@@ -89,7 +89,7 @@ The first two Polaris Collaboration Sessions featured Shad and Holy Fuck (becomi
 
 [Listen: The Weather Station & Jennifer Castle - *Collaboration Session #3* @ Bandcamp](http://paradiseofbachelors.bandcamp.com/album/collaboration-session-3 "#")
 
-Every band that Windsor's Matthew Menard plays in is cool, from the sinister psych/punk act [Psychic Void](https://psychicvoid.bandcamp.com) to the charging hardcore of [Brain Itch](https://brainitch.bandcamp.com). His solo garage-punk act [No Fix](https://nofixforyou.bandcamp.com) continues that trend, drawing obvious influence from some of of the genres' forebears (with  satisfingly blown out vocals that I'm a big fan of). The latest song from the project, following a pair of tunes released in January, is titled "Still Goin Down." There's no word if No Fix is gearing up to start collecting these various tracks on somethign physical, so for now head to Bandcamp for the goods.
+Every band that Windsor's Matthew Menard plays in is cool, from the sinister psych/punk act [Psychic Void](https://psychicvoid.bandcamp.com) to the charging hardcore of [Brain Itch](https://brainitch.bandcamp.com). His solo garage-punk act [No Fix](https://nofixforyou.bandcamp.com) continues that trend, drawing obvious influence from some of the genres' forebears (with  satisfyingly blown out vocals that I'm a big fan of). The latest song from the project, following a pair of tunes released in January, is titled "Still Goin Down." There's no word if No Fix is gearing up to start collecting these various tracks on something physical, so for now head to Bandcamp for the goods.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3975482524/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://nofixforyou.bandcamp.com/track/still-goin-down">STILL GOIN DOWN by No Fix</a></iframe>
 
@@ -105,7 +105,7 @@ The *TRASH ON!!!* compilation was spearheaded by the UK's [No Front Teeth Record
 
 [Listen: Statues - "New Plan" (unreleased) @ Bandcamp](http://fdhrecords.bandcamp.com/album/trash-on-a-tribute-to-p-trash-records "#")
 
-Congratulations Joe "Shithead" Keithley of [D.O.A.](https://www.suddendeath.com/), as it looks like the Vancouver punk legend has secured a spot on the city council of Burnaby, BC. He'll be the first-ever Green Party council member, securing the eighth and final spot on the council according to unofficial [election results](https://www.burnaby.ca/election2018/). Keithley was initially running for mayor in the city, but pulled out of that race in July to vie for a council spot.
+Congratulations Joe "Shithead" Keithley of [D.O.A.](https://www.suddendeath.com/), as it looks like the Vancouver punk legend has secured a spot on the city council of Burnaby, BC. He'll be the first-ever Green Party council member, securing the eighth and final spot on the council according to unofficial [election results](https://www.burnaby.ca/election2018/). Keithley was initially running for mayor in the city but pulled out of that race in July to vie for a council spot.
 
 Keithley's run for various levels of political office several times in the past, first testing the waters with a 1996 provincial run for the Greens. D.O.A. last released *Fight Back* on [Sudden Death Records](https://www.suddendeath.com/), celebrating the band's 40 years together.
 
