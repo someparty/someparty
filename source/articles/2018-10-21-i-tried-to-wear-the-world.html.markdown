@@ -55,7 +55,7 @@ The new track finds the band taking on what they refer to as "openly discriminat
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3168800575/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2158114228/transparent=true/" seamless><a href="http://sedition.bandcamp.com/album/on-sight-feat-andrew-kramer">On Sight (feat. Andrew Kramer) by Sedition</a></iframe>
 
-[Listen: Sedition with Andrew Kramer - "On Sight"](https://sedition.bandcamp.com/track/on-sight-feat-andrew-kramer "#")
+[Listen: Sedition with Andrew Kramer - "On Sight" @ Bandcamp](https://sedition.bandcamp.com/track/on-sight-feat-andrew-kramer "#")
 
 Guelph, Ontario duo the [Bullshit Hardcore Band](https://onedimensionalband.bandcamp.com) have expanded on their Bullshit Dub Soundsystem persona, a rhythmic diversion they first unveiled in the spring. The band  recently released a new six-song set under the name titled *The Process of Seeding Doubt*. The group commented on the road they've taken with this material:
 

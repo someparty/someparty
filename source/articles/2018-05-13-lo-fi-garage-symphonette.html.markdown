@@ -41,7 +41,7 @@ Prolific Lethbridge, Alberta musician Brandon Saucier recently released a new di
 
 [Listen: Print Head - "My Mind" / "You Remain" @ Bandcamp](https://wint.bandcamp.com/album/my-mind-you-remain "#")
 
-On the moodier end of the post-punk spectrum, Montreal's [Bleu Nuit](https://bleunuitmtl.bandcamp.com) nave launched a new single titled "Féminin Masculin." It's the haunting first song released as part of the band's new collaboration with the [Michel Records](http://michelrecords.com/) label (home of Corridor, Halo Maud, and Victim). A full length is expected on the label at some point in 2019. In the meantime, you can find Bleu Nuit playing a set at this year's [Ottawa Explosion Weekend](http://ottawaexplosion.com/) alongside Doxx and Leather Jacuzzi on the Friday night of the festival.
+On the moodier end of the post-punk spectrum, Montreal's [Bleu Nuit](https://bleunuitmtl.bandcamp.com) nave launched a new single titled "Féminin Masculin." It's the haunting first song released as part of the band's new collaboration with the [Michel Records](http://michelrecords.com/) label (home of Corridor, Halo Maud, and VICTIME). A full length is expected on the label at some point in 2019. In the meantime, you can find Bleu Nuit playing a set at this year's [Ottawa Explosion Weekend](http://ottawaexplosion.com/) alongside Doxx and Leather Jacuzzi on the Friday night of the festival.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4053013228/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://bleunuitmtl.bandcamp.com/track/f-minin-masculin">Féminin Masculin by Bleu Nuit</a></iframe>
 
