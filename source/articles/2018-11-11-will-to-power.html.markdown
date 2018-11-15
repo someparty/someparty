@@ -87,7 +87,7 @@ Fuudge is the brainchild of David Bujold and he's credited with most of the song
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/abrG2mI3Slk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Watch: Fuudge - *Toi aussi (avec paroles)* @ YouTube](https://youtu.be/abrG2mI3Slk "#")
+[Watch: Fuudge - "Toi aussi (avec paroles)" @ YouTube](https://youtu.be/abrG2mI3Slk "#")
 
 Toronto post-punk group [FRIGS](https://frigsmusic.com/) recently recorded a [TOURPARTOUT Session](https://www.facebook.com/toutpartoutsessions/) in the Belgian city of Ghent, performing their song "Gemini" in the striking [’t Kuipke](https://cyclinginflanders.cc/spot/t-kuipke), a world-famous cycling track in Ghent's Citadelpark.
 
