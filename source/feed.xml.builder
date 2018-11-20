@@ -2,7 +2,7 @@ xml.instruct!
 xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   site_url = "https://www.someparty.ca/"
   xml.title "Some Party"
-  xml.subtitle "A weekly newsletter sharing the latest in independent Canadian rock'n'roll, curated every Sunday evening by Adam White: A sober second thought on new music, cool records, and the people making their own culture. Some Party features punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and every weird diversion along the way."
+  xml.subtitle "A weekly newsletter sharing the latest in independent Canadian rock'n'roll, curated every Sunday evening by Adam White. Some Party features punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and every weird diversion along the way."
   xml.id URI.join(site_url, blog.options.prefix.to_s)
   xml.link "href" => URI.join(site_url, blog.options.prefix.to_s)
   xml.link "href" => URI.join(site_url, current_page.path), "rel" => "self"

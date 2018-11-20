@@ -1,7 +1,7 @@
 host: https://www.someparty.ca
 site: "Some Party"
 title: "Some Party"
-description: "A weekly newsletter sharing the latest in independent Canadian rock'n'roll, curated every Sunday evening by Adam White: A sober second thought on new music, cool records, and the people making their own culture. Some Party features punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and every weird diversion along the way."
+description: "A weekly newsletter sharing the latest in independent Canadian rock'n'roll, curated every Sunday evening by Adam White. Some Party features punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and every weird diversion along the way."
 twitter_author: "@adamwhite"
 pull_image: 'some-party-social-card-default.jpg'
 customize_by_frontmatter: true
