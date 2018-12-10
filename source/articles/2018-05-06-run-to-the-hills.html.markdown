@@ -66,7 +66,7 @@ Toronto bubblegum-punk act [PONY](https://www.facebook.com/ponyband/) appeared i
 
 [Listen: PONY - "Alone Tonight" @ YouTube](https://youtu.be/hLdmJC6d-NA "#")
 
-Four-piece Montreal skate-punk act [Bussieres](https://bussieres.bandcamp.com/) have released a video for their song "Prestige Worldwide," which appears on their upcoming EP *Sunny Side Up*. The video was filmed and edited by Vincent Côté, who also produced the new record. The EP follows up the group's previous EP, 2016's *Orange Glow*. It arrives May 15 on [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/).
+Four-piece Montreal skate-punk act [Bussieres](https://bussieres.bandcamp.com/) have released a video for their song "Prestige Worldwide," which appears on their upcoming EP *Sunny Side Up*. The video was filmed and edited by Vincent Côté, who also produced the new record. The EP follows up the group's previous EP, 2016's *Orange Glow*. It arrives May 15 on [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EyhRLPRizSw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

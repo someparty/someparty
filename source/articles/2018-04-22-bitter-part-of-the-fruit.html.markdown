@@ -81,7 +81,7 @@ Toronto noise-punk trio [METZ](http://www.metzztem.com/) continue to support the
 
 [Watch: METZ - "Mr Plague" @ YouTube](https://www.youtube.com/watch?v=-FOLPcZ6oWQ "#")
 
-Montreal skate-punk four-piece [Bussieres](https://bussieres.bandcamp.com/) have released the title track to their upcoming EP *Sunny Side Up*. The six-song CD is set to arrive on May 15 from [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/). The new material, which follows up the band's 2016 EP *Orange Glow*, was produced by the band and Vincent Côté.
+Montreal skate-punk four-piece [Bussieres](https://bussieres.bandcamp.com/) have released the title track to their upcoming EP *Sunny Side Up*. The six-song CD is set to arrive on May 15 from [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/). The new material, which follows up the band's 2016 EP *Orange Glow*, was produced by the band and Vincent Côté.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1638880526/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thousandislandsrecords.bandcamp.com/album/sunny-side-up">Sunny Side Up by Bussieres</a></iframe>
 

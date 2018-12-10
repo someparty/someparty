@@ -67,7 +67,7 @@ Either way, go check it out. Rare Americans features brothers James and Jared Pr
 
 [Watch: Rare Americans - "Cat's, Dogs & Rats" @ YouTube](https://youtu.be/JhEOImokCcM "#")
 
-Toronto five-piece melodic punk act [Family Meeting](https://familymeetingmusic.bandcamp.com/) have signed with Montreal's [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/) (Trashed Ambulance, Shift-D, Bussieres). The band's currently working on their follow up to 2017's EP *No One Cares 'Til You're Dead*, which is expected sometime later this year on the label. Family Meeting features vocalist Josh Riley, bassist Davey Knight, guitarists Nick Navrotski and Steve Ferreira, and drummer Brian Brodie.
+Toronto five-piece melodic punk act [Family Meeting](https://familymeetingmusic.bandcamp.com/) have signed with Montreal's [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/) (Trashed Ambulance, Shift-D, Bussieres). The band's currently working on their follow up to 2017's EP *No One Cares 'Til You're Dead*, which is expected sometime later this year on the label. Family Meeting features vocalist Josh Riley, bassist Davey Knight, guitarists Nick Navrotski and Steve Ferreira, and drummer Brian Brodie.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4092734931/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://familymeetingmusic.bandcamp.com/album/no-one-cares-til-youre-dead">No One Cares &#39;Til You&#39;re Dead by Family Meeting</a></iframe>
 

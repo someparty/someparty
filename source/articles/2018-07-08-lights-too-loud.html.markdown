@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Music, events, and visuals from These Fast Times, Not Of, the Upsy Daisy compilation, WHIMM, Not Dead Yet, Farewell Mourners, Cutie, Casper Skulls, Lié, Mobina Galore.
 ---
 
-Montreal four-piece pop-punk act [These Fast Times](https://thesefasttimes.bandcamp.com/) premiered a new video this week through [Punknews.org](https://www.punknews.org/article/67314/exclusivevideos-these-fast-times-premiere-new-song-video-lights-too-loud) for the song "Lights Too Loud." It's the first track to be unveiled from their upcoming 12-song full-length *On the Other Side of Fear*, which arrives on July 20 through [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/) (home to skate punk groups like Trashed Ambulance, Shift-D, and Bussieres).
+Montreal four-piece pop-punk act [These Fast Times](https://thesefasttimes.bandcamp.com/) premiered a new video this week through [Punknews.org](https://www.punknews.org/article/67314/exclusivevideos-these-fast-times-premiere-new-song-video-lights-too-loud) for the song "Lights Too Loud." It's the first track to be unveiled from their upcoming 12-song full-length *On the Other Side of Fear*, which arrives on July 20 through [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/) (home to skate punk groups like Trashed Ambulance, Shift-D, and Bussieres).
 
 The band features vocalist/guitarist Jeffrey Vuorela, bassist/vocalist Jason Bellafontaine, guitarist Thomas Kolofsky, and drummer Ryan Kennedy. Vuorela spoke to Punknews about the video's genesis, and the tentative connection it has with the actual contents of the song:
 

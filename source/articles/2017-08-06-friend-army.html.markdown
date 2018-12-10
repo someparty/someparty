@@ -38,7 +38,7 @@ Caron and Niles provided some further background on their writing process in an 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/81gPPWA58m0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Red Deer, Alberta skate-punk act [Trashed Ambulance](https://trashedambulance.bandcamp.com/) announced a new EP for release at the end of August on Montreal's [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/). *Instant* will be the band's second EP of the year, following *A Dime For Every Time* in May. It features two new tracks ("Kooby" and "12 Inches of Christmas") along with three re-recorded songs that originally appeared on the band's 2016 release *Blurry Thoughts*.
+Red Deer, Alberta skate-punk act [Trashed Ambulance](https://trashedambulance.bandcamp.com/) announced a new EP for release at the end of August on Montreal's [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/). *Instant* will be the band's second EP of the year, following *A Dime For Every Time* in May. It features two new tracks ("Kooby" and "12 Inches of Christmas") along with three re-recorded songs that originally appeared on the band's 2016 release *Blurry Thoughts*.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3611368799/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thousandislandsrecords.bandcamp.com/album/instant">Instant by Trashed Ambulance</a></iframe>
 

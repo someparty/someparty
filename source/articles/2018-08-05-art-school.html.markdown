@@ -65,7 +65,7 @@ In an earlier press release, Fucked Up's Jonah Falco described Damagers thusly:
 
 [Listen: Damagers - *Victory* @ Bandcamp](http://damagers.bandcamp.com/album/victory "#")
 
-On the other end of the spectrum, melodic punk act [Family Meeting](https://familymeetingmusic.bandcamp.com/) has a new single online from their debut for [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/). The track, titled "Four Months of Rain," will appear on *Walk Left / Stand Right* when it's released. The five-piece Toronto group is following up their 2017 EP *No One Cares 'Til You're Dead*.
+On the other end of the spectrum, melodic punk act [Family Meeting](https://familymeetingmusic.bandcamp.com/) has a new single online from their debut for [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/). The track, titled "Four Months of Rain," will appear on *Walk Left / Stand Right* when it's released. The five-piece Toronto group is following up their 2017 EP *No One Cares 'Til You're Dead*.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2254486939/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thousandislandsrecords.bandcamp.com/track/four-months-of-rain">Four Months Of Rain by Family Meeting</a></iframe>
 
