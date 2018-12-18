@@ -13,7 +13,7 @@ The material from their Electrical Audio sessions was paired with additional hom
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/hbaZS9ncHP0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Sub Pop's listed some an extensive [tour schedule](https://www.subpop.com/news/2017/07/11/metz_announce_their_ferocious_third_album_strange_peace_out_9_22_share_new_track_cellophane) supporting the release, including a pair of Toronto shows on September 29th and 30th with Montreal's [SUUNS](https://suuns.bandcamp.com/) supporting. Following those METZ will play the US with Uniform and then head to Europe for shows with both Protomartyr and Drahla.
+Sub Pop's listed some an extensive [tour schedule](https://www.subpop.com/news/2017/07/11/metz_announce_their_ferocious_third_album_strange_peace_out_9_22_share_new_track_cellophane) supporting the release, including a pair of Toronto shows on September 29th and 30th with Montreal's [Suuns](https://suuns.bandcamp.com/) supporting. Following those METZ will play the US with Uniform and then head to Europe for shows with both Protomartyr and Drahla.
 
 ##Of Note
 
