@@ -27,7 +27,7 @@ The physical form of Kehoe's next release is not yet known, but it looks like th
 
 [Watch: Ian Daniel Kehoe - "Secret Republic" @ YouTube](https://youtu.be/eNroP3ncUxg "#")
 
-[Idée Fixe](http://ideefixerecords.com/) has announced a February 2 release date for *The Gratitude Principle*, the second full-length from Toronto psych-jazz group [The Cosmic Range](http://thecosmicrange.bandcamp.com). The six-song record will follow the band's well-reviewed 2016 debut *New Latitudes*, as well as with their prominent role backing Meg Remy on the latest [U.S. Girls](http://yousgirls.blogspot.ca/) record *In A Poem Unlimited* (although interestingly *Gratitude* was recorded before the *Poem*'s many accolaides accolades to roll in).
+[Idée Fixe](http://ideefixerecords.com/) has announced a February 2 release date for *The Gratitude Principle*, the second full-length from Toronto psych-jazz group [The Cosmic Range](http://thecosmicrange.bandcamp.com). The six-song record will follow the band's well-reviewed 2016 debut *New Latitudes*, as well as with their prominent role backing Meg Remy on the latest [U.S. Girls](http://yousgirls.blogspot.ca/) record *In A Poem Unlimited* (although interestingly *Gratitude* was recorded before the *Poem*'s many accolades to roll in).
 
 The collective's lineup on this record includes bandleader [Matthew "Doc" Dunn](https://cosmicrangerecords.bandcamp.com/) (organ, bass, vibraphone, synth) with Kieran Adams (drums, electronics), Jonathan Adjemian (keys, synth), [Isla Craig](https://islacraig.bandcamp.com/) (voice, flute), Andy Haas (saxophone, electronics), Mike Smith (keys, bass), Maximilian Turnbull (guitar, wah-wah, string machine) and Brandon Valdivia (congas, percussion). Jeff McMurrich produced the record, which features cover art by Portland, OR's Winston Hacking.
 
@@ -41,7 +41,7 @@ The album's title (and closing) track "The Gratitude Principle" is online now to
 
 [Listen: The Cosmic Range - "The Gratitude Principle" @ Bandcamp](http://thecosmicrange.bandcamp.com/album/the-gratitude-principle "#")
 
-Toronto's [Triples](https://triplesband.bandcamp.com/) recently returned with "Hillside," a sunny new single (and accompanying video) that delivers what's possibly the most effortlessly joyful vocal hook I've heard in a whole. The jangle-pop duo, prominently influenced by early 90s indie rock, features guitarist Eva Link and drummer Madeline Link (the daughters of Pete Link from the late-90s Calgary garage rock group the Shinolas). Eva also plays bass in the TO pop-punk band [PONY](https://www.facebook.com/ponyband/).
+Toronto's [Triples](https://triplesband.bandcamp.com/) recently returned with "Hillside," a sunny new single (and accompanying video) that delivers what's possibly the most effortlessly joyful vocal hook I've heard in a while. The jangle-pop duo, prominently influenced by early 90s indie rock, features guitarist Eva Link and drummer Madeline Link (the daughters of Pete Link from the late-90s Calgary garage rock group the Shinolas). Eva also plays bass in the TO pop-punk band [PONY](https://www.facebook.com/ponyband/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LULu5L1A4ww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
