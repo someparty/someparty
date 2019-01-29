@@ -9,6 +9,7 @@ gem 'wdm', '~> 0.1.0', platforms: %i[mswin mingw]
 gem 'tzinfo-data', platforms: %i[mswin mingw jruby]
 
 # Middleman Gems
+
 gem 'builder', '~> 3.0' # For feed.xml
 gem 'fastimage'
 gem 'middleman', '~> 4.1'
