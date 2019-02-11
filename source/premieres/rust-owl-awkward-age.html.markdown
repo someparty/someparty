@@ -20,7 +20,7 @@ This is a band formed in the wake of a tragedy, with guitarist Garrett Iverson a
 
 Last week the group premiered the rollicking "Hibernation" over at [The Manitoban](http://www.themanitoban.com/2018/03/song-premiere-r-u-s-t-o-w-l-hibernation/33970/), and today Some Party is proud to share with you the affecting, rootsy slow burn of "Awkward Age." This track features a guest appearance by [Rory Verbrugge](https://roryverbrugge.com/) of The Ruckus on pedal steel.
 
-These songs are paired with two others on the EP, which will arrive via the [Transistor 66 Record Company](http://www.transistor66.com/) with a limited cassette run to be made available by [Birthday Tapes](https://birthdaytapesmb.bandcamp.com/). R U S T O W L will celebrate their arrival with a joint release show at Winnipeg's [X-Cues Cafe](https://www.facebook.com/events/224185148155596/) on March 23 with indie-pop act [Housepanther](https://baileewoods.bandcamp.com).
+These songs are paired with two others on the EP, which will arrive via the [Transistor 66 Record Company](http://www.transistor66.com/) with a limited cassette run to be made available by [Birthday Tapes](https://birthdaytapesmb.bandcamp.com/). R U S T O W L will celebrate their arrival with a joint release show at Winnipeg's [X-Cues Cafe](https://www.facebook.com/events/224185148155596/) on March 23 with indie-pop act [Housepanther](https://housepanther.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2446477610/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3503486783/transparent=true/" seamless><a href="http://rustowl.bandcamp.com/album/r-u-s-t-o-w-l">R U S T O W L by R U S T O W L</a></iframe>
 
