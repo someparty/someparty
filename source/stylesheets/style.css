@@ -586,3 +586,24 @@ small {
   opacity: 1;
   transition: opacity 300ms;
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0 0 1em 0;
+  font-size: 80%;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 4px 8px;
+}
+
+thead {
+  border-bottom: 1px solid gainsboro;
+}
+
+tr:nth-child(even) {
+  background-color: #ffe9e9;
+}

@@ -69,8 +69,18 @@
 
       </div>
 
-      <%= partial '/_partials/premiere' %>
-      <%= partial '/_partials/premiere2' %>
+      <% if current_page.data.front == true %>
+          <%= partial '/_partials/premiere' %>
+      <% elsif !current_page.path.match(/^premieres/) %>
+        <% choice = rand(1..3) %>
+        <% if choice == 1 %>
+          <%= partial '/_partials/premiere' %>
+        <% elsif choice == 2 %>
+          <%= partial '/_partials/premiere2' %>
+        <% elsif choice == 3 %>
+          <%= partial '/_partials/premiere3' %>
+        <% end %>
+      <% end %>
 
       <%= partial '/_partials/submit' %>
 

@@ -53,7 +53,7 @@ The project will launch on February 14 with a [release show](https://www.faceboo
 
 [Watch: Housepanther - "17% Wine" @ YouTube](https://youtu.be/_Ts6uk2xNkM "#")
 
-[Buzz Records](http://buzzrecords.ca/) has signed the Toronto psyche rock group [Mother Tongues](https://mothertongues.bandcamp.com), a quintet that includes members of Hooded Fang, Luna Li, and Mimico. The label announced the signing alongside the new single "She's Gone," showcased in a trippy video by Governor General's Award-winning writer and animator Trudy Erin Elmore. Speaking to [Exclaim](https://exclaim.ca/music/article/mother_tongues_sign_to_buzz_records_share_new_single), vocalist Lukas Cheung commented:
+[Buzz Records](http://buzzrecords.ca/) has signed the Toronto psych-rock group [Mother Tongues](https://mothertongues.bandcamp.com), a quintet that includes members of Hooded Fang, Luna Li, and Mimico. The label announced the signing alongside the new single "She's Gone," showcased in a trippy video by Governor General's Award-winning writer and animator Trudy Erin Elmore. Speaking to [Exclaim](https://exclaim.ca/music/article/mother_tongues_sign_to_buzz_records_share_new_single), vocalist Lukas Cheung commented:
 
 > "I wrote the main melody of this song riding my bicycle home from a rehearsal years ago. It resurfaced a year or so ago when I was listening to a lot of Prince, '80s McCartney, and the Bee Gees' real pop anthems. I was playing with the idea of trying to write something in that vein."
 
