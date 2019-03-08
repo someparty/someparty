@@ -69,6 +69,10 @@
 
       </div>
 
+      <% if !current_page.path.match(/^premieres/) %>
+        <%= partial '/_partials/premiere' %>
+      <% end %>
+
       <%= partial '/_partials/submit' %>
 
     </header>
