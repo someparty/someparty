@@ -75,7 +75,7 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
   end
 
   def hrule
-    "<hr class='bg-black-30 mt4 mb6 maxread bn hr-1'/>"
+    "<hr class='bg-black-30 mt4 mb4 maxread bn hr-1'/>"
   end
 
   def link(link, title, content)
