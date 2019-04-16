@@ -15,17 +15,15 @@ Putting aside the phrase "culminate fruit," which should never be uttered again,
 
 Johnny de Courcy shot the video for "Feast" on 16mm film. It finds friends and neighbours of the band sitting in conversation, discussing their daily lives. The group distressed the negatives through various means (boiling, burning, bleaching, etc) to create a skewed visual effect that fits the mood of the song wonderfully. Maria Todorov-Topouzov edited the clip.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YaM8eWKXapw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nsd1wFeFVqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Watch: Deliluh - "Freeloader Feast" @ YouTube](https://youtu.be/YaM8eWKXapw "#")
+[Watch: Deliluh - "Freeloader Feast" @ YouTube](https://youtu.be/Nsd1wFeFVqs "#")
 
 Toronto's neo-proto-punk group [Protruders](https://protruders.bandcamp.com) also recently announced a new full-length, their first vinyl LP after a string of self-released cassettes. The set, titled *Poison Future*, is due April 20 from Virginia's [Feel It Records](https://feelitrecords.bandcamp.com). Eddie Flowers of Vulcher Magazine and The Gizmos wrote the press release, commenting (in part):
 
 >"The sound is a bit clearer and maybe a little beefier — some of the noise gives way to a more relaxed and expansive approach. The psych quotient is higher. But the heart of the band is still beating for the sort of raw open-minded non-generic punk that once came from the likes of Rocket From The Tombs, Swell Maps, Dead Moon, Dancing Cigarettes, etc."
 
 Protruders recorded with Peter Greenwood at The Bottle Garden in Montréal last year. Daniel Husayn mastered the new set at the North London Bomb Factory. You can stream "Hydrophytol," a track that charges along atop some wildly unhinged sax noise, over at Bandcamp.
-
-Protruders is the successor project to the Sackville, New Brunswick-bred [Kappa Chow](https://kappachow.bandcamp.com/), featuring that band's principles Joe Chamandy (guitar/vocals) and Ilse Kramer (drums/vocals). While some familiar faces have appeared on Protruders recordings over the past few years, they're usually found with Jarrett Samson of [Tough Age](https://tough-age.bandcamp.com/) on bass and Robert Forward of [Pure Pressure](https://purepressure.bandcamp.com/) on guitar.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1061390339/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://feelitrecords.bandcamp.com/album/poison-future">Poison Future by Protruders</a></iframe>
 
