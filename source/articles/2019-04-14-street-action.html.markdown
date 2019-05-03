@@ -196,7 +196,7 @@ Last October Toronto indie-rock ensemble [The Holy Gasp](https://theholygasp.ban
 
 [Watch: The Holy Gasp - "A Daily Affirmation" @ YouTube](https://youtu.be/oZjfwNb-7RM "#")
 
-BC punk legends [D.O.A.](https://www.suddendeath.com/) have a new archival set due for May 3. Titled *1978*, the album will collect 21 previously unreleased demos, rare tracks, and early singles. The label had this to say about the track listing:
+<a name="doa"></a>BC punk legends [D.O.A.](https://www.suddendeath.com/) have a new archival set due for May 3. Titled *1978*, the album will collect 21 previously unreleased demos, rare tracks, and early singles. The label had this to say about the track listing:
 
 >"The two constants on the album are Joey [Shithead Keithley] and Chuck Biscuits, who play on every track. From the start of 1978 begins their wild, 'I don’t give a shit' approach to punk rock. Now some forty years later one can hear it all, starting with the never-seen-the-light-of-day demo version of 'The Enemy'. This demo has a different set of lyrics that speaks to fighting Nazis—strange, what is old is new and vital again. There’s a ton of exciting tracks that range from the never heard before, such as 'Bored And Suicidal', 'The Mutant', 'No God No War', 'Rip Dis Joint', 'No Way Out' and 'Rent-A-Riot', to classic early singles like 'Fucked Up Ronnie', 'Disco Sucks', 'World War 3', 'The Prisoner' and '13'. Also included are demo versions of 'America The Beautiful' and 'Liar For Hire' with Biscuits drumming, which are wildly different than the classic versions you hear on War On 45.
 >

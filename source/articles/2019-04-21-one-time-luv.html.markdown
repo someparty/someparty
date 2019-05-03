@@ -167,7 +167,7 @@ The St. Catharines-born post-hardcore act [Alexisonfire](https://www.theonlyband
 
 The new track follows the popular group's 2010 EP *Dog's Blood*. The band's last proper full-length was 2009's *Old Crows / Young Cardinals*.
 
-If you've got a thing for Exclaim band timelines, and I sure know I do, you can trace Aleixonfire's history to date in this nice [recent feature](https://exclaim.ca/music/article/inside_the_career_of_alexisonfire_canadas_greatest_least_likely_success_story) by Ian Gormely.
+If you've got a thing for Exclaim band timelines, and I sure know I do, you can trace Alexisonfire's history to date in this nice [recent feature](https://exclaim.ca/music/article/inside_the_career_of_alexisonfire_canadas_greatest_least_likely_success_story) by Ian Gormely.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IA9Te_KPg3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,8 +1,9 @@
+# frozen_string_literal: true
+
 require 'middleman-core/renderers/redcarpet'
 
 # Extends the Redcarpet Markdown parser to generate Tachyons style CSS markup
 class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
-
   def block_html(raw_html)
     doc = Nokogiri::HTML(raw_html)
 
@@ -79,7 +80,6 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
   end
 
   def link(link, title, content)
-
     # Below embedded media I want to insert a simple link
     # to the source, which we'll use primarily in the emails
     # but don't want to take up too much space on the web
@@ -127,5 +127,4 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
       format("<p class='maxread center'>%s</p>", text)
     end
   end
-
 end

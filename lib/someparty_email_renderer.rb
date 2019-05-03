@@ -1,9 +1,10 @@
+# frozen_string_literal: true
+
 require 'middleman-core/renderers/redcarpet'
 
 # Extends the Redcarpet Markdown parser to generate clean email markup
 # removing anything that's not suited for email.
 class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
-
   def block_html(raw_html)
     doc = Nokogiri::HTML(raw_html)
     format('')
@@ -23,7 +24,6 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
   end
 
   def link(link, title, content)
-
     # Centered, bold media links are indicated by a title that starts with "#"
 
     featured_media = false
@@ -53,14 +53,13 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
   def list(content, list_type)
     case list_type
     when :ordered
-      format("<ol>%s</ol>", content)
+      format('<ol>%s</ol>', content)
     when :unordered
-      format("<ul>%s</ul>", content)
+      format('<ul>%s</ul>', content)
     end
   end
 
   def paragraph(text)
-    format("<p>%s</p>", text)
+    format('<p>%s</p>', text)
   end
-
 end

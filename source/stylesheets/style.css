@@ -116,6 +116,11 @@ img {
   background-size: cover !important;
 }
 
+.ba {
+  border-style: solid;
+  border-width: 1px;
+}
+
 .bb {
   border-bottom-style: solid;
   border-bottom-width: 1px;

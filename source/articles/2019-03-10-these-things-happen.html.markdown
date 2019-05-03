@@ -42,7 +42,7 @@ Crusades last released *This is a Sickness and Sickness will End* in 2017. They 
 
 [Watch: Surrender - "Hold On" @ YouTube](https://youtu.be/C81pffNbg0E "#")
 
-Last week I also had the chance to premiere a new single from Toronto melodic punk quartet [Stuck Out Here](https://stuckouthere.bandcamp.com/). It's titled "Embarrass You" and appears on the band's upcoming third LP *Until We’re Each Someone Else*, which arrives this May on [Get Party!](https://getparty.bandcamp.com/) and [Must Be Nice Records](https://mustbenicerecords.bandcamp.com/).
+<a name="stuckouthere"></a>Last week I also had the chance to premiere a new single from Toronto melodic punk quartet [Stuck Out Here](https://stuckouthere.bandcamp.com/). It's titled "Embarrass You" and appears on the band's upcoming third LP *Until We’re Each Someone Else*, which arrives this May on [Get Party!](https://getparty.bandcamp.com/) and [Must Be Nice Records](https://mustbenicerecords.bandcamp.com/).
 
 Stuck Out Here's Ivan Raczycki had this to say about the track:
 

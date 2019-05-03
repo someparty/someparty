@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'fastimage'
 
 # Starting with an environment variable of 'email' will trigger emails style
@@ -33,11 +35,11 @@ activate :blog do |blog|
   blog.sources = 'articles/{year}-{month}-{day}-{title}.html'
   # blog.taglink = "tags/{tag}.html"
 
-  if medium == :email
-    blog.layout = 'layouts/email'
-  else
-    blog.layout = 'layouts/article'
-  end
+  blog.layout = if medium == :email
+                  'layouts/email'
+                else
+                  'layouts/article'
+                end
 
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
@@ -47,7 +49,7 @@ activate :blog do |blog|
   # blog.default_extension = ".markdown"
 
   blog.tag_template = 'tag.html'
-  #blog.calendar_template = 'calendar.html'
+  # blog.calendar_template = 'calendar.html'
 
   # Enable pagination
   # blog.paginate = true
@@ -58,7 +60,6 @@ activate :blog do |blog|
   blog.generate_month_pages = false
   blog.generate_tag_pages = false
   blog.generate_year_pages = false
-
 end
 
 page '/feed.xml', layout: false
@@ -90,7 +91,6 @@ activate :meta_tags
 
 # Build-specific configuration
 configure :build do
-
   activate :robots,
            rules: [{ user_agent: '*', allow: %w[/] }],
            sitemap: 'https://www.someparty.ca/sitemap.xml'
@@ -106,8 +106,7 @@ configure :build do
 
   activate :gzip
 
-  after_build do |builder|
+  after_build do |_builder|
     FileUtils.cp_r 'public/.', 'build'
   end
-
 end
