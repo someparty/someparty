@@ -127,7 +127,7 @@ The Flatliners last released an EP titled *Mass Candescence*, a three-song set t
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4151657667/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://chriscresswell.bandcamp.com/track/to-the-wind">To The Wind by Chris Cresswell</a></iframe>
 
-[Listen: Chris Cresswell - "To The Wind @ Bandcamp](https://chriscresswell.bandcamp.com/track/to-the-wind "#")
+[Listen: Chris Cresswell - "To The Wind" @ Bandcamp](https://chriscresswell.bandcamp.com/track/to-the-wind "#")
 
 You may recall [Keegan Powell](http://keeganpowell.bandcamp.com)'s name from the liner notes of *Death Lust*, the recent debut record from Whitby, Ontario's [Chastity](https://chastitysongs.bandcamp.com), which he helped write and record. I also wrote about his first solo single "The Door," a cool little psych-rock tune, last September. Powell returned last week with *Is+Was*, his first solo EP. The 5-song set, which is now available everywhere digitally, was recorded entirely by Powell at his Toronto studio. He's described it as "more of a mixtape of sorts, with sessions dating back to 2016 and some as new as February of this year."
 
