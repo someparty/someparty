@@ -45,7 +45,7 @@ Did I just lazily run the same pull quote in two consecutive newsletters? Indeed
 
 East coast folk-rock storytellers [The Burning Hell](http://www.wearetheburninghell.com/) have a video online for their new single "No Peace." It's their half of a split 7" with German singer/songwriter Bernhard Karakoulakis, who plays under the name [Boo Hoo](https://boohoo.bandcamp.com/). The clip, filmed in Sackville, Berlin, Hamburg, and Bremen, features Ariel Sharratt as a superhero (who in the intro receives her marching orders from a milkshake-sipping Steven Lambke). A whole host of the band's friends make appearances in the narrative, as do some high-production-value lizard people. The Burning Hell / Boo Hoo split can be found on the Frankfurt label [Lousy Moon](https://lousymoon.com/).
 
-The band, currently on tour in Europe, has been supporting a lathe-cut 10" titled *Bird Queen of Garbage Island* on the road. As only 77 of these were ever made, it's entirely sold out. While the group previously declined to share the songs on the Internet, they've since relented (a bit) and have the four tracks streaming on Bandcamp at this very moment. They'll only be there through the end of the tour, though, then they're "back in the vaults." Give them a listen now, or you're out of luck.
+The band, currently on tour in Europe, has been supporting a lathe-cut 10" titled *Birdwatching on Garbage Island* on the road. As only 77 of these were ever made, it's entirely sold out. While the group previously declined to share the songs on the Internet, they've since relented (a bit) and have the four tracks streaming on Bandcamp at this very moment. They'll only be there through the end of the tour, though, then they're "back in the vaults." Give them a listen now, or you're out of luck.
 
 The Burning Hell recorded the *Garage Island* set in St. John's at Jake Nicoll's studio in the very early days of 2019. The record features vocalist/guitarist Mathias Kom, drummer/vocalist Ariel Sharratt, bassist Darren Browne, and Nicoll in several capacities. As with much of the band's prolific body of work, these songs present themselves as somehow both adorable and provocative at the same time.
 
@@ -57,7 +57,7 @@ The Burning Hell last full length was 2017's *Revival Beach*. In the spring the 
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2732528748/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://theburninghell.bandcamp.com/album/birdwatching-on-garbage-island">Birdwatching on Garbage Island by The Burning Hell</a></iframe>
 
-[Listen: The Burning Hell - *Bird Queen of Garbage Island* @ Bandcamp](http://theburninghell.bandcamp.com/album/birdwatching-on-garbage-island "#")
+[Listen: The Burning Hell - *Birdwatching on Garbage Island* @ Bandcamp](http://theburninghell.bandcamp.com/album/birdwatching-on-garbage-island "#")
 
 Montreal punk trio [Lemongrab](https://lemon-grab.bandcamp.com/) have a video online for "Too Many Bitches," the lead track from their recent LP *It Doesn't Sound Good But It Feels Awesome*.
 
