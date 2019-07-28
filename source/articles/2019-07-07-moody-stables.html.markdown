@@ -73,7 +73,7 @@ Speaking to [Exclaim](https://exclaim.ca/music/article/montreals_h_l_ne_barbier_
 
 >​"I got a soundcard from my friends and started recording songs at home alone, thinking about the childish behaviours we sometimes hold onto as adults. The songs started turning into an album, and I got the opportunity to record with Peter Woodford again. *Have you met Elliott?* is a reminder that, as my friend's sister once told them when they were a child, 'You can't just cry to have candies.'"
 
-*Have you met Elliott?* was recorded to tape at the Bottle Garden (Tough Age, Bleu Nuit) and mixed at Value Sound. The album features Barbier on guitar, bass, organ, and vocals, with Christian Simmons on drums. In the studio they brought in guitarists Emma Coldwell and Matt Robidoux, with Elise Paradis appearing on violin. While Michel's handling the Canadian release, the new album will arrive on Emotional Response in the U.S. and Caballito Records in Europe.
+*Have you met Elliott?* was recorded to tape at the Bottle Garden (Tough Age, Bleu Nuit) and mixed at Value Sound. The album features Barbier on guitar, bass, organ, and vocals, with Christian Simmons on drums. In the studio they brought in guitarists Joe Chamandy, Emma Coldwell, and Matt Robidoux, with Elise Paradis appearing on violin. While Michel's handling the Canadian release, the new album will arrive on Emotional Response in the U.S. and Caballito Records in Europe.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9rwMIpQYS0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

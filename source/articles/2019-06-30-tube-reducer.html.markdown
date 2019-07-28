@@ -71,7 +71,7 @@ Keeping with the ocular theme, Toronto's synth-heavy noise-punk outfit [Eyeballs
 
 [Listen: Eyeballs - "Weightlifting" @ Bandcamp](http://eyeballsmusic.bandcamp.com/album/weightlifting-woke-up-like-this "#")
 
-Canada Day saw the release of *Upper Canada Blues*, the third full-length in recent months from the prolific [Matthew "Doc" Dunn](https://cosmicrangerecords.bandcamp.com/). The new set follows two solo records the Toronto-based artist released in fast succession in late-2018, *Lightburn* and *See Horses Run*. Like those albums, *Upper Canada Blues* funds Dunn playing jammy psych-rock with early-70s Americana vibes. These recordings feature Dunn backed by [James Matthew VII](https://www.jamesmatthewvii.com/) (of No Warning, fka Blind Matty) and Brian Tysoe. They were recorded last summer by Tony Price.
+Canada Day saw the release of *Upper Canada Blues*, the third full-length in recent months from the prolific [Matthew "Doc" Dunn](https://cosmicrangerecords.bandcamp.com/). The new set follows two solo records the Toronto-based artist released in fast succession in late-2018, *Lightburn* and *See Horses Run*. Like those albums, *Upper Canada Blues* finds Dunn playing jammy psych-rock with early-70s Americana vibes. These recordings feature Dunn backed by [James Matthew VII](https://www.jamesmatthewvii.com/) (of No Warning, fka Blind Matty) and Brian Tysoe. They were recorded last summer by Tony Price.
 
 The album arrives alongside a Laura-Lynn Petrick-directed video for the song "Ribbons," featuring dancer Nyda Kwasowsky. The clip premiered last week at [NOW](https://nowtoronto.com/music/doc-dunn-wlmrt-daniel-caesar/).
 

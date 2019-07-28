@@ -19,7 +19,7 @@ WLMRT's a band I mention quite often, and I'd float them as perhaps one of the m
 
 [Watch: WLMRT - "C.U.T.V." @ YouTube](https://youtu.be/5CragrGhV4M "#")
 
-Vancouver punk act [Jock Tears](https://jocktears.bandcamp.com/) have released a new David Ehrenreich directed video for their namesake song. In a feature at [Exclaim](https://exclaim.ca/music/article/watch_jock_tears_get_meta_in_new_jock_tears_video) the band's vocalist Lauren Smith discussed the concept behind the piece:
+Vancouver punk act [Jock Tears](https://jocktears.bandcamp.com/) have released a new David Ehrenreich directed video for their namesake song. In a feature at [Exclaim](https://exclaim.ca/music/article/watch_jock_tears_get_meta_in_new_jock_tears_video) the band's vocalist Lauren Ray discussed the concept behind the piece:
 
 > "We came together in the spring to film, we were really interested in playing with light and colour and having a lot of fun. We made a film within a film that is also a music video. It's kind of about being a sensitive jock through exploring vulnerability. The gulls are all hopped up on prozac making them vulnerable to attack. When me and my dog Ruby were watching the video back, we were being scared of being too vulnerable and chose to hold back our emotions to save face. Playing it cool keeps us from being too vulnerable, and opening ourselves up for attack."
 
