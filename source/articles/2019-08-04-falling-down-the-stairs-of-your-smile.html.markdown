@@ -7,7 +7,7 @@ description: New music from The New Pornographers, Fly Pan Am, Pretty Matty, Sau
 
 Last week indie-pop supergroup [The New Pornographers](http://www.thenewpornographers.com/) detailed their upcoming full-length *In The Morse Code Of Brake Lights*. It's the veteran band's eighth LP and is due for a September 27 release from [Collected Works Records](https://www.collectedworksrecords.com/) and [Concord](https://concord.com/). The 11-song record follows the BC group's 2017 album *Whiteout Conditions*.
 
-The announcement also shared the record's first single, "Falling Down the Stairs of Your Smile. You can stream it below.Frontman From [AC Newman](https://www.acnewman.net/) commented on the song in a statement:
+The announcement also shared the record's first single, "Falling Down the Stairs of Your Smile. You can stream it below. Frontman [AC Newman](https://www.acnewman.net/) commented on the song in a statement:
 
 > "There are so many songs like 'the something of love'—you know, there's 'The Book of Love,' 'The Freeway of Love'... Then I thought of 'falling down the stairs of your love,' and I thought, that kind of works, I think it has that element of how do you deal with the ideas of love and happiness in this world right now? When current events are stressful, that makes a stress on people's relationships, and you're trying to figure out how to be happy in this loving relationship in this world that seems ugly at every turn, which is not as easy as it seems. So I like the metaphor of love as something that you fall down."
 
