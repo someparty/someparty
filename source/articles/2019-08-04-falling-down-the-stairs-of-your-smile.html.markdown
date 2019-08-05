@@ -41,19 +41,19 @@ Pretty Matty will play a [record release show](https://www.facebook.com/events/7
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h9fs4sbUiW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Listen: Pretty Matty - "Another Shot" @ YouTube](https://youtu.be/h9fs4sbUiW8 "#")
+[Watch: Pretty Matty - "Another Shot" @ YouTube](https://youtu.be/h9fs4sbUiW8 "#")
 
 Toronto synthpop trio [Sauna](http://saunaaa.bandcamp.com) recently premiered a unique new video for the song "Carousel," a cut from their recently released self-titled EP. In a statement, director Dan Tahmizian commented on the piece:
 
 > "'Carousel' is about the cyclical nature of life and how we seem to find ourselves making the same mistakes over and over falling back into familiar patterns and mind states. The video was inspired by the Suprematist art movement, specifically a short film by Lutz Becker, and was created using one of the earliest forms of filmmaking, the Zoetrope. It consists of 25 unique handmade Zoetropes playing 16 frames loops each lasting just over 1 second long."
 
-Sauna features Michael le Riche of [Fake Palms](https://www.facebook.com/fakepalms/) on vocals and various electronics, performing with [Weaves](https://www.weavesband.com/) bassist Zach Bines and [Greys](https://greys.bandcamp.com/) drummer Braeden Craig. The group worked with Brian Borcherdt of [Holy Fuck](https://www.holyfuckmusic.com/) on the recordings. Both Borcherdt and le Riche were recently featured in an article at [Talkhouse](https://www.talkhouse.com/introducing-saunas-carousel/) where the two disucss the record, the band's future recording plans, the recent reunion of Borcherdt's early band [Burnt Black](https://www.thecoast.ca/halifax/burnt-black-on-fire-again/Content?oid=22156486), and more. Sauna's debut arrived this past April from [Idée Fixe Records](http://ideefixerecords.com/).
+Sauna features Michael le Riche of [Fake Palms](https://www.facebook.com/fakepalms/) on vocals and various electronics, performing with [Weaves](https://www.weavesband.com/) bassist Zach Bines and [Greys](https://greys.bandcamp.com/) drummer Braeden Craig. The group worked with Brian Borcherdt of [Holy Fuck](https://www.holyfuckmusic.com/) on the recordings. Both Borcherdt and le Riche were recently featured in an article at [Talkhouse](https://www.talkhouse.com/introducing-saunas-carousel/) where the two discuss the record, the band's future recording plans, the recent reunion of Borcherdt's early band [Burnt Black](https://www.thecoast.ca/halifax/burnt-black-on-fire-again/Content?oid=22156486), and more. Sauna's debut arrived this past April from [Idée Fixe Records](http://ideefixerecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_H-7n6XIhzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Watch: Sauna - "Carousel" @ YouTube](https://youtu.be/_H-7n6XIhzI "#")
 
-Celebrated Indigenous electronic duo [A Tribe Called Red](http://atribecalledred.com/) have another new single out, following "The OG" from earlier in the summer. The new track, titled "Ba Na Na," features Odario Williams of Toronto hip hop act [Grand Analog](https://www.facebook.com/GrandAnalog), Brampton's rising star rapper [Haviah Mighty](https://haviahmighty.ca/), and Anishnaabeg family drum group [Chippewa Travellers](http://chippewatravellers.com/). The band posted this in a statement:
+Celebrated Indigenous electronic duo [A Tribe Called Red](http://atribecalledred.com/) has another new single out, following "The OG" from earlier in the summer. The new track, titled "Ba Na Na," features Odario Williams of Toronto hip hop act [Grand Analog](https://www.facebook.com/GrandAnalog), Brampton's rising star rapper [Haviah Mighty](https://haviahmighty.ca/), and Anishnaabeg family drum group [Chippewa Travellers](http://chippewatravellers.com/). The band posted this in a statement:
 
 >"The Halluci Nation has two new members. Odario, Haviah Mighty and Chippewa Travellers came to help us to celebrate the late summer sun. This song is about the pure enjoyment of dancing and getting sweaty... but this is not without a purpose. This song is for the people who are working hard to make the world a better place then the one they were left with. This is for the fighters and the defenders. Part of being strong is also taking the time to stop, let go and release."
 
@@ -73,7 +73,7 @@ The Sorels will play a release party on August 17 at the Royal Albert in Winnipe
 
 Whitby's suburban grunge-punk act [Chastity](https://chastitysongs.bandcamp.com) has another new video online featuring a song from their upcoming sophomore full-length *Home Made Satan*. The clip for "The Girls I Know Don't Think So" continues the narrative from the band's June-released "Sun Poisoning" video. You can watch the short, directed by frontman Brandon Williams, below.
 
-The single artwork shared for "The Girls I Know Don't Think So" features an image of the Marxist revolutionary Alexandra Kollonta. Williams commented on her influence she had on the project:
+The single artwork shared for "The Girls I Know Don't Think So" features an image of the Marxist revolutionary Alexandra Kollonta. Williams commented on the influence she had on the project:
 
 > "She was way ahead of her time. She fought for women's equality in the workforce, universal maternity care and women's advancement in education. She won. In 1920, Soviet Russia was the first country in the world to make abortion legal under women's request. Homosexuality was decriminalized, sex work too. This was 100 years ago, it's fucked how long it's taken the rest of the world. Alexandra Kollontai helped to change the lives of millions of people. There may be voices similar to hers out there today. Are we listening?"
 
@@ -81,7 +81,7 @@ The single artwork shared for "The Girls I Know Don't Think So" features an imag
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9HXB-XaSok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Listen: Chastity - "The Girls I Know Don't Think So" @ YouTube](https://youtu.be/g9HXB-XaSok "#")
+[Watch: Chastity - "The Girls I Know Don't Think So" @ YouTube](https://youtu.be/g9HXB-XaSok "#")
 
 *Transistor Sister 2*, the new record from earnest indie-rock troubadour [Shotgun Jimmie](https://shotgunjimmie.net/), is out now. It arrived alongside a documentary short that follows the record's creation. The clip offers a behind-the-scenes look at the singer/songwriter in the studio working with Ryan Peters of [Ladyhawk](https://ladyhawk.bandcamp.com/), Jay Baird of [Do Make Say Think](http://domakesaythink.com/), and José Miguel Contreras of [By Divine Right](https://bydivineright.bandcamp.com/). The footage was shot on November 21 of last year, featuring the band's completion of the record in Toronto and an hours-later show at Toronto's [Tranzac](https://www.tranzac.org/) that debuted much of the new material.
 
