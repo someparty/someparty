@@ -2,7 +2,7 @@
 title: Falling Down the Stairs of Your Smile
 date: 2019-08-04
 author: adam@someparty.ca (Adam White)
-description: New music from The New Pornographers, Fly Pan Am, Pretty Matty, Sauna, A Tribe Called Red, The Sorels,   Chastity, Shotgun Jimmie, José Contreras, Hellbent,   Deliluh, The Planet Smashers, Psychic Void
+description: New music from The New Pornographers, Fly Pan Am, Pretty Matty, Sauna, A Tribe Called Red, The Sorels,  Chastity, Shotgun Jimmie, José Contreras, Hellbent, Deliluh, The Planet Smashers, Psychic Void
 ---
 
 Last week indie-pop supergroup [The New Pornographers](http://www.thenewpornographers.com/) detailed their upcoming full-length *In The Morse Code Of Brake Lights*. It's the veteran band's eighth LP and is due for a September 27 release from [Collected Works Records](https://www.collectedworksrecords.com/) and [Concord](https://concord.com/). The 11-song record follows the BC group's 2017 album *Whiteout Conditions*.
@@ -93,13 +93,13 @@ That show was also documented at the time by [Mechanical Forest Sound](http://me
 
 [Watch: Shotgun Jimmie - *The Making of Transistor Sister 2* @ YouTube](https://youtu.be/KQsIp988L9Y "#")
 
-Speaking of José Contreras, the [By Divine Right](https://bydivineright.bandcamp.com/) frontman has his own new solo LP on the way this fall, titled *At The Slaughterhouse*. It'll arrive via [Headless Owl Records](http://headlessowl.com/). Last week at [Now Toronto](https://nowtoronto.com/music/best-toronto-music-of-the-week-ben-gunning/) he premiered the reflective new track "On at 45."
+Speaking of José Contreras, the [By Divine Right](https://bydivineright.bandcamp.com/) frontman has his own new solo LP on the way this fall, titled *At The Slaughterhouse*. It'll arrive via [Headless Owl Records](http://headlessowl.com/). Last week at [Now Toronto](https://nowtoronto.com/music/best-toronto-music-of-the-week-ben-gunning/) he premiered the reflective new track "At 45."
 
 By Divine Right last released the song-for-song Depeché Mode cover album *Speak & Spell US* in 2017. José Contreras last released a self-titled solo LP and EP in 2014 and 2015.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/650167181%3Fsecret_token%3Ds-nq6Iu&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-[Listen: José Contreras - "On At 45" @ NOW Toronto](https://nowtoronto.com/music/best-toronto-music-of-the-week-ben-gunning/ "#")
+[Listen: José Contreras - "At 45" @ NOW Toronto](https://nowtoronto.com/music/best-toronto-music-of-the-week-ben-gunning/ "#")
 
 The unrelenting Toronto/Hamilton hardcore group [Hellbent](https://hellbentband.bandcamp.com/) are preparing the release of *Dead Off The Floor*, a new 7" EP, for August 9 from [Pink Lemonade Records](http://www.facebook.com/pinklemonaderecords/) and [Angry & Hungry](https://www.facebook.com/angryxhungry). The band premiered an animated music video for the song "King" over at Punknews.org, where they had this to say:
 
