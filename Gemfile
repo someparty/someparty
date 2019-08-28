@@ -20,7 +20,7 @@ gem 'middleman-meta-tags'
 gem 'middleman-minify-html'
 gem 'middleman-robots'
 gem 'middleman-search_engine_sitemap'
-gem 'nokogiri', '~> 1.8.1'
+gem "nokogiri", ">= 1.10.4"
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 
 # development
