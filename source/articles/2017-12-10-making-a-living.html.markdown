@@ -2,20 +2,20 @@
 title: Making a Living
 date: 2017-12-10
 author: adam@someparty.ca (Adam White)
-description: Andre Ethier (the Deadly Snakes) returns. New music from Booji Boys and Sellout. Pouzza Fest 2017 lineup. Steve Adamyk Band recording.
+description: André Ethier (the Deadly Snakes) returns. New music from Booji Boys and Sellout. Pouzza Fest 2017 lineup. Steve Adamyk Band recording.
 ---
 
-The Deadly Snakes were incredibly important to me. In the early 2000s as an undergrad at the University of Guelph, I spent a fair portion of my free time figuring out my musical identity and trying to square my teenage punk preferences with the world of Canadian independent music that I was clumsily discovering. By the time I graduated and (begrudgingly) left town, I'd canonised a personal trilogy of bands. There were the Constantines (this was Three Gut territory, of course), the Weakerthans (a clear gateway from the SoCal punk of my youth), and on the dangerous, swaggering fringe was the Deadly Snakes.
+The [Deadly Snakes](https://en.wikipedia.org/wiki/The_Deadly_Snakes) were incredibly important to me. In the early 2000s as an undergrad at the University of Guelph, I spent a fair portion of my free time figuring out my musical identity and trying to square my teenage punk preferences with the world of Canadian independent music that I was clumsily discovering. By the time I graduated and (begrudgingly) left town, I'd canonised a personal trilogy of bands. There were the Constantines (this was Three Gut territory, of course), the Weakerthans (a clear gateway from the SoCal punk of my youth), and on the dangerous, swaggering fringe was the Deadly Snakes.
 
 I can draw a direct line from my interest in the raucous Toronto band to discovering garage rock. The Snakes' US label [In The Red](https://intheredrecords.com/) was home to all manner of low-fi, underground rock oddities and a preference for that sound's followed me to this day.
 
-Given how seminal the band was to me I'm somewhat bewildered how I missed the news that [Andre Ethier](https://www.telephoneexplosion.com/products/andre-ethier-under-grape-leaves-pre-order) was releasing a new solo record. *Under Grape Leaves* arrived this past Friday from [Telephone Explosion](https://www.telephoneexplosion.com). The ten song set is his first in nearly a decade, following 2008's *Born on Blue Fog*. Like most of Ethier's solo efforts (and unlike the Snakes) this is a work of subtlety and starkness. It's open and organic, with the artist's familiar growl relaxed and hiding just below the calm surface.
+Given how seminal the band was to me I'm somewhat bewildered how I missed the news that [André Ethier](https://www.telephoneexplosion.com/products/andre-ethier-under-grape-leaves-pre-order) was releasing a new solo record. *Under Grape Leaves* arrived this past Friday from [Telephone Explosion](https://www.telephoneexplosion.com). The ten song set is his first in nearly a decade, following 2008's *Born on Blue Fog*. Like most of Ethier's solo efforts (and unlike the Snakes) this is a work of subtlety and starkness. It's open and organic, with the artist's familiar growl relaxed and hiding just below the calm surface.
 
 The record was produced by [Sandro Perri](http://www.sandroperri.com/), who's worked extensively with Great Lake Swimmers and was a part of the [National Parks Project](http://www.nationalparksproject.ca/) a few years back (as was Ethier, although they collaborated on different parks). The album also carries the same name as an exhibition of Ethier's paintings that ran at the [Derek Eller Gallery](http://www.derekeller.com/exhibitions/andr-ethier4) in New York City in 2015.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://api.soundcloud.com/tracks/352223198&amp;color=%2300aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-[Listen: Andre Ethier - "Making a Living" @ SoundCloud](https://soundcloud.com/telephoneexplosion/andre-ethier-making-a-living/ "#")
+[Listen: André Ethier - "Making a Living" @ SoundCloud](https://soundcloud.com/telephoneexplosion/andre-ethier-making-a-living/ "#")
 
 Ethier is set to perform as one of the musical guests at [Nick Flanagan's Home for the Holidays](https://www.facebook.com/events/308419646320975/) event on December 22. That show will bring comedian (and former Brutal Knights frontman) Nick Flanagan home to Toronto for a night of music and comedy. Along with a handful of Toronto comics, the punk band [WLMRT](https://wlmrt.bandcamp.com/) will also perform. That show's happening at the Burdock.
 

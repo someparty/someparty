@@ -2,7 +2,7 @@
 title: Transparent Brain
 date: 2017-12-17
 author: adam@someparty.ca (Adam White)
-description: New Ancient Shapes EP. Constantines are playing new songs. Videos from Lido Pimineta, Andre Ethier, Sam Coffey, the Weather Station.
+description: New Ancient Shapes EP. Constantines are playing new songs. Videos from Lido Pimineta, André Ethier, Sam Coffey, the Weather Station.
 ---
 
 Let's take a minute to appreciate how essential [Ancient Shapes](http://ancientshapes.bandcamp.com) has become to maintaining [Daniel Romano](http://www.danielromanomusic.com/)'s mystique. Without that band, it would be too tempting to shoehorn the Niagara musician into some tired narrative. In the past decade it's become pretty common to see the frontman of some popular punk group take a late-career turn towards roots music. You trade your leather jacket for some flannel, get yourself a harmonica, and you're pretty much there. There are entire tours built around that premise. Dan distinguished himself from that pack early on by making his first few folk and country records aggressively authentic. He threw himself so wholeheartedly into that world that it not only separated him from the pretenders, but it made his rock'n'roll past seem a million miles away.
@@ -33,13 +33,13 @@ I've been running Toronto show photos by my friend [Stephen McGill](https://www.
 
 [Watch: Lido Pimineta - "La Capacidad" @ KCET](https://www.kcet.org/shows/border-blaster/lido-pimienta-la-capacidad?utm_source=twitter&utm_medium=social&utm_campaign=kcet "#")
 
-[Last week](2017-12-10-making-a-living.html) I featured the new full length from [Andre Ethier](https://www.telephoneexplosion.com/products/andre-ethier-under-grape-leaves-pre-order), *Under Grape Leaves*, which just came out on [Telephone Explosion](https://www.telephoneexplosion.com). The former Deadly Snake has now announced a record release show to celebrate the new set. It's slated for [January 19](https://www.facebook.com/events/149398725783996/) at the Baby G in Toronto.
+[Last week](2017-12-10-making-a-living.html) I featured the new full length from [André Ethier](https://www.telephoneexplosion.com/products/andre-ethier-under-grape-leaves-pre-order), *Under Grape Leaves*, which just came out on [Telephone Explosion](https://www.telephoneexplosion.com). The former Deadly Snake has now announced a record release show to celebrate the new set. It's slated for [January 19](https://www.facebook.com/events/149398725783996/) at the Baby G in Toronto.
 
 Telephone Explosion also recently premiered a video for the song "Making a Living," directed by [Eva Michon](http://evamichon.com/). You can check it out below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NIrOW0tr6jg?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-[Watch: Andre Ethier - "Making a Living" @ YouTube](https://www.youtube.com/watch?v=NIrOW0tr6jg "#")
+[Watch: André Ethier - "Making a Living" @ YouTube](https://www.youtube.com/watch?v=NIrOW0tr6jg "#")
 
 Were you aware that Ottawa garage-punk band [Average Times](https://averagetimes.bandcamp.com) put out a new full length in September? I wasn't, and I'm regretful because they deserve some love. The band's self-titled debut from 2014 was a lot of fun, and I've had "Wasted on Wine" rattling around in the back of my head for years. This sophomore effort is titled *Seconds* and features 12 songs, including "Out of this World" (which the band previewed earlier this year) and "Dirty Laundry" (which premiered on the Ottawa Explosion Weekend's digital comp).
 
