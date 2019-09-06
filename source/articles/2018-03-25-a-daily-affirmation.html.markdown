@@ -78,7 +78,7 @@ On the music front, D.O.A.'s been hard at work on their upcoming 40th anniversar
 
 [See: Joe Keithley's announcement @ Instagram](https://www.instagram.com/p/BghAVuZHGWl/?hl=en&taken-by=joe.keithley "#")
 
-The new record from celebrated Calgary post-punk act [Preoccupations](http://preoccupationsband.com/) arrived this week alongside a new video. You can check out "Disarray," which was directed by [Ruff Mercy](www.ruffmercy.com), at YouTube.
+The new record from celebrated Calgary post-punk act [Preoccupations](http://preoccupationsband.com/) arrived this week alongside a new video. You can check out "Disarray," which was directed by [Ruff Mercy](http://www.ruffmercy.com), at YouTube.
 
 The aptly titled *New Material* was released this past Friday by [Flemish Eye](http://www.flemisheye.com/) in Canada and [Jagjaguwar](https://jagjaguwar.com/) everywhere else.
 

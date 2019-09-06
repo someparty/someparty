@@ -29,7 +29,7 @@ This week also say the release of the fourth [Dominionated](http://dominionated.
 
 This year's model features Saskatoon's [The Garrys](https://thegarrys.bandcamp.com/) covering “Dusty Boy” by defunct Montreal band [The Peelies](https://thepeelies.bandcamp.com/). Regina's [Oiseaux](http://oiseauxoiseaux.com/) puts forth an aggressive and chaotic take on  Attack In Black's "Hunger of the Young." That's just two of nine, each of which is linked through to a wealth of worthwhile conversations on the Dominionated blog.
 
-You can download *DOMINIONATED IV* [here]((http://dominionated.ca/compilations/dominionated-iv/)).
+You can download *DOMINIONATED IV* [here](http://dominionated.ca/compilations/dominionated-iv/).
 
 In this weekend of brash, shallow celebrations, there's something eminently sane and dignified about how both *DOMINIONATED IV* and the recent Pentagon Black compilations treat the subject of Canada. Each accomplishes the goal of sharing and celebrating the creative culture of this country, and neither feel like they'll need be put away when you go back to work on July 4th.
 
@@ -51,7 +51,7 @@ St. Catharines fuzz pop act [Strange Shakes](https://strangeshakes.bandcamp.com/
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2530658449/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://strangeshakes.bandcamp.com/album/pick-up-the-phone">Pick up the Phone by Strange Shakes</a></iframe>
 
-Speaking of which, I'd like to welcome [Warehouse](https://www.facebook.com/warehouseniagara/) as the July sponsor of Some Party. Recently opened in St. Catharines, Ontario at 11 Geneva Street, the downtown venue has quickly become the go-to event space in Niagara for live music. Run by Erik Dickson of the [IndoorShoes](indoorshoesmusic.com) promotion team, Warehouse has upcoming shows this summer from Daniel Romano, Protest The Hero, Hundred Suns and more. Visit them on [Facebook](https://www.facebook.com/warehouseniagara/) to learn more and check out the ever-growing list of upcoming shows.
+Speaking of which, I'd like to welcome [Warehouse](https://www.facebook.com/warehouseniagara/) as the July sponsor of Some Party. Recently opened in St. Catharines, Ontario at 11 Geneva Street, the downtown venue has quickly become the go-to event space in Niagara for live music. Run by Erik Dickson of the [IndoorShoes](http://www.indoorshoesmusic.com) promotion team, Warehouse has upcoming shows this summer from Daniel Romano, Protest The Hero, Hundred Suns and more. Visit them on [Facebook](https://www.facebook.com/warehouseniagara/) to learn more and check out the ever-growing list of upcoming shows.
 
 A pair of Canadian acts will be separately traversing Europe this July to meet up at the [Punk Rock Raduno](http://www.punkrockraduno.com/) festival in Bergamo, Italy. Toronto's three-piece punk rock act [School Damage](https://schooldamage.bandcamp.com/) will be [touring](https://www.punknews.org/article/64163/tours-school-damage-touring-with-ratbones-en-route-to-punk-rock-raduno) with Genoa, Italy's Ratbones as they make their way to the event. At the same time Montreal pop-punk group [Pale Lips](https://palelips.bandcamp.com/) have their own [shows scheduled](https://www.punknews.org/article/64078/tours-pale-lips-eu) en route.
 

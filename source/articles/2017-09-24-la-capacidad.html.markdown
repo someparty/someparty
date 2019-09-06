@@ -80,7 +80,7 @@ There's an entirely distracting amount of Nardwuar content floating around this 
 
 [Listen: Wares - "What You Want" @ Bandcamp](https://wares.bandcamp.com/track/what-you-want "#")
 
-London, Ontario's [Single Mothers](https://singlemothersband.bandcamp.com/) have released a new video for the song "Leash" from their recent [Dine Alone](http://dinealonerecords.com/)-released full-length *Our Pleasure*. The video, which appropriately features unleashed dogs doing their thing, was produced by Hamilton's [BlackLake](www.blacklakemedia.com). Single Mothers is in the midst of a North American tour with Touche Amore and Gouge Away and are set to visit the UK in November.
+London, Ontario's [Single Mothers](https://singlemothersband.bandcamp.com/) have released a new video for the song "Leash" from their recent [Dine Alone](http://dinealonerecords.com/)-released full-length *Our Pleasure*. The video, which appropriately features unleashed dogs doing their thing, was produced by Hamilton's [BlackLake](http://www.blacklakemedia.com). Single Mothers is in the midst of a North American tour with Touche Amore and Gouge Away and are set to visit the UK in November.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s_4S8Ifabko" frameborder="0" allowfullscreen></iframe>
 

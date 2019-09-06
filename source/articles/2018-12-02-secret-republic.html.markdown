@@ -59,7 +59,7 @@ Never Betters features Guslits with vocalist April Romano, bassist Patrick Brigg
 
 <a name="lisamarr"></a>Lisa Marr of the legendary Vancouver indie-pop/cuddlecore group [Cub](http://www.cubisaband.com/) recently announced a new EP backed by the [Tranzmitors](https://thetranzmitors.bandcamp.com/). The record will feature four songs, a pair of Cub covers ("Magic 8 Ball" and "Pretty Pictures"), a new take the Fastbacks' "In The Summer," and an original titled "Salvation."
 
-The 7" will arrive in on January from [Top Drawer Records](https://tdrecs.com/) to coincide with the band's appearance at the upcoming [Seattle Pop Punk Festival](www.seattlepoppunkfestival.com) on January 11. That three-day event, which kicks off on January 10, features a strong Canadian contingent, including sets from the Smugglers, the Stand GT, and the Hextalls among others.
+The 7" will arrive in on January from [Top Drawer Records](https://tdrecs.com/) to coincide with the band's appearance at the upcoming [Seattle Pop Punk Festival](https://www.seattlepoppunkfestival.com) on January 11. That three-day event, which kicks off on January 10, features a strong Canadian contingent, including sets from the Smugglers, the Stand GT, and the Hextalls among others.
 
 If you can't make it to the west coast the records are set to ship out on January 15. All proceeds from the release will be donated to Girls Rock Camp Vancouver.
 

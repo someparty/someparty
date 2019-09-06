@@ -17,7 +17,7 @@ Tough Age proper last released the *Shame* LP in 2017 on [Mint Records](http://w
 
 Montreal's [Freak Heat Waves](https://freakheatwaves.bandcamp.com/) are preparing to release *Beyond XXXL*, the electronics-heavy psyched-out reinvention of their sound. The eleven song LP, which follows up 2015's *Bonnie's State of Mind*. arrives on April 6 from [Telephone Explosion](https://www.telephoneexplosion.com/). I've been playing and re-playing the trippy space drone of "Self Vortex" since that single was first previewed back in February. I trust you have as well, so here's another, and it's a whole different level of wild.
 
-"Toxic Talk Show" lands with a video featuring hand-drawn animation from [Dr Cool](www.jordanminkoff.com), featuring an intergalactic zoo breakout. Go give it a spin.
+"Toxic Talk Show" lands with a video featuring hand-drawn animation from [Dr Cool](http://www.jordanminkoff.com), featuring an intergalactic zoo breakout. Go give it a spin.
 
 Freak Heat Waves first formed in Medicine Hat and were based for a time in Victoria. The band centres around the duo of Steven Lind and Thomas DiNinno. They self-produced *Beyond XXXL*, recording over a period of nine months. They tracked guitar, bass, and drum machine tracks at a Portland Community College studio with the electronic percussion expert Shawn Trail.
 
