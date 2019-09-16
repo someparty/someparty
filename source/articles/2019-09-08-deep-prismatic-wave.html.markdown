@@ -21,7 +21,7 @@ You may also know Gracen as the mastermind behind [Role Mach](https://rolemach.b
 
 Last week the eclectic grunge/sludge/folk collective [WHOOP-Szo](https://thenoisymountain.bandcamp.com) announced that they've signed with Daniel Romano and Steven Lambke's [You've Changed Records](http://youvechangedrecords.com/) for the release of their next full-length. There are few details available at this time, but the label did release a cryptic teaser video featuring a few new sounds along with the title: *Warrior Down*.
 
-Based in Guelph and London, Ontario, the experimental five-piece is following a number of short-form releases over the past few years, including the 2016 EP *Citizen's Ban(ne)d Radio*, a 2017 split with Halifax psych group [Walrus](https://walrustheband.bandcamp.com/), and last year's 7" single *The Dive*. WHOOP-Szo's current lineup features guitarist/vocalist Adam Sturgeon, Kirsten Kurvink Palm on guitar, synth, and vocals, bassist/keyboardist Joe Thorner, Andrew Lennon on 12-string guitar and synth, and percussionist Eric Lourenco.
+Based in Guelph and London, Ontario, the experimental five-piece is following a number of short-form releases over the past few years, including the 2016 EP *Citizen's Ban(ne)d Radio*, a 2017 split with Halifax psych group [Walrus](https://walrustheband.bandcamp.com/), and last year's 7" single *The Dive*. WHOOP-Szo's current lineup features guitarist/vocalist Adam Sturgeon, Kirsten Kurvink Palm on guitar, synth, and vocals, bassist/keyboardist Joe Thorner, Andrew Lennox on 12-string guitar and synth, and percussionist Eric Lourenco.
 
 WHOOP-Szo blew me away this year at SappyFest, and stood out among even that diverse lineup as perhaps the heaviest act to grace the main stage. There's something urgent, harrowing, and worldly about WHOOP-Szo, a constant sense of metamorphosis that makes them both hard to peg but hard to ignore. Seeing them paired with a label I've followed religiously for years is, for lack of a more elegant turn of phrase, really fucking cool. This one's top of mind, as far this newsletter's concerned.
 
@@ -83,7 +83,7 @@ That said, it's sponsor time! Among their upcoming [US tour dates](https://www.f
 
 [Watch: The New Pornographers - "Falling Down The Stairs of Your Smile" @ YouTube](https://youtu.be/RyHg2kPY5xA "#")
 
-Speaking of Black Forest bands, there's a new single online from Burlington three-piece power-pop/melodic-punk trio [The Penske File](https://thepenskefileband.bandcamp.com/). "Copper Sky" is the first new song from the group since their polished 2018 [Stomp](http://www.stomprecords.com/) full-length *Salvation*, and whether it's a one-off or destined for the follow-up is anyone's guess.
+Speaking of Black Forest bands, there's a new single online from Burlington power-pop/melodic-punk trio [The Penske File](https://thepenskefileband.bandcamp.com/). "Copper Sky" is the first new song from the group since their polished 2018 [Stomp](http://www.stomprecords.com/) full-length *Salvation*, and whether it's a one-off or destined for the follow-up is anyone's guess.
 
 The Penske File features guitarist/vocalist Travis Miles, drummer Alex Standen, and bassist James Hall. On Oktoberfest weekend the band will play the Black Forest Stage on Saturday evening. The group has further fall festival appearances slated for Brantford, Ontario's [Blackout Fest](https://www.facebook.com/blackoutfestbrantford/) on October 18, as well as the Fest in Gainesville, Florida on November 2.
 
