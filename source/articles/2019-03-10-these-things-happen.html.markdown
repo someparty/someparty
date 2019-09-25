@@ -50,7 +50,7 @@ Stuck Out Here's Ivan Raczycki had this to say about the track:
 
 The press release for the record sheds some light on Raczycki's trials over the past few years. Following the tour supporting 2014's *Getting Used To Feeling Like Shit* Raczycki experienced his first hypomanic episode, resulting in "multiple hospitalizations, extended periods of psychosis, and a diagnosis of bipolar 1 disorder." The band recorded with longtime producer Siegfried Meier in the summer of 2016 while Ivan was in recovery, but his illness returned that fall. These struggles inform many of his contributions to the record.
 
-Stuck Out Here features co-frontmen and principal songwriters Cam Laurie and Ivan Raczycki on guitar and vocals, backed by bassist Emmett O’Reilly and drummer Pat Armstrong.</p>
+Stuck Out Here features co-frontmen and principal songwriters Cam Laurie and Ivan Raczycki on guitar and vocals, backed by bassist Emmett O’Reilly and drummer Pat Armstrong.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/481192953&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
 </iframe>
