@@ -69,7 +69,6 @@ Dundas, Ontario's [The Dirty Nil](https://www.facebook.com/thedirtynil/) are fas
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/488646171%3Fsecret_token%3Ds-Cy3Ls&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-
 [Listen: The Dirty Nil - "I Don't Want That Phone Call" @ Kerrang](https://www.kerrang.com/the-news/exclusive-check-out-the-new-dirty-nil-track-right-here/ "#")
 
 Brent Fulop, the former drummer for the now-defunct Welland, Ontario punk group [The Snips](https://www.facebook.com/thesnipsmusic/), has released a new four-song EP from his solo act [Maybe Kinda Sorta](https://maybekindasorta.bandcamp.com/). Fulop worked with [Mark Fosco](https://marvelousmark.bandcamp.com/) (Marvelous Mark of the Marvelous Darlings) on the recordings. Fosco recorded, mixed, and mastered the tracks at the Fuzz Co studio.

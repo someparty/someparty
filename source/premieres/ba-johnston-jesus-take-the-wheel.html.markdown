@@ -2,7 +2,7 @@
 title: "B.A. Johnston - Jesus Take The Wheel"
 layout: premiere
 header_image_uri: '/images/premieres/ba-johnston.jpg'
-header_image_alt: 'B.A. Johnston - photo by McGill'
+header_image_alt: 'B.A. Johnston - photo by Stephen McGill'
 author: adam@someparty.ca (Adam White)
 description: Premiering B.A. Johnston's new banger "Jesus Take The Wheel" from The Skid Is Hot Tonight
 pull_image: 'premieres/ba-johnston-social.jpg'

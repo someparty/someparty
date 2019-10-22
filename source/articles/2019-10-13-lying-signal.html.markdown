@@ -2,12 +2,12 @@
 title: Lying Signal
 date: 2019-10-13
 author: adam@someparty.ca (Adam White)
-description: Music from WHOOP-Szo, Right Shitty, Corridor, Triples, Liquid Assets, Deliluh, André Ethier, Badge Époque Ensemble, Charm, Aquakulture, Porcelain Forehead
+description: Music from WHOOP-Szo, Right Shitty, Corridor, Triples, Liquid Assets, Deliluh, André Ethier, Badge Époque Ensemble, Charm, Aquakultre, Porcelain Forehead
 ---
 
-*If you've never noticed (and let's be honest, you have better things to do, but humour me here), I always date these newsletters to the Sunday of the week they're covering. That's mostly because it reflects the content, but it also denotes which slice of my dwindling free time was given to compiling it. What it doesn't reflect, at least not much these days, is the day I press send. That's crept out to Mondays and Tuesdays, but as I've been trading off timeliness for proof-reading, I don't mind the lie. Let's be honest, you had quite enough of my frantic Sunday night typos in the first year.*
+*If you've never noticed (and let's be honest, you have better things to do, but humour me here), I always date these newsletters to the Sunday of the week they're covering. That's mostly because it reflects the content, but it also denotes which slice of my dwindling free time was given to compiling it. What it doesn't reflect, at least not much these days, is the day I press send. That's crept out to Mondays and Tuesdays, but as I've been trading off timeliness for proof-reading, I don't mind the lie. You suffered quite enough of my frantic Sunday night typos in the first year anyway.*
 
-*All that said, as I wrap this edition, it's nearly Friday. Friday! Sure, this was a long weekend, and yes, I willfully gave up an extra evening to go see Ancient Shapes and Teenanger be amazing, but that's just tragically, inexcusably late. My apologies for that, dear reader. I'll try better to keep up. This edition, as a result, reserves a few newsworthy items from the current week for Sunday the 20th.*
+*All that said, as I wrap this edition, it's nearly Friday. Friday! Sure, it was a long weekend, and yes, I irresponsibly gave up an extra evening to go see Ancient Shapes and Teenanger be amazing, but that's just tragically, inexcusably late. My apologies for that, dear reader. I'll try better to keep up. This edition, as a result, reserves a few newsworthy items from the current week for Sunday the 20th.*
 
 *Anyways...*
 
@@ -105,7 +105,7 @@ Mitch Courtois recorded and mixed these songs in Welland, ON, with Daniel Husayn
 
 [Watch: Charm - "No Gasoline" @ YouTube](https://youtu.be/jVZZwW9ETfE "#")
 
-Speaking of cool things I missed on the first round, [SappyFest](http://www.sappyfest.com/) regulars [Aquakulture](https://aquakultre.bandcamp.com/) have a new song out. The Halifax-based neo-soul act recently shared the powerful "I Doubt It." Vocalist Lance Sampson commented on the track, revealing that [Lido Pimienta](https://lidopimienta.bandcamp.com/)'s performance at the 2017 [Halifax Pop Explosion](https://www.halifaxpopexplosion.com/) (and the ensuing online controversy) were key inspirations:
+Speaking of cool things I missed on the first round, [SappyFest](http://www.sappyfest.com/) regulars [Aquakultre](https://aquakultre.bandcamp.com/) have a new song out. The Halifax-based neo-soul act recently shared the powerful "I Doubt It." Vocalist Lance Sampson commented on the track, revealing that [Lido Pimienta](https://lidopimienta.bandcamp.com/)'s performance at the 2017 [Halifax Pop Explosion](https://www.halifaxpopexplosion.com/) (and the ensuing online controversy) were key inspirations:
 
 > "I wrote 'I Doubt It' three days after Lido Pimienta came to Halifax and performed at the Halifax Pop Explosion. Aquakultre performed the next night the same stage at the festival as well. There was a lot of politics behind the Lido Pimienta show. She asks if POC women, brown women, people of different abilities, could come to the front of the stage. One individual didn't want to move from a position directly at the front to accommodate those that had come forth and a national media storm occurred where a lot of racism and racial discussion was provoked, and... it was wild, it really sucked. It took a while to digest and when it finally did, a few lines in my head started to manifest. 'Cause i'm proud/ just control the crowd and we got it.' This line was a testament to myself, because at the time performing terrified me, and to watch someone bless a stage so confidently, and control a crowd so seamlessly, it was inspiring for sure. Sometimes all it takes is a moment in time, or someone else's' experience that sparks my writing, and once those two lines had come to mind, everything else just fit together like glue.
 >
