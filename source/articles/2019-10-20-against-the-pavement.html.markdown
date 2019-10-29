@@ -2,7 +2,7 @@
 title: Against The Pavement
 date: 2019-10-20
 author: adam@someparty.ca (Adam White)
-description: New music from Telegenic Pleasure, Woolworm, Tang, PAX, Fond, Bridget Bardon't, ANAMAI, Dany Placard, Nutrients, l'loop,  Young Guv, The Black Halos, Basement Revolver, Maybe Kinda Sorta, Chris Page, The Dreadnoughts, Fortune Cove
+description: New music from Telegenic Pleasure, Woolworm, Tang, PAX, Fond, Brigitte Bardon't, ANAMAI, Dany Placard, Nutrients, l'loop,  Young Guv, The Black Halos, Basement Revolver, Maybe Kinda Sorta, Chris Page, The Dreadnoughts, Fortune Cove
 ---
 
 I've joked in this newsletter that I can't keep track of how many bands feature [Robbie Brake](http://robbiebrake.bandcamp.com). Recording out of London, Ontario, Brake seems cursed to singlehandedly churn out more material than any single group could hope to contain. This year alone, he's contributed to new tunes from the power-pop group [Isölation Party](https://isolationparty.bandcamp.com/), the three-piece garage-punk act [Mononegatives](https://mononegatives.bandcamp.com), the similarly motivated two-piece [Klazo](https://klazo.bandcamp.com), and a surf rock side-project dubbed [Hook and the Creeps](https://hookandthecreeps.bandcamp.com). On top of that, he remains an active member of the glam-punk act [Dong Vegan](https://dongvegan.bandcamp.com/). Oh, and then there's solo material on top of that. Quite frankly, I'm unclear on how one individual manages that level of creative plate spinning. Hell, I can barely get this newsletter out weekly, and 80% of that's just copying and pasting links from Bandcamp.
@@ -31,7 +31,7 @@ Woolworm features Giles Roy on guitars and vocals, guitarist Alex Pomeroy, bassi
 
 [Listen: Woolworm - "Let Me Wear The Mask" @ Bandcamp](https://woolworm.bandcamp.com/track/let-me-wear-the-mask "#")
 
-Peter Johnson of the Toronto post-hardcore [Low Sun](https://low--sun.bandcamp.com/) is hitting the road this week in his [Tang](https://tanginternetpropaganda.com/) guise for a tour of the U.S. midwest. He'll be playing alongside Milwaukee's [Cairns](https://cairnsmke.bandcamp.com). This will be Johnson's first solo tour as the pensive, low-fi Tang, promising a set filled with "scratchy 4 track loops" and "warm, droney experimentation[s] of songs" re-interpreted from the band's studio recordings. The tour kicks off on the 23rd and runs through the 27th with shows in Wisconsin and Michigan. Check Tang's website for the full routing.
+Peter Johnson of the Toronto post-hardcore act [Low Sun](https://low--sun.bandcamp.com/) is hitting the road this week in his [Tang](https://tanginternetpropaganda.com/) guise for a tour of the U.S. midwest. He'll be playing alongside Milwaukee's [Cairns](https://cairnsmke.bandcamp.com). This will be Johnson's first solo tour as the pensive, low-fi Tang, promising a set filled with "scratchy 4 track loops" and "warm, droney experimentation[s] of songs" re-interpreted from the band's studio recordings. The tour kicks off on the 23rd and runs through the 27th with shows in Wisconsin and Michigan. Check Tang's website for the full routing.
 
 To help promote the trek, Tang released a video featuring a new song, recorded live at The Be Droom (your guess is as good as mine for what or where that is, but it sounds suitably ominous). A full-band version of the song, titled "Blurred Landscape," is due to appear on Tang's next full-length. You can check out this version out below.
 
@@ -59,17 +59,17 @@ Fond will launch the 5-song cassette release this week with a [show](https://www
 
 [Listen: Fond - "Against The Pavement" @ SoundCloud](https://soundcloud.com/artoftheuncarvedblock/against-the-pavement "#")
 
-[Bridget Bardon't](http://kristeljax.com/bardont.html), the stage name of Toronto drone-pop artist Kristel Jax, has a new full-length on the way titled *Radio Songs*. The twelve-track collection of sound collages is the result of a series of field recordings recorded over the past five years. Each track showcases a different town, with recordings made in Canada, the U.S., and Italy. [Already Dead Tapes](https://alreadydeadtapes.bandcamp.com) will release *Radio Songs* as a cassette on November 1. The label commented:
+[Brigitte Bardon't](http://kristeljax.com/bardont.html), the stage name of Toronto drone-pop artist Kristel Jax, has a new full-length on the way titled *Radio Songs*. The twelve-track collection of sound collages is the result of a series of field recordings recorded over the past five years. Each track showcases a different town, with recordings made in Canada, the U.S., and Italy. [Already Dead Tapes](https://alreadydeadtapes.bandcamp.com) will release *Radio Songs* as a cassette on November 1. The label commented:
 
 > "Here, Bardon't's haunting vocals are absent — these twelve tracks feature only radio and field recordings, layered, collaged, sampled back, slowed, or recorded straight in one shot. Inspired by DJ Screw, Maria Chavez, Christian Marclay, and Nike7up, these noise and pop compositions dial into the radio as an emotional barometer of place and time."
 
 You can preview "I Wonder," the track Jax crafted from the aural flotsam of Toronto, below.
 
-Along with Bridget Bardon't, Jax has worked on the multi-media project O / L, the radio series [Infinite Poolside](http://kristeljax.com/poolside.html), and the [Drone Therapy Podcast](http://kristeljax.com/therapy.html). In 2019 she released a 7" split single on [No Exist](https://noexist4vr.bandcamp.com/) with Turkey's Okay Vivian. That record found Jax performing a cover of Chris Isaak's "Wicked Game" set to a series of shortwave radio recordings.
+Along with Brigitte Bardon't, Jax has worked on the multi-media project O / L, the radio series [Infinite Poolside](http://kristeljax.com/poolside.html), and the [Drone Therapy Podcast](http://kristeljax.com/therapy.html). In 2019 she released a 7" split single on [No Exist](https://noexist4vr.bandcamp.com/) with Turkey's Okay Vivian. That record found Jax performing a cover of Chris Isaak's "Wicked Game" set to a series of shortwave radio recordings.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c76xmzlqkb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Watch: Bridget Bardon't - "I Wonder" @ YouTube](https://youtu.be/c76xmzlqkb8 "#")
+[Watch: Brigitte Bardon't - "I Wonder" @ YouTube](https://youtu.be/c76xmzlqkb8 "#")
 
 A new album from the experimental folk project [ANAMAI](http://anamaimusic.bandcamp.com/) has been announced. The duo will release *Dream Baby* on October 25 on the [Halocline Trance](https://haloclinetrance.bandcamp.com/) label. It's a 9-song set that includes "The Holder" (we previewed that one in the summer) and the title track that you can hear below.
 
