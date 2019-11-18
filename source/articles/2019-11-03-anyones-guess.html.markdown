@@ -67,7 +67,7 @@ Mighty reflected on the video's festival setting in a statement to [Exclaim](htt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F3ypx7qI484" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Watch A Tribe Called Red - "Ba Na Na" Ft. Odario, Haviah Mighty & Chippewa Travellers @ YouTube](https://youtu.be/F3ypx7qI484 "#")
+[Watch: A Tribe Called Red - "Ba Na Na" ft. Odario, Haviah Mighty & Chippewa Travellers @ YouTube](https://youtu.be/F3ypx7qI484 "#")
 
 Toronto garage-rock act [Bad River](https://baddriver.bandcamp.com/) are back with an EP's worth of music titled *Petrol Head*. It's the grungy band's follow up to their 2017-released "Clean Air" EP. The group recorded at London, Ontario's Sugar Shack (WHOOP-Szo, Chastity) with mastering performed at Toronto's Lacquer Channel by Noah Mintz (Constantines, Broken Social Scene). Bad River's planning to support the 5-song release with a tour throughout November. Release shows will soon be confirmed for Toronto, Hamilton, and London with further dates in the province to be announced soon.
 
