@@ -8,15 +8,15 @@ description: Premiering the new video for "Lil Boy Girl" from Toronto alt-pop si
 pull_image: 'premieres/louie-short-social.jpg'
 ---
 
-This September estoeric Toronto singer/songwriter [Louie Short](https://louieshort.bandcamp.com/) released *Cherry, cherry*, a 12-song full-length of alt-pop gems. Short's material runs the emotional gamut. Sometimes that results in rootsy sing-alongs, peppered with unexpected stops and tinged with an underlying darkness. A few tracks over you'll find Short building tunes that play like some unheralded 70s pop-rock classic, with the piano-driven "Beautality" leading the way.
+This September esoteric Toronto singer/songwriter [Louie Short](https://louieshort.bandcamp.com/) released *Cherry, cherry*, a 12-song full-length of alt-pop gems. Short's material runs the emotional gamut. Sometimes that results in rootsy sing-alongs, peppered with unexpected stops and tinged with an underlying darkness. A few tracks over you'll find Short building tunes that play like some unheralded 70s pop-rock classic, with the piano-driven "Beautality" leading the way.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4101410288/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4154698347/transparent=true/" seamless><a href="http://louieshort.bandcamp.com/album/cherry-cherry">Cherry, cherry by Louie Short</a></iframe>
 
-While Short's home recordings bear some of bedroom pop signifiers, the twitchy electronic elements top among them, his almost unexpectedly confident vocals capault them somewhere else. Short's R&B croon puts a cool, urbanite edge on songs like "Main Dogs" and "Baby."
+While Short's home recordings bear some bedroom pop signifiers, the twitchy electronic elements top among them, his almost unexpectedly confident vocals catapult them somewhere else. Short's R&B croon puts a cool, urbanite edge on songs like "Main Dogs" and "Baby."
 
-That brings us to "Lil Boy Girl," which arrives this week as a single backed by a click new video from [Thank You So Much](https://www.instagram.com/thankyousomuchvideo/). Directed by Emma Cosgrove and [WLMRT](https://wlmrt.bandcamp.com/)'s Ryan Hage, the surreal clip amplifies Short's psych tendences, and features what I can only assume is the only cathartic burning of a bath towl that you'll see this season. The track itself's built around a sly, alt-country stomp. I keep flashing back to the FemBots 2003 classic *Small Town Murder Scene*, which skulked around in not dissimilar shadows. Short had this to ay about the song:
+That brings us to "Lil Boy Girl," which arrives this week as a single backed by a click new video from [Thank You So Much](https://www.instagram.com/thankyousomuchvideo/). Directed by Emma Cosgrove and [WLMRT](https://wlmrt.bandcamp.com/)'s Ryan Hage, the surreal clip amplifies Short's psych tendencies and features what I can only assume is the only cathartic burning of a bath towel that you'll see this season. Sonically, Short built the track around a sly, alt-country stomp. I keep flashing back to the FemBots 2003 classic *Small Town Murder Scene*, which skulked around in similar shadows. Short had this to say about the song:
 
->"Lil Boy Girl is about someone incapable of understanding someone incapable of living. They are both inadequate. In the video Louie has a sexy time until he meets a faceless creature. Maybe they are not so different?"
+>"Lil Boy Girl is about someone incapable of understanding someone incapable of living. They are both inadequate. In the video, Louie has a sexy time until he meets a faceless creature. Maybe they are not so different?"
 
 Maybe. You can check out "Lil Boy Girl" below and find *Cherry, cherry* in full at Bandcamp.
 
