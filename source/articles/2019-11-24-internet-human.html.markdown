@@ -9,7 +9,7 @@ Windsor punk outfit [Psychic Void](https://psychicvoid.bandcamp.com) are set to 
 
 You can now preview the new tracks "Internet Human" and "Alley Dweller" over at the band's Bandcamp site, with the track "Boneshaker" available to preview from the label's end. Vanilla Box has the songs pressed as a 10" LP on red and purple vinyl.
 
-Without saying too much, I'll continue to vaguely tease Psychic Void's part in an upcoming Some Party project. It's driving me crazy to keep it under wraps, but I'll learn more on that very, very soon. In the meantime, snag a copy of *Skeleton Paradise*. Along with the recent Flesh Rag and Protruders records, 2019's made a pretty strong showing in this subgenre.
+Without saying too much, I'll continue to vaguely tease Psychic Void's part in an upcoming Some Party project. It's driving me crazy to keep it under wraps, but I'll have more on it very, very soon. In the meantime, snag a copy of *Skeleton Paradise*. Along with the recent Flesh Rag and Protruders records, 2019's made a pretty strong showing in this subgenre.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3442140225/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://psychicvoid.bandcamp.com/album/skeleton-paradise">Skeleton Paradise by Psychic Void</a></iframe>
 
@@ -107,10 +107,10 @@ An earlier press release described the album thusly:
 
 [Listen: Organ Eyes - *Handles on Bricks* @ Bandcamp](http://organeyes.bandcamp.com/album/handles-on-bricks "#")
 
-The high-concept collectivist BC post-punk unit [N0V3L](https://n0v3l.bandcamp.com) is on the cusp of releasing a split EP with the similarly-spirited Australian post-punk/krautrock act [Exek](https://exek.bandcamp.com/). The two-song 7" (titled *SPL1T* in the Bandcamp listing, because the revolution will be nothing if not *l33t*) features the song "Violent & Paranoid" from N0V3L, with Exek contributing "Lottery of Inheritance." While the set arrives this Wednesday, November 27, there's no audio online from it yet.
+The high-concept collectivist BC post-punk unit [N0V3L](https://n0v3l.bandcamp.com) is on the cusp of releasing a split EP with the similarly-spirited Australian post-punk/krautrock act [Exek](https://exek.bandcamp.com/). The two-song 7" (titled *SPL1T* in the Bandcamp listing, because the revolution will be nothing if not *l33t*) features the song "Violent & Paranoid" from N0V3L, with Exek contributing "Lottery of Inheritance." The set arrives this Wednesday, November 27.
 
 The material marks N0V3L's first follow-up to their debut EP *NOVEL*. That 8-song set arrived this past February from [Flemish Eye](http://www.flemisheye.com/) and [Meat Machine Records](https://twitter.com/meatmachinerecs).
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3623518280/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://n0v3l.bandcamp.com/album/novel-2">NOVEL by N0V3L</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3347684453/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://n0v3l.bandcamp.com/album/n0v3l-exek-spl1t">N0V3L/EXEK SPL1T by N0V3L/EXEK</a></iframe>
 
-[Listen: N0V3L - *NOVEL* @ Bandcamp](http://n0v3l.bandcamp.com/album/novel-2 "#")
+[Listen: N0V3L - *SPL1T* @ Bandcamp](http://n0v3l.bandcamp.com/album/n0v3l-exek-spl1t "#")
