@@ -76,7 +76,7 @@ Low Sun will launch the tape with a pair of shows next weekend. They'll play [We
 
 Grace has played in several Halifax-based punk and hardcore groups over the years, a list that includes the [Fat Stupids](https://fatstupids.bandcamp.com/), [Weekend Dads](https://weekenddads.bandcamp.com/), [Outtacontroller](https://outtacontroller.bandcamp.com), and [Cutie](https://cutie902.bandcamp.com/). Her main band [Future Girls](https://futuregirls.bandcamp.com/) last released the full-length *Motivation Problems* in 2018.
 
-Future Girls are slated to play the inaugural edition of Ottawa's [Side by Side Weekend](https://www.facebook.com/sidebysidewknd/) on the last weekend of July, sharing the Saturday night stage at Black Squirrel Books with [BBQT](https://bbqtband.bandcamp.com), [The Thrill](https://thethrill613.bandcamp.com/), and [Panic Attack](https://panicattack.bandcamp.com).
+Future Girls are slated to play the inaugural edition of Ottawa's [Side by Side Weekend](https://www.facebook.com/sidebysidewknd/) on the last weekend of July, sharing the Saturday night stage at Black Squirrel Books with [BBQT](https://bbqtband.bandcamp.com), [The Thrill](https://thethrillthethrill.bandcamp.com/), and [Panic Attack](https://panicattack.bandcamp.com).
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1943390729/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://mattygrace.bandcamp.com/track/connaught-chebucto">Connaught//Chebucto by Matty Grace</a></iframe>
 

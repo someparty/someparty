@@ -162,7 +162,7 @@ The quartet, Jason Corbett, Shannon Hemmett, Jahmeel Russell, and Adam Fink, hav
 
 Ottawa party-punk outfit [New Swears](https://newswears.bandcamp.com/) brought the alt-country leanings of their early work back to the fore on their recently released long-player *Night Mirror*, crafting a series of long-haul road songs like "Wheels." The group now has a video online featuring that very track. You can find it below.
 
-*Night Mirror* arrived in June from [Dine Alone Records](http://dinealonerecords.com/), following up 2017's *and the Magic of Horses*. The group's set to play the Toronto release show for that record on [August 16](https://www.facebook.com/events/351470555536235/) at the Monarch Tavern, featuring appearances from [Teen Archer](https://teenarcher.bandcamp.com/), [The Thrill](https://thethrill613.bandcamp.com/), and [Man Crush](https://mancrush.bandcamp.com/).
+*Night Mirror* arrived in June from [Dine Alone Records](http://dinealonerecords.com/), following up 2017's *and the Magic of Horses*. The group's set to play the Toronto release show for that record on [August 16](https://www.facebook.com/events/351470555536235/) at the Monarch Tavern, featuring appearances from [Teen Archer](https://teenarcher.bandcamp.com/), [The Thrill](https://thethrillthethrill.bandcamp.com/), and [Man Crush](https://mancrush.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EBAn5_PZMh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
