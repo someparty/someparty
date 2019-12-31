@@ -17,7 +17,7 @@ At one point in history, The Thrill played as The Shame, and emerged from Vancou
 
 Last week Patrick Flegel announced their next studio album as the haunting Toronto no-wave/trans-pop act [Cindy Lee](https://cindylee-w25th.bandcamp.com/). Titled *What's Tonight to Eternity*, the set's due on February 14 via the [Superior Viaduct](https://www.superiorviaduct.com) imprint [W.25TH](https://www.superiorviaduct.com/collections/w25th). The record follows 2018's *Model Express* full-length.
 
-In a statement, Flegel reflected on the influence of Karen Carpenter, the late American singer whose death at the age of 32 brought increased public visibility to anorexia and other eating disorders. Flegel commented on that Carpenter's story reverberates through this new work:
+In a statement, Flegel reflected on the influence of Karen Carpenter, the late American singer whose death at the age of 32 brought increased public visibility to anorexia and other eating disorders. Flegel commented that Carpenter's story reverberates through this new work:
 
 >"I found a deep interest and comfort in her story, which is a cautionary tale about the monstrosity of show business, stardom at a young age, and being a misfit looking for connection. The darkness and victimizing tabloid sensationalism she suffered, which is easily tempered and overwhelmed by her earnest output, her artistry, her tireless work ethic. Something utterly unique and magical takes shape in the negative space, out of exclusion. What I relate to in her mainly has a lot to do with her output and what is unknown about her, how much she kept hidden to herself while having this public profile."
 
@@ -27,7 +27,7 @@ Cindy Lee previewed the new LP with the single "Heavy Metal," a tribute to the l
 
 [Listen: Cindy Lee - "Heavy Metal" @ YouTube](https://youtu.be/fn7L1J6tFTY "#")
 
-[Downers](https://wearedowners.bandcamp.com) is an acoustic duo featuring Jo Snyder of the early 2000s Winnipeg indie trio [Sixty Stories](http://smallmanrecords.com/bands/sixty-stories/) and Jono Hunter of the Toronto punk acts [Found Objects](https://foundobjects666.bandcamp.com/) and [!ATTENTION!](https://attentionpp.bandcamp.com). The group has a new self-titled EP online, a five-song set recorded in Bobcageyon, Ontario this past March. The pair commented on the release:
+[Downers](https://wearedowners.bandcamp.com) is an acoustic duo featuring Jo Snyder of the early 2000s Winnipeg indie trio [Sixty Stories](http://smallmanrecords.com/bands/sixty-stories/) and Jono Hunter of the Toronto punk acts [Found Objects](https://foundobjects666.bandcamp.com/) and [!ATTENTION!](https://attentionpp.bandcamp.com). The group has a new self-titled EP online, a five-song set recorded in Bobcaygeon, Ontario this past March. The pair commented on the release:
 
 >"We both come from loud bands and wanted to do something with a lighter touch. We practiced sporadically for about two years until we said fuck it and locked in a weekend at a 'cottage' (read: a giant complex on a lake with tennis courts and really nice beds) and recorded in their pool room (not the swimming kind)."
 
@@ -61,7 +61,7 @@ KINGS recorded the new track from their home base of Renfrew County, Ontario. It
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1372845135/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://kings.bandcamp.com/track/black-highway-hymn">BLACK HIGHWAY HYMN by KINGS</a></iframe>
 
-[Listen: Kings - "Black Highway Hymn" @ Bandcamp](http://kings.bandcamp.com/track/black-highway-hymn "#")
+[Listen: KINGS - "Black Highway Hymn" @ Bandcamp](http://kings.bandcamp.com/track/black-highway-hymn "#")
 
 "In a Waiting Room" is the new single from [Commuted](https://www.facebook.com/Commuted/), David Eatock's eclectic Toronto-based post-punk project. The song serves as the title track to an upcoming 10-song full-length, now due January 30 after a delay this past fall. Eatock commented that the song's about "losing someone and the process of moving on," further elaborating in a comment on Facebook:
 
@@ -172,7 +172,7 @@ Your browser does not support the audio element.
 
 [Subscribe: Come for a Ride on iTunes](https://podcasts.apple.com/ca/podcast/come-for-a-ride/id1487586878 "#")
 
-Three episodes of [Vish Khanna](http://vishkhanna.com/)'s [Kreative Kontrol](http://vishkhanna.com/kreative-kontrol/) surfaced in the past few weeks. Episode #511 features a panel discussion about the book *Tomorrow is Too Late: Toronto Hardcore Punk in the 1980s* with authors Derek Emerson and Shawn Chirrey (along with several contributors). Kids In The Hall star Kevin McDonald appears on #512 to speak about his recent rock opera, while #513 is another live recording from Khanna's Long Night talk show. Among the guests, that episode features a live performance from the above-mentioned Laura Barrett as well.
+Three episodes of [Vish Khanna](http://vishkhanna.com/)'s [Kreative Kontrol](http://vishkhanna.com/kreative-kontrol/) surfaced in the past few weeks. Episode #511 features a panel discussion about the book [*Tomorrow is Too Late: Toronto Hardcore Punk in the 1980s*](https://www.facebook.com/TOHardcore80s/) with authors Derek Emerson and Shawn Chirrey (along with several contributors). Kids In The Hall star Kevin McDonald appears on #512 to speak about his recent rock opera, while #513 is another live recording from Khanna's Long Night talk show. Among the guests, that episode features a live performance from the above-mentioned Laura Barrett as well.
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/12358697/height/100/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/efa90f/" height="100" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 

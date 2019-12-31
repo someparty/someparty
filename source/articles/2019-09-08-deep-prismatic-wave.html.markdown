@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: News and music from Gal Gracen, WHOOP-Szo, Fountain Extreme, Dead Soft, Young Guv, Quasar U.K., The New Pornographers, The Penske File, Commuted, Tallies, Tunic, The World Health Organization
 ---
 
-Last week, after a half-decade of accomplished short-form material, Vancouver bedroom pop act [Gal Gracen](http://galgracen.bandcamp.com) finally graced the world with a proper full-length. The *Fantasy Gardens* LP is a collection of atmospheric tracks that effortlessly float from krautrock to meditative surf vibes to shimmering AM radio pop across ten tracks. It's the first full-length from the Patrick Geraghty-lead project, following 2013's *Blue Hearts in Exile* EP and the 2016 singles collection *The Hard Part Begins*.
+Last week, after a half-decade of accomplished short-form material, Vancouver bedroom pop act [Gal Gracen](http://galgracen.bandcamp.com) finally graced the world with a proper full-length. The *Fantasy Gardens* LP is a collection of atmospheric tunes that effortlessly float from krautrock to meditative surf vibes to shimmering AM radio pop across ten tracks. It's the first full-length from the Patrick Geraghty-lead project, following 2013's *Blue Hearts in Exile* EP and the 2016 singles collection *The Hard Part Begins*.
 
 Geraghty recorded this material with Jo Hirabayashi ([Jo Passed](http://www.jopassed.com/)) over three years in Vancouver and Victoria, with some aspects tracked abroad (in both Ho Chi Minh City, and, curiously, on Malaysia's Mount Kinabalu). David Parry (of [Loving](https://www.lovingband.com/)) mixed the album. [JAZ Records](https://jazrecords.com/jazrecords.com/portfolio/gal-gracen-fantasy-gardens/) is handling the vinyl release.
 
@@ -13,7 +13,7 @@ The press release briefly touches on the defunct Richmond, BC amusement park tha
 
 > "Named for the scandalous theme park and flower garden that brought down British Columbia's government in the early 1990s, Fantasy Gardens ruminates on the limits of truth and beauty, and the concept of a pure fantasy divorced from vanity... Gal Gracen has explored cinematic sounds and melancholic moods across a number of eps and singles that have varied in style, but that all share a common fascination with the psychic dreamlands that individuals create and inhabit."
 
-You may also know Gracen as the mastermind behind [Role Mach](https://rolemach.bandcamp.com), a proggy, horn-driven Vancouver rock outfit that was active in the earlier part of the decade (they had a split 7" with [Apollo Ghosts](https://apolloghosts.bandcamp.com/) back in 2010).
+You may also know Geraghty as the mastermind behind [Role Mach](https://rolemach.bandcamp.com), a proggy, horn-driven Vancouver rock outfit that was active in the earlier part of the decade (they had a split 7" with [Apollo Ghosts](https://apolloghosts.bandcamp.com/) back in 2010).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2036627155/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://galgracen.bandcamp.com/album/fantasy-gardens-2">FANTASY GARDENS by Gal Gracen</a></iframe>
 
