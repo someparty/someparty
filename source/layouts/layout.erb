@@ -70,8 +70,8 @@
 
       </div>
 
-      <% if !current_page.path.match(/^premieres/) %>
-        <% partial '/_partials/premiere' %>
+      <% if !current_page.path.match(/^store/) %>
+        <%= partial '/_partials/store_premiere' %>
       <% end %>
 
       <%= partial '/_partials/submit' %>

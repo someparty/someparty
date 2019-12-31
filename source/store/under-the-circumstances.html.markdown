@@ -4,18 +4,18 @@ layout: store
 header_image_uri: '/images/store/under-the-circumstances-tape.jpg'
 header_image_alt: 'Under The Circumstances 1 Cassette Compilation'
 author: adam@someparty.ca (Adam White)
-description: Some Party's Under The Circumstances compilation features rare songs from Tough Age, Partner, Wares, Psychic Void, and New Vogue
+description: Some Party's Under The Circumstances tape features rare songs from Tough Age, Partner, Wares, Psychic Void, and New Vogue
 pull_image: 'store/under-the-circumstances-social.jpg'
 ---
 
 What could contribute less to humanity than a Canadian rock music newsletter? How about a cassette compilation series inspired by that same newsletter?
 
-Ignoring all advice to the contrary, I'm thrilled to plumb new depths of misguided efforts with Some Party's *Under The Circumstances* series!
+Ignoring all sound advice to the contrary, I'm thrilled to plumb new depths of misguided effort with Some Party's *Under The Circumstances* series!
 
-*Under The Circumstances* will be a (hopefully) ongoing series of limited-run tape compilations showcasing new, rare, and weird tracks from some of my favourite Canadian artists from across the spectrum of punk, psych, garage, and indie rock. Volume 1 is available to order now and is shipping immediately.
+*Under The Circumstances* will be a periodic ongoing series of limited-run tape compilations showcasing new, rare, and weird tracks from some of my favourite Canadian artists from across the spectrum of punk, psych, garage, and indie rock. Volume 1 is available to order now and is shipping immediately. I'm thrilled that some of my all-time favourite artists have contributed material for this inaugural set.
 
 <div class="tc dib mv3">
-  <a href="https://some-party.myshopify.com/cart/31563899207813:1?channel=buy_button" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Buy Now</a>
+ <a href="https://some-party.myshopify.com/cart/31563899207813:1?channel=buy_button" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Buy Now</a>
 </div>
 
 ## Side A
@@ -42,22 +42,22 @@ Ignoring all advice to the contrary, I'm thrilled to plumb new depths of misguid
 
 ## Side B
 
-Some Party can neither confirm or deny the existence of a B side to this tape. The very notion is preposterous.
+Some Party can neither confirm or deny the existence of a B side to this tape. It certainly wouldn't feature a sampler of other cool material from these same artists, along with a few twists and turns along the way. The very notion is preposterous.
 
 <div class="tc dib mv3">
-  <a href="https://some-party.myshopify.com/cart/31563899207813:1?channel=buy_button" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Buy Now</a>
+ <a href="https://some-party.myshopify.com/cart/31563899207813:1?channel=buy_button" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Buy Now</a>
 </div>
 
 ## So What's With The Title?
 
 In 1972 the CBC's Peter Gzowski challenged listeners to complete the saying "as Canadian as..." (our counterpart to "as American as apple pie"). The winning submission, from Heather Scott, read "as Canadian as possible, under the circumstances."
 
-Some Party's mission is similarly pragmatic. I focus on this county not to celebrate it, but to explore the bonds forged between disparate local music scenes linked by little else than an inconvenient southern border. Canada isn't all that special, but rock'n'roll most certainly is. If there's one thing the Ramones taught us, it's that anyone can make this racket.  The bands, and the scenes supporting them, can crop up just about anywhere. In that sense, Canada's just a vessel.
+Some Party's mission is similarly pragmatic. I focus on this county not to celebrate it, but to explore the bonds forged between disparate local music scenes linked by little else than an inconvenient southern border. Canada isn't all that special, but rock'n'roll most certainly is. If there's one thing the Ramones taught us, it's that anyone can make this racket. The bands, and the scenes supporting them, can crop up just about anywhere. In that sense, Canada's just a vessel.
 
 These are the lines we draw and the connections we make under the circumstances of where we just happen to be.
 
 <div class="tc dib mv3">
-  <a href="https://some-party.myshopify.com/cart/31563899207813:1?channel=buy_button" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Buy Now</a>
+ <a href="https://some-party.myshopify.com/cart/31563899207813:1?channel=buy_button" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Buy Now</a>
 </div>
 
 ## Burning Questions
@@ -68,7 +68,7 @@ I'm not. My interest is in adding some physical artifact to the ongoing cultural
 
 **Can I get a copy directly from the bands?**
 
-Quite likely, and while supplies list. Each band had a batch to do with what they will.
+Quite likely, and while supplies last. Each band had a batch to do with what they will.
 
 **Are you going to make more if you run out?**
 
@@ -80,8 +80,8 @@ I've got 100. The bands have a few more on top of that. These could move quickly
 
 **Is it safe to order these online?**
 
-The online store hosted by Shopify and the Shopify Payments processor handles the credit card transactions. PayPal is also available upon checkout if you wish. Some Party never touches the card numbers, so everything's entirely PCI compliant if that means anything to you.
+The online store hosted by Shopify and the Shopify Payments processor handles the credit card transactions. PayPal and Google Pay are also available upon checkout if you wish to go that route. Some Party never touches the card numbers, so everything's entirely PCI compliant if that means anything to you.
 
 <div class="tc dib mv3">
-  <a href="https://some-party.myshopify.com/cart/31563899207813:1?channel=buy_button" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Buy Now</a>
+ <a href="https://some-party.myshopify.com/cart/31563899207813:1?channel=buy_button" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Buy Now</a>
 </div>
