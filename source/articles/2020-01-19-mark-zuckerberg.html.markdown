@@ -2,7 +2,7 @@
 title: Mark Zuckerberg
 date: 2020-01-19
 author: adam@someparty.ca (Adam White)
-description: x
+description: News from Wares, Dboy, Nap Eyes, Scott Hardware, Red Arms, Les Hay Babies, PAX, Alexisonfire, NOBRO, Heavy Hearts, Motherhood, and Souvenir.
 ---
 
 [Wares](https://wares.bandcamp.com) have a busy weekend of Alberta festival gigs ahead of them, with appearances planned in the coming days for both Edmonton's [Winterruption YEG](https://www.winterruptionyeg.com/) and Calgary's [Big Winter Classic](https://www.bigwinterclassic.com/). If you catch them at one or the other, be sure to snag a cassette or two from the band. Not only are they packing their brilliant self-titled 2017 debut, but they'll also have a share of Some Party's *[Under The Circumstances](/store/under-the-circumstances/)* run in tow. For the immediate future, Wares has pledged all sales of their cassette stock to the [Unist'ot'en Camp Legal Fund](http://unistoten.camp/), supporting the indigenous re-occupation of Wet’suwet’en land.
@@ -113,7 +113,7 @@ Heavy Hearts features vocalist/guitarist Justin Glatt (vocals/guitar), bassist J
 
 [Watch: Heavy Hearts - "Vexed" @ YouTube](https://youtu.be/ilKY0hzHGlY "#")
 
-Fredericton art-punk trio [Motherhood](https://motherhoodmusic.bandcamp.com/) has a few quirky new projects on the horizon. On March 1, the group will release *Live From Sedalia*, an EP worth of recordings which will arrive both digitally and as a limited edition VHS tape. The band recorded the session in March of last year in a cabin in the woods outside of Sedalia, Colorado. Motherhood will produce 50 vintage tapes featuring the 20-minute, four-song set.
+Fredericton art-punk trio [Motherhood](https://motherhoodmusic.bandcamp.com/) has a few quirky new projects on the horizon. On March 1, the group will release *Live From Sedalia*, an EP worth of recordings which will arrive both digitally and as a limited edition VHS tape. The band recorded the session in March of last year in a cabin in the woods outside of Sedalia, Colorado. Motherhood will produce 50 vintage tapes featuring the 20-minute, four-song set. If your VHS deck happens to be in the shop,  you can preview at least a portion of the footage now on YouTube.
 
 The group will also soon take part in a direct-to-vinyl live session at Brooklyn's [Leesta Vall Sound Recordings](https://leestavall.com/). Motherhood will travel to the studio in early February, where they'll track one-of-a-kind, personalized recordings to a 50s-era record cutting lathe. You need to [pre-order](https://leestavall.com/collections/preorders/products/motherhood) one of these if you want one, as there's only so much time in a day to bang these out. Each will be unique.
 
