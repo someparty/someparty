@@ -93,11 +93,11 @@ A release show for the EP is scheduled for [November 7](https://lepointdevente.c
 
 [Listen: Navet Confit - *EP8 / il fait très (très)* @ Bandcamp](http://navetconfit.bandcamp.com/album/ep8-il-fait-tr-s-tr-s-froid "#")
 
-Montreal psych-rock trio [Elephant Stone](https://www.elephantstone.ca/) has a new video online for their single "Hollow World," the title track to the group's upcoming LP. Frontman Rishi Dir commented on the track:
+Montreal psych-rock trio [Elephant Stone](https://www.elephantstone.ca/) has a new video online for their single "Hollow World," the almost-title track to the group's upcoming LP *Hollow*. Frontman Rishi Dir commented on the track:
 
 > "I'm sure I'm not alone in this sentiment. If social media has taught us anything, it's that there are a lot of unhappy people out there who are trying to find a way out. They are looking for meaning and something to believe in... or nothing to believe in... We all want the same thing, but are trying to achieve it in different ways. With this in mind, we wrote and recorded our 6th full-length, Hollow. I set forth writing a song-suite telling of a world of unhappy souls who have lost connection with each other. The storyline touches upon the plundering/poisoning of their home, the elite, demagogues, false idols, the truth as seen by children, and, ultimately, the fight for the survival of their species. 'Hollow World' is where it all begins."
 
-Elephant Stone last released *Ship of Fools* in 2016. You can expect *Hollow World* in early 2020. Elephant Stone features Dhir on vocals, bass, and sitar alongside drummer Miles Dupire and guitarist Robbie MacArthur. When the group performs live they fill out their sound with the help of guitarist/keyboardist Jason Kent.
+Elephant Stone last released *Ship of Fools* in 2016. You can expect *Hollow* in early 2020. Elephant Stone features Dhir on vocals, bass, and sitar alongside drummer Miles Dupire and guitarist Robbie MacArthur. When the group performs live they fill out their sound with the help of guitarist/keyboardist Jason Kent.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KusSYJ3dx4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
