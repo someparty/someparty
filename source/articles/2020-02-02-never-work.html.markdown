@@ -13,7 +13,9 @@ The record arrives April 3 from [BB*Island](https://bbislandmusic.com/shop/burni
 
 Along with eight originals, the set includes a cover of Malvina Reynolds' 1966 anthem "[I Don't Mind Failing](https://www.youtube.com/watch?v=MJ60n_-BK6Q)" (a song featuring the immortal verse "Don't mind wearing the ragged britches /'Cause those who succeed are the sons of bitches"). Sharratt and Kom recorded this set in Fairfield, Prince Edward Island, with Jake Nicoll performing additional production and mixing at Studio J in St. John's. Keeping with their theme, the record's dedicated to the memory of [Jeff Lockhart Jr.](https://highline.huffingtonpost.com/articles/en/life-and-death-amazon-temp/), a warehouse temp who died on the floor of a Virginia Amazon facility in 2013.
 
-You can preview the record's gorgeous title track now through a lyric video on YouTube. As a tech worker, someone whose adult life has been acutely defined by the oft-squandered promise of technology, the topics explored on this record have my acute attention. That I'm such a big Burning Hell fan is almost secondary.
+You can preview the record's gorgeous title track now through a lyric video on YouTube.
+
+As a tech worker, someone whose adult life has been acutely defined by the oft-squandered promise of technology, the topics explored on this record have my undivided attention. That I'm such a big Burning Hell fan is almost secondary.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zRL3NjwMPLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
