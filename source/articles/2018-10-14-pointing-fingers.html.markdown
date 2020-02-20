@@ -45,7 +45,7 @@ Hermiston commented on the record in a press release, stating:
 
 Vicious Hamilton psych-punks [Flesh Rag](https://www.facebook.com/fleshrag/) have a video online for their single "In Another Dimension." The song appears on *Inside Your Mind*, the trio's recent LP on [Schizophrenic](https://schizophrenicrex.bandcamp.com/) and [Loose Lips Records](https://www.facebook.com/looselipsrecords333/). The clip was directed by Connor Wilkes, who previously worked with the band on their "I'm Sick" video.
 
-Flesh Rag features vocalist/guitarist Matthew Ellis, drummer Nathan Burger, and bassist Eric Felgner. Members of the band have played with [TV Freaks](https://www.facebook.com/teeveefreakzz/), [Rocket Reducers](https://www.facebook.com/Rocket-Reducers-50250806853/), [Sweet Dave and the Shallow Graves](https://sweetdaveandtheshallowgraves.bandcamp.com/), and [Uncontrollable Urge](https://theeuncontrollableurge.bandcamp.com/) among others.
+Flesh Rag features vocalist/guitarist Matthew Ellis, drummer Nathan Burger, and bassist Eric Felgner. Members of the band have played with [TV Freaks](https://www.facebook.com/teeveefreakzz/), [Rocket Reducers](https://www.facebook.com/Rocket-Reducers-50250806853/), [Sweet Dave and the Shallow Graves](https://sweetdave.bandcamp.com/), and [Uncontrollable Urge](https://theeuncontrollableurge.bandcamp.com/) among others.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/77Pj1KlOdNU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
