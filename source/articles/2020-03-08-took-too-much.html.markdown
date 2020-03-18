@@ -2,7 +2,7 @@
 title: Took Too Much
 date: 2020-03-08
 author: adam@someparty.ca (Adam White)
-description: Music from Dave Schoonderbeek with By Divine Right, Jade Hairpins, Partner, Fiver, Pottery, Corridor, Hunters & Anglers, The Dirty Nil, Motorists, Confusionaires, Conditioner, Roy, Shotgun Jimmie,
+description: Music from Dave Schoonderbeek with By Divine Right, Jade Hairpins, Partner, Fiver, Pottery, Corridor, Hunters & Anglers, The Dirty Nil, Motorists, Confusionaires, Conditioner, Roy, Shotgun Jimmie
 ---
 
 Dave Schoonderbeek, of the early-2000s Oshawa indie rock group [Another Blue Door](https://www.discogs.com/Another-Blue-Door-Haulers/release/3524074), has a new solo effort out backed by the members of Toronto's long-running [By Divine Right](https://bydivineright.bandcamp.com/). Cheekily titled *Let It Beek*, the set features ten affecting new tracks penned and performed by Schoonderbeek, with BDR's core trio of [José Contreras](https://www.facebook.com/josecontrerasmusik/), Alysha Haugen, and Geordie Dynes backing him on guitar, bass, and drums respectively. The group recorded at [Slaughterhouse 754](https://slaughterhouse754.wixsite.com/slaughterhouse754) in 2016 with Glen Gummerson.
