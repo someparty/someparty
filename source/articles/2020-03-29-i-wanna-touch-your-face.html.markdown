@@ -2,7 +2,7 @@
 title: I Wanna Touch Your Face
 date: 2020-03-29
 author: adam@someparty.ca (Adam White)
-description: Quarantine audio from The Vapids, Art Of The Uncarved Block, No Fix, Ciggie & The Darts, Jon McKeil, Flower, Real Sickies, FET.NAT, Oswald Park, The Holy Gasp, The Tempunauts, Lucky, Burning Nickels, Seth Anderson, Piper Burns, Trout, No, It's Fine.
+description: Quarantine audio from The Vapids, Art Of The Uncarved Block, No Fix, Ciggie & The Darts, Jon Mckiel, Flower, Real Sickies, FET.NAT, Oswald Park, The Holy Gasp, The Tempunauts, Lucky, Burning Nickels, Seth Anderson, Piper Burns, Trout, No, It's Fine.
 ---
 
 It's not all that often that veteran Burlington band [The Vapids](https://the-vapids.bandcamp.com/) surfaces in your news feed, but last week the long-running group was at the centre of two separate COVID-19 stories.
@@ -57,17 +57,17 @@ Ciggie & The Darts features members of [Chloroform](https://chloroforming.bandca
 
 [Listen: Ciggie & The Darts - "Struttin'" / "Cosmonaut" @ Bandcamp](https://ciggieandthedarts.bandcamp.com/album/liquor-leather-denim-darts "#")
 
-Halifax singer/songwriter [Jon McKiel](https://jonmckiel.bandcamp.com/) has a new video online showcasing "Object Permanence," the lead single from his upcoming LP *Bobby Joe Hope*. The surreal clip from director Andrea Thorne features a collage of psychedelic imagery. A likewise suitably oblique statement commented:
+Halifax singer/songwriter [Jon Mckiel](https://jonMckiel.bandcamp.com/) has a new video online showcasing "Object Permanence," the lead single from his upcoming LP *Bobby Joe Hope*. The surreal clip from director Andrea Thorne features a collage of psychedelic imagery. A likewise suitably oblique statement commented:
 
 > "Magic recombines ordinary objects to wake us; acknowledge mystery. Pluck from the landscape a rose or a bruise. World forms and unforms in universe around us - a moment comes and then dissolves. Tides and life; on the shore let us embrace beneath Moon and tremble a little as lovers and kin while we tumble through time in the wandering place."
 
-*Bobby Joe Hope* follows up on McKiel's 2017 LP *Memorial Ten Count*. It features found-audio salvaged from a second-hand reel-to-reel recorder and incorporated into each of the album's nine tracks. McKeil worked in the studio with [JOYFULTALK](https://joyfultalk.bandcamp.com/)'s Jay Crocker on the project. *Bobby Joe Hope* arrives on April 24 from [You've Changed Records](http://youvechangedrecords.com/).
+*Bobby Joe Hope* follows up on Mckiel's 2017 LP *Memorial Ten Count*. It features found-audio salvaged from a second-hand reel-to-reel recorder and incorporated into each of the album's nine tracks. Mckiel worked in the studio with [JOYFULTALK](https://joyfultalk.bandcamp.com/)'s Jay Crocker on the project. *Bobby Joe Hope* arrives on April 24 from [You've Changed Records](http://youvechangedrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yWZBHSQNEZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Watch: Jon McKeil - "Object Permanence" @ YouTube](https://youtu.be/yWZBHSQNEZM "#")
+[Watch: Jon Mckiel - "Object Permanence" @ YouTube](https://youtu.be/yWZBHSQNEZM "#")
 
-Jon McKeil, along with poet Geordie Miller, performs from time to time as part of the Sackville-rooted [Flour](http://www.sappyfest.com/flour). That group recently shared a video for the song "Funny Feeling," which is due for an upcoming EP titled *Tire Fire*.
+Jon Mckiel, along with poet Geordie Miller, performs from time to time as part of the Sackville-rooted [Flour](http://www.sappyfest.com/flour). That group recently shared a video for the song "Funny Feeling," which is due for an upcoming EP titled *Tire Fire*.
 
 Like the "Object Permanence" clip, this piece also comes from director Andrea Thorne. The above mentioned Jay Crocker also has a hand in this one, credited with mixing the forthcoming EP. There's no word yet on a release date.
 

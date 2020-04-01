@@ -2,18 +2,18 @@
 title: Object Permanence
 date: 2020-03-01
 author: adam@someparty.ca (Adam White)
-description: Music and visuals from Jon McKiel, Daniel Romano and The Outfit, S.H.I.T., Ariel Sharratt & Mathias Kom, Pretty Matty, METZ, Zen Bamboo, Guilhem, L'Affaire Pélican, The Drew Thomson Foundation, Aquakultre, Snotty Nose Rez Kids, Young Guv, and D.O.A.
+description: Music and visuals from Jon Mckiel, Daniel Romano and The Outfit, S.H.I.T., Ariel Sharratt & Mathias Kom, Pretty Matty, METZ, Zen Bamboo, Guilhem, L'Affaire Pélican, The Drew Thomson Foundation, Aquakultre, Snotty Nose Rez Kids, Young Guv, and D.O.A.
 ---
 
-Halifax singer/songwriter [Jon McKiel](https://jonmckiel.bandcamp.com/) returns with a new full-length this April, titled *Bobby Joe Hope*. The record's due from [You've Changed Records](http://youvechangedrecords.com/), following-up on McKiel's 2017 LP *Memorial Ten Count*. This album arrives under some truly unique circumstances, as described by Sackville poet Geordie Miller in a press release (of which this is just an excerpt):
+Halifax singer/songwriter [Jon Mckiel](https://jonMckiel.bandcamp.com/) returns with a new full-length this April, titled *Bobby Joe Hope*. The record's due from [You've Changed Records](http://youvechangedrecords.com/), following-up on Mckiel's 2017 LP *Memorial Ten Count*. This album arrives under some truly unique circumstances, as described by Sackville poet Geordie Miller in a press release (of which this is just an excerpt):
 
 >"How do you speak through a stranger? Contain multitudes. And begin to find new kinds of design in accident. True story. In September 2015 Jon bought an old Teac A-2340, a reel-to-reel tape recorder, tapes included. He exchanged a few emails with the online seller while negotiating a deal, but they never met. The first time Jon tested out the machine at home it disclosed a beautiful dream. A single tape of astounding samples from an unknown source. He nicknamed it the Royal Sampler. They began to jam together..."
 
-McKiel salvaged the audio from those tapes and brought the samples into the studio with [JOYFULTALK](https://joyfultalk.bandcamp.com/)'s Jay Crocker. Each of *Bobby Joe Hope*'s nine tracks features some aspect of this found material. What results is a work that's at times truly haunting and ethereal. You can preview some of it now with the single "Object Permanence" below, but I can't wait for the general public to check this one out in full. It's something else.
+Mckiel salvaged the audio from those tapes and brought the samples into the studio with [JOYFULTALK](https://joyfultalk.bandcamp.com/)'s Jay Crocker. Each of *Bobby Joe Hope*'s nine tracks features some aspect of this found material. What results is a work that's at times truly haunting and ethereal. You can preview some of it now with the single "Object Permanence" below, but I can't wait for the general public to check this one out in full. It's something else.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=374638776/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://youvechangedrecords.bandcamp.com/album/bobby-joe-hope">Bobby Joe Hope by Jon Mckiel</a></iframe>
 
-[Listen: Jon McKeil - "Object Permanence" @ Bandcamp](https://youvechangedrecords.bandcamp.com/album/bobby-joe-hope "#")
+[Listen: Jon Mckiel - "Object Permanence" @ Bandcamp](https://youvechangedrecords.bandcamp.com/album/bobby-joe-hope "#")
 
 This week You've Changed also announced a live album from [Daniel Romano](http://www.danielromanomusic.com/)'s touring band The Outfit. *"Okay Wow"* will collect 15 songs recorded live in Scandanavia and mixed by the band's longtime collaborator Kenneth Roy Meehan. The set-list pulls from across Romano's rather prolific solo output, including a few selections from out-of-print digital collections like *Nerveless* and *Human Touch*.
 

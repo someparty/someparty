@@ -37,7 +37,7 @@ Toronto punk act [Teenanger](https://teenanger.bandcamp.com/) are going all in o
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326570581&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Teenanger will be among the bands playing [SappyFest](http://www.sappyfest.com/) in Sackville, NB this year. The event's final lineup has now been announced, with [The Courtneys](https://thecourtneys.bandcamp.com/), [Booji Boys](https://boojiboysfuneral.bandcamp.com/), [Fiver](http://www.fiverfiverfiver.com/), and [Jon McKiel](https://jonmckiel.bandcamp.com/) among the acts confirmed. SappyFest runs from August 4th to the 6th.
+Teenanger will be among the bands playing [SappyFest](http://www.sappyfest.com/) in Sackville, NB this year. The event's final lineup has now been announced, with [The Courtneys](https://thecourtneys.bandcamp.com/), [Booji Boys](https://boojiboysfuneral.bandcamp.com/), [Fiver](http://www.fiverfiverfiver.com/), and [Jon Mckiel](https://jonMckiel.bandcamp.com/) among the acts confirmed. SappyFest runs from August 4th to the 6th.
 
 [Fucked Up](http://fuckedup.cc/) is recording a new LP. I don't know much outside the fact that there are saxophones involved. It's probably not a ska record, but you never know. The band's Ben Cook recently put out a new power-pop single as [Young Guv](https://youngguv.bandcamp.com/) titled *Traumatic*. It's available on [Slumberland](http://www.slumberlandrecords.com/catalog/show/311).
 
