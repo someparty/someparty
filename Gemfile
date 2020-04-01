@@ -12,7 +12,7 @@ gem 'tzinfo-data', platforms: %i[mswin mingw jruby]
 
 gem 'builder', '~> 3.0' # For feed.xml
 gem 'fastimage'
-gem 'middleman', '~> 4.1'
+gem 'middleman', '~> 4.3.6'
 gem 'middleman-autoprefixer'
 gem 'middleman-blog'
 gem 'middleman-livereload'
@@ -20,7 +20,7 @@ gem 'middleman-meta-tags'
 gem 'middleman-minify-html'
 gem 'middleman-robots'
 gem 'middleman-search_engine_sitemap'
-gem "nokogiri", ">= 1.10.4"
+gem "nokogiri", ">= 1.10.8"
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 
 # development
