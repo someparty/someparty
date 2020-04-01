@@ -55,9 +55,9 @@ Below you'll find a stream of Fiver's reinterpretation of the 1968 Dillard & Cla
 
 [Watch: Pottery - "Take Your Time" @ YouTube](https://youtu.be/ay1O0tRNjyo "#")
 
-The Montreal post-punk group [Corridor](https://corridormtl.bandcamp.com) also has a new video online, giving life to the hypnotic *Junoir* track "Grand Cheval." The clip features animation by the Calgary musician and animator [Chad VanGaalen](https://chadvangaalen.bandcamp.com/), revisiting the bizarre alien worlds and morphotypes we previously glimpsed in the *TARBOZ* short and his own "Host Body" video.
+The Montreal post-punk group [Corridor](https://corridormtl.bandcamp.com) also has a new video online, giving life to the hypnotic *Junior* track "Grand Cheval." The clip features animation by the Calgary musician and animator [Chad VanGaalen](https://chadvangaalen.bandcamp.com/), revisiting the bizarre alien worlds and morphotypes we previously glimpsed in the *TARBOZ* short and his own "Host Body" video.
 
-*Junior* arrived last year on [Bonsound](http://www.bonsound.com/) in Canada and the legendary [Sub Pop](https://www.subpop.com/) elsewhere, with Corridor holding the distinction of being the first francophone act to join the latter. Produced by Emmanuel Éthier, *Junoir* is the band's third album. Corridor features Jonathan Robert on vocals, guitar, and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming.
+*Junior* arrived last year on [Bonsound](http://www.bonsound.com/) in Canada and the legendary [Sub Pop](https://www.subpop.com/) elsewhere, with Corridor holding the distinction of being the first francophone act to join the latter. Produced by Emmanuel Éthier, *Junior* is the band's third album. Corridor features Jonathan Robert on vocals, guitar, and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xNBbCSPZWl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -107,7 +107,7 @@ Conditioner features Nick Giles on drums and vocals, bassist Jeff Gibson, guitar
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1028667214/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://ccconditionerrr.bandcamp.com/album/low-point">LOW POINT by CONDITIONER</a></iframe>
 
-[Watch: Conditioner - *Low Point* @ Bandcamp](https://ccconditionerrr.bandcamp.com/album/low-point "#")
+[Listen: Conditioner - *Low Point* @ Bandcamp](https://ccconditionerrr.bandcamp.com/album/low-point "#")
 
 A mellow second single recently materialized from the Toronto psych-pop act [Roy](https://thesoundofroy.bandcamp.com). You can stream "Love (Sky Sister)" below. It serves as a lower-key counterpart to the bombastic "Is It You (Sky Brother)" that reintroduced Roy to the world a month ago, with both tracks directly addressing the celestial narrative wrapped around the band's upcoming album *Pease Love and Outer Space*.
 

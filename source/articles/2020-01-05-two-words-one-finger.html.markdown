@@ -51,8 +51,7 @@ Diamondtown an extension of [Husband & Knife](https://husbandknife.bandcamp.com/
 
 Just before the holidays, Toronto's weird and wonderful [Merc & The Montclairs](http://mercandthemontclairs.bandcamp.com/) released a full length titled *Be A Galvo* (a title that comes from the Wild Man Fischer song "Do The Salvo"). The reference to Fischer, an infamous street busker, outsider music phenomenon, and Frank Zappa discovery, is one of the project's several Zappa callbacks. The seven-song set kicks off with a cover of "What's The Ugliest Part of your Body," a Zappa-penned tune the 1968's Mothers Of Invention album *We're Only in It for the Money*.
 
-Merc & Montclairs features vocals, guitar, and saxophone from Eli Speigel, guitar from
-Rachel Bellone, Cale Weir on bass, Jason Shory on drums, and Tago Mago on guitar, mandolin, and keyboard. Rob McLay produced, recorded, and mixed the set.
+Merc & Montclairs features vocals, guitar, and saxophone from Eli Speigel, guitar from Rachel Bellone, Cale Weir on bass, Jason Shory on drums, and Tago Mago on guitar, mandolin, and keyboard. Rob McLay produced, recorded, and mixed the set.
 
 In a Facebook post, Eli mused:
 

@@ -49,7 +49,7 @@ Along with the audio, the band recorded a video for the song "Rebirth" from the 
 
 Ottawa's [Steve Adamyk Band](http://www.steveadamykband.com) are back in the studio. They're working with producer [Mike Bond](http://www.producedbybond.com/) at [Wolf Lake Studios](https://www.wolflakestudios.com/) in Lac-des-Loups, Québec on what will become the follow-up to 2016's *Graceland*.
 
-Steve's kept active even though his namesake band's been quiet this year. Along with becoming a father (which, I can attest, is pretty time consuming), Adamyk was a part of [Cheap Whine](https://www.facebook.com/cheapwhine/) with Jordy of [Crusades](https://crusades666.bandcamp.com/) and Eric from  [Feral Trash](https://feraltrash.bandcamp.com/). That band released their self-titled debut on the aforementioned Drunken Sailor earlier in the year.
+Steve's kept active even though his namesake band's been quiet this year. Along with becoming a father (which, I can attest, is pretty time consuming), Adamyk was a part of [Cheap Whine](https://www.facebook.com/cheapwhine/) with Jordy of [Crusades](https://crusades666.bandcamp.com/) and Eric from [Feral Trash](https://feraltrash.bandcamp.com/). That band released their self-titled debut on the aforementioned Drunken Sailor earlier in the year.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/75aUSW6H-vI?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -63,8 +63,7 @@ I've previously mentioned that frontman Kyle Krische is working this hockey seas
 
 [Listen: Wayfarer - "Worn Out" @ Bandcamp](https://wayfarer.bandcamp.com/track/worn-out "#")
 
-Montreal punk festival [Pouzza](https://pouzzafest.com/) has started to trickle out their 2018 lineup. The event always brings together a roster that showcases local talent alongside some bigger name US  bands. So far the confirmed Canadian participants include Oakville's
- [Dead Broke](https://deadbrokeband.com/), Montreal ska-punk act [PL Mafia](https://plmafia.bandcamp.com/), and local punk band [The Horny Bitches](https://thehornybitches.bandcamp.com/). Pouzza's also announced a pair of reunion shows, with defunct Montreal street-punk group the [Brixton Robbers](https://brixtonrobbers.bandcamp.com/) returning to the fest (they played its second year in 2012) along with Calgary's [This Is A Standoff](https://www.facebook.com/thisisastandoff/). The latter group's original run lasted from 2007 through 2012.
+Montreal punk festival [Pouzza](https://pouzzafest.com/) has started to trickle out their 2018 lineup. The event always brings together a roster that showcases local talent alongside some bigger name US  bands. So far the confirmed Canadian participants include Oakville's [Dead Broke](https://deadbrokeband.com/), Montreal ska-punk act [PL Mafia](https://plmafia.bandcamp.com/), and local punk band [The Horny Bitches](https://thehornybitches.bandcamp.com/). Pouzza's also announced a pair of reunion shows, with defunct Montreal street-punk group the [Brixton Robbers](https://brixtonrobbers.bandcamp.com/) returning to the fest (they played its second year in 2012) along with Calgary's [This Is A Standoff](https://www.facebook.com/thisisastandoff/). The latter group's original run lasted from 2007 through 2012.
 
 Pouzza will also feature US punk acts Arms Aloft, City Mouse, Mike Frazier, Sincere Engineer, A Wilhelm Scream, and War On Women. They'll be announcing one new addition per day, advent calendar style, up until Christmas. The festival will take place from May 18 to 20 in downtown Montreal.
 

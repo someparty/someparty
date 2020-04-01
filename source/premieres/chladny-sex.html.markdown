@@ -22,8 +22,7 @@ After 10 songs *The Finch Flyer* closes with "Sex," a slack-rocker that instantl
 
 I'm excited to be the first to share the "Sex" video with you today. Evan broke down the visual narrative for me:
 
-> "Watch Tobias Lopez navigate two very different relationships - a new friend and an imaginary one. Just as he's getting comfortable, his new friend disappears mysteriously. His imaginary friend (Chladny, as a dancing spaceman) guides him on a quest to find her.
-The Finch Flyer is aiming to make you laugh and cry in equal parts. It's like having a new experience with a very old friend. You can probably find a couple feelings you forgot about in this one."
+> "Watch Tobias Lopez navigate two very different relationships - a new friend and an imaginary one. Just as he's getting comfortable, his new friend disappears mysteriously. His imaginary friend (Chladny, as a dancing spaceman) guides him on a quest to find her. The Finch Flyer is aiming to make you laugh and cry in equal parts. It's like having a new experience with a very old friend. You can probably find a couple feelings you forgot about in this one."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mKO8ZDfgXtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
