@@ -67,7 +67,7 @@ If you can't make it to the west coast the records are set to ship out on Januar
 
 [Listen: Lisa Marr with the Tranzmitors - "In The Summer" / "Magic 8 Ball" @ Bandcamp](https://lisamarrwiththetranzmitors.bandcamp.com/album/in-the-summer-magic-8-ball-b-w-pretty-pictures-salvation "#")
 
-After teasing the record earlier in the fall, Montreal's punky rock'n'roll quartet [Pale Lips](https://palelips.bandcamp.com/) have unveiled the first single from *After Dark*, titled "You're a Doll." You can check the video for it below. The band's new record follows up their 2016 album *Wana Be Bad*, and the 2017 EP *Should’ve Known Better*. The group, who emerged in 2014, features guitarist Ilona Szabo, bassist Jamie Radu, drummer Lynn Poulin, and vocalist Jackie Blenkarn.
+After teasing the record earlier in the fall, Montreal's punky rock'n'roll quartet [Pale Lips](https://palelips.bandcamp.com/) have unveiled the first single from *After Dark*, titled "You're a Doll." You can check the video for it below. The band's new record follows up their 2016 album *Wanna Be Bad*, and the 2017 EP *Should’ve Known Better*. The group, who emerged in 2014, features guitarist Ilona Szabo, bassist Jamie Radu, drummer Lynn Poulin, and vocalist Jackie Blenkarn.
 
 *After Dark* arrives on January 31 through [God's Candy](https://www.godscandyrecords.com/) in Canada, [Alien Snatch!](http://www.aliensnatch.de/) in Europe, and [Spaghetty Town](https://spaghettytownrecords.bigcartel.com/) in the States. Chuck Berry licks all over this thing.
 
