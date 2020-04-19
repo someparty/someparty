@@ -8,6 +8,14 @@ body {
   margin: 0;
 }
 
+small {
+  font-size: 70%;
+}
+
+.small {
+  font-size: 80%;
+}
+
 article,
 footer,
 header {
@@ -313,6 +321,10 @@ img {
   background-color: #ff39ff;
 }
 
+.pl0 {
+  padding-left: 0;
+}
+
 .pa0 {
   padding: 0;
 }
@@ -575,10 +587,6 @@ h2 {
 
 .hr-1 {
   height: 1px;
-}
-
-small {
-  font-size: 70%;
 }
 
 .instagram-media {

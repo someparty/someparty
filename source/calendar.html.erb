@@ -1,0 +1,32 @@
+---
+layout: archive
+---
+
+<h1>Some Party archives for
+  <% case page_type
+     when 'day' %>
+    <%= Date.new(year, month, day).strftime('%b %e %Y') %>
+  <% when 'month' %>
+    <%= Date.new(year, month, 1).strftime('%b %Y') %>
+  <% when 'year' %>
+    <%= year %>
+  <% end %>
+</h1>
+
+<% if paginate && num_pages > 1 %>
+  <p>Page <%= page_number %> of <%= num_pages %></p>
+
+  <% if prev_page %>
+    <p><%= link_to 'Previous page', prev_page %></p>
+  <% end %>
+<% end %>
+
+<ul class="list pl0">
+  <% page_articles.each_with_index do |article, i| %>
+    <li class="mb4">
+      <div class="f5 center"><%= article.date.strftime('%A %B %e, %Y') %></div>
+      <div><%= link_to article.title, article, class: 'black no-underline fw4 bb b--black' %></div>
+      <div class="small maxread mt1"><%= article.data.description %></div>
+    </li>
+  <% end %>
+</ul>

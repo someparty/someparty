@@ -1,0 +1,11 @@
+<% wrap_layout :layout do %>
+  <article class="pa3 pa4-ns lh-copy f5 f4-ns">
+    <h1 class="f2 mt1 mb0 maxread center"><%= current_article.title unless current_article.nil? %></h1>
+    <%= yield %>
+  </article>
+
+  <div class="pa3-l measure-wide center">
+    <%= partial '/_partials/cta' %>
+  </div>
+
+<% end %>

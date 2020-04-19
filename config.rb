@@ -43,13 +43,13 @@ activate :blog do |blog|
 
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
-  # blog.year_link = "{year}.html"
+  blog.year_link = "{year}.html"
   # blog.month_link = "{year}/{month}.html"
   # blog.day_link = "{year}/{month}/{day}.html"
   # blog.default_extension = ".markdown"
 
-  blog.tag_template = 'tag.html'
-  # blog.calendar_template = 'calendar.html'
+  # blog.tag_template = 'tag.html'
+  blog.calendar_template = 'calendar.html'
 
   # Enable pagination
   # blog.paginate = true
@@ -59,7 +59,7 @@ activate :blog do |blog|
   blog.generate_day_pages = false
   blog.generate_month_pages = false
   blog.generate_tag_pages = false
-  blog.generate_year_pages = false
+  blog.generate_year_pages = true
 end
 
 page '/feed.xml', layout: false
