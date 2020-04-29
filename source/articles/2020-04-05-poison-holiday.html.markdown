@@ -33,7 +33,7 @@ Last week Ottawa-area singer/songwriter [Chris Page](https://chrispage.bandcamp.
 
 Page points to the [Ottawa Food Bank](https://www.ottawafoodbank.ca/donate/) and the [Parkdale Food Centre](https://parkdalefoodcentre.ca/donate-2/) in that regard. A video of Chris performing the track from his own voluntary confinement can be found on [YouTube](https://youtu.be/u4WAa2QQjKw) as well.
 
-Along with is solo ventures, Page plays these days as part of the duo [Expanda Fuzz](https://expandafuzz.bandcamp.com). That band last released *Cotton Candy Jet Engine* in 2018. He's also for his time recording as part of [Camp Radio](http://campradio.org/) and before that as a member of the 90s pop-punk group [The Stand GT](https://thestandgt.bandcamp.com/).
+Along with his solo ventures, Page plays these days as part of the duo [Expanda Fuzz](https://expandafuzz.bandcamp.com). That band last released *Cotton Candy Jet Engine* in 2018. He's also for his time recording as part of [Camp Radio](http://campradio.org/) and before that as a member of the 90s pop-punk group [The Stand GT](https://thestandgt.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=61286472/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://chrispage.bandcamp.com/track/interstellar-basement-dweller">Interstellar Basement Dweller by Chris Page</a></iframe>
 

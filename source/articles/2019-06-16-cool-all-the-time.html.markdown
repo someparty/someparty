@@ -61,7 +61,7 @@ The Burning Hell last full length was 2017's *Revival Beach*. In the spring the 
 
 Montreal punk trio [Lemongrab](https://lemon-grab.bandcamp.com/) have a video online for "Too Many Bitches," the lead track from their recent LP *It Doesn't Sound Good But It Feels Awesome*.
 
-Lemongrab's new LP's a great time, with a youthful mix of slacker rock and frantic pop-punk. [Faith Healer](https://faithhealer.bandcamp.com/) 's [Renny Wilson](http://rennywilson.com/) produced. The record features performances from vocalist Gaëlle Cordeau, guitarists Léonie Dishaw and Zale Burley, drummer Marilou Turgeon, and bassist Jérémie Cyr.
+Lemongrab's new LP's a great time, with a youthful mix of slacker rock and frantic pop-punk. [Faith Healer](https://faithhealer.bandcamp.com/)'s [Renny Wilson](http://rennywilson.com/) produced. The record features performances from vocalist Gaëlle Cordeau, guitarists Léonie Dishaw and Zale Burley, drummer Marilou Turgeon, and bassist Jérémie Cyr.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7kyOwQcX9qY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -99,7 +99,7 @@ I don't have a heck of a lot of info on the Vancouver three-piece [Pudding](http
 
 [Listen: Pudding - *Pop Over* @ Bandcamp](http://puddingvancouver.bandcamp.com/album/pop-over-2 "#")
 
-Last week Robert Ondzik released the second full length as his suave lounge-pop alter-ego [Mr. Merlot](http://mrmerlot.bandcamp.com). *City Sex Vol. 2* features a number of familiar faces from Vancouver's indie-pop world, with [Jay Arner](https://jayarner.bandcamp.com/) co-writing and producing a record that features appearances from [Destroyer](https://www.mergerecords.com/destroyer)'s Nicolas Bragg, Jessica Delisle of [Energy Slime](https://www.facebook.com/energyslime/), Adrienne Labelle from [Garbage Dreams](https://garbagedreamz.bandcamp.com)/[Supermoon](https://allmoonsaresuper.bandcamp.com/), [Role Mach](https://rolemach.bandcamp.com/) 's Rich Sexton, Thom Lougheed of [Milk](https://milkmilkmilk.bandcamp.com/)/[Watermelon](https://watermelon.bandcamp.com/), and [Tommy Tone](https://trashtronix.bandcamp.com/album/bad-to-the-tone).
+Last week Robert Ondzik released the second full length as his suave lounge-pop alter-ego [Mr. Merlot](http://mrmerlot.bandcamp.com). *City Sex Vol. 2* features a number of familiar faces from Vancouver's indie-pop world, with [Jay Arner](https://jayarner.bandcamp.com/) co-writing and producing a record that features appearances from [Destroyer](https://www.mergerecords.com/destroyer)'s Nicolas Bragg, Jessica Delisle of [Energy Slime](https://www.facebook.com/energyslime/), Adrienne Labelle from [Garbage Dreams](https://garbagedreamz.bandcamp.com)/[Supermoon](https://allmoonsaresuper.bandcamp.com/), [Role Mach](https://rolemach.bandcamp.com/)'s Rich Sexton, Thom Lougheed of [Milk](https://milkmilkmilk.bandcamp.com/)/[Watermelon](https://watermelon.bandcamp.com/), and [Tommy Tone](https://trashtronix.bandcamp.com/album/bad-to-the-tone).
 
 The wine-soaked record arrived alongside a video for the song "Catch a Feeling," directed by Kyle Bowman. It features Ondzik and members of his backing band in full Shakespearean regalia.
 

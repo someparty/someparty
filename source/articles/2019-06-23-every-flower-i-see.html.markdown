@@ -87,7 +87,7 @@ Bassist Lesley Marshall directed the clip.
 
 [Watch: Bonnie Doon - "Panty Twister" @ YouTube](https://youtu.be/qIff7lGO8Fs "#")
 
-Toronto's experimental prog-pop trio [Absolutely Free](http://absolutelyfree.ca/) has a new video online showcasing the title track of their newly released *Geneva Freeport* EP.  Directed by [Bile Sister](https://bilesister.ca/) 's Julie Reich, the clip wanders through a surreal 3D art gallery, evoking and parodying the record's namesake (a warehouse complex in Switzerland that hides away an estimated $100 billion art collection).
+Toronto's experimental prog-pop trio [Absolutely Free](http://absolutelyfree.ca/) has a new video online showcasing the title track of their newly released *Geneva Freeport* EP.  Directed by [Bile Sister](https://bilesister.ca/)'s Julie Reich, the clip wanders through a surreal 3D art gallery, evoking and parodying the record's namesake (a warehouse complex in Switzerland that hides away an estimated $100 billion art collection).
 
 The three-song EP came out last Friday on [Idée Fixe](http://ideefixerecords.com/). It features contributions from Meg Remy of [U.S. Girls](http://yousgirls.blogspot.ca/) and [Carl Didur](https://carldidur.bandcamp.com/) of the Toronto psych duo [Zacht Automaat](https://zachtautomaat.bandcamp.com/).
 
@@ -99,7 +99,7 @@ Last week Guelph-based folk singer/songwriter [Innes Wilson](https://inneswilson
 
 > "This song is really about the vastness of love and also the emptiness of loss, which was important to communicate in the music video. I've always loved old movies and TV shows that would use miniatures instead of CGI, and my good friend Ross Millar has been making brilliantly detailed Sci-fi dioramas which I've marvelled at for years. With his intricate, static scenes, he would beautifully capture the loneliness and cold emptiness of space. It came to me that this could be exactly how I could tell the story of this song in a creative way. I pitched it to Ross and he was immediately on board. We exchanged our ideas, Ross built and designed the sets and then we brought in our pal John Forbes to film it. So three old buddies, each with our respective abilities, who saw the potential to do something very cool, got together and made this project a reality."
 
-Wilson last released the *Seaview* EP in 2018, which featured music tracked at [Construction & Destruction](https://constructionanddestruction.bandcamp.com/) 's Quarantine studio with backing from members of [WHOOP-Szo](https://thenoisymountain.bandcamp.com). *The Heart That Holds This Up* was recorded with Halifax-based producer Adam Warren (Glory Glory, Pretty Normal, The Drug Rugs).
+Wilson last released the *Seaview* EP in 2018, which featured music tracked at [Construction & Destruction](https://constructionanddestruction.bandcamp.com/)'s Quarantine studio with backing from members of [WHOOP-Szo](https://thenoisymountain.bandcamp.com). *The Heart That Holds This Up* was recorded with Halifax-based producer Adam Warren (Glory Glory, Pretty Normal, The Drug Rugs).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RQNsTjpXKUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -19,7 +19,7 @@ The song's the second single release from the fast-approaching sequel to 2011's 
 
 While Jimmie's regularly released music since that fan-favourite album (most recently *Field of Trampolines* in 2016 and the first [The Heat Death](https://theheatdeath.bandcamp.com) record last year ), the new full length serves as a direct response to that the original *Transistor Sister*. Jimmie commented earlier that he intended to "recreate the immersive experience of making the original" by working with a full band in a self-contained studio session.
 
-This record features Jim Kilpatrick backed by Ryan Peters of [Ladyhawk](https://ladyhawk.bandcamp.com/), Jay Baird of [Do Make Say Think](http://domakesaythink.com/), and José Miguel Contreras of [By Divine Right](https://bydivineright.bandcamp.com/). It was recorded and produced by Contreras at The Chat Chateaux in Toronto. The album's first single "Cool All The Time," featured a guest monologue from [Chad VanGaalen](https://chadvangaalen.bandcamp.com/), with the work also featuring instrumentation from the Cons' [Steven Lambke](http://stevenlambke.com/) and [Human Music](https://humanmusic.bandcamp.com/) 's Cole Woods.
+This record features Jim Kilpatrick backed by Ryan Peters of [Ladyhawk](https://ladyhawk.bandcamp.com/), Jay Baird of [Do Make Say Think](http://domakesaythink.com/), and José Miguel Contreras of [By Divine Right](https://bydivineright.bandcamp.com/). It was recorded and produced by Contreras at The Chat Chateaux in Toronto. The album's first single "Cool All The Time," featured a guest monologue from [Chad VanGaalen](https://chadvangaalen.bandcamp.com/), with the work also featuring instrumentation from the Cons' [Steven Lambke](http://stevenlambke.com/) and [Human Music](https://humanmusic.bandcamp.com/)'s Cole Woods.
 
 <iframe src="https://open.spotify.com/embed/album/2tRbUU73ThEj2m4JxlZUNM" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -133,7 +133,7 @@ Nylon Spirit features Norman Regucera, Matt Tomasi, Noah Aviles-Betel, and Chris
 
 [Listen: Nylon Spirit - "Dumb For U" @ Bandcamp](http://nylonspirit.bandcamp.com/track/dumb-for-u "#")
 
-Following several months of previews, [Dine Alone Records](http://dinealonerecords.com/) has finally detailed the debut solo full length from [Single Mothers](https://singlemothersband.bandcamp.com/) lead Drew Thomson. [The Drew Thomson Foundation](https://drewthomson.bandcamp.com) 's debut will be self-titled and is set for a September 6 release. With the confirmation came another new single, "Phone Ring."
+Following several months of previews, [Dine Alone Records](http://dinealonerecords.com/) has finally detailed the debut solo full length from [Single Mothers](https://singlemothersband.bandcamp.com/) lead Drew Thomson. [The Drew Thomson Foundation](https://drewthomson.bandcamp.com)'s debut will be self-titled and is set for a September 6 release. With the confirmation came another new single, "Phone Ring."
 
 A complete contrast from the high-stress, often acidic punk of Single Mothers, the Foundation lets Drew show off some considerable pop songwriting chops. These two worlds aren't being kept entirely separate though, as the former's "People are Pets" has been reworked on this album as a Rufus Wainwright-styled piano ballad. Thomson worked on the record with producer Alex Newport at his Los Angeles studio (Pissed Jeans, City and Colour, Frank Turner).
 

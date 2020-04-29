@@ -65,7 +65,7 @@ Ben Cook's, of course, well known for his contributions to the heavy music world
 
 [Listen: Young Guv - "Try Not To Hang On So Hard" @ Bandcamp](https://youngguv.bandcamp.com/track/try-not-to-hang-on-so-hard "#")
 
-You can now hear the second new track from [Quasar U.K.](http://quasar-uk.bandcamp.com), the cosmic-dub side-project featuring Jon Schouten and Chris Swimmings Toronto wry-punks [Teenanger](https://teenanger.bandcamp.com/) and Dave Nardi (of [Daniel Romano](http://www.danielromanomusic.com/) 's The Outfit and [Ancient Shapes](http://ancientshapes.bandcamp.com)). The track, "Colour Jamming," appears as the b-side to "Kepler 69," the debut single that the confusingly-named band shared to Bandcamp last month.
+You can now hear the second new track from [Quasar U.K.](http://quasar-uk.bandcamp.com), the cosmic-dub side-project featuring Jon Schouten and Chris Swimmings Toronto wry-punks [Teenanger](https://teenanger.bandcamp.com/) and Dave Nardi (of [Daniel Romano](http://www.danielromanomusic.com/)'s The Outfit and [Ancient Shapes](http://ancientshapes.bandcamp.com)). The track, "Colour Jamming," appears as the b-side to "Kepler 69," the debut single that the confusingly-named band shared to Bandcamp last month.
 
 Pop back to the [mid-August](https://www.someparty.ca/2019-08-18-kepler-69/) edition of the newsletter if you want the skinny on "Kepler 69." Teenanger and Ancient Shapes are slated to hit the road together this October for a week of shows. Look for them in Toronto, Ottawa, Montreal, Sudbury, St. Catharines, and London.
 

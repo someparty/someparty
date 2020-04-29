@@ -39,7 +39,7 @@ I'm thrilled to debut a new song this week from the introspective Toronto slowco
 
 > "This song is about deeply ingrained habits or coping mechanisms catching up to you. It's about allowing yourself to get in your own way and having a lack of motivation to change."
 
-Chris features Zach Van Horne and Ryan Nara from the now-defunct Toronto post-hardcore group [Animal Faces](https://animalfaces.bandcamp.com/). Van Horne plays guitar and sings while Naray's credited on drums, keys, and clarinet. The group wrote and recorded as a duo, but will tour live as a three-piece with bassist Miranda Armstrong ([So Tired](https://sotired.bandcamp.com/), [Humanities](https://humanities.bandcamp.com/), Lilim). [Low Sun](https://low--sun.bandcamp.com/) 's Robert Johnson engineered and mixed the brunt of the new material, with mastering by Collin Young. [Baby Band](https://www.instagram.com/babybandtheband) 's Madison Stoner sang backing vocals on several of the new tracks.
+Chris features Zach Van Horne and Ryan Nara from the now-defunct Toronto post-hardcore group [Animal Faces](https://animalfaces.bandcamp.com/). Van Horne plays guitar and sings while Naray's credited on drums, keys, and clarinet. The group wrote and recorded as a duo, but will tour live as a three-piece with bassist Miranda Armstrong ([So Tired](https://sotired.bandcamp.com/), [Humanities](https://humanities.bandcamp.com/), Lilim). [Low Sun](https://low--sun.bandcamp.com/)'s Robert Johnson engineered and mixed the brunt of the new material, with mastering by Collin Young. [Baby Band](https://www.instagram.com/babybandtheband)'s Madison Stoner sang backing vocals on several of the new tracks.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/760281334&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -133,7 +133,7 @@ The set, described by Monkman as "moccasin-gaze," arrives June 19. Zoon will pla
 
 [Watch: Zoon - "Vibrant Colours" @ YouTube](https://youtu.be/10RtDVBwFRQ "#")
 
-[Dine Alone Records](http://dinealonerecords.com/) recently shared another new song from the upcoming [NOBRO](https://www.facebook.com/nobrocity/) EP. "Don't Wanna Talk About It" is, in the words of the band, "as close to a love song as we're going to get." The group co-wrote the tough, buzzing track with [METZ](http://www.metzztem.com/) 's Alex Edkins.
+[Dine Alone Records](http://dinealonerecords.com/) recently shared another new song from the upcoming [NOBRO](https://www.facebook.com/nobrocity/) EP. "Don't Wanna Talk About It" is, in the words of the band, "as close to a love song as we're going to get." The group co-wrote the tough, buzzing track with [METZ](http://www.metzztem.com/)'s Alex Edkins.
 
 Based out of Montreal, NOBRO will release *Sick Hustle* on April 3. The band features vocalist/bassist Kathryn McCaughey, guitarist Karolane Carbonneau, Lisandre Bourdages on keys and percussion, and drummer Sarah Dion.
 
