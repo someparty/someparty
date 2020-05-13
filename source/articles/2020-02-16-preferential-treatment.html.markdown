@@ -54,7 +54,7 @@ Tyler Pilling.
 
 [Listen: Spectres - "Years of Lead" @ Bandcamp](https://spectresvancouver.bandcamp.com/track/years-of-lead "#")
 
-On a similar note, Montreal's gothic EBM producer [Mikey Dagger](https://mickeydagger.bandcamp.com/) is singing in a new four-piece deathrock group dubbed [Young Blades](http://youngblades.bandcamp.com). The band features members of Droids, Fractured, and Warcrusher among their ranks. You can stream the outfit's first four songs over at Bandcamp now.
+On a similar note, Montreal's gothic EBM producer [Mickey Dagger](https://mickeydagger.bandcamp.com/) is singing in a new four-piece deathrock group dubbed [Young Blades](http://youngblades.bandcamp.com). The band features members of Droids, Fractured, and Warcrusher among their ranks. You can stream the outfit's first four songs over at Bandcamp now.
 
 Dagger, the alter ego of Taylor "Hoodlum" Stevenson, last released a synth-heavy EP titled *Street Survival* in 2019.
 
