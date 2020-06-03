@@ -63,7 +63,7 @@ KINGS recorded the new track from their home base of Renfrew County, Ontario. It
 
 [Listen: KINGS - "Black Highway Hymn" @ Bandcamp](http://kings.bandcamp.com/track/black-highway-hymn "#")
 
-"In a Waiting Room" is the new single from [Commuted](https://www.facebook.com/Commuted/), David Eatock's eclectic Toronto-based post-punk project. The song serves as the title track to an upcoming 10-song full-length, now due January 30 after a delay this past fall. Eatock commented that the song's about "losing someone and the process of moving on," further elaborating in a comment on Facebook:
+"In a Waiting Room" is the new single from [Commuted](https://commuted.bandcamp.com/), David Eatock's eclectic Toronto-based post-punk project. The song serves as the title track to an upcoming 10-song full-length, now due January 30 after a delay this past fall. Eatock commented that the song's about "losing someone and the process of moving on," further elaborating in a comment on Facebook:
 
 > "I wrote this through late-night sessions watching *PS I Love You* with a box of tissues and a tub of ice cream. I hope it gives you the heebie jeebies."
 

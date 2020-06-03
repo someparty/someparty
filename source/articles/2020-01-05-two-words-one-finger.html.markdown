@@ -2,7 +2,7 @@
 title: Two Words One Finger
 date: 2020-01-05
 author: adam@someparty.ca (Adam White)
-description: News from Conditions Apply, Booji Boys, Sitting On The Outside, Fragment, Diamondtown, Merc & The Montclairs, Tough Age, lié, Faith Healer, Warp Lines, Hard Charger, UUBBUURRUU, Kiwi Jr., WLMRT
+description: News from Conditions Apply, Booji Boys, Sitting On The Outside, Fragment, Diamondtown, Merc & The Montclairs, The World Health Organization, Tough Age, lié, Faith Healer, Warp Lines, Hard Charger, UUBBUURRUU, Kiwi Jr., WLMRT
 ---
 
 It feels like I've been waiting months to finally hear something from [Conditions Apply](http://conditionsapplymtl.bandcamp.com), and the Montreal group doesn't disappoint on their first three-song demo. The quartet features former members of the now-inactive [Mental Fix](https://mentalfix.bandcamp.com/), a group who once billed themselves as something akin to the greatest East Bay punk band that just happens to hail from la métropole. Conditions Apply sounds a tad harder-edged than their predecessor, trading some of that Gilman Street snot for classic hardcore aggression. Along with Mental Fix, branches on the Conditions Apply family tree include [Ballast](https://inimical.bandcamp.com/album/ballast-fuse), [Whiskey Trench](https://kissofdeathrecords.bandcamp.com/album/whiskey-trench-television-lp-cd), [...And The Saga Continues](https://andthesagacontinues.bandcamp.com), and All The Answers.

@@ -51,7 +51,7 @@ High Home previously recorded as The Bryan Adams. While it's understandable that
 
 [Listen: High Home - *Teenage Summer* @ Bandcamp](http://highhome.bandcamp.com/album/teenage-summer "#")
 
-[Commuted](https://www.facebook.com/Commuted/), the eclectic Toronto-based post-punk/electronic/shoegaze venture of musician David Eatock has returned with a new record planned for the summer titled *Dancefloor Therapy*. The artist made the announcement alongside a music video for the gloriously aggressive new song "Take a Picture With Me," which features guest vocals from [WLMRT](https://wlmrt.bandcamp.com/) screamer Shelby Wilson.
+[Commuted](https://commuted.bandcamp.com/), the eclectic Toronto-based post-punk/electronic/shoegaze venture of musician David Eatock has returned with a new record planned for the summer titled *Dancefloor Therapy*. The artist made the announcement alongside a music video for the gloriously aggressive new song "Take a Picture With Me," which features guest vocals from [WLMRT](https://wlmrt.bandcamp.com/) screamer Shelby Wilson.
 
 Given how Commuted's past work (some of which is archived as [Remember Where You Came From](https://rwycf.bandcamp.com/) at Bandcamp) is pretty far out from this sound, your guess is as good as mine on what the new work will sound like. This anarchic video's super fun in any case.
 

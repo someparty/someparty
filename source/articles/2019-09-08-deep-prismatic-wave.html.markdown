@@ -91,7 +91,7 @@ The Penske File features guitarist/vocalist Travis Miles, drummer Alex Standen, 
 
 [Listen: The Penske File - "Copper Sky" @ Bandcamp](http://thepenskefileband.bandcamp.com/track/copper-sky "#")
 
-Toronto's eclectic electronic/post-punk project [Commuted](https://www.facebook.com/Commuted/) has a new single and video titled "Life's a Zoo." This is one of those clips that gets aggressively weirder as it progresses, and I'd be remiss to spoil any of it with for you. There may be some fun choreography in that New Pornographers clip I mentioned earlier, but it's not going to haunt your dreams like this one. Just look into the eyes of that eagle. The "Life's a Zoo" video was created by Ryan Hage of [Thank You So Much](https://www.youtube.com/channel/UC5xL1xwdEiSlyZl5LqnNddA).
+Toronto's eclectic electronic/post-punk project [Commuted](https://commuted.bandcamp.com/) has a new single and video titled "Life's a Zoo." This is one of those clips that gets aggressively weirder as it progresses, and I'd be remiss to spoil any of it with for you. There may be some fun choreography in that New Pornographers clip I mentioned earlier, but it's not going to haunt your dreams like this one. Just look into the eyes of that eagle. The "Life's a Zoo" video was created by Ryan Hage of [Thank You So Much](https://www.youtube.com/channel/UC5xL1xwdEiSlyZl5LqnNddA).
 
 "Life's a Zoo" is due for a 10-track full-length titled *In a Waiting Room*, set to arrive on October 31. Commuted brainchild David Eatock commented on the record at Bandcamp:
 
