@@ -1,11 +1,12 @@
 ---
 title: "Some Kicks"
 layout: page
-description: Track listing for Some Party's Some Kicks show on the pandemic pirate radio station Nowhere.fm
+description: Track listing for Some Party's Some Kicks show on the pandemic pirate radio station Nowhere
 ---
 
-For a few months during the COVID-19 pandemic the online pirate radio station [Nowhere.fm](https://www.nowherefm.net/) broadcast a diverse array of programming. Some Party contributed a music program to the mix titled Some Kicks. The songs played on the show are listed below, along with links to their respective Bandcamp pages.
+For a few months during the COVID-19 pandemic, the online pirate radio station [Nowhere](https://www.nowherefm.net/) broadcast a diverse array of programming. Some Party contributed a music program to the mix titled Some Kicks. The songs played on the show are listed below, along with links to their respective Bandcamp pages.
 
+<a name="episode1"></a>
 ##Episode 1
 
 Antibodies - "Firing Squad"
@@ -35,6 +36,7 @@ Construction & Destruction with Steven Lambke - "Full Throttle "
 Les Fucking Raymonds - "Franky dit"
 <small><br/>Montreal, QC - [Bandcamp](https://lesfuckingraymonds.bandcamp.com/)</small>
 
+<a name="episode2"></a>
 ##Episode 2
 
 Scheme - "No World Order"
@@ -73,6 +75,7 @@ Necking - "Spare Me"
 Vanity Phase - "Walking Around"
 <small><br/>Toronto, ON - [Bandcamp](https://vanityphase.bandcamp.com)</small>
 
+<a name="episode3"></a>
 ##Episode 3
 
 Dogma - "A New World"
@@ -111,6 +114,7 @@ Piper Maru - "Control"
 The World Health Organization - "Out For a Rip"
 <small><br/>Montreal, QC - [Bandcamp](https://theworldhealthorganization.bandcamp.com)</small>
 
+<a name="episode4"></a>
 ##Episode 4
 
 Burner - "Love City"
@@ -137,7 +141,7 @@ JayWood - "Another Life"
 Weaves - "Shithole"
 <small><br/>Toronto, ON - [Bandcamp](https://weaves.bandcamp.com)</small>
 
-Cold Specs - "Void"
+Cold Specks - "Void"
 <small><br/>Toronto, ON - [Bandcamp](https://coldspecks.bandcamp.com/)</small>
 
 The OBGMs - "Torpedo"
