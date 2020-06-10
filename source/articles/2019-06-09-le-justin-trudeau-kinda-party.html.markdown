@@ -61,7 +61,7 @@ Chances are Aaron Goldstein's hiding in the liner notes of more than a few album
 
 [Listen: Espanola - "A Lesson" @ Bandcamp](https://espanola.bandcamp.com/track/a-lesson "#")
 
-Dundas, Ontario maximalists [The Dirty Nil](https://www.facebook.com/thedirtynil/) released a previously unheard track from the *Master Volume* sessions last week, titled "Astro Ever After." The band commented that it's far from a leftover:
+Dundas, Ontario maximalists [The Dirty Nil](https://thedirtynil.bandcamp.com/) released a previously unheard track from the *Master Volume* sessions last week, titled "Astro Ever After." The band commented that it's far from a leftover:
 
 >"'Astro Ever After' is by no means an out-take from Master Volume. It's an accompanying track that we chose to release after the bulk of the material simply because we can. Out of all the songs we recorded during the *Master Volume* sessions, this is certainly one of our favourites. For anyone with a space lust, and for those who appreciate the beauty and brevity of life, the majesty of the sky, and the sludge of stoner metal: this one's for you. Please friends, crank and enjoy.
 

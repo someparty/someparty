@@ -61,7 +61,7 @@ The Courtneys) mastering. Thanks to Mac Cameron at [Dominionated](http://dominio
 
 [Listen: Fine - *Thanks for Asking* @ Bandcamp](http://fiiiine.bandcamp.com/album/thanks-for-asking "#")
 
-Dundas, Ontario's [The Dirty Nil](https://www.facebook.com/thedirtynil/) posted a live session recorded at Tape studio in Hamilton. It features the band performing "Pain of Infinity," the latest single from their upcoming record *Master Volume*. Tape's a notable location in the history of this record, as the band demoed every new song there before recording.
+Dundas, Ontario's [The Dirty Nil](https://thedirtynil.bandcamp.com/) posted a live session recorded at Tape studio in Hamilton. It features the band performing "Pain of Infinity," the latest single from their upcoming record *Master Volume*. Tape's a notable location in the history of this record, as the band demoed every new song there before recording.
 
 The Dirty Nil are now well into the hype cycle for their upcoming record. *Master Volume* will arrive on September 14 through [Dine Alone Records](http://dinealonerecords.com/). It follows up 2016's *Higher Power*.
 

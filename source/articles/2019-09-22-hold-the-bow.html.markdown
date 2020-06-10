@@ -124,7 +124,7 @@ Elephant Stone last released *Ship of Fools* in 2016, with the follow-up due som
 
 [Watch: Elephant Stone - "Land of Dead" @ YouTube](https://youtu.be/ApVOFmqpnNM "#")
 
-Dundas, Ontario power-trio [The Dirty Nil](https://www.facebook.com/thedirtynil/) recently announced their [fall tour](https://thedirtynil.com/shows), pairing the reveal with a new single titled "Idiot Victory." Like their summer-released "Astro Ever After," the track comes from the sessions for 2018's *Master Volume*, with both tracks appearing as part of an expanded edition of that record (at least on streaming services, the yellow cover variant available through Dine Alone instead comes with a second platter of demos).
+Dundas, Ontario power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) recently announced their [fall tour](https://thedirtynil.com/shows), pairing the reveal with a new single titled "Idiot Victory." Like their summer-released "Astro Ever After," the track comes from the sessions for 2018's *Master Volume*, with both tracks appearing as part of an expanded edition of that record (at least on streaming services, the yellow cover variant available through Dine Alone instead comes with a second platter of demos).
 
 Frontman Luke Bentham commented on the new track in a press release:
 

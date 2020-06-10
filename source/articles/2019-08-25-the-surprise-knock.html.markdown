@@ -87,7 +87,7 @@ Matthew Barnhart remastered the songs comprising *Automat* at the Chicago Master
 
 [Watch: METZ - "M.E." @ YouTube](https://youtu.be/rmdQa9MamAc "#")
 
-Speaking of covers, last week Dundas, Ontario power-trio [The Dirty Nil](https://www.facebook.com/thedirtynil/) shared the final chapter in their *You're Welcome* series. Volume four of the set finds the trio tackling Big Star's 1974 single "September Gurls" (entirely fitting for a band that so clearly worships Alex Chilton). It's paired with a thunderous take on "Without You," the Badfinger-penned classic that became massive a massive hit for Harry Neilson in 1972 (and again for Mariah Carey in 1994).
+Speaking of covers, last week Dundas, Ontario power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) shared the final chapter in their *You're Welcome* series. Volume four of the set finds the trio tackling Big Star's 1974 single "September Gurls" (entirely fitting for a band that so clearly worships Alex Chilton). It's paired with a thunderous take on "Without You," the Badfinger-penned classic that became massive a massive hit for Harry Neilson in 1972 (and again for Mariah Carey in 1994).
 
 The prior installments of the series featured charged up takes on Van Halen, April Wine, Culture Abuse, The Jesus and Mary Chain, David Bowie, and The Who. Frontman Luke Bentham boasted in the latest press release:
 

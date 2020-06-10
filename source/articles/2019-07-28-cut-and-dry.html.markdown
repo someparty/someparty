@@ -121,7 +121,7 @@ Justis Krar's [IMMV Productions](https://www.immvproductions.com/) put together 
 
 Speaking of...
 
-Dundas power-trio [The Dirty Nil](https://www.facebook.com/thedirtynil/) recently released the third chapter in their ongoing summer covers series, *You're Welcome*. Volume three finds the band fearlessly tackling the classics, with new takes on David Bowie's "Queen Bitch" and The Who's "The Kids are Alright." The prior installments of the series featured charged up takes on Van Halen, April Wine, Culture Abuse, and The Jesus and Mary Chain. Frontman Luke Bentham boasted with typical aplomb:
+Dundas power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) recently released the third chapter in their ongoing summer covers series, *You're Welcome*. Volume three finds the band fearlessly tackling the classics, with new takes on David Bowie's "Queen Bitch" and The Who's "The Kids are Alright." The prior installments of the series featured charged up takes on Van Halen, April Wine, Culture Abuse, and The Jesus and Mary Chain. Frontman Luke Bentham boasted with typical aplomb:
 
 > "It gives us great pleasure to reintroduce these songs to the world, at the volume they were meant to be heard."
 

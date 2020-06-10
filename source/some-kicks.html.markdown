@@ -126,7 +126,7 @@ Lido Pimienta - "Resisto Y Ya"
 Lucila Al Mar - "Protest"
 <small><br/>Ottawa, ON - [Website](https://lucilaalmar.com/)</small>
 
-Yves Jarvais - "That Don't Make It So"
+Yves Jarvis - "That Don't Make It So"
 <small><br/>Montreal, QC - [Bandcamp](https://yvesjarvis.bandcamp.com)</small>
 
 Joncro - "Juez Judy"

@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: 10 years of Attack In Black's "Marriage." New music from Sore Points, Elliott BROOD, Fake Palms.
 ---
 
-Tomorrow (July 31st) marks the 10 year anniversary of the release of [Attack In Black](https://www.facebook.com/attackinblack/)'s first LP *Marriage*. If you're of a certain age and happen to take part in the southern Ontario music scene, this was a record that had seismic impact. Living in the Niagara region it certainly feels that way. The stories and struggles surrounding this release are a pretty essential part of the scene lore around here.
+Tomorrow (July 31st) marks the 10 year anniversary of the release of [Attack In Black](https://attackinblack.bandcamp.com/)'s first LP *Marriage*. If you're of a certain age and happen to take part in the southern Ontario music scene, this was a record that had seismic impact. Living in the Niagara region it certainly feels that way. The stories and struggles surrounding this release are a pretty essential part of the scene lore around here.
 
 Despite its influence it's odd to think nostalgically about this album, particularly because the four members of the band have themselves moved (both collectively and as solo artists) so aggressively away from this sound. One never got the impression that *Marriage*, ostensibly a pop-punk record with a few potentially radio-friendly singles, ever sat comfortably with the group. It was only four months before the folky, eclectic, low-fi follow up *The Curve of the Earth* was released, and it's that record, not so much *Marriage*, that foreshadowed the last 10 years of Daniel Romano, Spencer Burton, Ian Kehoe, and Ian Romano's musical output.
 

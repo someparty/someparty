@@ -116,7 +116,7 @@ Petro Rabbits released an EP of basement-recorded fuzz a year ago on the Istanbu
 
 [Spencer Burton](https://www.spencerburtonmusic.com/) recently shared a short documentary-style video titled "Here in a Small Town." In it, director Ben Burns profiles the rural lifestyle that Burton's carving out for his family in the Niagara region.
 
-Spencer first came to prominence as a member of the much-loved Welland pop-punk band [Attack In Black](https://www.facebook.com/attackinblack/). His most recent release was *The Mountain Man*, an album of children's songs, which was preceded by the country/folk work *Songs Of* on [Dine Alone Records](http://dinealonerecords.com/).
+Spencer first came to prominence as a member of the much-loved Welland pop-punk band [Attack In Black](https://attackinblack.bandcamp.com/). His most recent release was *The Mountain Man*, an album of children's songs, which was preceded by the country/folk work *Songs Of* on [Dine Alone Records](http://dinealonerecords.com/).
 
 It makes me happy to think that, however crazy the world gets, somewhere a short drive from my doorstep Spencer Burton's sitting in an old barn guietly playing his guitar while surrounded by [Muscovy ducks](https://www.instagram.com/p/B7Rd7NVgoQg/).
 

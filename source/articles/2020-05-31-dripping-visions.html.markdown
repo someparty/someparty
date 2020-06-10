@@ -89,7 +89,7 @@ The band's new 12-song full-length, their eighth overall, arrived in April. Whil
 
 [Watch: The Pack a.d. - "Give Up" @ YouTube](https://youtu.be/DTIUKpLPCIs "#")
 
-Dundas power-trio [The Dirty Nil](https://www.facebook.com/thedirtynil/) are gearing up for a limited online release of their concert film *Live At The Opera House*. The movie will appear online later this week in two 24-hour engagements, one starting June 5 at 7 PM EST on Facebook, then moving to YouTube on June 6 at 7 PM EST. Once the weekend's through, the footage will be pulled offline and thrown into the Nil's equivalent of the Disney vault, so set your calendars. This footage was shot on December 1, 2018, in Toronto, with support from The Drew Thomson Foundation and Dead Soft. You can check out a trailer below.
+Dundas power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) are gearing up for a limited online release of their concert film *Live At The Opera House*. The movie will appear online later this week in two 24-hour engagements, one starting June 5 at 7 PM EST on Facebook, then moving to YouTube on June 6 at 7 PM EST. Once the weekend's through, the footage will be pulled offline and thrown into the Nil's equivalent of the Disney vault, so set your calendars. This footage was shot on December 1, 2018, in Toronto, with support from The Drew Thomson Foundation and Dead Soft. You can check out a trailer below.
 
 The Nil was vying for *Rock Album of the Year* at the [Juno Awards](https://junoawards.ca/) before everything went sideways. They earned the nomination for *Master Volume*, their sophomore [Dine Alone Records](http://dinealonerecords.com/) LP.
 

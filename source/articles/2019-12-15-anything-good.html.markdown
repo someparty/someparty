@@ -119,7 +119,7 @@ You can stream the episode from the [CBC](https://www.cbc.ca/listen/live-radio/1
 
 ##Cancon Holiday Nonsense
 
-Dundas power-trio [The Dirty Nil](https://www.facebook.com/thedirtynil/) have been performing "Christmas At My House" for years now, with a few high profile renditions available in the video archives of the Strombo Show and Toronto rock station 102.1 the Edge. This season the song's resurfaced right on schedule, this time as a charged up studio rendition.
+Dundas power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) have been performing "Christmas At My House" for years now, with a few high profile renditions available in the video archives of the Strombo Show and Toronto rock station 102.1 the Edge. This season the song's resurfaced right on schedule, this time as a charged up studio rendition.
 
 Guitarist/vocalist Luke Bentham commented:
 

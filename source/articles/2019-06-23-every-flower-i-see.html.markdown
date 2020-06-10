@@ -45,7 +45,7 @@ Nyssa's among the performers slated to play Sackville, New Brunswick's [SappyFes
 
 Sappy boasts a sizable slate of Polaris long-listers among its lineup this year. Last week the 40 records vying for the 2019 [Polaris Music Prize](https://polarismusicprize.ca/) were announced at a ceremony at The Forks in Winnipeg. Sappy's share of the list includes the Haisla Nation hip-hop duo [Snotty Nose Rez Kids](https://snottynoserezkids.com/), Brampton rapper [Haviah Mighty](https://haviahmighty.ca/), former Hey Rosetta! lead [Tim Baker](https://timbaker.net/), Toronto house music collective [LAL](https://lalforest.bandcamp.com/), Montreal's soulful home-recording savant [Yves Jarvis](https://www.yvesjarvis.com/), and the Hull-based punk-jazz group [FET.NAT](https://fetnat.bandcamp.com).
 
-A few punky Some Party favourites made the cut this year as well, with the latest from [Dilly Dally](https://dillydally.bandcamp.com/), [The Dirty Nil](https://www.facebook.com/thedirtynil/), [PUP](http://www.puptheband.com/), and [Fucked Up](http://fuckedup.cc/) all represented. You can find the full list at the event's website.
+A few punky Some Party favourites made the cut this year as well, with the latest from [Dilly Dally](https://dillydally.bandcamp.com/), [The Dirty Nil](https://thedirtynil.bandcamp.com/), [PUP](http://www.puptheband.com/), and [Fucked Up](http://fuckedup.cc/) all represented. You can find the full list at the event's website.
 
 In total, the Long List was chosen from 233 albums nominated by a 199 member jury of if journalists, broadcasters, bloggers, and programmers from across Canada (of which I am one, at least until someone comes to realize I don't belong there).
 

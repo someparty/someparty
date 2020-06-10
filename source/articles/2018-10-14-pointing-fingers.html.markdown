@@ -51,7 +51,7 @@ Flesh Rag features vocalist/guitarist Matthew Ellis, drummer Nathan Burger, and 
 
 [Watch: Flesh Rag - "In Another Dimension" @ YouTube](https://youtu.be/77Pj1KlOdNU "#")
 
-Dundas, Ontario rock maximalists [The Dirty Nil](https://www.facebook.com/thedirtynil/) have a new video online for "That's What Heaven Feels Like," the lead track from their recent sophomore LP *Master Volume*. You can check out the clip, directed by Mitch Barnes and Victor Malang, below. This is probably only of interest to me, but the video was shot at a campground and RV park outside of St. Catharines. And yes, that's Single Mothers' Drew Thomson drowning the band at the start of the clip.
+Dundas, Ontario rock maximalists [The Dirty Nil](https://thedirtynil.bandcamp.com/) have a new video online for "That's What Heaven Feels Like," the lead track from their recent sophomore LP *Master Volume*. You can check out the clip, directed by Mitch Barnes and Victor Malang, below. This is probably only of interest to me, but the video was shot at a campground and RV park outside of St. Catharines. And yes, that's Single Mothers' Drew Thomson drowning the band at the start of the clip.
 
 *Master Volume* is the band's second LP of new material for [Dine Alone Records](http://dinealonerecords.com/) following 2016's *Higher Power* and the early singles collection *Minimum R&B*.
 

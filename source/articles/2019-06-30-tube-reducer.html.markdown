@@ -139,7 +139,7 @@ Wine Lips, which features Hilborn with drummer Aurora Evans and bassist Bryan Co
 
 [Watch: Wine Lips - "Fly Swatter" @ YouTube](https://youtu.be/nVwy77_GOy8 "#")
 
-Dundas, Ontario power-trio [The Dirty Nil](https://www.facebook.com/thedirtynil/) have continued with their summer covers series, releasing the second pair of *You're Welcome* tracks into the wild. This time out the band included covers of Van Halen's '81 single "Unchained" and April Wine's CanCon radio staple "Oowatanite." The first volume in this series, released in late April, featured the band's take on songs by contemporary San Francisco punk band Culture Abuse and Scottish alternative legends The Jesus and Mary Chain. That April Wine cover originally surfaced as the b-side to their "That's What Heaven Feels Like" 7".
+Dundas, Ontario power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) have continued with their summer covers series, releasing the second pair of *You're Welcome* tracks into the wild. This time out the band included covers of Van Halen's '81 single "Unchained" and April Wine's CanCon radio staple "Oowatanite." The first volume in this series, released in late April, featured the band's take on songs by contemporary San Francisco punk band Culture Abuse and Scottish alternative legends The Jesus and Mary Chain. That April Wine cover originally surfaced as the b-side to their "That's What Heaven Feels Like" 7".
 
 The Dirty Nil's spent much of the last year on the road supporting *Master Volume*, their second LP of new material for [Dine Alone Records](http://dinealonerecords.com/) following 2016's *Higher Power*. The 2018-released album just landed on the Polaris Music Prize long list.
 
