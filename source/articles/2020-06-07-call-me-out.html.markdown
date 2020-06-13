@@ -2,7 +2,7 @@
 title: Call Me Out
 date: 2020-06-07
 author: adam@someparty.ca (Adam White)
-description: New music from Constantines, Northern Primitive, The OBGMs, JONCRO, Aquakultre, Faze, MVLL CRIMES, Little Kid, Single Mothers, Bitter Fictions, Matt Ellis, The Fucking Astronauts, The Band Whose Name Is A Symbol, Guilhem & Mudie, Chain Whip
+description: New music from Constantines, Northern Primitive, The OBGMs, JONCRO, Aquakultre, Faze, MVLL CRIMES, Little Kid, Single Mothers, Bitter Fictions, Matt Ellis, The Fuckin Astronauts, The Band Whose Name Is A Symbol, Guilhem & Mudie, Chain Whip
 ---
 
 The [Constantines](https://theconstantines.wordpress.com/) made a surprise, and intentionally lower-key, return this week with their first new studio track since 2008's *Kensington Heights*. The beloved Guelph-bred indie rock group shared the song "Call Me Out" on Bandcamp Tuesday morning to raise funds for both [Black Lives Matter Toronto](https://blacklivesmatter.ca/) and the [Unist' ot' en Camp Legal Fund for Land Defenders](http://unistoten.camp/support-us/donate/). The band commented:
@@ -49,7 +49,7 @@ JONCRO features guitarist/vocalist Daniel G. Wilson backed by bassist Kieran Chr
 
 [Listen: JONCRO - "Wise River" @ Bandcamp](https://joncro.bandcamp.com/track/wise-river "#")
 
-The celebrated Halifax neo-soul group [Aquakultre](https://aquakultre.bandcamp.com/) released a pair of benefit singles last Friday. "Back In Time" is a collaboration with singer [Yohvn Blvck](https://soundcloud.com/theyohanblack), featuring synth from [Special Costello](https://specialcostello.bandcamp.com/)'s Jeremy Costello and [Chudi Harris](https://chudiharris.bandcamp.com/) on guitar. "Garden" meanwhile features Nick Dourado ([Budi](https://budi.bandcamp.com/)) on saxophone. Proceeds from the "Back In Time" are for [The Black Power Hour](https://www.ckdu.ca/shows/227): a [CKDU](https://www.ckdu.ca) radio show described as "a communication lifeline for incarcerated folks." "Garden" meanwhile benefits the community-led Canadian charity [The Black Health Alliance](http://blackhealthalliance.ca/). You can find both at Bandcamp.
+The celebrated Halifax neo-soul group [Aquakultre](https://aquakultre.bandcamp.com/) released a pair of benefit singles last Friday. "Back In Time" is a collaboration with singer [Yohvn Blvck](https://soundcloud.com/theyohanblack), featuring synth from [Special Costello](https://specialcostello.bandcamp.com/)'s Jeremy Costello and [Chudi Harris](https://chudiharris.bandcamp.com/) on guitar (he contributes some vocals to the song's third verse as well). "Garden" meanwhile features Nick Dourado ([Budi](https://budi.bandcamp.com/)) on saxophone. Proceeds from the "Back In Time" are for [The Black Power Hour](https://www.ckdu.ca/shows/227): a [CKDU](https://www.ckdu.ca) radio show described as "a communication lifeline for incarcerated folks." "Garden" meanwhile benefits the community-led Canadian charity [The Black Health Alliance](http://blackhealthalliance.ca/). You can find both at Bandcamp.
 
 Aquakultre, lead by vocalist Lance Sampson, released their fantastic debut full-length *Legacy* last month.
 
@@ -77,7 +77,7 @@ MVLL CRIMES features vocalist Jill Clair, guitarist Patrick Briggs, drummer Nath
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eKJn4TSH44k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Listen: MVLL CRIMES - "Don't Be A Cop (Live)" @ Bandcamp](https://youtu.be/eKJn4TSH44k "#")
+[Watch: MVLL CRIMES - "Don't Be A Cop (Live)" @ YouTube](https://youtu.be/eKJn4TSH44k "#")
 
 Toronto folk-rockers [Little Kid](https://littlekid.bandcamp.com/) shared several new recordings this past week, including another preview of their upcoming [Solitaire](https://www.solitairerecordings.com) debut *Transfiguration Highway*. From that LP, the band unveiled "All Night (Golden Ring)," a duet between the band's Kenny Boothby and Megan Lunn inspired by *Golden Ring*, a 1976 album from country legends George Jones and Tammy Wynette. That record has something of a dark history which informs Little Kid song. *Golden Ring* was released (and became a hit) after the couple's bitter, public divorce (with serious allegations of abuse levelled at Jones). Commercial demands forced the couple to appear together in support of the record, despite the acrimony. Boothby reflected on the tale in a press release:
 
@@ -129,7 +129,7 @@ The Friend Ship Committee organized 2019's Friend Ship cruise, a show hosted on 
 
 [Listen: *Friend Ship From Home Vol. 3* @ Bandcamp](http://friendshipcommittee.bandcamp.com/album/friend-ship-from-home-vol-3-blm-fundraiser "#")
 
-I was instantly taken by a buzzing synth-punk track on the previous *Friend Ship* compilation by [The Fucking Astronauts](https://thefuckinastronauts.bandcamp.com), and that song now has a second lease on life. The duo's "The Man From an Unknown Time" was recently remastered by [Roy](https://thesoundofroy.bandcamp.com) and shared on Bandcamp last Friday.
+I was instantly taken by a buzzing synth-punk track on the previous *Friend Ship* compilation by [The Fuckin Astronauts](https://thefuckinastronauts.bandcamp.com), and that song now has a second lease on life. The duo's "The Man From an Unknown Time" was recently remastered by [Roy](https://thesoundofroy.bandcamp.com) and shared on Bandcamp last Friday.
 
 If you're a fan of Michigan punk weirdos The Spits, this should be right up your alley.
 

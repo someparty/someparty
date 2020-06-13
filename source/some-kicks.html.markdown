@@ -152,3 +152,51 @@ Poolblood - "I'm Sorry"
 
 Witch Prophet - "Makda"
 <small><br/>Toronto, ON - [Bandcamp](https://witchprophet.bandcamp.com)</small>
+
+<a name="episode5"></a>
+##Episode 5
+
+Word On The Street - "Controlled" / "Around My Neck"
+<small><br/>Halifax, ON - [Bandcamp](https://wordonthestreet.bandcamp.com)</small>
+
+Bruce Peninsula - "Summertime"
+<small><br/>Toronto, ON - [Bandcamp](https://brucepeninsula.bandcamp.com)</small>
+
+Peace For Bombs - "I'm Down"
+<small><br/>Lethbridge, AB - [Bandcamp](https://peaceforbombs.bandcamp.com)</small>
+
+COMMUTED - "Life's a Zoo"
+<small><br/>Toronto, ON - [Bandcamp](https://commuted.bandcamp.com)</small>
+
+Matt Ellis - "D.M.T. Is Good For Me"
+<small><br/>Hamilton, ON - [Bandcamp](https://mattellis333.bandcamp.com)</small>
+
+Astral Gunk - "Egoismo"
+<small><br/>Sackville, NB - [Bandcamp](https://astralgunk.bandcamp.com)</small>
+
+Yess Woah - "Polyester Sometimes"
+<small><br/>London, ON - [Bandcamp](https://yesswoah.bandcamp.com)</small>
+
+Pacer - "Everlaster"
+<small><br/>Toronto, ON - [Bandcamp](https://pacerto.bandcamp.com)</small>
+
+Souvevnir - "Meter"
+<small><br/>Halifax, NS - [Bandcamp](https://souvenirhfx.bandcamp.com)</small>
+
+Pale Lips - "That Old Ghost Don't Lie"
+<small><br/>Montreal, QC - [Bandcamp](https://palelips.bandcamp.com)</small>
+
+The Fuckin Astronauts - "The Man From An Unknown Time"
+<small><br/>Toronto, ON - [Bandcamp](https://thefuckinastronauts.bandcamp.com)</small>
+
+Lungbutter - "Flat White"
+<small><br/>Montreal, QC - [Bandcamp](https://lungbuttermtl.bandcamp.com)</small>
+
+Tommy Tone - "A Dog's Dream"
+<small><br/>Vancouver, BC - [Bandcamp](https://trashtronix.bandcamp.com)</small>
+
+Shelley - "Hey Idiot"
+<small><br/>Halifax, NS - [Bandcamp](https://shelley.bandcamp.com)</small>
+
+Slow Dawn - "Where The Wind Goes"
+<small><br/>Ottawa, ON - [Bandcamp](https://slowdawn0.bandcamp.com)</small>
