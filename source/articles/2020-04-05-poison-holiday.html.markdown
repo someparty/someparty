@@ -59,13 +59,13 @@ Now located in Toronto, Fahner was last seen fronting the power-pop trio [Motori
 
 [Listen: Feel Alright - "Coming True" / "In Your Eyes" @ Bandcamp](http://feelalright.bandcamp.com/album/coming-true-in-your-eyes "#")
 
-Denholm Whale, the Toronto concert promoter and founding member of the provocative industrial/electronic act [Odonis Odonis](http://www.odonisodonis.com/), recently shared his first pair of quarantine demos. You can check "Gun Club" and "Sis" online at Bandcamp now.
+Denholm Whale, the Toronto concert promoter and founding member of the provocative industrial/electronic act [Odonis Odonis](http://www.odonisodonis.com/), recently shared his first pair of quarantine demos as [Scratch](https://scratch.bandcamp.com/). You can check "Gun Club" and "Sis" online at Bandcamp now.
 
 Odonis Odonis last released the [Felte](http://www.felte.net) EP *Reaction* in 2019, preceded by the full-length *No Pop* in 2017. Whale books both The Garrison and The Baby G, which are venues you may remember from back in the days when we could safely congregate.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=913154483/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://scratch.bandcamp.com/album/march-2020">March 2020 by Scratch</a></iframe>
 
-[Listen: Denholm Whale - *March 2020* @ Bandcamp](http://scratch.bandcamp.com/album/march-2020 "#")
+[Listen: Scratch - *March 2020* @ Bandcamp](http://scratch.bandcamp.com/album/march-2020 "#")
 
 With the quirky post-punk dance-pop of "(Don't Break My) Devotion," it's safe to say that [Jade Hairpins](https://jadehairpins.bandcamp.com/) has firmly established themselves as a starkly distinct entity from [Fucked Up](http://fuckedup.cc/). The synthpop group is the new vehicle for Jonah Falco and Mike Haliechuk of the renowned Toronto hardcore band, performing here with the UK's Tamsin M Leach and Jack Goldstein rounding out their quartet. The band's releasing a 10-song full-length on [Merge Records](https://www.mergerecords.com/) this May. Look for *Harmony Avenue* on the 29th.
 

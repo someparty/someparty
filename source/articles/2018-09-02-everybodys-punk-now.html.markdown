@@ -43,7 +43,7 @@ While the band hasn't yet released any new studio recordings from *New Pleasures
 
 [Listen: PRIORS - "New Pleasure" (live) @ YouTube](https://youtu.be/f2t5UuQBULs "#")
 
-Speaking of [The Famines](https://thefamines.bandcamp.com/), the Montreal art/noise duo is collecting the five non-album singles they released between June of 2014 and March of 2017. *The Complete Collected Singles 2014-2017* will include "The State of Music," "Stay Home Club," "Mdme. Pauline," "The Second World War," and "Who Wants Disarmament?" All five tracks were recorded, mixed, and mastered at Montreal's [Drones Club Recording](https://dronesclubrecording.bandcamp.com/). The songs previously saw the light of day on [Psychic Handshake](http://www.psychichandshake.com/) releases and through the band's Pentagon Black compilations.
+Speaking of [The Famines](https://thefamines.bandcamp.com/), the Montreal art/noise duo is collecting the five non-album singles they released between June of 2014 and March of 2017. *The Complete Collected Singles 2014-2017* will include "The State of Music," "Stay Home Club," "Mdme. Pauline," "The Second World War," and "Who Wants Disarmament?" All five tracks were recorded, mixed, and mastered at Montreal's [Drones Club Recording](https://dronesclubrecording.bandcamp.com/). The songs previously saw the light of day on [Psychic Handshake](http://www.psychichandshake.com/) releases and through the band's [Pentagon Black](https://www.pentagon.black/) compilations.
 
 Continuing their trend of embracing atypical mediums, the Famines will release the songs as a "paper EP." Specifically, that's a 15x23" double-sided newsprint poster that includes download codes. You can pick one up at the duo's Bandcamp store for 5 bucks, and I recommend doing so.
 
