@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: New music from Constantines, Northern Primitive, The OBGMs, JONCRO, Aquakultre, Faze, MVLL CRIMES, Little Kid, Single Mothers, Bitter Fictions, Matt Ellis, The Fuckin Astronauts, The Band Whose Name Is A Symbol, Guilhem & Mudie, Chain Whip
 ---
 
-The [Constantines](https://theconstantines.wordpress.com/) made a surprise, and intentionally lower-key, return this week with their first new studio track since 2008's *Kensington Heights*. The beloved Guelph-bred indie rock group shared the song "Call Me Out" on Bandcamp Tuesday morning to raise funds for both [Black Lives Matter Toronto](https://blacklivesmatter.ca/) and the [Unist' ot' en Camp Legal Fund for Land Defenders](http://unistoten.camp/support-us/donate/). The band commented:
+The [Constantines](https://theconstantines.wordpress.com/) made a surprise, and intentionally lower-key, return this week with their first new studio track since 2008's *Kensington Heights*. The beloved Guelph-bred indie rock group shared the song "Call Me Out" on Bandcamp Tuesday morning to raise funds for both [Black Lives Matter Toronto](https://blacklivesmatter.ca/) and the [Unist'ot'en Camp Legal Fund for Land Defenders](http://unistoten.camp/support-us/donate/). The band commented:
 
 > "Call Me Out was written in 2017. It's an acknowledgement of the need for open listening, active learning, inward study and accountability towards personal and social change. It's an owning of our privilege and responsibilities.
 >

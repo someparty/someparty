@@ -21,7 +21,7 @@ Mississauga's shouty noise-pop trio [Mildew Mildew](https://mildewmildew.bandcam
 
 > "Mildew Mildew fearlessly creates songs that unravel like stories; their structures being both dynamic and deeply colourful as they unfurl. This track particularly, is not a far cry from the spastic and borderless creativity delivered by the early works of both Modest Mouse and Built to Spill or the trademark rhythmic tension seen in the carefree demeanour of Pavement's percussionists."
 
-Mildew Mildew features vocals and guitar from Nolan Jakupovski, Tristan Sousa on percussion, and bassist Cameron Leslie. The group is set to play the Dupe Shop on November 16 with Spirit Desire and Fond.
+Mildew Mildew features vocals and guitar from Nolan Jakupovski, Tristan Sousa on percussion, and bassist Cameron Leslie. The group is set to play the Dupe Shop on November 16 with [Spirit Desire](https://fuckspiritdesire.bandcamp.com/) and Fond.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVHAlhMgGsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

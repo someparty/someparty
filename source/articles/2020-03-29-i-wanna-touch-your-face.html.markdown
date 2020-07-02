@@ -173,7 +173,7 @@ Guitarist/vocalist Cailen Pygott and drummer/vocalist Chris Wilson performed on 
 
 On March 20 the Windsor indie-rock group [Trout](https://trout.bandcamp.com/) recorded a nine-song set live off the floor of their jam space, The resulting recordings are now online as *Live From Isolation*,
 
-This recording features Roye Trou on guitar and vocals, guitarist Brent Cusmanic, Colin Wysman on bass, Jeremy Coulter playing piano and organ, with James Brown on drums. The set follows a five-song EP the band released last December, titled *Nectar*.
+This recording features Roye Trout on guitar and vocals, guitarist Brent Cusmanic, Colin Wysman on bass, Jeremy Coulter playing piano and organ, with James Brown on drums. The set follows a five-song EP the band released last December, titled *Nectar*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2236990181/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://trout.band/album/live-from-isolation">Live From Isolation by Trout</a></iframe>
 

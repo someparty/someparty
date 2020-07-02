@@ -2,7 +2,7 @@
 title: Zone of Avoidance
 date: 2019-12-01
 author: adam@someparty.ca (Adam White)
-description: Music and videos from Jay Arner, Dumb, No Fix, Dboy, Brutal Knights (with PlasticHeads), Meanlife, Tang, Dish Pit, The Smile Case, Fuudge, Storc, Blessed, Nutrients, Mononegatives, Ivan Rivers, Pouzza Fest
+description: Music and videos from Jay Arner, Dumb, No Fix, Dboy, Brutal Knights (with PlasticHeads), Meanlife, Tang, Dishpit, The Smile Case, Fuudge, Storc, Blessed, Nutrients, Mononegatives, Ivan Rivers, Pouzza Fest
 ---
 
 This past weekend [Mint Records](http://www.mintrecs.com/)' annual *Ridiculously Early Xmas Party* went down in Vancouver, bringing a good portion of the label's current roster together for a night of revelry. Among the performers was [Jay Arner](https://jayarner.bandcamp.com/), who made the event count with the surprise release of a new solo record. You'd be correct to assume that *Jay III* is Arner's third full-length, but unlike the retro indie-pop of his previous set (2016's *Jay II*) this outing rejects traditional song structures. In their place, Arner's fully embraced studio electronics and lets the tools take him where they will (the opening track of the three-song full-length clocks in at over 20 minutes). Could this the *Trans* of the Arner oeuvre? From the press release:
@@ -73,13 +73,13 @@ Tang will launch the new material with a release show this Thursday, [December 5
 
 [Listen: Tang - "Bye" @ Bandcamp](http://artoftheuncarvedblock.bandcamp.com/album/finding-peace-isnt-the-point "#")
 
-In the last week of November, the sludgy Montreal punk trio [Dish Pit](https://dishpitofficial.bandcamp.com/) shared a video for their new single "Sold Out." The clip follows a video for the song "[Seven](https://www.youtube.com/watch?v=fjmD6qyq9ik)" from back in September. Connor Cook directed both videos for the band.
+In the last week of November, the sludgy Montreal punk trio [Dishpit](https://dishpitofficial.bandcamp.com/) shared a video for their new single "Sold Out." The clip follows a video for the song "[Seven](https://www.youtube.com/watch?v=fjmD6qyq9ik)" from back in September. Connor Cook directed both videos for the band.
 
-Dish Pit's slated to make two appearances early in the new year as part of Exclaim's [Class of 2020](https://exclaim.ca/music/article/exclaim_presents_the_class_of_2020_concert_series_with_basement_revolver_hanorah_imur_luna_li) concert series. They'll play Toronto's Monarch Tavern on Saturday, January 4 with [Burner](https://www.facebook.com/BURNERTORONTO/), [WLMRT](https://wlmrt.bandcamp.com/), [Luge](https://hugeluge.bandcamp.com), and [Piper Maru](http://pipermaru.bandcamp.com) (that's a hell of a line up!) followed by a Friday, January 10, gig in Montreal with [Hanorah](https://hanorah.ca/), [Sorry Girls](https://sorrygirls.bandcamp.com/), [Sasha Cay](https://sashacay.bandcamp.com/), and [Petra Glynt](http://www.petraglynt.zone/). Dish Pit can boast that they're the only band making two appearances in the series this year.
+Dishpit's slated to make two appearances early in the new year as part of Exclaim's [Class of 2020](https://exclaim.ca/music/article/exclaim_presents_the_class_of_2020_concert_series_with_basement_revolver_hanorah_imur_luna_li) concert series. They'll play Toronto's Monarch Tavern on Saturday, January 4 with [Burner](https://burnerband.bandcamp.com), [WLMRT](https://wlmrt.bandcamp.com/), [Luge](https://hugeluge.bandcamp.com), and [Piper Maru](http://pipermaru.bandcamp.com) (that's a hell of a line up!) followed by a Friday, January 10, gig in Montreal with [Hanorah](https://hanorah.ca/), [Sorry Girls](https://sorrygirls.bandcamp.com/), [Sasha Cay](https://sashacay.bandcamp.com/), and [Petra Glynt](http://www.petraglynt.zone/). Dishpit can boast that they're the only band making two appearances in the series this year.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ao1ozl09lag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Watch: Dish Pit - "Sold Out" @ YouTube](https://youtu.be/ao1ozl09lag "#")
+[Watch: Dishpit - "Sold Out" @ YouTube](https://youtu.be/ao1ozl09lag "#")
 
 Grim Tillsonburg rock band [The Smile Case](http://www.thesmilecase.com/) has a surprise new album out, one that frontman Ben Andress claims is a "midlife crisis caught on record." His discordant, at times otherworldly growl fits the subject matter well on the 11 song *Amused / Not A Muse*. The band commented:
 

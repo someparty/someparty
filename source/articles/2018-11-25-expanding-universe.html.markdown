@@ -50,7 +50,7 @@ This set collects the band's rare four-song 7" from 1981 with two unreleased tra
 
 [Listen: Plan Nine - *I Ain't No Robot* @ Bandcamp](http://supremeecho.bandcamp.com/album/plan-nine "#")
 
-[Burner](https://www.facebook.com/BURNERTORONTO/)'s a gritty new punk quartet that recently emerged in Toronto from [Casper Skulls](https://casperskulls.bandcamp.com/), [The Knees Up](https://thekneesup.bandcamp.com/), and [Dead Broke](https://deadbrokeband.com/). The band has an EP on the way in December, a collection that will feature the song "PSA." It was recorded and mixed at a home studio by Marshall Lawr, with John Hoffman mastering. You can check it out below.
+[Burner](https://burnerband.bandcamp.com)'s a gritty new punk quartet that recently emerged in Toronto from [Casper Skulls](https://casperskulls.bandcamp.com/), [The Knees Up](https://thekneesup.bandcamp.com/), and [Dead Broke](https://deadbrokeband.com/). The band has an EP on the way in December, a collection that will feature the song "PSA." It was recorded and mixed at a home studio by Marshall Lawr, with John Hoffman mastering. You can check it out below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A0p1krXn0BA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
