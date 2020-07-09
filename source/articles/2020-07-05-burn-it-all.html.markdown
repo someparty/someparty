@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Chatting with The OBGMs and music from No More Moments, Dog Day, Tough Age, Nyssa, Poolblood, Matt Ellis, Matty Grace, Pretty Matty, Bloodshot Bill, WHOOP-Szo, Matthew "Doc" Dunn, JONCRO, Single Mothers, The Drew Thomson Foundation, Peter Landi, Surrender, The Burning Hell and B.A. Johnston
 ---
 
-High energy Toronto punk outfit [The OBGMs](http://theobgms.com) recently shared the second single from their upcoming record. "Not You" follows the June-released "Cash" in previewing *The Ends*, the group's forthcoming LP for [Black Box](https://weareblackbox.com/). It arrived alongside a raucous performance video by Phillip Stirling. You can check it out below.
+High energy Toronto punk outfit [The OBGMs](http://theobgms.com) recently shared the second single from their upcoming record. "Not Again" follows the June-released "Cash" in previewing *The Ends*, the group's forthcoming LP for [Black Box](https://weareblackbox.com/). It arrived alongside a raucous performance video by Phillip Stirling. You can check it out below.
 
 Fascinated by the band's aggressive online promotion of the album, I reached out to guitarist/vocalist Densil McFarlane to dig into The OBGMs' sound and mindset. It seems clear that one could trace the lineage of "Not Again" back to The Bronx and The Hives in the heyday of the early 2000s rock revival. It's not much of a stretch to draw lines from there back to 90s garage-punk legends like the New Bomb Turks. Denz casts a wide net when considering the group's forebearers on this record:
 
@@ -19,9 +19,9 @@ What strikes me about both "Not Again" and "Cash" is the unconstrained rock'n'ro
 
 > "The energy is that I just don't care anymore. I'm free.
 >
-> Kanye West. Kanye West came into the hip-hop game knowing that, in his heart, he was the best. Whether people agreed or not was irrelevant. He actively got the message out, delivered quality products and more people bought in. Music is a deeply personal thing and all artists face some form of anxiety or insecurity releasing their art to the world. I just don't want to build my house on my insecurities. I want to build my house on what I truly know — whether people agree or not. YOU HAVEN'T HEARD A BAND THAT CAN DOES WHAT WE DO ON A RECORD. Put some respect on it. We are literally bending and breaking genres. The louder I explain this, the more we deliver, the more people will be paying attention."
+> Kanye West. Kanye West came into the hip-hop game knowing that, in his heart, he was the best. Whether people agreed or not was irrelevant. He actively got the message out, delivered quality products and more people bought in. Music is a deeply personal thing and all artists face some form of anxiety or insecurity releasing their art to the world. I just don't want to build my house on my insecurities. I want to build my house on what I truly know — whether people agree or not. YOU HAVEN'T HEARD A BAND THAT CAN DO WHAT WE DO ON A RECORD. Put some respect on it. We are literally bending and breaking genres. The louder I explain this, the more we deliver, the more people will be paying attention."
 
-"Not You" and "Cash" mark the group's first new material in three years. Having parted ways with their keyboardist, the OBGMs now play as a trio comprised of McFarlane, bassist Joseph Brosnan, and drummer Colanthony Humphrey.
+"Not Again" and "Cash" mark the group's first new material in three years. Having parted ways with their keyboardist, the OBGMs now play as a trio comprised of McFarlane, bassist Joseph Brosnan, and drummer Colanthony Humphrey.
 
 The OBGMs, short for The oOoh Baby Gimme Mores, recorded this new material with the Grammy and JUNO Award-winning producer Dave Schiffman (PUP, The Bronx, Anti-Flag). *The Ends*, which follows their 2017 self-titled debut, arrives in October from [Black Box](https://weareblackbox.com/).
 
