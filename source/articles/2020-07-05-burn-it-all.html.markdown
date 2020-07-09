@@ -2,14 +2,14 @@
 title: Burn It All
 date: 2020-07-05
 author: adam@someparty.ca (Adam White)
-description: The OBGMs, No More Moments, Dog Day, Tough Age, Nyssa, Poolblood, Matt Ellis, Matty Grace, Pretty Matty, Bloodshot Bill, WHOOP-Szo, Matthew "Doc" Dunn, JONCRO, Single Mothers, The Drew Thomson Foundation, Peter Landi, Surrender, The Burning Hell and B.A. Johnston
+description: Chatting with The OBGMs and music from No More Moments, Dog Day, Tough Age, Nyssa, Poolblood, Matt Ellis, Matty Grace, Pretty Matty, Bloodshot Bill, WHOOP-Szo, Matthew "Doc" Dunn, JONCRO, Single Mothers, The Drew Thomson Foundation, Peter Landi, Surrender, The Burning Hell and B.A. Johnston
 ---
 
 High energy Toronto punk outfit [The OBGMs](http://theobgms.com) recently shared the second single from their upcoming record. "Not You" follows the June-released "Cash" in previewing *The Ends*, the group's forthcoming LP for [Black Box](https://weareblackbox.com/). It arrived alongside a raucous performance video by Phillip Stirling. You can check it out below.
 
 Fascinated by the band's aggressive online promotion of the album, I reached out to guitarist/vocalist Densil McFarlane to dig into The OBGMs' sound and mindset. It seems clear that one could trace the lineage of "Not Again" back to The Bronx and The Hives in the heyday of the early 2000s rock revival. It's not much of a stretch to draw lines from there back to 90s garage-punk legends like the New Bomb Turks. Denz casts a wide net when considering the group's forebearers on this record:
 
-> "We don't draw inspiration from any band in particular; however, the similarities lie in being unapologetically and unabashedly real as loudly as possible. We love sonically and visually loud things, but we also need it to be uniquely *us*. As music lovers and students of punk/rock/grunge, we have definitely listened to Bad Brains, Nirvana, The Vines, White Stripes - but we also listen to Prince, NERD, George Clinton. If you trace the timeless bands in history, you'll notice they had a sound/image that could not be ignored."
+> "We don't draw inspiration from any band in particular; however, the similarities lie in being unapologetically and unabashedly real as loudly as possible. We love sonically and visually loud things, but we also need it to be uniquely *us*. As music lovers and students of punk/rock/grunge, we have definitely listened to Bad Brains, Nirvana, The Vines, White Stripes — but we also listen to Prince, NERD, George Clinton. If you trace the timeless bands in history, you'll notice they had a sound/image that could not be ignored."
 
 That refusal to be ignored has been readily apparent, with the band's social media presence spitting fire to promote these songs. McFarlane certainly hasn't hesitated from naming and shaming establishment publications from Canada's small pond music press to demand better representation for BIPOC rock artists. Given the current cultural backdrop, and their visibility as a predominantly Black punk band in a genre often considered homogeneous, I asked if the moment demanded that they step up. Was their current level of promotional intensity always in the cards, or is it a reaction?
 
@@ -19,7 +19,7 @@ What strikes me about both "Not Again" and "Cash" is the unconstrained rock'n'ro
 
 > "The energy is that I just don't care anymore. I'm free.
 >
-> Kanye West. Kanye West came into the hip-hop game knowing that, in his heart, he was the best. Whether people agreed or not was irrelevant. He actively got the message out, delivered quality products and more people bought in.  Music is a deeply personal thing and all artists face some form of anxiety or insecurity releasing their art to the world. I just don't want to build my house on my insecurities. I want to build my house on what I truly know - whether people agree or not. YOU HAVENT HEARD A BAND THAT CAN DOES WHAT WE DO ON A RECORD. Put some respect on it.  We are literally bending and breaking genres. The louder I explain this, the more we deliver, the more people will be paying attention."
+> Kanye West. Kanye West came into the hip-hop game knowing that, in his heart, he was the best. Whether people agreed or not was irrelevant. He actively got the message out, delivered quality products and more people bought in. Music is a deeply personal thing and all artists face some form of anxiety or insecurity releasing their art to the world. I just don't want to build my house on my insecurities. I want to build my house on what I truly know — whether people agree or not. YOU HAVEN'T HEARD A BAND THAT CAN DOES WHAT WE DO ON A RECORD. Put some respect on it. We are literally bending and breaking genres. The louder I explain this, the more we deliver, the more people will be paying attention."
 
 "Not You" and "Cash" mark the group's first new material in three years. Having parted ways with their keyboardist, the OBGMs now play as a trio comprised of McFarlane, bassist Joseph Brosnan, and drummer Colanthony Humphrey.
 
