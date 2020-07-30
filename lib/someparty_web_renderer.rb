@@ -18,19 +18,19 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
 
     if raw_html.include? 'youtube'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
+      format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
     elsif raw_html.include? 'facebook'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
+      format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
     elsif raw_html.include? 'brightcove'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
+      format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
     elsif raw_html.include? 'vimeo'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
+      format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
     elsif raw_html.include? 'instagram'
       doc.css('blockquote').add_class('dib tl')
@@ -53,12 +53,12 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
         format("<div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
       else
         doc.css('iframe').add_class('aspect-ratio--object lazyload')
-        format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
+        format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
                doc.to_html)
       end
     elsif raw_html.include? 'npr.org'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div>",
+      format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
     else
       doc.css('iframe').add_class('lazyload')

@@ -45,7 +45,7 @@ This new record marks the band's fifth overall full-length, following 2013's *Fa
 
 [Listen: Dog Day - "Hell On Earth" @ Bandcamp](https://fundog.bandcamp.com/track/hell-on-earth "#")
 
-Just a week after announcing their fourth full length, and debuting "Repose," the record's decidedly chill first single, Toronto trio [Tough Age](https://tough-age.bandcamp.com/) have yet another preview of *Which Way Am I?* online. Last week the band premiered a video for the cheerily titled "My Life's a Joke & I'm Throwing it Away" in a feature at [Paste](https://www.pastemagazine.com/music/tough-age/tough-age-my-lifes-a-joke-im-throwing-it-away/). The audio came paired with an animated clip by visual artist [Gianette Lapalme](https://www.instagram.com/mewnettelapalmew/) (part of the Toronto illustrator collective Wowee Zonk).
+Just a week after announcing their fourth full length, and debuting "Repose," the record's decidedly chill first single, Toronto trio [Tough Age](https://tough-age.bandcamp.com/) have yet another preview of *Which Way Am I?* online. Last week the band premiered a video for the cheerily titled "My Life's a Joke & I'm Throwing it Away" in a feature at [Paste](https://www.pastemagazine.com/music/tough-age/tough-age-my-lifes-a-joke-im-throwing-it-away/). The audio came paired with an animated clip by visual artist [Ginette Lapalme](https://www.instagram.com/mewnettelapalmew/) (part of the Toronto illustrator collective Wowee Zonk).
 
 In a statement to the magazine, guitarist/vocalist Jarrett Evan Samson commented:
 
