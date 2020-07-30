@@ -23,7 +23,7 @@ cutsleeve came together following a call-out during 2017's Invisible Footprints 
 
 In a post to Facebook the band commented upon the release of the single:
 
->"Our debut single, "Durian Eyes," is available to stream everywhere now! it is about navigating our racialized identity as queer East Asians in what is currently known as "Canada." Often people have certain expectations and associations when it comes to being East Asian, and we are stuck in this liminal space of not being enough or trying to hold onto what we have in our cultural identities without being stereotyped and fetishized."
+>"Our debut single, 'Durian Eyes,' is available to stream everywhere now! it is about navigating our racialized identity as queer East Asians in what is currently known as "Canada." Often people have certain expectations and associations when it comes to being East Asian, and we are stuck in this liminal space of not being enough or trying to hold onto what we have in our cultural identities without being stereotyped and fetishized."
 
 In addition to the new video, check out an [interview](https://youtu.be/kipE-1UNzPs_) with the group conducted by [JONCRO](https://joncro.bandcamp.com/)'s Daniel G. Wilson, part of the online programming from this year's Festival Lingua Franca festival. cutsleeve features guitarist Hannah Winters, bassist Hillary Fong, vocalist/keyboardist Chanel Fu, guitarist/vocalist Amanda Wong, and drummer Lian McMillan.
 
@@ -109,7 +109,7 @@ Speaking to [Exclaim](https://exclaim.ca/music/article/torontos_dead_broke_retur
 
 >"For years, Toronto has been experiencing a widening socioeconomic divide. With pockets of unfathomable wealth and pockets of deep poverty existing on opposite corners of the same intersection, it has become impossible to ignore. We wanted to shine a light on these extremes in the music video for 'Druids' — a song that's about having symbols of hope torn away from you. The song chases feelings of desperation, shaky faith, addiction, growing mistrust of the systems that we exist within, and the sense of having to wait for help. These are feelings that I think everyone can relate to right now."
 
-Originally coming together in Oakville, Dead Broke last released the *Nice Words* EP in 2017. The quartet features the siblings Mike and Rachel Bright on vocals/guitar and bass respectively, with drummer Evan Saunders (also of [Burner](https://burnerband.bandcamp.com)), and lead guitarist Zack Carlan.
+Originally coming together in Oakville, Dead Broke last released the *Nice Words* EP in 2017. The quartet features siblings Mike and Rachel Bright on vocals/guitar and bass respectively, with drummer Evan Saunders (also of [Burner](https://burnerband.bandcamp.com)), and lead guitarist Zack Carlan.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/foBiH0oHtik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
