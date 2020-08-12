@@ -64,7 +64,7 @@ Single Mothers has seen many players come and go over the past few years, with T
 
 [Watch: J Blissette - "Out Too Far" @ YouTube](https://youtu.be/Cab69J0Ste8 "#")
 
-Hamilton, Ontario's three-piece garage-punk act [Flesh Rag](https://www.facebook.com/fleshrag/) has announced a new LP titled *Inside Your Mind*. Look for it this October on [Schizophrenic](https://schizophrenicrex.bandcamp.com/) and [Loose Lips Records](https://www.facebook.com/looselipsrecords333/). There's no new music to share yet, but the band has confirmed some supporting tour dates alongside groups like PRIORS, Vanity Phase, Brain Itch, and DBoy. You can find the details over at Instagram.
+Hamilton, Ontario's three-piece garage-punk act [Flesh Rag](https://fleshrag.bandcamp.com) has announced a new LP titled *Inside Your Mind*. Look for it this October on [Schizophrenic](https://schizophrenicrex.bandcamp.com/) and [Loose Lips Records](https://www.facebook.com/looselipsrecords333/). There's no new music to share yet, but the band has confirmed some supporting tour dates alongside groups like PRIORS, Vanity Phase, Brain Itch, and DBoy. You can find the details over at Instagram.
 
 Flesh Rag features members of Hamilton's [TV Freaks](https://www.facebook.com/teeveefreakzz/) and Welland's [Rocket Reducers](https://www.facebook.com/Rocket-Reducers-50250806853/).
 

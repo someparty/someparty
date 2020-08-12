@@ -59,7 +59,7 @@ Dusted's lineup in recent times has featured Borcherdt with guitarist Anna Edwar
 
 Sudbury's [Tommy and the Commies](https://tommyandthecommies.bandcamp.com) have announced that their debut 12" will be released on [Slovenly Recordings](https://www.slovenly.com/). There's no detail to share yet on a title or release date, but it's a very cool development given the Reno, Nevada label's track record of backing some excellent garage, punk, and psych artists over the past 16 years.
 
-The band has a few tour dates coming up in southern Ontario, including a show at Toronto's Baby G on [April 7](https://www.facebook.com/events/2028652384079267/) supporting the visiting French group Les Lullies (Slovenly artists themselves), and one on the [14th](https://www.facebook.com/events/151512908842796/) at Hamilton's Doors bar with [Flesh Rag](https://www.facebook.com/fleshrag/) and [Dboy](https://www.dboylove.com).
+The band has a few tour dates coming up in southern Ontario, including a show at Toronto's Baby G on [April 7](https://www.facebook.com/events/2028652384079267/) supporting the visiting French group Les Lullies (Slovenly artists themselves), and one on the [14th](https://www.facebook.com/events/151512908842796/) at Hamilton's Doors bar with [Flesh Rag](https://fleshrag.bandcamp.com) and [Dboy](https://www.dboylove.com).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1517171937/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=53405448/transparent=true/" seamless><a href="http://tommyandthecommies.bandcamp.com/album/tommy-and-the-commies">TOMMY AND THE COMMIES by TOMMY &amp; THE COMMIES</a></iframe>
 

@@ -49,7 +49,7 @@ The irreverent Toronto hardcore legends [Brutal Knights](https://derangedrecords
 
 Brutal Knights' Randy "Jon" Sharron currently plays with [PlasticHeads](http://weareplasticheads.bandcamp.com/), who were on the bill that evening. During their set Brutal Knights vocalist, Nick Flanigan and guitarist Katie G Warrior joined the group  to perform a few tracks. You can check it out below.
 
-[PlasticHeads](http://weareplasticheads.bandcamp.com/) released a full-length earlier this year on [Ugly Pop](http://uglypopvinyl.tumblr.com/) titled *Nowhere to Run*. The quartet features vocals and guitar from [Flesh Rag](https://www.facebook.com/fleshrag/)'s Matthew Ellis and the above mentioned Jon Sharron, with bass from Erik of [FLQ](https://flqs.bandcamp.com/), and drums from Curtis Tone of [School Damage](https://schooldamage.bandcamp.com/). Brutal Knights last released *Blown 2 Completion* way back in 2010 on [Deranged Records](http://derangedrecords.com/).
+[PlasticHeads](http://weareplasticheads.bandcamp.com/) released a full-length earlier this year on [Ugly Pop](http://uglypopvinyl.tumblr.com/) titled *Nowhere to Run*. The quartet features vocals and guitar from [Flesh Rag](https://fleshrag.bandcamp.com)'s Matthew Ellis and the above mentioned Jon Sharron, with bass from Erik of [FLQ](https://flqs.bandcamp.com/), and drums from Curtis Tone of [School Damage](https://schooldamage.bandcamp.com/). Brutal Knights last released *Blown 2 Completion* way back in 2010 on [Deranged Records](http://derangedrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ep21DVxFcfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -35,7 +35,7 @@ Toronto's [FRIGS](https://frigsmusic.com/) have shared the song "Doghead," the f
 
 [Listen: FRIGS - "Doghead" @ YouTube](https://www.youtube.com/watch?v=CriV3R9ECps&feature=youtu.be "#")
 
-Hard driving Hamilton garage-punk group [Flesh Rag](https://www.facebook.com/fleshrag/) have released a video for their song "I'm Sick." The three-piece, which features members of the Hammer's [TV Freaks](https://www.facebook.com/teeveefreakzz/) and Welland's [Rocket Reducers](https://www.facebook.com/Rocket-Reducers-50250806853/), contributed the song to the *Killed By Meth Vol. 2* compilation, which was recently released by London, Ontario label [It's Trash](https://itstrashrecords.bandcamp.com/). This song was recorded at [Downtown Sound](http://www.downtownsoundstudio.com/) by Mario Pietrangeli. Connor Wilkes directed the video.
+Hard driving Hamilton garage-punk group [Flesh Rag](https://fleshrag.bandcamp.com) have released a video for their song "I'm Sick." The three-piece, which features members of the Hammer's [TV Freaks](https://www.facebook.com/teeveefreakzz/) and Welland's [Rocket Reducers](https://www.facebook.com/Rocket-Reducers-50250806853/), contributed the song to the *Killed By Meth Vol. 2* compilation, which was recently released by London, Ontario label [It's Trash](https://itstrashrecords.bandcamp.com/). This song was recorded at [Downtown Sound](http://www.downtownsoundstudio.com/) by Mario Pietrangeli. Connor Wilkes directed the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vjHn5OGb4Vk?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
 

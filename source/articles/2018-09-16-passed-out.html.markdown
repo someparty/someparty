@@ -33,7 +33,7 @@ If you were into tracks I'd previously shared by Windsor's Psychic Void or the m
 
 [Listen: Faze - *Struggling to enjoy ourselves while the world slowly implodes* @ Bandcamp](http://fazefazefaze.bandcamp.com/album/struggling-to-enjoy-ourselves-while-the-world-slowly-implodes "#")
 
-Speak of the devil. Hamilton, Ontario's [Flesh Rag](https://www.facebook.com/fleshrag/) has the title track of their upcoming LP online for your enjoyment. The three-piece is gearing up for the release of *Inside Your Mind* on [Schizophrenic Records](https://schizophrenicrex.bandcamp.com/) and [Loose Lips Records](https://www.facebook.com/looselipsrecords333/) on October 1. You can preview the song below. Sean Pearson of Boxcar Sound was behind the boards for this record.
+Speak of the devil. Hamilton, Ontario's [Flesh Rag](https://fleshrag.bandcamp.com) has the title track of their upcoming LP online for your enjoyment. The three-piece is gearing up for the release of *Inside Your Mind* on [Schizophrenic Records](https://schizophrenicrex.bandcamp.com/) and [Loose Lips Records](https://www.facebook.com/looselipsrecords333/) on October 1. You can preview the song below. Sean Pearson of Boxcar Sound was behind the boards for this record.
 
 Flesh Rag features vocalist/guitarist Matthew Ellis, drummer Nathan Burger, and bassist Eric Felgner. The members of that group have collaborated in bands like [TV Freaks](https://www.facebook.com/teeveefreakzz/), [Rocket Reducers](https://www.facebook.com/Rocket-Reducers-50250806853/), [Sweet Dave and the Shallow Graves](https://sweetdave.bandcamp.com/), and [Uncontrollable Urge](https://theeuncontrollableurge.bandcamp.com/) among others.
 

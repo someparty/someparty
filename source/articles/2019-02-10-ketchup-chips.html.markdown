@@ -106,7 +106,7 @@ The Lethbridge, Alberta-based artist also shared a curious new tune from a proje
 
 [Listen: Andrew Neville - *Ideal Starter Home* @ Bandcamp](https://andrewneville.bandcamp.com/album/ideal-starter-home "#")
 
-Last week at Punknews.org I cornered Matthew Ellis from Hamilton psych-punks [Flesh Rag](https://www.facebook.com/fleshrag/) to break down some of the songs from *Inside Your Mind*, the trio's recent LP on [Schizophrenic](https://schizophrenicrex.bandcamp.com/) and [Loose Lips Records](https://www.facebook.com/looselipsrecords333/). Speaking about the song "In Another Dimension," Ellis commented:
+Last week at Punknews.org I cornered Matthew Ellis from Hamilton psych-punks [Flesh Rag](https://fleshrag.bandcamp.com) to break down some of the songs from *Inside Your Mind*, the trio's recent LP on [Schizophrenic](https://schizophrenicrex.bandcamp.com/) and [Loose Lips Records](https://www.facebook.com/looselipsrecords333/). Speaking about the song "In Another Dimension," Ellis commented:
 
 > "It's about being stuck in a rut and caught in another dimension and clawing your way out. It's also totally about smoking DMT. I believe psychedelics can really help you figure some shit out. DMT is basically like going to another dimension, anyone that's tried it knows its terrifying and feels like you're a million miles away from home in some fucked up alien land with little creatures talking to you. But you also feel really happy and excited that there seems to be something there that you can talk to and it understands and tells you: 'Hey, it's ok! All that shit is no big deal!'"
 
