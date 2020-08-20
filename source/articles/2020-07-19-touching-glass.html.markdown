@@ -31,7 +31,7 @@ Video director Tony Wolski added:
 
 > "The song has a beautiful, crushing numbness to it that we wanted to mirror in the visual. So we chose to romanticize our main character's descent into her delusions of love and togetherness. At a time when everyone's simultaneously coping with some sort of isolation, a story about loneliness—and the mania that comes with it—seems appropriate to tell."
 
-*Atlas Vending* arrives on October 9 from [Royal Mountain Records](https://www.royalmountainrecords.com/) and [Sub Pop](https://www.subpop.com/). Ben Greenberg (Uniform) go-produced the album with the band, with Seth Manchester (Daughters, Lingua Ignota, The Body) engineering and mixing at Pawtucket's Machines with Magnets.
+*Atlas Vending* arrives on October 9 from [Royal Mountain Records](https://www.royalmountainrecords.com/) and [Sub Pop](https://www.subpop.com/). Ben Greenberg (Uniform) co-produced the album with the band, with Seth Manchester (Daughters, Lingua Ignota, The Body) engineering and mixing at Pawtucket's Machines with Magnets.
 
 METZ features guitarist/vocalist Alex Edkins, bassist Chris Slorach, and drummer Hayden Menzies. In between *Strange Peace* and this record, the group released a b-sides and rarities collection on Sub Pop titled *Automat*.
 

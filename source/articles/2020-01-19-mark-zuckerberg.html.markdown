@@ -10,7 +10,7 @@ description: News from Wares, Dboy, Nap Eyes, Scott Hardware, Red Arms, Les Hay 
 Far be it for me to let a good idea slip by without getting on board, so Some Party will be following suit. If you were waiting on ordering one of the new comps, now is the time. I'll also donate whatever comes in over the next few weeks to the Unist'ot'en Camp. You can order a cassette online [here](/store/under-the-circumstances/).
 
 Winterruption and the Big Winter Classic are running simultaneously this weekend, with several bands making appearances at both events on alternate days.
-Wares' Big Winter Classic set goes down at Calgary's Last Best Brewing Company on the 24th, part of a stacked bill that's headlined by Toronto art-punks [Weaves](http://weavesband.com/). That same day you can catch their Some Party tape-mates in [Partner](http://partnerband.tumblr.com/) at Yellowhead Brewery up in Edmonton. At Winterruption, Wares are playing Freemason Hall on January 25 with Ezra Furman headlining.
+Wares' Big Winter Classic set goes down at Calgary's Last Best Brewing Company on the 24th, part of a stacked bill that's headlined by Toronto art-punks [Weaves](http://weavesband.com/). That same day you can catch their Some Party tape-mates in [Partner](https://www.partnerband.com) at Yellowhead Brewery up in Edmonton. At Winterruption, Wares are playing Freemason Hall on January 25 with Ezra Furman headlining.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=202178528/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3021811398/transparent=true/" seamless><a href="http://wares.bandcamp.com/album/silhouette">Silhouette by Wares</a></iframe>
 

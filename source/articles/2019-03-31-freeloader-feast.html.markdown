@@ -109,7 +109,7 @@ The original version of "Innocence" appears on Chastity's striking 2018 debut *D
 
 [Watch: Chastity - "Innocence" @ YouTube](https://youtu.be/a2vX1mtJmFQ "#")
 
-Windsor slacker rock act [Partner](http://partnerband.tumblr.com/) continues to share music from their fast-approaching new EP *Saturday the 14th*. The latest is "Angels Wings," a lush ballad the band presented in both English and French. Josée Caron and Lucy Nile had this to say in the premiere at [Paste](https://www.pastemagazine.com/articles/2019/03/exclusive-hear-partners-transcendent-new-song-ange.html):
+Windsor slacker rock act [Partner](https://www.partnerband.com) continues to share music from their fast-approaching new EP *Saturday the 14th*. The latest is "Angels Wings," a lush ballad the band presented in both English and French. Josée Caron and Lucy Nile had this to say in the premiere at [Paste](https://www.pastemagazine.com/articles/2019/03/exclusive-hear-partners-transcendent-new-song-ange.html):
 
 >"'Angel’s Wings' is a song based on a poem by Cedric Sims. It is a collaboration in the style of Elton John and Bernie Taupin. It was also inspired by the grand themes and powerful performances found in Céline Dion songs, so we made a French version too. This song is about going down to 'hell' to face your greatest fears. The song explores how, by having the courage to face your fears head on, you find you possess a strength you never knew. In order to craft this song, we had to face our greatest fears as artists. So form imitates content. Facing our fears is never easy, but there is life on the other side of fear. It’s so important to remind ourselves of this. We hope our listeners can be reminded of this fundamental truth and enjoy the ride!"
 

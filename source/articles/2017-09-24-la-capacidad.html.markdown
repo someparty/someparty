@@ -33,7 +33,7 @@ The Polaris gala also saw the debut of a new song from Toronto's [Weaves](https:
 
 [Watch: Weaves - "Scream" ft. Tanya Tagaq @ YouTube](https://www.youtube.com/watch?v=Mq_gVwu6gf4 "#")
 
-I saw [Partner](http://partnerband.tumblr.com/) play last Friday in Hamilton and it was wonderful. A few days earlier the Windsor-based band joined [George Stroumboulopoulos](http://strombo.com/) at his Toronto home to record a session for [The Strombo Show](http://strombo.com/radio/) (which was apparently their first radio session ever). The band performs their song-of-the-summer "Everybody Knows" and "Big Gay Hands" along with a cover of AC/DC's "Long Way To The Top." The five-piece is supporting their first full-length *In Search of Lost Time*, which came out earlier this month on [You’ve Changed Records](http://youvechangedrecords.com/).
+I saw [Partner](https://www.partnerband.com) play last Friday in Hamilton and it was wonderful. A few days earlier the Windsor-based band joined [George Stroumboulopoulos](http://strombo.com/) at his Toronto home to record a session for [The Strombo Show](http://strombo.com/radio/) (which was apparently their first radio session ever). The band performs their song-of-the-summer "Everybody Knows" and "Big Gay Hands" along with a cover of AC/DC's "Long Way To The Top." The five-piece is supporting their first full-length *In Search of Lost Time*, which came out earlier this month on [You’ve Changed Records](http://youvechangedrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_z_4n98GCwQ" frameborder="0" allowfullscreen></iframe>
 

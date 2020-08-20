@@ -107,7 +107,7 @@ VanGaalen last released the *Light Information* LP in September of 2017 on [Flem
 
 [Listen: Chad VanGaalen - *Odds and Sods* @ Bandcamp](https://chadvangaalen.bandcamp.com/album/odds-and-sods "#")
 
-This January [Partner](http://partnerband.tumblr.com/) heads out for their first tour of the west coast, co-headlining a series of shows with Seattle's Dude York. The Windsor-via-Sackville slacker rock act announced the shows alongside a succinct new tune titled "Lost My Pick, Can I Borrow One." It's a single verse, one cool guitar solo, and out by a minute thirty.
+This January [Partner](https://www.partnerband.com) heads out for their first tour of the west coast, co-headlining a series of shows with Seattle's Dude York. The Windsor-via-Sackville slacker rock act announced the shows alongside a succinct new tune titled "Lost My Pick, Can I Borrow One." It's a single verse, one cool guitar solo, and out by a minute thirty.
 
 Partner's currently supporting their Polaris shortlisted debut full-length *In Search of Lost Time*, which came out last year on [You’ve Changed Records](http://youvechangedrecords.com/).
 

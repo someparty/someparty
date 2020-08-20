@@ -55,7 +55,7 @@ The debut self-titled debut full length from Moncton punk group [Chiller](https:
 
 [Listen: Chiller @ New Noise](https://newnoisemagazine.com/stream-chiller-self-titled/ "#")
 
-Windsor-via-Sackville slacker rock act [Partner](http://partnerband.tumblr.com/) has released a video for their single "Everybody Knows." This song is, of course, the lead track from the band's wonderful debut full-length *In Search of Lost Time*, which came out last fall on [You’ve Changed Records](http://youvechangedrecords.com/). In my little bubble, this was the feel-good-hit-of-the-summer, so to introduce it feels unnecessary. If for some odd reason you've not yet embraced the Partner record, that should be your priority. Colin Medley directed the video.
+Windsor-via-Sackville slacker rock act [Partner](https://www.partnerband.com) has released a video for their single "Everybody Knows." This song is, of course, the lead track from the band's wonderful debut full-length *In Search of Lost Time*, which came out last fall on [You’ve Changed Records](http://youvechangedrecords.com/). In my little bubble, this was the feel-good-hit-of-the-summer, so to introduce it feels unnecessary. If for some odd reason you've not yet embraced the Partner record, that should be your priority. Colin Medley directed the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GKnIMO34tK8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

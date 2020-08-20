@@ -101,7 +101,7 @@ Heavy Vancouver garage-rock duo [Pedler](https://pedler.bandcamp.com/) has a new
 
 The *Pedler* EP can be streamed now, with a physical release due through [Jaundice Records](https://jaundicerecords.bandcamp.com/). The band recorded the new songs during the summer of 2019 at Park Sound Studios in North Vancouver, with Dan Ponich engineering and mixing. Philip Shaw Bova mastered the set.
 
-Last year Pedlar kicked off an annual festival dubbed Twosome Fest, which celebrates "loud two-piece bands." The 2020 edition has yet to be confirmed. 
+Last year Pedlar kicked off an annual festival dubbed Twosome Fest, which celebrates "loud two-piece bands." The 2020 edition has yet to be confirmed.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2755092439/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://pedler.bandcamp.com/album/pedler">Pedler by pedler</a></iframe>
 
@@ -131,6 +131,6 @@ Episode 519 of [Vish Khanna](http://vishkhanna.com/)'s [Kreative Kontrol](http:/
 
 ## Under The Circumstances
 
-Just a reminder that *[Under The Circumstances](https://www.someparty.ca/store/under-the-circumstances/)*, Some Party's first compilation is out now on glorious magnetic cassette. It features new or rare music from Toronto's [Tough Age](https://tough-age.bandcamp.com/), Edmonton's [Wares](https://wares.bandcamp.com), Windsor's [Psychic Void](https://psychicvoid.bandcamp.com),  Montreal's [New Vogue](https://newvogue.bandcamp.com), and the Sackville-via-Windsor group [Partner](http://partnerband.tumblr.com/). If you drive a 1986 Chevy Blazer you're all set to rock these tunes.
+Just a reminder that *[Under The Circumstances](https://www.someparty.ca/store/under-the-circumstances/)*, Some Party's first compilation is out now on glorious magnetic cassette. It features new or rare music from Toronto's [Tough Age](https://tough-age.bandcamp.com/), Edmonton's [Wares](https://wares.bandcamp.com), Windsor's [Psychic Void](https://psychicvoid.bandcamp.com),  Montreal's [New Vogue](https://newvogue.bandcamp.com), and the Sackville-via-Windsor group [Partner](https://www.partnerband.com). If you drive a 1986 Chevy Blazer you're all set to rock these tunes.
 
-I'm donating whatever comes in from the tape in these next few weeks to the [Unist'ot'en Camp Legal Fund](http://unistoten.camp/), so if you want one get on board now and I'll count it towards that cause. You can find out more and order online [here](https://www.someparty.ca/store/under-the-circumstances/). 
+I'm donating whatever comes in from the tape in these next few weeks to the [Unist'ot'en Camp Legal Fund](http://unistoten.camp/), so if you want one get on board now and I'll count it towards that cause. You can find out more and order online [here](https://www.someparty.ca/store/under-the-circumstances/).

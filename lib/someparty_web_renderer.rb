@@ -60,6 +60,10 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
       format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
+    elsif raw_html.include? 'soundcloud'
+      doc.css('iframe').add_class('lazyload')
+      format("<div class='wide-media'><div class='center tc'>%s</div></div>", doc.to_html)
+
     else
       doc.css('iframe').add_class('lazyload')
       format("<div class='center tc'>%s</div>", doc.to_html)

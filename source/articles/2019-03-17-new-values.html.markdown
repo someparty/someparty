@@ -2,7 +2,7 @@
 title: New Values
 date: 2019-03-17
 author: adam@someparty.ca (Adam White)
-description: Music fro Bleu Nuit, Hot Garbage, PAX, CRABE, Robbie Brake, Blooming Season. News from B.P.S., Corner Boys, Chian Whip. A letter from Bry Webb.
+description: Music fro Bleu Nuit, Hot Garbage, PAX, CRABE, Robbie Brake, Blooming Season. News from [B.P.S.](https://brainpollutionsyndrome.bandcamp.com), Corner Boys, Chian Whip. A letter from Bry Webb.
 ---
 
 The well of new music from which this newsletter draws felt somewhat dry this past week. You can likely blame the dual-headed industry distraction that was SXSW and the Junos, to say nothing of real-life tragedies taking the wind out of this silly entertainment beat. Still, while there wasn't a massive slate of new media to consume, there was one critical call to action from a musician and human being who sits near the top of my canon. We'll get to that in a moment.
@@ -67,7 +67,7 @@ If you haven't checked out Isölation Party's lovely new garage punk/power-pop L
 
 I don't have any audio from these new next few stories, but you should take note of these upcoming releases.
 
-Firstly [Sewercide Records](http://sewerciderecords.blogspot.com/) is preparing a limited cassette release from B.P.S., a new Halifax punk band that features members from the same DIY scene that birthed the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), [Fragment](https://fragmentpunk.bandcamp.com), [Alienation](https://alienation902.bandcamp.com/), and [Wax](https://wax902.bandcamp.com). The label hasn't shared a song yet, but they comment that it's "for fans of all things fast and chaotic" and warn "those hoping for some type of tuneful 'music' prepare to be disappointed."
+Firstly [Sewercide Records](http://sewerciderecords.blogspot.com/) is preparing a limited cassette release from [B.P.S.](https://brainpollutionsyndrome.bandcamp.com), a new Halifax punk band that features members from the same DIY scene that birthed the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), [Fragment](https://fragmentpunk.bandcamp.com), [Alienation](https://alienation902.bandcamp.com/), and [Wax](https://wax902.bandcamp.com). The label hasn't shared a song yet, but they comment that it's "for fans of all things fast and chaotic" and warn "those hoping for some type of tuneful 'music' prepare to be disappointed."
 
 I'm pretty excited about this, as the bands that frequently form out of this peer group have consistently churned out some of the best punk and hardcore in the country.
 

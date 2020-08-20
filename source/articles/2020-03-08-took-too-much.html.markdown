@@ -25,7 +25,7 @@ Jade Hairpins emerged in the run-up to Fucked Up's 2018 LP *Dose Your Dreams* as
 
 [Watch: Jade Hairpins - "J Terrapin" @ YouTube](https://youtu.be/JE4lRwWiDAA "#")
 
-[Partner](http://partnerband.tumblr.com/) has a new single out titled "Good Place to Hide (At The Time)," and it comes packing massive Rush vibes. In a statement they commented:
+[Partner](https://www.partnerband.com) has a new single out titled "Good Place to Hide (At The Time)," and it comes packing massive Rush vibes. In a statement they commented:
 
 > "You find yourself in a room with a locked door. You have always been there. It is all you have ever known. You have no reason to believe you could leave, no reason to believe you would ever want to. And then one day you hear the murmurs. Faint at first, you can't make out the words. But their very existence tells a truth that you have always known. There is something else. And you search and search and just when you are feeling spent and the bright beam of hope has faded to a glimmer, it reveals itself to you, miraculously. The key. And so you cast aside your doubt and grin with victory. But when you slide the key in, behind the door there is another locked door. The search continues.
 >
