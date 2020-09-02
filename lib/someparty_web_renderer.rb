@@ -63,7 +63,6 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     elsif raw_html.include? 'soundcloud'
       doc.css('iframe').add_class('lazyload')
       format("<div class='wide-media'><div class='center tc'>%s</div></div>", doc.to_html)
-
     else
       doc.css('iframe').add_class('lazyload')
       format("<div class='center tc'>%s</div>", doc.to_html)

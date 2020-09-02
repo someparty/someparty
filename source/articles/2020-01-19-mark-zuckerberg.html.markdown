@@ -91,7 +91,7 @@ Frontman George Pettit commented in a statement:
 
 [Listen: Alexisonfire - "Season of the Flood" @ YouTube](https://youtu.be/Ug0AiLTpPLM "#")
 
-Alexis are playing those western dates alongside L.A. punks The Distillers and Montreal garage-rock quartet [NOBRO](https://www.facebook.com/nobrocity/). The latter recently announced an EP through [Dine Alone](http://dinealonerecords.com/), titled *Sick Hustle*. It arrives on April 3. You can hear the sugar-bomb first single from the set, "Marianna," linked below.
+Alexis are playing those western dates alongside L.A. punks The Distillers and Montreal garage-rock quartet [NOBRO](https://nobro.bandcamp.com/). The latter recently announced an EP through [Dine Alone](http://dinealonerecords.com/), titled *Sick Hustle*. It arrives on April 3. You can hear the sugar-bomb first single from the set, "Marianna," linked below.
 
 In a statement vocalist/bassist Kathryn McCaughey commented on the track:
 
