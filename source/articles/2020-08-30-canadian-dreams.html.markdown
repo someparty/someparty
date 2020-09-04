@@ -89,7 +89,7 @@ Lead by vocalist/drummer Brett Frigon, The Noodle Boys features guitarists Julia
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1955818381/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://thenoodleboys.bandcamp.com/track/the-walk">The Walk by the noodle boys</a></iframe>
 
-[Listen: The Noodle Boys - "The Walk" @ Bandcam](https://thenoodleboys.bandcamp.com/track/the-walk "#")
+[Listen: The Noodle Boys - "The Walk" @ Bandcamp](https://thenoodleboys.bandcamp.com/track/the-walk "#")
 
 The angular, new-wave indebted [Crack Cloud](https://crackcloud.bandcamp.com/) has a limited edition live LP on the way. *Live Leak* compiles material from two sessions, a March 2019 appearance on the Los Angeles KXLU show [Part Time Punks](http://www.parttimepunks.com/) and a set from August of last year recorded for the BBC's [Radio 6 Music](https://www.bbc.co.uk/programmes/m00010rh). The vinyl release is limited to just 150 copies.
 
