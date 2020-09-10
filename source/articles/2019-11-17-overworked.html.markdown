@@ -29,7 +29,7 @@ Maybe. You can check out "Lil Boy Girl" below and find *Cherry, cherry* in full 
 
 [Watch: Louie Short - "Lil Boy Girl" @ Some Party](https://www.someparty.ca/premieres/louie-short-lil-boy-girl/ "#")
 
-Toronto electronic music producer Victoria Cheong has a new EP out as [New Chance](https://www.newchance.biz/). Titled *Hardly Working*, the set follows Cheong's 2018 debut and a busy few years of collaborative work supporting [Jennifer Castle](https://twitter.com/jnfrcastle), [U.S. Girls](http://yousgirls.blogspot.ca/), Chandra, and reggae legend Willi Williams, among others.
+Toronto electronic music producer Victoria Cheong has a new EP out as [New Chance](https://www.newchance.biz/). Titled *Hardly Working*, the set follows Cheong's 2018 debut and a busy few years of collaborative work supporting [Jennifer Castle](https://jennifercastle.bandcamp.com/), [U.S. Girls](http://yousgirls.blogspot.ca/), Chandra, and reggae legend Willi Williams, among others.
 
 You can stream the set's lead single, "Overworked," at [Bandcamp](https://newchance.bandcamp.com/track/overworked) now. It's an appropriate title given how frequently Cheong ends up lending her vocals or production skills to some of the country's most artistically relevant touring acts. *Hardly Working* is available now as a four-song 45 RPM 12". A kaleidoscopic video for "Overworked," directed by Peter Rahul with choreography by Allison Peacock, can be found below.
 
