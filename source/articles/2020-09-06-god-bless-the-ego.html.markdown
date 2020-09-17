@@ -17,7 +17,7 @@ Protruders last released *Poison Future* in 2019 on [Feel It Records](https://fe
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=601340962/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://itchyself.bandcamp.com/album/heres-the-rub">Here&#39;s the Rub by Itchy Self</a></iframe>
 
-[Listen: Itchy Self - "God Bless The Ego" @ YouTube](https://itchyself.bandcamp.com/album/heres-the-rub "#")
+[Listen: Itchy Self - "God Bless The Ego" @ Bandcamp](https://itchyself.bandcamp.com/album/heres-the-rub "#")
 
 Before we get any further this week, just a note that I've my remaining copies of *[Under The Circumstances](https://www.someparty.ca/store/under-the-circumstances/)*, the first Some Party mixtape, up for sale [Bandcamp](https://someparty.bandcamp.com/), with 100% of the proceeds to due for the [1492 Land Back Lane Legal Fund](https://www.gofundme.com/f/legal-fund-1492-land-back-lane). Snag one now and help me support the Six Nations land defenders fighting the latest housing development to encroach on their territory.
 
@@ -61,7 +61,7 @@ Speaking of Kingfisher Bluez, the Vancouver label recently issued *Short Songs 2
 
 [Daniel Romano](http://www.danielromanomusic.com/)'s Outfit shared a second video preview of their upcoming *How Ill Thy World Is Ordered* last week with the new single "Green Eye Shade." The Welland artist commented on the equine-focused clip in a florid statement:
 
-"From a lightning bolt. From the sea. In the end of eternity, The white horse  Carries no saint, no world saviour, The white horse roams free in its spectacular Human-less liberty as the aspiration of its destiny. Empty chariots, hidden in green vines, hill-like and indistinguishable from the world's eye — the rotting fossil of the gods. There is a white horse, roaming in the green eye-shade, In a new dawning hour, through a mad reverie, bore the eyes of the kingdom, green eye-shade, In the fall of all power, rose a clear alchemy of green eye-shade."
+>"From a lightning bolt. From the sea. In the end of eternity, The white horse  Carries no saint, no world saviour, The white horse roams free in its spectacular Human-less liberty as the aspiration of its destiny. Empty chariots, hidden in green vines, hill-like and indistinguishable from the world's eye — the rotting fossil of the gods. There is a white horse, roaming in the green eye-shade, In a new dawning hour, through a mad reverie, bore the eyes of the kingdom, green eye-shade, In the fall of all power, rose a clear alchemy of green eye-shade."
 
 The track will be part of the 11-song LP when it arrives from [You've Changed Records](http://youvechangedrecords.com/) on September 18. The Outfit features Romano backed by vocalist Julianna Riolino, guitarist/vocalist David Nardi, bassist Roddy Rossetti, and drummer Ian Romano, with guest contributions from pianist Mark Lalama, vocalist Briana Salmena, sax player Victor Belcastro, and Aaron Hutchinson on trumpet. The new single follows "A Rat Without a Tale" in previewing the set.
 

@@ -59,7 +59,7 @@ Fond will launch the 5-song cassette release this week with a [show](https://www
 
 [Listen: Fond - "Against The Pavement" @ SoundCloud](https://soundcloud.com/artoftheuncarvedblock/against-the-pavement "#")
 
-[Brigitte Bardon't](http://kristeljax.com/bardont.html), the stage name of Toronto drone-pop artist Kristel Jax, has a new full-length on the way titled *Radio Songs*. The twelve-track collection of sound collages is the result of a series of field recordings recorded over the past five years. Each track showcases a different town, with recordings made in Canada, the U.S., and Italy. [Already Dead Tapes](https://alreadydeadtapes.bandcamp.com) will release *Radio Songs* as a cassette on November 1. The label commented:
+[Brigitte Bardon't](https://bardont.bandcamp.com), the stage name of Toronto drone-pop artist Kristel Jax, has a new full-length on the way titled *Radio Songs*. The twelve-track collection of sound collages is the result of a series of field recordings recorded over the past five years. Each track showcases a different town, with recordings made in Canada, the U.S., and Italy. [Already Dead Tapes](https://alreadydeadtapes.bandcamp.com) will release *Radio Songs* as a cassette on November 1. The label commented:
 
 > "Here, Bardon't's haunting vocals are absent — these twelve tracks feature only radio and field recordings, layered, collaged, sampled back, slowed, or recorded straight in one shot. Inspired by DJ Screw, Maria Chavez, Christian Marclay, and Nike7up, these noise and pop compositions dial into the radio as an emotional barometer of place and time."
 
