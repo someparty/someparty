@@ -39,7 +39,7 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     elsif raw_html.include? 'twitter-tweet'
       doc.css('blockquote').add_class('dib tl')
       doc.css('iframe').add_class('lazyload')
-      format("<div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
+      format("<div class='wide-media'><div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div></div>", doc.to_html)
     elsif raw_html.include? 'bandcamp'
       doc.css('iframe').add_class('lazyload')
       # Bandcamp's narrow player doesn't center nicely with the provided inline styles

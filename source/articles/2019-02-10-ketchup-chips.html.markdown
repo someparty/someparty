@@ -63,7 +63,7 @@ The project will launch on February 14 with a [release show](https://www.faceboo
 
 [Watch: Mother Tongues - "She's Gone" @ YouTube](https://youtu.be/jYQUH8bYNj0 "#")
 
-Quebec City-based no wave / dance-punk trio [VICTIME](https://victimelol.bandcamp.com/) premiered a new track last week at Punknews titled "Diego." It's the second premiere we've had of the band's upcoming [Michel Records](https://www.facebook.com/MichelRecords/) / [Oktober Tone](http://www.octobertone.com) EP *Mi-tronc, mi-jambe*. The six-song set arrives on March 8. VICTIME features bassist/vocalist Laurence Gauthier-Brown, drummer Samuel Gougoux, and guitarist Simon Provencher. The band's new stuff was engineered and mixed by Simon Provencher at Le Pantoum.
+Quebec City-based No Wave / dance-punk trio [VICTIME](https://victimelol.bandcamp.com/) premiered a new track last week at Punknews titled "Diego." It's the second premiere we've had of the band's upcoming [Michel Records](https://www.facebook.com/MichelRecords/) / [Oktober Tone](http://www.octobertone.com) EP *Mi-tronc, mi-jambe*. The six-song set arrives on March 8. VICTIME features bassist/vocalist Laurence Gauthier-Brown, drummer Samuel Gougoux, and guitarist Simon Provencher. The band's new stuff was engineered and mixed by Simon Provencher at Le Pantoum.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/559948590%3Fsecret_token%3Ds-yAtRK&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
 </iframe>

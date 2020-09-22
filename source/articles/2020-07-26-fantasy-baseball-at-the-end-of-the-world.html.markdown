@@ -85,7 +85,7 @@ Yves Jarvis is the latest stage name for Jean-Sebastian Audet. He previously rec
 
 [Watch: Yves Jarvis - "For Props" @ YouTube](https://youtu.be/VsEf74t1dyc "#")
 
-This week the Toronto no-wave act [New Fries](https://newfries.bandcamp.com/) shared "Lily," their latest preview of the forthcoming LP *Is The Idea Of Us*. The glitchy, hypnotic track arrived alongside a pulsing, and appropriately surreal, video by [Oliver Husain](http://www.husain.de/). In a statement carried by [Indie88](https://indie88.com/watch-new-fries-share-video-for-new-track-lily/), the group commented:
+This week the Toronto No Wave act [New Fries](https://newfries.bandcamp.com/) shared "Lily," their latest preview of the forthcoming LP *Is The Idea Of Us*. The glitchy, hypnotic track arrived alongside a pulsing, and appropriately surreal, video by [Oliver Husain](http://www.husain.de/). In a statement carried by [Indie88](https://indie88.com/watch-new-fries-share-video-for-new-track-lily/), the group commented:
 
 >"Lilydale, New York is a caged community inhabited almost exclusively by mediums – those who communicate with the spirit world. It is a community of liars and people with special spiritual gifts. People across North America travel here to connect with the deceased. Anni spent many summers in Lilydale as a kid - her grandfather was a medium."
 

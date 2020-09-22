@@ -34,7 +34,7 @@ Charise Aragoza ([Maylee Todd](https://www.mayleetodd.com/)), drummer Nick Kervi
 
 [Listen: Mother Tongues - "Let You Down" @ Bandcamp](http://mothertongues.bandcamp.com/track/let-you-down "#")
 
-Cult Toronto no-wave act [New Fries](https://newfries.bandcamp.com/) recently shared a second preview of their upcoming LP *Is The Idea Of Us*. "Arendt / Adler / Pulley Pulley Pulley Pulley" is the penultimate track on the 13-song record. The song exemplifies the band's genre-defying tendencies, with the group hypnotically swirling unpredictable instrumentals over a groovy bassline and some fantastically infectious percussion. In a press release the band offered an oblique statement on the song:
+Cult Toronto No Wave act [New Fries](https://newfries.bandcamp.com/) recently shared a second preview of their upcoming LP *Is The Idea Of Us*. "Arendt / Adler / Pulley Pulley Pulley Pulley" is the penultimate track on the 13-song record. The song exemplifies the band's genre-defying tendencies, with the group hypnotically swirling unpredictable instrumentals over a groovy bassline and some fantastically infectious percussion. In a press release the band offered an oblique statement on the song:
 
 > "Something about the women obscuring their gender and traditional roles (intentionally or otherwise) to do their work without interruption or expectation. Being contrarians, shrill. Seeking truth without taking care of emotions. Often their work is forensic, razor-sharp, and bright with clarity."
 

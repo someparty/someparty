@@ -79,7 +79,7 @@ Given the cover art, it's safe to say that the themes of suburban alienation tha
 
 > "Death Lust is about growing up death obsessed. It's about the pain that it takes but the capacity that we have to overcome."
 
-A couple of days ago Chastity livestreamed a set from a barn in Whitby supporting METZ. The raised money for the [Frontenac Youth Services](http://frontenacyouthservices.org/), a Durham Region youth mental health organization.
+A couple of days ago Chastity live streamed a set from a barn in Whitby supporting METZ. The raised money for the [Frontenac Youth Services](http://frontenacyouthservices.org/), a Durham Region youth mental health organization.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=720642882/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://chastitysongs.bandcamp.com/album/death-lust">Death Lust by chastity</a></iframe>
 

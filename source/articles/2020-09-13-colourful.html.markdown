@@ -5,9 +5,9 @@ author: adam@someparty.ca (Adam White)
 description: Catching up with Figure Walking, Teenanger, Night Lunch, Self-Cut Bangs, Brigitte Bardon't, Roach, Spencer Burton, La Bise, Gulfer, Oakhearts, Les Mains Sales, Leisure Palace, Me Mom and Morgentaler, and Mo Kenney
 ---
 
-It's been one of those weeks, folks... one of those weeks I again prove that the world doesn't pause to accomodate my lackadasical deadlines. I've stretched my already nebulous concept of "Sunday" out longer than I should have and came crashing right into the next week's new music slate. How dare the nation's PR engines not play to the sorry beat of my lethargic drum?
+It's been one of those weeks, folks... one of those weeks where I again prove that the world doesn't pause to accomodate my lackadasical efforts. I stretched my already nebulous concept of "Sunday" out longer than I should have and came crashing right into the next week's new music slate. How dare the nation's PR engines not play to the sorry beat of my lethargic drum?
 
-As of now, there's *essential* new stuff out in the wild from Jennifer Castle, the Chandra band, Partner, the OBGMs, and a host of other notables. I'll catch up with all of that in the next edition, but you're encouraged to seek it out in the meantime. "React to it at your leisure" has been the unofficial slogan of this newsletter since the get-go, and this week I'm leaning just a little too far into it.
+As of now, there's *essential* new stuff out in the wild from Jennifer Castle, the Chandra band, Partner, the OBGMs, and a host of other notables. I'll catch up with all of that in the next edition, but you're encouraged to seek it out in the meantime. "React to it at your leisure" has been the unofficial slogan of this newsletter since the get-go, and this week I'm leaning just a little too far into it for comfort.
 
 ---
 
@@ -61,7 +61,7 @@ This week sees the self-titled debut release from Calgary power-pop group [Self-
 
 >"Initially started as a means to kill time without killing their wallets in the very early days of 2020 quarantine, Cayley O'Neill and Shawn Petsche spent a short Saturday afternoon writing a rock song that looked forward to time outside of their small Calgary apartment. As quarantine was extended, so too was the tradition of waking up Saturday morning and writing and recording a song before the sun went down, by themselves, for no one else but themselves. Before they knew it, they had an album's worth of material that they slowly admitted to themselves was 'actually pretty good. Maybe even really good?'"
 
-A video for the song "Pillow Talk" is online now, featuring animated wrestlig footage entirely assembled within the *WWE 2K16* video game. You can also preview three of the record's nine songs at Bandcamp now (with the rest coming this Friday).
+A video for the song "Pillow Talk" is online now, featuring animated wrestling footage entirely assembled within the *WWE 2K16* video game. You can also preview three of the record's nine songs at Bandcamp now (with the rest coming this Friday).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qmzDpmKRs8Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -161,7 +161,7 @@ As part of last Saturday's online [MTL vs. Racisme](https://www.facebook.com/mtl
 
 A video featuring the cover, co-created by drummer Sid Santiago and longtime friend Rosella Tursi, screened as part of the online event and fundraiser. You can check it out now on YouTube.
 
-Me Mom and Morgentaler came together in 1988, releasing their first EP, *Clown Heaven and Hell*, in 1991. Their lone studio album, *Shiva Space Machine*, arrived in two years later, followed by the live record *We Are Revolting* in 1994. The group last reunited on stage in 2007. Players on this song include vocalist/guitarist Gus Van Go, vocalists
+Me Mom and Morgentaler came together in 1988, releasing their first EP, *Clown Heaven and Hell*, in 1991. Their lone studio album, *Shiva Space Machine*, arrived two years later, followed by the live record *We Are Revolting* in 1994. The group last reunited on stage in 2007. Players on this song include vocalist/guitarist Gus Van Go, vocalists
 Kim Bingham and Noah Green, Adam Bix Berger on vocals and trumpet, John Jordan on vocals and saxophone, Kasia Hering on the accordion, Matt Lipscombe on bass, John JB Britton on percussion, and drummer Sid Zanforlin. Van Go collected the disparate recordings to produce, mix, and master the result.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IVygczRFfEc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

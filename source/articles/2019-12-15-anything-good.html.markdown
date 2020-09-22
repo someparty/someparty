@@ -15,7 +15,7 @@ At one point in history, The Thrill played as The Shame, and emerged from Vancou
 
 [Listen: The Thrill - *The Thrill* @ Bandcamp](http://thethrillthethrill.bandcamp.com/album/the-thrill "#")
 
-Last week Patrick Flegel announced their next studio album as the haunting Toronto no-wave/trans-pop act [Cindy Lee](https://cindylee-w25th.bandcamp.com/). Titled *What's Tonight to Eternity*, the set's due on February 14 via the [Superior Viaduct](https://www.superiorviaduct.com) imprint [W.25TH](https://www.superiorviaduct.com/collections/w25th). The record follows 2018's *Model Express* full-length.
+Last week Patrick Flegel announced their next studio album as the haunting Toronto No Wave/trans-pop act [Cindy Lee](https://cindylee-w25th.bandcamp.com/). Titled *What's Tonight to Eternity*, the set's due on February 14 via the [Superior Viaduct](https://www.superiorviaduct.com) imprint [W.25TH](https://www.superiorviaduct.com/collections/w25th). The record follows 2018's *Model Express* full-length.
 
 In a statement, Flegel reflected on the influence of Karen Carpenter, the late American singer whose death at the age of 32 brought increased public visibility to anorexia and other eating disorders. Flegel commented that Carpenter's story reverberates through this new work:
 
