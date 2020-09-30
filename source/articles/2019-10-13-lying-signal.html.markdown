@@ -51,7 +51,7 @@ The record's arriving on [Bonsound](http://www.bonsound.com/) in Canada and the 
 
 Friday, October 17 also marks the release of *Big Time*, the debut full-length from Toronto jangle-pop duo [Triples](https://triplesband.bandcamp.com/). [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/) has the 10-song set streaming online now, with a cassette release to follow soon. The collection follows a few years of one-off digital singles, folding several of those tracks (like the infectious "Hillside") into its run-time.
 
-Triples feature the sisters Eva and Madeline Link. Eva's previously played bass in the Toronto pop-punk band [PONY](https://www.facebook.com/ponyband/), while Madeline's low-fi project [PAX](https://madelink.bandcamp.com/) recently released a full-length titled *Ouch*. Seamus Patterson recorded and produced the tracks comprising *Big Time* in Toronto.
+Triples feature the sisters Eva and Madeline Link. Eva's previously played bass in the Toronto pop-punk band [PONY](https://ponytheband.ca/), while Madeline's low-fi project [PAX](https://madelink.bandcamp.com/) recently released a full-length titled *Ouch*. Seamus Patterson recorded and produced the tracks comprising *Big Time* in Toronto.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=403180520/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://triplesband.bandcamp.com/album/big-time">Big Time by Triples</a></iframe>
 

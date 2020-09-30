@@ -37,9 +37,9 @@ New York City post-punk artist Chandra, and her Toronto-based backing band, rece
 
 >"I don't have a clear memory of what inspired it. My guess is that it was meant to be a message to people who felt they were on the periphery. I was giving advice based on my experiences at middle school of feeling excluded and rejected."
 
-CChandra's band features several Toronto-based musicians with whom readers of this newsletter should be well acquainted. Among the group, you'll find Victoria Cheong ([New Chance](https://www.newchance.biz/)) and [Bile Sister](https://bilesister.ca/)'s Julie Reich on vocals, Kristina Koski on keyboards, [Teenanger](https://teenanger.bandcamp.com/)'s Jon Schouten on guitar, Nyles Miszczyk on bass, and Jesse Locke of [Tough Age](https://tough-age.bandcamp.com/) on drums.
+Chandra's band features several Toronto-based musicians with whom readers of this newsletter should be well acquainted. Among the group, you'll find Victoria Cheong ([New Chance](https://www.newchance.biz/)) and [Bile Sister](https://bilesister.ca/)'s Julie Reich on vocals, Kristina Koski on keyboards, [Teenanger](https://teenanger.bandcamp.com/)'s Jon Schouten on guitar, Nyles Miszczyk on bass, and Jesse Locke of [Tough Age](https://tough-age.bandcamp.com/) on drums.
 
-The track's digital release includeS a dub remix of the single by Saturday Looks Good To Me legend Fred Thomas. All proceeds raised are due for the [Encampment Support Network](https://twitter.com/esn_to) and the shelter organization [Through These Doors](https://www.throughthesedoors.org/).
+The track's digital release includes a dub remix of the single by Saturday Looks Good To Me legend Fred Thomas. All proceeds raised are due for the [Encampment Support Network](https://twitter.com/esn_to) and the shelter organization [Through These Doors](https://www.throughthesedoors.org/).
 
 In 2018 the [Telephone Explosion](https://www.telephoneexplosion.com/) label collected and reissued Chandra's early work as the *Transportation EPs*.
 
@@ -117,7 +117,7 @@ Toronto noise-punks [METZ](http://www.metzztem.com/) have a third video online p
 
 >"I started thinking of the feeling of war or samurai films, beautiful but dark and violent... but then I had this idea to work up a more unique world... I started to think of a more futuristic setting — more unusual and dream-like with the story set on a distant planet where there is future technology and some kind of alien magic... like a futuristic fable. I loved the idea of the hero Ayeth on this nomadic walk through an epic landscape... I loved the strength in her and the pairing of her with a wounded companion, something really human and vulnerable… I wanted that emotive warmth countering the cold military images."
 
-SSimilar to PUP's plans, METZ also announced that a live stream performace to coincide with the release. The ticketed event will see the group playing the record in its entirety on October 15, with the trio taking the stage at Toronto's Opera House. An October 17 performance will also air, targeting audiences overseas. Tickets and details on the streams are online at the band's [store](https://dice.fm/artist/metz-jvl4).
+Similar to PUP's plans, METZ also announced that a live stream performance to coincide with the release. The ticketed event will see the group playing the record in its entirety on October 15, with the trio taking the stage at Toronto's Opera House. An October 17 performance will also air, targeting audiences overseas. Tickets and details on the streams are online at the band's [store](https://dice.fm/artist/metz-jvl4).
 
 Frontman Alex Edkins commented on the importance of the live show and reflected on its glaring absence this album cycle:
 
@@ -153,7 +153,7 @@ In case you missed it, [Adam Mowery](https://itsadammowery.bandcamp.com) also re
 
 Montreal art-rock group [Suuns](https://suuns.bandcamp.com/) have a new EP due for an October 30 release on [Secret City](https://www.secretcityrecords.com/) and [Joyful Noise](https://www.joyfulnoiserecordings.com). The set, titled *Fiction*, follows 2018's full-length *Felt*.
 
-With the announcement the band shared the audio for the song  "Pray." Drummer Liam O'Neill commented on the track:
+With the announcement, the band shared the audio for the song  "Pray." Drummer Liam O'Neill commented on the track:
 
 >"We recorded *PRAY* in the heat of the Dallas summer in 2015 with our mate John Congleton. We loved it. It was the best song we recorded for our 2016 album *Hold/Still*, but it didn't make the cut, probably because we loved it so much and thought we had an even better version of it in us. We subsequently tried to record multiple versions of this song, none of which captured the unhinged energy of this live-off-the-floor performance. Discovering this lost jam and its power felt like a reminder to keep in the moment and to trust ourselves - you just have to keep moving forward."
 

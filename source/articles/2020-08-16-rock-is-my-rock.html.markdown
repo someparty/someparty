@@ -77,7 +77,7 @@ When I Move debuted with a self-titled EP in June. The group succeeds Millar's e
 
 [Listen: When I Move - "Fake Rock N' Roll" @ Bandcamp](https://whenimove.bandcamp.com/album/fake-rock-n-roll "#")
 
-Sam Bielanski's bubblegum-punk act [PONY](https://www.facebook.com/ponyband/) has been quiet for far too long. "WedMB" is the project's first proper single of the year, following a nigh-perfect cover of *The Wedding Singer*'s climactic "Somebody Kill Me Please" back in May. It also marks the band's first material as part of the [Take This To Heart](http://www.takethistoheartrecords.com/) family. Bielanski stated, "this song is dedicated to anyone who spends their Friday night googling symptoms."
+Sam Bielanski's bubblegum-punk act [PONY](https://ponytheband.ca/) has been quiet for far too long. "WedMB" is the project's first proper single of the year, following a nigh-perfect cover of *The Wedding Singer*'s climactic "Somebody Kill Me Please" back in May. It also marks the band's first material as part of the [Take This To Heart](http://www.takethistoheartrecords.com/) family. Bielanski stated, "this song is dedicated to anyone who spends their Friday night googling symptoms."
 
 The tune features Bielanski on vocals and guitar, with additional guitar and bass from [Pretty Matty](http://www.prettymatty.com)'s Matty Morand, and guitar from [Pacer](https://pacerto.bandcamp.com)'s Shawn Kosmo. Pretty Matty drummer Lucas Horne plays on the track, with Tokyo Police Club keyboardist Graham Wright contributing on synth. The song follows PONY's 2019 single "Limerence," and (long) before that their 2017 EP *Do You*.
 

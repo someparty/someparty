@@ -41,7 +41,7 @@ The album's title (and closing) track "The Gratitude Principle" is online now to
 
 [Listen: The Cosmic Range - "The Gratitude Principle" @ Bandcamp](http://thecosmicrange.bandcamp.com/album/the-gratitude-principle "#")
 
-Toronto's [Triples](https://triplesband.bandcamp.com/) recently returned with "Hillside," a sunny new single (and accompanying video) that delivers what's possibly the most effortlessly joyful vocal hook I've heard in a while. The jangle-pop duo, prominently influenced by early 90s indie rock, features guitarist Eva Link and drummer Madeline Link (the daughters of Pete Link from the late-90s Calgary garage rock group the Shinolas). Eva also plays bass in the TO pop-punk band [PONY](https://www.facebook.com/ponyband/).
+Toronto's [Triples](https://triplesband.bandcamp.com/) recently returned with "Hillside," a sunny new single (and accompanying video) that delivers what's possibly the most effortlessly joyful vocal hook I've heard in a while. The jangle-pop duo, prominently influenced by early 90s indie rock, features guitarist Eva Link and drummer Madeline Link (the daughters of Pete Link from the late-90s Calgary garage rock group the Shinolas). Eva also plays bass in the TO pop-punk band [PONY](https://ponytheband.ca/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LULu5L1A4ww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

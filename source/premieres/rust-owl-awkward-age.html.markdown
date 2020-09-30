@@ -24,8 +24,8 @@ These songs are paired with two others on the EP, which will arrive via the [Tra
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2446477610/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3503486783/transparent=true/" seamless><a href="http://rustowl.bandcamp.com/album/r-u-s-t-o-w-l">R U S T O W L by R U S T O W L</a></iframe>
 
-> Well they round up the herd, telling stories that they never learned of a world outside of themselves. Always told to have a voice, but not much longer will they have a choice, because experience, it comes with age. Years, that is the only line between you and I. Do you know it’s clear? The young have no fear.
+> Well they round up the herd, telling stories that they never learned of a world outside of themselves. Always told to have a voice, but not much longer will they have a choice, because experience, it comes with age. Years, that is the only line between you and I. Do you know it's clear? The young have no fear.
 >
-> Now my days are forever cold. Love is gone, and it’s always sold. And I find myself growing old. And I cannot recall no memory at all of our so called awkward age.
+> Now my days are forever cold. Love is gone, and it's always sold. And I find myself growing old. And I cannot recall no memory at all of our so called awkward age.
 >
 > Years, that is the only line between you and I. Do you know its clear? The young have no fear.

@@ -28,7 +28,7 @@ This week the band premiered the song "Hibernation" at [The Manitoban](http://ww
 [Listen: R U S T O W L - "Hibernation" @ Bandcamp](https://rustowl.bandcamp.com/track/hibernation-2 "#")
 
 Also speaking of [Triples](https://triplesband.bandcamp.com/), that band got a nice bump of attention this week with a [profile](https://www.thestar.com/entertainment/music/opinion/2018/03/02/meet-triples-toronto-rocks-ladies-who-grunge.html
-) from Toronto Star pop-music critic [Ben Rayner](https://twitter.com/IhateBenRayner). Triples is a low-fi grunge-pop duo that features guitarist Eva Link and drummer Madeline Link, the daughters of Pete Link of the late-90s Calgary garage rock group the Shinolas. Eva also plays bass in the wonderful [Buzz Records](http://buzzrecords.ca/) pop-punk group [PONY](https://www.facebook.com/ponyband/).
+) from Toronto Star pop-music critic [Ben Rayner](https://twitter.com/IhateBenRayner). Triples is a low-fi grunge-pop duo that features guitarist Eva Link and drummer Madeline Link, the daughters of Pete Link of the late-90s Calgary garage rock group the Shinolas. Eva also plays bass in the wonderful [Buzz Records](http://buzzrecords.ca/) pop-punk group [PONY](https://ponytheband.ca/).
 
 If you've not yet come across it, the band released an excellent EP last summer titled [*Play It Again*](https://triplesband.bandcamp.com/album/play-it-again). Check out their video for the aptly-titled "Summer Song" from that release below.
 

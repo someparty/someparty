@@ -67,7 +67,7 @@ PUP last released *Morbid Stuff* in 2019 on Rise Records in the States and the b
 
 [Watch: PUP - "Anaphylaxis" @ YouTube](https://youtu.be/PWNyNg3SVqk "#")
 
-Toronto power-pop act [Pretty Matty](http://www.prettymatty.com) recently released a killer little punk tune on a split with the Nashville duo Sad Baxter. That song, titled "Why Not Be Something That You Are?", is  featured in a new video from directors Ema Walters and Warren Goodwin. In it, you'll find Matty Morand and [PONY](https://www.facebook.com/ponyband/)'s Sam Bielanski cast as detectives investigating a murder (with Matty, or at least a doppelganger, also playing the victim and the perpetrator).
+Toronto power-pop act [Pretty Matty](http://www.prettymatty.com) recently released a killer little punk tune on a split with the Nashville duo Sad Baxter. That song, titled "Why Not Be Something That You Are?", is  featured in a new video from directors Ema Walters and Warren Goodwin. In it, you'll find Matty Morand and [PONY](https://ponytheband.ca/)'s Sam Bielanski cast as detectives investigating a murder (with Matty, or at least a doppelganger, also playing the victim and the perpetrator).
 
 The Sad Baxter split arrived in early March from [Head 2 Wall Records](http://head2wallrecords.bigcartel.com/product/pretty-matty-sad-baxter-split-7). The 45 follows a recent solo set that Matty Morand recorded with Ian Shelton of the Seattle power-violence outfit [Regional Justice Center](https://regionaljusticecenter.bandcamp.com/). Before that, 2019 saw the release of Pretty Matty's self-titled debut on [Get Better Records](https://getbetterrecords.bandcamp.com/).
 

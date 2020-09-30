@@ -47,7 +47,7 @@ Speaking of Polaris, attendees of Monday's gala are going to pick up a free copy
 
 [Listen: Buffy Sainte-Marie & Tanya Tagaq "You Got To Run (Spirit Of The Wind)" - A Tribe Called Red remix @ SoundCloud](https://soundcloud.com/polarismusicprize/buffy-sainte-marie-tanya-tagaq-you-got-to-run-spirit-of-the-wind-a-tribe-called-red-remix "#")
 
-Toronto pop-punk group [PONY](https://www.facebook.com/ponyband/) has released details on their upcoming EP *Do You*, set for a November 3 release on [Buzz Records](http://buzzrecords.ca/). The band released the first track from the set at [Gold Flake Paint](https://www.goldflakepaint.co.uk/first-listen-pony-small-things/), titled "Small Things" (which was inspired by Buffy the Vampire Slayer - go read the article). The new EP was recorded by Shehzaad Jiwani of [Greys](https://greys.bandcamp.com/).
+Toronto pop-punk group [PONY](https://ponytheband.ca/) has released details on their upcoming EP *Do You*, set for a November 3 release on [Buzz Records](http://buzzrecords.ca/). The band released the first track from the set at [Gold Flake Paint](https://www.goldflakepaint.co.uk/first-listen-pony-small-things/), titled "Small Things" (which was inspired by Buffy the Vampire Slayer - go read the article). The new EP was recorded by Shehzaad Jiwani of [Greys](https://greys.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eVbfxvDtXHw" frameborder="0" allowfullscreen></iframe>
 

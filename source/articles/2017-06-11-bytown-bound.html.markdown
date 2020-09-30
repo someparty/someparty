@@ -27,7 +27,7 @@ The 40 acts voted to the 2017 [Polaris Music Prize](http://polarismusicprize.ca/
 
 [Nardwuar the Human Serviette](http://nardwuar.com/) appeared on [Northern Transmissions](http://www.northerntransmissions.com/news/nardwuar-guests-records-life/)' "Records In My Life" video series. The chat was filmed during the Evaporators' Record Store Day appearance at Vancouver's [Neptoon Records](http://neptoon.com/). He discusses the band's latest full length *Ogopogo Punk* ([Mint](http://www.mintrecs.com/)), which came out on 8-track (why not), along with stories about records from Slow, The Pointed Sticks and more.
 
-[She Shreds Magazine](http://sheshredsmag.com/video-premiere-diy-pony/) premiered a video from Toronto's [PONY](https://www.facebook.com/ponyband/) for the song "DIY." The track appears on the power-pop act's upcoming EP for [Buzz Records](http://buzzrecords.ca/) and was directed by Sudbury's Shawn Kosmo.
+[She Shreds Magazine](http://sheshredsmag.com/video-premiere-diy-pony/) premiered a video from Toronto's [PONY](https://ponytheband.ca/) for the song "DIY." The track appears on the power-pop act's upcoming EP for [Buzz Records](http://buzzrecords.ca/) and was directed by Sudbury's Shawn Kosmo.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/xnB8Z4Fbt0Y?rel=0" frameborder="0" allowfullscreen></iframe>
 

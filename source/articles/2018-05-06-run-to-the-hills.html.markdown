@@ -60,7 +60,7 @@ In the year since that record members of the band have been active with solo wor
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">day two in the studio and the engineer has already yelled “god dammit shehzaad i am going to fucking kill you” so yes i would say this is our best work yet</p>&mdash; Greys (@greysband) <a href="https://twitter.com/greysband/status/988538443893370880?ref_src=twsrc%5Etfw">April 23, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Toronto bubblegum-punk act [PONY](https://www.facebook.com/ponyband/) appeared in an Audiotree North session at the Longboat recently. They performed their 2017 single "Alone Tonight." The band last released the *Do You* EP on [Buzz Records](http://buzzrecords.ca/), produced by the aforementioned Shehzaad Jiwani.
+Toronto bubblegum-punk act [PONY](https://ponytheband.ca/) appeared in an Audiotree North session at the Longboat recently. They performed their 2017 single "Alone Tonight." The band last released the *Do You* EP on [Buzz Records](http://buzzrecords.ca/), produced by the aforementioned Shehzaad Jiwani.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hLdmJC6d-NA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
