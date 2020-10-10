@@ -41,8 +41,7 @@ The EP's, ballad "Behind You With Knives" took first place in the International 
 
 [Listen: Lava Dolls - *Little Secrets* @ Bandcamp](http://lavadolls.bandcamp.com/album/little-secrets "#")
 
-[Dying Scene](
-http://dyingscene.com/news/ds-exclusive-jon-creeden-and-the-flying-hellfish-premiere-new-video-for-nailbiter/) recently premiered a new video for the song "Nailbiter" from Ottawa's [Jon Creeden and The Flying Hellfish](http://www.joncreeden.com/). The big anthemic punk song appears on *Stall*, Creeden's recent full-length and his first with a full band. The Flying Hellfish includes drummer Jason Adair, guitarist Steve McCrimmon, and bassist Ryan Cox. The video was filmed by Jonah Aspler.
+[Dying Scene](http://dyingscene.com/news/ds-exclusive-jon-creeden-and-the-flying-hellfish-premiere-new-video-for-nailbiter/) recently premiered a new video for the song "Nailbiter" from Ottawa's [Jon Creeden and The Flying Hellfish](http://www.joncreeden.com/). The big anthemic punk song appears on *Stall*, Creeden's recent full-length and his first with a full band. The Flying Hellfish includes drummer Jason Adair, guitarist Steve McCrimmon, and bassist Ryan Cox. The video was filmed by Jonah Aspler.
 
 *Stall* was a co-release between Map and Continents Records, Dead Broke Records, and [My Fingers! My Brain! Records](https://myfingersmybrainrecords.bandcamp.com/). Creeden is also running a crowdfunding campaign on [Indiegogo](https://www.indiegogo.com/projects/jon-creeden-the-flying-hellfish-lp-pre-order-canada#/) to fund the vinyl release. It's almost at the finish line, if you were waiting on contributing...
 

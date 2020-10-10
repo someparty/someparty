@@ -112,4 +112,3 @@ Vancouver Celtic punk pioneers [The Real McKenzies](http://www.realmckenzies.com
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6UO7dv64mys" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Watch: The Real McKenzies - "One Day" @ YouTube](https://www.youtube.com/watch?v=6UO7dv64mys "#")
-
