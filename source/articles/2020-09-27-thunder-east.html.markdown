@@ -2,7 +2,7 @@
 title: Thunder East
 date: 2020-09-27
 author: adam@someparty.ca (Adam White)
-description: Outer Rooms, Paradise, Bike Thiefs, Peeling, Pretty Matty, Kiwi Jr, Danko Jones, Tang, Women, HEXOFFENDER, Rust Owl, Peach Kelli Pop, Peter Landi, D.O.A., Chris Page, Chronicles of Chaos
+description: Songs from Outer Rooms, Paradise, Bike Thiefs, Peeling, Pretty Matty, Kiwi Jr, Danko Jones, Tang, Women, HEXOFFENDER, Rust Owl, Peach Kelli Pop, Peter Landi, D.O.A., Chris Page, Chronicles of Chaos
 ---
 
 Toronto indie rock trio [Outer Rooms](https://outerrooms.bandcamp.com) recently unveiled "Thunder East," a compelling new single that unambiguously tackles the economic and cultural challenges of maintaining a lower-income existence in Toronto. The slow-burning track firmly roots itself in an image of the city that seems to decay further with each verse. The band's Sean Fitzpatrick commented:

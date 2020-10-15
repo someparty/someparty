@@ -2,12 +2,12 @@
 title: Heart of Gold
 date: 2020-10-04
 author: adam@someparty.ca (Adam White)
-description: TV Freaks, Flesh Rag, Dime Lifters (Deliluh / WHIMM), Jon Creeden and the Flying Hellfish, Night Lunch, ZONES, Jennifer Castle, Teenanger, Designosaur, Matty Grace, Scratch, Gulfer, Bike Thiefs, PRIORS, Supermegatonne, Meisha & The Spanks, Sloan
+description: New TV Freaks, Flesh Rag, Dime Lifters (Deliluh / WHIMM), Jon Creeden and the Flying Hellfish, Night Lunch, ZONES, Jennifer Castle, Teenanger, Designosaur, Matty Grace, Scratch, Gulfer, Bike Thiefs, PRIORS, Supermegatonne, Meisha & The Spanks, Sloan
 ---
 
 It's been in the works for a while, and with the first single now out in the wild, it really feels that [TV Freaks](https://teeveefreakzz.bandcamp.com/) have something special on deck for us with their upcoming LP *People*. You can stream their opening salvo, the familiarly-named "Heart of Gold," at Bandcamp now. It's the first preview of the 10 track record, due October 30 from [Schizophrenic Records](https://schizophrenicrex.bandcamp.com/). With a four and a half minute runtime and an extended instrumental outro, the track seems like new territory for a band that's so often characterized by whip-fast bursts of sneering garage punk. Is this just a curious anomaly, or are TV Freaks set to follow Fucked Up on out on some Hawkwind-inspired space adventure? We'll find out at the end of the month.
 
-*People* lands as the Hamilton quartet's fourth full-length. They tracked the instrumentals live-off-the-floor over a weekend in May of 2018. The group recorded vocals and additional overdubs throughout 2019 at Boxcar Sound with Sean Pearson behind the boards. Pearson also mixed the record, with the Eddy Current Suppression Ring's Mikey Young mastering. 50 copies of the LP with alternate cover art will be available through the soon-to-be-relocated Hamilton punk mecca [Hammer City Records](https://www.facebook.com/HammerCityRecords/) upon release.
+*People* lands as the Hamilton quartet's fourth full-length. They tracked the instrumentals live-off-the-floor over a weekend in May of 2018. The group recorded vocals and additional overdubs throughout 2019 at Boxcar Sound with Sean Pearson behind the boards. Pearson also mixed the record, with the Eddy Current Suppression Ring's Mikey Young mastering. 50 copies of the LP with alternate cover art will be available through the [soon-to-be-relocated](https://www.facebook.com/HammerCityRecords/posts/3685650678120375) Hamilton punk mecca [Hammer City Records](https://www.facebook.com/HammerCityRecords/) upon release.
 
 Earlier this year, TV Freaks released *Scraps Vol. 1*, a collection of rarities, b-sides, and demo recordings. That 13-song set notably included their cover of [Simply Saucer](https://www.simplysaucer.com/)'s "Illegal Bodies," featuring Edgar Breau of the cult proto-punk act. Furthermore, this year saw a new solo record from Freaks frontman [Sweet Dave](https://sweetdave.bandcamp.com/) O'Connor. His *Pink Dreams* LP arrived on [Yeah Right](http://yeahrightrecords.com/) in March.
 
@@ -51,7 +51,7 @@ Night Lunch features guitarist/vocalist Lukie Lovechild, bassist/vocalist Marlee
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=401018312/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://celluloidlunch.bandcamp.com/album/wall-of-love">Wall of Love by Night Lunch</a></iframe>
 
-[Watch: Night Lunch - "Your Body" @ Bandcamp](https://celluloidlunch.bandcamp.com/album/wall-of-love "#")
+[Listen: Night Lunch - "Your Body" @ Bandcamp](https://celluloidlunch.bandcamp.com/album/wall-of-love "#")
 
 Toronto psych-pop act [ZONES](https://zonesmusic.bandcamp.com/) returns later this month with *Recursion*, a new four-song EP pairing thumping disco grooves with some far-out echo-washed guitar work. The set lands on October 23 from San Francisco's [Several Sounds Resource Centre](https://severalsounds.bandcamp.com/). News of the tape, which follows 2018's *The State of Light* LP, arrived alongside the space-funk single "Mothlight." In a statement to [Exclaim](https://exclaim.ca/music/article/zones_mothlight_video_toronto_psych_disco), ZONES mastermind Derek McKeon commented on the trippy analog video that accompanied the track:
 
@@ -87,13 +87,13 @@ Designosaur features bassist/vocalist Rebecca Dalley, guitarist/vocalist AJ Bout
 
 [Watch: Designosaur - "Hunger Of The Young" @ Bandcamp](https://youtu.be/e7iHAzSoACQ "#")
 
-Speaking of [Matty Grace](http://mattygrace.bandcamp.com/), the Halifax folk-punker recently released a (very) low-fi split EP with the mysterious Garbage Disposal Unit. Each act contributes four new songs to the project, collectively titled *Ambitious Failures*. You can find it on Bandcamp now.
+Speaking of [Matty Grace](http://mattygrace.bandcamp.com/), the Halifax folk-punker recently released a (very) low-fi split EP with the mysterious and ramshackle Garbage Disposal Unit. Each act contributes four new songs to the project, collectively titled *Ambitious Failures*. You can find it on Bandcamp now.
 
 Grace recently released the *Frayed* EP, one in a prolific string of digital releases tracked throughout the COVID lockdown. This year also brought us *Rumination Year*, a six-song album produced by [Surrender](https://surrendersounds.bandcamp.com/)'s Dave Williams. That set arrived just a few weeks after the above-mentioned *Beneath The Bridges* split. In the early months of isolation, Grace released two additional EPs as the punk outfit [Modern Cynics](https://moderncynics.bandcamp.com). In normal times, Grace fronts the punk band [Future Girls](https://futuregirls.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1450293059/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://mattygrace.bandcamp.com/album/ambitious-failures">Ambitious Failures by Matty Grace</a></iframe>
 
-[Listen: Matty Grace - *Ambitious Failures* @ Bandcamp](https://mattygrace.bandcamp.com/album/ambitious-failures "#")
+[Listen: Matty Grace / The Garbage Disposal Unit - *Ambitious Failures* @ Bandcamp](https://mattygrace.bandcamp.com/album/ambitious-failures "#")
 
 Denholm Whale, Toronto concert promoter and founding member of the provocative industrial/electronic act [Odonis Odonis](http://www.odonisodonis.com/), has a new pair of songs online in his solo guise [Scratch](https://scratch.bandcamp.com/). The artist contributed a searing cover of Fang's 1989 classic "The Money Will Roll Right In" for the inaugural issue of the Toronto-area digital zine [Ultra Mag](https://www.ultramag.online/), along with the new original "Cold Day."
 
@@ -151,7 +151,7 @@ Miesha & The Spanks features Miesha Louie on guitar and vocals with Sean Hamilto
 
 [Listen: Meisha & The Spanks - "Wanna Feel Good" @ SoundCloud](https://soundcloud.com/mandthespanks/wanna-feel-good "#")
 
-I'm sure that Cancon alt-rock vets [Sloan](https://sloanmusic.bandcamp.com/) fall decidedly far outside of the unsaid criteria I use to pick the music for this newsletter. Still, I can't deny that their singles have been on constant rotation in our house throughout the pandemic - nostalgia for a more innocent age, I suppose. Anyways, Sloan's in this week. Deal with it.
+I'm sure that Cancon alt-rock vets [Sloan](https://sloanmusic.bandcamp.com/) fall decidedly outside of whatever unsaid criteria I use to pick artists to cover in this newsletter. They don't need me. Still, I can't deny that their singles have been on constant rotation in our house throughout the pandemic - nostalgia for a more innocent age, I suppose. Anyways, Sloan's in this week. Deal with it.
 
 The long-running power-pop group recently released their first new music since 2018's *12* with the single "Silence Trumps Lies." It's unknown if the track's destined for the group's next LP, which is said to be in pre-production now. Frontman Chris Murphy commented on the song, well aware of the obvious double meaning in the title:
 
