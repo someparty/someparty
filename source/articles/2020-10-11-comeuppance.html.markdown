@@ -147,4 +147,4 @@ The set marks VanGaalen's second collection of b-sides for the pandemic era, fol
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3502787129/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://chadvangaalen.bandcamp.com/album/lost-harmonies">Lost Harmonies by Chad VanGaalen</a></iframe>
 
-[Listen: Chad VanGaalen - "Lost Harmonies" @ Bandcamp](https://chadvangaalen.bandcamp.com/album/lost-harmonies "#")
+[Listen: Chad VanGaalen - *Lost Harmonies* @ Bandcamp](https://chadvangaalen.bandcamp.com/album/lost-harmonies "#")

@@ -1,5 +1,5 @@
 ---
-title: "Sponsorships"
+title: "Sponsors"
 layout: page
 ---
 
