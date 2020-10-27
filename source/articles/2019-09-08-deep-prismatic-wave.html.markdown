@@ -19,7 +19,7 @@ You may also know Geraghty as the mastermind behind [Role Mach](https://rolemach
 
 [Listen: Gal Gracen - *Fantasy Gardens* @ Bandcamp](http://galgracen.bandcamp.com/album/fantasy-gardens-2 "#")
 
-Last week the eclectic grunge/sludge/folk collective [WHOOP-Szo](https://thenoisymountain.bandcamp.com) announced that they've signed with Daniel Romano and Steven Lambke's [You've Changed Records](http://youvechangedrecords.com/) for the release of their next full-length. There are few details available at this time, but the label did release a cryptic teaser video featuring a few new sounds along with the title: *Warrior Down*.
+Last week the eclectic grunge/sludge/folk collective [WHOOP-Szo](https://thenoisymountain.bandcamp.com) announced that they've signed with Daniel Romano and Steven Lambke's [You've Changed Records](https://youvechangedrecords.com/) for the release of their next full-length. There are few details available at this time, but the label did release a cryptic teaser video featuring a few new sounds along with the title: *Warrior Down*.
 
 Based in Guelph and London, Ontario, the experimental five-piece is following a number of short-form releases over the past few years, including the 2016 EP *Citizen's Ban(ne)d Radio*, a 2017 split with Halifax psych group [Walrus](https://walrustheband.bandcamp.com/), and last year's 7" single *The Dive*. WHOOP-Szo's current lineup features guitarist/vocalist Adam Sturgeon, Kirsten Kurvink Palm on guitar, synth, and vocals, bassist/keyboardist Joe Thorner, Andrew Lennox on 12-string guitar and synth, and percussionist Eric Lourenco.
 

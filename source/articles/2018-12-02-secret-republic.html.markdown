@@ -17,7 +17,7 @@ Pottery has a record on the way soon, apparently recorded in just two days. Whil
 
 [Listen: Pottery - "Hank Williams" @ Bandcamp](http://pottery.bandcamp.com/track/hank-williams "#")
 
-Of the former members of Welland's [Attack In Black](https://attackinblack.bandcamp.com/), you could argue that the most enigmatic is [Ian Daniel Kehoe](https://www.iandanielkehoe.com/). After a handful of AM radio-styled guitar-pop records as Marine Dreams, Kehoe's solo efforts took a backseat to his role as the stoic sideman for [The Weather Station](http://www.theweatherstation.net/), Andy Shauf, and Julia Jacklin. His live appearances in the intern have featured a smattering of poetry readings and electronic experiments.
+Of the former members of Welland's [Attack In Black](https://attackinblack.bandcamp.com/), you could argue that the most enigmatic is [Ian Daniel Kehoe](https://www.iandanielkehoe.com/). After a handful of AM radio-styled guitar-pop records as Marine Dreams, Kehoe's solo efforts took a backseat to his role as the stoic sideman for [The Weather Station](https://www.theweatherstation.net/), Andy Shauf, and Julia Jacklin. His live appearances in the intern have featured a smattering of poetry readings and electronic experiments.
 
 The new single "Secret Republic," finds Kehoe pairing that verse with bright synth-pop. It's the first of a new set of home-produced recordings, and it's wonderfully accessible in the best sense of the word. Kehoe's personal style, as evident in the accompanying Colin Medley-directed video, remains a carefully curated curiosity. For all the inherent awkward humour, Kehoe never breaks character. That sincerity's pretty interesting, as "Secret Republic" steers clear of both irony and the winking nostalgia that permeates all these 80s-influenced synthwave subgenres.
 
@@ -83,7 +83,7 @@ Romano previously worked with Dboy in the studio, recording their debut mock-liv
 
 [Listen: Ancient Shapes / Dboy 7" @ Bandcamp](http://yeahrightrecords.bandcamp.com/album/ancient-shapes-dboy-7 "#")
 
-Speaking of Danny (and let's face it, it's rare that I'm not), his new full-length *Finally Free* is now out on [You've Changed](http://youvechangedrecords.com/) and [New West Records](http://newwestrecords.com/). The final push before the album dropped featured a new self-produced video for the song "Rhythmic Blood." It finds the genre-defying alt-country artist slow-motion shadowboxing with the camera.
+Speaking of Danny (and let's face it, it's rare that I'm not), his new full-length *Finally Free* is now out on [You've Changed](https://youvechangedrecords.com/) and [New West Records](http://newwestrecords.com/). The final push before the album dropped featured a new self-produced video for the song "Rhythmic Blood." It finds the genre-defying alt-country artist slow-motion shadowboxing with the camera.
 
 The tour supporting *Finally Free* kicks off this week, with Romano's band supported by [FRIGS](https://frigsmusic.com/).
 
@@ -109,7 +109,7 @@ VanGaalen last released the *Light Information* LP in September of 2017 on [Flem
 
 This January [Partner](https://www.partnerband.com) heads out for their first tour of the west coast, co-headlining a series of shows with Seattle's Dude York. The Windsor-via-Sackville slacker rock act announced the shows alongside a succinct new tune titled "Lost My Pick, Can I Borrow One." It's a single verse, one cool guitar solo, and out by a minute thirty.
 
-Partner's currently supporting their Polaris shortlisted debut full-length *In Search of Lost Time*, which came out last year on [You’ve Changed Records](http://youvechangedrecords.com/).
+Partner's currently supporting their Polaris shortlisted debut full-length *In Search of Lost Time*, which came out last year on [You’ve Changed Records](https://youvechangedrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YOkysGbvC_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

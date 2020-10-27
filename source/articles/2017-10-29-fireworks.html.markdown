@@ -30,7 +30,7 @@ It should be noted that Lido's made the same invitation, which is a callback to 
 
 Speaking of...
 
-It's been a couple years since [Steven Lambke](http://stevenlambke.com/)'s last full length. In October of 2015 the artist released *Days of Heaven*, his first major work under his own name. He'd performed and recorded for years prior as Baby Eagle and of course as a member of the beloved Guelph-bred rock band the [Constantines](http://theconstantines.wordpress.com/). Of course the singer/songwriter's kept busy in the meantime, both as a co-owner of [You've Changed Records](http://youvechangedrecords.com/) and the creative director of [SappyFest](http://www.sappyfest.com/), but it's always nice to hear something new. Here it is.
+It's been a couple years since [Steven Lambke](http://stevenlambke.com/)'s last full length. In October of 2015 the artist released *Days of Heaven*, his first major work under his own name. He'd performed and recorded for years prior as Baby Eagle and of course as a member of the beloved Guelph-bred rock band the [Constantines](http://theconstantines.wordpress.com/). Of course the singer/songwriter's kept busy in the meantime, both as a co-owner of [You've Changed Records](https://youvechangedrecords.com/) and the creative director of [SappyFest](http://www.sappyfest.com/), but it's always nice to hear something new. Here it is.
 
 "Fireworks" showed up online last week. The track was recorded in Toronto in August of 2016, but that fact and the lyrics are all Steven's revealed about it so far. It's a shade more uptempo than the understated love songs that comprised *Days of Heaven*. We'll just have it wait and see if it's destined for the follow up.
 

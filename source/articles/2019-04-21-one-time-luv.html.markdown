@@ -87,7 +87,7 @@ Watching this, I'm mostly concerned about why how and why there was a plugged-in
 
 By contrast, there's no dismemberment one way or the other in the video for [Steven Lambke](http://stevenlambke.com/)'s "Cut Flowers." The Colin Medley-directed clip features the stark and poetic track from the Constantines guitarist's recently released LP *Dark Blue*. I've seen Steve play this song live a couple of times and it always brings the room to a standstill.
 
-Lambke's new record follows 2015's *Days of Heaven*. It arrived through [You've Changed Records](http://youvechangedrecords.com/) last month and features instrumentation from Daniel Romano and Dave Nardi.
+Lambke's new record follows 2015's *Days of Heaven*. It arrived through [You've Changed Records](https://youvechangedrecords.com/) last month and features instrumentation from Daniel Romano and Dave Nardi.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qxFGj2korZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

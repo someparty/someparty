@@ -87,7 +87,7 @@ The single artwork shared for "The Girls I Know Don't Think So" features an imag
 
 That show was also documented at the time by [Mechanical Forest Sound](http://mechanicalforestsound.blogspot.com/2019/01/recording-shotgun-jimmie.html) as part of their ongoing series of Toronto-scene field recordings. You can revisit some of the audio from that show at their blog.
 
-*Transistor Sister 2* is the Shotgun Jimmie's first new full-length under his name since 2016's *Field of Trampolines*. It arrives via [You've Changed Records](http://youvechangedrecords.com/).
+*Transistor Sister 2* is the Shotgun Jimmie's first new full-length under his name since 2016's *Field of Trampolines*. It arrives via [You've Changed Records](https://youvechangedrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KQsIp988L9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

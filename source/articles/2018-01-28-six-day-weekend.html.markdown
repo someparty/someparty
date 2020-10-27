@@ -55,7 +55,7 @@ The debut self-titled debut full length from Moncton punk group [Chiller](https:
 
 [Listen: Chiller @ New Noise](https://newnoisemagazine.com/stream-chiller-self-titled/ "#")
 
-Windsor-via-Sackville slacker rock act [Partner](https://www.partnerband.com) has released a video for their single "Everybody Knows." This song is, of course, the lead track from the band's wonderful debut full-length *In Search of Lost Time*, which came out last fall on [You’ve Changed Records](http://youvechangedrecords.com/). In my little bubble, this was the feel-good-hit-of-the-summer, so to introduce it feels unnecessary. If for some odd reason you've not yet embraced the Partner record, that should be your priority. Colin Medley directed the video.
+Windsor-via-Sackville slacker rock act [Partner](https://www.partnerband.com) has released a video for their single "Everybody Knows." This song is, of course, the lead track from the band's wonderful debut full-length *In Search of Lost Time*, which came out last fall on [You’ve Changed Records](https://youvechangedrecords.com/). In my little bubble, this was the feel-good-hit-of-the-summer, so to introduce it feels unnecessary. If for some odd reason you've not yet embraced the Partner record, that should be your priority. Colin Medley directed the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GKnIMO34tK8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -67,7 +67,7 @@ Bandcamp recently published a [retrospective](https://daily.bandcamp.com/2018/01
 
 [Listen: The Nils on Brave New Waves (1988) @ Bandcamp](https://cbcbravenewwaves.bandcamp.com/album/the-nils "#")
 
-Did you miss out on Daniel Romano's limited release digital records *HUMAN TOUCH* and *NERVELESS*? Well, you're out of luck. If you'd rather not relive the disappointment, there's still time to grab a copy of *Silent Rave*, the second full length from Romano's punk group [Ancient Shapes](http://ancientshapes.bandcamp.com). It's being served up on a similar basis, which is to say limited to the end of their tour mid-month. *Silent Rave*, unlike the other records, did in fact get a physical release as a cassette put out by [You've Changed Records](http://youvechangedrecords.com/) last year. Those are pushing $40 on Discogs today.
+Did you miss out on Daniel Romano's limited release digital records *HUMAN TOUCH* and *NERVELESS*? Well, you're out of luck. If you'd rather not relive the disappointment, there's still time to grab a copy of *Silent Rave*, the second full length from Romano's punk group [Ancient Shapes](http://ancientshapes.bandcamp.com). It's being served up on a similar basis, which is to say limited to the end of their tour mid-month. *Silent Rave*, unlike the other records, did in fact get a physical release as a cassette put out by [You've Changed Records](https://youvechangedrecords.com/) last year. Those are pushing $40 on Discogs today.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3641351625/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://ancientshapes.bandcamp.com/album/silent-rave">SILENT RAVE by Ancient Shapes</a></iframe>
 

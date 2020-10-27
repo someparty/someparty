@@ -34,7 +34,7 @@ Ignoring all sound advice to the contrary, I'm thrilled to plumb new depths of m
 
 <span>4.</span> **Partner** - "Lost My Pick, Can I Borrow One?"
 
->Landing in Windsor from their Sappy start in Sackville, New Brunswick, the righteously queer slacker rock act [Partner](https://www.partnerband.com) are still riding high from their triumphant [Polaris](https://polarismusicprize.ca/) shortlisted [You've Changed](http://youvechangedrecords.com/) LP, *In Search of Lost Time*. "Lost My Pick, Can I Borrow One?" is a confection, a quip as an excuse for a bit of effortless guitar heroism from Lucy Niles and Josée Caron. It appears here on a physical release for the first time ever.
+>Landing in Windsor from their Sappy start in Sackville, New Brunswick, the righteously queer slacker rock act [Partner](https://www.partnerband.com) are still riding high from their triumphant [Polaris](https://polarismusicprize.ca/) shortlisted [You've Changed](https://youvechangedrecords.com/) LP, *In Search of Lost Time*. "Lost My Pick, Can I Borrow One?" is a confection, a quip as an excuse for a bit of effortless guitar heroism from Lucy Niles and Josée Caron. It appears here on a physical release for the first time ever.
 
 <span>5.</span> **Wares** - "City Kids (Alt)"
 

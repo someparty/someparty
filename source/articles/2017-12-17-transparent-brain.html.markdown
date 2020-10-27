@@ -15,7 +15,7 @@ The latest from Ancient Shapes is a three-song EP that's both a fundraiser and a
 
 [Listen: Ancient Shapes - "Rats Forever" @ Bandcamp](http://ancientshapes.bandcamp.com/album/rats-forever "#")
 
-It's particularly exciting how Ancient Shapes is starting to play off of Dan's solo endeavours. This winter he'll be taking the Jazz Police out west for a continuation of the *tournée infinite* in support of *Modern Pressure*. They kick off on January 10 in Winnipeg at The Good Will and wrap up on the 20th in Vancouver at Cobalt. Of course, if you drive out to BC, you've got get back home, so they're doing that as Ancient Shapes. That guise plays Vancouver four days later on January 24 and heads eastward to wrap up at Toronto's Smiling Buddha on February 11. You can find all the dates at [You've Changed](http://youvechangedrecords.com/tours/).
+It's particularly exciting how Ancient Shapes is starting to play off of Dan's solo endeavours. This winter he'll be taking the Jazz Police out west for a continuation of the *tournée infinite* in support of *Modern Pressure*. They kick off on January 10 in Winnipeg at The Good Will and wrap up on the 20th in Vancouver at Cobalt. Of course, if you drive out to BC, you've got get back home, so they're doing that as Ancient Shapes. That guise plays Vancouver four days later on January 24 and heads eastward to wrap up at Toronto's Smiling Buddha on February 11. You can find all the dates at [You've Changed](https://youvechangedrecords.com/tours/).
 
 ##On To You
 
@@ -47,7 +47,7 @@ Were you aware that Ottawa garage-punk band [Average Times](https://averagetimes
 
 [Listen: Average Times - "Seconds" @ Bandcamp](https://averagetimes.bandcamp.com/album/seconds "#")
 
-It's list season and I've been spending a lot of time trying to sort out my favourite records of 2017. One that rises a notch every time I listen to it is [The Weather Station](http://www.theweatherstation.net/)'s powerful self-titled release on [Paradise of Bachelors](http://www.paradiseofbachelors.com/) and [Outside Music](https://www.outside-music.com/). [CBC Music](http://www.cbcmusic.ca/) recently posted a live session that features Tamara Lindeman and her band performing nine songs from the record, accompanied at times by a full string section.
+It's list season and I've been spending a lot of time trying to sort out my favourite records of 2017. One that rises a notch every time I listen to it is [The Weather Station](https://www.theweatherstation.net/)'s powerful self-titled release on [Paradise of Bachelors](http://www.paradiseofbachelors.com/) and [Outside Music](https://www.outside-music.com/). [CBC Music](http://www.cbcmusic.ca/) recently posted a live session that features Tamara Lindeman and her band performing nine songs from the record, accompanied at times by a full string section.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pinUZSGioy8?list=PLxuaaONzLc3fNnv_dGcSM1ApOqea-G9Zp&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 

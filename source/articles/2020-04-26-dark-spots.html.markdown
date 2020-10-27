@@ -25,7 +25,7 @@ PRIORS last released *New Pleasure*, their sophomore full-length, paired with a 
 
 This isn't the first time the twisting narrative of Welland's [Attack In Black](https://attackinblack.bandcamp.com/)'s crossed with the Toronto hardcore world, as Ian Romano played with Falco as part of [Career Suicide](https://www.facebook.com/careersuicidehc) during the *Machine Response* era. Danny was no help placing *Super Pollen* into that timeline, claiming "I have no idea when any of it was recorded, and I definitely don't remember doing it."
 
-A week or so into self-quarantine, Danny released a 10-song alt-country record titled *"Visions Of The Higher Dream"*. Before that, his live band The Outfit saw their US tour supporting the new live album *"Okay Wow"* cancelled. That record's out on vinyl now from [You've Changed](http://youvechangedrecords.com/). Before this most recent round of touring, Danny's last proper full-length (whatever that means these days) was 2018's *Finally Free*.
+A week or so into self-quarantine, Danny released a 10-song alt-country record titled *"Visions Of The Higher Dream"*. Before that, his live band The Outfit saw their US tour supporting the new live album *"Okay Wow"* cancelled. That record's out on vinyl now from [You've Changed](https://youvechangedrecords.com/). Before this most recent round of touring, Danny's last proper full-length (whatever that means these days) was 2018's *Finally Free*.
 
 Haliechuk and Falco have been all over the news these past few weeks with simultaneous releases landing from their side projects [Jade Hairpins](https://jadehairpins.bandcamp.com/) and [Masterpiece Machine](http://Masterpiecemachine.bandcamp.com). The former's a synthpop act who've been building up to the May release of their *Harmony Avenue* full-length. The latter's an industrial trio featuring vocals from Riley Gale of the Dallas thrash titans [Power Trip](https://powertripsl.bandcamp.com/). The Fucked Up mothership last released *Dose Your Dreams* in 2018.
 
@@ -175,7 +175,7 @@ You can peek at a short teaser below, but the real show's booked for Friday, May
 
 The EP will be available this weekend from Out Of Sound, arriving both as a digital download and a limited cassette. The collaboration follows the trio's 2018 set, and the first edition in this series, *Revolution C*.
 
-Construction & Destruction's last full-length was 2017's *Noli Timere* (although both members also played that year as part of the electronic group [Delta Blip](https://deltablip.bandcamp.com/)). Steven Lambke released *Dark Blue* in 2019 through [You've Changed Records](http://youvechangedrecords.com/).
+Construction & Destruction's last full-length was 2017's *Noli Timere* (although both members also played that year as part of the electronic group [Delta Blip](https://deltablip.bandcamp.com/)). Steven Lambke released *Dark Blue* in 2019 through [You've Changed Records](https://youvechangedrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WPvif6TTQe4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -39,7 +39,7 @@ You can preview the remaster of the track "Get The Rods Out" over at [50thirdand
 
 [Listen: The Reaction - "Get The Rods Out" @ 50thirdand3rd](http://www.50thirdand3rd.com/preview-the-reaction-get-the-rods-out-early-wave-newfoundland-punk/ "#")
 
-As [Daniel Romano](http://www.danielromanomusic.com/)'s power-pop/punk rock side-project [Ancient Shapes](http://ancientshapes.bandcamp.com) wrapped up a week of triumphant shows across Ontario, his label announced a vinyl release of the band's sophomore album *Silent Rave*. The set was previously released as an extremely limited cassette last year, and outside of a brief (and concluded) run as a Bandcamp download, it's been kept out of the public's hands since. That'll change on October 5th. The 10-track vinyl version of *Silent Rave* on [You've Changed Records](http://youvechangedrecords.com/) features new cover art as well.
+As [Daniel Romano](http://www.danielromanomusic.com/)'s power-pop/punk rock side-project [Ancient Shapes](http://ancientshapes.bandcamp.com) wrapped up a week of triumphant shows across Ontario, his label announced a vinyl release of the band's sophomore album *Silent Rave*. The set was previously released as an extremely limited cassette last year, and outside of a brief (and concluded) run as a Bandcamp download, it's been kept out of the public's hands since. That'll change on October 5th. The 10-track vinyl version of *Silent Rave* on [You've Changed Records](https://youvechangedrecords.com/) features new cover art as well.
 
 To promote the release Romano premiered a video for the album's lead track, "Giant Comma," at Exclaim. Romano described the song in their write-up as:
 

@@ -31,7 +31,7 @@ Weekend Dads last released the *September Downs* EP in 2016 on It's Alive. The g
 
 Toronto's [Ian Daniel Kehoe](https://www.iandanielkehoe.com/) recently emerged from isolation with three new albums, each showcasing a different shade of the often enigmatic poet's musical output. The six-song *Disco Body Buzz*, the 8-song *Rock & Roll Illusion* each wear their genres on their sleeves, while the 10-song *Charging the Stone* finds the former [Attack In Black](https://attackinblack.bandcamp.com/) member dabbling in more introspective balladry. All three sets are available as limited-run cassettes through [Tin Angel](https://www.tinangelrecords.co.uk/), with full digital releases to be shared on streaming services over the remainder of the year (*Rock* on October 9, *Disco* for November 20, and *Stone* on Christmas).
 
-[The Weather Station](http://www.theweatherstation.net/)'s Tamara Lindeman serves as a common thread between the releases, adding backing vocals to songs on each set. [Espanola](https://espanola.bandcamp.com)'s pedal steel master Aaron Goldstein lends his craft a selection of *Charging the Stone*'s songs, as well. Harris Newman mastered all three records.
+[The Weather Station](https://www.theweatherstation.net/)'s Tamara Lindeman serves as a common thread between the releases, adding backing vocals to songs on each set. [Espanola](https://espanola.bandcamp.com)'s pedal steel master Aaron Goldstein lends his craft a selection of *Charging the Stone*'s songs, as well. Harris Newman mastered all three records.
 
 A press release describes the trilogy as:
 
@@ -41,7 +41,7 @@ Kehoe's notes for each record appear on Bandcamp, with the artist delving deepes
 
 > "This collection of songs is different than what is currently publicly known of my music. The forms are different. It sounds different. I wanted to have a record that felt like [John Lennon's 1973 LP] *Mind Games* - songs working in those ways. This is the best I could do at the time. My reaching for such a mark is, I believe, clearly audible throughout. I think its the loudest thing in the mix the whole record thru."
 
-Ian Daniel Kehoe last released the synth-pop styled *Secret Republic* in 2019 on [You've Changed Records](http://youvechangedrecords.com/).
+Ian Daniel Kehoe last released the synth-pop styled *Secret Republic* in 2019 on [You've Changed Records](https://youvechangedrecords.com/).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1770628194/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://iandanielkehoe.bandcamp.com/album/disco-body-buzz">Disco Body Buzz by Ian Daniel Kehoe</a></iframe>
 

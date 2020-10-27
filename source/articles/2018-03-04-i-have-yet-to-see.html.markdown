@@ -63,7 +63,7 @@ Alscher's stacked resume includes stints with [They Shoot Horses Don't They?](ht
 
 [Watch: Chris-a-Riffic - "Fresh Bruise" @ YouTube](https://www.youtube.com/watch?v=Gu3PhM4VbCE "#")
 
-We're a week out from the release of *I'm Bad Now*, [Nap Eyes](https://napeyes.bandcamp.com/)' highly anticipated new full-length for [You've Changed](http://youvechangedrecords.com/), [Paradise of Bachelors](http://www.paradiseofbachelors.com/), and [Jagjaguwar](https://jagjaguwar.com/). The wait's essentially over, as you can now stream the 10 song record in its entirety over at [NPR](
+We're a week out from the release of *I'm Bad Now*, [Nap Eyes](https://napeyes.bandcamp.com/)' highly anticipated new full-length for [You've Changed](https://youvechangedrecords.com/), [Paradise of Bachelors](http://www.paradiseofbachelors.com/), and [Jagjaguwar](https://jagjaguwar.com/). The wait's essentially over, as you can now stream the 10 song record in its entirety over at [NPR](
 https://www.npr.org/2018/03/01/589142518/first-listen-nap-eyes-i-m-bad-now?utm_source=twitter.com&utm_medium=social&utm_campaign=nprmusic&utm_term=music&utm_content=20180301).
 
 The Halifax indie-rock group's also promoting the new work with a slick new medieval-styled video for the track "I'm Bad." Halifax-based director Seth A Smith and his producing partner Nancy Urich are behind the production. They're part of the team that created the recent horror film *The Crescent*.

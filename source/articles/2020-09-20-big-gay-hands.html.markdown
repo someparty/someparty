@@ -13,7 +13,7 @@ Sackville-bred slack-rock heroes [Partner](https://www.partnerband.com) recently
 
 Partner worked with [Bonnie Doon](https://bonniedoon.bandcamp.com/)'s Lesley Marshall on the accompanying video (which is absolutely adorable, by the way).
 
-The 10-song *Never Give Up* arrives from [You've Changed Records](http://youvechangedrecords.com/) on November 20, following up 2017's *In Search of Lost Time* and 2019's *Saturday the 14th* EP. This record finds vocalist/guitarist Josée Caron and vocalist/bassist Lucy Niles backed by drummer Simone TB (Darlene Shrugg, Fake Palms). Partner recorded this material in July of 2019 at Palace Sounds, with Steve Chahley (Ice Cream, US Girls) engineering.
+The 10-song *Never Give Up* arrives from [You've Changed Records](https://youvechangedrecords.com/) on November 20, following up 2017's *In Search of Lost Time* and 2019's *Saturday the 14th* EP. This record finds vocalist/guitarist Josée Caron and vocalist/bassist Lucy Niles backed by drummer Simone TB (Darlene Shrugg, Fake Palms). Partner recorded this material in July of 2019 at Palace Sounds, with Steve Chahley (Ice Cream, US Girls) engineering.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3hxWLlmQYVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -69,7 +69,7 @@ Vocalist Bria Salmena commented on the track:
 
 [Listen: FRIGS - "Crop Circles" @ YouTube](https://youtu.be/B7WYZRHps_0 "#")
 
-[The Weather Station](http://www.theweatherstation.net/) has made a new live session available online for a limited time. Titled *Live at Union*, the set will be available at Bandcamp until October 27, after which it'll only exist as a cassette tape that ships in early November.
+[The Weather Station](https://www.theweatherstation.net/) has made a new live session available online for a limited time. Titled *Live at Union*, the set will be available at Bandcamp until October 27, after which it'll only exist as a cassette tape that ships in early November.
 
 The set captures the live band that's performed in support of the band's 2017 self-titled full-length, featuring Tamara Lindeman backed by Ian Kehoe (Attack In Black/Marine Dreams), Will Kidman (Constantines/Woolly Leaves), and Ben Whiteley. The set was engineered and mixed by Leon Taheny and Ian Gomes, with mastering by Jeff Elliot. The band recorded live at Union on October 1 to tape with no overdubs or edits.
 

@@ -71,7 +71,7 @@ Last week Toronto noise-punk quartet [Greys](https://greys.bandcamp.com/) releas
 
 [Watch: Greys - "Arc Light" @ YouTube](https://youtu.be/XRUOnD9cyXc "#")
 
-Welland troubadour [Daniel Romano](http://www.danielromanomusic.com/) released two new videos last week, putting visuals to both "There Is Beauty In The Vibrant Form" and "Between the Blades of Grass." At this rate, there must be more songs from *Finally Free* with accompanying videos than otherwise. [You've Changed](http://youvechangedrecords.com/) and [New West Records](http://newwestrecords.com/) released the indie-folk chameleon's latest record in 2018.
+Welland troubadour [Daniel Romano](http://www.danielromanomusic.com/) released two new videos last week, putting visuals to both "There Is Beauty In The Vibrant Form" and "Between the Blades of Grass." At this rate, there must be more songs from *Finally Free* with accompanying videos than otherwise. [You've Changed](https://youvechangedrecords.com/) and [New West Records](http://newwestrecords.com/) released the indie-folk chameleon's latest record in 2018.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fBuR6uoiwu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ Windsor slacker rock act [Partner](https://www.partnerband.com) continues to sha
 
 >"'Angel’s Wings' is a song based on a poem by Cedric Sims. It is a collaboration in the style of Elton John and Bernie Taupin. It was also inspired by the grand themes and powerful performances found in Céline Dion songs, so we made a French version too. This song is about going down to 'hell' to face your greatest fears. The song explores how, by having the courage to face your fears head on, you find you possess a strength you never knew. In order to craft this song, we had to face our greatest fears as artists. So form imitates content. Facing our fears is never easy, but there is life on the other side of fear. It’s so important to remind ourselves of this. We hope our listeners can be reminded of this fundamental truth and enjoy the ride!"
 
-*Saturday the 14th* arrives on April 5 from [You’ve Changed](http://youvechangedrecords.com/) and [Father/Daughter Records](http://www.fatherdaughterrecords.com). It'll arrive as both a four-song 45 RPM 12" LP and a five-song CD (with the French version of this new track exclusive to the CD). The set, which follows 2017's *In Search of Lost Time*, was mixed by Chris Shaw (Weezer, Sloan, Ted Leo) and mastered by João Carvalho (Alexisonfire, Silverstein).
+*Saturday the 14th* arrives on April 5 from [You’ve Changed](https://youvechangedrecords.com/) and [Father/Daughter Records](http://www.fatherdaughterrecords.com). It'll arrive as both a four-song 45 RPM 12" LP and a five-song CD (with the French version of this new track exclusive to the CD). The set, which follows 2017's *In Search of Lost Time*, was mixed by Chris Shaw (Weezer, Sloan, Ted Leo) and mastered by João Carvalho (Alexisonfire, Silverstein).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QTLVZ00KSJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

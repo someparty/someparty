@@ -42,9 +42,9 @@ The band announced the tour alongside a new video for the *Shame* track "Me In G
 
 [Watch: Tough Age - "Me In Glue" @ YouTube](https://youtu.be/cqN71zi9F2U "#")
 
-[You've Changed Records](http://youvechangedrecords.com/) announced a March 22 release date for [Ian Daniel Kehoe](https://www.iandanielkehoe.com/)'s upcoming full-length *Secret Republic*. The 10-song set will feature the [title track](https://www.someparty.ca/2018-12-02-secret-republic/) (which we first previewed back in December) and the newly unveiled single "One Picture." A video for that track, directed by longtime You've Changed collaborator [Colin Medley](https://www.colinmedley.com/), was posted last week and showcases the smooth analog synth-pop sound that's become the core this phase in Kehoe's output.
+[You've Changed Records](https://youvechangedrecords.com/) announced a March 22 release date for [Ian Daniel Kehoe](https://www.iandanielkehoe.com/)'s upcoming full-length *Secret Republic*. The 10-song set will feature the [title track](https://www.someparty.ca/2018-12-02-secret-republic/) (which we first previewed back in December) and the newly unveiled single "One Picture." A video for that track, directed by longtime You've Changed collaborator [Colin Medley](https://www.colinmedley.com/), was posted last week and showcases the smooth analog synth-pop sound that's become the core this phase in Kehoe's output.
 
-Kehoe's the former bassist and co-vocalist of Welland's [Attack In Black](https://attackinblack.bandcamp.com/) and released several guitar-pop records as Marine Dreams (most recently 2015's *Producer's Wonderland* ). In between solo projects, he served as a touring musician with [The Weather Station](http://www.theweatherstation.net/), Andy Shauf, and Julia Jacklin.
+Kehoe's the former bassist and co-vocalist of Welland's [Attack In Black](https://attackinblack.bandcamp.com/) and released several guitar-pop records as Marine Dreams (most recently 2015's *Producer's Wonderland* ). In between solo projects, he served as a touring musician with [The Weather Station](https://www.theweatherstation.net/), Andy Shauf, and Julia Jacklin.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWohFffo8b0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

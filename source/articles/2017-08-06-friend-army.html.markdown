@@ -34,7 +34,7 @@ From atop Weaves' mountain of good will you can probably wave at [Partner](https
 >
 > Lucy (Niles) and I try to channel that blissful state in this song, which could be described as an effort to reclaim some of our dignity by surrendering to our true talents. It’s about admiring, romanticizing, and desiring the dignified excellence that seems to come along with being good at sports, knowing it’s something you will never truly experience but not really minding because you’re stoked that you get to hang out with your crush at practice.
 
-Caron and Niles provided some further background on their writing process in an interview at [Stereogum](http://www.stereogum.com/1954647/band-to-watch-partner/franchises/interview/). The new album's out on September 8th via [You've Changed Records](http://youvechangedrecords.com/).
+Caron and Niles provided some further background on their writing process in an interview at [Stereogum](http://www.stereogum.com/1954647/band-to-watch-partner/franchises/interview/). The new album's out on September 8th via [You've Changed Records](https://youvechangedrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/81gPPWA58m0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 

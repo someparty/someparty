@@ -100,7 +100,7 @@ Mobina Galore last released the full-length *Feeling Disconnected* in 2017.
 
 NPR's [Tiny Desk](https://www.npr.org/series/tiny-desk-concerts/) series, which features bands performing live in the office of [All Songs Considered](https://www.npr.org/sections/allsongs/) host Bob Boilen, recently featured Windsor-via-Sackville's slacker rock act [Partner](https://partnerband.bandcamp.com/).
 
-The band's set features "Creature in the Sun" from last year's [You've Changed](http://youvechangedrecords.com/) released full-length *In Search of Lost Time*, along with a pair of new songs. One track is a raucous country tune titled "Tell You Off," while the other is a decidedly gentler piano-driven ballad "Angel's Wings." Josée Caron pitches the bilingual song for Celine Dion's use. The entire performance is full of unexpected flourishes and charming, heartfelt moments. It's well worth your time.
+The band's set features "Creature in the Sun" from last year's [You've Changed](https://youvechangedrecords.com/) released full-length *In Search of Lost Time*, along with a pair of new songs. One track is a raucous country tune titled "Tell You Off," while the other is a decidedly gentler piano-driven ballad "Angel's Wings." Josée Caron pitches the bilingual song for Celine Dion's use. The entire performance is full of unexpected flourishes and charming, heartfelt moments. It's well worth your time.
 
 <iframe width="600" height="338" src="https://www.npr.org/templates/event/embeddedVideo.php?storyId=611908562&mediaId=611938537" frameborder="0" scrolling="no"></iframe>
 

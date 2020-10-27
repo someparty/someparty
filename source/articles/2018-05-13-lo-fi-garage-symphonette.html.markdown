@@ -117,6 +117,6 @@ Dog Day is a Halifax based rock act that's been on hiatus for the past five year
 
 [Listen: Dog Day - "Alone With You" @ Bandcamp](https://fundog.bandcamp.com/album/fade-out "#")
 
-The Halifax/Montreal based [Nap Eyes](https://napeyes.bandcamp.com/) will also take part in the August festival. They're playing in support of their recent LP *I'm Bad Now*. That record, the band's third, saw a joint release in March from [You've Changed Records](http://youvechangedrecords.com/), [Paradise of Bachelors](http://www.paradiseofbachelors.com/), and [Jagjaguwar](https://jagjaguwar.com/) in different territories.
+The Halifax/Montreal based [Nap Eyes](https://napeyes.bandcamp.com/) will also take part in the August festival. They're playing in support of their recent LP *I'm Bad Now*. That record, the band's third, saw a joint release in March from [You've Changed Records](https://youvechangedrecords.com/), [Paradise of Bachelors](http://www.paradiseofbachelors.com/), and [Jagjaguwar](https://jagjaguwar.com/) in different territories.
 
 Last week Nap Eyes took part in [The Lagniappe Sessions](https://aquariumdrunkard.com/2018/05/08/the-lagniappe-sessions-nap-eyes/), recording covers of songs by Lucinda Williams, Neil Young, and The Feelies for the LA music blog [Aquarium Drunkard](https://aquariumdrunkard.com). The band recorded live, with the exception of some guitar overdubs, at Mike Wright's shed in Montreal. You can download MP3s of the covers, and read the band's comments on their picks, at the long-running blog.

@@ -79,7 +79,7 @@ The results of that process are now available to hear. The New Constellations Mi
 
 [Listen: New Constellations Mixtape @ SoundCloud](https://soundcloud.com/rpmfm/sets/new-constellations-mixtape "#")
 
-Tamara Lindeman's [The Weather Station](http://www.theweatherstation.net/) has a new video for the song "Impossible" from her recent self-titled full length. The clip was directed, shot, and edited by [Colin Medley](https://www.colinmedley.com/).
+Tamara Lindeman's [The Weather Station](https://www.theweatherstation.net/) has a new video for the song "Impossible" from her recent self-titled full length. The clip was directed, shot, and edited by [Colin Medley](https://www.colinmedley.com/).
 
 *The Weather Station* was released to much acclaim last October on [Paradise of Bachelors](http://www.paradiseofbachelors.com/) globally and [Outside Music](https://www.outside-music.com/) in Canada.
 

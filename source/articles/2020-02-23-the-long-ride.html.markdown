@@ -89,7 +89,7 @@ London's [WHOOP-Szo](https://thenoisymountain.bandcamp.com) recently revisited "
 
 Sturgeon's experience as an Anishinaabe-Canadian, in particular his struggles with identity while growing up in an urban environment, play heavily into *Warrior Down *'s lyrical content.
 
-[You've Changed Records](http://youvechangedrecords.com/) released *Warrior Down* last November. Kyle Ashbourne recorded and mixed the 10-song set at the Sugar Shack in London, ON, with additional drum tracking by Sturgeon and Nathan Lamb at the Out of Sound House. WHOOP-Szo features guitarist/vocalist Adam Sturgeon, Kirsten Kurvink Palm on guitar, synth, and vocals, bassist/keyboardist Joe Thorner, Andrew Lennox on 12-string guitar and synth, and drummer Eric Lourenco.
+[You've Changed Records](https://youvechangedrecords.com/) released *Warrior Down* last November. Kyle Ashbourne recorded and mixed the 10-song set at the Sugar Shack in London, ON, with additional drum tracking by Sturgeon and Nathan Lamb at the Out of Sound House. WHOOP-Szo features guitarist/vocalist Adam Sturgeon, Kirsten Kurvink Palm on guitar, synth, and vocals, bassist/keyboardist Joe Thorner, Andrew Lennox on 12-string guitar and synth, and drummer Eric Lourenco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KS477ZbkZJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

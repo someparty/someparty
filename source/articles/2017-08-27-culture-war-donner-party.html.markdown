@@ -87,7 +87,7 @@ Toronto noise-punk ambassadors [METZ](http://www.metzztem.com/) have released an
 
 Burlington, Ontario punk band [The Penske File](https://thepenskefileband.bandcamp.com/) have announced a fall tour of Canada (with a few US stops). They'll play Quebec with their Stomp labelmates The Creepshow in September, then head west. The band's supporting their 2015 full-length *Burn Into The Earth*, a follow-up for which is expected in the not-too-distant future. The dates are at [Punknews](https://www.punknews.org/article/64549/tours-the-penske-file-announces-fall-tour).
 
-I've been listening to "Thirty" by [The Weather Station](http://www.theweatherstation.net/) pretty much daily since I first heard it. That's probably not going to change between now and the October 6th release of the new self-titled full length on [Paradise of Bachelors](http://www.paradiseofbachelors.com/) and [Outside Music](https://www.outside-music.com/). Tamara Lindeman recently released a new video for the track which you can check out below.
+I've been listening to "Thirty" by [The Weather Station](https://www.theweatherstation.net/) pretty much daily since I first heard it. That's probably not going to change between now and the October 6th release of the new self-titled full length on [Paradise of Bachelors](http://www.paradiseofbachelors.com/) and [Outside Music](https://www.outside-music.com/). Tamara Lindeman recently released a new video for the track which you can check out below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1qlK5dF5s4" frameborder="0" allowfullscreen></iframe>
 

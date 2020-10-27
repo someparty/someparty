@@ -141,7 +141,7 @@ I uncensored "Shithead" in the CBC's copy, for the record.
 
 [How my middle-aged buddy went from broke to joining his hero's band @ CBC.ca](https://www.cbc.ca/radio/docproject/how-my-middle-aged-buddy-went-from-broke-to-joining-his-hero-s-band-1.4971171 "#")
 
-[You've Changed Records](http://youvechangedrecords.com/) is 10 years old this year, and the label's founders are up to something. Label-heads [Steven Lambke](http://stevenlambke.com/) and [Daniel Romano](http://www.danielromanomusic.com/) are working on a project together in the studio. The duo shared a single polaroid from a recent session, commenting cryptically that "Dark Blue is coming soon."
+[You've Changed Records](https://youvechangedrecords.com/) is 10 years old this year, and the label's founders are up to something. Label-heads [Steven Lambke](http://stevenlambke.com/) and [Daniel Romano](http://www.danielromanomusic.com/) are working on a project together in the studio. The duo shared a single polaroid from a recent session, commenting cryptically that "Dark Blue is coming soon."
 
 Lambke's performed and recorded for years as Baby Eagle and more recently under his own name. He's a member of the beloved Guelph-bred rock band the [Constantines](http://theconstantines.wordpress.com/) and the creative director of [SappyFest](http://www.sappyfest.com/). Romano's prolific solo career is a frequent topic of this newsletter. He's recorded and toured recently with his power-pop combo [Ancient Shapes](http://ancientshapes.bandcamp.com) as well. Danny's roots are in the Welland, Ontario punk quartet [Attack In Black](https://attackinblack.bandcamp.com/).
 

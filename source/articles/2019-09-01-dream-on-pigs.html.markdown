@@ -51,7 +51,7 @@ The new set should be available from [Walk A Mile Records](https://walkamilereco
 
 The Windsor-based slacker rock act recorded their take at Toronto's Union Sound Company. You can find it below along with live footage from the studio. The *Cover Sessions* series pairs contemporary Polaris nominees with material from classic Canadian as recognized by the [Slaight Family Polaris Heritage Prize](https://polarismusicprize.ca/heritage-prize/).
 
-Partner last released the *Saturday the 14th* EP in April on [You've Changed](http://youvechangedrecords.com/) and [Father/Daughter Records](http://www.fatherdaughterrecords.com). It followed up the band's Polaris-shortlisted debut LP, *In Search of Lost Time*.
+Partner last released the *Saturday the 14th* EP in April on [You've Changed](https://youvechangedrecords.com/) and [Father/Daughter Records](http://www.fatherdaughterrecords.com). It followed up the band's Polaris-shortlisted debut LP, *In Search of Lost Time*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bCXKHmXDSSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

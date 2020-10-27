@@ -31,7 +31,7 @@ Jade Hairpins emerged in the run-up to Fucked Up's 2018 LP *Dose Your Dreams* as
 >
 >We wrote this song over the course of about a Year. We had long wanted to explore the idea of hiding, of hidden truths. A chance phrase from our friend Alfred set this song in motion. We hope you enjoy our newest offering."
 
-The Sackville-born, Windsor-based slacker rock act last released the *Saturday the 14th* EP on [You've Changed](http://youvechangedrecords.com/) and [Father/Daughter Records](http://www.fatherdaughterrecords.com). It followed the group's [Polaris](https://polarismusicprize.ca/)-shortlisted debut LP, *In Search of Lost Time*. In the past year the band contributed a cover of the Rush classic "Limelight" to the Polaris *Cover Sessions* series and also appeared on the very first Some Party cassette comp, *[Under The Circumstances](https://www.someparty.ca/store/under-the-circumstances/)*.
+The Sackville-born, Windsor-based slacker rock act last released the *Saturday the 14th* EP on [You've Changed](https://youvechangedrecords.com/) and [Father/Daughter Records](http://www.fatherdaughterrecords.com). It followed the group's [Polaris](https://polarismusicprize.ca/)-shortlisted debut LP, *In Search of Lost Time*. In the past year the band contributed a cover of the Rush classic "Limelight" to the Polaris *Cover Sessions* series and also appeared on the very first Some Party cassette comp, *[Under The Circumstances](https://www.someparty.ca/store/under-the-circumstances/)*.
 
 Partner's core songwriting duo of guitarist/vocalist Josée Caron and bassist/vocalist Lucy Niles recorded "Good Place To Hide" with drummer Simone TB (Darlene Shrugg, Fake Palms). There's no word yet if this track's a one-off or due for their certainly-forthcoming sophomore LP.
 
@@ -39,7 +39,7 @@ Partner's core songwriting duo of guitarist/vocalist Josée Caron and bassist/vo
 
 [Listen: Partner: "Good Place To Hide (At The Time)" @ Bandcamp](https://partnerband.bandcamp.com/album/good-place-to-hide-at-the-time "#")
 
-Simone Schmidt's solo act [Fiver](http://www.fiverfiverfiver.com/) returns this year, built out into Maritime supergroup collectively dubbed Fiver and the Atlantic School Of Spontaneous Composition. The four-piece features Schmidt (once of the alt-country group One Hundred Dollars, and still a member of the psych-rock act [The Highest Order](https://www.facebook.com/TheHighestOrder/)) backed by [Nick Dourado](https://budi.bandcamp.com/) (sax-player for [Aquakultre](https://aquakultre.bandcamp.com/), [Century Egg](https://centuryegg.bandcamp.com), and others), [Special Costello](https://specialcostello.bandcamp.com/)'s Jeremy Costello, and [Vulva Culture](http://vulvaculture.bandcamp.com)'s Bianca Palmer. The quartet recorded several sessions live off the floor at Gavin Gardiner's All Day Coconut Studio in Toronto. The first slate of those recordings arrives from [You've Changed](http://youvechangedrecords.com/) on April 3 as an EP titled *You Wanted Country? Vol. 1*.
+Simone Schmidt's solo act [Fiver](http://www.fiverfiverfiver.com/) returns this year, built out into Maritime supergroup collectively dubbed Fiver and the Atlantic School Of Spontaneous Composition. The four-piece features Schmidt (once of the alt-country group One Hundred Dollars, and still a member of the psych-rock act [The Highest Order](https://www.facebook.com/TheHighestOrder/)) backed by [Nick Dourado](https://budi.bandcamp.com/) (sax-player for [Aquakultre](https://aquakultre.bandcamp.com/), [Century Egg](https://centuryegg.bandcamp.com), and others), [Special Costello](https://specialcostello.bandcamp.com/)'s Jeremy Costello, and [Vulva Culture](http://vulvaculture.bandcamp.com)'s Bianca Palmer. The quartet recorded several sessions live off the floor at Gavin Gardiner's All Day Coconut Studio in Toronto. The first slate of those recordings arrives from [You've Changed](https://youvechangedrecords.com/) on April 3 as an EP titled *You Wanted Country? Vol. 1*.
 
 Below you'll find a stream of Fiver's reinterpretation of the 1968 Dillard & Clark classic "Train Leaves Here This Morning." The new recordings follow up Schmidt's critically acclaimed 2017's solo record *Audible Songs from Rockwood*.
 
@@ -121,7 +121,7 @@ The Windsor campus radio station [CJAM](http://www.cjam.ca/) recently shared a l
 
 Josh Kaiser of Kaiser Sound Productions (and the mighty Psychic Void!) recorded the session, with a group of local filmmakers taking part in the production (Elliot Hale, Greg Maxwell, Walter Petrichyn, Rosina Riccardo, to be specific). Filmmaker David Konstantino produced and edited the footage.
 
-*Transistor Sister 2* arrived last summer on [You've Changed Records](http://youvechangedrecords.com/). If you're in Toronto (and you see this newsletter before Tuesday), you can catch Jimmie on March 10 at the Tranzac playing two solo acoustic sets.
+*Transistor Sister 2* arrived last summer on [You've Changed Records](https://youvechangedrecords.com/). If you're in Toronto (and you see this newsletter before Tuesday), you can catch Jimmie on March 10 at the Tranzac playing two solo acoustic sets.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SKI8dcGkoLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

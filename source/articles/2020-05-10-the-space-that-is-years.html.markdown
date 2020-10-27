@@ -15,7 +15,7 @@ WLMRT last released the 10-song full-length cassette *Forever* in 2019, with Pit
 
 [Daniel Romano](http://www.danielromanomusic.com/)'s enviably prolific quarantine hasn't gone unnoticed in the world outside this newsletter, but last week the Welland artist unveiled what may be his most over-the-top release of the period. Along with his remote-recording band The Outfit, and inexplicably joined by Tool drummer Danny Carey, he shared a nearly 23-minute prog epic dubbed "Forever Love's Fool." You can find the opulent new track now on Bandcamp.
 
-This particular genre swerve follows the country-styled record *Content To Point The Way*, the slightly more alt-country LP *"Visions Of The Higher Dream"*, and the punky EP *Super Pollen* (with Jonah Falco and Mike Haliechuk [Fucked Up](http://fuckedup.cc/)). Before going into lockdown, Danny was on the road with The Outfit supporting that band's first live album, the [You've Changed](http://youvechangedrecords.com/) released *"Okay Wow"*.
+This particular genre swerve follows the country-styled record *Content To Point The Way*, the slightly more alt-country LP *"Visions Of The Higher Dream"*, and the punky EP *Super Pollen* (with Jonah Falco and Mike Haliechuk [Fucked Up](http://fuckedup.cc/)). Before going into lockdown, Danny was on the road with The Outfit supporting that band's first live album, the [You've Changed](https://youvechangedrecords.com/) released *"Okay Wow"*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2754741362/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://danielromano.bandcamp.com/album/forever-loves-fool-feat-danny-carey">Forever Love&#39;s Fool (Feat. Danny Carey) by Daniel Romano&#39;s Outfit Feat. Danny Carey</a></iframe>
 
@@ -111,7 +111,7 @@ London's [WHOOP-Szo](https://thenoisymountain.bandcamp.com) has a new video onli
 
 > "Nshwaaswi is the name of the eighth song on our record Warrior Down. Much of Anishinaabe culture is based around the number seven, most notably our 7 Grandfather Teachings (Truth, Love, Bravery, Respect, Humility, Honesty and Wisdom) and the stages of life. We also have a prophecy that talks about an 8th fire or stage that we as humans can choose to light. The 8th fire of prosperity, love and well-being. An eternal fire of peace."
 
-Videographer Travis Welowszky directed the "Nshwaaswi" clip, piecing together a surprisingly nerve-wracking, if downright apocalyptic, narrative from Sturgeon's old family vacation footage. [You've Changed Records](http://youvechangedrecords.com/) released *Warrior Down* last November. Before the pandemic shut the live music scene down, the band was slated to tour North America alongside ...And You Will Know Us by the Trail of Dead.
+Videographer Travis Welowszky directed the "Nshwaaswi" clip, piecing together a surprisingly nerve-wracking, if downright apocalyptic, narrative from Sturgeon's old family vacation footage. [You've Changed Records](https://youvechangedrecords.com/) released *Warrior Down* last November. Before the pandemic shut the live music scene down, the band was slated to tour North America alongside ...And You Will Know Us by the Trail of Dead.
 
 WHOOP-Szo features Sturgeon alongside Kirsten Kurvink Palm on guitar, synth, and vocals, bassist/keyboardist Joe Thorner, Andrew Lennox on 12-string guitar and synth, and drummer Eric Lourenco. They're hinting at more recorded material to arrive this year.
 

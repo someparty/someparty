@@ -29,7 +29,7 @@ I'm married to a Wellander, and I don't mean those new subdivisions encroaching 
 
 I shared the defiant, perhaps tongue-in-cheek "Welland 2020" video to Facebook, to which my mother-in-law, never one to comment on my music nonsense, chimed in with "hope he's right." Here's hoping.
 
-The song appears on *A Flower That Wouldn't Bloom*, the third full-length from the [Daniel Romano](http://www.danielromanomusic.com/)-fronted punk group. The record came out just this past week on [You've Changed Records](http://youvechangedrecords.com/). While Danny puts together these albums more-or-less solo in the studio, the live Shapes band includes Ian Romano, David Nardi, Vee Bell, and Roddy Rosetti.
+The song appears on *A Flower That Wouldn't Bloom*, the third full-length from the [Daniel Romano](http://www.danielromanomusic.com/)-fronted punk group. The record came out just this past week on [You've Changed Records](https://youvechangedrecords.com/). While Danny puts together these albums more-or-less solo in the studio, the live Shapes band includes Ian Romano, David Nardi, Vee Bell, and Roddy Rosetti.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mB_bFqg-TwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -57,7 +57,7 @@ If that's got you in the mood for more satisfyingly shout-along low-budget punk,
 >
 >In our communities, it is our mothers and children that have bore the weight of colonialism. That our ways of life have been diminished by a system designed against us. A $7 can of pop, a $5 chocolate bar, and $9 bag of chips. A lullaby."
 
-*Warrior Down* drops Friday, November 1 on [You've Changed Records](http://youvechangedrecords.com/). Kyle Ashbourne recorded and mixed the 10-song set at the Sugar Shack in London, ON, with additional drum tracking by Sturgeon and Nathan Lamb at the Out of Sound House. WHOOP-Szo features guitarist/vocalist Adam Sturgeon, Kirsten Kurvink Palm on guitar, synth, and vocals, bassist/keyboardist Joe Thorner, Andrew Lennox on 12-string guitar and synth, and drummer Eric Lourenco.
+*Warrior Down* drops Friday, November 1 on [You've Changed Records](https://youvechangedrecords.com/). Kyle Ashbourne recorded and mixed the 10-song set at the Sugar Shack in London, ON, with additional drum tracking by Sturgeon and Nathan Lamb at the Out of Sound House. WHOOP-Szo features guitarist/vocalist Adam Sturgeon, Kirsten Kurvink Palm on guitar, synth, and vocals, bassist/keyboardist Joe Thorner, Andrew Lennox on 12-string guitar and synth, and drummer Eric Lourenco.
 
 The new record follows 2016's EP *Citizen's Ban(ne)d Radio*, a 2017 split with Halifax psych group [Walrus](https://walrustheband.bandcamp.com/), and last year's 7" single *The Dive*. The WHOOP-Szo will [tour](https://www.facebook.com/pg/WHOOPszo/events/) behind the record throughout November, playing shows with [Chastity](https://chastitysongs.bandcamp.com), [METZ](http://www.metzztem.com/), [Motherhood](https://motherhoodmusic.bandcamp.com/), and [FET.NAT](https://fetnat.bandcamp.com), on various stops.
 

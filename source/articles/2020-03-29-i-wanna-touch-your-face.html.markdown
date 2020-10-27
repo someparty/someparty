@@ -61,7 +61,7 @@ Halifax singer/songwriter [Jon Mckiel](https://jonMckiel.bandcamp.com/) has a ne
 
 > "Magic recombines ordinary objects to wake us; acknowledge mystery. Pluck from the landscape a rose or a bruise. World forms and unforms in universe around us - a moment comes and then dissolves. Tides and life; on the shore let us embrace beneath Moon and tremble a little as lovers and kin while we tumble through time in the wandering place."
 
-*Bobby Joe Hope* follows up on Mckiel's 2017 LP *Memorial Ten Count*. It features found-audio salvaged from a second-hand reel-to-reel recorder and incorporated into each of the album's nine tracks. Mckiel worked in the studio with [JOYFULTALK](https://joyfultalk.bandcamp.com/)'s Jay Crocker on the project. *Bobby Joe Hope* arrives on April 24 from [You've Changed Records](http://youvechangedrecords.com/).
+*Bobby Joe Hope* follows up on Mckiel's 2017 LP *Memorial Ten Count*. It features found-audio salvaged from a second-hand reel-to-reel recorder and incorporated into each of the album's nine tracks. Mckiel worked in the studio with [JOYFULTALK](https://joyfultalk.bandcamp.com/)'s Jay Crocker on the project. *Bobby Joe Hope* arrives on April 24 from [You've Changed Records](https://youvechangedrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yWZBHSQNEZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
