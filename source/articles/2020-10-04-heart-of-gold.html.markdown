@@ -127,7 +127,7 @@ Bike Thiefs features bassist Kris Pandierada, drummer Andrew Fasken, and guitari
 
 I'm certainly not alone in missing live music, and when I find my mind drifting back to better days, the band blowing out my hearing in some dingy bar looks a lot like Montreal's [PRIORS](https://priorsmtl.bandcamp.com/). While it'll be a while before we can get back to that, the garage punk act just gave us the next best thing by sharing a full live set as part of this year's [Lawnya Vawnya](https://lawnyavawnya.com/) event. The band took part in the pandemic-edition of the Newfoundland music and arts festival earlier this month. You can check the video out on YouTube now.
 
-PRIORS last released the *New Pleasure* LP and *Call For You* EP in 2018 on [Slovenly](http://www.slovenly.com/). During the summer lockdown, vocalist Chance Hutchison and his partner Jackie Blenkarn (of the [Pale Lips](https://palelips.bandcamp.com/)) released a handful of new songs as [Chance & Jackie](http://chanceandjackie.bandcamp.com). A third PRIORS LP was in the works before the pandemic took hold. Expect it soon.
+PRIORS last released the *New Pleasure* LP and *Call For You* EP in 2018 on [Slovenly](https://www.slovenly.com/). During the summer lockdown, vocalist Chance Hutchison and his partner Jackie Blenkarn (of the [Pale Lips](https://palelips.bandcamp.com/)) released a handful of new songs as [Chance & Jackie](http://chanceandjackie.bandcamp.com). A third PRIORS LP was in the works before the pandemic took hold. Expect it soon.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gojv5-6qbH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

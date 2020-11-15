@@ -61,7 +61,7 @@ Pretty Matty are embarking on a U.S. tour this week. Upon their return to home t
 
 [Listen: Pretty Matty - "I'm Fine" @ Bandcamp](https://prettymatty.com/track/im-fine "#")
 
-Montreal garage punks [PRIORS](https://priorsmtl.bandcamp.com/) have a new video online, showcasing another track from their unrelenting recent [Slovenly](http://www.slovenly.com/) LP *New Pleasure*. You can check out the "Provoked" over at YouTube. The band's Alan Hildebrandt directed the clip.
+Montreal garage punks [PRIORS](https://priorsmtl.bandcamp.com/) have a new video online, showcasing another track from their unrelenting recent [Slovenly](https://www.slovenly.com/) LP *New Pleasure*. You can check out the "Provoked" over at YouTube. The band's Alan Hildebrandt directed the clip.
 
 PRIORS are supporting both *New Pleasure* and their follow-up EP *Call For You* with a U.S. tour in September. The band's gigging down the east coast as they make the pilgrimage to Memphis' annual garage-rock gathering [Goner Fest](https://www.goner-records.com/gonerfest/), then swinging back up through the midwest in early October. You can find the [tour dates](https://www.facebook.com/priorsmtl/posts/2616770448341130) on Facebook. PRIORS aren't the only Canadian band making that trip to Memphis. They'll be joined at the event by their Sudbury labelmates [Tommy and the Commies](https://tommyandthecommies.bandcamp.com) and the Hamilton proto-punk legends [Simply Saucer](https://www.simplysaucer.com/).
 

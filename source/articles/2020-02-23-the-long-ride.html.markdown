@@ -117,7 +117,7 @@ The Judges recently released a live record titled *Live! Sentence*, recorded at 
 
 [Punknews](https://www.punknews.org/article/71967/exclusivevideos-the-fizzgigs-destiny) recently shared a new track from the Calgary pop-punk group [The Fizzgigs](https://fizzgi.gs/). "Destiny" arrived alongside a video directed by Patryk Terelak and Rockwell White of Dirty Sloth. The song's one of 10 due to appear on the full-length *Weeeeeeeeeeeee are the Fizzgigs*, due March 20 from [Meter Records](https://www.facebook.com/meter.records/). Scott Griffin produced the set.
 
-The Fizzgigs are a four-piece heavily inspired by early 90s power-pop and the mid-90s punk revival (their bio professes their love for the catalogues of Lookout and Asian Man Records). The band features vocalist/guitarist Jason Sinclair, bassist Dean Rud (Belveder, [The Evidence](http://theevidence.net/)), lead-guitarist Scott Marshall ([Belvedere](https://www.facebook.com/belvedere669/)), and drummer Cody Coates ([Lions, Tigers and Bears](https://www.lionsandtigersandbears.ca/))
+The Fizzgigs are a four-piece heavily inspired by early 90s power-pop and the mid-90s punk revival (their bio professes their love for the catalogues of Lookout and Asian Man Records). The band features vocalist/guitarist Jason Sinclair, bassist Dean Rud (Belvedere, [The Evidence](http://theevidence.net/)), lead-guitarist Scott Marshall ([Belvedere](https://www.facebook.com/belvedere669/)), and drummer Cody Coates ([Lions, Tigers and Bears](https://www.lionsandtigersandbears.ca/)).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lZbZiTwTq-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

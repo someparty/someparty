@@ -103,7 +103,7 @@ The 11-song *Morbid Stuff* was recorded at the Union Sound Company last spring w
 
 Chance Hutchison of the Montreal garage-punks [PRIORS](https://priorsmtl.bandcamp.com/) and the Devo-core [Sonic Avenues](https://sonicavenues.bandcamp.com/) offshoot [New Vogue](https://newvogue.bandcamp.com) has a new collection of demo recordings online. Released under the name [Cosmic Club](http://cosmicclub.bandcamp.com), the set features 8 slices of tweaked-out robot pop that should certainly satisfy if you're into any of Hutchison's main gigs.
 
-PRIORS recently released their sophomore full-length *New Pleasure* (and an immediate follow-up EP titled *Call For You*) on [Slovenly](http://www.slovenly.com/). The group's been prepping their next LP for a late 2019/early 2020 release. Tour announcements in both Canada and the US are expected soon.
+PRIORS recently released their sophomore full-length *New Pleasure* (and an immediate follow-up EP titled *Call For You*) on [Slovenly](https://www.slovenly.com/). The group's been prepping their next LP for a late 2019/early 2020 release. Tour announcements in both Canada and the US are expected soon.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1635728372/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://cosmicclub.bandcamp.com/album/demo">DEMO by Cosmic Club</a></iframe>
 

@@ -15,7 +15,7 @@ Bleu Nuit is following up a five-song EP from 2017 and the "Féminin Masculin" d
 
 [Listen: Bleu Nuit - "Le même discours" @ Bandcamp](https://bleunuitmtl.bandcamp.com/track/le-m-me-discours-single "#")
 
-Last Thursday I premiered a new song from Montreal garage-punks [PRIORS](https://priorsmtl.bandcamp.com/) over at Punknews. "Sunshine" will appear on the band's upcoming 14-song sophomore LP *New Pleasure*, which arrives November 16 on [Slovenly](http://www.slovenly.com/). This time out PRIORS features Chance Hutchison, Drew Demers, Seb Godin, Alan Hildebrandt, and Stuart Buckley, members who've (currently or formally) played in [Sonic Avenues](https://sonicavenues.bandcamp.com/), [New Vogue](https://newvogue.bandcamp.com), the [Steve Adamyk Band](http://www.steveadamykband.com), and [The Famines](http://www.thefamines.ca/).
+Last Thursday I premiered a new song from Montreal garage-punks [PRIORS](https://priorsmtl.bandcamp.com/) over at Punknews. "Sunshine" will appear on the band's upcoming 14-song sophomore LP *New Pleasure*, which arrives November 16 on [Slovenly](https://www.slovenly.com/). This time out PRIORS features Chance Hutchison, Drew Demers, Seb Godin, Alan Hildebrandt, and Stuart Buckley, members who've (currently or formally) played in [Sonic Avenues](https://sonicavenues.bandcamp.com/), [New Vogue](https://newvogue.bandcamp.com), the [Steve Adamyk Band](http://www.steveadamykband.com), and [The Famines](http://www.thefamines.ca/).
 
 Slovenly asked Eric Davidson, frontman of the legendary New Bomb Turks, to say a few words about the new PRIORS record. He commented, in part:
 

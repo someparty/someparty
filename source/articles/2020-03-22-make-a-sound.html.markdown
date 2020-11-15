@@ -131,7 +131,7 @@ Also hailing from Edmonton, the three-piece [Alloys](https://alloysmusic.bandcam
 
 [Listen: Alloys - "The Future (version)" @ Bandcamp](https://alloysmusic.bandcamp.com/track/the-future-version "#")
 
-Experimental Montreal noisemakers [NYON](https://n-y-o-n.bandcamp.com) recently returned with *Between Beaubien and Saint-Zotique*, a nine-track collection of new material. Allister Scott (electronics, bass) and Jaames Nicholas Dumile Willoughby (saxophone, piano) form the act's core, with several guest vocalists appearing on various tracks. Micah Brown (Conditioner, BBQT) produced record. In a statement on Facebook, Scott commented:
+Experimental Montreal noisemakers [NYON](https://n-y-o-n.bandcamp.com) recently returned with *Between Beaubien and Saint-Zotique*, a nine-track collection of new material. Allister Scott (electronics, bass) and Jaames Nicholas Dumile Willoughby (saxophone, piano) form the act's core, with several guest vocalists appearing on various tracks. Micah Brown (Conditioner, BBQT) produced the record. In a statement on Facebook, Scott commented:
 
 > "This record is what Montreal winter felt like to me, right before the break of spring. A city that always is in hibernation and feels so asleep during those few months in the dead of winter. Certainly far flung from what the 20 somethings experience when they 'move' to the city for a summer. It's dedicated and closer in relation to the old men sitting in the little Italy parc on those -15 degree mornings than the grand prix weekend.
 >

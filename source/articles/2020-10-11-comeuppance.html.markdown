@@ -99,7 +99,7 @@ Dundas power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) recently sh
 
 > "Y'all ever felt yourself sliding down the greasy hill of love? Down, down, down you pathetically slide until you reach the bottom. Finally, you find yourself hanging from the cliffs of sanity, above the fiery hell of romance. We present to you 'Blunt Force Concussion...' We pulled out all the stops on this one: bangin' ass drum fills, booty shakin' bass lines, big boi geetars and a thousand dollar chorus. If you don't like this song, fuck you and the horse you rode in on."
 
-The new tune follows "Done With Drugs" and "Doom Boy" in previewing the record, the band's third. The album is due from [Dine Alone Records](http://dinealonerecords.com/) on January 1, 2021. The trip, featuring Bentham on guitar and vocals backed by bassist Ross Miller, and drummer Kyle Fisher, is following-up on their 2018 *Master Volume*.
+The new tune follows "Done With Drugs" and "Doom Boy" in previewing the record, the band's third. The album is due from [Dine Alone Records](http://dinealonerecords.com/) on January 1, 2021. The trio, featuring Bentham on guitar and vocals backed by bassist Ross Miller, and drummer Kyle Fisher, is following-up on their 2018 *Master Volume*.
 
 The band is currently in the midst of a 14-day live streaming event, featuring the Nil and a revolving cast of musicians appearing virtually in concert with venues across North America. You can find details and tickets for the Dancing 2 Thrash tour at [Noonchorus](https://noonchorus.com/the-dirty-nil/).
 
@@ -121,7 +121,7 @@ Last year the Montreal psych/punk act [No Negative](https://nonegativemtl.bandca
 
 Furthermore, No Negative recently announced a follow-up EP due in the fall titled *The Darkening Hour*. The release, expected as a 12" on [Éditions 8888](https://editions8888.com/), will feature several outtakes along with a five minute cover of "Louie Louie" with Montreal provocateur [Bernardino Femminielli](https://femminielli.bandcamp.com/) on vocals.
 
-*The Last Offices* followed both the No Negative's 2017 "Cellophane" single and their 2015 debut *The Good Never Comes*.
+*The Last Offices* followed both No Negative's 2017 "Cellophane" single and their 2015 debut *The Good Never Comes*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3547134663/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://nonegativemtl.bandcamp.com/album/the-last-offices">The Last Offices by NO NEGATIVE</a></iframe>
 
