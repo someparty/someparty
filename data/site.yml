@@ -3,5 +3,5 @@ site: "the Some Party newsletter of Canadian punk, garage, psych, and otherwise 
 title: "Some Party"
 description: "Some Party is a newsletter sharing the latest in independent Canadian rock'n'roll, curated weekly by Adam White. Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way."
 twitter_author: "@adamwhite"
-pull_image: 'some-party-social-card-default.jpg'
+thumbnail: 'some-party-social-card-default.jpg'
 customize_by_frontmatter: true
