@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: News from Red Mass, Boids, Bedwetters Anonymous, lié, Seth Anderson, Joel Plaskett, Blooming Season, Elephant Stone, Pedler, The Bloody Hell
 ---
 
-Montreal's [Red Mass](https://www.facebook.com/redmassband/), the "free creative enterprise" lead by Roy Vucino and Hannah Lewis, returned last week with a guest-packed new full-length titled *A Hopeless Noise*. The 11-song set arrived via the Montreal psych label [Mothland](https://www.mothland.com/), boasting several prominent additions to the collective from the wider punk and indie rock world. You can now stream new Red Mass tunes featuring Minutemen legend Mike Watt, Evan Dando of The Lemonheads, the unmistakable Rick Froberg of Hot Snakes, the enigmatic King Khan, Canadian indie star Mac DeMarco, Hugo Mudie of The Sainte Catherines, and many others.
+Montreal's [Red Mass](http://redmass.bandcamp.com/), the "free creative enterprise" lead by Roy Vucino and Hannah Lewis, returned last week with a guest-packed new full-length titled *A Hopeless Noise*. The 11-song set arrived via the Montreal psych label [Mothland](https://www.mothland.com/), boasting several prominent additions to the collective from the wider punk and indie rock world. You can now stream new Red Mass tunes featuring Minutemen legend Mike Watt, Evan Dando of The Lemonheads, the unmistakable Rick Froberg of Hot Snakes, the enigmatic King Khan, Canadian indie star Mac DeMarco, Hugo Mudie of The Sainte Catherines, and many others.
 
 "Killer On The Loose," a track featuring the unlikely pairing of Rick Froberg and Mac DeMarco, serves as the album's driving first single. Vucino commented on the song in a press release:
 

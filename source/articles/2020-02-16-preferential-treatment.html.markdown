@@ -112,7 +112,7 @@ The band, comprised of Trent Bristow on guitar and synth, bassist Fabian Kearns,
 
 [Listen: Organ Eyes - "12e" @ Bandcamp](http://organeyes.bandcamp.com/track/12e "#")
 
-Montreal's [Hugo Mudie](https://hugomudie.bandcamp.com/) recently shared "L'exorcisme," the first preview of his new album due in the spring of 2020. The melodic, synth-driven rock song follows several recent collaborations, including a one-off single pairing Mudie with the veteran LA punk group [DFL](https://www.facebook.com/proudtobedfl/), and an appearance on the latest guest-packed [Red Mass](https://www.facebook.com/redmassband/) LP. The single arrived through a video directed by Louis Delisle. You can check it out below.
+Montreal's [Hugo Mudie](https://hugomudie.bandcamp.com/) recently shared "L'exorcisme," the first preview of his new album due in the spring of 2020. The melodic, synth-driven rock song follows several recent collaborations, including a one-off single pairing Mudie with the veteran LA punk group [DFL](https://www.facebook.com/proudtobedfl/), and an appearance on the latest guest-packed [Red Mass](http://redmass.bandcamp.com/) LP. The single arrived through a video directed by Louis Delisle. You can check it out below.
 
 Hugo Mudie was the frontman of both the early-2000s punk band [The Sainte Catherines](https://thesaintecatherines.bandcamp.com/) and the alt-country group [Yesterday's Ring](https://yesterdaysringmtl.bandcamp.com/releases). He's one of the principles behind the annual [Pouzza Fest](https://pouzzafest.com/). More on that in a bit.
 
