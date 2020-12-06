@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/deathsticks.jpg'
 header_image_alt: 'Deathsticks'
 author: adam@someparty.ca (Adam White)
 description: Ottawa's Deathsticks premiere their new song and video "Finger Food" from their upcoming EP Deathsnacks.
-pull_image: 'premieres/deathsticks-social.jpg'
+thumbnail: 'premieres/deathsticks-social.jpg'
 ---
 
 "Small band! Big town!"

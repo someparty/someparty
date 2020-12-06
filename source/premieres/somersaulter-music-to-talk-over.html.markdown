@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/somersaulter.jpg'
 header_image_alt: 'Somersaulter'
 author: adam@someparty.ca (Adam White)
 description: Toronto's Somersaulter premiere the instrumental title track from their upcoming EP, "Music To Talk Over"
-pull_image: 'premieres/somersaulter-social.jpg'
+thumbnail: 'premieres/somersaulter-social.jpg'
 ---
 
 Toronto four-piece [Somersaulter](https://somersaulter.bandcamp.com) insist they're fucking up. Their press release revels in their penchant to repeatedly make the wrong strategic decision, at least where it concerns their viability as a band. This self-criticism is, of course, armour against insecurity, and at least from a sonic perspective, it's one that seems wholly unnecessary. *Music to Talk Over*, the band's first EP after a series of singles (and a split with Mississauga's [Peace Be Still](https://peacebestill.bandcamp.com/)) is a confident serving of post-hardcore. It harkens back to a period that's been somewhat lost in the pop-cultural fog when we used "emo" to describe post-Dischord, Hüsker Dü influenced bands like Hot Water Music and Small Brown Bike. Before the then-gritty punk-subgenre fell into that gaping vortex of marketable adolescent angst that opened up between the Orange Julius and Payless.

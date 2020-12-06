@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/chain-whip.jpg'
 header_image_alt: 'Chain Whip - Photo by Robin Schroffel'
 author: adam@someparty.ca (Adam White)
 description: Premiering Chain Whip's thrashing new tune "Crawlspace Boyfriend" from 14 Lashes
-pull_image: 'premieres/chain-whip-social.jpg'
+thumbnail: 'premieres/chain-whip-social.jpg'
 ---
 
 <small>Photo by [Robin Schroffel](https://www.instagram.com/quitthistown/)</small>

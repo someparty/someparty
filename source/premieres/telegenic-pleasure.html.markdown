@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/telegenic-pleasure.jpg'
 header_image_alt: 'Telegenic Pleasure - collage by Robbie Brake'
 author: adam@someparty.ca (Adam White)
 description: Premiering Telgenic Pleasure - a new London(s)-spanning synth-punk group from members of Isölation Party, Mononegatives, The Gaggers, and Miscalculations
-pull_image: 'premieres/telegenic-pleasure-social.jpg'
+thumbnail: 'premieres/telegenic-pleasure-social.jpg'
 ---
 
 I've joked in this newsletter that I can't keep track of how many bands feature [Robbie Brake](http://robbiebrake.bandcamp.com). Recording out of London, Ontario, Brake seems cursed to singlehandedly churn out more material than any single group could hope to contain. This year alone, he's contributed to new tunes from the power-pop group [Isölation Party](https://isolationparty.bandcamp.com/), the three-piece garage-punk act [Mononegatives](https://mononegatives.bandcamp.com), the similarly motivated two-piece [Klazo](https://klazo.bandcamp.com), and a surf rock side-project dubbed [Hook and the Creeps](https://hookandthecreeps.bandcamp.com). On top of that, he remains an active member of the glam-punk act [Dong Vegan](https://dongvegan.bandcamp.com/). Oh, and then there's solo material on top of that. Quite frankly, I'm unclear on how one individual manages that level of creative plate spinning. Hell, I can barely get this newsletter out weekly, and 80% of that's just copying and pasting links from Bandcamp.

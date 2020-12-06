@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/colour-by-numbers.jpg'
 header_image_alt: 'Colour by Numbers'
 author: adam@someparty.ca (Adam White)
 description: Winnipeg's Colour By Numbers premiere their new live video for "Thaddeus," the theme to their upcoming rock opera
-pull_image: 'premieres/colour-by-numbers-social.jpg'
+thumbnail: 'premieres/colour-by-numbers-social.jpg'
 ---
 
 They've self-described themselves Winnipeg's nerdiest rock band, but you've got to qualify that. It's a fraught label. There's some blurring between nerdy and geeky that in today's pop culture implies adolescent nostalgia, that insufferable reference-heavy cartoon-core that'll drive people to theatres for *Ready Player One* and the like. This isn't that. [Colour By Numbers](http://www.colourbynumbers.ca/) are nerds for 90s alt-rock, telling upbeat, riffy indie-rock tales through a lense of early Weezer, They Might Be Giants, and the Presidents of the USA. They're earnest guitar-pop nerds on the same trail that Sloan blazed, and there's nary a laptop or anime reference in site.

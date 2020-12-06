@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/rust-owl.jpg'
 header_image_alt: 'R U S T O W L'
 author: adam@someparty.ca (Adam White)
 description: Winnipeg's R U S T O W L (ex-1971) premiere their new song "Awkward Age" from their upcoming debut EP.
-pull_image: 'premieres/rust-owl-social.jpg'
+thumbnail: 'premieres/rust-owl-social.jpg'
 ---
 
 By luck or some curse I've been stringing along the same iTunes library I created back in 2003, replete with quirks in the data from an era when tagging your music was both a source of therapy and a point of pride. One curiosity that persists to this day is the dominant presence of a made-up genre I named "Rust." While unacknowledged by the rest of the world, this was my way of rationalizing an aesthetic. The early 2000s saw a cohort of Canadian rock bands emerge from the punk tradition to embrace Americana in various ways. In my Rust library you'd find records from the Guelph's Constantines and the extended Three Gut family, from Jim Guthrie and Royal City to Oshawa's Cuff The Duke. The Weakerthans were Rust. Attack in Black were Rust. This genre encompassed everything from the weird later records of The Deadly Snakes to the cool atmospheric FemBots and the drunken fervour of Jon-Rae and the River.

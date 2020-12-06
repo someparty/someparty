@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/no-fix.jpg'
 header_image_alt: 'No Fix'
 author: adam@someparty.ca (Adam White)
 description: Check out a raw new No Fix demo from Windsor's Matty Menard (Psychic Void, Brain Itch, Disco Assault)
-pull_image: 'premieres/no-fix-social.jpg'
+thumbnail: 'premieres/no-fix-social.jpg'
 ---
 
 It sometimes seems that Matty Menard's the common denominator of the Windsor punk world. Every time I've stumbled upon a band from the border that's playing some wild, gritty variant of rust belt punk rock, I'll inevitably find Matty's name in the credits.

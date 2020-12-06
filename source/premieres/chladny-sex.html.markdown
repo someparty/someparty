@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/chladny.jpg'
 header_image_alt: 'Chladny'
 author: adam@someparty.ca (Adam White)
 description: Premiering "Sex," the new video from Toronto folk-rockers Chladny off their new record 'The Finch Flyer'
-pull_image: 'premieres/chladny-social.jpg'
+thumbnail: 'premieres/chladny-social.jpg'
 ---
 
 Toronto's eclectic folk-rock outfit [Chladny](https://chladny.bandcamp.com/) draws together members from some of the city's weirdest and wildest groups. On the band's expansive new full-length *The Finch Flyer* you'll find contributors who've played with to the No Wave chameleons [Luge](https://hugeluge.bandcamp.com), the low-fi roots rockers of [Hobby](https://hobbytoronto.bandcamp.com/), and the buzzing dream-pop act [Tallies](http://tallies.bandcamp.com), not to mention some thrilling hyphen-punk records from [Westelaken](https://westelaken.bandcamp.com/) and [WLMRT](https://wlmrt.bandcamp.com/). "Scheduling practices can be rough," Evan Chladny admits when summing up his collaborators' number of active side-gigs, "but they're making it work."

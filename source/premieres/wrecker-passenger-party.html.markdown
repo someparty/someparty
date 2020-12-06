@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/homewrecker.jpg'
 header_image_alt: 'Wrecker and Housepanther'
 author: adam@someparty.ca (Adam White)
 description: Wrecker shares the video for "Passenger Party" the new Homewrecker split with Housepanther
-pull_image: 'premieres/homewrecker-social.jpg'
+thumbnail: 'premieres/homewrecker-social.jpg'
 ---
 
 Valentines Day is nigh, and this year brings not just the usual Hallmark trappings but the release of *homewrecker*, a collaborative EP pairing Bailee Woods' Winnipeg-based indie-pop act [Housepanther](https://housepanther.bandcamp.com/) and [Wrecker](https://wreckertunes.bandcamp.com), the solo songwriting project of Jory Strachan. Strachan has roots in the Winnipeg post-punk band [1971](https://1971canada.bandcamp.com/) and most recently made noise as part of the rootsy indie rock outfit [R U S T O W L](https://rustowl.bandcamp.com/). While he now calls Montreal home, his ties to The Peg and it's music community remain strong.

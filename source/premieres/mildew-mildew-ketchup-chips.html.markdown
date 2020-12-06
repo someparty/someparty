@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/mildew-mildew.jpg'
 header_image_alt: 'Mildew Mildew'
 author: adam@someparty.ca (Adam White)
 description: Mississauga's eclectic noise-pop trio Mildew Mildew premiere "Ketchup Chips" from their new tape on Art of the Uncarved Block tape
-pull_image: 'premieres/mildew-mildew-social.jpg'
+thumbnail: 'premieres/mildew-mildew-social.jpg'
 ---
 
 Mississauga's eclectic noise-pop trio [Mildew Mildew](https://mildewmildew.bandcamp.com/) have joined forces with Toronto underground rock label [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/). On March 1 the label will release a cassette that combines songs from the band's two new EPs, *Double Doors* and *Different Floors*. Here's what the label had to say about the unpredictable group:

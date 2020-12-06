@@ -95,7 +95,7 @@ Mononegatives is one of the numerous projects attributed to [Robbie Brake](http:
 
 Montreal's [New Vogue](https://newvogue.bandcamp.com) continues their blown-out DEVO-core attack with "Safe on the Autobahn," a new single previewing an upcoming cassette release for Sound Salvation Music. As the title suggests, there's some sinister krautrock influence on this one. The track follows "No Eyes" from the summer, and I absolutely fucking adore it. I can't wait to shout along with this chorus in a dingy bar one day when we can see other humans again.
 
-New Vogue's a project of Max Desharnais from Montreal garage-punks [PRIORS](https://priorsmtl.bandcamp.com/) and [Sonic Avenues](https://sonicavenues.bandcamp.com/). The project last released a self-titled EP in 2018, along with a 7" single featuring the songs "Birdcage" and "Space Junk." You likely know them from the smash-hit debut Some Party cassette *[Under The Circumstances](https://www.someparty.ca/store/under-the-circumstances/)*.
+New Vogue's a project of Max Desharnais from Montreal garage-punks [Sonic Avenues](https://sonicavenues.bandcamp.com/). The project last released a self-titled EP in 2018, along with a 7" single featuring the songs "Birdcage" and "Space Junk." You likely know them from the smash-hit debut Some Party cassette *[Under The Circumstances](https://www.someparty.ca/store/under-the-circumstances/)*.
 
 I'll have much more to say about PRIORS, Desharnais' main gig, in next week's newsletter. Keep an eye out.
 

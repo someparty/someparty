@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/luge.jpg'
 header_image_alt: 'Luge'
 author: adam@someparty.ca (Adam White)
 description: Toronto No Wave art-punks Luge premiere their video(game) for "Up & Up," an instant arcade classic!
-pull_image: 'premieres/luge-social.jpg'
+thumbnail: 'premieres/luge-social.jpg'
 ---
 
 <small>Photo by Isaac Roberts</small>

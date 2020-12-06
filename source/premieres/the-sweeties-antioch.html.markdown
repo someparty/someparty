@@ -5,7 +5,7 @@ header_image_uri: '/images/premieres/the-sweeties.jpg'
 header_image_alt: 'The Sweeties'
 author: adam@someparty.ca (Adam White)
 description: Whitehorse 'sacred harp doom rock' duo The Sweeties play "Antioch" live in the basement of CBC North as part of the Beneath The Broadcast series
-pull_image: 'premieres/the-sweeties.jpg'
+thumbnail: 'premieres/the-sweeties.jpg'
 ---
 
 The *Beneath The Broadcast* project aims to document sights and sounds created by musicians based in the Yukon territory. The effort brought together artists from an array of genres, from folk to soul, from hip-hop to alt-rock, to play unique, intimate sets in the cavernous basement of the CBC North headquarters. Local acts taking part included [Jona Barr](https://jonabarr.bandcamp.com), [The Sputnik Experiment](https://www.facebook.com/thesputnikexperiment/), [Paris Pick](https://parispickandthepricks.com), [Cryptozoologists](https://cryptozoologists.bandcamp.com/), [Calla Kinglit](https://callakinglit.com), [LOCAL BOY](https://www.instagram.com/whoislocalboy), [Soda Pony](https://sodapony.bandcamp.com/), [Groan Boy](https://groanboy.bandcamp.com), and a curiously unorthodox duo dubbed The Sweeties.
