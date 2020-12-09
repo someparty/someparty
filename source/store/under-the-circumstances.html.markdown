@@ -22,7 +22,7 @@ Ignoring all sound advice to the contrary, I'm thrilled to plumb new depths of m
 
 <span>1.</span> **New Vogue** - "Deny Me"
 
->[New Vogue](https://newvogue.bandcamp.com) is the wild new DEVO-core project from Max Desharnais of Montreal's [Sonic Avenues](https://sonicavenues.bandcamp.com/). It's a robotic assault of spazzed-out new wave and cyborg post-punk. A future mutation of "Deny Me" is expected on the upcoming New Vogue full length, but you'll only hear this first incarnation on *Under The Circumstances*.
+>[New Vogue](https://newvogue.bandcamp.com) is the wild new DEVO-core project from Max Desharnais of Montreal's [Sonic Avenues](https://sonicavenues.bandcamp.com/) and [PRIORS](https://priorsmtl.bandcamp.com/). It's a robotic assault of spazzed-out new wave and cyborg post-punk. A future mutation of "Deny Me" is expected on the upcoming New Vogue full length, but you'll only hear this first incarnation on *Under The Circumstances*.
 
 <span>2.</span> **Tough Age** - "The 15th"
 

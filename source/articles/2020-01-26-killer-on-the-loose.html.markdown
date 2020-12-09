@@ -107,7 +107,7 @@ Last year Pedlar kicked off an annual festival dubbed Twosome Fest, which celebr
 
 [Listen: Pedler - *Pedler* @ Bandcamp](http://pedler.bandcamp.com/album/pedler "#")
 
-Gravelly Halifax horror-punk group [The Bloody Hell](https://www.facebook.com/thebloodyhellhfx/) has a newly revised video online for "Evil Everywhere." It's an edit after YouTube reportedly banned banned the original for graphic content. The new clip for the scathing tune still manages to compile a few decades of grim news footage, so viewer beware, There's probably still a few moments of this that you'll find upsetting.
+Gravelly Halifax horror-punk group [The Bloody Hell](https://thebloodyhell.bandcamp.com) has a newly revised video online for "Evil Everywhere." It's an edit after YouTube reportedly banned banned the original for graphic content. The new clip for the scathing tune still manages to compile a few decades of grim news footage, so viewer beware, There's probably still a few moments of this that you'll find upsetting.
 
 The track comes from the band's 2018 self-titled debut album. A follow-up effort is currently in the works.
 
