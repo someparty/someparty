@@ -97,13 +97,13 @@ Montreal's [New Vogue](https://newvogue.bandcamp.com) continues their blown-out 
 
 New Vogue's a project of Max Desharnais from Montreal garage-punks [Sonic Avenues](https://sonicavenues.bandcamp.com/). The project last released a self-titled EP in 2018, along with a 7" single featuring the songs "Birdcage" and "Space Junk." You likely know them from the smash-hit debut Some Party cassette *[Under The Circumstances](https://www.someparty.ca/store/under-the-circumstances/)*.
 
-I'll have much more to say about PRIORS, Desharnais' main gig, in next week's newsletter. Keep an eye out.
+I'll have much more to say about [PRIORS](https://priorsmtl.bandcamp.com/), Desharnais' main gig, in next week's newsletter. Keep an eye out.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771521539&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 [Listen: New Vogue - "Safe on the Autobahn" @ SoundCloud](https://soundcloud.com/maxime-desharnais/safe-on-the-autobahn "#")
 
-Montreal psych label [Mothland](https://www.mothland.com/) is readying a limited edition cassette compilation to celebrate their 3rd anniversary. *Sounds From Mothland Volume One* features 15 tracks from the label's roster, with contributions from [Atsuko Chiba](https://atsukochiba.bandcamp.com/), [The High Dials](http://thehighdials.net/), [Red Mass](http://redmass.bandcamp.com/), [CRABE](http://crabe.bandcamp.com), and [VICTIME](https://victimelol.bandcamp.com/), among others. Amid the songs online for preview, you can check out a new tune from garage rocker [Paul Jacobs](https://pauljacobs.bandcamp.com/), titled "Thanks," and a collaboration between Montreal's [You Doo Right](https://yoodooright.bandcamp.com/) and Ottawa vocalist [Jasmine Trails](https://jasminetrailsss.bandcamp.com/), dubbed "Marche Pt. 3.
+Montreal psych label [Mothland](https://www.mothland.com/) is readying a limited edition cassette compilation to celebrate their 3rd anniversary. *Sounds From Mothland Volume One* features 15 tracks from the label's roster, with contributions from [Atsuko Chiba](https://atsukochiba.bandcamp.com/), [The High Dials](http://thehighdials.net/), [Red Mass](http://redmass.bandcamp.com/), [CRABE](http://crabe.bandcamp.com), and [VICTIME](https://victimelol.bandcamp.com/), among others. Amid the songs online for preview, you can check out a new tune from garage rocker [Paul Jacobs](https://pauljacobs.bandcamp.com/), titled "Thanks," and a collaboration between Montreal's [You Doo Right](https://yoodooright.bandcamp.com/) and Ottawa vocalist [Jasmine Trails](https://jasminetrailsss.bandcamp.com/), dubbed "Marche Pt. 3."
 
 Speaking to Exclaim, Jacobs, who also illustrated the tape's cover art, commented:
 

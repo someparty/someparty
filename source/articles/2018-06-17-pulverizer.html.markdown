@@ -41,7 +41,7 @@ BBQT features guitarist/vocalist Amery Sandford, guitarist Jack Bielli, bassist 
 
 [Listen: BBQT - *All For Show* @ Bandcamp](https://bbqtband.bandcamp.com/album/all-for-show "#")
 
-[Pleasence Records](http://www.pleasencerecords.com/) has released another new song from *The Becoming*, the new LP from Toronto singer-songwriter [Isla Craig](https://islacraig.bandcamp.com/). This track, titled "There is a Hole," is described by the artist as "a song about the devouring aspects of desire, sex, and the internet." The track features synth player Johnny Spence and percussionist Evan Cartwright (both of Tasseomancy), and bassist Bram Gielen (Weaves, DIANA).
+[Pleasence Records](http://www.pleasencerecords.com/) has released another new song from *The Becoming*, the new LP from Toronto singer-songwriter [Isla Craig](https://islacraig.bandcamp.com/). This track, titled "There is a Hole," is described by the artist as "a song about the devouring aspects of desire, sex, and the internet." The track features synth player Johnny Spence and percussionist Evan J. Cartwright (both of Tasseomancy), and bassist Bram Gielen (Weaves, DIANA).
 
 You can check it "There is a Hole" below. *The Becoming* arrives on June 22.
 

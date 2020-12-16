@@ -49,7 +49,7 @@ Papal Visit's among the performers slated for this year's [SappyFest](http://www
 
 [Listen: Papal Visit - *Prepare for Your Reversal* @ Bandcamp](http://papalvisit.bandcamp.com/album/prepare-for-your-reversal-live-in-saint-john "#")
 
-Toronto synthpop duo [Ice Cream](http://ice-creamtheband.tumblr.com/) has a new single out titled "Peanut Butter" with an accompanying video by director Miss World (aka Natalie Chahal). In a statement the band's Carlyn Bezic commented:
+Toronto synthpop duo [Ice Cream](https://icecreeeammm.bandcamp.com/) has a new single out titled "Peanut Butter" with an accompanying video by director Miss World (aka Natalie Chahal). In a statement the band's Carlyn Bezic commented:
 
 > "I wrote 'Peanut Butter' about a man I served when I was bartending, who thought that ordering an expensive scotch meant he could treat me and my coworkers like dirt. That interaction felt like a microcosm of the world at large: that those with the most power and the most money are, underneath it all, spoiled babies. Peanut butter is a stand-in for their values, getting slathered on everything from the messy hands of a child, leaving us to clean it up."
 

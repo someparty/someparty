@@ -171,7 +171,7 @@ You can hear the album's first single, "Joli Rouge," below. It's a drinking song
 
 [Listen: The Dreadnoughts - "Joli Rouge" @ Bandcamp](http://thedreadnoughts.bandcamp.com/album/into-the-north "#")
 
-Punknews.org recently premiered a new single from the Brantford, Ontario pop-punk band [Fortune Cove](https://www.fortunecovemusic.com/). Titled "Direction," the track arrived alongside a video that you can see below. The song will appear on the band's new full-length for [Four Chord Music](www.fourchordmusic.com), titled *Dear Happiness*. It's due on November 22.
+Punknews.org recently premiered a new single from the Brantford, Ontario pop-punk band [Fortune Cove](https://www.fortunecovemusic.com/). Titled "Direction," the track arrived alongside a video that you can see below. The song will appear on the band's new full-length for [Four Chord Music](https://www.fourchordmusic.com), titled *Dear Happiness*. It's due on November 22.
 
 Formerly known as Harbour, Fortune Cove will be supporting the record with a fall tour of Ontario, Quebec, and the U.S. east coast, playing with bands like The Letdown and Rival Town on select dates. You can snag that itinerary over at [Punknews.org](https://www.punknews.org/article/71063/exclusivevideos-fortune-cove-direction).
 

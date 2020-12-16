@@ -117,7 +117,7 @@ Sampson earlier revealed that the track was inspired by [Lido Pimienta](https://
 
 [Punknews](https://www.punknews.org/article/71266/exclusivevideos-check-out-the-video-for-burning-bridges-by-coming-clean) recently premiered a new video from Toronto pop-punk quartet [Coming Clean](https://www.facebook.com/ComingCleanTO/) featuring the song "Burning Bridges." The track appeared on the upbeat band's May-released EP *Dead End // Detour*.
 
-This Saturday, November 23, Coming Clean will open two shows in the city over the course of an evening. They'll be on early at the Hard Luck Bar opening for the Australian touring act With Confidence, then cutting over to Tail Of The Junction for a show with [Nothing Special](https://nothingspecialmusic.bandcamp.com) and a handful of area pop-punk groups. Coming Clean features vocalist/guitarist Adam Lougheed, guitarist Matthew Waller, bassist Dan Bragagnolo, and drummer Scott Lougheed.
+This Saturday, November 23, Coming Clean will open two shows in the city over the course of an evening. They'll be on early at the Hard Luck Bar opening for the Australian touring act With Confidence, then cutting over to Tail Of The Junction for a show with [Nothing Special](https://nothingspecialband.bandcamp.com) and a handful of area pop-punk groups. Coming Clean features vocalist/guitarist Adam Lougheed, guitarist Matthew Waller, bassist Dan Bragagnolo, and drummer Scott Lougheed.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9T60YxhCK-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

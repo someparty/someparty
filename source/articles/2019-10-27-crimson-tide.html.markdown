@@ -73,7 +73,7 @@ Spectres have shown up in this publication a few times over the years, as the ba
 
 [Listen: Spectres - "Provincial Wake" / "Northern Towns" @ Bandcamp](http://spectresvancouver.bandcamp.com/album/provincial-wake "#")
 
-Last week the Toronto synthpop duo [Ice Cream](http://ice-creamtheband.tumblr.com/) released the third single from their upcoming record *Fed Up*. "Dove's Cry" arrived with a video directed by the band's Carlyn Bezic, described as a "shopping fantasy, in which a liquid soap can produce self-love." The track shows off one of the album's more subdued tunes, standing in dramatic contrast to the club-ready first single "Peanut Butter" and the spaced-out "Modern Life."
+Last week the Toronto synthpop duo [Ice Cream](https://icecreeeammm.bandcamp.com/) released the third single from their upcoming record *Fed Up*. "Dove's Cry" arrived with a video directed by the band's Carlyn Bezic, described as a "shopping fantasy, in which a liquid soap can produce self-love." The track shows off one of the album's more subdued tunes, standing in dramatic contrast to the club-ready first single "Peanut Butter" and the spaced-out "Modern Life."
 
 *Fed Up*, the band's sophomore album, arrives November 15. The 8-song set follows up the group's 2016 debut *Love, Ice Cream*, with Tony Price co-producing the album with the band. Ice Cream features Carlyn Bezic and Amanda Crist.
 

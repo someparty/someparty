@@ -105,7 +105,7 @@ If you're keeping score at home, this diversion follows last week's 23-minute pr
 
 [Listen: Daniel Romano's Outfit do (what could have been) *Infidels* by Bob Dylan & The Plugz @ Bandcamp](http://outfitdoesinfidels.bandcamp.com/album/daniel-romanos-outfit-do-what-could-have-been-infidels-by-bob-dylan-the-plugz "#")
 
-Ottawa psych outfit [The Band Whose Name Is a Symbol](https://thebandwhosenameisasymbol.bandcamp.com/) and the similarly experimental Nanaimo group [Anunnaki](https://anunnakibc.bandcamp.com) have a new split out, with each band contributing nearly 30 minutes of heavy cosmic noise to the project. The set's available as an extremely limited cassette from [NoiseAgonyMahem](http://www.noiseagonymayhem.com/) or on CD from [Cardinal Fuzz](www.cardinalfuzz.bigcartel.com).
+Ottawa psych outfit [The Band Whose Name Is a Symbol](https://thebandwhosenameisasymbol.bandcamp.com/) and the similarly experimental Nanaimo group [Anunnaki](https://anunnakibc.bandcamp.com) have a new split out, with each band contributing nearly 30 minutes of heavy cosmic noise to the project. The set's available as an extremely limited cassette from [NoiseAgonyMahem](http://www.noiseagonymayhem.com/) or on CD from [Cardinal Fuzz](https://www.cardinalfuzz.bigcartel.com).
 
 The cumbersomely-named Capital band recorded live off the floor at Birdman Sound. The group features Bill Guerrero, Dave Reford, Jason Vaughan, John Westhaver, Nathaniel Hurlow, and Scott Thompson. Anunnaki's comparatively slim roster features Arlen Thompson and Dave Read. They recorded in Naniamo's White Room, with both bands wrapping up their contributions in early March just before the shutdown. The press release exclaims:
 
