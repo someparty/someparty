@@ -169,7 +169,7 @@ The latest Trashed Ambulance materials arrived through Montreal's [Thousand Isla
 
 [Listen: Trashed Ambulance - "On The Mend" @ YouTube](https://youtu.be/QvA4CL87z6o "#")
 
-High End Denim also has a new single online from party-punk group [The Offsailers](https://highenddenimrecords.bandcamp.com/track/home-drunk ), a five-piece featuring members of Trashed Ambulance, Red Deer's [County 23](https://countyxxiii.bandcamp.com/), and former members of southern Ontario's [Avem](https://avem-theband.bandcamp.com). The quintet has a record due January 14, titled *One More Then We Go*.
+High End Denim also has a new single online from party-punk group [The Offsailors](https://highenddenimrecords.bandcamp.com/track/home-drunk ), a five-piece featuring members of Trashed Ambulance, Red Deer's [County 23](https://countyxxiii.bandcamp.com/), and former members of southern Ontario's [Avem](https://avem-theband.bandcamp.com). The quintet has a record due January 14, titled *One More Then We Go*.
 
 Frontman Gabe Brinton commented on the band's snotty first single, "Home Drunk":
 

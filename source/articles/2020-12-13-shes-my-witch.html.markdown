@@ -2,7 +2,7 @@
 title: She's My Witch
 date: 2020-12-13
 author: adam@someparty.ca (Adam White)
-description: Music and video from Jiffy Marx of Autogramm, New Vogue, Harkness, Audio Visceral, Jane Inc, No Negative, Dong Vegan, VCR, Nothing Special, The Bloody Hell, Cellos, No Idea Head, Civilians, Cancer Bats, Joel Plaskett, PUP, Astuko Chiba, Victime
+description: Music and video from Jiffy Marx of Autogramm, New Vogue, Harkness, Audio Visceral, Jane Inc, No Negative, Dong Vegan, VCR, Nothing Special, The Bloody Hell, Cellos, No Idea Head, Civilians, Cancer Bats, Joel Plaskett, PUP, Atsuko Chiba, Victime
 ---
 
 Jiffy Marx, frontman of Vancouver's new-wavey power-pop trio [Autogramm](http://autogramm.bandcamp.com), recently debuted a new solo single. The retro-styled "She's My Witch" arrived in November on the [Snappy Little Numbers](https://www.snappylittlenumbers.com/) label, backed on the b-side by "Warning Sign." Marx recorded the songs in the fall of 2019, with studio backing from Mason Lowe, Lars Swenson, and Ryan Kraft of Seattle's [Bread & Butter](https://www.breadandbutterrules.com). The press release carefully places the sound on a spectrum "more punk than Big Star and more pop than Buzzcocks." You can decide for yourself through a new animated video showcasing "She's My Witch" below. A limited-edition 7" is available from the label now.
@@ -163,7 +163,7 @@ Montreal psych label [Mothland](https://www.mothland.com/) continues to preview 
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2462106451/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1388990080/transparent=true/" seamless><a href="https://mothland.bandcamp.com/album/sounds-from-mothland-volume-i">Sounds From Mothland Volume I by Atsuko Chiba</a></iframe>
 
-[Listen: Astuko Chiba- "I Just..." @ Bandcamp](https://mothland.bandcamp.com/track/i-just "#")
+[Listen: Atsuko Chiba- "I Just..." @ Bandcamp](https://mothland.bandcamp.com/track/i-just "#")
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2462106451/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=409897616/transparent=true/" seamless><a href="https://mothland.bandcamp.com/album/sounds-from-mothland-volume-i">Sounds From Mothland Volume I by VICTIME</a></iframe>
 
