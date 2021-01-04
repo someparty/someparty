@@ -126,6 +126,8 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
   def paragraph(text)
     if text.include? '<img'
       format("<p class='tc center'>%s</p>", text)
+    elsif text.include? '<small'
+      format("<p class='maxread center mt0'>%s</p>", text)
     else
       format("<p class='maxread center'>%s</p>", text)
     end
