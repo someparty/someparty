@@ -21,7 +21,7 @@ gem 'middleman-minify-html'
 gem 'middleman-robots'
 gem 'middleman-search_engine_sitemap'
 gem "nokogiri", ">= 1.10.8"
-gem 'redcarpet', '~> 3.3', '>= 3.3.3'
+gem 'redcarpet', '~> 3.5'
 
 # development
 gem 'rubocop'
