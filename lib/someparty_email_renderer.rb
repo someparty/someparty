@@ -15,8 +15,12 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
   end
 
   def header(text, header_level)
-    format('<h%s>%s</h%s>', header_level,
-           text, header_level)
+    if header_level == 3
+      format('<h3 style="margin-bottom: 5px;"><strong>%s</strong></h3>', text)
+    else
+      format('<h%s>%s</h%s>', header_level,
+        text, header_level)
+    end
   end
 
   def hrule
@@ -60,11 +64,15 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
   end
 
   def paragraph(text)
-    format('<p>%s</p>', text)
+    if text.include? "<small>"
+      format('%s', text)
+    else
+      format('<p>%s</p>', text)
+    end
   end
 
   def highlight(text)
     # I'm hijacking highlight to use it to render the media links header line below H3s
-    format("<small>%s</small>", text)
+    format("<strong><small>%s</small></strong>", text)
   end
 end
