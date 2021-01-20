@@ -113,7 +113,7 @@ The Offsailors features members of [Trashed Ambulance](https://trashedambulance.
 
 [Listen: The Offsailors - "5 in the Eye" @ Bandcamp](https://highenddenimrecords.bandcamp.com/track/5-in-the-eye "#")
 
-The Niagara five-piece [Sky Caught Fire](https://www.facebook.com/skycaughtfire) recently emerged with "Ghost In Me," an aggressive and riffy post-hardcore number. You can check out a lyric video for the track on YouTube now. [Cancer Bats](http://www.cancerbats.com/) guitarist Scott Middleton mastered the metal-tinged tune.
+The Niagara five-piece [Sky Caught Fire](https://skycaughtfire.bandcamp.com) recently emerged with "Ghost In Me," an aggressive and riffy post-hardcore number. You can check out a lyric video for the track on YouTube now. [Cancer Bats](http://www.cancerbats.com/) guitarist Scott Middleton mastered the metal-tinged tune.
 
 Sky Caught Fire features Craig Laro of [American Hell](https://americanhell.bandcamp.com/), along with guitarist/vocalist Steve Driscoll (Harder They Fall), guitarist Matt Dolynsky (American Hell), drummer Josh Learn (Street Pharmacy), and bassist Pat Scodellaro (Black Magik).
 

@@ -18,54 +18,54 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
 
     if raw_html.include? 'youtube'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+      format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
     elsif raw_html.include? 'facebook'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+      format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
     elsif raw_html.include? 'brightcove'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+      format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
     elsif raw_html.include? 'vimeo'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+      format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
     elsif raw_html.include? 'instagram'
       doc.css('blockquote').add_class('dib tl')
       doc.css('iframe').add_class('lazyload')
-      format("<div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
+      format("<div class='center tc media'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
     elsif raw_html.include? 'twitter-tweet'
       doc.css('blockquote').add_class('dib tl')
       doc.css('iframe').add_class('lazyload')
-      format("<div class='wide-media'><div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div></div>", doc.to_html)
+      format("<div class='wide-media media'><div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div></div>", doc.to_html)
     elsif raw_html.include? 'bandcamp'
       doc.css('iframe').add_class('lazyload')
       # Bandcamp's narrow player doesn't center nicely with the provided inline styles
       if raw_html.include? 'border: 0; width: 100%; height: 120px;'
         doc.at_css('iframe').set_attribute('style', 'border: 0; width: 700px; max-width: 100%; height: 120px;')
       end
-      format("<div class='center tc'>%s</div>", doc.to_html)
+      format("<div class='center tc media'>%s</div>", doc.to_html)
     elsif raw_html.include? 'cbc'
       if raw_html.include? 'data-no-video=1'
         doc.css('iframe').add_class('lazyload')
-        format("<div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
+        format("<div class='center tc media'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
       else
         doc.css('iframe').add_class('aspect-ratio--object lazyload')
-        format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+        format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
                doc.to_html)
       end
     elsif raw_html.include? 'npr.org'
       doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='wide-media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+      format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
              doc.to_html)
     elsif raw_html.include? 'soundcloud'
       doc.css('iframe').add_class('lazyload')
-      format("<div class='wide-media'><div class='center tc'>%s</div></div>", doc.to_html)
+      format("<div class='wide-media media'><div class='center tc'>%s</div></div>", doc.to_html)
     else
       doc.css('iframe').add_class('lazyload')
-      format("<div class='center tc'>%s</div>", doc.to_html)
+      format("<div class='center tc media'>%s</div>", doc.to_html)
     end
   end
 
@@ -131,5 +131,12 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     else
       format("<p class='maxread center'>%s</p>", text)
     end
+  end
+
+  def highlight(text)
+    # I'm hijacking highlight to use it to render the media links header line below H3s
+    # Note this fires before paragraph, so the <small> will be wrapped in a paragraph with no top margin
+    # as per the paragraph(text) function
+    format("<small>%s</small>", text)
   end
 end

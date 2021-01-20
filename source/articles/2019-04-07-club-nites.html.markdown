@@ -105,3 +105,13 @@ Your browser does not support the audio element.
 </audio>
 
 [Listen: Moul D. - "Anti Trust/Timing Problems/Body In Pain" @ Mechanical Forest Sound](https://mechanicalforestsound.blogspot.com/2019/04/recording-moul-d.html "#")
+
+
+Grey Matter 2 is a compilation of music from some of our favourite SK artists. All proceeds from this complication will be split between Prairie Harm Reduction and The Lighthouse, two Saskatoon organizations that are working to make the province a better place for everyone.
+
+Album artwork by Jane Revae McWhirter.
+
+Limited edition of 75 cassettes
+
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2633845798/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://greyrecords.bandcamp.com/album/grey-matter-2">Grey Matter 2 by Grey Records</a></iframe>

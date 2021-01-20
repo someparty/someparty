@@ -78,10 +78,10 @@ set :markdown_engine, :redcarpet
 
 if medium == :email
   set :markdown,
-      fenced_code_blocks: true, renderer: SomePartyEmailRenderer
+      fenced_code_blocks: true, highlight: true, renderer: SomePartyEmailRenderer
 elsif medium == :web
   set :markdown,
-      fenced_code_blocks: true, renderer: SomePartyWebRenderer
+      fenced_code_blocks: true, highlight: true, renderer: SomePartyWebRenderer
 end
 
 set :url_root, 'https://www.someparty.ca'

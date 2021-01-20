@@ -47,7 +47,7 @@ Moncton's [TJ Cabot](https://tjcabot.bandcamp.com) has another home-recorded EP 
 
 While this set of tunes focuses a little bit less on the farcical cause of Boularderie Island independence, I think it's safe to assume the revolution's never far from Cabot's heart. In another life, TJ goes by the name Tyler Boutilier, a veteran of the Nova Scotian punk groups [Teenage Hurricanes](https://soundcloud.com/bull-artery/teenage-hurricanes-saturday) and [Dunce Club](https://www.thecoast.ca/TheScene/archives/2010/01/05/january-9-goodbye-dunce-club-but-hello-fun-night-of-punk-shows), along with more recent stints in Moncton's [Phone Jerks](https://phonejerks.bandcamp.com/), [The Beaten Hearts](https://www.facebook.com/The-Beaten-Hearts-110327236905), and [Nerve Button](https://nervebutton.bandcamp.com/).
 
-Last month saw Nerve Button, a high energy rock quintet with members of the late-80s punks [Bad Luck #13](https://www.discogs.com/artist/932247-Bad-Luck-13), release their *Volume 2* LP on Germany's [Wanza Records](https://wandarecords.bandcamp.com/album/volume-2).
+Last month saw Nerve Button, a high energy rock quintet with members of the late-80s punks [Bad Luck #13](https://www.discogs.com/artist/932247-Bad-Luck-13), release their *Volume 2* LP on Germany's [Wanda Records](https://wandarecords.bandcamp.com/album/volume-2).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2763010212/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tjcabot.bandcamp.com/album/get-ready-get-set-ep">Get Ready, Get Set! EP by TJ Cabot</a></iframe>
 
