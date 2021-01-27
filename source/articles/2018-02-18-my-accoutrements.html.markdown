@@ -32,7 +32,7 @@ Given how aggressively the members of Attack In Black have moved on and fostered
 
 [Listen: Attack In Black - "Fake Love Songs" @ Bandcamp](https://attackinblack.bandcamp.com/album/fake-love-songs-ep "#")
 
-Attack In Black were of course not the only act to hitch a romantically named release to Valentine's Day. Belleville native Caylie Runciman, better known as the indie-pop act [Boyhood](https://www.facebook.com/boyh00d/), unveiled a new song titled "Luvbomb" that day as well. It's another track due to appear on *Bad Mantras* whenever it comes out.
+Attack In Black were of course not the only act to hitch a romantically named release to Valentine's Day. Belleville native Caylie Runciman, better known as the indie-pop act [Boyhood](https://boyhoodsongs.bandcamp.com/), unveiled a new song titled "Luvbomb" that day as well. It's another track due to appear on *Bad Mantras* whenever it comes out.
 
 [Gorilla vs. Bear](http://www.gorillavsbear.net/video-premiere-boyhood-luvbomb/) premiered a video for the song as well. Montreal-based photographer [Monika Kraska](https://monikakraska.myportfolio.com/) (Runciman's sister-in-law) directed the clip.
 
