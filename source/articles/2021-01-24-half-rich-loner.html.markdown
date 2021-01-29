@@ -5,8 +5,6 @@ author: adam@someparty.ca (Adam White)
 description: Music and more from Paul Jacobs, Gemstones, PONY, Leanne Betasamosake Simpson, Rest Easy, Tunic, Boyhood, Property, Obsoletism, Tommy Tone, The Offsailors, Jacob Barber, No Big Deal, Venus Furs, TUNS, Spencer Burton, and Joey Shithead!
 ---
 
-*Some Party is a newsletter sharing the latest in independent Canadian rock'n'roll, curated weekly by Adam White. Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way.*
-
 ###[Paul Jacobs](https://pauljacobs.bandcamp.com/): "Half Rich Loner"
 ==Listen at [Bandcamp](https://pauljacobs.bandcamp.com/album/pink-dogs-on-the-green-grass
 ) - Watch at [YouTube](https://youtu.be/3VuW17U31N4)==

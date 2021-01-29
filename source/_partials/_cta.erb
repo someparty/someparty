@@ -1,7 +1,19 @@
   <div class="bg-black cover white pv4 ph4 someparty-back">
+    <div class="maxcta">
+      <div>
+      <h2 class="f4 f4-l mt0 mb2">React to it at your leisure</h2>
+      <p class="f6 f5-l lh-copy pb0 mv2">
+      Some Party one misguided weirdo's singular quest to share the latest in Canadian garage rock, punk, psych, and more. Subscribe and get it in your inbox weekly. Your information's always kept private, and unsubscribing is easy.
+      </p>
+    </div>
 
-    <p class="f4 mt1">Subscribe today and find the Some Party newsletter waiting in your inbox once a week. React to it at your leisure. </p>
+    <div class="maxform">
+      <%= partial '/_partials/subscribe' %>
 
-    <%= partial '/_partials/subscribe' %>
-
+        <ul class="list pa0 ma0 flex f7 justify-end">
+          <li class="dib mv2 mr2"><%= link_to 'About Some Party', '/about', class: "no-underline white bb b--white" %></li>
+          <li class="dib mv2"><%= link_to 'Privacy Policy', '/privacy', class: "no-underline white bb b--white" %></li>
+        </ul>
+      </div>
+    </div >
   </div>

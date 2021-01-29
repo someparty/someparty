@@ -80,7 +80,7 @@ I've got 100. The bands have a few more on top of that. These could move quickly
 
 **Is it safe to order these online?**
 
-The online store is hosted by Discogs and Paypal handles the credit card transactions. Some Party never touches the card numbers, so everything's entirely PCI compliant if that means anything to you.
+The online store is hosted by Bandcamp and they handle the credit card or PayPal transactions. Some Party never touches the card numbers, so everything's entirely PCI compliant (if that means anything to you).
 
 <div class="tc dib mv3">
  <a href="https://someparty.bandcamp.com/" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">So... anyone want a tape?</a>

@@ -36,9 +36,10 @@
     <% css_path = sitemap.resources.select { |p| p.source_file.match(/style[.]css$/) }.first %>
     <style type="text/css">
       <%= css_path.render %>
-
-      .someparty-back {
-        background-image: url("<%= image_path("the-beverleys-courtney-michaud.jpg") %>");
+      @media screen and (min-width: 40em) {
+        .someparty-back {
+          background-image: url("<%= image_path("the-beverleys-courtney-michaud-bg-wide.jpg") %>");
+        }
       }
     </style>
 
@@ -49,28 +50,30 @@
       <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW3JSMV" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
 
-    <header class="fl-l w-100 w-50-l mw7-l">
-      <div class="bg-black cover white tc pv4 ph2 ph4-ns someparty-back">
-        <h1 class="dn">Some Party</h1>
-        <a href="/">
-          <%= image_tag 'logo-wide.svg', alt: "Some Party", class: "w-100 mw5 mw5-l dn-l" %>
-          <%= image_tag 'logo.svg', alt: "Some Party", class: "w-100 dn dib-l mw5 mw4-m mw-logo" %>
-        </a>
-        <p class="f5 f5-ns fw4 mt4 center mw-slogan">Some Party is a newsletter sharing the latest in independent Canadian rock'n'roll, curated weekly by <a href="https://twitter.com/adamwhite" class="white b no-underline">Adam White</a>.<br/><br/>Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way.</p>
+    <header class="mb4 ph3 bg-black someparty-back cover">
+      <div class="white tc pv4">
+        <div class="maxread mauto flex-ns justify-between items-center-ns">
+          <div class="w-100 tc tl-ns dib mr3">
+            <a href="/">
+              <%= image_tag 'logo-wide.svg', alt: "Some Party", class: "w-100 mw5 mw5-l dn-ns mb4" %>
+              <%= image_tag 'logo.svg', alt: "Some Party", class: "w-100 dn dib-ns mw5 mw4-m mw-logo" %>
+            </a>
+            <h1 class="dn">The Some Party Newsletter</h1>
+          </div>
+          <div class="mw-header-cta  tl">
 
-        <%= partial '/_partials/subscribe' %>
+            <h2 class="f4 f4-l mt0 mb2">Get on the list.</h2>
+            <p class="f6 f5-l lh-copy pb0 mv2">Subscribe to get the latest on weird Canadian rock music weekly in your inbox. Forever free, forever private, no ads or marketing.</p>
+            <%= partial '/_partials/subscribe' %>
+
+            <ul class="list pa0 ma0 flex f7 justify-end">
+              <li class="dib mv2 mr2"><%= link_to 'About Some Party', '/about', class: "no-underline white bb b--white" %></li>
+              <li class="dib mv2"><%= link_to 'Privacy Policy', '/privacy', class: "no-underline white bb b--white" %></li>
+            </ul>
+
+          </div>
+        </div>
       </div>
-      <div class="tc f5">
-        <ul class="list pa0 ma0">
-          <li class="dib mv2 mv4-ns mh2"><%= link_to 'About', '/about', class: "no-underline black" %></li>
-          <li class="dib mv2 mv4-ns mh2"><%= link_to 'Get the Tape', '/store/under-the-circumstances/', class: "no-underline black" %></li>
-          <li class="dib mv2 mv4-ns mh2"><%= link_to 'Radio', '/some-kicks', class: "no-underline black" %></li>
-          <li class="dib mv2 mv4-ns mh2"><%= link_to 'Privacy', '/privacy', class: "no-underline black" %></li>
-        </ul>
-      </div>
-
-      <% partial '/_partials/submit' %>
-
     </header>
 
     <div id="main" role="main" class="overflow-hidden relative">

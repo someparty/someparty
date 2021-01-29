@@ -4,7 +4,6 @@ date: 2021-01-10
 author: adam@someparty.ca (Adam White)
 description: Music, news, and visuals from Modern Cynics, J Blissette, PRIORS, Phone Jerks, The Sorels, Wares, Dany Placard, The Weather Station, Kiwi Jr, Trashed Ambulance, Chris Page, B.A. Johnston, Force Majeure, Empty Nesters, Badge Époque Ensemble, Nothing Special, Sky Caught Fire, Grey Records, and The Black Lab
 ---
-*Some Party is a newsletter sharing the latest in independent Canadian rock'n'roll, curated weekly by Adam White. Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way.*
 
 ###[Modern Cynics](https://moderncynics.bandcamp.com): "Oversimplification"
 ==Listen at [Bandcamp](https://dirtcultrecords.bandcamp.com/album/auditory-postcards)==

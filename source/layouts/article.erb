@@ -2,12 +2,13 @@
   <article class="pa3 pa4-ns lh-copy f5 f4-ns">
     <div class="f5 maxread center"><%= current_article.date.strftime('%A %B %e, %Y') %></div>
     <h1 class="f2 mt1 mb0 maxread center"><%= current_article.title unless current_article.nil? %></h1>
+    <%= partial '/_partials/tagline' %>
     <%= yield %>
   </article>
 
   <div class="pa3-l measure-wide center">
-    <%= partial '/_partials/cta' %>
     <%= partial '/_partials/pager', :locals => { :article => current_article } %>
+    <%= partial '/_partials/cta' %>
   </div>
 
 <% end %>

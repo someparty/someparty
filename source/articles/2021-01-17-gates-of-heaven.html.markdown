@@ -5,8 +5,6 @@ author: adam@someparty.ca (Adam White)
 description: Sounds and visuals, new and old from Sam Coffey and the Iron Lungs, Tough Age, Souvenir, Dogo Suicide, Mo Kenney, The Effens, Harkness, Laurie, Roach, and the legendary D.O.A.
 ---
 
-*Some Party is a newsletter sharing the latest in independent Canadian rock'n'roll, curated weekly by Adam White. Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way.*
-
 ###[Sam Coffey and The Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com): "Gates of Heaven"
 ==Listen at [Bandcamp](https://samcoffeyandtheironlungs.bandcamp.com/track/gates-of-heaven)==
 
