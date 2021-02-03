@@ -16,7 +16,7 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
 
   def header(text, header_level)
     if header_level == 3
-      format('<h3 style="margin-bottom: 5px;"><strong>%s</strong></h3>', text)
+      format('<h3 style="margin-bottom: 5px;"><br/><strong>%s</strong></h3>', text)
     else
       format('<h%s>%s</h%s>', header_level,
         text, header_level)

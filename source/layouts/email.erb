@@ -12,6 +12,8 @@
   <body>
     <p><%= current_article.date.strftime('%A %B %e, %Y') %></p>
     <h1><%= current_article.title unless current_article.nil? %></h1>
+    <p><small><em>Some Party is a newsletter sharing the latest in independent Canadian rock&#39;n&#39;roll, curated weekly by <a href="https://twitter.com/adamwhite">Adam White</a>. Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way. Read this edition <a href="https://www.someparty.ca/">on the web</a>.</em></small><br />
+    <br />&nbsp;</p>
     <%= yield %>
   </body>
 </html>
