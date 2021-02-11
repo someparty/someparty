@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Music and more from Chad VanGaalen, Headcheese, Freelove Fenner, DogsnotGods, King Khan Unlimited, Fitness, The OBGMs, Industrial Priest Overcoats, Future Star, Kiwi Jr., The Weather Station, Gloin, Robbie Morön, Sam & The Terrible News, and Neos!
 ---
 
-###[Chad VanGaalen](https://chadvangaalen.bandcamp.com/) - "Samurai Sword"
+###[Chad VanGaalen](https://chadvangaalen.bandcamp.com/): "Samurai Sword"
 ==Watch at [YouTube](https://youtu.be/D7UqrMWDUSI) - Listen at [Bandcamp](https://chadvangaalen.bandcamp.com/album/worlds-most-stressed-out-gardener)==
 
 Surrealist Calgary songwriter [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) recently announced a new full-length, titled *World's Most Stressed Out Gardener*. The 13-song set's due on March 19 from [Flemish Eye](http://www.flemisheye.com/) in Canada and [Sub Pop](https://www.subpop.com/) elsewhere. The news arrived alongside a video for the single "Samurai Sword," animated by the artist. It's a welcome return to the bizarre, strangely organic realms VanGaalen so frequently revisits in his visual work. The clip adds a minute and a half to the song's album runtime, framing the song's narrative with a cartoon set in an alien thrift store (and sneaking in more than a few clever references - we see you, Dog Day LP).
@@ -25,7 +25,7 @@ Throughout the pandemic, VanGaalen's released a series of archival releases, inc
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D7UqrMWDUSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Headcheese](https://headcheesepunk.bandcamp.com/): "Talk To The Therapist"
-==Listen at [SoundCloud](https://soundcloud.com/user-914440256/headcheese-talk-to-the-therapist)==
+==Listen at [Bandcamp](https://neontasterecords.bandcamp.com/album/headcheese)==
 
 [Neon Taste Records](https://neontasterecords.bandcamp.com/) has an LP lined up from Kamloops' thrillingly sardonic punk group [Headcheese](https://headcheesepunk.bandcamp.com/). The Vancouver label, home of bands like Dead Cells, Nutrition, and Bootlicker, recently shared two new tracks from the release: "Talk to the Therapist" and "Po Po." Label-head Josh Nickel shared his thoughts on the record through his Neon Waste webzine:
 
@@ -33,7 +33,7 @@ Throughout the pandemic, VanGaalen's released a series of archival releases, inc
 
 While a release date hasn't yet been announced, you check with the label on [Bandcamp](https://neontasterecords.bandcamp.com/) this Friday to get in on the pre-order.
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/977030104&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4158705257/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://neontasterecords.bandcamp.com/album/headcheese">Headcheese by Headcheese</a></iframe>
 
 ###[Freelove Fenner](https://freelovefenner.bandcamp.com): *The Punishment Zone*
 ==Listen at [Bandcamp](https://freelovefenner.bandcamp.com/album/the-punishment-zone)==
@@ -170,7 +170,7 @@ A five-piece, Sam & The Terrible News features former members of the early 2000s
 ###[Neos](https://supremeecho.bandcamp.com/album/neos): "Sleeve"
 ==Listen at [Bandcamp](https://supremeecho.bandcamp.com/album/neos)==
 
-Victoria label [Supreme Echo](http://www.supremeecho.com/) has another fascinating archival release on the way - this time spotlighting the whip-fast Victoria hardcore pioneers [Neos](https://supremeecho.bandcamp.com/album/neos). The group recorded and infrequently toured between 1980 and 1983, sharing the stage during their brief run with legends like the Subhumans, Black Flag, and the Dead Kennedys. Neos will see their discography collected later this year as a new LP titled *The Teens Hellbent On Speed*. Before that arrives, though, the label's repressing the band's posthumous demos collection *Fight With Donald* as an 18-song 7" (when you play this fast, that's a perfectly reasonable amount of material to fit on an EP). You can stream the song "Sleeve," the only track from the 45 to reappear on the album, at Bandcamp. The record ships out on April 15.
+Victoria label [Supreme Echo](http://www.supremeecho.com/) has another fascinating archival release on the way - this time spotlighting the whip-fast Victoria hardcore pioneers [Neos](https://supremeecho.bandcamp.com/album/neos). The group recorded and infrequently toured between 1980 and 1983, sharing the stage during their brief run with legends like the Subhumans, Black Flag, and the Dead Kennedys. Neos will see their discography collected later this year as a new LP titled *Three Teens Hellbent On Speed*. Before that arrives, though, the label's repressing the band's posthumous demos collection *Fight With Donald* as an 18-song 7" (when you play this fast, that's a perfectly reasonable amount of material to fit on an EP). You can stream the song "Sleeve," the only track from the 45 to reappear on the album, at Bandcamp. The record ships out on April 15.
 
 *Fight With Donald* originally surfaced in 1995 through Break Even and [Schizophrenic Records](https://schizophrenicrex.bandcamp.com/), collecting rehearsal tape material tracked in 1980. During their original run, Neos' only official releases were the 1982 EPs *End All Discrimination* and *Hassibah Gets The Martian Brain Squeeze*.
 

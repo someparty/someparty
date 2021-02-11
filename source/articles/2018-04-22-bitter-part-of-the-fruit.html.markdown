@@ -57,7 +57,7 @@ Guelph's enigmatic and politically uncompromising [Bullshit Hardcore Band](https
 
 [Listen: Bullshit Hardcore Band - *bullshit dub soundsystem - first rehearsal* @ Bandcamp](https://onedimensionalband.bandcamp.com/album/bullshit-dub-soundsystem-first-rehearsal "#")
 
-Toronto punk group [Bad Waitress](https://www.facebook.com/badwaitressband/), a quartet formerly known as [Nude Dogs](https://thenudedogs.bandcamp.com/), posted a new video for the song "Acid Brain" last week. The track comes from their latest EP *Party Bangers: Volume 1," which was just released by [Royal Mountain Records](https://www.royalmountainrecords.com/).
+Toronto punk group [Bad Waitress](https://badwaitress.bandcamp.com), a quartet formerly known as [Nude Dogs](https://thenudedogs.bandcamp.com/), posted a new video for the song "Acid Brain" last week. The track comes from their latest EP *Party Bangers: Volume 1," which was just released by [Royal Mountain Records](https://www.royalmountainrecords.com/).
 
 The band described the video as "an adventure into multiple dimensions of madness, written and filmed in the aftermath of two-day acid bender."
 
