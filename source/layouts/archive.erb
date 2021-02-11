@@ -1,6 +1,15 @@
 <% wrap_layout :layout do %>
   <article class="pa3 pa4-ns lh-copy f5 f4-ns">
-    <h1 class="f2 mt1 mb0 maxread center"><%= current_article.title unless current_article.nil? %></h1>
+    <h1 class="f2 mt1 mb0 maxread center">
+      <% case page_type
+        when 'day' %>
+        <%= Date.new(year, month, day).strftime('%b %e %Y') %>
+      <% when 'month' %>
+        <%= Date.new(year, month, 1).strftime('%b %Y') %>
+      <% when 'year' %>
+        <%= year %>
+      <% end %> Some Party back issues
+    </h1>
     <%= yield %>
   </article>
 

@@ -2,26 +2,15 @@
 layout: archive
 ---
 
-<h1>Some Party archives for
-  <% case page_type
-     when 'day' %>
-    <%= Date.new(year, month, day).strftime('%b %e %Y') %>
-  <% when 'month' %>
-    <%= Date.new(year, month, 1).strftime('%b %Y') %>
-  <% when 'year' %>
-    <%= year %>
-  <% end %>
-</h1>
-
 <% if paginate && num_pages > 1 %>
-  <p>Page <%= page_number %> of <%= num_pages %></p>
+  <p class="maxread center">Page <%= page_number %> of <%= num_pages %></p>
 
   <% if prev_page %>
-    <p><%= link_to 'Previous page', prev_page %></p>
+    <p class="maxread center"><%= link_to 'Previous page', prev_page %></p>
   <% end %>
 <% end %>
 
-<ul class="list pl0">
+<ul class="list pl0 maxread center">
   <% page_articles.each_with_index do |article, i| %>
     <li class="mb4">
       <div class="f5 center"><%= article.date.strftime('%A %B %e, %Y') %></div>
