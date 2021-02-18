@@ -65,7 +65,7 @@ Naray's also been active lately in the post-punk trio [Fond](https://www.faceboo
 
 > "Worry, anxiety, stress, dread, fear…these are the things that eat me alive. Just like bugs crawling in my mind, devouring my creativity and joy. Making this song helped get some of them out, and hopefully it will help you as well."
 
-*You Want It Real* is the band's fourth LP, following up on 2018's *Hounds*. lié worked with the producer Jesse Gander on the record, which arrives courtesy of [Mint](http://www.mintrecs.com/). The three-piece features guitarist/vocalist Ashlee Luk, bassist/vocalist Brittany West, and drummer Kati J. Outside of lié, Luk and West respectively perform in the techno/rave projects [Minimal Violence](https://minimalviolence.bandcamp.com) and [Sigsaly](https://sigsaly.bandcamp.com/).
+*You Want It Real* is the band's fourth LP, following up on 2018's *Hounds*. lié worked with the producer Jesse Gander on the record, which arrives courtesy of [Mint](https://www.mintrecs.com/). The three-piece features guitarist/vocalist Ashlee Luk, bassist/vocalist Brittany West, and drummer Kati J. Outside of lié, Luk and West respectively perform in the techno/rave projects [Minimal Violence](https://minimalviolence.bandcamp.com) and [Sigsaly](https://sigsaly.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4217814532/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3082730424/transparent=true/" seamless><a href="http://lievancouver.bandcamp.com/album/you-want-it-real">You Want It Real by lié</a></iframe>
 

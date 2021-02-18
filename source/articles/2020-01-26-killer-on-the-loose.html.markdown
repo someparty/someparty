@@ -35,7 +35,7 @@ Bedwetters Anonymous features members from [Industrial Priest Overcoats](https:/
 
 [Listen: Bedwetters Anonymous - "Keep Six" @ Bandcamp](https://bedwettersanonymous.bandcamp.com/track/keep-six "#")
 
-[Mint Records](http://www.mintrecs.com/) recently shared the second single from the upcoming [lié](https://lievancouver.bandcamp.com/) record. "Drowning In Piss" will join seven other tracks on the dark punk trio's new full-length *You Want It Real*, their follow-up to 2018's *Hounds*. The album, which arrives on February 28, will be the band's fourth.
+[Mint Records](https://www.mintrecs.com/) recently shared the second single from the upcoming [lié](https://lievancouver.bandcamp.com/) record. "Drowning In Piss" will join seven other tracks on the dark punk trio's new full-length *You Want It Real*, their follow-up to 2018's *Hounds*. The album, which arrives on February 28, will be the band's fourth.
 
 As with the preceding "Digging In The Desert," this track finds the band again collaborating with video director [Justin Gradin](http://justingradin.com/) on some unsettling visuals. Guitarist/vocalist Ash Luk likewise called the song "the embodiment of a bad trip," elaborating:
 

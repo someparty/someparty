@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Music from Dumb, Kamikaze Nurse, J.R., GAZM, the Crystal Lake festival, Down Memory Lane, Swear Jar, Cutie, Run Coyote, Moul D.
 ---
 
-Vancouver's [Dumb](https://dumbband.bandcamp.com/) may wear the sonic trappings of slacker-rock, but their newly announced LP is such a quick turnaround from their first record I worry that they're not truly embracing the lazy inaction that the label implies. The [Mint Records](http://www.mintrecs.com/) band just released *Seeing Green* last summer, and they're already back at it with the follow-up. A 14-song set titled *Club Nites* will arrive on June 7. It's a self-produced effort tracked in the band's Vancouver studio over the first few months of the year. Mikey Young of the Eddy Current Suppression Ring and Total Control is mastering the record (he recently worked on the latest from Dumb's label-mates Lié).
+Vancouver's [Dumb](https://dumbband.bandcamp.com/) may wear the sonic trappings of slacker-rock, but their newly announced LP is such a quick turnaround from their first record I worry that they're not truly embracing the lazy inaction that the label implies. The [Mint Records](https://www.mintrecs.com/) band just released *Seeing Green* last summer, and they're already back at it with the follow-up. A 14-song set titled *Club Nites* will arrive on June 7. It's a self-produced effort tracked in the band's Vancouver studio over the first few months of the year. Mikey Young of the Eddy Current Suppression Ring and Total Control is mastering the record (he recently worked on the latest from Dumb's label-mates Lié).
 
 In a press-release Mint described the new record:
 
@@ -29,7 +29,7 @@ Kamikaze Nurse features vocalist/guitarist KC Wei ([hazy](https://hazyhazyhaze.b
 
 [Watch: Kamikaze Nurse - "Sun Song" @ YouTube](https://youtu.be/aiZm1VIKmNg "#")
 
-Long back before Some Party was a mildly unsuccessful newsletter it was the title of an entirely unsuccessful 2012-era podcast (that you should continue to mercifully ignore). One artist I recall showcasing on that show was the Welland-based singer/songwriter [Julianna Riolino](https://soundcloud.com/juliannaelizabethriolino). While she's been quiet these past few years, it's great to hear her finally return with new material. "Be My Man" is the propulsive first single from an upcoming EP from Riolino, who's now playing under the stage-name J.R.
+Long back before Some Party was a mildly unsuccessful newsletter it was the title of an entirely unsuccessful 2012-era podcast (that you should continue to mercifully ignore). One artist I recall showcasing on that show was the Welland-based singer/songwriter [Julianna Riolino](https://jr-sings.bandcamp.com/). While she's been quiet these past few years, it's great to hear her finally return with new material. "Be My Man" is the propulsive first single from an upcoming EP from Riolino, who's now playing under the stage-name J.R.
 
 In the premiere at [Indie 88](https://indie88.com/indie88-premiere-j-r-releases-video-for-new-fuzzy-indie-pop-single-be-my-man/) Riolino comments:
 

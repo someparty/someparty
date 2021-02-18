@@ -24,7 +24,7 @@ Above all I feel remarkably lucky to have had the chance to watch the Halifax ba
 
 I'm not the first to say it, but Booji Boys are probably the best punk band in Canada in 2017.
 
-The members of [Tough Age](https://tough-age.bandcamp.com/) continue to tap into something special. Their outdoor afternoon outdoor performance as part of the [Mint Records](http://www.mintrecs.com/) showcase was a great deal of fun, as was the midnight showing by their cousins [Century Palm](https://centurypalm.bandcamp.com/) (which shares 2/3rds of the roster).
+The members of [Tough Age](https://tough-age.bandcamp.com/) continue to tap into something special. Their outdoor afternoon outdoor performance as part of the [Mint Records](https://www.mintrecs.com/) showcase was a great deal of fun, as was the midnight showing by their cousins [Century Palm](https://centurypalm.bandcamp.com/) (which shares 2/3rds of the roster).
 
 Having relocated from Vancouver to Toronto and paired down to a trio, this year's model Tough Age is a different animal than you find on the affable garage-pop of 2015's *I Get The Feeling Central*. That's quite evident on *Unclean*, the new 7" the band unveiled just in time for the festival. Once you're past the frenetic "Guess Not," the new material is rhythmic, low-fi indie-pop that fans of [The Courtneys](https://thecourtneys.bandcamp.com/) and the classic [Flying Nun](http://flyingnun.co.nz/) roster should enjoy. You can stream the Mint-released single below.
 

@@ -39,7 +39,7 @@ Vancouver punks [Necking](http://neckingband.bandcamp.com) premiered another new
 
 >"After leaving a shitty relationship, I felt really weird being alone. So, I adopted this as a neurotic catchphrase to repeat to myself whenever I felt like I was disappearing. The song is a reminder that even when all you have the strength to do is really regular stuff, like calling your mom or getting to work on time, you’re still a real person and you still exist."
 
-The song will appear on *Cut Your Teeth*, due on July 5 from [Mint Records](http://www.mintrecs.com/).
+The song will appear on *Cut Your Teeth*, due on July 5 from [Mint Records](https://www.mintrecs.com/).
 
 Necking features vocalist Hannah Kay, bassist Sonya Rez, guitarist Nada Hayek, and the drummer Melissa Kuipers. *Cut Your Teeth* will be Necking's first follow up to their well-received 2017 cassette EP *Meditation Tape*. The band recorded these new tracks with producer Jesse Gander (Needles//Pins, Japandroids, White Lung).
 

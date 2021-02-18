@@ -117,7 +117,7 @@ The new record follows the prolific songwriter's string of quarantine singles an
 
 Toronto jangle-pop quartet [Kiwi Jr.](https://kiwijr.bandcamp.com/) recently shared a video for the *Cooler Returns* album cut "Maid Marian's Toast." The clip, directed by Sean Egerton Foreman and Johan Arthurs, features behind-the-scenes footage of the band at work in the studio this past July. Given that it was shot during the pandemic, evidence of the summer's social distancing efforts abound.
 
-*Cooler Returns* arrived from [Sub Pop](https://www.subpop.com/) in January, with the band's own Kiwi Club imprint handling the release domestically. The group self-produced the record, with [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh engineering and mixing. The new album follows 2018's [Mint](http://www.mintrecs.com/)-released *Football Money*.
+*Cooler Returns* arrived from [Sub Pop](https://www.subpop.com/) in January, with the band's own Kiwi Club imprint handling the release domestically. The group self-produced the record, with [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh engineering and mixing. The new album follows 2018's [Mint](https://www.mintrecs.com/)-released *Football Money*.
 
 Kiwi Jr. features vocalist/guitarist Jeremy Gaudet, guitarist Brian Murphy, bassist Mike Walker, and drummer Brohan Moore.
 

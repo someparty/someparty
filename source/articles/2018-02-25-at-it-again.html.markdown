@@ -41,7 +41,7 @@ The event will run from a 5,000+ square foot pop-up venue and gallery in downtow
 
 [Listen: Prime Junk - "Ladybird" @ Bandcamp](https://primejunk.bandcamp.com/ "#")
 
-Speaking of [Tough Age](https://tough-age.bandcamp.com/), the Toronto-via-Vancouver three-piece recently unveiled a video for the song "Unclean" from their 2017 [Mint Records](http://www.mintrecs.com/) full-length *Shame*. The video was directed by Travis Boisvenue. In the premiere over at [Brooklyn Vegan](http://www.brooklynvegan.com/torontos-tough-age-made-a-new-video-touring-nyc-w-eternal-summers-future-punx/
+Speaking of [Tough Age](https://tough-age.bandcamp.com/), the Toronto-via-Vancouver three-piece recently unveiled a video for the song "Unclean" from their 2017 [Mint Records](https://www.mintrecs.com/) full-length *Shame*. The video was directed by Travis Boisvenue. In the premiere over at [Brooklyn Vegan](http://www.brooklynvegan.com/torontos-tough-age-made-a-new-video-touring-nyc-w-eternal-summers-future-punx/
 ), guitarist / vocalist Jarrett Samson commented:
 
 > "Our friend Travis made this for us after we loved his work on a video for Penny & Jesse’s old band Century Palm. I had no idea what to expect, and loved Travis’ subversion of expectations in the framing, cutting & matching of this video — I think it works with and enhances the song so perfectly that I can’t imagine any other video for Unclean."

@@ -158,7 +158,7 @@ In the midst of their headlining UK tour, [Single Mothers](https://singlemothers
 
 [Watch: Misha Bower - "Trying to Have It All" @ YouTube](https://youtu.be/kT-rxIgDY2w "#")
 
-Vancouver's [Necking](http://neckingband.bandcamp.com) has a video online featuring "Big Mouth," the lead single from their recently released [Mint Records](http://www.mintrecs.com/) debut, *Cut Your Teeth*.
+Vancouver's [Necking](http://neckingband.bandcamp.com) has a video online featuring "Big Mouth," the lead single from their recently released [Mint Records](https://www.mintrecs.com/) debut, *Cut Your Teeth*.
 
 In an earlier interview with Exclaim, drummer and lyricist Melissa Kuipers commented on the song, stating:
 

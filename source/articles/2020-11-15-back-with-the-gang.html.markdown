@@ -90,7 +90,7 @@ The reveal came alongside a video for the title track, directed by [Sean Egerton
 
 You can judge that for yourself below.
 
-Kiwi Jr. last released *Football Money* in 2018 on Vancouver's [Mint Records](http://www.mintrecs.com/). The band features vocalist/guitarist Jeremy Gaudet, guitarist Brian Murphy (also of [Alvvays](http://alvvays.com/)), bassist Mike Walker, and drummer Brohan Moore.
+Kiwi Jr. last released *Football Money* in 2018 on Vancouver's [Mint Records](https://www.mintrecs.com/). The band features vocalist/guitarist Jeremy Gaudet, guitarist Brian Murphy (also of [Alvvays](http://alvvays.com/)), bassist Mike Walker, and drummer Brohan Moore.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UR6l6R74vYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

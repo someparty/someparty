@@ -26,7 +26,7 @@ Ignoring all sound advice to the contrary, I'm thrilled to plumb new depths of m
 
 <span>2.</span> **Tough Age** - "The 15th"
 
->A few years back [Tough Age](https://tough-age.bandcamp.com/) pulled up stakes in Vancouver and relocated to Toronto, with guitarist Jarrett Samson and bassist Penny Clark reinventing their [Mint Records](http://www.mintrecs.com/) garage-punk outfit as a trio with Calgary's Jesse Locke on drums. *Shame*, their first album of this new era, found the band delving headfirst into the Dunedin sound, geeking out over The Clean and that classic 80s Flying Nun roster. The *Shame* sessions also found the band warming with a few classic covers, notably "The 15th," originally from Wire's 1979 record *154*. You're hearing it here for the first time ever.
+>A few years back [Tough Age](https://tough-age.bandcamp.com/) pulled up stakes in Vancouver and relocated to Toronto, with guitarist Jarrett Samson and bassist Penny Clark reinventing their [Mint Records](https://www.mintrecs.com/) garage-punk outfit as a trio with Calgary's Jesse Locke on drums. *Shame*, their first album of this new era, found the band delving headfirst into the Dunedin sound, geeking out over The Clean and that classic 80s Flying Nun roster. The *Shame* sessions also found the band warming with a few classic covers, notably "The 15th," originally from Wire's 1979 record *154*. You're hearing it here for the first time ever.
 
 <span>3.</span> **Psychic Void** - "Boneshaker"
 

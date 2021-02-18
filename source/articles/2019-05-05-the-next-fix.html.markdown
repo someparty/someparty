@@ -78,7 +78,7 @@ Deliluh also took a central role in a new documentary short by directors [Colin 
 
 [Watch: Somewhere Else @ Vimeo](https://vimeo.com/332967020 "#")
 
-Last week [Mint Records](http://www.mintrecs.com/) shared the second single from the upcoming [Dumb](https://dumbband.bandcamp.com/) full-length *Club Nites*. "Beef Hits" will appear on the slacker-punk outfit's 14-song record when it arrives on June 7, it features a sax solo from Vancouver multi-instrumentalist [Ridley Bishop](https://ridleybishop.bandcamp.com/).
+Last week [Mint Records](https://www.mintrecs.com/) shared the second single from the upcoming [Dumb](https://dumbband.bandcamp.com/) full-length *Club Nites*. "Beef Hits" will appear on the slacker-punk outfit's 14-song record when it arrives on June 7, it features a sax solo from Vancouver multi-instrumentalist [Ridley Bishop](https://ridleybishop.bandcamp.com/).
 
 Dumb self-produced *Club Nites*, recording in their Vancouver studio over the first few months of the year. Mikey Young of the Eddy Current Suppression Ring and Total Control mastered the album.
 

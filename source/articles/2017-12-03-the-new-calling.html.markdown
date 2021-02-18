@@ -59,7 +59,7 @@ Fredericton hardcore group [Deep Fryer](https://deepfryer.bandcamp.com) has rele
 
 [Listen: Deep Fryer - "Rockin' Right Hard" @ Bandcamp](https://deepfryer.bandcamp.com/album/rockin-right-hard "#")
 
-Seattle's [KEXP](http://kexp.org/) has posted a 20-minute in-studio session from Edmonton indie rock act [Faith Healer](https://faithhealer.bandcamp.com/). The band performed four songs in Montreal's [Breakglass Studios](http://breakglass.ca/) on September 16 during [POP Montreal](https://popmontreal.com), including "Waiting," "Light of Loving," "Try," and "2nd Time." All four tracks are from the band's sophomore full length *Try ;-)*, which came out on [Mint Records](http://www.mintrecs.com/) that same month.
+Seattle's [KEXP](http://kexp.org/) has posted a 20-minute in-studio session from Edmonton indie rock act [Faith Healer](https://faithhealer.bandcamp.com/). The band performed four songs in Montreal's [Breakglass Studios](http://breakglass.ca/) on September 16 during [POP Montreal](https://popmontreal.com), including "Waiting," "Light of Loving," "Try," and "2nd Time." All four tracks are from the band's sophomore full length *Try ;-)*, which came out on [Mint Records](https://www.mintrecs.com/) that same month.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XWDBnZhSiI?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 

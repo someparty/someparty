@@ -28,7 +28,7 @@ The 11-song *Morbid Stuff* was recorded at Toronto's Union Sound Company last sp
 
 [Listen: PUP - "Kids" @ Bandcamp](http://puptheband.bandcamp.com/album/morbid-stuff "#")
 
-Indie-rock group [Kiwi Jr.](https://kiwijr.bandcamp.com/) has signed to [Mint Records](http://www.mintrecs.com/) for the release of their new album *Football Money*. The 10-track set, the band's first LP, will arrive on March 29. Singer/guitarist Jeremy Gaudet commented on the album:
+Indie-rock group [Kiwi Jr.](https://kiwijr.bandcamp.com/) has signed to [Mint Records](https://www.mintrecs.com/) for the release of their new album *Football Money*. The 10-track set, the band's first LP, will arrive on March 29. Singer/guitarist Jeremy Gaudet commented on the album:
 
 > "It's very much a Toronto record. Even though we're East Coasters, there's no nostalgia or romanticizing small towns. This album is about the neighbourhoods we live in and our lives here... Instead of being introspective, these songs are looking outward. This album is about the people we meet and things that happen to make up our days and weeks. It's less about trying to express ourselves — it's more interpreting the outside world."
 

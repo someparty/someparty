@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: New music from Woolworm, Corridor, Hubert Lenoir, Deliluh, The Dirty Nil, Young Guv, André Ethier, Mimico, Ivan Rivers, Warp Lines, Elephant Stone, Shotgun Jimmie, BBQT, Raise Ghosts, Les Dales Hawerchuk
 ---
 
-Vancouver indie rock act [Woolworm](https://woolworm.bandcamp.com) recently announced *Awe*, a new 12-song full-length due November 8 from [Mint Records](http://www.mintrecs.com/). Recorded and mixed by their labelmate [Jay Arner](https://jayarner.bandcamp.com/), the set follow's the band's 2017 sophomore record *Deserve to Die*. It also strikes a decidedly different tone, as guitarist Giles Roy noted in the press release:
+Vancouver indie rock act [Woolworm](https://woolworm.bandcamp.com) recently announced *Awe*, a new 12-song full-length due November 8 from [Mint Records](https://www.mintrecs.com/). Recorded and mixed by their labelmate [Jay Arner](https://jayarner.bandcamp.com/), the set follow's the band's 2017 sophomore record *Deserve to Die*. It also strikes a decidedly different tone, as guitarist Giles Roy noted in the press release:
 
 > "Even though some of these songs date back to before *Deserve To Die*, we allowed ourselves to be spontaneous and open-minded here and took a collage approach to the overall record. We let it be scrappier and more diverse and less symmetrical... *Deserve To Die* was a sort of exorcism, and this one's more of a meditation. That one took so long to write and record that finally releasing it had a cathartic effect. But now we're done with death.
 >

@@ -13,7 +13,7 @@ I've yet to entirely figure out Zen Bamboo, stylistically. I first encountered t
 
 [Listen: Zen Bamboo - "Retour au noir" @ Bandcamp](https://zenbamboo.bandcamp.com/track/retour-au-noir "#")
 
-Vancouver indie-pop act [Energy Slime](https://www.facebook.com/energyslime/), a side-project from members of [Jay Arner](https://jayarner.bandcamp.com/)'s band, have returned with a new single titled "It's Cold." The track's set for release on December 2 at the [Mint Records](http://www.mintrecs.com/) Ridiculously Early Xmas Party, where it'll be gifted to attendees as a  flexi disc greeting card.
+Vancouver indie-pop act [Energy Slime](https://www.facebook.com/energyslime/), a side-project from members of [Jay Arner](https://jayarner.bandcamp.com/)'s band, have returned with a new single titled "It's Cold." The track's set for release on December 2 at the [Mint Records](https://www.mintrecs.com/) Ridiculously Early Xmas Party, where it'll be gifted to attendees as a  flexi disc greeting card.
 
 [Exclaim](https://exclaim.ca/music/article/energy_slime-its_cold_video) premiered a video for the track, directed by frontwoman Jessica Delisle. Her comments on the shoot, which took place in Edmundston, New Brunswick and Trois-Rivières, Quebec are pretty fun:
 

@@ -65,7 +65,7 @@ Given the influences, it should come as no surprise that this album goes all ove
 
 Toronto's [Tough Age](https://tough-age.bandcamp.com/) recently recorded their fourth album at Montreal's Bottle Garden Studio, once again working with producer Peter Woodford, as they did on 2017's *Shame*. While the band hasn't confirmed details on that record yet (other than the fact that they keep alluding to ELP's 1971's epic *Tarkus*), they did share one new non-album track to ring in the new year. You can hear the song "Waiting Here" online now, a song that guitarist/vocalist Jarrett Samson claims to have "fucked up" once he got it back home from the studio. You can hear the low-fi tune, mastered by Jay Arner, now at [Bandcamp](https://tough-age.bandcamp.com/).
 
-Samson recently shook his digital fist at the British superstars Coldplay for naming their recent album *Everyday Life*. At one point, that was the intended title of this upcoming Tough Age LP. It was also a song title on *Shame*, but that doesn't seem to count as dibs, at least to Chris Martin. Expect the next Tough Age effort, whatever it's called, to arrive on [Mint Records](http://www.mintrecs.com/) sometime later this year.
+Samson recently shook his digital fist at the British superstars Coldplay for naming their recent album *Everyday Life*. At one point, that was the intended title of this upcoming Tough Age LP. It was also a song title on *Shame*, but that doesn't seem to count as dibs, at least to Chris Martin. Expect the next Tough Age effort, whatever it's called, to arrive on [Mint Records](https://www.mintrecs.com/) sometime later this year.
 
 Tough Age, in their Toronto incarnation, features Samson and bassist/vocalist Penny Clark with drummer Jesse Locke.
 
@@ -73,7 +73,7 @@ Tough Age, in their Toronto incarnation, features Samson and bassist/vocalist Pe
 
 [Listen: Tough Age - "Waiting Here" @ Bandcamp](http://tough-age.bandcamp.com/track/waiting-here "#")
 
-Vancouver's [lié](https://lievancouver.bandcamp.com/) can't slow down. The dark punk trio is back at it again this February with their fourth full length. The eight-song *You Want It Real* arrives on the 28th, also from [Mint Records](http://www.mintrecs.com/).
+Vancouver's [lié](https://lievancouver.bandcamp.com/) can't slow down. The dark punk trio is back at it again this February with their fourth full length. The eight-song *You Want It Real* arrives on the 28th, also from [Mint Records](https://www.mintrecs.com/).
 
 The announcement came alongside "Digging in the Desert," a tightly wound post-punk single coupled with a truly bizarre video. The band once again worked with Vancouver director [Justin Gradin](http://justingradin.com/) on the visuals, with the song exploring, in the words of the band's Brittany West, "hedonistic feelings and being eaten alive by the hardships of love playing out in a fever dream in my mind." Gradin previously directed lié's "Weaponized" clip, along with memorable recent videos from Jo Passed and Autogramm.
 
@@ -83,7 +83,7 @@ lié worked with the prolific punk producer Jesse Gander on the new LP, which fo
 
 [Watch: lié - "Digging In The Desert" @ YouTube](https://youtu.be/sUjrU9sYEQA "#")
 
-[Faith Healer](https://faithhealer.bandcamp.com/), the Edmonton duo featuring Jessica Jalbert and Renny Wilson, rang in 2020 with a new single named for the year. "2020" arrived in two forms, an [original mix](https://soundcloud.com/user-686724500/2020ogmix) (clocking in a very appropriate 2 minutes and 20 seconds) and an extended version that tacks another two minutes to the runtime. Unlike the accomplished pop-rock of 2017's [Mint Records](http://www.mintrecs.com/) full-length *Try ;-)*, this new tune finds the band trading in sly, dancefloor-ready funk. Whether this marks is a new direction or just a one-off lark remains to be seen. It's super cool, nonetheless.
+[Faith Healer](https://faithhealer.bandcamp.com/), the Edmonton duo featuring Jessica Jalbert and Renny Wilson, rang in 2020 with a new single named for the year. "2020" arrived in two forms, an [original mix](https://soundcloud.com/user-686724500/2020ogmix) (clocking in a very appropriate 2 minutes and 20 seconds) and an extended version that tacks another two minutes to the runtime. Unlike the accomplished pop-rock of 2017's [Mint Records](https://www.mintrecs.com/) full-length *Try ;-)*, this new tune finds the band trading in sly, dancefloor-ready funk. Whether this marks is a new direction or just a one-off lark remains to be seen. It's super cool, nonetheless.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/736545223&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -135,7 +135,7 @@ UUBBUURRUU will launch the new record on January 30 with a [show](http://hyperur
 
 > "It was shot mostly at our favourite bar in Toronto — Black Dice Cafe. It's a rockabilly bar and though Kiwi Jr is very unhip to that scene, we tried to pay it justice by wearing leather jackets. We've had probably every band meeting we've ever had at that bar, and the owner Hidecki was nice enough to let us shoot there as long as we didn't break anything (which we did during load in before we even started shooting)."
 
-Sean Foreman directed the new video, which follows the band's recent clip showcasing their single "Salary Man." The 10-song *Football Money* arrived in Canada this past March from [Mint Records](http://www.mintrecs.com/). Kiwi Jr. features vocalist Jeremy Gaudet, [Alvvays](http://alvvays.com/) guitarist Brian Murphy, bassist Mike Walker, and drummer Brohan Moore. Aaron Goldstein (Daniel Romano, Bry Webb) engineered the record, with Holy Fuck's Graham Walsh mixing.
+Sean Foreman directed the new video, which follows the band's recent clip showcasing their single "Salary Man." The 10-song *Football Money* arrived in Canada this past March from [Mint Records](https://www.mintrecs.com/). Kiwi Jr. features vocalist Jeremy Gaudet, [Alvvays](http://alvvays.com/) guitarist Brian Murphy, bassist Mike Walker, and drummer Brohan Moore. Aaron Goldstein (Daniel Romano, Bry Webb) engineered the record, with Holy Fuck's Graham Walsh mixing.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xaKRXmwBwOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

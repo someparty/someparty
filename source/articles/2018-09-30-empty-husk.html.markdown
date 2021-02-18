@@ -43,7 +43,7 @@ A video for the song finds the band once again working with Shawn Kosmerly, who 
 
 Vancouver's dark punk trio [Lié](https://lievancouver.bandcamp.com/) shared a video this week for their song "Weaponized." The clip was (disturbingly) animated by visual artist [Justin Gradin](http://justingradin.com/), who produced a similarly weird clip for Jo Passed earlier in the year.
 
-The song comes from *Hounds*, the band's recent LP on [Mint Records](http://www.mintrecs.com/) and [Monofonus Press](http://monofonuspress.com/). Lié features guitarist Ashlee Lúk, bassist Brittany West, and drummer Kati J.
+The song comes from *Hounds*, the band's recent LP on [Mint Records](https://www.mintrecs.com/) and [Monofonus Press](http://monofonuspress.com/). Lié features guitarist Ashlee Lúk, bassist Brittany West, and drummer Kati J.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r6DwxjKjO6o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

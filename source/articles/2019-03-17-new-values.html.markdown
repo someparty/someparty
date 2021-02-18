@@ -2,7 +2,7 @@
 title: New Values
 date: 2019-03-17
 author: adam@someparty.ca (Adam White)
-description: Music fro Bleu Nuit, Hot Garbage, PAX, CRABE, Robbie Brake, Blooming Season. News from [B.P.S.](https://brainpollutionsyndrome.bandcamp.com), Corner Boys, Chian Whip. A letter from Bry Webb.
+description: Music fro Bleu Nuit, Hot Garbage, PAX, CRABE, Robbie Brake, Blooming Season. News from B.P.S., Corner Boys, Chian Whip. A letter from Bry Webb.
 ---
 
 The well of new music from which this newsletter draws felt somewhat dry this past week. You can likely blame the dual-headed industry distraction that was SXSW and the Junos, to say nothing of real-life tragedies taking the wind out of this silly entertainment beat. Still, while there wasn't a massive slate of new media to consume, there was one critical call to action from a musician and human being who sits near the top of my canon. We'll get to that in a moment.

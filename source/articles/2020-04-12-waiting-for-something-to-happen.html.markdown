@@ -42,7 +42,7 @@ Edmonton's [Wares](https://wares.bandcamp.com) recently shared the ethereal "Liv
 > "'Living Proof' is how I remember the first few moments after waking up from gender affirming surgery. Weightless, euphoric, incoherent from anesthesia. Relieved above all.
 Availability for trans healthcare varies between provinces. In addition to ignorant or transphobic front line workers, there's often huge wait times to see qualified doctors. Despite a flawed, criminally underfunded public health system, trans people endure and take what we need to thrive. This song is for us."
 
-*Survival* arrives from [Mint Records](http://www.mintrecs.com/) on April 24. A release show planned for that day is obviously on hold, but I'd keep an eye out for something streaming online in the intern.
+*Survival* arrives from [Mint Records](https://www.mintrecs.com/) on April 24. A release show planned for that day is obviously on hold, but I'd keep an eye out for something streaming online in the intern.
 
 *Survival* features Cassia J. Hardy backed by keyboardist Jamie Mclean, bassist Matthew Gooding, and drummer Holly Greaves. The group recorded at Bikini Bottom in the summer of 2019 with Mason Pitzel. Jesse Gander (lié, Woolworm, Necking) mixed the set, with mastering performed by Ryan Morey. The 10-song LP follows Wares' 2017 debut and the 2018's *Silhouette* EP.
 
@@ -94,7 +94,7 @@ The new tune follows a string of recent one-off singles, including "I Don't Wann
 
 [Watch: Nyssa - "Anybodies" @ YouTube](https://youtu.be/Hx_aOCLW7vw "#")
 
-Vancouver's [Necking](http://neckingband.bandcamp.com) released an absolutely killer debut full-length last year on [Mint](http://www.mintrecs.com/) titled *Cut Your Teeth*. The label recently shared a new video from that album, showcasing the song "Spare Me." Chance Swainson directed the piece, which you can find now on YouTube.
+Vancouver's [Necking](http://neckingband.bandcamp.com) released an absolutely killer debut full-length last year on [Mint](https://www.mintrecs.com/) titled *Cut Your Teeth*. The label recently shared a new video from that album, showcasing the song "Spare Me." Chance Swainson directed the piece, which you can find now on YouTube.
 
 Necking features vocalist Hannah Kay, bassist Sonya Eui, guitarist Nada Hayek, drummer Melissa Kuipers. *Cut Your Teeth* was recorded with Jesse Gander.
 

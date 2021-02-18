@@ -37,7 +37,7 @@ You can find the video, directed by [Alex Mof](https://www.imalexmof.com/), belo
 
 Vancouver cold-punk trio [Lié](https://lievancouver.bandcamp.com/) have a new video online for the song "Can't Get Enough," which is set for release as part of their upcoming *Hounds* LP. [Katayoon Yousefbigloo](https://vimeo.com/user60663477) directed the clip.
 
-Lié features guitarist Ashlee Lúk, bassist Brittany West, and drummer Kati J. They recorded *Hounds*, their third record, in Austin, Texas with Ian Rundell producing and Total Control’s Mikey Young mastering. *Hounds* will see a July 6 release from [Mint Records](http://www.mintrecs.com/) and [Monofonus Press](http://monofonuspress.com/).
+Lié features guitarist Ashlee Lúk, bassist Brittany West, and drummer Kati J. They recorded *Hounds*, their third record, in Austin, Texas with Ian Rundell producing and Total Control’s Mikey Young mastering. *Hounds* will see a July 6 release from [Mint Records](https://www.mintrecs.com/) and [Monofonus Press](http://monofonuspress.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gw1dl8XguxE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

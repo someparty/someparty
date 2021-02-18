@@ -48,7 +48,7 @@ Punknews.org [premiered](https://www.punknews.org/article/64372/media-dead-broke
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2235866708/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://dead-broke.bandcamp.com/album/nice-words">Nice Words by Dead Broke</a></iframe>
 
-While you're at Punknews, make sure you check out the second new single from Vancouver's [Woolworm](https://woolworm.bandcamp.com/). "Seer" will appear on the band's sophomore LP *Deserve To Die*, due out on August 25th on [Mint Records](http://www.mintrecs.com/). It gives a pretty good sense of the album's "hardcore band plays moody alt-rock" vibe and shows off some of the big production values they got working with Jesse Gander at Rain City (White Lung, Japandroids).
+While you're at Punknews, make sure you check out the second new single from Vancouver's [Woolworm](https://woolworm.bandcamp.com/). "Seer" will appear on the band's sophomore LP *Deserve To Die*, due out on August 25th on [Mint Records](https://www.mintrecs.com/). It gives a pretty good sense of the album's "hardcore band plays moody alt-rock" vibe and shows off some of the big production values they got working with Jesse Gander at Rain City (White Lung, Japandroids).
 
 The site also [premiered](https://www.punknews.org/article/64384/exclusivevideos-the-creepshow-sticks-and-stones-punknews-exclusive) a video for the stomping rock'n'roll song "Sticks & Stones" by Montreal punk / psychobilly group [The Creepshow](https://www.facebook.com/TheCreepshowOfficial/). The song will appear on *Death at my Door*, a September 15th release through [Stomp Records](http://www.stomprecords.com/).
 

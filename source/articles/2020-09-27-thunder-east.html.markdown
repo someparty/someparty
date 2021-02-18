@@ -57,7 +57,7 @@ Toronto's [Kiwi Jr.](https://kiwijr.bandcamp.com/) have signed to the legendary 
 
 >"We all know UNDECIDED VOTERS: democracy's driftwood, the third planks in the flotsam that purple the pie chart, always on sight and never a part of the scene. Placing imminent demise neatly to one side, KIWI JR. concentrate on the real Issues: the terrible alliance between King Crab and the timezones; 3D printing causing mass sculptor redundancies; and the playlist at the Duane Reade. After all, who is it we're really voting for: Spartacus or the dead?"
 
-Kiwi Jr. last released *Football Money* in 2018 on Vancouver's [Mint Records](http://www.mintrecs.com/). The band features vocalist/guitarist Jeremy Gaudet, guitarist Brian Murphy (who you may know from  [Alvvays](http://alvvays.com/)), bassist Mike Walker, and drummer Brohan Moore.
+Kiwi Jr. last released *Football Money* in 2018 on Vancouver's [Mint Records](https://www.mintrecs.com/). The band features vocalist/guitarist Jeremy Gaudet, guitarist Brian Murphy (who you may know from  [Alvvays](http://alvvays.com/)), bassist Mike Walker, and drummer Brohan Moore.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vue2lznRaDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -115,7 +115,7 @@ Rust Owl (stylized previously as "R U S T O W L") formed in the wake of a traged
 
 Allie Hanlon's bubblegum-punk quartet [Peach Kelli Pop](http://peachkellipop.bandcamp.com) has another new preview online of their upcoming EP, *Lucky Star*. You can stream the record-opening "Stupid Girl" on Bandcamp now.
 
-*Lucky Star* arrives on October 9 through [Lauren Records](https://www.lauren-records.com/). The set features three originals and a cover of "Sing and Pretty" by Japanese group The Pats Pats (previously released as a split digital single last year).  *Lucky Star* follows Peach Kelli Pop's 2018 LP *Gentle Leader*, a [Mint](http://www.mintrecs.com/) release.
+*Lucky Star* arrives on October 9 through [Lauren Records](https://www.lauren-records.com/). The set features three originals and a cover of "Sing and Pretty" by Japanese group The Pats Pats (previously released as a split digital single last year).  *Lucky Star* follows Peach Kelli Pop's 2018 LP *Gentle Leader*, a [Mint](https://www.mintrecs.com/) release.
 
 While based California these days, Allie Hanlon made her name drumming for the beloved Ottawa garage-punk trio [The White Wires](https://thewhitewires.bandcamp.com/) throughout their career.
 

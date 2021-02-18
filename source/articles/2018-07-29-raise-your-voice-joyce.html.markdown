@@ -51,7 +51,7 @@ A video for the track, directed by [Shawn Kosmerly](https://www.facebook.com/her
 
 Vancouver punk trio [Needles//Pins](http://www.needlesxpins.com/) recently released a split 7" with the UK band [Epic Problem](https://epicproblem2.bandcamp.com/). It's part of the ongoing [All In Vinyl](http://allinvinyl.limitedrun.com/products/567800?preview=true) split series.
 
-The band's contributions, "Heaven's on the Hillside" and "Stumble," were recorded and produced by Jesse Gander at Rain City Recorders (Japandroids, White Lung, Woolworm) and are the first songs the band's released in the wake of their 2017 [Mint Records](http://www.mintrecs.com/) full-length *Good Night, Tomorrow*.
+The band's contributions, "Heaven's on the Hillside" and "Stumble," were recorded and produced by Jesse Gander at Rain City Recorders (Japandroids, White Lung, Woolworm) and are the first songs the band's released in the wake of their 2017 [Mint Records](https://www.mintrecs.com/) full-length *Good Night, Tomorrow*.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2130862612/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://needlesxpins.bandcamp.com/album/heavens-on-the-hillside-stumble-7-all-in-vinyl">Heaven&#39;s on the Hillside/Stumble 7&quot; (All In Vinyl) by NEEDLES//PINS</a></iframe>
 

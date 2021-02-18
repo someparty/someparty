@@ -47,7 +47,7 @@ Toronto post-punk trio [WHIMM](https://whimm.bandcamp.com/) have debuted a hypno
 
 [Watch: WHIMM - "White Bird" @ YouTube](https://youtu.be/Oq9g4XL8rYw "#")
 
-Vancouver cold-punk trio [Lié](https://lievancouver.bandcamp.com/) have a new record out on [Mint Records](http://www.mintrecs.com/) and [Monofonus Press](http://monofonuspress.com/), titled *Hounds*. In the run-up to last Friday's release, the band unveiled a new video for the song "Fill It Up," an eerie clip the band hopes "stimulates a sense of restlessness, anxiety, and fury that mirrors that of the lyrical content and themes of the new record." Lucien Cyr wrote, directed, and filmed the "Fill It Up" video.
+Vancouver cold-punk trio [Lié](https://lievancouver.bandcamp.com/) have a new record out on [Mint Records](https://www.mintrecs.com/) and [Monofonus Press](http://monofonuspress.com/), titled *Hounds*. In the run-up to last Friday's release, the band unveiled a new video for the song "Fill It Up," an eerie clip the band hopes "stimulates a sense of restlessness, anxiety, and fury that mirrors that of the lyrical content and themes of the new record." Lucien Cyr wrote, directed, and filmed the "Fill It Up" video.
 
 Lié features guitarist Ashlee Lúk, bassist Brittany West, and drummer Kati J. They recorded *Hounds*, their third record, in Austin, Texas with Ian Rundell producing and Total Control’s Mikey Young mastering.
 

@@ -25,7 +25,7 @@ On this recording, Trout featured vocalist/guitarist Roye Trout backed by guitar
 
 Allie Hanlon's bubblegum-punk quartet [Peach Kelli Pop](http://peachkellipop.bandcamp.com) returns this fall with a new EP for [Lauren Records](https://www.lauren-records.com/). You can preview the record now with the lead single "Cut Me Off." The set features three originals and a cover of "Sing and Pretty" by Japanese group The Pats Pats (previously released as a split digital single last year).
 
-*Lucky Star* follows Peach Kelli Pop's 2018 LP *Gentle Leader*, a [Mint](http://www.mintrecs.com/) release. While based California these days, Allie Hanlon made her name drumming for the beloved Ottawa garage-punk trio [The White Wires](https://thewhitewires.bandcamp.com/) throughout their career.
+*Lucky Star* follows Peach Kelli Pop's 2018 LP *Gentle Leader*, a [Mint](https://www.mintrecs.com/) release. While based California these days, Allie Hanlon made her name drumming for the beloved Ottawa garage-punk trio [The White Wires](https://thewhitewires.bandcamp.com/) throughout their career.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1581996254/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://peachkellipop.bandcamp.com/album/lucky-star">Lucky Star by Peach Kelli Pop</a></iframe>
 

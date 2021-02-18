@@ -72,7 +72,7 @@ Edmonton's [Wares](https://wares.bandcamp.com) recently shared a video for "Viol
 
 > "I trained at various gyms and competed in tournaments across Alberta for nearly ten years, ending around the time I started taking music more seriously. The gyms I trained at were strict, and followed a very rigid hierarchy and protocol which I grew to dislike. The lyrics use that experience as a lens to examine the pressures of performing masculinity as a closeted trans person, and the defense mechanisms one builds to survive those pressures."
 
-The clip premiered as part of [Mint Records](http://www.mintrecs.com/)' [Ridiculously Online Xmas Party](https://youtu.be/EN71ka8DNn4) in December. The Vancouver label released *Survival*, Wares' dynamic sophomore album last spring.
+The clip premiered as part of [Mint Records](https://www.mintrecs.com/)' [Ridiculously Online Xmas Party](https://youtu.be/EN71ka8DNn4) in December. The Vancouver label released *Survival*, Wares' dynamic sophomore album last spring.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LqZfLx0XXbE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ Toronto jangle-pop quartet [Kiwi Jr.](https://kiwijr.bandcamp.com/) has a second
 
 > "We like the candid and casual approach of director Laura-Lynn's previous videos, including Weyes Blood, Jessica Pratt, Michael Rault, Twist, and she was excited by our idea to wander around downtown Toronto while it was something of a ghost-town"
 
-"Waiting In Line" will appear on *Cooler Returns* on January 22. Sub Pop's carrying the record internationally, with the band's own Kiwi Club imprint handling the release in Canada. The group self-produced the record, with [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh engineering and mixing. The record follows 2018's [Mint](http://www.mintrecs.com/)-released *Football Money*.
+"Waiting In Line" will appear on *Cooler Returns* on January 22. Sub Pop's carrying the record internationally, with the band's own Kiwi Club imprint handling the release in Canada. The group self-produced the record, with [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh engineering and mixing. The record follows 2018's [Mint](https://www.mintrecs.com/)-released *Football Money*.
 
 Kiwi Jr features vocalist/guitarist Jeremy Gaudet, guitarist Brian Murphy (also of [Alvvays](http://alvvays.com/)), bassist Mike Walker, and drummer Brohan Moore.
 

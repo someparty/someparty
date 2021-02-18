@@ -75,7 +75,7 @@ Several of Reimer's bandmates from Women are of course now members of [Preoccupa
 
 [Watch: Preoccupations - "Espionage" @ YouTube](https://www.youtube.com/watch?v=Kl1oQE2uzxw&feature=youtu.be "#")
 
-[Mint Records](http://www.mintrecs.com/) has posted a new video from Edmonton's [Faith Healer](https://faithhealer.bandcamp.com/), showcasing the song "& Waiting" from the indie-pop band's lovely sophomore full length *Try ;-)*.
+[Mint Records](https://www.mintrecs.com/) has posted a new video from Edmonton's [Faith Healer](https://faithhealer.bandcamp.com/), showcasing the song "& Waiting" from the indie-pop band's lovely sophomore full length *Try ;-)*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y4vpZVjdh2Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

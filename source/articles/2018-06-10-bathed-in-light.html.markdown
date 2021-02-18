@@ -73,7 +73,7 @@ Last week the band issued a video for the song, animated by [Mat Lindenberg](htt
 
 [Watch: Feel Alright - "Cool Water" @ YouTube](https://www.youtube.com/watch?v=dvhYdJJikr0 "#")
 
-Vancouver's slacker-punk act [Dumb](https://dumbband.bandcamp.com/) recently premiered a new song via Seattle's [KEXP](https://www.kexp.org/read/2018/6/6/vancouver-bcs-dumb-green-all-senses-romeo-kexp-premiere/) titled "Romeo." It's the album-opening track from *Seeing Green*, the band's new 14-song LP, which is due from [Mint Records](http://www.mintrecs.com/) on June 22. You can find it streaming below.
+Vancouver's slacker-punk act [Dumb](https://dumbband.bandcamp.com/) recently premiered a new song via Seattle's [KEXP](https://www.kexp.org/read/2018/6/6/vancouver-bcs-dumb-green-all-senses-romeo-kexp-premiere/) titled "Romeo." It's the album-opening track from *Seeing Green*, the band's new 14-song LP, which is due from [Mint Records](https://www.mintrecs.com/) on June 22. You can find it streaming below.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/407444406&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 

@@ -66,7 +66,7 @@ WHIMM's debut album is titled *A Stare Ajar* and will arrive on October 27 on [P
 
 [Watch: WHIMM - "Second Sound" @ YouTube](https://www.youtube.com/watch?v=25MsxUCEegk "#")
 
-Flipping the mood completely, there's a new video from [Nardwuar](http://www.nardwuar.com/)'s pop-punk crew [The Evaporators](https://theevaporators.bandcamp.com) for the song "Chuckathanks," which appears on the band's recent [Mint](http://www.mintrecs.com/)-released *Ogopogo Punk* album.
+Flipping the mood completely, there's a new video from [Nardwuar](http://www.nardwuar.com/)'s pop-punk crew [The Evaporators](https://theevaporators.bandcamp.com) for the song "Chuckathanks," which appears on the band's recent [Mint](https://www.mintrecs.com/)-released *Ogopogo Punk* album.
 
 There's an entirely distracting amount of Nardwuar content floating around this week as the prolific interviewer and Canadian music historian celebrates 30 years of his radio show on Vancouver's [CiTR](http://www.citr.ca/). At some point a, supercut of all his "Doot doo" sign-offs came across my desk and I had to pause the new Godspeed record to indulge in that. Of all that content, the feature posted at [The Outline](https://theoutline.com/post/2305/nardwuar-the-most-mysterious-man-in-music-journalism) is pretty cool in particular.
 

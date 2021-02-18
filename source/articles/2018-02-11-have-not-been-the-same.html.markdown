@@ -70,7 +70,7 @@ We're nearing the February 23 release of [FRIGS](https://frigsmusic.com/) *Basic
 
 [Listen: FRIGS - "Solid State" @ YouTube](https://www.youtube.com/watch?v=6HH9AAZwmP0 "#")
 
-[Mint Records](http://www.mintrecs.com/) has premiered a new track from Vancouver synth-pop act [Kellarissa](https://kellarissa.bandcamp.com/) (Larissa Loyva) titled "Black Sea." It'll be part of the Loyva's upcoming third record under the stage name, titled *Ocean Electro*. Mint will release it on March 23.
+[Mint Records](https://www.mintrecs.com/) has premiered a new track from Vancouver synth-pop act [Kellarissa](https://kellarissa.bandcamp.com/) (Larissa Loyva) titled "Black Sea." It'll be part of the Loyva's upcoming third record under the stage name, titled *Ocean Electro*. Mint will release it on March 23.
 
 Kellarissa will celebrate the release with a hometown show in Vancouver at the Red Gate Revue Stage on March 22. That event will feature a gathering of experimental pop acts from the city, including Devours, Mourning Coup, and a solo set from Hello, Blue Roses.
 

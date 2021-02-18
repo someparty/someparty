@@ -47,7 +47,7 @@ On the moodier end of the post-punk spectrum, Montreal's [Bleu Nuit](https://ble
 
 [Listen: Bleu Nuit - "Féminin Masculin" @ Bandcamp](http://bleunuitmtl.bandcamp.com/track/f-minin-masculin "#")
 
-[Mint Records](http://www.mintrecs.com/) has released a new karaoke-style video from Vancouver's [Dumb](https://dumbband.bandcamp.com/), featuring the song "Hard Sea." The track will appear on the four-piece slacker-punk group's upcoming LP *Seeing Green*, a 14-song collection recorded by Jordan Koop at The Noise Floor.
+[Mint Records](https://www.mintrecs.com/) has released a new karaoke-style video from Vancouver's [Dumb](https://dumbband.bandcamp.com/), featuring the song "Hard Sea." The track will appear on the four-piece slacker-punk group's upcoming LP *Seeing Green*, a 14-song collection recorded by Jordan Koop at The Noise Floor.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CDm0suxK9uM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
