@@ -89,7 +89,7 @@ The new video was put together by the Justis Krar to launch his new video produc
 
 [Watch: Single Mothers - "Well Wisher" @ YouTube](https://www.youtube.com/watch?v=vZXrHsXSBwo "#")
 
-Vancouver-based comic boo -themed punk group [The Corps](https://thecorps.bandcamp.com/) are gearing up to release a new record on May 19 titled *Tales From 2814*. That's 2814 as in "Sector 2814," the designation of space where Earth resides in DC Comics' Green Lantern cosmology. The four-piece features [Real McKenzies](http://www.realmckenzies.com/) members Andrew Pedersen, Dan Stenning, and Dan Garrison, along with Ronnie Ellis.
+Vancouver-based comic book-themed punk group [The Corps](https://thecorps.bandcamp.com/) are gearing up to release a new record on May 19 titled *Tales From 2814*. That's 2814 as in "Sector 2814," the designation of space where Earth resides in DC Comics' Green Lantern cosmology. The four-piece features [Real McKenzies](http://www.realmckenzies.com/) members Andrew Pedersen, Dan Stenning, and Dan Garrison, along with Ronnie Ellis.
 
 Ellis, in an on-stage incident that was caught on camera, recently broke his nose during a performance. The band subsequently appeared on the video podcast series [Intergalactic Interviews](http://www.intergalacticinterviews.com/) where they gave a play-by-play of the injury. You can find that clip below. The Corps also premiered a new song, "Rann Thanagar Wars," as part of the recent episode of the [Rocket from Russia](http://www.citr.ca/radio/rocket-from-russia/episode/20180510/) show. You can hear it in their archives.
 
