@@ -179,4 +179,3 @@ You can find their full manifesto, along with a detailed peek at the album art, 
 Constellation has a two-minute audio preview online now at [Vimeo](https://vimeo.com/521929213), heralding a [listening event](https://suoniperilpopolo.org/en/events/2021-03-27-g_d-s-pee-at-states-end) on March 27 to be broadcast from Montreal's empty Cinema Imperial. The clip serves as our only audio preview of the new record to date, with more surely to come. Keep scanning the airwaves.
 
 <iframe src="https://player.vimeo.com/video/521929213?color=fff" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/521929213">GY!BE STATE&#039;S END BRODKAST</a> from <a href="https://vimeo.com/cstrecords">Constellation Records</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
