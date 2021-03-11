@@ -6,8 +6,8 @@ description: Music and more from Paul Jacobs, Gemstones, PONY, Leanne Betasamosa
 ---
 
 ###[Paul Jacobs](https://pauljacobs.bandcamp.com/): "Half Rich Loner"
-==Listen at [Bandcamp](https://pauljacobs.bandcamp.com/album/pink-dogs-on-the-green-grass
-) - Watch at [YouTube](https://youtu.be/3VuW17U31N4)==
+==Preview and purchase at [Bandcamp](https://pauljacobs.bandcamp.com/album/pink-dogs-on-the-green-grass
+) - Watch on [YouTube](https://youtu.be/3VuW17U31N4)==
 
 Montreal's [Paul Jacobs](https://pauljacobs.bandcamp.com) returns with a new full-length this spring, lining up *Pink Dogs on the Green Grass* for an April 30 release via [Blow The Fuse](https://www.blowthefuserecords.com). Lead single "Half Rich Loner" somehow finds a balance between the home-recorded psych-noise of Jacobs' early catalogue and the folkier avenues he's explored of late. It's all wrapped in this effortlessly cool sense of indifference, a quality that's benefitted Jacobs' entire discography (his vocal similarities to Iggy Pop and Lou Reed go a long way in selling it). You can check the song at Bandcamp or through a video, hand-animated by Jacobs, over at YouTube.
 
@@ -18,7 +18,7 @@ Jacobs recently took part in the inaugural *Sounds From [Mothland](https://www.m
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3VuW17U31N4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Gemstones](http://gemstones.bandcamp.com): "Drive"
-==Watch at [YouTube](https://youtu.be/FNUuOJK7_Bw)==
+==Watch on [YouTube](https://youtu.be/FNUuOJK7_Bw)==
 
 Last summer Dartmouth's KC Spidle shared *Checking In Before I Check Out*, a rollicking EP of low-fi garage rockers under the name [Gemstones](http://gemstones.bandcamp.com). As with much of 2020's understandable home-recording glut, it was uncertain what the project's next step would be (if there even was one). Was *Checking In* just another time-killing isolation-era trifle or the debut of an ongoing band? It turns out it's the latter - and you'll recognize the lineup.
 
@@ -33,7 +33,7 @@ It's nice to hear it's so damn productive in the Atlantic bubble these days.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FNUuOJK7_Bw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[PONY](https://ponytheband.ca): "Couch"
-==Watch at [YouTube](https://youtu.be/nyJkUyKtM9o) - Listen at [Bandcamp](https://ponytheband.ca/track/couch)==
+==Watch on [YouTube](https://youtu.be/nyJkUyKtM9o) - Preview and purchase at [Bandcamp](https://ponytheband.ca/track/couch)==
 
 I wrote about [PONY](https://ponytheband.ca)'s 2017 EP *Do You* in one of the very first issues of this newsletter, an absolute eternity from now (even without the pandemic time vortex). Thankfully the pop-punk group's first full-length appears to have been worth the wait. *TV Baby* arrives April 9 from Massachusetts' [Take This To Heart Records](http://www.takethistoheartrecords.com/). The 10-song set includes last year's "WebMD" single along with the wonderfully propulsive new single "Couch." You can check that track out at Bandcamp now or through a charming new video from director Conor Sweeney.
 
@@ -44,7 +44,7 @@ I shared my affection for "WebMD" in my [2020 recap](https://www.someparty.ca/20
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nyJkUyKtM9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Leanne Betasamosake Simpson](https://leannesimpson.bandcamp.com): "OK Indicts"
-==Listen at [Bandcamp](https://leannesimpson.bandcamp.com/track/ok-indicts)==
+==Preview and purchase at [Bandcamp](https://leannesimpson.bandcamp.com/track/ok-indicts)==
 
 On March 12, [You've Changed Records](https://youvechangedrecords.com/) will release a new full-length from acclaimed Michi Saagiig Nishnaabeg scholar and musician [Leanne Betasamosake Simpson](https://leannesimpson.bandcamp.com). *Theory of Ice* lands as Simpson's first LP since 2016's *f(l)ight* and features several familiar collaborators, with [Ansley Simpson](http://www.ansleysimpson.com/) and [Nick Ferrio](http://www.nickferrio.com/) rounding out her core band. The record includes guest vocals (on a cover of Willie Dunn's "I Pity the Country") from The Weakerthans' poet laureate [John K. Samson](http://johnksamson.com/). [Evening Hymns](http://www.eveninghymns.com/)' Jonas Bonetta and [Jim Bryson](http://www.jimbryson.org/) serve as co-producers on the project.
 
@@ -57,7 +57,7 @@ Leanne Simpson last released the *Noopiming Sessions* EP in the summer of 2020, 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3132692032/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1046404352/transparent=true/" seamless><a href="https://leannesimpson.bandcamp.com/album/theory-of-ice">Theory Of Ice by Leanne Betasamosake Simpson</a></iframe>
 
 ###[Rest Easy](https://www.instagram.com/resteasypunx/): "Get Busy Dyin'"
-==Watch at [YouTube](https://youtu.be/lgJxYwdnLQ8)==
+==Watch on [YouTube](https://youtu.be/lgJxYwdnLQ8)==
 
 Vancouver's high-energy four-piece [Rest Easy](https://www.instagram.com/resteasypunx/) recently emerged from members of [Daggermouth](https://daggermouth.bandcamp.com/) and Seattle's [Shook Ones](https://shookones.bandcamp.com/). The group's first release is the four-song EP *Sick Day*, due February 12 through [Mutant League Records](https://www.mutantleaguerecords.com). You can preview the speedy lead single, "Get Busy Dyin'," through a new lyric video on YouTube. The band joked about the song's subject, claiming "[it's] about your lame ass parents who won't let you have a Mountain Dew even though you've not had one in like 3 days."
 
@@ -66,7 +66,7 @@ Rest Easy recorded the EP with Tim Creviston (Misery Signals, Seer). Paul Miner 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lgJxYwdnLQ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Boyhood](https://boyhoodsongs.bandcamp.com/): "Don't You Dare"
-==Listen at [Bandcamp](https://boyhoodsongs.bandcamp.com/track/dont-you-dare)==
+==Preview and purchase at [Bandcamp](https://boyhoodsongs.bandcamp.com/track/dont-you-dare)==
 
 Caylie Runciman's indie-pop group [Boyhood](https://boyhoodsongs.bandcamp.com/) re-emerged last week with a new single. "Don't You Dare" arrives as the project's first material since 2018's accomplished *Bad Mantras* LP. The track finds the Runciman working solo, performing all instrumentation from her home base in rural Eastern Ontario. "Don't You Dare" carries that same timeless feel as her last record, evoking this smokey cinematic vibe that feels like something out of the early 70s.
 
@@ -75,7 +75,7 @@ There's no word yet on whether this is a one-off track or our first preview of s
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3302258224/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://boyhoodsongs.bandcamp.com/track/dont-you-dare">Don&#39;t You Dare by boyhood</a></iframe>
 
 ###[Tunic](http://tunicband.com/): "Fade Out"
-==Watch at [YouTube](https://youtu.be/oGLJyRitZ-g) - Listen at [Bandcamp](https://tunicband.bandcamp.com/track/fade-out)==
+==Watch on [YouTube](https://youtu.be/oGLJyRitZ-g) - Preview and purchase at [Bandcamp](https://tunicband.bandcamp.com/track/fade-out)==
 
 Visceral Winnipeg noise-punk trio [Tunic](http://tunicband.com/) has the second preview online from their upcoming [Artoffact](http://artoffact.com/) debut *Exhaling*. You can check out a video for the single "Fade Out" now on YouTube. The cathartic track finds vocalist/guitarist David Schellenberg grappling with a good friend's failing health - an onset of blindness due to MS. In a press release, the band elaborated:
 
@@ -88,7 +88,7 @@ Visceral Winnipeg noise-punk trio [Tunic](http://tunicband.com/) has the second 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oGLJyRitZ-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Property](https://propertyproperty.bandcamp.com): *Think Electric*
-==Listen at [Bandcamp](https://propertyproperty.bandcamp.com/album/think-electric)==
+==Preview and purchase at [Bandcamp](https://propertyproperty.bandcamp.com/album/think-electric)==
 
 Quirky St. John's indie rock group [Property](https://propertyproperty.bandcamp.com) has a new five-song EP available. *Think Electric* arrived last week, landing as the trio's follow-up to 2019's *How to be Human*. The group recorded the bright, angular set at Sarah Harris' home studio and partially at Studio J with [Burning Hell](http://www.wearetheburninghell.com/) collaborator Jake Nicoll.
 
@@ -99,7 +99,7 @@ Property features Sarah Harris, Jack Etchegary, and Liam Wight.
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4250943439/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://propertyproperty.bandcamp.com/album/think-electric">Think Electric! by PROPERTY</a></iframe>
 
 ###[Obsoletism](https://nervoustick.bandcamp.com/album/the-covid-collaborations-vol-iii): *The Covid Collaborations*
-==Listen at [Bandcamp](https://nervoustick.bandcamp.com/album/the-covid-collaborations-vol-iii)==
+==Preview and purchase at [Bandcamp](https://nervoustick.bandcamp.com/album/the-covid-collaborations-vol-iii)==
 
 London's [Robbie Brake](http://robbiebrake.bandcamp.com) starts bands more frequently than most people wash their bedsheets. The latest is a project dubbed [Obsoletism](https://nervoustick.bandcamp.com/album/the-covid-collaborations-vol-iii), inspired by the Hamilton proto-punk legends Simply Saucer. The group debuted as part of *The Covid Collaborations*, a series of split releases organized by the Buffalo garage-punk group [Nervous Tick and the Zipper Lips](https://nervoustick.bandcamp.com/). Obsoletism appears on the third volume in the series, with both bands contributing an original, covering each other, and teaming up on a pair of collaborative tracks. You can stream the full 6-song set at Bandcamp now or snag it on cassette soon from [Tetryon Tapes](https://tetryontapes.bandcamp.com/).
 
@@ -108,7 +108,7 @@ Brake plays in several garage-punk, synth-punk, and punk-adjacent groups, includ
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4232111795/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://nervoustick.bandcamp.com/album/the-covid-collaborations-vol-iii">The Covid Collaborations: vol. III by Nervous Tick and The Zipper Lips &amp; Obsoletism</a></iframe>
 
 ###[Tommy Tone](https://trashtronix.bandcamp.com): "Back & Forth"
-==Watch at [YouTube](https://youtu.be/5-tyMdSGIdc)==
+==Watch on [YouTube](https://youtu.be/5-tyMdSGIdc)==
 
 Vancouver's [Tommy Tone](https://trashtronix.bandcamp.com) has a video online showcasing his new single "Back & Forth." Karissa Sakumoto directed and filmed the clip, which features the boisterous character performing an energetic, I dare say aerobic, synth-pop track before a kaleidoscopic background.
 
@@ -117,7 +117,7 @@ Last year saw two full-lengths from Tommy Tone, the March-released *How To Make 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5-tyMdSGIdc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[The Offsailors](https://highenddenimrecords.bandcamp.com/album/one-more-then-we-go): "Calm Your Tits"
-==Listen at [Bandcamp](https://highenddenimrecords.bandcamp.com/track/calm-your-tits)==
+==Preview and purchase at [Bandcamp](https://highenddenimrecords.bandcamp.com/track/calm-your-tits)==
 
 The pandemic hasn't been much of a party, so you can forgive Red Deer drunk punks [The Offsailors](https://highenddenimrecords.bandcamp.com/album/one-more-then-we-go) for delaying their upcoming full-length. The set's still due eventually from [High End Denim Records](http://highenddenimrecords.bandcamp.com), just at a time when things seem a tad less virulent. The group shared a [video](https://youtu.be/u6h2uCnzGEg) explaining their move, pairing the announcement with the release of the crassly titled song "Calm Your Tits."
 
@@ -130,9 +130,9 @@ The Offsailors features members of [Trashed Ambulance](https://trashedambulance.
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=51492714/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1026483744/transparent=true/" seamless><a href="https://highenddenimrecords.bandcamp.com/album/one-more-then-we-go">One More Then We Go by The Offsailors</a></iframe>
 
 ###[Jacob Barber](https://jacobbarber.bandcamp.com/): *Loving Friends*
-==Listen at [Bandcamp](https://jacobbarber.bandcamp.com/album/loving-friends)==
+==Preview and purchase at [Bandcamp](https://jacobbarber.bandcamp.com/album/loving-friends)==
 
-Sarnia singer/songwriter [Jacob Barber](https://jacobbarber.bandcamp.com/) has a new full-length online titled *Loving Friends*. The artist commented on the feel-good bedroom-pop set:
+Sarnia singer-songwriter [Jacob Barber](https://jacobbarber.bandcamp.com/) has a new full-length online titled *Loving Friends*. The artist commented on the feel-good bedroom-pop set:
 
 >"I wrote and recorded this album as an outlet and escape from the craziness of the world we live in today. As for many people, 2020 gave me time to reflect on what matters most to me in this life. While in isolation I was remembering the good times of the past. I decided to write a collection of songs for some of the people I love. I hope you enjoy."
 
@@ -141,7 +141,7 @@ In normal times, Barber fronts the dream pop group [Dream Seer](https://dreamsee
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2745794476/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://jacobbarber.bandcamp.com/album/loving-friends">Loving Friends by Jacob Barber</a></iframe>
 
 ###[No Big Deal](https://nobigdealtheband.bandcamp.com): "A Million Things"
-==Watch at [YouTube](https://youtu.be/yO3gJEV5emw) - Listen at [Bandcamp](https://nobigdealtheband.bandcamp.com/track/a-million-things)==
+==Watch on [YouTube](https://youtu.be/yO3gJEV5emw) - Preview and purchase at [Bandcamp](https://nobigdealtheband.bandcamp.com/track/a-million-things)==
 
 The anthemic Mississauga punks of [No Big Deal](https://nobigdealtheband.bandcamp.com) have a new single out dubbed "A Million Things." The band recorded the track back in 2018 with Ryan Guay at Catharine North Studios. In a press release, the band commented on the song:
 
@@ -152,7 +152,7 @@ The band launched the single alongside an animated video credited to Sh!tty Dizz
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yO3gJEV5emw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Venus Furs](https://venusfursmusic.bandcamp.com/): "New Inspiration"
-==Watch at [YouTube](https://youtu.be/S6ld0q5Wv8w) - Listen at [Bandcamp](https://venusfursmusic.bandcamp.com/album/venus-furs)==
+==Watch on [YouTube](https://youtu.be/S6ld0q5Wv8w) - Preview and purchase at [Bandcamp](https://venusfursmusic.bandcamp.com/album/venus-furs)==
 
 Montreal's psych and shoegaze influenced [Venus Furs](https://venusfursmusic.bandcamp.com/) recently debuted a video for "New Inspiration," a track from last summer's self-titled full length. The clip comes courtesy of friend-of-the-newsletter Justis Krar and his [IMMV Productions](https://www.immvproductions.com/) gig. Krar detailed the visuals in a statement:
 
@@ -167,7 +167,7 @@ The 8-song self-titled Venus Furs debut arrived last July from [Silk Screaming R
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S6ld0q5Wv8w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[TUNS](https://tunsband.bandcamp.com): "My Memories"
-==Watch at [YouTube](https://youtu.be/2EvGl53z0xk) - Listen at [Bandcamp](https://tunsband.bandcamp.com/album/duly-noted)==
+==Watch on [YouTube](https://youtu.be/2EvGl53z0xk) - Preview and purchase at [Bandcamp](https://tunsband.bandcamp.com/album/duly-noted)==
 
 Canadian indie-rock supergroup [TUNS](https://tunsband.bandcamp.com) returns this spring with a new full-length. *Duly Noted* arrives March 26 as the band's second album, following their self-titled 2016 debut. Look for it on Sloan's Murderecords label. The group released the harmony-drenched single "My Memories" alongside the announcement. You can preview it through a new video which, through some thematically-apt use of archival footage, features the band's members from back in 1996 (which is, of course, many years before TUNS was a thing).
 
@@ -176,7 +176,7 @@ TUNS features [Sloan](http://sloanmusic.com/)'s Chris Murphy, [The Inbreds](http
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2EvGl53z0xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Spencer Burton](https://www.spencerburtonmusic.com/): "Hard Times"
-==Watch at [YouTube](https://youtu.be/W-LpIvcglgw)==
+==Watch on [YouTube](https://youtu.be/W-LpIvcglgw)==
 
 [Spencer Burton](https://www.spencerburtonmusic.com/) recently shared another new track from *Coyote*, the Niagara country/folk artist's fifth full-length and first for Dallas Green's [Still Records](http://stillrecords.ca/) imprint. You can preview "Hard Times" now through a new video by director Justis Krar. The folk/country artist commented on the track in a press release, stating:
 

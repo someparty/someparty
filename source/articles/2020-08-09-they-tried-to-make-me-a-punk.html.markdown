@@ -140,7 +140,7 @@ Born Ken Chinn in Edmonton, Mr. Chi Pig passed on July 16 at the age of 57.
 
 [Listen: The Black Halos - "Ain't No Good Time To Say Goodbye" @ Bandcamp](http://yeahrightrecords.bandcamp.com/album/aint-no-good-time-to-say-goodbye "#")
 
-Guelph-based folk singer/songwriter [Innes Wilson](https://inneswilson.bandcamp.com/) recently shared an isolation record dubbed *Deference*. The home-recorded set features seven new songs, mixed and mastered by Andy Magoffin (Constantines) at the House of Miracles.
+Guelph-based folk singer-songwriter [Innes Wilson](https://inneswilson.bandcamp.com/) recently shared an isolation record dubbed *Deference*. The home-recorded set features seven new songs, mixed and mastered by Andy Magoffin (Constantines) at the House of Miracles.
 
 Wilson last released *The Heart That Holds This Up* in August of 2019 on [Out of Sound Records](https://outofsoundrecords.bandcamp.com/). Last September, the musician shared a punk EP record "as a joke" as the fictional band [Baloney Mulroney](http://baloneymulroney.bandcamp.com/). That project resurfaced on July 1 with the biting Canada Day single "R.C.M.P.I.G."
 

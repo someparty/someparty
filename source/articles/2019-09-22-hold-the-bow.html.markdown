@@ -62,7 +62,7 @@ The 10-song *Junior* arrives on October 18 from [Bonsound](http://www.bonsound.c
 
 [Listen: Corridor - "Domino" @ YouTube](https://youtu.be/48YbjRXfegA "#")
 
-Former [Deadly Snakes](https://en.wikipedia.org/wiki/The_Deadly_Snakes) frontman [André Ethier](https://www.telephoneexplosion.com/products/andre-ethier-croak-in-the-weeds) recently shared another new track from his upcoming solo record. You can preview the enigmatic singer/songwriter's "Jenny The Blues" below. Ethier commented in a brief statement (and with characteristic wryness):
+Former [Deadly Snakes](https://en.wikipedia.org/wiki/The_Deadly_Snakes) frontman [André Ethier](https://www.telephoneexplosion.com/products/andre-ethier-croak-in-the-weeds) recently shared another new track from his upcoming solo record. You can preview the enigmatic singer-songwriter's "Jenny The Blues" below. Ethier commented in a brief statement (and with characteristic wryness):
 
 > "Here's a funky little song about feeling sorry for yourself. And remember, you can't wash the blues off a cop."
 

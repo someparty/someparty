@@ -6,7 +6,7 @@ description: Sounds and visuals, new and old from Sam Coffey and the Iron Lungs,
 ---
 
 ###[Sam Coffey and The Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com): "Gates of Heaven"
-==Listen at [Bandcamp](https://samcoffeyandtheironlungs.bandcamp.com/track/gates-of-heaven)==
+==Preview and purchase at [Bandcamp](https://samcoffeyandtheironlungs.bandcamp.com/track/gates-of-heaven)==
 
 "Gates of Heaven" doesn't feel like it would have fit on either of the past [Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com) records, but it's a song that couldn't exist without that groundwork. The second single from Sam Coffey's upcoming album swings for the fences, demonstrating an enormous leap in both the band's ambitions and the conviction that they can pull it off. The ballad clocks in at over seven minutes, a slow burn that surfaces the soul buried in Coffey's gravelly wail. When a downright sultry sax appears before the first chorus, it's clear this is a different flavour of maximalism. I suspect the Iron Lungs of ol' would have nervously kicked this song into high gear before long, safe in the gleeful exuberance of muscular rock'n'roll. Here they're focused enough to let a good thing breathe, and while the band's usual bombast can't be far off, it's not required. "Gates of Heaven" just cruises down the open road, sunroof down, never in a hurry to get anywhere. It's fantastic, and I can't wait to get my hands on *Real One* in a few weeks.
 
@@ -21,7 +21,7 @@ There's a recurring rhyme scheme on this track that really reminds me of Televis
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3477994460/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1135950938/transparent=true/" seamless><a href="https://samcoffeyandtheironlungs.bandcamp.com/album/real-one">Real One by Sam Coffey and The Iron Lungs</a></iframe>
 
 ###[Tough Age](https://tough-age.bandcamp.com/): "Anti-Anxiety Exercises"
-==Watch at [YouTube](https://youtu.be/xO_D-H6l4i4)==
+==Watch on [YouTube](https://youtu.be/xO_D-H6l4i4)==
 
 [Tough Age](https://tough-age.bandcamp.com/) recently shared an animated video featuring "Anti-Anxiety Exercises," their latest highlight from last summer's *Which Way Am I?*. The clip features animation by [Victor Martins](https://www.vicomart.com/), an acclaimed Toronto-based cartoonist from the [Hello Boyfriend](https://helloboyfriend.itch.io/) collective. They're the latest in a string of indie comics talent to work on the band's visuals (a group that includes Wowee Zonk member [Ginette Lapalme](https://www.instagram.com/mewnettelapalmew/) and Montreal's [Connor Willumsen](https://www.connorwillumsen.com/)).
 
@@ -40,7 +40,7 @@ Tough Age features Clark and Samson with drummer Jesse Locke. *Which Way Am I?*,
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xO_D-H6l4i4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Souvenir](https://souvenirhfx.bandcamp.com/): "I'm Leaving"
-==Listen at [Bandcamp](https://souvenirhfx.bandcamp.com/track/im-leaving)==
+==Preview and purchase at [Bandcamp](https://souvenirhfx.bandcamp.com/track/im-leaving)==
 
 Nova Scotian indie rock trio [Souvenir](http://souvenirhfx.bandcamp.com) recently completed their first full-length. While details are to come on that release, the group's already shared moody album cut "I'm Leaving" as our first preview. Souvenir features bassist Lachie MacDonald, guitarist Dave Banoub, and drummer Chris Murdoch, veterans of several east coast projects. MacDonald played in an early version of Cape Breton ensemble [The Tom Fun Orchestra](https://thetomfunorchestra.bandcamp.com), later appearing with Halifax post-punk groups [Great Plains](https://alrightalready.bandcamp.com) and [Dyscontrol](https://dyscontrol.bandcamp.com). Murdoch fronted the hardcore group [Word On The Street](https://wordonthestreet.bandcamp.com) and most recently drummed on the new EP from [Weekend Dads](https://weekenddads.bandcamp.com/). Banoub's resume mostly eludes me, but I'm relatively certain he's played on a [Jon Hynes](http://www.jonhynesmusic.com/) record, and before that spent time with numerous Ottawa punk groups. I could be wrong.
 
@@ -49,7 +49,7 @@ Souvenir last released the *Beating Into Dust* EP in February of 2020. The group
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1542255/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://souvenirhfx.bandcamp.com/track/im-leaving">I&#39;m Leaving by Souvenir</a></iframe>
 
 ###[Dogo Suicide](https://dogosuicide.bandcamp.com/): "Négationnistes"
-==Listen at [Bandcamp](https://dogosuicide.bandcamp.com/track/n-gationnistes)==
+==Preview and purchase at [Bandcamp](https://dogosuicide.bandcamp.com/track/n-gationnistes)==
 
 Quebec City punk group [Dogo Suicide](http://dogosuicide.bandcamp.com) recently shared "Négationnistes." The dynamic song finds the group colouring their sound with a bit of stoner metal (the press release throwing out Queens Of The Stone Age as a touchpoint, and you can certainly hear it). You can stream the track now at Bandcamp.
 
@@ -58,9 +58,9 @@ Dogo Suicide recorded "Négationnistes" at l'ampli de Québec studios in Decembe
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=699765831/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://dogosuicide.bandcamp.com/track/n-gationnistes">Négationnistes by Dogo Suicide</a></iframe>
 
 ###[Mo Kenney](https://mokenney.bandcamp.com/): "Hard on You"
-==Listen at [SoundCloud](https://soundcloud.com/mokenney/hard-on-you-1)==
+==Stream at [SoundCloud](https://soundcloud.com/mokenney/hard-on-you-1)==
 
-Dartmouth singer/songwriter [Mo Kenney](http://mokenney.com/) recently shared another preview of her upcoming covers record: a rendition of [Daniel Romano](http://www.danielromanomusic.com/)'s "Hard On You" (originally from 2011's *Sleep Beneath The Willow*). Kenny shared some insights on her version in a press release:
+Dartmouth singer-songwriter [Mo Kenney](http://mokenney.com/) recently shared another preview of her upcoming covers record: a rendition of [Daniel Romano](http://www.danielromanomusic.com/)'s "Hard On You" (originally from 2011's *Sleep Beneath The Willow*). Kenny shared some insights on her version in a press release:
 
 > "I've been a big Daniel Romano fan since I first heard this song. It was so nice to hear a modern country song that was reminiscent of the old stuff. The songwriting is so good, I was excited to strip it down so the lyrics really shine. Recorded in front of one mic at the New Scotland Yard."
 
@@ -69,7 +69,7 @@ Dartmouth singer/songwriter [Mo Kenney](http://mokenney.com/) recently shared an
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/949102099&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ###[The Effens](https://store.theeffens.com/): "Pavement Age"
-==Listen at [Bandcamp](https://store.theeffens.com/track/pavement-age-4)==
+==Preview and purchase at [Bandcamp](https://store.theeffens.com/track/pavement-age-4)==
 
 Toronto grunge and glam flavoured four-piece [The Effens](https://store.theeffens.com/) recently shared a slick new song titled "Pavement Age," their first material since 2019's *Unsafe* EP. The group commented on the track in a press release:
 
@@ -80,7 +80,7 @@ Vocalist Austin Nops produced the new track. Last year The Effens collected 2019
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1632840793/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://store.theeffens.com/track/pavement-age-4">Pavement Age by The Effens</a></iframe>
 
 ###[Harkness](https://harknessmusic.com): "GM GM"
-==Listen at [SoundCloud](https://soundcloud.com/harknessmfa/gm-gm)==
+==Stream at [SoundCloud](https://soundcloud.com/harknessmfa/gm-gm)==
 
 Electic Toronto psych-pop act [Harkness](https://harknessmusic.com) has another lushly orchestrated new single online, the fourth preview of their upcoming LP. You can preview the multi-layered "GM GM" now at SoundCloud. The curiously robed, sci-fi-visored songwriter offered the following thoughts on the track:
 
@@ -91,7 +91,7 @@ Harkness takes sole credit for vocals, guitar, bass, piano, and drums on the tun
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/934220107&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ###[Laurie](https://heckyeahlaurie.bandcamp.com): "Another Animal"
-==Listen at [Bandcamp](https://heckyeahlaurie.bandcamp.com/track/another-animal)==
+==Preview and purchase at [Bandcamp](https://heckyeahlaurie.bandcamp.com/track/another-animal)==
 
 The Toronto post-punk trio [Laurie](https://heckyeahlaurie.bandcamp.com/) recently hit their goal of releasing a single a month for the past year. The last in the set is the danceable, new wave-inspired "Another Animal." It follows the bright synths of December's "Monochrome." With a dozen solid tracks fully realized, it certainly seems like Laurie has a completed LP on their hands in all but name. Nothing's yet been announced on that front, mind you.
 
@@ -100,7 +100,7 @@ Laurie features Trent Bristow on guitar and synth, bassist Fabian Kearns, and dr
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=528840001/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://heckyeahlaurie.bandcamp.com/track/another-animal">Another Animal by Laurie</a></iframe>
 
 ###[Roach](https://roachband.bandcamp.com/): "Everything or Nothing"
-==Listen at [Bandcamp](https://roachband.bandcamp.com/track/everything-or-nothing-demo)==
+==Preview and purchase at [Bandcamp](https://roachband.bandcamp.com/track/everything-or-nothing-demo)==
 
 Toronto indie-rock quartet [Roach](https://roachband.bandcamp.com/) has a new pair of songs online, a sparkling and confessional demo titled "Everything or Nothing," and a cover of Snail Mail's "Heat Wave." You can check them out now at Bandcamp.
 
@@ -109,7 +109,7 @@ Roach last released the emo-pop tune "R.I.P. Soft Serve" in September of last ye
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=35545550/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://roachband.bandcamp.com/track/everything-or-nothing-demo">Everything or Nothing (Demo) by Roach</a></iframe>
 
 ###[D.O.A.](https://www.suddendeath.com/): "The Prisoner"
-==Watch at [YouTube](https://youtu.be/mB9rkceUN4U)==
+==Watch on [YouTube](https://youtu.be/mB9rkceUN4U)==
 
 BC punk legends [D.O.A.](https://www.suddendeath.com/) recently unearthed a video for "The Prisoner," coinciding with the 40th-anniversary reissue of the band's 1980 debut *Something Better Change*. The band commented, through their label [Sudden Death Records](https://www.suddendeath.com/):
 

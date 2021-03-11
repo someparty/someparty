@@ -13,7 +13,7 @@ So I'll absolutely be at the Ottawa Explosion this year, but as I'm very much st
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=846412531/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://bbqtband.bandcamp.com/album/bbqt">BBQT by BBQT</a></iframe>
 
-Heather's got a pair of pop-punk / garage rock bands playing OXW. She'll appear as part of the trio [Crossed Wires](https://crossedwireshfx.bandcamp.com) on Friday at Club Saw, returning there the next day to perform with the four-piece [Future Girls](https://futuregirls.bandcamp.com/). Friday will also see her perform solo at St Alban's along with a number of singer/songwriters (hometown troubadours [Jon Creeden](http://www.joncreeden.com/) and [Cory Levesque](https://soundcloud.com/cory-levesque), Vancouver's [Jesse Lebourdais](https://jesselebourdais.bandcamp.com/), and Heather's Future Girls bandmate Matty Grace).
+Heather's got a pair of pop-punk / garage rock bands playing OXW. She'll appear as part of the trio [Crossed Wires](https://crossedwireshfx.bandcamp.com) on Friday at Club Saw, returning there the next day to perform with the four-piece [Future Girls](https://futuregirls.bandcamp.com/). Friday will also see her perform solo at St Alban's along with a number of singer-songwriters (hometown troubadours [Jon Creeden](http://www.joncreeden.com/) and [Cory Levesque](https://soundcloud.com/cory-levesque), Vancouver's [Jesse Lebourdais](https://jesselebourdais.bandcamp.com/), and Heather's Future Girls bandmate Matty Grace).
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/yzjBK5vsXBg?rel=0" frameborder="0" allowfullscreen></iframe>
 

@@ -29,13 +29,13 @@ Kamikaze Nurse features vocalist/guitarist KC Wei ([hazy](https://hazyhazyhaze.b
 
 [Watch: Kamikaze Nurse - "Sun Song" @ YouTube](https://youtu.be/aiZm1VIKmNg "#")
 
-Long back before Some Party was a mildly unsuccessful newsletter it was the title of an entirely unsuccessful 2012-era podcast (that you should continue to mercifully ignore). One artist I recall showcasing on that show was the Welland-based singer/songwriter [Julianna Riolino](https://jr-sings.bandcamp.com/). While she's been quiet these past few years, it's great to hear her finally return with new material. "Be My Man" is the propulsive first single from an upcoming EP from Riolino, who's now playing under the stage-name J.R.
+Long back before Some Party was a mildly unsuccessful newsletter it was the title of an entirely unsuccessful 2012-era podcast (that you should continue to mercifully ignore). One artist I recall showcasing on that show was the Welland-based singer-songwriter [Julianna Riolino](https://jr-sings.bandcamp.com/). While she's been quiet these past few years, it's great to hear her finally return with new material. "Be My Man" is the propulsive first single from an upcoming EP from Riolino, who's now playing under the stage-name J.R.
 
 In the premiere at [Indie 88](https://indie88.com/indie88-premiere-j-r-releases-video-for-new-fuzzy-indie-pop-single-be-my-man/) Riolino comments:
 
 >"This song is about making the same mistake over and over, hoping that you learn from it... 'Be My Man' is a plea to let go of the past and believe in the present. At the time of recording, an abusive relationship had depleted my confidence and amplified my self-doubt. This song is a reflection of that period in my life and my response to an angry man."
 
-Justis Krar's [IMMV Productions](https://www.immvproductions.com/) assembled the accompanying video for the track. I've got it on authority that these recordings feature instrumentation from Hamilton singer/songwriter [Dan Edmonds](http://www.danedmondsmusic.com/), Edmonds-collaborating drummer Jason Bhattacharya, and Ross Miller of [The Dirty Nil](https://thedirtynil.bandcamp.com/) and [SIDEMAN](https://sidemanhc.bandcamp.com/).
+Justis Krar's [IMMV Productions](https://www.immvproductions.com/) assembled the accompanying video for the track. I've got it on authority that these recordings feature instrumentation from Hamilton singer-songwriter [Dan Edmonds](http://www.danedmondsmusic.com/), Edmonds-collaborating drummer Jason Bhattacharya, and Ross Miller of [The Dirty Nil](https://thedirtynil.bandcamp.com/) and [SIDEMAN](https://sidemanhc.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZOmOFYe-LY8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

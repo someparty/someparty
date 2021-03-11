@@ -6,7 +6,7 @@ description: Loads of new music from The Pink Noise, Rick White, Paul Jacobs, No
 ---
 
 ###[The Pink Noise](https://thepinknoise.bandcamp.com): "Out of Step"
-==Watch at [YouTube](https://youtu.be/u_UoA3d1ogA) - Listen at [Bandcamp](https://thepinknoise.bandcamp.com/track/out-of-step-2)==
+==Watch on [YouTube](https://youtu.be/u_UoA3d1ogA) - Preview and purchase at [Bandcamp](https://thepinknoise.bandcamp.com/track/out-of-step-2)==
 
 The emergence of [Celluloid Lunch Records](https://celluloidlunch.bandcamp.com/) continues to fascinate. The Montreal print zine launched its label offshoot with the premiere of [Itchy Self](https://itchyself.bandcamp.com), Joe Chamandy's post-[Protruders](https://protruders.bandcamp.com) proto-punk revival act, followed quickly by an LP from the retro-futurist synth-pop quartet [Night Lunch](https://nightlunch.bandcamp.com). While those two records couldn't be more sonically dissimilar, together they feel like a perfect lead-in to the label's third release: CLR03 marks a return of Mark Sauner's [The Pink Noise](https://thepinknoise.bandcamp.com), with *Economy of Love* due March 12. While this, the band's eighth LP, seems to continue the project's trajectory of nihilistic new-wave, it also shows a marked step up in fidelity. The lead single "Out of Step" gives Sauner's acerbic deadpan more space than usual, positioning The Pink Noise as the talent in some oily dystopian dance club. While the band's tension remains (Mark's nothing if not agitated), there's perhaps a newfound sense of *cool* here.
 
@@ -34,7 +34,7 @@ Both bands ran in the same circles in their early days, with the Sloan's [Murder
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2299508475/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://rickwhitearchive.bandcamp.com/album/rick-covers-sloans-peppermint-ep-2021">Rick covers Sloan&#39;s Peppermint ep. (2021) by Rick White Archive</a></iframe>
 
 ###[Murderecords](https://murderecords1.bandcamp.com/): *Singles 1993-1998*
-==Listen at [Bandcamp](https://murderecords1.bandcamp.com/album/murderecords-singles-1993-1998)==
+==Preview and purchase at [Bandcamp](https://murderecords1.bandcamp.com/album/murderecords-singles-1993-1998)==
 
 Speaking of Sloan's [Murderecords](https://murderecords1.bandcamp.com/), the label recently joined Bandcamp and is expected to make a wealth of rare material available. They kicked off their new online presence with a 28 song collection compiling the label's 7" singles spanning 1993 through 1998. The download includes rarities from Sloan, Eric's Trip, Thrush Hermit, The Super Friendz, The Local Rabbits, The Imbreds, Zumpano, Hardship Post, Stinkin' Rich, and Jale. The set also features the only recorded material by The Certain Someones, a one-off supergroup featuring Sloan's Chris Murphy, Matt Murphy of The Super Friendz, and Jale's Jennifer Pierce.
 
@@ -43,7 +43,7 @@ The singles collection first surfaced as a digital package in 2013, accompanying
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=673835099/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://murderecords1.bandcamp.com/album/murderecords-singles-1993-1998">murderecords singles 1993-1998 by various</a></iframe>
 
 ###[Paul Jacobs](https://pauljacobs.bandcamp.com/): "Underneath the Roses"
-==Watch at [YouTube](https://youtu.be/8EBYXJ2NZAE) - Listen at [Bandcamp](https://pauljacobs.bandcamp.com/track/underneath-the-roses)==
+==Watch on [YouTube](https://youtu.be/8EBYXJ2NZAE) - Preview and purchase at [Bandcamp](https://pauljacobs.bandcamp.com/track/underneath-the-roses)==
 
 Montreal's [Paul Jacobs](https://pauljacobs.bandcamp.com) recently shared the second single from his upcoming *Pink Dogs on the Green Grass* LP. You can preview the laid-back "Underneath the Roses" now through a surreal new,  hand-animated video, further showcasing how the artists' visual style's evolved along with his sound.
 
@@ -54,7 +54,7 @@ Oliver Ackermann of A Place to Bury Strangers mastered the new set. It follows J
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8EBYXJ2NZAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[No Frills](https://nofrills.life/): "Ice Cream Cone"
-==Listen at [Bandcamp](https://nofrillsmusic.bandcamp.com/track/ice-cream-cone)==
+==Preview and purchase at [Bandcamp](https://nofrillsmusic.bandcamp.com/track/ice-cream-cone)==
 
 Toronto bummer-pop outfit [No Frills](https://nofrillsmusic.bandcamp.com/) has a new track online. "Ice Cream Cone" is the band's first preview of their upcoming full-length, due later this year.
 
@@ -63,7 +63,7 @@ The new song follows No Frills' 2018 debut, the five-track digital EP *Nice To M
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=4019972790/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://nofrillsmusic.bandcamp.com/track/ice-cream-cone">Ice Cream Cone by No Frills</a></iframe>
 
 ###[The Peelers](https://the-peelers.bandcamp.com): "Prizefight"
-==Listen at [Bandcamp](https://the-peelers.bandcamp.com)==
+==Preview and purchase at [Bandcamp](https://the-peelers.bandcamp.com)==
 
 [Stomp Records](http://www.stomprecords.com/) recently shared the first single from [The Peelers](https://the-peelers.bandcamp.com)' upcoming full-length *Down & Out In The City Of Saints*. "Prizefight" is one of 10 songs to appear on the Celtic punk group's new record. The label commented:
 
@@ -74,7 +74,7 @@ The group recorded *Down and Out* in Montreal, Vancouver, and Dundee, Scotland, 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=200573314/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://the-peelers.bandcamp.com/album/down-out-in-the-city-of-saints">Down &amp; Out In The City Of Saints by The Peelers</a></iframe>
 
 ###[PACKS](https://packstheband.bandcamp.com): "Hangman"
-==Watch at [YouTube](https://youtu.be/39tdz3hlBZ0) - Listen at [Bandcamp](https://packstheband.bandcamp.com/album/hangman)==
+==Watch on [YouTube](https://youtu.be/39tdz3hlBZ0) - Preview and purchase at [Bandcamp](https://packstheband.bandcamp.com/album/hangman)==
 
 Madeline Link's low-fi rock band PAX seems poised to climb the ladder, picking up a pair of new labels and a slight name change along the way. Now billed as [PACKS](https://packstheband.bandcamp.com), the group retains their phonetic identity for the new era, one that will see them recording for [Royal Mountain](https://www.royalmountainrecords.com/) in Canada and [Fire Talk](https://firetalkrecs.com/) in the States.
 
@@ -89,7 +89,7 @@ With roots as a bedroom recording project, PACKS grew over the past year or so i
 <iframe width="560" height="315" src="https://www.youtube.com/embed/39tdz3hlBZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[DISHPIT](https://dishpitofficial.bandcamp.com/): "This Time"
-==Watch at [YouTube](https://youtu.be/JJN3XBjEfQc) - Listen at [Bandcamp](https://dishpitofficial.bandcamp.com/)==
+==Watch on [YouTube](https://youtu.be/JJN3XBjEfQc) - Preview and purchase at [Bandcamp](https://dishpitofficial.bandcamp.com/)==
 
 Grungy Montreal post-punk trio [Dishpit](https://dishpitofficial.bandcamp.com/) has a new single in the wild, arriving alongside a frostbitten new video. "This Time" alternates between scenes of guitarist/vocalist Nora Kelly and bassist Jed Stein disrobing in the snowy woods, with footage of the group, backed by drummer Ethan Soil, performing in an open field. It's a perfectly timed clip, given the season we're in (to say nothing of the winter chaos currently unfolding down south).
 
@@ -102,7 +102,7 @@ The song's one of 11 slated to appear on the band's upcoming debut *DIPSHIT*, wh
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJN3XBjEfQc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Daniel Romano's Outfit](https://danielromano.bandcamp.com): "First Yoke"
-==Watch at [YouTube](https://youtu.be/qgwp893DSb0) - Listen at [Bandcamp](https://danielromano.bandcamp.com/track/first-yoke)==
+==Watch on [YouTube](https://youtu.be/qgwp893DSb0) - Preview and purchase at [Bandcamp](https://danielromano.bandcamp.com/track/first-yoke)==
 
 Welland's [Daniel Romano](http://www.danielromanomusic.com/) has a new video online featuring his band The Outfit performing "First Yoke," a track from 2020's *How Ill Thy World Is Ordered*. The clip, directed by Carson McHone and Kenneth Roy Meehan, features the band playing amidst a retro 70s office space. The version of The Outfit appearing here includes vocalist [Julianna Riolino](https://jr-sings.bandcamp.com/), bassist Roddy Rosetti, guitarist Dave Nardi, and drummer Ian Romano.
 
@@ -111,7 +111,7 @@ Welland's [Daniel Romano](http://www.danielromanomusic.com/) has a new video onl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qgwp893DSb0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Hobby](https://hobbytoronto.bandcamp.com): "(We Can) Tough It Out (We Can Try)"
-==Watch at [YouTube](https://youtu.be/WBYLTt85sHA) - Listen at [Bandcamp](https://hobbytoronto.bandcamp.com/track/we-can-tough-it-out-we-can-try)==
+==Watch on [YouTube](https://youtu.be/WBYLTt85sHA) - Preview and purchase at [Bandcamp](https://hobbytoronto.bandcamp.com/track/we-can-tough-it-out-we-can-try)==
 
 Toronto's weird-Americana quartet [Hobby](https://hobbytoronto.bandcamp.com/) has a new record on the way, a 9-song set perhaps too revealingly titled *Weed*. You can check out the record's mantra-like new single, "(We Can) Tough It Out (We Can Try)," streaming at Bandcamp or through a new video by directors Eli Speigel and Shelby Wilson. They've declared the jangling low-fi track their "pandemic anthem," and frankly, it's as good as any.
 
@@ -120,7 +120,7 @@ Hobby features guitarists Stephen Pitman ([Only God Forgives](https://onlygodfor
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBYLTt85sHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Sook-Yin Lee & Adam Litovitz](https://sook-yinlee.bandcamp.com/): "Run Away with Her"
-==Watch at [YouTube](https://youtu.be/xdEFZZiuNao) - Listen at [Bandcamp](https://sook-yinlee.bandcamp.com/album/jooj-two)==
+==Watch on [YouTube](https://youtu.be/xdEFZZiuNao) - Preview and purchase at [Bandcamp](https://sook-yinlee.bandcamp.com/album/jooj-two)==
 
 [Mint Records](https://www.mintrecs.com/) recently revealed *jooj two*, the new full-length from celebrated Canadian media personality [Sook-Yin Lee](https://sook-yinlee.bandcamp.com/) and the late Adam Litovitz. In a press release, the label detailed the creative history and tragic circumstances surrounding this release:
 
@@ -135,7 +135,7 @@ The eleven-song *jooj two* arrives April 9 through Mint.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdEFZZiuNao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Hot Garbage](http://hotgarbagemusic.bandcamp.com): "Soft as Gold"
-==Watch at [YouTube](https://youtu.be/WnlLZeK7KKc)==
+==Watch on [YouTube](https://youtu.be/WnlLZeK7KKc)==
 
 Speaking of [Hot Garbage](http://hotgarbagemusic.bandcamp.com), the Toronto psych quartet has a new live video online featuring a performance of "Soft As Gold" from the 2020 virtual edition of the Northern Ontario camping and music festival, [River & Sky](https://riverandsky.ca/). The clip features the band performing among a psychedelic light show from [The Oscillitarium](https://www.instagram.com/theoscillitarium/) (a psych-arts collective from members of Toronto's [Possum](https://possumyyz.bandcamp.com/)). Here Kitty Kitty Productions filmed the set.
 
@@ -144,7 +144,7 @@ Hot Garbage last released the "Easy Believer" single in the spring of 2020, foll
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WnlLZeK7KKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Brad Manners](https://bradmanners.bandcamp.com): *Atomic Wrong*
-==Listen at [Bandcamp](https://bradmanners.bandcamp.com/album/atomic-wrong)==
+==Preview and purchase at [Bandcamp](https://bradmanners.bandcamp.com/album/atomic-wrong)==
 
 [School Damage](https://schooldamage.bandcamp.com/) guitarist/vocalist [Brad Manners](https://bradmanners.bandcamp.com) has a new EP online, a three-song set of nasty punk tunes titled *Atomic Wrong*. It's the second collection of isolation-era recordings from the Toronto artist following the *Bored to be Alive* EP from June of 2020. Manners hasn't yet said much about these songs, but they sneer out their message just fine without a bunch of exposition.
 
@@ -153,7 +153,7 @@ School Damage last released the *Fuckin' Rights* EP in 2019, following up their 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2846158179/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://bradmanners.bandcamp.com/album/atomic-wrong">Atomic Wrong by Brad Manners</a></iframe>
 
 ###[Rest Easy](https://www.instagram.com/resteasypunx/): "Bad Idea"
-==Watch at [YouTube](https://youtu.be/oysXcvn8VWY)==
+==Watch on [YouTube](https://youtu.be/oysXcvn8VWY)==
 
 Vancouver skate-punk quartet [Rest Easy](https://www.instagram.com/resteasypunx/) recently premiered a video for "Bad Idea" through [Consequence of Sound](https://consequenceofsound.net/2021/02/rest-easy-bad-idea-music-video-premiere/), showcasing a track from their debut EP *Sick Day*. The clip, directed by Kyle Pigeau, intercuts performance footage with scenes of the band members engaging in all sorts of questionable behaviour (befitting the song's title).
 
@@ -162,7 +162,7 @@ Rest Easy is a new project from members of [Daggermouth](https://daggermouth.ban
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oysXcvn8VWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Cursed Arrows](https://cursedarrows.bandcamp.com/): *Mage*
-==Listen at [Bandcamp](https://tarantulacassettes.bandcamp.com/album/cursed-arrows-mage)==
+==Preview and purchase at [Bandcamp](https://tarantulacassettes.bandcamp.com/album/cursed-arrows-mage)==
 
 Barrie, Ontario garage-pop-punk duo [Cursed Arrows](https://cursedarrows.bandcamp.com/) have a new five-track EP out through [Tarantula Tapes](https://tarantulacassettes.bandcamp.com/). Titled *Mage*, the release arrived on Valentine's Day alongside a [live video](https://youtu.be/JRO6al_OFW0) performance of the single "Anthem." The band commented on the track in particular:
 
@@ -173,7 +173,7 @@ Cursed Arrows features Jackie Stanley and Ryan Stanley, with both players tradin
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3996898859/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tarantulacassettes.bandcamp.com/album/cursed-arrows-mage">Cursed Arrows - Mage by Cursed Arrows</a></iframe>
 
 ###[Witch Island](https://witchisland.bandcamp.com/): "Red Flag"
-==Listen at [Bandcamp](https://witchisland.bandcamp.com/track/red-flag)==
+==Preview and purchase at [Bandcamp](https://witchisland.bandcamp.com/track/red-flag)==
 
 What is it about Valentine's Day in Barrie? The holiday also saw a new single arrive from the local pop-punk group [Witch Island](https://witchisland.bandcamp.com/). You can stream "Red Flag" at Bandcamp now, a song most assuredly due as a part of the band's debut full-length, slated for a March 8 release.
 
@@ -182,7 +182,7 @@ The group features guitarist/vocalist Bex Quinn, guitarist Sophie Gentle, bassis
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3881421271/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://witchisland.bandcamp.com/track/red-flag">Red Flag by Witch Island</a></iframe>
 
 ###[ACTORS](https://actors.bandcamp.com/): "Strangers"
-==Watch at [YouTube](https://youtu.be/93W0KGIXSXA) - Listen at [Bandcamp](https://actors.bandcamp.com/track/strangers)==
+==Watch on [YouTube](https://youtu.be/93W0KGIXSXA) - Preview and purchase at [Bandcamp](https://actors.bandcamp.com/track/strangers)==
 
 Vancouver's cinematic post-punk quartet [ACTORS](https://actors.bandcamp.com/) has a new single online dubbed "Strangers." The track follows the similarly slick "Love U More" single from late last year, with both songs destined to appear on *Acts of Worship*, the band's upcoming full-length on [Artoffact Records](http://artoffact.com/).
 
@@ -195,7 +195,7 @@ ACTORS used the COVID lockdown to finish their new record, the follow-up to 2018
 <iframe width="560" height="315" src="https://www.youtube.com/embed/93W0KGIXSXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[The Fly Downs](https://theflydowns.bandcamp.com): "Crashing Down"
-==Listen at [Bandcamp](https://thousandislandsrecords.bandcamp.com/album/at-this-point-in-time)==
+==Preview and purchase at [Bandcamp](https://thousandislandsrecords.bandcamp.com/album/at-this-point-in-time)==
 
 Montreal's [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/) recently signed Ottawa melodic punk trio [The Fly Downs](https://theflydowns.bandcamp.com), lining up the group's 13-song debut for a spring release. You'll be able to get your hands on *At This Point In Time* on vinyl come April 16, but before that, check out "Crashing Down," the record's first single, at Bandcamp.
 
@@ -204,9 +204,9 @@ The Fly Downs last released the *Pockets Out* EP in 2017. The band recorded *At 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=33319084/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://thousandislandsrecords.bandcamp.com/album/at-this-point-in-time">At This Point In Time by The Fly Downs</a></iframe>
 
 ###[Sunnyside Uppers](https://sunnysideuppers.bandcamp.com): "Nobody Gets Me"
-==Listen at [Bandcamp](https://sunnysideuppers.bandcamp.com/track/nobody-gets-me)==
+==Preview and purchase at [Bandcamp](https://sunnysideuppers.bandcamp.com/track/nobody-gets-me)==
 
-Saint John, New Brunswick's [Sunnyside Uppers](https://sunnysideuppers.bandcamp.com/) recently shared a reworking of "Nobody Gets Me," a midtempo rocker that first appeared on the song-a-day project *Psychic Debris* (back when Sunnyside Uppers were known as Beach Chair). Singer/songwriter Ryan Brown reflected on the track in a statement to Some Party:
+Saint John, New Brunswick's [Sunnyside Uppers](https://sunnysideuppers.bandcamp.com/) recently shared a reworking of "Nobody Gets Me," a midtempo rocker that first appeared on the song-a-day project *Psychic Debris* (back when Sunnyside Uppers were known as Beach Chair). singer-songwriter Ryan Brown reflected on the track in a statement to Some Party:
 
 > "valentine's day seemed an appropriate time to release; it's definitely for those who are feeling despondent rather than cheery. i'd had a depressing week, just general pandemic blues. being a musician has felt particularly hopeless as a 'career' lately. it's easy to lose sight of why we do this in the first place, and put the actual creative thing on the backburner in order to focus on 'growth hacking' online or whatever. this is how we spiral. so this track is a correction of sorts. while the specifics of the tale do not describe my present life, the mood was right."
 
@@ -215,7 +215,7 @@ Brown plays every instrument on the recording, one of just a few Sunnyside Upper
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3660701920/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://sunnysideuppers.bandcamp.com/track/nobody-gets-me">nobody gets me by Sunnyside Uppers</a></iframe>
 
 ###[Miesha & The Spanks](https://mieshathespanks.bandcamp.com/): "I Want Fire"
-==Watch at [YouTube](https://youtu.be/3S80qfAxCmg) - Listen at [Bandcamp](https://mieshathespanks.bandcamp.com/track/i-want-fire)==
+==Watch on [YouTube](https://youtu.be/3S80qfAxCmg) - Preview and purchase at [Bandcamp](https://mieshathespanks.bandcamp.com/track/i-want-fire)==
 
 The hard-rocking Calgarian duo [Miesha & The Spanks](https://mieshathespanks.bandcamp.com/) has a new song online dubbed "I Want Fire," the third single from the band's forthcoming *Singles* EP. The band commented:
 
@@ -230,7 +230,7 @@ Miesha & The Spanks features Miesha Louie on guitar and vocals with Sean Hamilto
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3S80qfAxCmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[METZ](http://www.metzztem.com/): "Sugar Pill"
-==Watch at [YouTube](https://youtu.be/fn2sGoilOWg) - Listen at [Bandcamp](https://metz.bandcamp.com/track/sugar-pill)==
+==Watch on [YouTube](https://youtu.be/fn2sGoilOWg) - Preview and purchase at [Bandcamp](https://metz.bandcamp.com/track/sugar-pill)==
 
 Toronto noise-punk institution [METZ](http://www.metzztem.com/) seem hell-bent on capturing each and every track from last year's *Atlas Vending* in a video. The latest, directed by Shayne Ehman of Thunder Bay's [Cricket Cave](https://cricketcave.ca/), showcases the song "Sugar Pill." The filmmaker commented on the skate-themed clip:
 
@@ -243,7 +243,7 @@ The piece follows a run of visuals for "Pulse," "No Ceiling," "A Boat to Drown I
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fn2sGoilOWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Chris Page](https://chrispage.bandcamp.com): "This Heart Knows Something We Don't"
-==Watch at [YouTube](https://youtu.be/gq-E-zBOUAo)==
+==Watch on [YouTube](https://youtu.be/gq-E-zBOUAo)==
 
 Ottawa's [Chris Page](https://chrispage.bandcamp.com) shared his self-described Valentine's Day hangover song last week, revisiting "This Heart Knows Something We Don't" in his ongoing Isolation Sessions video series. The tune first appeared on a 2018 cassette compilation from Edmonton's [Cups N Cakes Network](https://cupsncakespod.bandcamp.com/album/cups-n-cakes-compilation-vol-1). It's one of several home recordings to arrive from Page in the wake of his recent *Decide To Stay and Swim Again* LP. That record, which surfaced last year, found the artist revisiting material from his 2004 solo record *Decide To Stay and Swim*.
 

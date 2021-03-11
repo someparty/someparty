@@ -115,7 +115,7 @@ Single Mothers last released *Through A Wall* in 2018. The Drew Thomson Foundati
 
 [Listen: The Drew Thomson Foundation - "L.A. Lately" @ YouTube](https://youtu.be/sNhyokIqVfc "#")
 
-Guelph-based singer/songwriter [Innes Wilson](https://inneswilson.bandcamp.com/) is readying a full-length for the summer. Look for *The Heart That Holds This Up* on August 16 through [Out of Sound Records](https://outofsoundrecords.bandcamp.com/). The first single from the set will be titled "Of Love and Lost," and it's due to arrive alongside a video on June 21. That's still a few weeks out, but you can peak a teaser for it below.
+Guelph-based singer-songwriter [Innes Wilson](https://inneswilson.bandcamp.com/) is readying a full-length for the summer. Look for *The Heart That Holds This Up* on August 16 through [Out of Sound Records](https://outofsoundrecords.bandcamp.com/). The first single from the set will be titled "Of Love and Lost," and it's due to arrive alongside a video on June 21. That's still a few weeks out, but you can peak a teaser for it below.
 
 Wilson last released the *Seaview* EP in 2018, which featured music tracked at [Construction & Destruction](https://constructionanddestruction.bandcamp.com/)'s Quarantine studio with backing from members of [WHOOP-Szo](https://thenoisymountain.bandcamp.com). This supplementary LP was recorded with Halifax-based producer Adam Warren (Glory Glory, Pretty Normal, The Drug Rugs).
 

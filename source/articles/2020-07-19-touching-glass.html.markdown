@@ -75,7 +75,7 @@ The Blood Of Keith Richards is the brainchild of Russ Purdy, drummer of the pop-
 
 [Listen: The Blood Of Keith Richards - "James Brown Celebrity Hot Tub Party" @ Bandcamp](http://fixedfrequency.bandcamp.com/album/james-brown-celebrity-hot-tub-party "#")
 
-After taking a well-deserved month off, Welland's [Daniel Romano](http://www.danielromanomusic.com/) returns with yet another full-length release, this time performing in the trio Alias Ensemble. *A Splendour Of Heart* features Romano and frequent collaborator Dave Nardi backing the Ottawa Valley singer/songwriter [Kelly Sloan](https://www.kellysloan.ca/) on a haunting and soulful collection of country-folk tunes.
+After taking a well-deserved month off, Welland's [Daniel Romano](http://www.danielromanomusic.com/) returns with yet another full-length release, this time performing in the trio Alias Ensemble. *A Splendour Of Heart* features Romano and frequent collaborator Dave Nardi backing the Ottawa Valley singer-songwriter [Kelly Sloan](https://www.kellysloan.ca/) on a haunting and soulful collection of country-folk tunes.
 
 In case you've forgotten: Danny took to quarantine like a man possessed, releasing such a wealth of material since the pandemic broke that it's become a challenge to keep track of it all. His most recent, from the last week of May, was the solo full-length *Dandelion*. Before that came *Spider Bite*, a brisk punk record with Constantines' [Steven Lambke](http://stevenlambke.com/) on vocals, a high-concept front-to-back cover of Bob Dylan's *Infidels*, and a 23-minute prog single dubbed "Forever Love's Fool." Over March and April, Romano released the LPs *Content To Point The Way* and *"Visions Of The Higher Dream"*, along with the EP *Super Pollen* (a collaboration with members of Fucked Up).
 
@@ -109,7 +109,7 @@ Papal Visit's gearing up for a fall release of their next LP. Due on [Monopolize
 
 [Listen: Adam Mowery - *Horseshoe Canyon* @ Bandcamp](https://itsadammowery.bandcamp.com/album/horseshoe-canyon-2020 "#")
 
-*Let It Beek*, is a fantastic collaboration pairing singer/songwriter Dave Schoonderbeek with Toronto's long-running [By Divine Right](https://bydivineright.bandcamp.com/). It also just happens to be sitting on my turntable as I edit this edition. A video showcasing the album track "The Pacer" recently arrived online, directed by Ben Srokosz. You can find it below.
+*Let It Beek*, is a fantastic collaboration pairing singer-songwriter Dave Schoonderbeek with Toronto's long-running [By Divine Right](https://bydivineright.bandcamp.com/). It also just happens to be sitting on my turntable as I edit this edition. A video showcasing the album track "The Pacer" recently arrived online, directed by Ben Srokosz. You can find it below.
 
 Schoonderbeek played in the early-2000s Oshawa indie rock group [Another Blue Door](https://www.discogs.com/Another-Blue-Door-Haulers/release/3524074) (they released a solitary full-length, *Haulers*, way back in 2004). This new record features him on a compellingly varied and often sombre set of folk-rock songs, backed by BDR's core trio of [José Contreras](https://www.facebook.com/josecontrerasmusik/), Alysha Haugen, and Geordie Dynes. The group recorded this set at [Slaughterhouse 754](https://slaughterhouse754.wixsite.com/slaughterhouse754) in 2016 with Glen Gummerson.
 
@@ -149,7 +149,7 @@ While your mind's on the nation's capital, note that the third volume of the Ott
 
 [Listen: *Itty Bitty Little Dittie V3 (under cover)* @ Bandcamp](https://ittybittylittleditty.bandcamp.com/album/itty-bitty-little-dittie-v3-under-cover "#")
 
-In recent newsletters, I've wondered when Toronto glam-pop artist [Nyssa](https://soundcloud.com/thisisnyssa) would finally collect the string of accomplished singles she's released over the past year. Look no further than August 21, when the singer/songwriter's official debut LP *Girls Like Me* arrives. The 10-song set brings together tracks like the recent "Bye Bye Jubilee" and "Antibodies" with the earlier shared "I Don't Wanna Live On The Moon (Without U)," "Hey Jackie," and "#1Girl."
+In recent newsletters, I've wondered when Toronto glam-pop artist [Nyssa](https://soundcloud.com/thisisnyssa) would finally collect the string of accomplished singles she's released over the past year. Look no further than August 21, when the singer-songwriter's official debut LP *Girls Like Me* arrives. The 10-song set brings together tracks like the recent "Bye Bye Jubilee" and "Antibodies" with the earlier shared "I Don't Wanna Live On The Moon (Without U)," "Hey Jackie," and "#1Girl."
 
 In a press release Nyssa commented:
 

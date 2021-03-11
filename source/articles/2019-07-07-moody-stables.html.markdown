@@ -81,7 +81,7 @@ Speaking to [Exclaim](https://exclaim.ca/music/article/montreals_h_l_ne_barbier_
 
 [Cam Fraser](http://camfraser.bandcamp.com) shows up in this newsletter quite a bit, being both the bassist for Toronto art-punks [Luge](https://hugeluge.bandcamp.com) and the guitarist/vocalist for the low-fi alt-country act [Hobby](https://hobbytoronto.bandcamp.com/). He recently recorded and released a new solo set, a six-song collection titled *Sew*. You can find it at Bandcamp now.
 
-This is the second recent EP from Fraser, with the singer/songwriter's contemplative *All The World's A Dream* surfacing back in January of this year.
+This is the second recent EP from Fraser, with the singer-songwriter's contemplative *All The World's A Dream* surfacing back in January of this year.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=59969086/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://camfraser.bandcamp.com/album/sew">Sew by Cam Fraser</a></iframe>
 

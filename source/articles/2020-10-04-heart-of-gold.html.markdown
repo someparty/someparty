@@ -61,7 +61,7 @@ Toronto psych-pop act [ZONES](https://zonesmusic.bandcamp.com/) returns later th
 
 [Watch: ZONES - "Mothlight" @ YouTube](https://youtu.be/wVhfMAggpsY "#")
 
-Following the reveal of "Justice" earlier in the month, beloved Ontario singer/songwriter [Jennifer Castle](https://jennifercastle.bandcamp.com/) recently shared the title track to "Monarch Season." You can stream it online now. Castle reflected on the song in a statement:
+Following the reveal of "Justice" earlier in the month, beloved Ontario singer-songwriter [Jennifer Castle](https://jennifercastle.bandcamp.com/) recently shared the title track to "Monarch Season." You can stream it online now. Castle reflected on the song in a statement:
 
 >"I remember writing 'Monarch Season' last year this time. The monarchs were out in the sky, on the trees and in the meadows. Of course they are so inspiring. And yet the words I remember resonating with me the most are 'I can't help myself from flying away with them.' Something about that line felt so self-compassionate, the medicine of it worked first on me, and the rest came fast and easy. It gave me the permission to be the type of person that, at 43, still gets profoundly overwhelmed by nature and her cycles, and needs to stop what I'm doing to suddenly write a song about butterflies. Are you like that? Me too."
 
@@ -79,7 +79,7 @@ The curiously playful and upbeat new LP from Toronto's [Teenanger](https://teena
 
 [Watch: Teenanger - "Good Time" @ YouTube](https://youtu.be/QKlJrXylML4 "#")
 
-Dartmouth rockers [Designosaur](https://designosaur.bandcamp.com/) have a new video online that features a live-off-the-floor cover of the [Attack In Black](https://attackinblack.bandcamp.com/) classic "Hunger Of The Young." The trio recorded their rendition of the *Marriage* track for *Beneath The Bridges*, their recent split cassette release with Halifax singer/songwriter Matty Grace.
+Dartmouth rockers [Designosaur](https://designosaur.bandcamp.com/) have a new video online that features a live-off-the-floor cover of the [Attack In Black](https://attackinblack.bandcamp.com/) classic "Hunger Of The Young." The trio recorded their rendition of the *Marriage* track for *Beneath The Bridges*, their recent split cassette release with Halifax singer-songwriter Matty Grace.
 
 Designosaur features bassist/vocalist Rebecca Dalley, guitarist/vocalist AJ Boutilier, and drummer Sean Parsons. Prior to *Beneath The Bridges*, the band last released the *Drive* EP in 2019.
 

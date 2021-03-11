@@ -20,7 +20,7 @@ Lambke and Construction & Destruction have a week of tour dates scheduled in Ont
 
 [Listen: Construction & Destruction / Steven Lambke - *Revolution C* @ Bandcamp](https://outofsoundrecords.bandcamp.com/album/revolution-c "#")
 
-[Daniel Romano](http://www.danielromanomusic.com/)'s new record *Finally Free* arrives this Friday. In the lead-up, the Niagara-based singer/songwriter released the song "The Long Mirror Of Time," accompanied by a retro sci-fi video (the source of which I've just spent far too much time trying and failing to identify - the early 70s British series *UFO* perhaps?). Speaking to [Exclaim](https://exclaim.ca/music/article/daniel_romano_premieres_the_long_mirror_of_time_video), Romano waxed on the high concept behind the song:
+[Daniel Romano](http://www.danielromanomusic.com/)'s new record *Finally Free* arrives this Friday. In the lead-up, the Niagara-based singer-songwriter released the song "The Long Mirror Of Time," accompanied by a retro sci-fi video (the source of which I've just spent far too much time trying and failing to identify - the early 70s British series *UFO* perhaps?). Speaking to [Exclaim](https://exclaim.ca/music/article/daniel_romano_premieres_the_long_mirror_of_time_video), Romano waxed on the high concept behind the song:
 
 > "'The Long Mirror of Time' is a song celebrating the unconformities of the natural and supernatural worlds. The tangible world can often suppress our inherent instincts to shift our shape and transcend our surroundings. The long mirror of time is in-fact not a mirror but a passage of prisms. This song is for those who do not see themselves in these monotonous rays of light and instead remain unseen or further yet, push on into a realm imperceptible to those trapped in the mirror. The long mirror of time reveals the prism faces, but not mine."
 
@@ -62,7 +62,7 @@ Intermittently active Vancouver indie-pop act [Energy Slime](https://www.faceboo
 
 [Listen: Energy Slime - *Singles 2015-2017* @ Bandcamp](http://energyslime.bandcamp.com/album/singles "#")
 
-Toronto rock band [The High Loves](http://thehighloves.bandcamp.com) have a new 5-song EP out titled *Serotonin*, a bright, clean set of retro pop-rock. The quartet features singer/songwriter Noah Monckton, guitarist Marko Stojanovic, bassist Matt Bawtinheimer, and drummer Mathieu Landry. The band commented on "You Already Knew That," the lead single from the set:
+Toronto rock band [The High Loves](http://thehighloves.bandcamp.com) have a new 5-song EP out titled *Serotonin*, a bright, clean set of retro pop-rock. The quartet features singer-songwriter Noah Monckton, guitarist Marko Stojanovic, bassist Matt Bawtinheimer, and drummer Mathieu Landry. The band commented on "You Already Knew That," the lead single from the set:
 
 > "[It] has a lot of emotional weight behind it. This song is about an inner conflict Noah Monckton was having when he decided to break up with his girlfriend who he was still in love with to further pursue his music. He was wondering if it was really the right thing to do. He knew that he'd really miss her. Writing this song allowed Monckton to reconnect with that experience in a way that enabled him to move on."
 

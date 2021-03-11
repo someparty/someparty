@@ -11,7 +11,7 @@ As of now, there's *essential* new stuff out in the wild from Jennifer Castle, t
 
 ---
 
-Occasionally (which is to say, with a frequency that should be unsurprising given the above), I come across a blind spot in this newsletter's coverage that makes very little sense given my personal history. Somehow this year, I've missed every single update from [Figure Walking](https://www.facebook.com/figurewalking/), the Winnipeg duo featuring singer/songwriter [Greg MacPherson](http://gregmacpherson.com/) and drummer Rob Gardiner (Conduct, Pip Skid). My oversights usually don't trouble me, I'm more aware than anyone of the precipitous sliver of free time on which Some Party operates, but I've got history with MacPherson! I interviewed Greg as a university student in the early Punknews days, just before or after *Night Flares* came out on the G7 Welcoming Committee. I was deeply enamoured with the song "Company Store" and how that tense little protest tune mirrored my great grandfather's history in the Sydney mines. Furthermore, it was an early attempt at leveraging whatever clout Punknews had at the time to force the spotlight on something cool and Canadian. You could say the whole misguided quest of this newsletter had its roots in G7 fandom!
+Occasionally (which is to say, with a frequency that should be unsurprising given the above), I come across a blind spot in this newsletter's coverage that makes very little sense given my personal history. Somehow this year, I've missed every single update from [Figure Walking](https://www.facebook.com/figurewalking/), the Winnipeg duo featuring singer-songwriter [Greg MacPherson](http://gregmacpherson.com/) and drummer Rob Gardiner (Conduct, Pip Skid). My oversights usually don't trouble me, I'm more aware than anyone of the precipitous sliver of free time on which Some Party operates, but I've got history with MacPherson! I interviewed Greg as a university student in the early Punknews days, just before or after *Night Flares* came out on the G7 Welcoming Committee. I was deeply enamoured with the song "Company Store" and how that tense little protest tune mirrored my great grandfather's history in the Sydney mines. Furthermore, it was an early attempt at leveraging whatever clout Punknews had at the time to force the spotlight on something cool and Canadian. You could say the whole misguided quest of this newsletter had its roots in G7 fandom!
 
 So with all that said, I have no idea how I lost track of Greg MacPherson.
 
@@ -168,7 +168,7 @@ Kim Bingham and Noah Green, Adam Bix Berger on vocals and trumpet, John Jordan o
 
 [Watch: Me Mom & Morgentaler - "Racist Friend" @ YouTube](https://youtu.be/IVygczRFfEc "#")
 
-Dartmouth singer/songwriter [Mo Kenney](http://mokenney.com/) recently shared a gorgeous cover of the Guided By Voices classic "Game of Pricks." The track finds Kenney slowing the indie-rock staple down to its raw, emotional core, with [Joel Plaskett](http://joelplaskett.com/) accompanying on piano.
+Dartmouth singer-songwriter [Mo Kenney](http://mokenney.com/) recently shared a gorgeous cover of the Guided By Voices classic "Game of Pricks." The track finds Kenney slowing the indie-rock staple down to its raw, emotional core, with [Joel Plaskett](http://joelplaskett.com/) accompanying on piano.
 
 You can check the song out now in the Matt Williams-directed video linked below. The GBV cover's been a part of Kenney's live set for a few years now, with the studio recording due for an upcoming covers record.
 

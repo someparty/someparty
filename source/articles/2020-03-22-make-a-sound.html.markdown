@@ -27,7 +27,7 @@ Speaking of comfort food, [Joel Plaskett](http://joelplaskett.com/) has a new vi
 
 [Watch: Joel Plaskett - "If There's Another Road" @ YouTube](https://youtu.be/48I414tChlk "#")
 
-Haligonian singer/songwriter [Matty Grace](http://mattygrace.bandcamp.com/) recently shared *Rumination Year*, a six-song folk-punk set that the guitarist/vocalist's had in the works for years. The [Future Girls](https://futuregirls.bandcamp.com/) frontwoman commented:
+Haligonian singer-songwriter [Matty Grace](http://mattygrace.bandcamp.com/) recently shared *Rumination Year*, a six-song folk-punk set that the guitarist/vocalist's had in the works for years. The [Future Girls](https://futuregirls.bandcamp.com/) frontwoman commented:
 
 > "This is an album that I've talked about forever and I'm happy to finally share it. I wrote the songs in 2016 and 2017 while my life was in shambles. So I coped and locked myself in the basement. The result is this. *Rumination Year*. A 6 song mini-LP about how it felt to have to rebuild and survive. With the current state of things these feelings seem more relevant than ever and I'm happy to put this out."
 
@@ -159,7 +159,7 @@ Tobias Hart commented on the surreal project finally seeing the light of day:
 
 [Listen: Labradoodle - *Life Is Better* @ Bandcamp](http://labradoodletoronto.bandcamp.com/album/life-is-better "#")
 
-[Wrecker](https://wreckertunes.bandcamp.com), the solo songwriting project of Winnipeg's Jory Strachan, has a set of archival demos online for a limited time. The tunes were recorded "years ago in the Winnipeg suburbs" with local singer/songwriter [Joshua Letkeman](https://joshualetkeman.bandcamp.com/) on lead guitar. [Missy Jacobson](https://twitter.com/missyjmusic) sings backing vocals on "The Fear," as well. These tracks, collected as the *can'try demo(n)s*, are only expected to be online for the remainder of the month.
+[Wrecker](https://wreckertunes.bandcamp.com), the solo songwriting project of Winnipeg's Jory Strachan, has a set of archival demos online for a limited time. The tunes were recorded "years ago in the Winnipeg suburbs" with local singer-songwriter [Joshua Letkeman](https://joshualetkeman.bandcamp.com/) on lead guitar. [Missy Jacobson](https://twitter.com/missyjmusic) sings backing vocals on "The Fear," as well. These tracks, collected as the *can'try demo(n)s*, are only expected to be online for the remainder of the month.
 
 Strachan is a former member of the Winnipeg post-punk band [1971](https://1971canada.bandcamp.com/) and later played in the indie rock outfit [R U S T O W L](https://rustowl.bandcamp.com/). He most recently released the *homewrecker* collaboration with Bailee Woods' of the indie-pop act [Housepanther](https://housepanther.bandcamp.com/).
 

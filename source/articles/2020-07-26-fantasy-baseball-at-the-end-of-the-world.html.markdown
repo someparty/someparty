@@ -71,7 +71,7 @@ Guitarist/vocalist Jordan Seccareccia commented on the piece:
 
 [Watch: Westelaken - "The Pool of Blood" @ YouTube](https://youtu.be/UtPQn0ZZUk8 "#")
 
-The enigmatic Montreal singer/songwriter [Yves Jarvis](https://www.yvesjarvis.com/) recently revealed his next album, an LP titled *Sundry Rock Song Stock*. The set arrives digitally on September 25, with a vinyl edition following on November 13 from [Flemish Eye](http://www.flemisheye.com/) in Canada and [ANTI-](http://www.anti.com/) elsewhere.
+The enigmatic Montreal singer-songwriter [Yves Jarvis](https://www.yvesjarvis.com/) recently revealed his next album, an LP titled *Sundry Rock Song Stock*. The set arrives digitally on September 25, with a vinyl edition following on November 13 from [Flemish Eye](http://www.flemisheye.com/) in Canada and [ANTI-](http://www.anti.com/) elsewhere.
 
 In the press release, the home-recording savant looked back at his catalogue through the lens of colour theory, ascribing 2017's *Good Will Come To You* a "morning yellow optimism" while considering 2019's *The Same But By Different Means* a "midnight blue contemplation." *Sundry Rock Song Stock* finds the artist going green. He elaborates:
 

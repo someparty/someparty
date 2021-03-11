@@ -49,7 +49,7 @@ You can check it "There is a Hole" below. *The Becoming* arrives on June 22.
 
 [Listen: Isla Craig - "There is a Hole" @ SoundCloud](https://soundcloud.com/pleasence-records/isla-craig-the-becoming-10 "#")
 
-Last week Toronto's Massey Hall celebrated its 124th anniversary before closing for two years of renovations. In their lead-up to the celebration the venue released a twenty-minute live video featuring [Jennifer Castle](https://jennifercastle.bandcamp.com/)'s November 2017 performance at the space. This was a time when the singer/songwriter was supporting her Polaris shortlisted album *Pink City*. The set also featured the debut of a song that would land on her recent [Idée Fixe](http://ideefixerecords.com/) LP *Angels of Death*.
+Last week Toronto's Massey Hall celebrated its 124th anniversary before closing for two years of renovations. In their lead-up to the celebration the venue released a twenty-minute live video featuring [Jennifer Castle](https://jennifercastle.bandcamp.com/)'s November 2017 performance at the space. This was a time when the singer-songwriter was supporting her Polaris shortlisted album *Pink City*. The set also featured the debut of a song that would land on her recent [Idée Fixe](http://ideefixerecords.com/) LP *Angels of Death*.
 
 This comes as part of the ongoing [Live at Massey Hall](http://www.liveatmasseyhall.com/) series of videos, which are all very well produced. If you've not watched the Constantines one at least half-a-dozen times you're clearly not me.
 

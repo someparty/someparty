@@ -57,7 +57,7 @@ Ciggie & The Darts features members of [Chloroform](https://chloroforming.bandca
 
 [Listen: Ciggie & The Darts - "Struttin'" / "Cosmonaut" @ Bandcamp](https://ciggieandthedarts.bandcamp.com/album/liquor-leather-denim-darts "#")
 
-Halifax singer/songwriter [Jon Mckiel](https://jonMckiel.bandcamp.com/) has a new video online showcasing "Object Permanence," the lead single from his upcoming LP *Bobby Joe Hope*. The surreal clip from director Andrea Thorne features a collage of psychedelic imagery. A likewise suitably oblique statement commented:
+Halifax singer-songwriter [Jon Mckiel](https://jonMckiel.bandcamp.com/) has a new video online showcasing "Object Permanence," the lead single from his upcoming LP *Bobby Joe Hope*. The surreal clip from director Andrea Thorne features a collage of psychedelic imagery. A likewise suitably oblique statement commented:
 
 > "Magic recombines ordinary objects to wake us; acknowledge mystery. Pluck from the landscape a rose or a bruise. World forms and unforms in universe around us - a moment comes and then dissolves. Tides and life; on the shore let us embrace beneath Moon and tremble a little as lovers and kin while we tumble through time in the wandering place."
 
@@ -143,7 +143,7 @@ You may recall [Burning Nickels](https://highenddenimrecords.bandcamp.com/album/
 
 [Listen: Burning Nickels - *Shout at the Nickel* @ Bandcamp](https://highenddenimrecords.bandcamp.com/album/shout-at-the-nickel "#")
 
-Calgary folk-punk singer/songwriter [Seth Anderson](https://www.sethandersonmusic.com/) has a new video online featuring the "Highway Lights," the lead single from his recent full-length *We Could Be*. Josh Wong directed the clip, filmed at the Royal Canadian Legion in Canmore. The director commented:
+Calgary folk-punk singer-songwriter [Seth Anderson](https://www.sethandersonmusic.com/) has a new video online featuring the "Highway Lights," the lead single from his recent full-length *We Could Be*. Josh Wong directed the clip, filmed at the Royal Canadian Legion in Canmore. The director commented:
 
 > "For those who have been working the front lines and those who have gave up comfort for responsibility to our fellow man, I thank you, please accept this gift of art. My buddy Seth needed a video. Please watch this and remember, it took us both 20 years and many struggles as artists to be able to provide humanity with a little joy. 'Take me Now, I just wanna live.' These words are more relevant now than I think Seth was expecting. The video was shot at the Canmore Legion on February 29, 2020. When this is over we are gonna Love and Live like never before. I can't wait for the next rock show, I'll never take it for granted again. Long live humanity! And Seth's music!"
 

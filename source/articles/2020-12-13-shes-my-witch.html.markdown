@@ -23,7 +23,7 @@ You've likely heard Desharnais as a member of the garage-punks [Sonic Avenues](h
 
 [Listen: New Vogue - "Birdman" @ SoundCloud](https://soundcloud.com/maxime-desharnais/birdman "#")
 
-I'm not entirely sure how to place Toronto singer/songwriter [Harkness](https://harknessmusic.com), but I suspect that's by design.  The multi-instrumentalist composes lushly orchestrated psych-pop tunes, all of which are rather intricately layered yet still tight and accessible. He delivers them via a costumed persona that seems to be cut from the original Star Trek cloth as much as it evokes the garb of some 60s free-love cult. Last week saw the release of "Lure of the Pollen," the third single from Harkness' upcoming LP *The Occasion*.
+I'm not entirely sure how to place Toronto singer-songwriter [Harkness](https://harknessmusic.com), but I suspect that's by design.  The multi-instrumentalist composes lushly orchestrated psych-pop tunes, all of which are rather intricately layered yet still tight and accessible. He delivers them via a costumed persona that seems to be cut from the original Star Trek cloth as much as it evokes the garb of some 60s free-love cult. Last week saw the release of "Lure of the Pollen," the third single from Harkness' upcoming LP *The Occasion*.
 
 The artist commented on the track:
 
@@ -121,7 +121,7 @@ In any case, *Deindustrial Nights* is online now at Bandcamp and comes packed wi
 
 [Listen: Civilians - *Deindustrial Nights* @ Bandcamp](https://nscivilians.bandcamp.com/album/deindustrial-nights-2 "#")
 
-Big league Toronto hardcore unit [Cancer Bats](http://www.cancerbats.com/) are readying the release of *You'll Never Break Us: Separation Sessions Vol. 1*, an acoustic set arriving later this week. The band recently premiered a video for "Deathsmarch to a New Acoustic Beat," a reimagining of *Hail Destroyer*'s "Deathsmarch" featuring the Ojibway singer/songwriter [Nick Sherman](https://nicksherman.bandcamp.com/) on lead vocals. As is the style this year, the video finds its players geographically scattered and recording remotely: drummer Mike Peters dials in from Winnipeg, bassist/guitarist Jaye Schwarzer from Toronto, guitarist Scott Middleton from Dundas, vocalist Liam Cormier from Nova Scotia, and Sherman from Thunder Bay.
+Big league Toronto hardcore unit [Cancer Bats](http://www.cancerbats.com/) are readying the release of *You'll Never Break Us: Separation Sessions Vol. 1*, an acoustic set arriving later this week. The band recently premiered a video for "Deathsmarch to a New Acoustic Beat," a reimagining of *Hail Destroyer*'s "Deathsmarch" featuring the Ojibway singer-songwriter [Nick Sherman](https://nicksherman.bandcamp.com/) on lead vocals. As is the style this year, the video finds its players geographically scattered and recording remotely: drummer Mike Peters dials in from Winnipeg, bassist/guitarist Jaye Schwarzer from Toronto, guitarist Scott Middleton from Dundas, vocalist Liam Cormier from Nova Scotia, and Sherman from Thunder Bay.
 
 Cormier commented on the clip in a statement:
 
@@ -135,7 +135,7 @@ Cancer Bats released *The Spark That Moves*, their 6th full-length, in 2018.
 
 [Watch: Cancer Bats - "Deathsmarch to a New Acoustic Beat" (ft. Nick Sherman) @ YouTube](https://youtu.be/f8vxeW6CzAA "#")
 
-East Coast singer/songwriter [Joel Plaskett](http://joelplaskett.com/) recently shared a video featuring "A Benefit 4 Dreamland," the closing song from his massive 44-song, four-album project. The clip finds Plaskett and a packed group of (innocently pre-pandemic) collaborators performing live from the New Scotland Yard studio in Dartmouth. The players featured include Rose Cousins, Ana Egge, Mo Kenney, Erin Costelo, Reeny Smith, Mahalia Smith, Micah Smith, Asa Brosius, Benn Ross, Chris Pennell, Ian McGettgan, and Bob Hoag.
+East Coast singer-songwriter [Joel Plaskett](http://joelplaskett.com/) recently shared a video featuring "A Benefit 4 Dreamland," the closing song from his massive 44-song, four-album project. The clip finds Plaskett and a packed group of (innocently pre-pandemic) collaborators performing live from the New Scotland Yard studio in Dartmouth. The players featured include Rose Cousins, Ana Egge, Mo Kenney, Erin Costelo, Reeny Smith, Mahalia Smith, Micah Smith, Asa Brosius, Benn Ross, Chris Pennell, Ian McGettgan, and Bob Hoag.
 
 Plaskett released a statement on the video:
 

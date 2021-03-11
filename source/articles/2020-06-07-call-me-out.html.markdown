@@ -85,7 +85,7 @@ Toronto folk-rockers [Little Kid](https://littlekid.bandcamp.com/) shared severa
 
 That song arrived alongside a set of four-track demos recorded for *Transformation Highway*. The band released the material as part of an effort to raise funds for the [Black Legal Action Centre](https://www.blacklegalactioncentre.ca/), to which Little Kid's pledged the entirety of their revenue this month. You can pick those recordings up at [Bandcamp](https://littlekid.bandcamp.com/album/three-hwy-demos) for a limited time.
 
-In addition, Little Kid recently took part in a covers compilation celebrating the Canadian singer/songwriter Fog Lake. The album, from Slovakia's [Z Tapes](https://ztapes.bandcamp.com/album/fog-lake-covers-compilation), features the band's take on "Breaking Over Branches."
+In addition, Little Kid recently took part in a covers compilation celebrating the Canadian singer-songwriter Fog Lake. The album, from Slovakia's [Z Tapes](https://ztapes.bandcamp.com/album/fog-lake-covers-compilation), features the band's take on "Breaking Over Branches."
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1887951541/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3907713956/transparent=true/" seamless><a href="http://littlekid.bandcamp.com/album/transfiguration-highway-2">Transfiguration Highway by Little Kid</a></iframe>
 

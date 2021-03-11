@@ -15,7 +15,7 @@ While nothing's credited all that clearly, The Mark Vodka Group looks to be a pr
 
 [Listen: The Mark Vodka Group - *A New Record* @ Bandcamp](http://markvodka.bandcamp.com/album/a-new-record "#")
 
-This September, the esoteric Toronto singer/songwriter [Louie Short](https://louieshort.bandcamp.com/) released *Cherry, cherry*, a 12-song full-length of alt-pop gems. Short's material runs the emotional gamut. Sometimes that results in rootsy sing-alongs, peppered with unexpected stops and tinged with an underlying darkness. A few tracks over you'll find Short building tunes that play like some unheralded 70s pop-rock classic, with the piano-driven "[Beautality](https://louieshort.bandcamp.com/track/beautality)" leading the way.
+This September, the esoteric Toronto singer-songwriter [Louie Short](https://louieshort.bandcamp.com/) released *Cherry, cherry*, a 12-song full-length of alt-pop gems. Short's material runs the emotional gamut. Sometimes that results in rootsy sing-alongs, peppered with unexpected stops and tinged with an underlying darkness. A few tracks over you'll find Short building tunes that play like some unheralded 70s pop-rock classic, with the piano-driven "[Beautality](https://louieshort.bandcamp.com/track/beautality)" leading the way.
 
 While Short's home recordings bear some bedroom pop signifiers, twitchy electronic elements top among them, his almost unexpectedly confident vocals catapult them somewhere else. Short's R&B croon puts a cool, urbanite edge on songs like "Main Dogs" and "Baby."
 

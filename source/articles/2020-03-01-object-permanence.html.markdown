@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Music and visuals from Jon Mckiel, Daniel Romano and The Outfit, S.H.I.T., Ariel Sharratt & Mathias Kom, Pretty Matty, METZ, Zen Bamboo, Guilhem, L'Affaire Pélican, The Drew Thomson Foundation, Aquakultre, Snotty Nose Rez Kids, Young Guv, and D.O.A.
 ---
 
-Halifax singer/songwriter [Jon Mckiel](https://jonMckiel.bandcamp.com/) returns with a new full-length this April, titled *Bobby Joe Hope*. The record's due from [You've Changed Records](https://youvechangedrecords.com/), following-up on Mckiel's 2017 LP *Memorial Ten Count*. This album arrives under some truly unique circumstances, as described by Sackville poet Geordie Miller in a press release (of which this is just an excerpt):
+Halifax singer-songwriter [Jon Mckiel](https://jonMckiel.bandcamp.com/) returns with a new full-length this April, titled *Bobby Joe Hope*. The record's due from [You've Changed Records](https://youvechangedrecords.com/), following-up on Mckiel's 2017 LP *Memorial Ten Count*. This album arrives under some truly unique circumstances, as described by Sackville poet Geordie Miller in a press release (of which this is just an excerpt):
 
 >"How do you speak through a stranger? Contain multitudes. And begin to find new kinds of design in accident. True story. In September 2015 Jon bought an old Teac A-2340, a reel-to-reel tape recorder, tapes included. He exchanged a few emails with the online seller while negotiating a deal, but they never met. The first time Jon tested out the machine at home it disclosed a beautiful dream. A single tape of astounding samples from an unknown source. He nicknamed it the Royal Sampler. They began to jam together..."
 
@@ -17,7 +17,7 @@ Mckiel salvaged the audio from those tapes and brought the samples into the stud
 
 This week You've Changed also announced a live album from [Daniel Romano](http://www.danielromanomusic.com/)'s touring band The Outfit. *"Okay Wow"* will collect 15 songs recorded live in Scandanavia and mixed by the band's longtime collaborator Kenneth Roy Meehan. The set-list pulls from across Romano's rather prolific solo output, including a few selections from out-of-print digital collections like *Nerveless* and *Human Touch*.
 
-The lineups (and band names) of Romano's backing group tend to shift over time, but always include a few anchor players that rose out of the southern Ontario punk scene. This version of The Outfit featured [Julianna Riolino](https://jr-sings.bandcamp.com/) (a Welland-based singer/songwriter, theses days billed as J.R.), Roddy Rosetti (a regular member of both this band and [Ancient Shapes](http://ancientshapes.bandcamp.com)), Dave Nardi (the founding and former bassist of [The Dirty Nil](https://thedirtynil.bandcamp.com/)), Ian Romano (Danny's brother and likewise a former member of [Attack In Black](https://attackinblack.bandcamp.com/)), and Tony "The Pope" Cicero.
+The lineups (and band names) of Romano's backing group tend to shift over time, but always include a few anchor players that rose out of the southern Ontario punk scene. This version of The Outfit featured [Julianna Riolino](https://jr-sings.bandcamp.com/) (a Welland-based singer-songwriter, theses days billed as J.R.), Roddy Rosetti (a regular member of both this band and [Ancient Shapes](http://ancientshapes.bandcamp.com)), Dave Nardi (the founding and former bassist of [The Dirty Nil](https://thedirtynil.bandcamp.com/)), Ian Romano (Danny's brother and likewise a former member of [Attack In Black](https://attackinblack.bandcamp.com/)), and Tony "The Pope" Cicero.
 
 You've Changed will release the set on vinyl on March 27. A video for the track "Nerveless," featuring Riolino and Rosetti on an attitude-driven tear through Welland's Seaway Mall, can be found at YouTube.
 
@@ -82,7 +82,7 @@ Record release shows are scheduled for Montreal on [April 8](https://www.faceboo
 
 [Watch: Zen Bamboo - "Glu (coule sur moi)" @ YouTube](https://youtu.be/jKO87LGaxyE "#")
 
-With more than 500 shows with his pop-punk outfit [Lost Love](https://lostlove.bandcamp.com/) under his belt, Guilhem Benard's finally launching his first solo full-length. Billed as the mononymous [Guilhem](https://guilhem.bandcamp.com), the singer/songwriter is releasing *Born & Bored* independently on March 2. The Montreal-based artist is following up a pair of earlier solo EPs, 2017's *Sings Songs of Lost Love* and 2018's *Bad Art*. You can stream the 10-song record, recorded as a full-band, in its entirety now at [Bandcamp](https://guilhem.bandcamp.com/).
+With more than 500 shows with his pop-punk outfit [Lost Love](https://lostlove.bandcamp.com/) under his belt, Guilhem Benard's finally launching his first solo full-length. Billed as the mononymous [Guilhem](https://guilhem.bandcamp.com), the singer-songwriter is releasing *Born & Bored* independently on March 2. The Montreal-based artist is following up a pair of earlier solo EPs, 2017's *Sings Songs of Lost Love* and 2018's *Bad Art*. You can stream the 10-song record, recorded as a full-band, in its entirety now at [Bandcamp](https://guilhem.bandcamp.com/).
 
 Guilhem recorded *Born & Bored* at Mountain City Studio with Adrian Popovich (Solids, PRIORS) engineering and [Hugo Mudie](https://hugomudie.bandcamp.com/) (The Sainte Catharines) producing. The artist commented on the record:
 

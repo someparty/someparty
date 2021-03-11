@@ -6,20 +6,20 @@ description: Cool stuff from Gemstones, Rogue Tenant, Belvedere, Champion Lover,
 ---
 
 ###[Gemstones](http://gemstones.bandcamp.com): *Nevermind* EP
-==Listen at [Bandcamp](https://gemstones.bandcamp.com/album/nevermind-ep)==
+==Preview and purchase at [Bandcamp](https://gemstones.bandcamp.com/album/nevermind-ep)==
 
 In case you're new around here, let's recap the saga of Dartmouth's [Gemstones](http://gemstones.bandcamp.com). The trio spun out of an early-isolation solo project from KC Spidle, he of the country/shoegaze group [Diamondtown](http://diamondtown.bandcamp.com/) and a then-and-now member of the Nova Scotian gloom-rockers [Dog Day](http://dogdaymusic.com/). The name first surfaced in the summer of 2020 with *Checking In Before I Check Out*, a crunchy little home-recorded EP. A month ago, we learned the band's full lineup. Spidle's joined here by his Diamontown bandmate Chris Thompson and the prolific Cody Googoo of Canada's greatest reining punk band, the [Booji Boys](https://boojiboysfuneral.bandcamp.com/).
 
 The trio recorded in February, turning out four new tracks for an upcoming cassette release titled *Nevermind*. You can preview "No One," "Perfect," "Yesterdaze," and "Drive" now in one unbroken block of audio at Bandcamp. The set features Spidle (billed as Casey Crysis) on vocals and guitar, Googoo (rechristened Nicki Sick) on bass and vocals, and Thompson (now Crissy Chaos) on drums and vocals. As noted earlier, Gemstones will be the first band Chris Thompson's drummed for since he played in [The Forest](https://rickwhitearchive.bandcamp.com/album/the-forest-1989-90) (just a few months before [Eric's Trip](https://www.subpop.com/artists/erics_trip) formed in 1990).
 
-*Nevermind* ii charmingly modest and instantly familiar, wrapping timeless garage rockers in a blanket of low-fi fuzz, complimenting Spidle's hushed vocals. You can close your eyes and just picture this played from the floor of some Legion hall whenever "normal" returns: the PA way too loud, walls sweating, Alpine in hand. Gemstones haven't set out to break new ground, but they're presenting such an honest distillation of whatever it is draws us to this genre that it hardly matters.
+*Nevermind*'s charmingly modest and instantly familiar, wrapping timeless garage rockers in a blanket of low-fi fuzz, complimenting Spidle's hushed vocals. You can close your eyes and just picture this played from the floor of some Legion hall whenever "normal" returns: the PA way too loud, walls sweating, Alpine in hand. Gemstones haven't set out to break new ground, but they're presenting such an honest distillation of whatever it is draws us to this genre that it hardly matters.
 
 Spidle recently joined a host of Maritime punk acts on the *Seaside Sickness* 7", appearing as the hardcore outfit [Dark Dial](https://youtu.be/ic7zleeJ5LU). Last year he played on *Present*, the long-awaited new record from Dog Day. Diamondtown also shared a few new tracks during the long slog that was 2020, teasing an upcoming record due later this year.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=430691744/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://gemstones.bandcamp.com/album/nevermind-ep">Nevermind EP by Gemstones</a></iframe>
 
 ###[Rogue Tenant](https://roguetenant.bandcamp.com): "Gone"
-==Watch at [YouTube](https://youtu.be/GIbN_GZRmwk) - Listen at [Bandcamp](https://roguetenant.bandcamp.com/track/gone)==
+==Watch on [YouTube](https://youtu.be/GIbN_GZRmwk) - Preview and purchase at [Bandcamp](https://roguetenant.bandcamp.com/track/gone)==
 
 Art-rock outfit [Rogue Tenant](https://roguetenant.bandcamp.com) recently shared a video for "Gone," the lead single from their upcoming EP *Always Another Day*. The track's an evolution of a rough song that surfaced last year as part of *Friend Ship From Home*, the first volume of isolation tracks from Toronto's [Friend Ship Committee](https://www.facebook.com/friendshipcommittee/) group. The new version's featured in a surreal clip directed by [Rachelle Walker](http://www.rachellealana.com/) (Greys, Absolutely Free). Band lead Patrick Grant commented on the alt-country number, a curious mix of digital percussion and analog instrumentation (you don't hear much jawharp these days). He stated:
 
@@ -34,7 +34,7 @@ I was a huge fan of the eclectic Toronto duo Fembots back in the day, and this s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GIbN_GZRmwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Belvedere](https://www.facebook.com/belvedere669/): "Good Grief Retreat"
-==Watch at [YouTube](https://youtu.be/e6Ogulgtw0s)==
+==Watch on [YouTube](https://youtu.be/e6Ogulgtw0s)==
 
 I'll own up to a longstanding blindspot when it comes to Calgary's beloved [Belvedere](https://www.facebook.com/belvedere669/), a band my fellow Punknews'ers always took the reins on (my role as the site's token hoser notwithstanding). The skate-punk group returns this year with their 6th record, joining Montreal's [Thousand Islands](https://thousandislandsrecords.bandcamp.com/) for *Hindsight Is The Sixth Sense*.
 
@@ -47,7 +47,7 @@ You can preview the record's first single, "Good Grief Retreat," online now thro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e6Ogulgtw0s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Champion Lover](https://championlovermusic.bandcamp.com): "Burn Everything"
-==Listen at [Bandcamp](https://championlovermusic.bandcamp.com/track/burn-everything)==
+==Preview and purchase at [Bandcamp](https://championlovermusic.bandcamp.com/track/burn-everything)==
 
 Given the overall sonic and geographic slant of this newsletter, I assumed I had mentioned Toronto noise-punks [Champion Lover](https://championlovermusic.bandcamp.com) at some point - yet the cavernous Some Party archives are bafflingly bare. I'm baffled, but I'll blame the fact that the band's previous EP came out just a few months shy of this sorry publication launching — bad timing.
 
@@ -56,14 +56,14 @@ Champion Lover hasn't had new music out since 2017's *Russian Prince* EP, but it
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1511450109/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://championlovermusic.bandcamp.com/track/burn-everything">Burn Everything by CHAMPION LOVER</a></iframe>
 
 ###[Cult Message](https://cultmessage.bandcamp.com/): "Stuck" / "Flamma"
-==Listen at [Bandcamp](https://cultmessage.bandcamp.com/album/stuck-b-w-flamma)==
+==Preview and purchase at [Bandcamp](https://cultmessage.bandcamp.com/album/stuck-b-w-flamma)==
 
 Micah Brown's a recurring character in this newsletter, never grabbing a headline but often appearing in the engineering credits of East Coast favourites like [BBQT](https://bbqtband.bandcamp.com), [Conditioner](http://ccconditionerrr.bandcamp.com/), and [Astral Gunk](https://astralgunk.bandcamp.com), not to overlook the Montreal experimentalists [NYON](https://n-y-o-n.bandcamp.com). As part of this year's [RPM Challenge](https://www.rpmchallenge.com/), Brown issued a pair of new solo tunes credited to [Cult Message](https://cultmessage.bandcamp.com/). The set features the atmospheric noise track "Flamma" backing a wonderfully authentic new wave a-side titled "Stuck." The early goth-vibes on this one are really rather charming. It's the perfect Bandcamp Friday impulse buy if you ask me.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1255927562/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://cultmessage.bandcamp.com/album/stuck-b-w-flamma">Stuck b/w Flamma by Cult Message</a></iframe>
 
 ###[Autogramm](https://autogramm.bandcamp.com/): "No Rules"
-==Watch at [YouTube](https://youtu.be/J4gb_unOBJU)==
+==Watch on [YouTube](https://youtu.be/J4gb_unOBJU)==
 
 Vancouver power-pop trio [Autogramm](http://autogramm.bandcamp.com) spent their time in lockdown completing their sophomore record, recently delivering the title track as the first single. "No Rules" arrives alongside a new video, providing our first preview of the group's new work.
 
@@ -80,7 +80,7 @@ Autogramm last released *What R U Waiting 4?* in 2019, with Marx since issuing a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J4gb_unOBJU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Snake River](https://snakeriver.bandcamp.com/): *Lost Album*
-==Listen at [Bandcamp](https://snakeriver.bandcamp.com/album/lost-album)==
+==Preview and purchase at [Bandcamp](https://snakeriver.bandcamp.com/album/lost-album)==
 
 Regina's rootsy psych group [Snake River](https://snakeriver.bandcamp.com/) recently unveiled their sixth LP, the 10 song *Lost Album*. Perhaps befitting its title, the record's been in the works since well before the pandemic, with base tracks laid down in Loreburn, SK way back in October of 2019. This record finds Snake River principal Christopher Sleightholm backed by guitarist John De Gennaro, bassist Whistlin' Jeff M, drummer Dustin Gamracy, and Amber Pb on viola and backing vocals. Sleightholm sings, plays a little bit of everything, and engineered the record front-to-back. The hooky pop-rock number "Afraid of Love" is a real stunner and an immediate standout, but the album's quieter moments bring with them a ton of depth and dense lyricism to unpack.
 
@@ -89,7 +89,7 @@ As with past outings, *Lost Album* follows the continuing story of Reginald McKr
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=989501542/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://snakeriver.bandcamp.com/album/lost-album">Lost Album by Snake River</a></iframe>
 
 ###[Leanne Betasamosake Simpson](https://leannesimpson.bandcamp.com): "Viscosity"
-==Listen at [Bandcamp](https://leannesimpson.bandcamp.com/track/viscosity)==
+==Preview and purchase at [Bandcamp](https://leannesimpson.bandcamp.com/track/viscosity)==
 
 [You've Changed Records](https://youvechangedrecords.com/) recently shared a powerful second single from [Leanne Betasamosake Simpson](https://leannesimpson.bandcamp.com)'s *Theory of Ice*. The label followed the environmentally-minded "OK Indicts" with the rhythmic "Viscosity." The artist unpacked the song in a press release:
 
@@ -102,7 +102,7 @@ Leanne Simpson last released the *Noopiming Sessions* EP in the summer of 2020, 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3132692032/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2508619526/transparent=true/" seamless><a href="https://leannesimpson.bandcamp.com/album/theory-of-ice">Theory Of Ice by Leanne Betasamosake Simpson</a></iframe>
 
 ###[Chad VanGaalen](https://chadvangaalen.bandcamp.com/): "Nightwaves"
-==Listen at [Bandcamp](https://chadvangaalen.bandcamp.com/track/nightwaves)==
+==Preview and purchase at [Bandcamp](https://chadvangaalen.bandcamp.com/track/nightwaves)==
 
 Surrealist Calgarian songwriter [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) recently shared our second preview of *World's Most Stressed Out Gardener*, his fast-approaching new LP. "Nightwaves" comes on the heels of "Samurai Sword," and although it arrives without a similarly lavish animated treatment, it's no less compelling. The artist commented:
 
@@ -115,7 +115,7 @@ Throughout the pandemic, VanGaalen's released a series of archival releases. The
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2104050344/size=large/bgcol=ffffff/linkcol=0687f5/license_id=1626/tracklist=false/track=871098494/transparent=true/" seamless><a href="https://chadvangaalen.bandcamp.com/album/worlds-most-stressed-out-gardener">World&#39;s Most Stressed Out Gardener by Chad VanGaalen</a></iframe>
 
 ###[Simon Provencher](https://simonprovencher.bandcamp.com/): "Et quart"
-==Watch at [YouTube](https://youtu.be/U-1KSfEBtXI) - Listen at [Bandcamp](https://simonprovencher.bandcamp.com/track/et-quart)==
+==Watch on [YouTube](https://youtu.be/U-1KSfEBtXI) - Preview and purchase at [Bandcamp](https://simonprovencher.bandcamp.com/track/et-quart)==
 
 Gatineau's [Simon Provencher](https://simonprovencher.bandcamp.com/) recently shared an experimental new single from his upcoming solo EP *Mesures*. "Et quart" is built around a series of clarinet loops by Elyze Venne-Deshaies. Armed with what's described as a "massive circuit of guitar pedals," the artist manipulates an unsettling, distorted counterpoint to the warmth of the woodwind. Provencher commented on the work in a press release:
 
@@ -127,8 +127,8 @@ Simon Provencher plays guitar for the dance-punk three-piece [VICTIME](https://v
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-1KSfEBtXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Faiyaz And The Wasted Chances](https://faiyazandthewastedchances.bandcamp.com/): "Stuck" / "Flamma"
-==Listen at [Bandcamp](https://faiyazandthewastedchances.bandcamp.com/track/dead-animals)==
+###[Faiyaz And The Wasted Chances](https://faiyazandthewastedchances.bandcamp.com/): "Dead Animals"
+==Watch on [YouTube](https://youtu.be/u8mn24T8NpI) - Preview and purchase at [Bandcamp](https://faiyazandthewastedchances.bandcamp.com/track/dead-animals)==
 
 Toronto garage-punks [Faiyaz And The Wasted Chances](https://faiyazandthewastedchances.bandcamp.com/) have a raucous new single out. "Dead Animals" arrives nearly two years out from the band's last track, 2019's "Another Crooked Line." The group commented:
 
@@ -136,10 +136,10 @@ Toronto garage-punks [Faiyaz And The Wasted Chances](https://faiyazandthewastedc
 
 The band recorded at [LootBag Records](https://lootbagrecords.bandcamp.com/) and Slim Fridge Studios with Austin Nops of The Effens. A video for the track is due later this week.
 
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3061370162/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://faiyazandthewastedchances.bandcamp.com/track/dead-animals">Dead Animals by Faiyaz And The Wasted Chances</a></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u8mn24T8NpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[The Effens](https://store.theeffens.com/): "Things You Can't Take Back"
-==Listen at [Bandcamp](https://store.theeffens.com/track/things-you-cant-take-back-2)==
+==Preview and purchase at [Bandcamp](https://store.theeffens.com/track/things-you-cant-take-back-2)==
 
 Speaking of [The Effens](https://store.theeffens.com/), the grungy Toronto glam rockers have a new track online titled "Things You Can't Take Back." It's the second new single from the group following last month's "Pavement Age." In a press release, the band commented:
 
@@ -154,7 +154,7 @@ Along with "Pavement Age," this song serves as the band's first new material sin
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=934585841/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://store.theeffens.com/track/things-you-cant-take-back-2">Things You Can&#39;t Take Back by The Effens</a></iframe>
 
 ###[Guilhem](https://www.guilhemmusic.com/): "Béatitude"
-==Watch at [YouTube](https://youtu.be/X6i4afQyq00)==
+==Watch on [YouTube](https://youtu.be/X6i4afQyq00)==
 
 Montreal's [Guilhem](https://guilhem.bandcamp.com), the mononymous solo project of [Lost Love](https://lostlove.bandcamp.com/)'s Guilhem Benard, has a new single burning up the Quebec rock charts. You can hear "Béatitude" online now through a new video from director Alex Bergeron. The pop-punker recorded his recent work with Adrian Popovich (PRIORS, Tricky Woo), often closely collaborating with his fellow [Pouzza Fest](https://pouzzafest.com/) organizer Hugo [Mudie](https://hugomudie.bandcamp.com/).
 
@@ -163,7 +163,7 @@ Montreal's [Guilhem](https://guilhem.bandcamp.com), the mononymous solo project 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6i4afQyq00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[TUNS](https://tunsband.bandcamp.com): "United We Stand"
-==Watch at [YouTube](https://youtu.be/-hQf3yi0Jj0) - Listen at [Bandcamp](https://tunsband.bandcamp.com/track/we-stand-united)==
+==Watch on [YouTube](https://youtu.be/-hQf3yi0Jj0) - Preview and purchase at [Bandcamp](https://tunsband.bandcamp.com/track/we-stand-united)==
 
 Canadian indie-rock supergroup [TUNS](https://tunsband.bandcamp.com) recently shared the second single from their upcoming *Duly Noted* LP. You can check out a video for "United We Stand" at YouTube now, a clip shot outdoors in the snow this past February (in Matt Murphy's Toronto backyard, to be precise). The band commented in a press release:
 
@@ -174,7 +174,7 @@ TUNS features [Sloan](http://sloanmusic.com/)'s Chris Murphy, [The Inbreds](http
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-hQf3yi0Jj0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[The Bare Minimum](https://thebareminimumband.bandcamp.com): "Echo In My Head"
-==Watch at [YouTube](https://youtu.be/DcPj8VMzB6s) - Listen at [Bandcamp](https://thebareminimumband.bandcamp.com/track/echo-in-my-head)==
+==Watch on [YouTube](https://youtu.be/DcPj8VMzB6s) - Preview and purchase at [Bandcamp](https://thebareminimumband.bandcamp.com/track/echo-in-my-head)==
 
 Toronto's hard-charging punk quartet [The Bare Minimum](https://thebareminimumband.bandcamp.com) has a new single online. "Echo in My Head" mark's the group's first release of the year, following up on November's "Party Martyr." The song arrives alongside a curious animated video - one which features an absolutely manic caricature of Nicolas Cage driving a convertible through the desert with an ice cream cone. That's the entirety of the clip, too - and it works better than you'd think. When announcing the track, the band joked "let's have a debate about who we ripped off most. I say mid-early AFI..."
 
@@ -183,7 +183,7 @@ The Bare Minimum features guitarist/vocalist Cam Gray, guitarist Mick Hutchinson
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DcPj8VMzB6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[As We Suffer](https://aswesuffer.bandcamp.com): "Invade The Host"
-==Listen at [Bandcamp](https://aswesuffer.bandcamp.com/track/the-fallen-pillars)==
+==Preview and purchase at [Bandcamp](https://aswesuffer.bandcamp.com/track/the-fallen-pillars)==
 
 Ottawa hardcore five-piece [As We Suffer](https://aswesuffer.bandcamp.com) has a few massive singles out previewing their debut full-length, *The Five Pillers*. You can now stream both the title track and the newly unveiled "Invade The Host." The former's a five-minute epic of thrashy metal-flavoured hardcore, while the latter's an unrelenting blast of speed-punk in the tradition of Winnipeg's finest. Fans of Death By Stereo, Killswitch Engage, and the overall medieval aesthetic of Crusades should get a kick out of this. The group commented on "Invade The Host" in a press release:
 
@@ -194,7 +194,7 @@ As We Suffer features bassist Ryan Caldwell, guitarists Jason Yocom and Derik Ro
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2382490115/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=291130732/transparent=true/" seamless><a href="https://aswesuffer.bandcamp.com/album/the-fallen-pillars">The Fallen Pillars by As We Suffer</a></iframe>
 
 ###[Meanlife](https://meanlife.bandcamp.com/): "Delete Me"
-==Listen at [Bandcamp](https://meanlife.bandcamp.com/album/delete-me)==
+==Preview and purchase at [Bandcamp](https://meanlife.bandcamp.com/album/delete-me)==
 
 Just last week, I shared the fuzzy rocker "WTF" from [Meanlife](https://meanlife.bandcamp.com), and the eclectic Toronto project's already back with a follow-up. "Delete Me" presents a quirky pop ballad that seems to shift genres several times over its four-minute runtime. Project mastermind Jackson Fishauf launched the track alongside a new video series, [*Behind The Meanness: How To Record Meanpop*](https://youtu.be/OuFRBrD-dRw). The first episode, available now on YouTube, follows the recording process of "Delete Me" from start to finish.
 
@@ -203,7 +203,7 @@ Just last week, I shared the fuzzy rocker "WTF" from [Meanlife](https://meanlife
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=734269397/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://meanlife.bandcamp.com/album/delete-me">Delete Me by Meanlife</a></iframe>
 
 ###[Feels Fine](https://feelsfine666.bandcamp.com/): *Grip*
-==Listen at [Bandcamp](https://feelsfine666.bandcamp.com/album/grip)==
+==Preview and purchase at [Bandcamp](https://feelsfine666.bandcamp.com/album/grip)==
 
 After the 2019 digital release of *Grip* (and an intervening global crisis) Toronto emo revivalists [Feels Fine](https://feelsfine666.bandcamp.com/) are finally on track to give the record a proper physical release. Underground rock tastemakers [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/) worked with the group to craft a small batch of hand-assembled cassettes. The label commented on the project:
 
@@ -214,7 +214,7 @@ You can snag one from the label or the band via Bandcamp. The translucent cover 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3923423898/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://feelsfine666.bandcamp.com/album/grip">Grip by FEELS FINE</a></iframe>
 
 ###[Fly Pan Am](https://flypanam.bandcamp.com/): "Scanner"
-==Listen at [Bandcamp](https://flypanam.bandcamp.com/track/scanner)==
+==Preview and purchase at [Bandcamp](https://flypanam.bandcamp.com/track/scanner)==
 
 Montreal post-rock luminaries [Fly Pan Am](http://cstrecords.com/fly-pan-am/) return May 21 with a new full-length, dubbed *Frontera*. The record arose from a collaboration between the four-piece and the Quebec dance troupe [Animals of Distinction](http://animalsofdistinction.org/). Working with choreographer Dana Gingras, the band composed a soundtrack for a multimedia performance that featured 10 dancers and striking lighting from UK outfit [United Visual Artists](https://www.uva.co.uk/). The label describes the piece as:
 

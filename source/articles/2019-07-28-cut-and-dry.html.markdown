@@ -107,13 +107,13 @@ Cambridge, Ontario's [Pink Lemonade Records](https://www.facebook.com/pinklemona
 
 [Listen: Vulva Culture - "God of Love" @ Bandcamp](http://vulvaculture.bandcamp.com/album/arias "#")
 
-Welland, Ontario singer/songwriter Julianna Riolino has a new video online for the song "PAL." It's one of several originals slated for her upcoming EP, alongside the "Be My Man" single shared earlier in the year. In a press release Riolino, who performs as [J.R.](https://soundcloud.com/juliannaelizabethriolino), contextualized the track:
+Welland, Ontario singer-songwriter Julianna Riolino has a new video online for the song "PAL." It's one of several originals slated for her upcoming EP, alongside the "Be My Man" single shared earlier in the year. In a press release Riolino, who performs as [J.R.](https://soundcloud.com/juliannaelizabethriolino), contextualized the track:
 
 >"This song was inspired by the feeling of youth and naive invincibility. The emotions experienced when you are young and feeling misunderstood. Stagnant and searching for a reason to keep feeling like the past wont catch up to you.
 >
 >'PAL' is a rollercoaster of thoughts, trying to make sense of multiple personalities and your own insanity. This song always brings me back to multiple places and experiences throughout my youth/young adulthood. Falling in and out of love. The transition of realizing my parents are flawed people just like you. Driving down a beautiful tree-lined road with my friends, looking for something fun to do and searching for a way to sustain that feeling of invincibility.
 
-Justis Krar's [IMMV Productions](https://www.immvproductions.com/) put together the video for "PAL." The song comes from sessions produced by Hamilton singer/songwriter [Dan Edmonds](http://www.danedmondsmusic.com/) at Fort Rose Studio. Those sessions featured contributions from drummer Jason Bhattacharya and Ross Miller of The Dirty Nil.
+Justis Krar's [IMMV Productions](https://www.immvproductions.com/) put together the video for "PAL." The song comes from sessions produced by Hamilton singer-songwriter [Dan Edmonds](http://www.danedmondsmusic.com/) at Fort Rose Studio. Those sessions featured contributions from drummer Jason Bhattacharya and Ross Miller of The Dirty Nil.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_MSZo9OgHSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -141,7 +141,7 @@ Pacer features the Sudbury-native Kosmo on vocals and guitar, backed by bassist 
 
 [Watch: Pacer - "Rapture" @ YouTube](https://youtu.be/nEz-O5s-Z3o "#")
 
-The [Polaris Music Prize](https://polarismusicprize.ca/) has assembled the fifth iteration in its *Cover Sessions* series, with a three-song 12-inch record to be available for free at select record stores this summer and fall (with the purchase of a Polaris-nominated record). The album features the Afro-Canadian singer/songwriter [Pierre Kwenders](http://pierrekwenders.com/) taking on Jean-Pierre Ferland's "It Ain't Fair," Edmonton indie-rock group [Faith Healer](https://faithhealer.bandcamp.com/) updating The Band's "When You Awake," and slacker-rock heroes [Partner](https://www.partnerband.com) taking on the *Moving Pictures* single "Limelight" Honestly it's a marvel it's taken this long for a Partner/Rush intersection to manifest.
+The [Polaris Music Prize](https://polarismusicprize.ca/) has assembled the fifth iteration in its *Cover Sessions* series, with a three-song 12-inch record to be available for free at select record stores this summer and fall (with the purchase of a Polaris-nominated record). The album features the Afro-Canadian singer-songwriter [Pierre Kwenders](http://pierrekwenders.com/) taking on Jean-Pierre Ferland's "It Ain't Fair," Edmonton indie-rock group [Faith Healer](https://faithhealer.bandcamp.com/) updating The Band's "When You Awake," and slacker-rock heroes [Partner](https://www.partnerband.com) taking on the *Moving Pictures* single "Limelight" Honestly it's a marvel it's taken this long for a Partner/Rush intersection to manifest.
 
 The *Cover Sessions* series pairs contemporary Polaris nominees with material from classic albums that were recognized as part of the [Slaight Family Polaris Heritage Prize](https://polarismusicprize.ca/heritage-prize/), which serves as something of a Cancon hall of fame for the decades before Polaris was a going concern. You can find the list of participating stores charged with distributing the record at the [Polaris blog](https://polarismusicprize.ca/blog/free-polaris-cover-sessions-12-inch-record-features-pierre-kwenders-faith-healer-partner/
 ).

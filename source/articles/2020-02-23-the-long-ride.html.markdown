@@ -95,7 +95,7 @@ Sturgeon's experience as an Anishinaabe-Canadian, in particular his struggles wi
 
 [Watch: WHOOP-Szo - "Amaruq" @ YouTube](https://youtu.be/KS477ZbkZJA "#")
 
-To celebrate the 10th anniversary of his 2010 full-length *A Date With A Smoke Machine*, [Chris Page](https://chrispage.bandcamp.com) shared an acoustic reworking of the track "Keep Me On Your Radar." The singer/songwriter reminisced:
+To celebrate the 10th anniversary of his 2010 full-length *A Date With A Smoke Machine*, [Chris Page](https://chrispage.bandcamp.com) shared an acoustic reworking of the track "Keep Me On Your Radar." The singer-songwriter reminisced:
 
 > "I remember being incredibly sick just before I wrote this song. The 'on the ceiling' line comes from me literally being ill on the couch, staring at the ceiling.
 >
@@ -141,7 +141,7 @@ Based out of Montreal, NOBRO will release *Sick Hustle* on April 3. The band fea
 
 [Listen: NOBRO - "Don't Wanna Talk About It" @ YouTube](https://youtu.be/ROuOllqvRjg "#")
 
-New Brunswick singer/songwriter [Julie Doiron](https://juliedoiron.bandcamp.com/) recently wrapped up work on a new full-length. While there's been no official press release, the personnel involved have all been sharing clips and photos from the studio, revealing some familiar collaborators.
+New Brunswick singer-songwriter [Julie Doiron](https://juliedoiron.bandcamp.com/) recently wrapped up work on a new full-length. While there's been no official press release, the personnel involved have all been sharing clips and photos from the studio, revealing some familiar collaborators.
 
 Julie's working this time out with [Daniel Romano](http://www.danielromanomusic.com/), Ian Romano, and [Dany Placard](https://danyplacard.bandcamp.com/). Doiron's link to the Romano brothers goes back to the [Attack In Black](https://attackinblack.bandcamp.com/) days when the two acts were often tourmates. Danny, Doiron and Shotgun & Jaybird's [Fred Squire](https://fredericksquire.bandcamp.com/) also collaborated on the laid back folk record *Daniel, Fred & Julie*. Chicoutimi singer-songwriter Dany Placard recently released the [Simone Records](http://www.simonerecords.net/) full-length *J'connais rien à l'astronomie*, on which Doiron provides backing vocals. Doiron and Placard will tour France and Belgium together this April.
 

@@ -129,7 +129,7 @@ Page commented that the new track, the fifth so far released, "might be a good o
 
 [Listen: Chris Page - "Whisper Astrologics" @ Bandcamp](https://chrispage.bandcamp.com/track/whisper-astrologics-2 "#")
 
-A few weeks ago Halifax-based singer/songwriter Matthew Fleming released a brooding solo track titled "Dream to Me." The song was recorded with Sean Pearson at Boxcar Sound in Fleming's hometown of Hamilton, Ontario. A video for the tune, created by Justis Krar's [IMMV Productions](https://www.immvproductions.com/), has been popping up repeatedly in my circles ever since. You can check it out below.
+A few weeks ago Halifax-based singer-songwriter Matthew Fleming released a brooding solo track titled "Dream to Me." The song was recorded with Sean Pearson at Boxcar Sound in Fleming's hometown of Hamilton, Ontario. A video for the tune, created by Justis Krar's [IMMV Productions](https://www.immvproductions.com/), has been popping up repeatedly in my circles ever since. You can check it out below.
 
 Fleming will head home to play a show at Boxcar on [December 15](https://www.facebook.com/events/263912044468408/) with Chris Bell and local dream-folk quartet [CQ](https://coszmosquartette.bandcamp.com/).
 

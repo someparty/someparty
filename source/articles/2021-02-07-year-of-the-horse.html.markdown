@@ -6,7 +6,7 @@ description: Fucked Up's Zodiac series is back to save us. Plus new music and vi
 ---
 
 ###[Fucked Up](http://fuckedup.cc/): "Year of the Horse - Act One"
-==Listen at [Bandcamp](https://fuckedup.bandcamp.com/track/year-of-the-horse-act-one)==
+==Preview and purchase at [Bandcamp](https://fuckedup.bandcamp.com/track/year-of-the-horse-act-one)==
 
 While [Fucked Up](http://fuckedup.cc/)'s lauded zodiac series has always lagged far behind the change in the calendar, the exhausting churn of world events bridging 2017's *Year Of The Snake* and the now-arriving *Year of the Horse* certainly makes the latest gulf feel like a long one. Since kicking off the project with 2006's *Year of the Dog*, the adventurous Toronto hardcore group's released eight installments, ready when they're ready with little regard to the moon's actual position. The zodiac series provides Fucked Up with a unique third track in their narrative - an expression running parallel but separate to their tentpole full-lengths and the group's unending collector's trove of short-form singles. While their albums often expose the push and pull between the various visions, the zodiacs seem unique in that everyone's on the same page. The songs are expansive by design: long-form, intricately crafted jams pushing the band's experiments with form to their limits. There's no tension between punk purism and restless genre-hopping here: this is Fucked Up freewheeling outside the bounds and expectations of their own canon. While each differs stylistically, these singles consistently find the group on a mission to embrace and exceed progressive rock excess with a hardcore toolkit. Maximalism isn't some flourish or affectation in the zodiac series; it's largely the point.
 
@@ -22,14 +22,14 @@ Drummer Jonah Falco added, tongue-in-cheek:
 
 Fucked Up mastermind Mike Haliechuk, through the band's namesake Twitter account, teased out a few additional details, noting that the available first act is merely the shortest side of the record. He warned that "some people are going to utterly lose their shit when this album codas." The band and their fanbase are clearly having a great deal of fun with this rollout. The excitement from all quarters is both endearing to witness and an excellent distraction considering everything else going on in the world.
 
-*Year of the Horse* features most of Fucked Up's regular lineup, save guitarist Ben Cook. It features Abraham on vocals, Halichuk on cello, guitar, and drums, Falco on synth, piano, guitar, drums, and trumpet, bass from Sandy Miranda, and guitar from Josh Zucker. The track includes three renaissance-flavoured suites, with guest vocals in those movements from Maegan Brooks Mills, Eidolon, and Tuka Mohammed. Yoobin Ahn appears on the violin as well.
+*Year of the Horse* features most of Fucked Up's regular lineup, save guitarist Ben Cook. It features Abraham on vocals, Haliechuk on cello, guitar, and drums, Falco on synth, piano, guitar, drums, and trumpet, bass from Sandy Miranda, and guitar from Josh Zucker. The track includes three renaissance-flavoured suites, with guest vocals in those movements from Maegan Brooks Mills, Eidolon, and Tuka Mohammed. Yoobin Ahn appears on the violin as well.
 
 Fucked Up last released *Dose Your Dreams* in 2018. They followed it with a pair of live releases during the pandemic (*Rivoli* and *Live at CBGB's*). Last year Falco and Haliechuk released their debut as the synthpop group [Jade Hairpins](https://jadehairpins.bandcamp.com/) and an industrial EP as [Masterpiece Machine](http://Masterpiecemachine.bandcamp.com) (the latter featuring Riley Gale of the Dallas thrash act Power Trip on vocals). *Year of the Horse* carries a dedication to both Gale and Iron Age guitarist Wade Allison - both of whom were lost in 2020.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1948901196/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=79253971/transparent=true/" seamless><a href="https://fuckedup.bandcamp.com/album/year-of-the-horse">Year of the Horse by Fucked Up</a></iframe>
 
 ###[Scheintot](https://scheintot.bandcamp.com): *Scheintot*
-==Listen at [Bandcamp](https://scheintot.bandcamp.com/album/scheintot)==
+==Preview and purchase at [Bandcamp](https://scheintot.bandcamp.com/album/scheintot)==
 
 Montreal goth quartet [Scheintot](https://scheintot.bandcamp.com) doesn't yet have much online visibility, but I'm loving everything I've heard from them. The group recently shared a self-titled EP featuring five moody, low-fi songs that could have been plucked straight from the early days of post-punk. There's no sheen here, just cold grit and attitude. Fantastic.
 
@@ -38,7 +38,7 @@ Scheintot recorded the EP with Max Gosselin (CELL, Faze). There's a scant run of
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2780565739/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://scheintot.bandcamp.com/album/scheintot">Scheintot by Scheintot</a></iframe>
 
 ###[Blessed](https://blessedband.bandcamp.com): "Centre"
-==Watch at [YouTube](https://youtu.be/1oYnxMpGu3w) - Listen at [Bandcamp](https://blessedband.bandcamp.com/track/centre)==
+==Watch on [YouTube](https://youtu.be/1oYnxMpGu3w) - Preview and purchase at [Bandcamp](https://blessedband.bandcamp.com/track/centre)==
 
 Dynamic Abbotsford indie rockers [Blessed](http://www.blessedtheband.com/) recently shared their second single from *iii*, the quartet's first release since joining Calgary's [Flemish Eye](http://www.flemisheye.com/). You can view the group's Kaayla Whachell-directed video for "Centre" at YouTube now. While the multi-faceted track clocks in at nearly five minutes, it hardly feels like it, with the crash of percussion in the first 30 seconds providing one hell of an opening hook. The production on this one's rather striking, and given the mix of aggression and math-rock complexities, it certainly seems that Blessed's tapped into a bit of that Nomeansno magic.
 
@@ -49,7 +49,7 @@ Blessed features Drew Riekman, Jake Holmes, Reuben Houweling, and Mitchell Train
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1oYnxMpGu3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Bad Waitress](https://badwaitress.bandcamp.com): "Pre Post-Period Blues"
-==Watch at [YouTube](https://youtu.be/6pRhi_T0zI8) - Listen at [Bandcamp](https://badwaitress.bandcamp.com/track/pre-post-period-blues)==
+==Watch on [YouTube](https://youtu.be/6pRhi_T0zI8) - Preview and purchase at [Bandcamp](https://badwaitress.bandcamp.com/track/pre-post-period-blues)==
 
 It's been a few years since we've heard from the Toronto punk group [Bad Waitress](https://badwaitress.bandcamp.com), but the quartet's back with a wailing new single, dubbed "Pre Post-Period Blues." You can check it out below in a new self-directed video, recently premiered in the latest [Ultra Mag](https://www.ultramag.online/) zine.
 
@@ -62,7 +62,7 @@ Bad Waitress recorded the new track with Dave Schiffman (PUP, The OBGMs). The so
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pRhi_T0zI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Vallens](https://www.facebook.com/vallensband/): "If I Don't"
-==Watch at [YouTube](https://youtu.be/ihWkJC-Lh9w) - Listen at [Bandcamp](https://handdrawndracula.bandcamp.com/track/if-i-dont)==
+==Watch on [YouTube](https://youtu.be/ihWkJC-Lh9w) - Preview and purchase at [Bandcamp](https://handdrawndracula.bandcamp.com/track/if-i-dont)==
 
 Atmospheric Toronto trio [Vallens](https://www.facebook.com/vallensband/) returns this year with their sophomore full-length for
 [Hand Drawn Dracula](http://handdrawndracula.com/). *In Era* arrives March 19 as a 10-song set featuring the group's new single "If I Don't." You can preview that song, a slow-burn that builds to soaring heights, at Bandcamp or through a video from director Allison Johnston.
@@ -80,9 +80,9 @@ Vallens last released the EP *Dimmed in my Display* in 2018. The new record foll
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ihWkJC-Lh9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Kristian North](https://kristiannorth.bandcamp.com/): "Fantasy"
-==Watch at [YouTube](https://youtu.be/J4kY0g3U35I) - Listen at [Bandcamp](https://kristiannorth.bandcamp.com/track/fantasy)==
+==Watch on [YouTube](https://youtu.be/J4kY0g3U35I) - Preview and purchase at [Bandcamp](https://kristiannorth.bandcamp.com/track/fantasy)==
 
-Alt-pop crooner [Kristian North](http://kristiannorth.bandcamp.com) is working with Montreal psych label [Mothland](https://www.mothland.com/) on the release of his new full-length. *Passion Play* arrives April 30 on the label, and you can premiere the lead single "Fantasy" now. The singer/songwriter commented on the funky new track:
+Alt-pop crooner [Kristian North](http://kristiannorth.bandcamp.com) is working with Montreal psych label [Mothland](https://www.mothland.com/) on the release of his new full-length. *Passion Play* arrives April 30 on the label, and you can premiere the lead single "Fantasy" now. The singer-songwriter commented on the funky new track:
 
 >"Watching the [1970 French musical], *Donkey Skin*, while I hummed this song's chorus was when it all clicked. There's something to be said about reality there, but mostly it's just candy, melodrama, and fairy tales. I consider 'Fantasy' to be part of a trio of vaguely cynical love songs on this record."
 
@@ -95,7 +95,7 @@ North released his solo debut, *The Last Rock N Roll Record*, in 2018. You may f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J4kY0g3U35I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Partner](https://www.partnerband.com): "Good Place To Hide (At the Time)"
-==Watch at [YouTube](https://youtu.be/BUSlu_ZMa_Q) - Listen at [Bandcamp](https://partnerband.bandcamp.com/track/good-place-to-hide-at-the-time-3)==
+==Watch on [YouTube](https://youtu.be/BUSlu_ZMa_Q) - Preview and purchase at [Bandcamp](https://partnerband.bandcamp.com/track/good-place-to-hide-at-the-time-3)==
 
 Our post-classic-rock heroes [Partner](https://www.partnerband.com) have a new video online for "Good Place To Hide (AT The Time)," one of the more overtly RUSH-worshipping singles from their recent LP *Never Give Up*. The band shot the video way back in February of 2019 with Mylou Sauvage directing. The group commented on the production in a press release:
 
@@ -108,7 +108,7 @@ I said some nice things about *Never Give Up* in my [2020 recap](https://www.som
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BUSlu_ZMa_Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Psychic Void](https://psychicvoid.bandcamp.com/): "City of Waste"
-==Listen at [Bandcamp](https://psychicvoid.bandcamp.com/album/city-of-waste-wash-it-down)==
+==Preview and purchase at [Bandcamp](https://psychicvoid.bandcamp.com/album/city-of-waste-wash-it-down)==
 
 Brash Windsor punks [Psychic Void](https://psychicvoid.bandcamp.com) stormed back last week with a new two-song single, delivering "City of Waste" and "Wash It Down" through Bandcamp. Proceeds raised are due for the [Welcome Centre Shelter for Women](http://www.welcomecentreshelter.com) in the band's hometown.
 
@@ -117,9 +117,9 @@ Last year the group released the *Skeleton Paradise* full-length through New Yor
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3314901960/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://psychicvoid.bandcamp.com/album/city-of-waste-wash-it-down">City of Waste/Wash it Down by Psychic Void</a></iframe>
 
 ###[Sam Coffey and The Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com): "What This City Needs"
-==Watch at [YouTube](https://youtu.be/LBc8Wa-KRIQ) - Listen at [Bandcamp](https://samcoffeyandtheironlungs.bandcamp.com/track/what-this-city-needs)==
+==Watch on [YouTube](https://youtu.be/LBc8Wa-KRIQ) - Preview and purchase at [Bandcamp](https://samcoffeyandtheironlungs.bandcamp.com/track/what-this-city-needs)==
 
-I've been stoked on each and every single previewing the upcoming [Sam Coffey and The Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com) record *Real One*, and that streak continues with "What This City Needs." The band shared the song via a live session released through [LootBag Records](https://lootbagrecords.bandcamp.com/), the latest entry in the Toronto label's ongoing live video series (they've previously featured bands like Joncro, Wine Lips, and the above-mentioned Bad Waitress).
+I've been stoked on each and every single previewing the upcoming [Sam Coffey and The Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com) record *Real One*, and that streak continues with "What This City Needs." The band shared the song via a live session released through [LootBag Records](https://lootbagrecords.bandcamp.com/), the latest entry in the Toronto label's ongoing live video series (they've previously featured bands like JONCRO, Wine Lips, and the above-mentioned Bad Waitress).
 
 Frontman Sam Coffey commented on the power-pop tune at the premier at [V13](https://v13.net/2021/02/what-this-city-needs-is-sam-coffey-the-iron-lungs-hype-lootbag-live-sessions-video-premiere/):
 
@@ -130,7 +130,7 @@ Frontman Sam Coffey commented on the power-pop tune at the premier at [V13](http
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LBc8Wa-KRIQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Boids](https://boids.bandcamp.com/): "Guillotine"
-==Watch at [YouTube](https://youtu.be/Bz3uDPK7SKY) - Listen at [Bandcamp](https://boids.bandcamp.com/track/guillotine-2)==
+==Watch on [YouTube](https://youtu.be/Bz3uDPK7SKY) - Preview and purchase at [Bandcamp](https://boids.bandcamp.com/track/guillotine-2)==
 
 Last year the amiable Montreal punk trio [Boids](https://boids.bandcamp.com/) shared their incredibly fun *Quel Drag* LP. Unfortunately, the [Stomp Records](http://www.stomprecords.com/) release arrived arm-in-arm with the pandemic, and that's certainly proved a distraction, to say the least. With that in mind, it's probably not a bad idea that they've waited this long to serve up another single. You can check out the band's new video for "Guillotine" now on YouTube. The clip features some retro animation from [Allie Brown](https://alliebrowniest.com​).
 
@@ -139,7 +139,7 @@ Boids recorded *Quel Drag* with [Gob](https://www.facebook.com/gobband/) frontma
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bz3uDPK7SKY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[The Holdouts](https://theholdouts905.bandcamp.com): *For Reasons Unknown*
-==Listen at [Bandcamp](https://theholdouts905.bandcamp.com/album/for-reasons-unknown)==
+==Preview and purchase at [Bandcamp](https://theholdouts905.bandcamp.com/album/for-reasons-unknown)==
 
 St. Catharines melodic punk quartet [The Holdouts](http://theholdouts905.bandcamp.com) have a new EP in the wild titled *For Reasons Unknown*. The band recorded the 6-song set with [Dead Tired](https://zdeadtiredz.bandcamp.com/) guitarist Marco Bressette producing from his Hamilton-based Deadquarters studio.
 
@@ -148,7 +148,7 @@ The collection, which follows The Holdouts' early-2020 EP *Cause and Effect*, sh
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=210674687/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://theholdouts905.bandcamp.com/album/for-reasons-unknown">For Reasons Unknown by The Holdouts</a></iframe>
 
 ###[Mother Tongues](https://buzzrecordsto.bandcamp.com/track/sexy-boy): "Sexy Boy"
-==Listen at [Bandcamp](https://buzzrecordsto.bandcamp.com/track/sexy-boy)==
+==Preview and purchase at [Bandcamp](https://buzzrecordsto.bandcamp.com/track/sexy-boy)==
 
 Toronto psych-rock group [Mother Tongues](https://mothertongues.bandcamp.com) recently returned with a cover of "Sexy Boy," the 1988 single by the French electronic duo Air. The one-off comes on the heels of the band's debut EP *Everything You Wanted*, which arrived in 2020 through [Buzz Records](http://buzzrecords.ca/).
 
@@ -157,7 +157,7 @@ Mother Tongues features guitarists Lukas Cheung and Konrad Karczewski, bassist/v
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2895779423/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://buzzrecordsto.bandcamp.com/track/sexy-boy">Sexy Boy by Mother Tongues</a></iframe>
 
 ###[The Effens](https://store.theeffens.com/): "Pavement Age"
-==Watch at [YouTube](https://youtu.be/vk4HwkXy6eY) - Listen at [Bandcamp](https://store.theeffens.com/track/pavement-age-4)==
+==Watch on [YouTube](https://youtu.be/vk4HwkXy6eY) - Preview and purchase at [Bandcamp](https://store.theeffens.com/track/pavement-age-4)==
 
 Glam rockers [The Effens](https://store.theeffens.com/) have a video online featuring their recent single "Pavement Age." The clip features some high spiritual stakes, with the band noting:
 
@@ -168,14 +168,14 @@ The track serves as the grungy Toronto rock group's first new material since 201
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vk4HwkXy6eY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[HEXOFFENDER](https://hexoffender.bandcamp.com/): *Undead Smut*
-==Listen at [Bandcamp](https://hexoffender.bandcamp.com/album/undead-smut-demo-ep)==
+==Preview and purchase at [Bandcamp](https://hexoffender.bandcamp.com/album/undead-smut-demo-ep)==
 
 Sleazy Hamilton thrash group [HEXOFFENDER](https://hexoffender.bandcamp.com/) has a self-titled demo online now. The EP features frontman Dave Gourlay backed on two tracks by [Mononegatives](https://mononegatives.bandcamp.com)' ever-busy frontman [Robbie Brake](http://robbiebrake.bandcamp.com), with JP of [Bad Logics](https://badlogics.bandcamp.com) joining him on two others. You can snag the set now at Bandcamp.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2246952341/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://hexoffender.bandcamp.com/album/undead-smut-demo-ep">UNDEAD SMUT DEMO EP by HEXOFFENDER</a></iframe>
 
 ###[Bloodshot Bill](https://bloodshotbill.bandcamp.com): *Out Of My Head Vol. 3*
-==Listen at [Bandcamp](https://bloodshotbill.bandcamp.com/album/out-of-my-head-vol-3)==
+==Preview and purchase at [Bandcamp](https://bloodshotbill.bandcamp.com/album/out-of-my-head-vol-3)==
 
 Whimsical rockabilly institution [Bloodshot Bill](https://www.bloodshotbill.com) has a third entry in his *Outta My Head* series online, featuring five new songs tracked by the Montreal artist in over the previous month.
 

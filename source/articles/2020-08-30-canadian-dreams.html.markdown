@@ -39,7 +39,7 @@ Last week LeDrew, Luke & Crowe shared a video for the song "Jaded (I'm So)," com
 
 [Watch: LeDrew, Luke & Crowe - "Jaded (I'm So)" @ YouTube](https://youtu.be/T08PH2_RT9A "#")
 
-Enigmatic Montreal singer/songwriter [Yves Jarvis](https://www.yvesjarvis.com/) recently shared a third single from his upcoming LP, *Sundry Rock Song Stock*. You can delve into airy and hypnotic "Semula" below through a low-fi, self-shot video that finds Jarvis trekking rather menacingly through the woods. In a statement, the artist commented:
+Enigmatic Montreal singer-songwriter [Yves Jarvis](https://www.yvesjarvis.com/) recently shared a third single from his upcoming LP, *Sundry Rock Song Stock*. You can delve into airy and hypnotic "Semula" below through a low-fi, self-shot video that finds Jarvis trekking rather menacingly through the woods. In a statement, the artist commented:
 
 >"Roots can be particularly difficult to untangle... I want my recordings to be naturalist, so from that sense I am ideally making them outside. More than a musician or a singer, I'm a producer, and any studio I'm in will become my bedroom. Creation is my life and I don't compartmentalize it at all."
 
@@ -105,7 +105,7 @@ Gritty St. Catharines punk quartet [The Holdouts](http://theholdouts905.bandcamp
 
 [Listen: The Holdouts - "Long Time No See" @ Bandcamp](http://theholdouts905.bandcamp.com/track/long-time-no-see "#")
 
-Toronto-based singer/songwriter [Cactus Vella](https://cactusvellamusic.com/) has paired up with [Little Rocket Records](https://littlerocketrecords.bandcamp.com/) to release his new EP. Titled *Yonge*, the digital set features the new single "Ship Wreck" backed with a cover of the Old Crow Medicine Show's "I Hear Them All." Vancouver folk-punker [Jesse Lebourdais](https://jesselebourdais.bandcamp.com/) and TO's Boxcar Shawn ([Plan 37](https://plan37.bandcamp.com)) appear as backing vocalists on the recording. A video for "Ship Wreck" recently premiered at Punknews.org. You can check it out below.
+Toronto-based singer-songwriter [Cactus Vella](https://cactusvellamusic.com/) has paired up with [Little Rocket Records](https://littlerocketrecords.bandcamp.com/) to release his new EP. Titled *Yonge*, the digital set features the new single "Ship Wreck" backed with a cover of the Old Crow Medicine Show's "I Hear Them All." Vancouver folk-punker [Jesse Lebourdais](https://jesselebourdais.bandcamp.com/) and TO's Boxcar Shawn ([Plan 37](https://plan37.bandcamp.com)) appear as backing vocalists on the recording. A video for "Ship Wreck" recently premiered at Punknews.org. You can check it out below.
 
 Cactus Vella has roots in Toronto punk groups like [Sinkin' Ships](https://sinkinships.bandcamp.com/) and [DOGS](https://dogsto.bandcamp.com/).
 

@@ -117,7 +117,7 @@ Roy's new LP arrives April 17 from [Idée Fixe Records](http://ideefixerecords.c
 
 [Listen: Roy - "Love (Sky Sister)" @ Bandcamp](https://thesoundofroy.bandcamp.com/track/love-sky-sister "#")
 
-The Windsor campus radio station [CJAM](http://www.cjam.ca/) recently shared a live session from [Shotgun Jimmie](https://shotgunjimmie.net/). Back in November, the singer/songwriter visited the studio while touring in support of his *Transistor Sister 2* record. His band at the time featured the above-mentioned José Miguel Contreras, along with [Ladyhawk](https://ladyhawk.bandcamp.com/)'s Ryan Peters and Jay Baird of [Do Make Say Think](http://domakesaythink.com/). During the appearance, the band performs "The New Sincerity," "Hot Pots," and "Jack Pine."
+The Windsor campus radio station [CJAM](http://www.cjam.ca/) recently shared a live session from [Shotgun Jimmie](https://shotgunjimmie.net/). Back in November, the singer-songwriter visited the studio while touring in support of his *Transistor Sister 2* record. His band at the time featured the above-mentioned José Miguel Contreras, along with [Ladyhawk](https://ladyhawk.bandcamp.com/)'s Ryan Peters and Jay Baird of [Do Make Say Think](http://domakesaythink.com/). During the appearance, the band performs "The New Sincerity," "Hot Pots," and "Jack Pine."
 
 Josh Kaiser of Kaiser Sound Productions (and the mighty Psychic Void!) recorded the session, with a group of local filmmakers taking part in the production (Elliot Hale, Greg Maxwell, Walter Petrichyn, Rosina Riccardo, to be specific). Filmmaker David Konstantino produced and edited the footage.
 

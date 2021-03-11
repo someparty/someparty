@@ -25,7 +25,7 @@ Ellis also plays in the modern incarnation of the veteran Burlington punk group 
 
 [Listen: Matt Ellis - *High Risk Assurance* @ Bandcamp](https://mattellis333.bandcamp.com/album/high-risk-assurance "#")
 
-Last week Ottawa-area singer/songwriter [Chris Page](https://chrispage.bandcamp.com) shared a new demo titled "Intersteller Basement Dweller," which come to think of it perfectly describes the past three weeks of my life. Page commented:
+Last week Ottawa-area singer-songwriter [Chris Page](https://chrispage.bandcamp.com) shared a new demo titled "Intersteller Basement Dweller," which come to think of it perfectly describes the past three weeks of my life. Page commented:
 
 > "As many of you know, my new solo LP *Decide To Stay and Swim Again* was due to release early April. I've decided to put that on hold for now, as I had a few fun things planned that can't go forward given the current crisis. We'll reschedule those, hopefully soon...
 >

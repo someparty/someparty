@@ -6,7 +6,7 @@ description: Music and more from Chad VanGaalen, Headcheese, Freelove Fenner, Do
 ---
 
 ###[Chad VanGaalen](https://chadvangaalen.bandcamp.com/): "Samurai Sword"
-==Watch at [YouTube](https://youtu.be/D7UqrMWDUSI) - Listen at [Bandcamp](https://chadvangaalen.bandcamp.com/album/worlds-most-stressed-out-gardener)==
+==Watch on [YouTube](https://youtu.be/D7UqrMWDUSI) - Preview and purchase at [Bandcamp](https://chadvangaalen.bandcamp.com/album/worlds-most-stressed-out-gardener)==
 
 Surrealist Calgary songwriter [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) recently announced a new full-length, titled *World's Most Stressed Out Gardener*. The 13-song set's due on March 19 from [Flemish Eye](http://www.flemisheye.com/) in Canada and [Sub Pop](https://www.subpop.com/) elsewhere. The news arrived alongside a video for the single "Samurai Sword," animated by the artist. It's a welcome return to the bizarre, strangely organic realms VanGaalen so frequently revisits in his visual work. The clip adds a minute and a half to the song's album runtime, framing the song's narrative with a cartoon set in an alien thrift store (and sneaking in more than a few clever references - we see you, Dog Day LP).
 
@@ -25,7 +25,7 @@ Throughout the pandemic, VanGaalen's released a series of archival releases, inc
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D7UqrMWDUSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Headcheese](https://headcheesepunk.bandcamp.com/): "Talk To The Therapist"
-==Listen at [Bandcamp](https://neontasterecords.bandcamp.com/album/headcheese)==
+==Preview and purchase at [Bandcamp](https://neontasterecords.bandcamp.com/album/headcheese)==
 
 [Neon Taste Records](https://neontasterecords.bandcamp.com/) has an LP lined up from Kamloops' thrillingly sardonic punk group [Headcheese](https://headcheesepunk.bandcamp.com/). The Vancouver label, home of bands like Dead Cells, Nutrition, and Bootlicker, recently shared two new tracks from the release: "Talk to the Therapist" and "Po Po." Label-head Josh Nickel shared his thoughts on the record through his Neon Waste webzine:
 
@@ -36,7 +36,7 @@ While a release date hasn't yet been announced, you check with the label on [Ban
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4158705257/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://neontasterecords.bandcamp.com/album/headcheese">Headcheese by Headcheese</a></iframe>
 
 ###[Freelove Fenner](https://freelovefenner.bandcamp.com): *The Punishment Zone*
-==Listen at [Bandcamp](https://freelovefenner.bandcamp.com/album/the-punishment-zone)==
+==Preview and purchase at [Bandcamp](https://freelovefenner.bandcamp.com/album/the-punishment-zone)==
 
 Meticulous Montreal art-pop duo [Freelove Fenner](https://freelovefenner.bandcamp.com) returns this week with their first new LP since 2013's *Do Not Affect A Breezy Manner*. Clocking in with 14 new songs, *The Punishment Zone* arrives on vinyl through Arizona's [Moone Records](https://moonerecords.com/). You can preview the curiously calming album through a full-album stream at [Exclaim](https://exclaim.ca/music/article/montreals_freelove_fenner_enter_the_punishment_zone_on_new_album_listen_now), or snag the set at Bandcamp now.
 
@@ -47,14 +47,14 @@ Freelove Fenner features Caitlin Loney and Peter Woodford, recording from their 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1073430659/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://freelovefenner.bandcamp.com/album/the-punishment-zone">The Punishment Zone by Freelove Fenner</a></iframe>
 
 ###[DogsnotGods](https://dogsnotgods.bandcamp.com/): *EP1*
-==Listen at [Bandcamp](https://dogsnotgods.bandcamp.com/album/dogsnotgods)==
+==Preview and purchase at [Bandcamp](https://dogsnotgods.bandcamp.com/album/dogsnotgods)==
 
 [DogsnotGods](https://dogsnotgods.bandcamp.com/) is a five-piece Moncton punk group lead by [Fear of Lipstick](https://fearoflipstick.bandcamp.com/)'s Jerms O'Neill. The group released several Ramones-worshipping recordings in late 2020, continuing into this year, all of which just conveniently arrived on Bandcamp in the space of a few days. This includes a six-song self-titled set, the single "Call me a Failure," and the eight-track EP1. I'm a little unclear on these releases' exact chronological order, but the band commented that they recorded EP1 live-off-the-floor of the Virus 19 studio in early January. Whichever way you approach them, you'll find a wealth of sweetly uncomplicated `77-style rippers to dig into.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=849555066/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://dogsnotgods.bandcamp.com/album/ep1">EP1 by Dogsnotgods</a></iframe>
 
 ###[King Khan Unlimited](https://kingkhanmusic.com/): *Opiate Them Asses*
-==Listen at [Bandcamp](https://khannibalism.bandcamp.com/album/opiate-them-asses)==
+==Preview and purchase at [Bandcamp](https://khannibalism.bandcamp.com/album/opiate-them-asses)==
 
 It's nearly impossible to keep tabs on the wildly prolific [King Khan](https://kingkhanmusic.com/), but the Berlin-based garage-kingpin has a firey new punk band that we shouldn't leave unmentioned. The Montreal-native recently launched King Khan Unlimited's latest incarnation, issuing the full-length *Opiate Them Asses* last week through Australia's [Bargain Bin Records](https://bargainbinrecords.bandcamp.com/). The 12-song record features Khan playing in a four-piece with the full lineup of Bordeaux-duo Les Magnetix (Looch Vibrato and Aggy Sonora) on drums and guitar, and Fredovitch (from the Shrines) on bass. Underground cartoonist Mike Diana (infamously the first person to receive a criminal conviction in the US for artistic obscenity) created the record's cover art. Eamon Sandwith of buzzing Aussie punk band The Chats also makes a guest appearance on the single "Pigment of Your Imagination."
 
@@ -63,7 +63,7 @@ In recent months Khan's released a dizzying array of projects. These include the
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3110683348/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://khannibalism.bandcamp.com/album/opiate-them-asses">Opiate Them Asses by King Khan Unlimited</a></iframe>
 
 ###[Fitness](https://fitnessband.bandcamp.com/): "December '98"
-==Watch at [YouTube](https://youtu.be/z3_GClPcNh8) - Listen at [Bandcamp](https://fitnessband.bandcamp.com/album/full-well)==
+==Watch on [YouTube](https://youtu.be/z3_GClPcNh8) - Preview and purchase at [Bandcamp](https://fitnessband.bandcamp.com/album/full-well)==
 
 Wiry Edmonton art-punk troop [Fitness](https://fitnessband.bandcamp.com/) recently announced their sophomore full-length. *Full Well* is set to arrive March 5, featuring nine new songs, including the constantly-shifting new single "December '98." You can check out a video featuring the track at [YouTube](https://youtu.be/z3_GClPcNh8) now.
 
@@ -89,7 +89,7 @@ Aggressively staking the band's claim to Toronto's punk crown, *The Ends* arrive
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2T5punB2FWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Industrial Priest Overcoats](https://kingkhanmusic.com/): "Starving Pitbull on a Short Chain"
-==Listen at [Bandcamp](https://codyellen.bandcamp.com/track/starving-pitbull-on-a-short-chain)==
+==Preview and purchase at [Bandcamp](https://codyellen.bandcamp.com/track/starving-pitbull-on-a-short-chain)==
 
 Vancouver's angular, trauma-wrestling [Industrial Priest Overcoats](https://codyellen.bandcamp.com/) kicked off 2021 with several new songs, most recently issuing the high-strung post-punk tune "Starving Pitbull on a Short Chain." It follows a pair of tracks from New Years Day ("I Used To Pick Berries Here With My Mom" and "I Wanna Go Home (I Wanna Go To The Red Zone)"). The weird-punk group's helmed by Secwépemc artist TJ Felix, also of the frantic BC punks [Bedwetters Anonymous](https://bedwettersanonymous.bandcamp.com/).
 
@@ -98,7 +98,7 @@ Felix earlier alluded to an upcoming LP titled *Transformer Story*, so I'd assum
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=139431850/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://codyellen.bandcamp.com/track/starving-pitbull-on-a-short-chain">Starving Pitbull on a Short Chain by INDUSTRIAL PRIEST OVERCOATS</a></iframe>
 
 ###[Future Star](https://dogosuicide.bandcamp.com/): "I'm Gonna be Fine"/"I'm So Alone"
-==Listen at [Bandcamp](https://futurestar.bandcamp.com/album/when-will-the-dj-of-luv-grant-me-my-1-requests)==
+==Preview and purchase at [Bandcamp](https://futurestar.bandcamp.com/album/when-will-the-dj-of-luv-grant-me-my-1-requests)==
 
 Victoria indie-pop act [Future Star](https://futurestar.bandcamp.com) has a new full-length slated for a February 14 release on [Kingfisher Bluez](https://kingfisherbluez.bandcamp.com/). The 13-track Valentine's Day release carries the seasonally appropriate title of *When Will The DJ Of Luv Grant Me My 1 Request*. You can preview the album's keyboard-backed opening tracks, "I'm Gonna Be Fine" and "I'm So Alone," over at Bandcamp.
 
@@ -113,7 +113,7 @@ The new record follows the prolific songwriter's string of quarantine singles an
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=737883603/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://futurestar.bandcamp.com/album/when-will-the-dj-of-luv-grant-me-my-1-request">When Will The DJ Of Luv Grant Me My 1 Request by future star</a></iframe>
 
 ###[Kiwi Jr.](https://kiwijr.bandcamp.com/): "Maid Marian's Toast"
-==Watch at [YouTube](https://youtu.be/ckKEtPdzjkM) - Listen at [Bandcamp](https://kiwijr.bandcamp.com/track/maid-marians-toast)==
+==Watch on [YouTube](https://youtu.be/ckKEtPdzjkM) - Preview and purchase at [Bandcamp](https://kiwijr.bandcamp.com/track/maid-marians-toast)==
 
 Toronto jangle-pop quartet [Kiwi Jr.](https://kiwijr.bandcamp.com/) recently shared a video for the *Cooler Returns* album cut "Maid Marian's Toast." The clip, directed by Sean Egerton Foreman and Johan Arthurs, features behind-the-scenes footage of the band at work in the studio this past July. Given that it was shot during the pandemic, evidence of the summer's social distancing efforts abound.
 
@@ -124,9 +124,9 @@ Kiwi Jr. features vocalist/guitarist Jeremy Gaudet, guitarist Brian Murphy, bass
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ckKEtPdzjkM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[The Weather Station](https://www.theweatherstation.net/): "Parking Lot"
-==Watch at [YouTube](https://youtu.be/gDcxg56nZAo) - Listen at [Bandcamp](https://theweatherstation.bandcamp.com/track/parking-lot)==
+==Watch on [YouTube](https://youtu.be/gDcxg56nZAo) - Preview and purchase at [Bandcamp](https://theweatherstation.bandcamp.com/track/parking-lot)==
 
-This week [The Weather Station](https://www.theweatherstation.net/) shared "Parking Lot" the fourth and final preview of *Ignorance*, the band's [Fat Possum Records](https://fatpossum.com/) debut. As with the record's earlier singles, it provides another moving showcase for Tamara Lindeman's delicate and haunting vocals. The singer/songwriter commented on the track, which arrived alongside a new video:
+This week [The Weather Station](https://www.theweatherstation.net/) shared "Parking Lot" the fourth and final preview of *Ignorance*, the band's [Fat Possum Records](https://fatpossum.com/) debut. As with the record's earlier singles, it provides another moving showcase for Tamara Lindeman's delicate and haunting vocals. The singer-songwriter commented on the track, which arrived alongside a new video:
 
 >" 'Parking Lot' is my strange gentle disco song about a humble encounter with a bird and being tired and being in love, and being heartbroken in ways I didn't quite yet understand. I don't fully know how everything connects in this song other than it obviously does.  I wanted to make the recording very passionate and beautiful while also being very muscular while also being very gentle, and so I did."
 
@@ -137,7 +137,7 @@ If you missed Allison Hussey's recent deep dive for [Pitchfork](https://pitchfor
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gDcxg56nZAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Gloin](https://gloinxo.bandcamp.com/): *Live Monster*
-==Watch at [YouTube](https://youtu.be/lclyirGSD80) - Listen at [Bandcamp](https://gloinxo.bandcamp.com/album/live-monster)==
+==Watch on [YouTube](https://youtu.be/lclyirGSD80) - Preview and purchase at [Bandcamp](https://gloinxo.bandcamp.com/album/live-monster)==
 
 Toronto darkwave four-piece [Gloin](https://gloinxo.bandcamp.com/) has a new set of live recordings online. *Live Monster* features live-to-tape renditions of material from the band's 2019 EP *Soft Monster*, captured in January of 2020 during a weekend trip to Northern Ontario. The group also shared a series of colourfully psychedelic videos from the sessions, split into three parts at their [YouTube](https://youtu.be/lclyirGSD80) channel.
 
@@ -146,7 +146,7 @@ Gloin features members of the indie-rock act [Brenda](https://heybrenda.bandcamp
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3980940238/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://gloinxo.bandcamp.com/album/live-monster">Live Monster by Gloin</a></iframe>
 
 ###[Robbie Morön](https://highenddenimrecords.bandcamp.com/album/get-off-my-lawn): "Get Off My Lawn"
-==Listen at [Bandcamp](https://highenddenimrecords.bandcamp.com/album/get-off-my-lawn)==
+==Preview and purchase at [Bandcamp](https://highenddenimrecords.bandcamp.com/album/get-off-my-lawn)==
 
 [Robbie Morön](https://highenddenimrecords.bandcamp.com/album/get-off-my-lawn), vocalist of Calgary punk act [The Moröns](https://hickcitymorons.com/), has a new solo single online through Red Deer's [High End Denim](http://highenddenimrecords.bandcamp.com). "Get Off My Lawn" is both catchy as hell and proudly wearing its "hick city" stylings on its sleeve. The label helpfully noted:
 
@@ -168,7 +168,7 @@ A five-piece, Sam & The Terrible News features former members of the early 2000s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cq7JC3RPIzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Neos](https://supremeecho.bandcamp.com/album/neos): "Sleeve"
-==Listen at [Bandcamp](https://supremeecho.bandcamp.com/album/neos)==
+==Preview and purchase at [Bandcamp](https://supremeecho.bandcamp.com/album/neos)==
 
 Victoria label [Supreme Echo](http://www.supremeecho.com/) has another fascinating archival release on the way - this time spotlighting the whip-fast Victoria hardcore pioneers [Neos](https://supremeecho.bandcamp.com/album/neos). The group recorded and infrequently toured between 1980 and 1983, sharing the stage during their brief run with legends like the Subhumans, Black Flag, and the Dead Kennedys. Neos will see their discography collected later this year as a new LP titled *Three Teens Hellbent On Speed*. Before that arrives, though, the label's repressing the band's posthumous demos collection *Fight With Donald* as an 18-song 7" (when you play this fast, that's a perfectly reasonable amount of material to fit on an EP). You can stream the song "Sleeve," the only track from the 45 to reappear on the album, at Bandcamp. The record ships out on April 15.
 

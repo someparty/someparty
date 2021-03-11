@@ -6,7 +6,7 @@ description: Rock'n'roll of all stripes from Rules, Matt Ellis, Souvenir, Feelin
 ---
 
 ###[Rules](https://rulesareaband.bandcamp.com/): "Burning Bridges"
-==Listen at [Bandcamp](https://rulesareaband.bandcamp.com/track/burning-bridges)==
+==Preview and purchase at [Bandcamp](https://rulesareaband.bandcamp.com/track/burning-bridges)==
 
 Hamilton psych-punk supergroup [Rules](https://rulesareaband.bandcamp.com/) returns this spring with their long-awaited debut full-length. *The Bummer Circus Comes To Truth City* arrives March 5 from [Stomp Records](http://www.stomprecords.com/) after considerable delay. The quartet put this record to tape back in 2018, recording the album live-off-the-floor at Hamilton's Halo Studios (in three front-to-back takes - and this is crucial - while on LSD). Between the members' other commitments and a pesky world-shattering pandemic, the universe conspired to keep the record on the shelf for nearly four years, but the wait's almost over.
 
@@ -19,7 +19,7 @@ Rules brings together [Chuck Coles](https://chuckcoles.bandcamp.com/) ([The Cree
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=97281324/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2581137986/transparent=true/" seamless><a href="https://rulesareaband.bandcamp.com/album/the-bummer-circus-comes-to-truth-city">The Bummer Circus Comes To Truth City by Rules</a></iframe>
 
 ###[Matt Ellis](https://mattellis333.bandcamp.com/): "Rat Fucker"
-==Watch at [YouTube](https://youtu.be/9WY_LT7BW6s) - Listen at [Bandcamp](https://mattellis333.bandcamp.com/track/rat-fucker)==
+==Watch on [YouTube](https://youtu.be/9WY_LT7BW6s) - Preview and purchase at [Bandcamp](https://mattellis333.bandcamp.com/track/rat-fucker)==
 
 We can't leave Hamilton without dropping in on our pal [Matt Ellis](https://mattellis333.bandcamp.com). You can now check out a video for "Rat Fucker," the latest single from his upcoming LP *Full Moon Fever*. The clip fittingly finds the performer jamming out in isolation, celebrating his forthcoming collection of home-recorded punk rippers with a stir-crazy home shot video. I like to think that his family's sitting just out of frame doing a puzzle. *Full Moon Fever* collects and expands on four EPs worth of material Ellis recorded during the 2020 lockdown, tracked in a makeshift studio set up in his bathroom.
 
@@ -28,7 +28,7 @@ The 18-track *Full Moon Fever*'s due from Italy's [Surfin' Ki Records](http://su
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9WY_LT7BW6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Souvenir](https://souvenirhfx.bandcamp.com/): *Collapse*
-==Listen at [Bandcamp](https://souvenirhfx.bandcamp.com/album/collapse)==
+==Preview and purchase at [Bandcamp](https://souvenirhfx.bandcamp.com/album/collapse)==
 
 Nova Scotian indie rock trio [Souvenir](http://souvenirhfx.bandcamp.com) recently shared *Collapse*, their debut full-length. The 9-song set brings together bassist Lachie MacDonald ([The Tom Fun Orchestra](https://thetomfunorchestra.bandcamp.com), [Great Plains](https://alrightalready.bandcamp.com), [Dyscontrol](https://dyscontrol.bandcamp.com)), guitarist Dave Banoub ([Jon Hynes](http://www.jonhynesmusic.com/)), and drummer Chris Murdoch ([Word On The Street](https://wordonthestreet.bandcamp.com), [Weekend Dads](https://weekenddads.bandcamp.com/)), with all three contributing vocals to the project. Souvenir recorded with engineer Charles Austin (Outtacontroller, Future Girls) at Ocean Floor Studio in Halifax. Pentagon Black's Raymond Biesinger contributed the album's cover art.
 
@@ -39,7 +39,7 @@ Souvenir last released the *Beating Into Dust* EP in February of 2020.
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4160703823/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://souvenirhfx.bandcamp.com/album/collapse">Collapse by Souvenir</a></iframe>
 
 ###[Feeling Figures](https://feelingfigures.bandcamp.com): "Person of Tomorrow"
-==Listen at [Bandcamp](https://feelingfigures.bandcamp.com/track/person-of-tomorrow)==
+==Preview and purchase at [Bandcamp](https://feelingfigures.bandcamp.com/track/person-of-tomorrow)==
 
 It feels like just last week I was raving about the growing [Celluloid Lunch](https://celluloidlunch.bandcamp.com/) lineup (in fact, it [was](https://www.someparty.ca/2021-02-14-out-of-step/)). Wasting no time, the Montreal garage label's since announced their fourth release: the debut 7" from [Feeling Figures](https://feelingfigures.bandcamp.com). The four-piece formerly operated as the Dead Beat Poet Society, helmed by [Zakary Slax](https://zakaryslax.bandcamp.com/) of the underappreciated Sackville space mutants [Astral Gunk](https://astralgunk.bandcamp.com/), with Kayley Moon, Thomas M., and [Protruders](https://protruders.bandcamp.com)' Joe Chamandy in the lineup. Sonically, Feeling Figures lands you unapologetically in the low-fi indie playground of Eric's Trip. At least that's the influence evoked on "Person of Tomorrow," our first preview of the EP. The label describes the track as "chromatically repugnant and spacially tight-wound." While I have no idea what that means, it sounds just about right.
 
@@ -50,7 +50,7 @@ This record's very much a family affair for the nascent Celluloid Lunch, as both
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3774132723/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://feelingfigures.bandcamp.com/album/feeling-figures">Feeling Figures by Feeling Figures</a></iframe>
 
 ###[Sloves](https://sloves.bandcamp.com/): *It's Pronounced Sloves*
-==Listen at [Bandcamp](https://sloves.bandcamp.com/album/its-pronounced-sloves)==
+==Preview and purchase at [Bandcamp](https://sloves.bandcamp.com/album/its-pronounced-sloves)==
 
 I know next to nothing about Toronto's [Sloves](https://sloves.bandcamp.com) other than the fact that they're delivering a brand of frenzied weird-punk that I can't get enough of. The group recently made their debut with *It's Pronounced Sloves*, a five-song EP that surfaced online just a few weeks ago. Don't take my word for it, go blow your head off at Bandcamp.
 
@@ -61,7 +61,7 @@ Sloves recorded with Stephen Pitman ([Hobby](https://hobbytoronto.bandcamp.com/)
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3406357048/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://sloves.bandcamp.com/album/its-pronounced-sloves">it&#39;s pronounced sloves by Sloves</a></iframe>
 
 ###[Book Buddies](https://bookbuddies.bandcamp.com/): "Neon"
-==Listen at [Bandcamp](https://bookbuddies.bandcamp.com/track/neon)==
+==Preview and purchase at [Bandcamp](https://bookbuddies.bandcamp.com/track/neon)==
 
 [Book Buddies](https://bookbuddies.bandcamp.com/) are a brand new Dartmouth-based indie rock unit from members of [Designosaur](https://designosaur.bandcamp.com/) and [Outtacontroller](http://www.outtacontroller.com/). The group recently shared "Neon," their debut single. The hooky track features Rebecca Dalley on vocals and guitar, Anna Cannings on bass, Andrew O'Toole on guitar, and drums from AJ Boutilier. Sean MacGillivray of [Alright Already](https://alrightalready.bandcamp.com/) makes a guest appearance here on backing vocals.
 
@@ -70,7 +70,7 @@ I'd expect more from Book Buddies soon. Rebecca Dalley, meanwhile, recently appe
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2314537982/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://bookbuddies.bandcamp.com/track/neon">Neon by Book Buddies</a></iframe>
 
 ###[PONY](https://ponytheband.ca): "Chokecherry"
-==Watch at [YouTube](https://youtu.be/b9uK5Io8qPU) - Listen at [Bandcamp](https://ponytheband.ca/track/chokecherry)==
+==Watch on [YouTube](https://youtu.be/b9uK5Io8qPU) - Preview and purchase at [Bandcamp](https://ponytheband.ca/track/chokecherry)==
 
 Sam Bielanski's bubblegum-punk trio [PONY](https://ponytheband.ca) has a video online showcasing the opening track to *TV Baby*, the band's long-awaited debut LP. "Chokecherry" seeks to evoke a vintage home movie, with friends gathering for a backyard birthday picnic on a sunny day. It's all very nostalgic and heartwarming until the murder starts.
 
@@ -92,7 +92,7 @@ Power Party's nominally a solo venture credited to Alex Casey of the Charlotteto
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tvVKjMjQN-M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Vallens](https://www.facebook.com/vallensband/): "While You Are Still Waiting"
-==Watch at [YouTube](https://youtu.be/kFFfg_WKTLU) - Listen at [Bandcamp](https://handdrawndracula.bandcamp.com/track/while-you-are-still-waiting)==
+==Watch on [YouTube](https://youtu.be/kFFfg_WKTLU) - Preview and purchase at [Bandcamp](https://handdrawndracula.bandcamp.com/track/while-you-are-still-waiting)==
 
 Every new track we've heard from [Vallens](https://www.facebook.com/vallensband/) this year has been an absolute stunner. The atmospheric Toronto trio recently shared "While You Are Still Waiting," paired with a visualizer on YouTube. The track's emblematic of the band's new direction, with *In Era* presenting a sprawling, cinematic take on the group's formerly guitar-heavy sound. Vocalist Robyn Phillips commented on that shift in a statement:
 
@@ -105,7 +105,7 @@ Vallens features vocalist/guitarist/keyboardist Robyn Phillips backed by Devon H
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFFfg_WKTLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Burning Nickels](https://highenddenimrecords.bandcamp.com/album/cobwebs): "Cobwebs"
-==Listen at [Bandcamp](https://highenddenimrecords.bandcamp.com/album/cobwebs)==
+==Preview and purchase at [Bandcamp](https://highenddenimrecords.bandcamp.com/album/cobwebs)==
 
 Red Deer skate-punks [Burning Nickels](https://highenddenimrecords.bandcamp.com/album/cobwebs) have another EP on the way, this one packed with new collaborators. The four-track *Cobwebs* features guest vocals from Dan Garrison of Vancouver comic-punks [The Corps](https://thecorps.bandcamp.com/), Alex Goldfarb of Florida's [Debt Neglector](https://debtneglector.bandcamp.com/), and UK folk-punk [Sam Russo](https://samrusso.tumblr.com/). The title track, available below, also features a guitar solo from Kurt Anderson of the defunct Vancouver punk group [Ellesmere](https://www.facebook.com/ellesmere666/).
 
@@ -114,9 +114,9 @@ Burning Nickels features Josh (Jawsh) Hauta on guitar and Jason (Ozone) Ezeard d
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=741166362/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://highenddenimrecords.bandcamp.com/album/cobwebs">Cobwebs by Burning Nickels</a></iframe>
 
 ###[Meanlife](https://meanlife.bandcamp.com/): "WTF"
-==Watch at [YouTube](https://youtu.be/AXJG_2G0baY) - Listen at [Bandcamp](https://meanlife.bandcamp.com/album/wtf)==
+==Watch on [YouTube](https://youtu.be/AXJG_2G0baY) - Preview and purchase at [Bandcamp](https://meanlife.bandcamp.com/album/wtf)==
 
-No two songs from Toronto's eclectic [Meanlife](https://meanlife.bandcamp.com) ever sound the same, and the fuzzy rocker "WTF" certainly carries on that tradition. The track arrived alongside a video built around one of singer/songwriter Jackson Fishauf's family movies. The artist commented on Instagram:
+No two songs from Toronto's eclectic [Meanlife](https://meanlife.bandcamp.com) ever sound the same, and the fuzzy rocker "WTF" certainly carries on that tradition. The track arrived alongside a video built around one of singer-songwriter Jackson Fishauf's family movies. The artist commented on Instagram:
 
 >"The 'WTF' music video features an adorable dance routine performed by promising young talent - me, 20 years ago. On a road trip with my family to visit the Rock Hall, I was compelled to carry out this dance, which my dad was standing by to capture on Hi8 tape. The immortal moment lived in a dark closet for the next 2 decades before being rediscovered and repurposed for 'WTF.'"
 
@@ -125,7 +125,7 @@ Fishauf plays everything on this track, save the drums (performed on the recordi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AXJG_2G0baY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Killer Virgins](https://killervirgins.bandcamp.com/): "Banana"
-==Watch at [YouTube](https://youtu.be/3azmvl18KmQ) - Listen at [Bandcamp](https://killervirgins.bandcamp.com/track/banana)==
+==Watch on [YouTube](https://youtu.be/3azmvl18KmQ) - Preview and purchase at [Bandcamp](https://killervirgins.bandcamp.com/track/banana)==
 
 Toronto punk trio [Killer Virgins](https://killervirgins.bandcamp.com/) recently shared their irreverent new single, "Banana," accompanied by an energetic and colourful new video. Vocalist/guitarist Samantha Weinstein addressed the song's rather blatant innuendo in a press release, commenting:
 
@@ -136,7 +136,7 @@ The trio features Weinstein on vocals and guitar, backed by bassist Drew Brazier
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3azmvl18KmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Zoon](https://zoongideewinmusic.bandcamp.com): "Was & Always Will Be"
-==Watch at [YouTube](https://youtu.be/QY7b-ZT5twY) - Listen at [Bandcamp](https://zoongideewinmusic.bandcamp.com)==
+==Watch on [YouTube](https://youtu.be/QY7b-ZT5twY) - Preview and purchase at [Bandcamp](https://zoongideewinmusic.bandcamp.com)==
 
 Hamilton shoegaze project [Zoon](http://www.zoongideewin.com/) recently premiered a new video for "Was & Always Will Be," a song from last year's *Bleached Wavves* LP that features Rishi Dhir of Montreal's psych-rockers [Elephant Stone](https://www.elephantstone.ca/) on sitar.
 
@@ -151,9 +151,9 @@ John Smith directed the psychedelic video showcasing the song noting, "If you ev
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QY7b-ZT5twY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Ian Daniel Kehoe](https://iandanielkehoe.bandcamp.com/): "Colour Application"
-==Watch at [YouTube](https://youtu.be/1IGULVvszHY) - Listen at [Bandcamp](https://iandanielkehoe.bandcamp.com/album/disco-body-buzz)==
+==Watch on [YouTube](https://youtu.be/1IGULVvszHY) - Preview and purchase at [Bandcamp](https://iandanielkehoe.bandcamp.com/album/disco-body-buzz)==
 
-Toronto's [Ian Daniel Kehoe](https://www.iandanielkehoe.com/) has a new video online featuring the synth-driven "Colour Application," a song from the singer/songwriter's *Disco Body Buzz* record. Mike Giganti directed the clip, released in the lead-up to the album's  arrival on streaming services. [The Weather Station](https://www.theweatherstation.net/)'s Tamara Lindeman notably appears on the track as a backing vocalist.
+Toronto's [Ian Daniel Kehoe](https://www.iandanielkehoe.com/) has a new video online featuring the synth-driven "Colour Application," a song from the singer-songwriter's *Disco Body Buzz* record. Mike Giganti directed the clip, released in the lead-up to the album's  arrival on streaming services. [The Weather Station](https://www.theweatherstation.net/)'s Tamara Lindeman notably appears on the track as a backing vocalist.
 
 The 6-song *Disco Body Buzz* arrived in the summer of 2020 as a limited-run cassette, one of three similar collections, each exploring a different genre (*Charging the Stone* and *Rock & Roll Illusion* being the others). The three were each given about half a year to breathe in the physical realm before arriving on download and streaming services. Look for this one on March 5 through [Tin Angel](https://tinangelrecords.bandcamp.com/).
 

@@ -21,7 +21,7 @@ This particular genre swerve follows the country-styled record *Content To Point
 
 [Listen: Daniel Romano - "Forever Love's Fool" (ft. Danny Carey) @ Bandcamp](https://danielromano.bandcamp.com/album/forever-loves-fool-feat-danny-carey "#")
 
-Haligonian singer/songwriter [Matty Grace](http://mattygrace.bandcamp.com/) recently shared a five-song single from a new project dubbed [Modern Cynics](https://moderncynics.bandcamp.com). The band's nimble 'quarantine-core' has the added wrinkle of constraining each song to no more than 12 words. That restriction gives the whole set a wonderfully minimalist feel, perfect for tuning out the crushing complexities looming just ahead of us. In that way it's very pure and Ramones-like. These recordings feature Grace on all instruments and vocals, with mixing and mastering provided by Will Killingsworth.
+Haligonian singer-songwriter [Matty Grace](http://mattygrace.bandcamp.com/) recently shared a five-song single from a new project dubbed [Modern Cynics](https://moderncynics.bandcamp.com). The band's nimble 'quarantine-core' has the added wrinkle of constraining each song to no more than 12 words. That restriction gives the whole set a wonderfully minimalist feel, perfect for tuning out the crushing complexities looming just ahead of us. In that way it's very pure and Ramones-like. These recordings feature Grace on all instruments and vocals, with mixing and mastering provided by Will Killingsworth.
 
 In normal times Grace fronts of [Future Girls](https://futuregirls.bandcamp.com/) and recently released a pair of solo recordings. March saw the arrival of *Rumination Year*, a six-song folk-punk set that's been in the works for several years under the studio eye of that [Surrender](https://surrendersounds.bandcamp.com/)'s Dave Williams. It arrived just a few weeks after *Beneath The Bridges*, a four-song split cassette pairing Grace and the Dartmouth rock trio [Designosaur](https://designosaur.bandcamp.com/).
 
@@ -159,7 +159,7 @@ Vancouver's Celtic punk pioneers [The Real McKenzies](http://www.realmckenzies.c
 
 [Listen: The Real McKenzies - "Beer & Loathing" @ Bandcamp](https://therealmckenzies.bandcamp.com/track/beer-loathing "#")
 
-[Chris Page](https://chrispage.bandcamp.com) has another demo online, this past week sharing the "The Space That Is Years." It follows "Undercoat" and "Interstellar Basement Dweller" in the capital-region singer/songwriter's isolation catalogue. This recording originated from sessions tracked at a Quebec cottage this past summer and finished during the quarantine at the artist's Vanier, Ontario home. Page commented:
+[Chris Page](https://chrispage.bandcamp.com) has another demo online, this past week sharing the "The Space That Is Years." It follows "Undercoat" and "Interstellar Basement Dweller" in the capital-region singer-songwriter's isolation catalogue. This recording originated from sessions tracked at a Quebec cottage this past summer and finished during the quarantine at the artist's Vanier, Ontario home. Page commented:
 
 > "This song has been around for as long as I've been writing songs. I honestly can't tell you how old it is, but you'll notice there's a line about writing a letter. I think the genesis of the song was getting a letter to my mailbox in residence at University from a girlfriend. (Yeah, old friends used to write letters to each other, believe it or not).
 >

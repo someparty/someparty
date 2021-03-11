@@ -47,7 +47,7 @@ lié worked with the producer Jesse Gander on the new LP (he's all over the Mint
 
 [Watch: lié - "Drowning In Piss" @ YouTube](https://youtu.be/Tl8bUXvCusQ "#")
 
-Calgary folk-punk singer/songwriter [Seth Anderson](https://www.sethandersonmusic.com/) recently announced his new record. *We Could Be* arrives on February 25 from Denver's [Snappy Little Numbers](http://snappylittlenumbers.blogspot.com/). The first single from the album, titled "Highway Lights," surfaced online last week. Anderson commented that the song "acknowledges that sometimes things get difficult, but it doesn't mean that you have to stop." He elaborated in a statement:
+Calgary folk-punk singer-songwriter [Seth Anderson](https://www.sethandersonmusic.com/) recently announced his new record. *We Could Be* arrives on February 25 from Denver's [Snappy Little Numbers](http://snappylittlenumbers.blogspot.com/). The first single from the album, titled "Highway Lights," surfaced online last week. Anderson commented that the song "acknowledges that sometimes things get difficult, but it doesn't mean that you have to stop." He elaborated in a statement:
 
 > "I found inspiration for the song while talking with a friend whose passion is surfing and travelling the world. With my love for touring and playing music, we share a fairly transient personality type.
 >
@@ -61,7 +61,7 @@ Calgary folk-punk singer/songwriter [Seth Anderson](https://www.sethandersonmusi
 
 East Coast indie-rock mainstay [Joel Plaskett](http://joelplaskett.com/) will release *44*, a sprawling quadruple album, on April 17. Billed as the spiritual successor to 2018's similarly massive *Three*, the new set will be split into four 11-song chapters, titled *41: Carried Away*, *42: Just Passing Through*, *43: If There's Another Road*, and *44: The Window Inn*. Plaskett recorded these songs over the past four years in several studios across North America, with 33 different players collaborating on the material in total. The announcement landed alongside the single "Head over Heels into Heaven," co-written by Plaskett and his Dartmouth prodigé [Mo Kenney](http://mokenney.com/). It features drummer Dave Marsh and bassist Chris Pennell of The Emergency, with Jeff Miller co-directing the video promoting the tune.
 
-In a statement, the Halifax-based singer/songwriter commented:
+In a statement, the Halifax-based singer-songwriter commented:
 
 > "Making a record has always felt to me like trying to put a frame around a group of songs. In going through my songs from the last four years, it dawned on me that I'd need more than one frame to contain what I've been writing about. Hence four panes within a frame, four records in one box. Synchronicity and numbers have always been a fascination, and I saw this project as an opportunity to create something to mark my 44th year on this mystifying planet."
 

@@ -88,7 +88,7 @@ Julia Noel, guitarist Sam McDougall, and drummer Jeremy Ramos-Foley. *Death Lust
 
 [Listen: Chastity - Audiotree Live session @ YouTube](https://youtu.be/ry4GgsA3eTc "#")
 
-Guelph-based singer/songwriter [Innes Wilson](https://inneswilson.bandcamp.com/) has unveiled his new single "From Now To Forever," the lead track from his upcoming *Seaview* EP. That four-song set is due on September 21 from [Out of Sound Records](https://outofsoundrecords.bandcamp.com/).
+Guelph-based singer-songwriter [Innes Wilson](https://inneswilson.bandcamp.com/) has unveiled his new single "From Now To Forever," the lead track from his upcoming *Seaview* EP. That four-song set is due on September 21 from [Out of Sound Records](https://outofsoundrecords.bandcamp.com/).
 
 Wilson worked on the track at The Quarantine, the living room studio of Port Greville, Nova Scotia's [Construction & Destruction](https://constructionanddestruction.bandcamp.com/). He's backed on the recordings by members of the eclectic multi-instrumental group [WHOOP-Szo](https://thenoisymountain.bandcamp.com). The press release describes the new EP as "reminiscent of the early years of Innes Wilson's career, but strengthened by many more years of songwriting and by a backline from touring veterans."
 

@@ -4,11 +4,11 @@ layout: premiere
 header_image_uri: '/images/premieres/louie-short.jpg'
 header_image_alt: 'Louie Short'
 author: adam@someparty.ca (Adam White)
-description: Premiering the new video for "Lil Boy Girl" from Toronto alt-pop singer/songwriter Louie Short
+description: Premiering the new video for "Lil Boy Girl" from Toronto alt-pop singer-songwriter Louie Short
 thumbnail: 'premieres/louie-short-social.jpg'
 ---
 
-This September esoteric Toronto singer/songwriter [Louie Short](https://louieshort.bandcamp.com/) released *Cherry, cherry*, a 12-song full-length of alt-pop gems. Short's material runs the emotional gamut. Sometimes that results in rootsy sing-alongs, peppered with unexpected stops and tinged with an underlying darkness. A few tracks over you'll find Short building tunes that play like some unheralded 70s pop-rock classic, with the piano-driven "Beautality" leading the way.
+This September esoteric Toronto singer-songwriter [Louie Short](https://louieshort.bandcamp.com/) released *Cherry, cherry*, a 12-song full-length of alt-pop gems. Short's material runs the emotional gamut. Sometimes that results in rootsy sing-alongs, peppered with unexpected stops and tinged with an underlying darkness. A few tracks over you'll find Short building tunes that play like some unheralded 70s pop-rock classic, with the piano-driven "Beautality" leading the way.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4101410288/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4154698347/transparent=true/" seamless><a href="http://louieshort.bandcamp.com/album/cherry-cherry">Cherry, cherry by Louie Short</a></iframe>
 

@@ -65,7 +65,7 @@ Toronto glam-pop powerhouse [Nyssa](https://soundcloud.com/thisisnyssa) recently
 
 [Listen: Nyssa - "Bye Bye Jubilee" @ Bandcamp](https://nyssa.bandcamp.com/track/bye-bye-jubilee "#")
 
-Toronto's Maryam Said, who plays by the stage name [Poolblood](https://poolblood.bandcamp.com/), recently shared a gorgeous remix of "I'm Sorry," the centrepiece single from their 2019 [Accidental Popstar](https://accidentalpopstarrecords.com/) EP *Yummy*. This version of the tune features cello and vocals from [Mauno](https://mauno.bandcamp.com/)'s [Eliza Niemi](https://elizaniemi.bandcamp.com), along with guitar, piano, percussion, and vocals from Toronto singer/songwriter [Louie Short](https://louieshort.bandcamp.com/).
+Toronto's Maryam Said, who plays by the stage name [Poolblood](https://poolblood.bandcamp.com/), recently shared a gorgeous remix of "I'm Sorry," the centrepiece single from their 2019 [Accidental Popstar](https://accidentalpopstarrecords.com/) EP *Yummy*. This version of the tune features cello and vocals from [Mauno](https://mauno.bandcamp.com/)'s [Eliza Niemi](https://elizaniemi.bandcamp.com), along with guitar, piano, percussion, and vocals from Toronto singer-songwriter [Louie Short](https://louieshort.bandcamp.com/).
 
 Proceeds raised from the track are due for the [NABL Black & Indigenous 2SLGBTQ Fund](https://www.gofundme.com/f/nabl-black-amp-indigenous-2slgbtq-fund), [FoodShare Toronto](https://www.canadahelps.org/en/charities/foodshare-toronto/), and the [AIR Collective Occupation Fund](https://ca.gofundme.com/f/5tfp7u-air-community-prosperity-fund).
 
@@ -81,7 +81,7 @@ Matt Ellis is the frontman of both Hamilton's proto-punk revivalists [Flesh Rag]
 
 [Listen: Matt Ellis - *Never Was, Is And Never Shall Be* @ Bandcamp](https://mattellis333.bandcamp.com/album/never-was-is-and-never-shall-be "#")
 
-Haligonian singer/songwriter [Matty Grace](http://mattygrace.bandcamp.com/) is back with a new EP, this time under her name as opposed to her isolation-bred [Modern Cynics](https://moderncynics.bandcamp.com) label. *Frayed* features three new folk-punk styled tunes with Grace on vocals and guitar, written and recorded over the past month. You can find it on Bandcamp.
+Haligonian singer-songwriter [Matty Grace](http://mattygrace.bandcamp.com/) is back with a new EP, this time under her name as opposed to her isolation-bred [Modern Cynics](https://moderncynics.bandcamp.com) label. *Frayed* features three new folk-punk styled tunes with Grace on vocals and guitar, written and recorded over the past month. You can find it on Bandcamp.
 
 In March, Grace released *Rumination Year*, a six-song album produced by [Surrender](https://surrendersounds.bandcamp.com/)'s Dave Williams. It arrived just a few weeks after *Beneath The Bridges*, a four-song split cassette with the Dartmouth rock trio [Designosaur](https://designosaur.bandcamp.com/). Over the first few months of COVID isolation, two EP arrived from Grace as the punk outfit Modern Cynics, all featuring songs with no more than 12 different words.
 

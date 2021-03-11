@@ -77,7 +77,7 @@ This week Some Party had the honour of premiering a new song from Winnipeg's [R 
 
 [Listen: R U S T O W L - "Awkward Age" premiere at Some Party](https://www.someparty.ca/premieres/rust-owl-awkward-age/ "#")
 
-R U S T O W L will launch their EP at a joint release show on [March 23](https://www.facebook.com/events/224185148155596/) at Winnipeg's X-Cues Cafe with [Housepanther](https://housepanther.bandcamp.com/). That band, the solo project of indie pop singer/songwriter Bailee Woods, is set to release an album titled *Club Soda Lows* at the event.
+R U S T O W L will launch their EP at a joint release show on [March 23](https://www.facebook.com/events/224185148155596/) at Winnipeg's X-Cues Cafe with [Housepanther](https://housepanther.bandcamp.com/). That band, the solo project of indie pop singer-songwriter Bailee Woods, is set to release an album titled *Club Soda Lows* at the event.
 
 Woods recently released a single from the record titled "Filthy Lazy," which features a deep 90s alternative-inspired hook that I've had stuck in my head all weekend. This recording features some galloping drum work from R U S T O W L's Jory Strachan and backing vocals from that band's Jensen Fridfinnson.
 

@@ -105,7 +105,7 @@ Ducks Unlimited will play a record release show on [December 5](https://www.face
 
 [Listen: Ducks Unlimited - "Anhedonia" @ YouTube](https://youtu.be/RF2SqoXIEDE "#" )
 
-Andrew Woods' off-kilter yacht-rock project [Legal Vertigo](https://www.facebook.com/legalvertigo/) has a new single up. "Feelin' Finite" will appear on the project's debut full-length *Tragic Future Film Star* on November 15. It's due from [Dine Alone Records](http://dinealonerecords.com/). The new track was accompanied by a video directed by fellow singer/songwriter [Basia Bulat](http://basiabulat.com/). You can check it out below.
+Andrew Woods' off-kilter yacht-rock project [Legal Vertigo](https://www.facebook.com/legalvertigo/) has a new single up. "Feelin' Finite" will appear on the project's debut full-length *Tragic Future Film Star* on November 15. It's due from [Dine Alone Records](http://dinealonerecords.com/). The new track was accompanied by a video directed by fellow singer-songwriter [Basia Bulat](http://basiabulat.com/). You can check it out below.
 
 Based in Montreal, Woods and Bulat have been collaborating on this project for a few years. The act originally performed under the name Napster Vertigo.
 
@@ -113,7 +113,7 @@ Based in Montreal, Woods and Bulat have been collaborating on this project for a
 
 [Watch: Legal Vertigo - "Feelin' Finite" @ YouTube](https://youtu.be/diXlpSWq3H4 "#")
 
-Back in September, we learned of *Lost Wisdom pt. 2*, a sequel to the 2008 collaboration between Moncton singer/songwriter [Julie Doiron](https://juliedoiron.bandcamp.com/) and Phil Elverum's Washinton-based [Mount Eerie](https://twitter.com/PWElverum). A new song from the album is now online, titled "Belief pt. 2." Elverum commented on the track:
+Back in September, we learned of *Lost Wisdom pt. 2*, a sequel to the 2008 collaboration between Moncton singer-songwriter [Julie Doiron](https://juliedoiron.bandcamp.com/) and Phil Elverum's Washinton-based [Mount Eerie](https://twitter.com/PWElverum). A new song from the album is now online, titled "Belief pt. 2." Elverum commented on the track:
 
 > "'Belief pt. 2' is the last song on the album. It comes at the end of a meandering path through uncertainty, devotion, sad reminiscence, hopeful idealism; songs coursing over uneven terrain. This album conclusion is a flag planted, a declaration of belief in love no matter what, the culminating answer to all of the asking that came before. Eroded down by life's changes to an elemental necessity, I make an offering of a final simple gesture of love.
 >

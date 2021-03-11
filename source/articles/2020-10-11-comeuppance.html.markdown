@@ -73,7 +73,7 @@ Jyraph is the solo project of Pablo Garcia-Rejon Gaubeca, who plays in the Montr
 
 [Listen: Jyraph - "La Brume" @ Bandcamp](https://jyraph.bandcamp.com/track/la-brume "#")
 
-Edmonton-born, Toronto-based singer/songwriter [Eamon McGrath](http://eamonmcgrath.ca/) recently released the single "Sparkle & Bleed." The track, written at the beginning of Ontario's initial COVID-19 lockdown, endeavours to capture the early spring's surreal mood. The artist commented:
+Edmonton-born, Toronto-based singer-songwriter [Eamon McGrath](http://eamonmcgrath.ca/) recently released the single "Sparkle & Bleed." The track, written at the beginning of Ontario's initial COVID-19 lockdown, endeavours to capture the early spring's surreal mood. The artist commented:
 
 > "There was a really distinct, yet indescribable, texture that seemed to be thick in the air, and that's exactly what I wanted to try and translate through 'Sparkle & Bleed.' No one knew what to make of it at all, we were just floating and lost. It's those feelings, that words have no ability to communicate, where music has the job of stepping in and taking over.
 >
