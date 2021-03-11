@@ -163,8 +163,8 @@ When not stuck at home, Chris Page plays as part of the duo [Expanda Fuzz](https
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gq-E-zBOUAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Godspeed You! Black Emperor](http://cstrecords.com/gybe/): *G_d's Pee AT STATE'S END*
-==Preorder at your [local record store](https://localrecordstores.com/releases/gds-pee)==
+###[Godspeed You! Black Emperor](http://cstrecords.com/gybe/): "End State Broadcast"
+==Preorder at your [local record store](https://localrecordstores.com/releases/gds-pee) - Watch a preview at [Vimeo](https://vimeo.com/521929213)==
 
 [Constellation Records](http://cstrecords.com/) recently announced a new album from Montreal post-rock legends [Godspeed You! Black Emperor](http://cstrecords.com/gybe/), the iconoclastic group's follow-up to 2017's *Luciferian Towers*. The new set carries an anarcho-punk aesthetic in both the artwork and the album's title, the flippant and near-parodistic *G_d's Pee AT STATE'S END!*. The record features ten credited players recorded at the storied [Hotel2Tango](http://www.hotel2tango.com/) studio. Jace Lasek of The Besnard Lakes recorded and mixed the record in October of last year- his first collaboration with the long-running group.
 
@@ -176,4 +176,7 @@ Godspeed issued a statement that reads, in part:
 
 You can find their full manifesto, along with a detailed peek at the album art, at [Constellation](http://cstrecords.com/products/godspeed-you-black-emperor-g_d-s-pee-at-state-s-end/)'s website. The label completely exhausted their vinyl run in the hours since the announcement and have since pointed fans to a [local store](https://localrecordstores.com/releases/gds-pee) locator service.
 
-There's no audio preview of the new work online yet, outside of a cryptic minute-long promotional piece at [Bandcamp](https://godspeedyoublackemperor.bandcamp.com/album/g-d-s-pee-at-state-s-end). Keep scanning the airwaves.
+Constellation has a two-minute audio preview online now at [Vimeo](https://vimeo.com/521929213), heralding a [listening event](https://suoniperilpopolo.org/en/events/2021-03-27-g_d-s-pee-at-states-end) on March 27 to be broadcast from Montreal's empty Cinema Imperial. The clip serves as our only audio preview of the new record to date, with more surely to come. Keep scanning the airwaves.
+
+<iframe src="https://player.vimeo.com/video/521929213?color=fff" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/521929213">GY!BE STATE&#039;S END BRODKAST</a> from <a href="https://vimeo.com/cstrecords">Constellation Records</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
