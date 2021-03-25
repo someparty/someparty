@@ -2,7 +2,7 @@
 title: A Rather Strained Apologetic
 date: 2021-03-21
 author: adam@someparty.ca (Adam White)
-description: Music, visuals, and news from Needles//Pins, Intersystems, N0V3L, Jyraph, JONCRO, Kristian North, Paul Jacobs, Chad VanGaalen, Rude City Riot, Huron Lines, The Peelers, Yves Jarvis, Zero Zero UFO, Rules, and D.O.A.
+description: Music, visuals, and news from Needles//Pins, Intersystems, N0V3L, Jyraph, JONCRO, Beams, Kristian North, Paul Jacobs, Chad VanGaalen, Rude City Riot, Huron Lines, The Peelers, Yves Jarvis, Zero Zero UFO, Rules, and D.O.A.
 ---
 
 ###[Needles//Pins](https://needlesxpins.bandcamp.com/): "A Rather Strained Apologetic"
@@ -72,13 +72,24 @@ Mississauga trio [JONCRO](https://joncro.bandcamp.com) has another preview of th
 
 The band commented on the song in an Instagram post:
 
->"It is a tragic love song about dealing with the emotions that come from the end of a relationship and the nostalgic pain that comes with remembering the good times you had with someone and the love you once shared with them that is now gone from your life. Love, whether platonic or romantic, is one of the most important emotions humans can feel and the loss of it can be truly devastating. thematically it is framed against the backdrop of cherry blossoms falling at twilight. ."
+>"It is a tragic love song about dealing with the emotions that come from the end of a relationship and the nostalgic pain that comes with remembering the good times you had with someone and the love you once shared with them that is now gone from your life. Love, whether platonic or romantic, is one of the most important emotions humans can feel and the loss of it can be truly devastating. thematically it is framed against the backdrop of cherry blossoms falling at twilight."
 
 JONCRO features Daniel G. Wilson on guitar and vocals, drummer Matthew Mikuljan, and bassist Kieran Christie. Wilson recorded the song at the band's home studio, The Lions Den, with Austin Nops of [The Effens](https://store.theeffens.com/) mixing and mastering at Lootbag Studios.
 
 The group last released the live *Lions Den Session* set in December of 2020, having issued *The Joncro Mountains* EP just a few months prior. The *Richmond Station* LP is due later this year.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3881635467/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://joncro.bandcamp.com/track/sakura-2">Sakura by JONCRO</a></iframe>
+
+###[Beams](https://beamsbeams.bandcamp.com/): *Ego Death*
+==Livestream Friday, March 26 at 8:00 EST at [Bandcamp](https://beamsbeams.bandcamp.com/merch/ego-death-a-concert-film)==
+
+Toronto's psych-flavoured folk-rock group [Beams](https://beamsbeams.bandcamp.com/) have a new 10-song full-length due this week, and they're launching it with a filmographic love letter to the beleaguered physical performance spaces of their hometown.
+
+The group will stream *Ego Death*, a ticketed full-length concert film, on the album's release day (this Friday, March 26). Shot in a documentary-style, the Samuel Scott directed film features the band performing at several notable venues throughout the city, with appearances at the The Dakota Tavern, The Horseshoe Tavern, The Boat, the Matt Durrant Studio, the Union Sound Company, and the band's rehearsal room at B-space. You can sneak a preview of the performance over at [YouTube](https://youtu.be/ciCBViyKTJw).
+
+Beams features singer/songwriter Mernieks-Duffield backed by Heather Mazhar, Mike Duffield, Keith Hamilton, Craig Moffatt, and Martin Crawford. The group recorded the *Ego Death* full-length at the Union Sound Company in Toronto by Alex Gamble (Fucked Up, Alvvays). The new record follows 2018's *Teach Me to Love*.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ciCBViyKTJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Kristian North](https://kristiannorth.bandcamp.com/): "Genius of Song"
 ==Watch on [YouTube](https://youtu.be/vVGU49l5ko8) - Preview and purchase at [Bandcamp](https://kristiannorth.bandcamp.com/track/genius-of-song)==
