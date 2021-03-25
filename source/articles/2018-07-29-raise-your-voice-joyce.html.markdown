@@ -49,7 +49,7 @@ A video for the track, directed by [Shawn Kosmerly](https://www.facebook.com/her
 
 [Watch: Nick Ferrio - "I Don't Know How Long" @ YouTube](https://youtu.be/yZNEwZ5UlX4 "#")
 
-Vancouver punk trio [Needles//Pins](http://www.needlesxpins.com/) recently released a split 7" with the UK band [Epic Problem](https://epicproblem2.bandcamp.com/). It's part of the ongoing [All In Vinyl](http://allinvinyl.limitedrun.com/products/567800?preview=true) split series.
+Vancouver punk trio [Needles//Pins](https://needlesxpins.bandcamp.com/) recently released a split 7" with the UK band [Epic Problem](https://epicproblem2.bandcamp.com/). It's part of the ongoing [All In Vinyl](http://allinvinyl.limitedrun.com/products/567800?preview=true) split series.
 
 The band's contributions, "Heaven's on the Hillside" and "Stumble," were recorded and produced by Jesse Gander at Rain City Recorders (Japandroids, White Lung, Woolworm) and are the first songs the band's released in the wake of their 2017 [Mint Records](https://www.mintrecs.com/) full-length *Good Night, Tomorrow*.
 

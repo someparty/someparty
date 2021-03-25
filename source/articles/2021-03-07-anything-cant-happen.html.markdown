@@ -2,7 +2,7 @@
 title: Anything Can't Happen
 date: 2021-03-07
 author: adam@someparty.ca (Adam White)
-description: News and audio from Dorothea Paas, JONCRO, Fiver with the Atlantic School Of Spontaneous Composition, You Doo Right, Slurry, Fucked Up, Cory Levesque, Jon Creeden, Sister Suzie, The Dirty Nil, Tunic, Down Memory Lane, Bloodshot Bill, Chris Page, and Godspeed You! Black Emperor
+description: News and audio from Dorothea Paas, JONCRO, Fiver with the Atlantic School Of Spontaneous Composition, Yoo Doo Right, Slurry, Fucked Up, Cory Levesque, Jon Creeden, Sister Suzie, The Dirty Nil, Tunic, Down Memory Lane, Bloodshot Bill, Chris Page, and Godspeed You! Black Emperor
 ---
 
 ###[Dorothea Paas](https://dorotheapaas.bandcamp.com/): "Anything Can't Happen"
@@ -48,10 +48,10 @@ With this record, Simone Schmidt has seven full-lengths under her belt. She's re
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3169022667/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1805953538/transparent=true/" seamless><a href="https://fiverforreal.bandcamp.com/album/fiver-with-the-atlantic-school-of-spontaneous-composition">Fiver with the Atlantic School Of Spontaneous Composition by Fiver</a></iframe>
 
-###[You Doo Right](https://yoodooright.bandcamp.com/): "Don't Think You Can Escape Your Purpose"
+###[Yoo Doo Right](https://yoodooright.bandcamp.com/): "Don't Think You Can Escape Your Purpose"
 ==Preview and purchase at [Bandcamp](https://yoodooright.bandcamp.com/track/dont-think-you-can-escape-your-purpose) - Watch on [YouTube](https://youtu.be/Gy3UjGBLdMU)==
 
-Montreal post-rock trio [You Doo Right](https://yoodooright.bandcamp.com/) has a new single in the wild. "Don't Think You Can Escape Your Purpose" is the heavy yet solemn title track to the band's upcoming debut full-length, arriving May 21 from local psych upstarts [Mothland](https://www.mothland.com/). The group commented on the heady tune in a press release, stating:
+Montreal post-rock trio [Yoo Doo Right](https://yoodooright.bandcamp.com/) has a new single in the wild. "Don't Think You Can Escape Your Purpose" is the heavy yet solemn title track to the band's upcoming debut full-length, arriving May 21 from local psych upstarts [Mothland](https://www.mothland.com/). The group commented on the heady tune in a press release, stating:
 
 >"It's about a person who is losing touch with reality. Who thinks he has a higher purpose and is supposed to be an ambassador to a higher extraterrestrial race. It's a looming atmospheric rhythm and crawl."
 
@@ -59,7 +59,7 @@ The song arrives alongside a video from director Justin Cober, who detailed the 
 
 >"In an attempt to achieve a higher purpose in life, the subject instead witnesses their own deteriorating mental posture. As a means of overcoming assumed existential risk (the hurdles of our great filter), the subject looks above and within believing that they alone have been chosen to solve the problems that our species faces. Images of Eva Szasz' 1968 short film 'Cosmic Zoom', produced by the National Film Board of Canada were cast over foliage to make for fitting imagery, complementing the narrative."
 
-You Doo Right recorded in Quebec City and Montreal, working with Sebastien Fournier (Panopticon Eyelids, No Negative) at Hotel2Tango and Guillaume Chiasson (Ponctuation, Jesuslesfilles) at Le Pantoum. The band features the talents of Justin Cober (guitar, synthesizers, vocals), Charles Masson (bass), and John Talbot (drums, percussions). With a pair of earlier EPs under their belt, the trio most recently released a split 7" with Japanese psych titans Acid Mothers Temple. A track collaborating with Ottawa vocalist [Jasmine Trails](https://jasminetrailsss.bandcamp.com/) also recently appeared on Mothland's *Sounds From Mothland* mixtape.
+Yoo Doo Right recorded in Quebec City and Montreal, working with Sebastien Fournier (Panopticon Eyelids, No Negative) at Hotel2Tango and Guillaume Chiasson (Ponctuation, Jesuslesfilles) at Le Pantoum. The band features the talents of Justin Cober (guitar, synthesizers, vocals), Charles Masson (bass), and John Talbot (drums, percussions). With a pair of earlier EPs under their belt, the trio most recently released a split 7" with Japanese psych titans Acid Mothers Temple. A track collaborating with Ottawa vocalist [Jasmine Trails](https://jasminetrailsss.bandcamp.com/) also recently appeared on Mothland's *Sounds From Mothland* mixtape.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gy3UjGBLdMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -163,7 +163,7 @@ When not stuck at home, Chris Page plays as part of the duo [Expanda Fuzz](https
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gq-E-zBOUAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Godspeed You! Black Emperor](http://cstrecords.com/gybe/): "End State Broadcast"
+###[Godspeed You! Black Emperor](http://cstrecords.com/gybe/): *G_d's Pee AT STATE'S END!*
 ==Preorder at your [local record store](https://localrecordstores.com/releases/gds-pee) - Watch a preview at [Vimeo](https://vimeo.com/521929213)==
 
 [Constellation Records](http://cstrecords.com/) recently announced a new album from Montreal post-rock legends [Godspeed You! Black Emperor](http://cstrecords.com/gybe/), the iconoclastic group's follow-up to 2017's *Luciferian Towers*. The new set carries an anarcho-punk aesthetic in both the artwork and the album's title, the flippant and near-parodistic *G_d's Pee AT STATE'S END!*. The record features ten credited players recorded at the storied [Hotel2Tango](http://www.hotel2tango.com/) studio. Jace Lasek of The Besnard Lakes recorded and mixed the record in October of last year- his first collaboration with the long-running group.

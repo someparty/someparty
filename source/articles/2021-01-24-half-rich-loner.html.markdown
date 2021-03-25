@@ -189,7 +189,7 @@ Burton recorded *Coyote* in Nashville with Andrija Tokic (Alabama Shakes, Cheap 
 ###*Something Better Change* documentary
 ==Details at [Kickstarter](https://www.kickstarter.com/projects/cra/something-better-change)==
 
-Director Scott Crawford recently launched a [Kickstarter campaign](https://www.kickstarter.com/projects/cra/something-better-change) to raise funds for *Something Better Change*, a documentary chronicling the unlikely political career of [D.O.A.](https://www.suddendeath.com/)'s Joey' Shithead' Keithley. The film follows the musician's path from activist punk frontman to municipal politician, cumulating in his election as a city councillor in Burnaby, BC. Guests slated to appear in the film include Henry Rollins, Keith Morris, Jello Biafra, Krist Novoselic, Duff McKagan, and U.S. presidential hopeful Beto O'Rourke. The director hopes to raise $30,000 (USD) in funding by late February to keep the project on the rails.
+Director Scott Crawford recently launched a [Kickstarter campaign](https://www.kickstarter.com/projects/cra/something-better-change) to raise funds for *Something Better Change*, a documentary chronicling the unlikely political career of [D.O.A.](https://www.suddendeath.com/)'s Joey "Shithead" Keithley. The film follows the musician's path from activist punk frontman to municipal politician, cumulating in his election as a city councillor in Burnaby, BC. Guests slated to appear in the film include Henry Rollins, Keith Morris, Jello Biafra, Krist Novoselic, Duff McKagan, and U.S. presidential hopeful Beto O'Rourke. The director hopes to raise $30,000 (USD) in funding by late February to keep the project on the rails.
 
 You can sneak a preview of the film through a campaign video below.
 

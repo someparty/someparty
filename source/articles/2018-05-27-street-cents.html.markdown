@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: New music from Future Girls, Surf Dads, Nick Faye & The Deputies, Heathers, Body Break, Goosebump, S.H.I.T., and the Dirty Nil.
 ---
 
-This Friday will see the release of [Future Girls](https://futuregirls.bandcamp.com/)' first full length, *Motivation Problems*. The record's been long in the works, with early versions of several of these songs showing up on digital comps or EPs over the past few years. Portland's [Dirt Cult Records](https://dirtcultrecords.bandcamp.com/), the U.S. home of Canadian bands like [Chiller](https://www.facebook.com/chillerband/), [New Swears](https://newswears.bandcamp.com/), [Chain Whip](https://chainwhip.bandcamp.com/), and [Needles//Pins](http://www.needlesxpins.com/) (among many others) is handling the release, with cassettes shipping now and everything online by the end of the week.
+This Friday will see the release of [Future Girls](https://futuregirls.bandcamp.com/)' first full length, *Motivation Problems*. The record's been long in the works, with early versions of several of these songs showing up on digital comps or EPs over the past few years. Portland's [Dirt Cult Records](https://dirtcultrecords.bandcamp.com/), the U.S. home of Canadian bands like [Chiller](https://www.facebook.com/chillerband/), [New Swears](https://newswears.bandcamp.com/), [Chain Whip](https://chainwhip.bandcamp.com/), and [Needles//Pins](https://needlesxpins.bandcamp.com/) (among many others) is handling the release, with cassettes shipping now and everything online by the end of the week.
 
 You can preview the record now, streaming at [New Noise](https://newnoisemagazine.com/stream-future-girls-motivation-problems/).
 

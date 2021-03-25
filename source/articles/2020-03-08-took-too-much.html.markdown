@@ -109,13 +109,13 @@ Conditioner features Nick Giles on drums and vocals, bassist Jeff Gibson, guitar
 
 [Listen: Conditioner - *Low Point* @ Bandcamp](https://ccconditionerrr.bandcamp.com/album/low-point "#")
 
-A mellow second single recently materialized from the Toronto psych-pop act [Roy](https://thesoundofroy.bandcamp.com). You can stream "Love (Sky Sister)" below. It serves as a lower-key counterpart to the bombastic "Is It You (Sky Brother)" that reintroduced Roy to the world a month ago, with both tracks directly addressing the celestial narrative wrapped around the band's upcoming album *Pease Love and Outer Space*.
+A mellow second single recently materialized from the Toronto psych-pop act [ROY](https://thesoundofroy.bandcamp.com). You can stream "Love (Sky Sister)" below. It serves as a lower-key counterpart to the bombastic "Is It You (Sky Brother)" that reintroduced ROY to the world a month ago, with both tracks directly addressing the celestial narrative wrapped around the band's upcoming album *Pease Love and Outer Space*.
 
-Roy's new LP arrives April 17 from [Idée Fixe Records](http://ideefixerecords.com/). A special edition of the album will be available with a bonus cassette, featuring "synthesizer compositions" intended to be played alongside the LP.
+ROY's new LP arrives April 17 from [Idée Fixe Records](http://ideefixerecords.com/). A special edition of the album will be available with a bonus cassette, featuring "synthesizer compositions" intended to be played alongside the LP.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2737552867/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3829819477/transparent=true/" seamless><a href="http://thesoundofroy.bandcamp.com/album/peace-love-and-outer-space">PEACE LOVE AND OUTER SPACE by ROY</a></iframe>
 
-[Listen: Roy - "Love (Sky Sister)" @ Bandcamp](https://thesoundofroy.bandcamp.com/track/love-sky-sister "#")
+[Listen: ROY - "Love (Sky Sister)" @ Bandcamp](https://thesoundofroy.bandcamp.com/track/love-sky-sister "#")
 
 The Windsor campus radio station [CJAM](http://www.cjam.ca/) recently shared a live session from [Shotgun Jimmie](https://shotgunjimmie.net/). Back in November, the singer-songwriter visited the studio while touring in support of his *Transistor Sister 2* record. His band at the time featured the above-mentioned José Miguel Contreras, along with [Ladyhawk](https://ladyhawk.bandcamp.com/)'s Ryan Peters and Jay Baird of [Do Make Say Think](http://domakesaythink.com/). During the appearance, the band performs "The New Sincerity," "Hot Pots," and "Jack Pine."
 

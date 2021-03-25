@@ -44,7 +44,7 @@ Last week brought another preview of *What's Tonight to Eternity*, the upcoming 
 
 [Listen: Cindy Lee - "I Want You To Suffer" @ YouTube](https://youtu.be/y59XYOjU1Hs "#")
 
-April 17 will see [Idée Fixe Records](http://ideefixerecords.com/) servicing a new full-length from the Toronto psych-pop act [Roy](https://thesoundofroy.bandcamp.com). You can preview the work, titled *Pease Love and Outer Space*, through the preview track "Is It You (Sky Brother)." While it's an authentically druggy tune, befitting of its 60s influences, it's also surprisingly concise. "It Is You" clocks in at an efficient two minutes and 13 seconds. You'd expect this type of thing to noodle off in a spaced-out haze, so this is interesting for its restraint alone.
+April 17 will see [Idée Fixe Records](http://ideefixerecords.com/) servicing a new full-length from the Toronto psych-pop act [ROY](https://thesoundofroy.bandcamp.com). You can preview the work, titled *Pease Love and Outer Space*, through the preview track "Is It You (Sky Brother)." While it's an authentically druggy tune, befitting of its 60s influences, it's also surprisingly concise. "It Is You" clocks in at an efficient two minutes and 13 seconds. You'd expect this type of thing to noodle off in a spaced-out haze, so this is interesting for its restraint alone.
 
 What's not restrained is the campy tale spun around the album's creation. Here's a paragraph from the lengthy press release, plucked at random, so you know what you're in for:
 
@@ -54,7 +54,7 @@ You can dive into the [full narrative](http://ideefixerecords.com/if024.html) at
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2737552867/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://thesoundofroy.bandcamp.com/album/peace-love-and-outer-space">PEACE LOVE AND OUTER SPACE by ROY</a></iframe>
 
-[Listen: Roy - "Is It You (Sky Brother)" @ Bandcamp](http://thesoundofroy.bandcamp.com/album/peace-love-and-outer-space "#")
+[Listen: ROY - "Is It You (Sky Brother)" @ Bandcamp](http://thesoundofroy.bandcamp.com/album/peace-love-and-outer-space "#")
 
 [Sewercide Records](http://sewerciderecords.blogspot.com/) recently released *Serial Mass Destruction*, the new EP from Halifax D-beat hardcore group [Fragment](https://fragmentpunk.bandcamp.com). The group features bassist Cody Googoo and guitarist Steve Earle of the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), [Unreal Thought](https://unrealthought.bandcamp.com/)'s Ben Radford on drums, and vocals from Mark Hughes. The band recorded the five-song/seven-minute set last summer with Luke Mumford of [Negative Rage](https://negativerage.bandcamp.com/) engineering.
 

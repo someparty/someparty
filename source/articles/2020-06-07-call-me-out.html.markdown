@@ -129,7 +129,7 @@ The Friend Ship Committee organized 2019's Friend Ship cruise, a show hosted on 
 
 [Listen: *Friend Ship From Home Vol. 3* @ Bandcamp](http://friendshipcommittee.bandcamp.com/album/friend-ship-from-home-vol-3-blm-fundraiser "#")
 
-I was instantly taken by a buzzing synth-punk track on the previous *Friend Ship* compilation by [The Fuckin Astronauts](https://thefuckinastronauts.bandcamp.com), and that song now has a second lease on life. The duo's "The Man From an Unknown Time" was recently remastered by [Roy](https://thesoundofroy.bandcamp.com) and shared on Bandcamp last Friday.
+I was instantly taken by a buzzing synth-punk track on the previous *Friend Ship* compilation by [The Fuckin Astronauts](https://thefuckinastronauts.bandcamp.com), and that song now has a second lease on life. The duo's "The Man From an Unknown Time" was recently remastered by [ROY](https://thesoundofroy.bandcamp.com) and shared on Bandcamp last Friday.
 
 If you're a fan of Michigan punk weirdos The Spits, this should be right up your alley.
 
