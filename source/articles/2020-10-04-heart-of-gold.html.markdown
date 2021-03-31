@@ -149,7 +149,7 @@ Miesha & The Spanks features Miesha Louie on guitar and vocals with Sean Hamilto
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/891898021&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-[Listen: Meisha & The Spanks - "Wanna Feel Good" @ SoundCloud](https://soundcloud.com/mandthespanks/wanna-feel-good "#")
+[Listen: Miesha & The Spanks - "Wanna Feel Good" @ SoundCloud](https://soundcloud.com/mandthespanks/wanna-feel-good "#")
 
 I'm sure that Cancon alt-rock vets [Sloan](https://sloanmusic.bandcamp.com/) fall decidedly outside of whatever unsaid criteria I use to pick artists to cover in this newsletter. They don't need me. Still, I can't deny that their singles have been on constant rotation in our house throughout the pandemic - nostalgia for a more innocent age, I suppose. Anyways, Sloan's in this week. Deal with it.
 

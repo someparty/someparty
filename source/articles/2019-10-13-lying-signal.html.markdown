@@ -75,7 +75,7 @@ There's no music to share from *SNC Lava Lamp* just yet, but here's a pair of tu
 
 [Watch: Deliluh - "Hymn" (Live Performance) @ YouTube](https://youtu.be/LZsNLbEl9vo "#")
 
-Speaking of Telephone Explosion (and not for the last time this week), the label also recently shared a new video for the song "Froggy," a track from [André Ethier](https://www.telephoneexplosion.com/products/andre-ethier-croak-in-the-weeds)'s gorgeous new slow-burner *Croak in the Weeds*. The above-mentioned Colin Medley also directed this one, with the titular amphibian animated by Seth Scriver.
+Speaking of Telephone Explosion (and not for the last time this week), the label also recently shared a new video for the song "Froggy," a track from [André Ethier](https://andreethier.bandcamp.com)'s gorgeous new slow-burner *Croak in the Weeds*. The above-mentioned Colin Medley also directed this one, with the titular amphibian animated by Seth Scriver.
 
 *Croak in the Weeds* is the second record in a planned trilogy from the wry [Deadly Snakes](https://en.wikipedia.org/wiki/The_Deadly_Snakes) frontman. It follows 2017's *Under Grape Leaves*, and like that album was produced in collaboration with producer [Sandro Perri](http://www.sandroperri.com/).
 

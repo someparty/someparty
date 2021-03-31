@@ -33,7 +33,7 @@ I've been running Toronto show photos by my friend [Stephen McGill](https://www.
 
 [Watch: Lido Pimineta - "La Capacidad" @ KCET](https://www.kcet.org/shows/border-blaster/lido-pimienta-la-capacidad?utm_source=twitter&utm_medium=social&utm_campaign=kcet "#")
 
-[Last week](2017-12-10-making-a-living.html) I featured the new full length from [André Ethier](https://www.telephoneexplosion.com/products/andre-ethier-under-grape-leaves-pre-order), *Under Grape Leaves*, which just came out on [Telephone Explosion](https://www.telephoneexplosion.com). The former Deadly Snake has now announced a record release show to celebrate the new set. It's slated for [January 19](https://www.facebook.com/events/149398725783996/) at the Baby G in Toronto.
+[Last week](2017-12-10-making-a-living.html) I featured the new full length from [André Ethier](https://andreethier.bandcamp.com), *Under Grape Leaves*, which just came out on [Telephone Explosion](https://www.telephoneexplosion.com). The former Deadly Snake has now announced a record release show to celebrate the new set. It's slated for [January 19](https://www.facebook.com/events/149398725783996/) at the Baby G in Toronto.
 
 Telephone Explosion also recently premiered a video for the song "Making a Living," directed by [Eva Michon](http://evamichon.com/). You can check it out below.
 
