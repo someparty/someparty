@@ -22,6 +22,7 @@ gem 'middleman-robots'
 gem 'middleman-search_engine_sitemap'
 gem 'nokogiri', '>= 1.11.0'
 gem 'redcarpet', '>= 3.5.1'
+gem "kramdown", ">= 2.3.1"
 
 # development
 gem 'rubocop'
