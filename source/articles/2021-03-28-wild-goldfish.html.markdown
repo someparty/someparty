@@ -8,7 +8,7 @@ description: Music and news from André Ethier, Autogramm, Béton Armé, Ultra R
 ###[André Ethier](https://andreethier.bandcamp.com): "Wild Goldfish"
 ==Preview and purchase at [Bandcamp](https://andreethier.bandcamp.com/track/wild-goldfish) - Watch on [YouTube](https://youtu.be/UFlL9x18buE)==
 
-I was a massive (if late-to-the-game) fan of the raucous Toronto garage rock group [The Deadly Snakes](https://en.wikipedia.org/wiki/The_Deadly_Snakes), and by extension, the sly folk career that frontman [André Ethier](https://andreethier.bandcamp.com) embarked upon in their wake. A few weeks ago, the artist unveiled a gorgeous new single - one which I quizzically neglected to say a single word on. I'm not particularly bothered that my support's a tad late - but I am concerned that I'm losing my mind to a psychosomatic fog of unnecessary NyQuil and generalized COVID worries. Let's see if I can recover, at least for the next few paragraphs.
+I was a massive (if late-to-the-game) fan of the raucous Toronto garage rock group [The Deadly Snakes](https://en.wikipedia.org/wiki/The_Deadly_Snakes), and by extension, the sly folk career that frontman [André Ethier](https://andreethier.bandcamp.com) embarked upon in their wake. A few weeks ago, the artist unveiled a gorgeous new single - one which I quizzically neglected to say a single word on. I'm not particularly bothered that my support's a tad late - but I am concerned that I'm losing my mind to a psychosomatic fog of unnecessary NyQuil and generalized COVID anxieties. Let's see if I can recover, at least for the next few paragraphs.
 
 This spring will see the arrival of *Further Up Island*, the conclusion to a three-album cycle that found Ethier in tight collaboration with producer and post-rock artist [Sandro Perri](http://www.sandroperri.com/). The new set closely follows the visual presentation of 2017's *Under Grape Leaves* and 2019's *Croak In The Weeds*, framing one of Ethier's nature-themed paintings in a solid colour (a bit of lavender - this time). The 10-year recording gap that preceded this cycle found the artist working primarily in the visual realm. I have to assume (as an uncultured townie) that the meditative qualities of painting must have informed the relaxed aesthetic of these records. In a press release, Ethier commented on the trilogy:
 
@@ -63,7 +63,7 @@ Filmmakers Ryan Al-Hage and Emma Cosgrove put the clip together. Look for Commut
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLXVogX9O3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Cheval](https://acadianembassy.bandcamp.com/album/makes-me-wanna-die-b-w-cool-when-yer-old): *Live at Ripken's Playhouse*
+###[Cheval](https://acadianembassy.bandcamp.com/album/makes-me-wanna-die-b-w-cool-when-yer-old): "Makes Me Wanna Die"
 ==Preview and purchase at [Bandcamp](https://acadianembassy.bandcamp.com/album/makes-me-wanna-die-b-w-cool-when-yer-old)==
 
 Genre-hopping songwriter [AA Wallace](https://aawallace.bandcamp.com/) recently resurrected his [Cheval](https://acadianembassy.bandcamp.com/album/makes-me-wanna-die-b-w-cool-when-yer-old) moniker after 18 years, with a new single out now and a full album in the cards. The revival kicks off with "Makes Me Wanna Die," a social media-critical single that reintroduces the alt-country/power-pop vibes Cheval first brought to the Halifax live music scene in the late 90s. The track's backed by a multilayered cover of "Cool When Yer Old," a song penned by fellow Acadian artist [P'tit Belliveau](https://ptitbelliveau.bandcamp.com/). The audio's available now from [Acadian Embassy](http://acadianembassy.com/).
@@ -94,7 +94,7 @@ Calgarian hard rock duo [Miesha & The Spanks](https://mieshathespanks.bandcamp.c
 >
 >But it isn't all skin deep. Being mixed isn't just about appearances and everyone's entitled opinion about them. My story follows where I came from and where I currently stand, distanced from family and culture and often pretty isolated because of it.
 >
->I was inspired to write 'Mixed Blood Girls' after attending my friend Smokii Sumac's book launch. A poet before them, Rain Prud'homme, read their poem, Mixedblood Girls, relating their experience as mixed Creole-Indigenous. I loved it. I wanted to be that brave and say my words, but it wasn't an easy thing to do. I had to dig deeper than my own story."
+>I was inspired to write 'Mixed Blood Girls' after attending my friend Smokii Sumac's book launch. A poet before them, Rain Prud'homme, read their poem, [Mixedblood Girls](http://anmly.org/ap30/queer-indigenous-30/rain-prudhomme/), relating their experience as mixed Creole-Indigenous. I loved it. I wanted to be that brave and say my words, but it wasn't an easy thing to do. I had to dig deeper than my own story."
 
 Miesha & The Spanks plays as a duo, pairing Louie with drummer Sean Hamilton. The band's *Singles* EP, the follow-up to 2018' s *Girls Girls Girls* record, is due April 16.
 
@@ -122,7 +122,7 @@ Bauxite features vocalist/bassist Michel Cantin, guitarist Yohan Paradis, and dr
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=984655488/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://pctmusique.bandcamp.com/album/plan-taire">Planétaire by Bauxite</a></iframe>
 
-###[BEDS](https://bedss.bandcamp.com/): "Colour Blue"
+###[BEDS](https://bedss.bandcamp.com/): "Colour Blue" (ft. Marciii and Bucky)
 ==Preview and purchase at [Bandcamp](https://bedss.bandcamp.com/track/colour-blue-feat-marciii-and-bucky)==
 
 The Toronto garage-soul combo [BEDS](https://bedss.bandcamp.com/) has a new single out, titled "Colour Blue." The slick one-off tune arrives via the [Rare Drugs](https://raredrugs.bandcamp.com) collective, showcasing a shuffling of that group's regulars in various roles. This track, co-written by Olivia Barrow, features vocals, synth, and guitar from Matt Buckberrough, drums and vocals from Alex Chin, guitar, synch and vocals from Chris Chin, Kuba Pie on bass, and additional vocals from Marta Ciko.
