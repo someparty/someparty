@@ -1,3 +1,4 @@
+<% premiere_active = false %>
 <!doctype html>
 <html>
   <head>
@@ -50,9 +51,7 @@
       <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW3JSMV" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
 
-    <% if !current_page.path.match(/^premieres/) %>
-      <%= partial '/_partials/premiere' %>
-    <% end %>
+    <%= partial '/_partials/premiere' if premiere_active && !current_page.path.match(/^premieres/) %>
 
     <header class="mb4 ph3 bg-black someparty-back cover">
       <div class="white tc pv4">

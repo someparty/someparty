@@ -113,7 +113,7 @@ The Holdouts will support Toronto's [The Anti-Queens](https://theanti-queens.ban
 
 Toronto's 90s alternative vibing [Maybe Kinda Sorta](https://maybekindasorta.bandcamp.com/) recently shared a new video for "Sit Around," a track from last fall's *Another EP*. Justis Krar's [IMMV Productions](https://www.immvproductions.com/) assembled the clip.
 
-Maybe Kinds Sorta is a songwriting project of Brent Fulop, the former drummer for the above-mentioned Welland punk group [The Snips](https://www.facebook.com/thesnipsmusic/). As with Fulop's other recordings under this name, this track was produced by [Mark Fosco](https://marvelousmark.bandcamp.com/) (Marvelous Mark of the Marvelous Darlings) at the Fuzz Co studio. A live version of the group just recently started playing shows around southern Ontario.
+Maybe Kinds Sorta is a songwriting project of Brent Fulop, the former drummer for the above-mentioned Welland punk group [The Snips](https://www.facebook.com/thesnipsmusic/). As with Fulop's other recordings under this name, this track was produced by [Mark Fosco](https://marvelousmark.bandcamp.com/) (Marvelous Mark of the [Marvelous Darlings](https://derangedrecords.bandcamp.com/album/single-life)) at the Fuzz Co studio. A live version of the group just recently started playing shows around southern Ontario.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/desJ23ZTazE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

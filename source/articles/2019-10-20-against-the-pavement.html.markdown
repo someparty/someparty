@@ -147,7 +147,7 @@ Basement Revolver recorded with producer Ian Gomes (Greys, Frigs, Odonis Odonis)
 
 Speaking of 90s vibes, there's a new single out from Toronto's [Maybe Kinda Sorta](https://maybekindasorta.bandcamp.com/), a preview of that project's forthcoming EP. "Sit Around" will appear on the matter-of-factly titled *Another EP*, which is due on Halloween.
 
-Maybe Kinds Sorta is the songwriting project of Brent Fulop, the former drummer for the now-defunct Welland, Ontario punk group [The Snips](https://www.facebook.com/thesnipsmusic/). As with Fulop's other recordings under this name, this track was produced by [Mark Fosco](https://marvelousmark.bandcamp.com/) (Marvelous Mark of the Marvelous Darlings) at the Fuzz Co studio.
+Maybe Kinds Sorta is the songwriting project of Brent Fulop, the former drummer for the now-defunct Welland, Ontario punk group [The Snips](https://www.facebook.com/thesnipsmusic/). As with Fulop's other recordings under this name, this track was produced by [Mark Fosco](https://marvelousmark.bandcamp.com/) (Marvelous Mark of the [Marvelous Darlings](https://derangedrecords.bandcamp.com/album/single-life)) at the Fuzz Co studio.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3510768418/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://maybekindasorta.bandcamp.com/track/sit-around">Sit Around by Maybe Kinda Sorta</a></iframe>
 
