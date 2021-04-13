@@ -63,7 +63,7 @@ If the song "Devices" sounds familiar to you, I showcased an earlier cut of it h
 
 Dundas, Ontario's [The Dirty Nil](https://thedirtynil.bandcamp.com/) are fast approaching the September 14 release of *Master Volume*, and they've shared another track to preview their sophomore effort. You can check out the song "I Don't Want That Phone Call" at [Kerrang](https://www.kerrang.com) now. Frontman Luke Bentham told the magazine:
 
-> "I’ve found subtlety to be a vastly overrated quality, best left to cardigan wearing jazz tooters. We here at The Dirty Nil prefer to espouse the truth in all its brash glory and ugliness. 'I Don’t Want That Phone Call' is a love letter to any individual struggling with substances of self destruction. You’re not alone, there’s help out there, friends."
+> "I've found subtlety to be a vastly overrated quality, best left to cardigan wearing jazz tooters. We here at The Dirty Nil prefer to espouse the truth in all its brash glory and ugliness. 'I Don't Want That Phone Call' is a love letter to any individual struggling with substances of self destruction. You're not alone, there's help out there, friends."
 
 *Master Volume* will mark the band's second LP of new material for [Dine Alone Records](http://dinealonerecords.com/), following 2016's *Higher Power* and the early singles collection *Minimum R&B*.
 
