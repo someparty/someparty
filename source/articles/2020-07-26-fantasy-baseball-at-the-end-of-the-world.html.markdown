@@ -47,7 +47,7 @@ The group ties a bow around the whole notion by providing Post-Trash with a play
 
 [Watch: Tough Age - "Penny Current Suppression Ring" @ YouTube](https://youtu.be/SUmvl4FtDL0 "#")
 
-[Industrial Priest Overcoats](https://codyellen.bandcamp.com/), the askew-punk solo project from Secwépemc artist TJ Felix, recently released "Trauma, Trauma, Traumatized." It's the second single from the Vancouver-based project's upcoming LP *Transformer Story*. The song follows "The Covenant House Kidz Reunion" from June.
+[Industrial Priest Overcoats](https://tjfelix.bandcamp.com), the askew-punk solo project from Secwépemc artist TJ Felix, recently released "Trauma, Trauma, Traumatized." It's the second single from the Vancouver-based project's upcoming LP *Transformer Story*. The song follows "The Covenant House Kidz Reunion" from June.
 
 When it arrives, *Transformer Story* will follow 2019's full-length *The Years Barely Left a Trace*. Earlier this year TJ's wonderfully weird and nervously frantic punk group [Bedwetters Anonymous](https://bedwettersanonymous.bandcamp.com/) released the EP *Framed*.
 

@@ -29,7 +29,7 @@ Vancouver punk act [Bedwetters Anonymous](https://bedwettersanonymous.bandcamp.c
 
 With the *Discomfort* redux now out in the wild, the group's looking ahead to their next release, an EP titled *Framed*. While there's no word yet when it will see the light of day, the band has shared a single along with the cover art. You can listen to "Keep Six" now at Bandcamp. Bedwetters recorded the new material at Vancouver's Red Gate, with Jordan Koop (Dumb, The Courtneys) mastering.
 
-Bedwetters Anonymous features members from [Industrial Priest Overcoats](https://codyellen.bandcamp.com/), [Puzzlehead](https://deathtopuzzlehead.bandcamp.com/), and [Tough Customer](https://actualtoughcustomer.bandcamp.com/).
+Bedwetters Anonymous features members from [Industrial Priest Overcoats](https://tjfelix.bandcamp.com), [Puzzlehead](https://deathtopuzzlehead.bandcamp.com/), and [Tough Customer](https://actualtoughcustomer.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3623270876/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://bedwettersanonymous.bandcamp.com/track/keep-six">Keep Six by Bedwetters Anonymous</a></iframe>
 

@@ -61,7 +61,7 @@ Frenetic Vancouver punk act [Bedwetters Anonymous](https://bedwettersanonymous.b
 
 >"Bedwetters Anonymous dropped a cassette off for review at [Neptoon Records](http://neptoon.com/) awhile ago which knocked my socks off. To me, it was a more-garage Deadbeats or an updated Urinals. It is classic sounding and fresh at the same time. Not so loose to be off-the-rails but riding that simple line that only comes naturally to the best punk bands. We've had the best five tracks from that demo remastered by Jordan at Noise Floor for vinyl and are pressing 200 copies at Clampdown Record Pressing."
 
-A three-piece, Bedwetters Anonymous features members of [Industrial Priest Overcoats](https://codyellen.bandcamp.com/), [Puzzlehead](https://deathtopuzzlehead.bandcamp.com/), and [Tough Customer](https://actualtoughcustomer.bandcamp.com/).
+A three-piece, Bedwetters Anonymous features members of [Industrial Priest Overcoats](https://tjfelix.bandcamp.com), [Puzzlehead](https://deathtopuzzlehead.bandcamp.com/), and [Tough Customer](https://actualtoughcustomer.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=951753772/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://neontasterecords.bandcamp.com/album/bedwetters-anonymous-have-you-experienced-discomfort">Bedwetters Anonymous - Have You Experienced Discomfort? by Neon Taste Records</a></iframe>
 

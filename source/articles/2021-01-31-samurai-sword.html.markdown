@@ -91,7 +91,7 @@ Aggressively staking the band's claim to Toronto's punk crown, *The Ends* arrive
 ###[Industrial Priest Overcoats](https://kingkhanmusic.com/): "Starving Pitbull on a Short Chain"
 ==Preview and purchase at [Bandcamp](https://codyellen.bandcamp.com/track/starving-pitbull-on-a-short-chain)==
 
-Vancouver's angular, trauma-wrestling [Industrial Priest Overcoats](https://codyellen.bandcamp.com/) kicked off 2021 with several new songs, most recently issuing the high-strung post-punk tune "Starving Pitbull on a Short Chain." It follows a pair of tracks from New Years Day ("I Used To Pick Berries Here With My Mom" and "I Wanna Go Home (I Wanna Go To The Red Zone)"). The weird-punk group's helmed by Secwépemc artist TJ Felix, also of the frantic BC punks [Bedwetters Anonymous](https://bedwettersanonymous.bandcamp.com/).
+Vancouver's angular, trauma-wrestling [Industrial Priest Overcoats](https://tjfelix.bandcamp.com) kicked off 2021 with several new songs, most recently issuing the high-strung post-punk tune "Starving Pitbull on a Short Chain." It follows a pair of tracks from New Years Day ("I Used To Pick Berries Here With My Mom" and "I Wanna Go Home (I Wanna Go To The Red Zone)"). The weird-punk group's helmed by Secwépemc artist TJ Felix, also of the frantic BC punks [Bedwetters Anonymous](https://bedwettersanonymous.bandcamp.com/).
 
 Felix earlier alluded to an upcoming LP titled *Transformer Story*, so I'd assume at least some of this new material will land there. When that record arrives, it'll serve as the follow-up to 2019's *The Years Barely Left a Trace*.
 

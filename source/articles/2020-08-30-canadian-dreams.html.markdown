@@ -65,7 +65,7 @@ Nap Eyes was on tour supporting the then-recently-released *Snapshot* when the w
 
 [Listen: Nap Eyes - "Snake Oil" / "Child's Romance" @ Bandcamp](https://napeyes.bandcamp.com/album/snake-oil-childs-romance "#")
 
-Vancouver's [Industrial Priest Overcoats](https://codyellen.bandcamp.com/) have a third single online from their upcoming LP *Transformer Story*. You can check out the angular and abbreviated "Just a Two-Legged" at Bandcamp now. It follows "Trauma, Trauma, Traumatized" and "The Covenant House Kidz Reunion" in previewing the record.
+Vancouver's [Industrial Priest Overcoats](https://tjfelix.bandcamp.com) have a third single online from their upcoming LP *Transformer Story*. You can check out the angular and abbreviated "Just a Two-Legged" at Bandcamp now. It follows "Trauma, Trauma, Traumatized" and "The Covenant House Kidz Reunion" in previewing the record.
 
 Industrial Priest Overcoats are the ongoing solo project of Secwépemc artist TJ Felix. It'll follow 2019's full-length *The Years Barely Left a Trace*.
 
