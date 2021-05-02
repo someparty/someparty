@@ -83,7 +83,7 @@ Nerve Button features Mike Melanson (aka Batman), Ray Auffrey, and Claude Doiron
 
 [Listen: Nerve Button - *Volume 2* @ Bandcamp](https://wandarecords.bandcamp.com/album/volume-2 "#")
 
-This October brings the debut release from the whip-fast Halifax hardcore group [Misanthropic Minds](https://misanthropicmutantmusic.bandcamp.com/). Titled *Welcome To The Homeland, Greetings From The Wasteland*, the five-song EP arrives October 20 via [Sewercide Records](http://sewerciderecords.blogspot.com/).
+This October brings the debut release from the whip-fast Halifax hardcore group [Misanthropic Minds](https://misanthropicmutantmusic.bandcamp.com/). Titled *Welcome To The Homeland, Greetings From The Wasteland*, the five-song EP arrives October 20 via [Sewercide Records](http://sewerciderecords.limitedrun.com/).
 
 Misanthropic Minds features Cody Googoo of the [Booji Boys](https://boojiboysfuneral.bandcamp.com/) and his [Alienation](https://alienation902.bandcamp.com/) bandmate Dave Brown. If you recall Alienation's absolutely killer *Bitter Reality* EP from 2018, this is very much in a similar vein of buzzsaw guitars and raw-throated vocals. Not to be played near anything painted, as that paint will most assuredly peel.
 

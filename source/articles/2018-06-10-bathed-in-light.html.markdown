@@ -55,7 +55,7 @@ In recent times Craig's performed and recorded with Jennifer Castle, the Cosmic 
 
 [Listen: Isla Craig - "Love Song" @ SoundCloud](https://soundcloud.com/pleasence-records/isla-craig-the-becoming-04 "#")
 
-I missed this when it was originally announced, but Halifax's [Booji Boys](https://boojiboysfuneral.bandcamp.com/) (one of the best punk bands in Canada) are set to release a 7" EP sometime this year on [Sewercide Records](http://sewerciderecords.blogspot.com/) titled *Unknown Pleathers*. This will be a one-time pressing of 300 copies whenever it comes out. It follows up the band's two 2017 Drunken Sailor full-lengths (the latest, *Weekend Rocker*, arrived on Christmas day) as well as the *Sweet Boy* EP that Cruel Noise Records released in-between those.
+I missed this when it was originally announced, but Halifax's [Booji Boys](https://boojiboysfuneral.bandcamp.com/) (one of the best punk bands in Canada) are set to release a 7" EP sometime this year on [Sewercide Records](http://sewerciderecords.limitedrun.com/) titled *Unknown Pleathers*. This will be a one-time pressing of 300 copies whenever it comes out. It follows up the band's two 2017 Drunken Sailor full-lengths (the latest, *Weekend Rocker*, arrived on Christmas day) as well as the *Sweet Boy* EP that Cruel Noise Records released in-between those.
 
 Booji Boys were peddling a cassette a little while ago which previews a pair of songs from the EP. The *Sackville Tape* features the new track "I Wanna Be So Good" and a cover of "This is Rock 'n' Roll" originally by first-wave Belgian punk band The Kids.
 

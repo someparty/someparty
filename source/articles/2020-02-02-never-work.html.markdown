@@ -56,7 +56,7 @@ You can dive into the [full narrative](http://ideefixerecords.com/if024.html) at
 
 [Listen: ROY - "Is It You (Sky Brother)" @ Bandcamp](http://thesoundofroy.bandcamp.com/album/peace-love-and-outer-space "#")
 
-[Sewercide Records](http://sewerciderecords.blogspot.com/) recently released *Serial Mass Destruction*, the new EP from Halifax D-beat hardcore group [Fragment](https://fragmentpunk.bandcamp.com). The group features bassist Cody Googoo and guitarist Steve Earle of the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), [Unreal Thought](https://unrealthought.bandcamp.com/)'s Ben Radford on drums, and vocals from Mark Hughes. The band recorded the five-song/seven-minute set last summer with Luke Mumford of [Negative Rage](https://negativerage.bandcamp.com/) engineering.
+[Sewercide Records](http://sewerciderecords.limitedrun.com/) recently released *Serial Mass Destruction*, the new EP from Halifax D-beat hardcore group [Fragment](https://fragmentpunk.bandcamp.com). The group features bassist Cody Googoo and guitarist Steve Earle of the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), [Unreal Thought](https://unrealthought.bandcamp.com/)'s Ben Radford on drums, and vocals from Mark Hughes. The band recorded the five-song/seven-minute set last summer with Luke Mumford of [Negative Rage](https://negativerage.bandcamp.com/) engineering.
 
 The brisk, brutal collection follows Fragment's 2017 LP *In The Dust* (all 12 minutes thereof).
 

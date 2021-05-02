@@ -15,7 +15,7 @@ It feels like I've been waiting months to finally hear something from [Condition
 
 Halifax low-fi punks [Booji Boys](https://boojiboysfuneral.bandcamp.com/) recently released a pair of remixes, each offering a new take on the title track from their 2019 LP *Tube Reducer*. Denoted as the "Cody Mix" and the "Lounge Mix," one DJ Nikrem (who otherwise pretty much doesn't exist on the Internet) is credited with both takes. The "Lounge Mix" is pretty languid, by Booji standards or otherwise, and recasts the song in a sinister swampy murk. You can snag both tracks at [Bandcamp](https://boojiboysfuneral.bandcamp.com/) now.
 
-Booji Boys are currently working on their fourth LP, and also have a song slated for inclusion on the upcoming [Sewercide Records](http://sewerciderecords.blogspot.com/) 7" of East Coast Canadian punk and hardcore. I fully expect Booji guitarist Cody Googoo, and quite likely other members of the collective, to be all over the record. [Misanthropic Minds](https://misanthropicmutantmusic.bandcamp.com/), his duo with [Alienation](https://alienation902.bandcamp.com/)'s Dave Brown, previewed their contribution to it a few weeks back.
+Booji Boys are currently working on their fourth LP, and also have a song slated for inclusion on the upcoming [Sewercide Records](http://sewerciderecords.limitedrun.com/) 7" of East Coast Canadian punk and hardcore. I fully expect Booji guitarist Cody Googoo, and quite likely other members of the collective, to be all over the record. [Misanthropic Minds](https://misanthropicmutantmusic.bandcamp.com/), his duo with [Alienation](https://alienation902.bandcamp.com/)'s Dave Brown, previewed their contribution to it a few weeks back.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3508473970/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://boojiboysfuneral.bandcamp.com/album/tube-remixes">Tube Remixes by Booji Boys</a></iframe>
 
@@ -31,7 +31,7 @@ With that all said, drop everything and go listen to the glorious "Out for a Rip
 
 [Listen: The World Health Organization - "Out For a Rip" @ Bandcamp](http://theworldhealthorganization.bandcamp.com/album/ii "#")
 
-Speaking of [Fragment](https://fragmentpunk.bandcamp.com), the Halifax D-beat hardcore group has a new EP on the way via [Sewercide Records](http://sewerciderecords.blogspot.com/) titled *Serial Mass Destruction*. The label commented:
+Speaking of [Fragment](https://fragmentpunk.bandcamp.com), the Halifax D-beat hardcore group has a new EP on the way via [Sewercide Records](http://sewerciderecords.limitedrun.com/) titled *Serial Mass Destruction*. The label commented:
 
 > "It's been cool watching these guys rip it up and grow as a band from the beginning and even though I loved their 12" from 2017, these new tracks are by far my favourite thing I've heard from them yet. Blown out and raw punk that checks all the boxes for Scandinavian and Japanese influences as well as a tip of the cap to late 80's uk stuff like Napalm Death, Bolt Thrower and Concrete Sox. A one time pressing of 300 copies, get stoked."
 

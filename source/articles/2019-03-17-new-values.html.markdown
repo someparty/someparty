@@ -67,7 +67,7 @@ If you haven't checked out Isölation Party's lovely new garage punk/power-pop L
 
 I don't have any audio from these new next few stories, but you should take note of these upcoming releases.
 
-Firstly [Sewercide Records](http://sewerciderecords.blogspot.com/) is preparing a limited cassette release from [B.P.S.](https://brainpollutionsyndrome.bandcamp.com), a new Halifax punk band that features members from the same DIY scene that birthed the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), [Fragment](https://fragmentpunk.bandcamp.com), [Alienation](https://alienation902.bandcamp.com/), and [Wax](https://wax902.bandcamp.com). The label hasn't shared a song yet, but they comment that it's "for fans of all things fast and chaotic" and warn "those hoping for some type of tuneful 'music' prepare to be disappointed."
+Firstly [Sewercide Records](http://sewerciderecords.limitedrun.com/) is preparing a limited cassette release from [B.P.S.](https://brainpollutionsyndrome.bandcamp.com), a new Halifax punk band that features members from the same DIY scene that birthed the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), [Fragment](https://fragmentpunk.bandcamp.com), [Alienation](https://alienation902.bandcamp.com/), and [Wax](https://wax902.bandcamp.com). The label hasn't shared a song yet, but they comment that it's "for fans of all things fast and chaotic" and warn "those hoping for some type of tuneful 'music' prepare to be disappointed."
 
 I'm pretty excited about this, as the bands that frequently form out of this peer group have consistently churned out some of the best punk and hardcore in the country.
 

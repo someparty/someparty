@@ -31,7 +31,7 @@ Last year the Toronto and Sackville-based artist released the *Dark Blue* LP thr
 
 [Listen: Steven Lambke - *dub.tape* @ Bandcamp](https://stevenlambke.bandcamp.com/album/dub-tape "#")
 
-Charlottetown's [Warsh](http://warsh.bandcamp.com) surprised with a new scorching EP four-track EP last week. The barely six-minute *E.P. II* comes on the heels of the band's appearance on [Sewercide](http://sewerciderecords.blogspot.com/)'s recent *Seaside Sickness* compilation, a landmark showcase for similarly loud and low-fi Maritime punk groups. Keep an eye on [High Trash Media](https://www.facebook.com/hightrashmedia/) for a cassette release of *E.P. II* soon.
+Charlottetown's [Warsh](http://warsh.bandcamp.com) surprised with a new scorching EP four-track EP last week. The barely six-minute *E.P. II* comes on the heels of the band's appearance on [Sewercide](http://sewerciderecords.limitedrun.com/)'s recent *Seaside Sickness* compilation, a landmark showcase for similarly loud and low-fi Maritime punk groups. Keep an eye on [High Trash Media](https://www.facebook.com/hightrashmedia/) for a cassette release of *E.P. II* soon.
 
 As the name indicates, this is the second short-form Warsh release, following the band's 2019 debut *Burning Urge*. The PEI group features vocalist Sophia Tweel, guitarist Teajay Doyle, bassist Rosanna Kressin, and drummer Brett Sanderson.
 
