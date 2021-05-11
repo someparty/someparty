@@ -83,7 +83,7 @@ That said, it's sponsor time! Among their upcoming [US tour dates](https://www.f
 
 [Watch: The New Pornographers - "Falling Down The Stairs of Your Smile" @ YouTube](https://youtu.be/RyHg2kPY5xA "#")
 
-Speaking of Black Forest bands, there's a new single online from Burlington power-pop/melodic-punk trio [The Penske File](https://thepenskefileband.bandcamp.com/). "Copper Sky" is the first new song from the group since their polished 2018 [Stomp](http://www.stomprecords.com/) full-length *Salvation*, and whether it's a one-off or destined for the follow-up is anyone's guess.
+Speaking of Black Forest bands, there's a new single online from Burlington power-pop/melodic-punk trio [The Penske File](https://thepenskefileband.bandcamp.com/). "Copper Sky" is the first new song from the group since their polished 2018 [Stomp](https://stomprecords.com/) full-length *Salvation*, and whether it's a one-off or destined for the follow-up is anyone's guess.
 
 The Penske File features guitarist/vocalist Travis Miles, drummer Alex Standen, and bassist James Hall. On Oktoberfest weekend the band will play the Black Forest Stage on Saturday evening. The group has further fall festival appearances slated for Brantford, Ontario's [Blackout Fest](https://www.facebook.com/blackoutfestbrantford/) on October 18, as well as the Fest in Gainesville, Florida on November 2.
 

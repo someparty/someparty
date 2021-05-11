@@ -81,7 +81,7 @@ Toronto punk trio [Talk Show Host](http://www.talkshowhost.ca/) recently release
 
 [Watch: Talk Show Host - "I Hate Men (I Hate All Men)" @ YouTube](https://www.youtube.com/watch?v=-A_wNi0mhPk&feature=youtu.be "#")
 
-[Punknews](https://www.punknews.org/article/66258/exclusivevideos-the-penske-file-kamikaze-kids) recently premiered a video for "Kamikaze Kids," the first single from [The Penske File](https://thepenskefileband.bandcamp.com/)' upcoming full-length *Salvation*. The anthemic Burlington, Ontario punk trio worked with Steve Rizun at Drive Studios on the new record. Expect it on Montreal's [Stomp Records](http://www.stomprecords.com/) on April 6.
+[Punknews](https://www.punknews.org/article/66258/exclusivevideos-the-penske-file-kamikaze-kids) recently premiered a video for "Kamikaze Kids," the first single from [The Penske File](https://thepenskefileband.bandcamp.com/)' upcoming full-length *Salvation*. The anthemic Burlington, Ontario punk trio worked with Steve Rizun at Drive Studios on the new record. Expect it on Montreal's [Stomp Records](https://stomprecords.com/) on April 6.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D_d46OfF4jg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

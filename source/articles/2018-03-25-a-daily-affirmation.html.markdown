@@ -59,7 +59,7 @@ The Allovers have been together since 2011, and features guitarist Matt Pahl, ba
 
 We're fast approaching the release of [The Penske File](https://thepenskefileband.bandcamp.com/)'s *Salvation* LP, and the Burlington, Ontario trio shared another new song last week. "Last Chance" is a fun little track that pairs propulsive punk'n'roll verses (it's almost a boogie) with a soaring 90s pop-punk chorus.
 
-The band recorded with Steve Rizun at Drive Studios. *Salvation* will arrive via [Stomp Records](http://www.stomprecords.com/) April 6. A record release show will go down this [Friday](https://www.facebook.com/events/555614514799421/) at the Rivoli in Toronto with Knifey and Dead Broke supporting.
+The band recorded with Steve Rizun at Drive Studios. *Salvation* will arrive via [Stomp Records](https://stomprecords.com/) April 6. A record release show will go down this [Friday](https://www.facebook.com/events/555614514799421/) at the Rivoli in Toronto with Knifey and Dead Broke supporting.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1547007580/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3296558169/transparent=true/" seamless><a href="http://thepenskefileband.bandcamp.com/album/salvation">Salvation by The Penske File</a></iframe>
 

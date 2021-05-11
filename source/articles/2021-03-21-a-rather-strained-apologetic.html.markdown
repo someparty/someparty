@@ -147,7 +147,7 @@ Huron Lines features Mueller with guitarist Grainger Harris, bassist/vocalist RJ
 ###[The Peelers](https://the-peelers.bandcamp.com): "Glad to See the Back of You"
 ==Watch at [YouTube](https://youtu.be/3H7ZRjmUoj8) - Preview and purchase at [Bandcamp](https://the-peelers.bandcamp.com/track/glad-to-see-the-back-of-you)==
 
-Montreal-based Celtic punk outfit [The Peelers](https://the-peelers.bandcamp.com) made the best of an understandably low-key St. Patrick's Day with the release of a video showcasing "Glad to See the Back of You." The track comes from the group's recent [Stomp Records](http://www.stomprecords.com/) full-length *Down & Out In The City Of Saints*. You can raise a glass with it on YouTube now.
+Montreal-based Celtic punk outfit [The Peelers](https://the-peelers.bandcamp.com) made the best of an understandably low-key St. Patrick's Day with the release of a video showcasing "Glad to See the Back of You." The track comes from the group's recent [Stomp Records](https://stomprecords.com/) full-length *Down & Out In The City Of Saints*. You can raise a glass with it on YouTube now.
 
 The group recorded *Down and Out* in Montreal, Vancouver, and Dundee, Scotland between December 2019 and June of 2020. It's the band's second full-length since their 2017 reunion record *Palace of the Fiend* (an album that marked their return from a 13-year hiatus). The Peelers originally surfaced in the eastern Ontario township of North Glengarry in 1999.
 
@@ -174,7 +174,7 @@ Moncton, New Brunswick's [Zero Zero UFO](https://zerozeroufo.bandcamp.com) charg
 ###[Rules](https://rulesareaband.bandcamp.com/): "Victims"
 ==Watch at [YouTube](https://youtu.be/1ekK5Pcj8-g) - Preview and purchase at [Bandcamp](https://rulesareaband.bandcamp.com/track/victims)==
 
-Hamilton psych-punk supergroup [Rules](https://rulesareaband.bandcamp.com/) has a new video online featuring the track "Victims," a fuzzy scorcher from their recent debut full-length *The Bummer Circus Comes To Truth City*. It's the album's second single following "Burning Bridges." The aforementioned [Stomp](http://www.stomprecords.com/) (who are all over this week's newsletter) issued the record earlier this month.
+Hamilton psych-punk supergroup [Rules](https://rulesareaband.bandcamp.com/) has a new video online featuring the track "Victims," a fuzzy scorcher from their recent debut full-length *The Bummer Circus Comes To Truth City*. It's the album's second single following "Burning Bridges." The aforementioned [Stomp](https://stomprecords.com/) (who are all over this week's newsletter) issued the record earlier this month.
 
 Rules worked with producer Roman Marcone on the 14-song record. The band features [Chuck Coles](https://chuckcoles.bandcamp.com/) ([The Creepshow](https://www.facebook.com/TheCreepshowOfficial/), Organ Thieves), Ben Rispin ([Saint Alvia](https://www.facebook.com/saintalvia/), The Video Dead), Adam Michael ([Say Yes](https://www.facebook.com/sayyesofficial), Walk Off The Earth) and Alex Standen ([The Penske File](https://thepenskefileband.bandcamp.com/)).
 

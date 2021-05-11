@@ -140,7 +140,7 @@ Knifey was formed in 2016 by Phil Linton and Max Trinz.
 
 [Watch: Knifey - "Shallow" @ YouTube](https://youtu.be/r9RfV9os6_I "#")
 
-Montreal ska-punk institution [The Planet Smashers](https://www.facebook.com/ThePlanetSmashers) have a video online for the title track to their upcoming record *Too Much Information*. The long-running third-wave ska band will release the 14-song collection, their ninth, on Friday through [Stomp Records](http://www.stomprecords.com/).
+Montreal ska-punk institution [The Planet Smashers](https://www.facebook.com/ThePlanetSmashers) have a video online for the title track to their upcoming record *Too Much Information*. The long-running third-wave ska band will release the 14-song collection, their ninth, on Friday through [Stomp Records](https://stomprecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C2Njx45DdkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

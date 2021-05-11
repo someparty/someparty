@@ -25,7 +25,7 @@ The era of Status/Non-Status begins with a new five-song EP titled *1, 2, 3, 4, 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c5Iruw5IZU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Talk Show Host](http://www.talkshowhost.ca/): "Crisis Actors"
-==Preview and purchase at [Bandcamp](https://welovetalkshowhost.bandcamp.com/) - Watch on [YouTube](https://youtu.be/6o6pwvUd-gA)==
+==Watch on [YouTube](https://youtu.be/6o6pwvUd-gA) - Preview and purchase at [Bandcamp](https://welovetalkshowhost.bandcamp.com/track/crisis-actors)==
 
 Not to brag, but in the pre-Internet days, I was the type of teenage nerd who ran a dial-up bulletin board system from a 386 in my parents' basement. I made ANSI art in TheDraw while the rest of my peers were going to parties. So wearing my l33t *sysop* hat, I have a particular affection for the DOS vibes that kick off [Talk Show Host](http://www.talkshowhost.ca/)'s video for their new single "Crisis Actors." Your mileage may vary, but the nostalgic kick I get from this is absolutely wild. The piece is propelled along not just by the confrontational pop-punk tune but through some wonderfully clever editing as the video tears through the early Internet to emerge in the social media era.
 

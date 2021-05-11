@@ -25,7 +25,7 @@ Mobina Galore's slated to headline the Black Forest stage on the Saturday night 
 
 [Watch: Mobina Galore - "Escape Plan" @ YouTube](https://youtu.be/hZuJq_y2BtU "#")
 
-Edmonton punk group [Real Sickies](https://realsickies.bandcamp.com/)  previewed their upcoming [Stomp Records](http://www.stomprecords.com/) debut with the new single "Forgot to Let Go." A blast of unabashed Ramones worship, the song will appear on the band's upcoming sophomore LP *Out of Space*. That 13-song set is due August 30. Rob Lawless produced the new record at the Physics Lab in Edmonton, with Terry Paholek mixing and mastering.
+Edmonton punk group [Real Sickies](https://realsickies.bandcamp.com/)  previewed their upcoming [Stomp Records](https://stomprecords.com/) debut with the new single "Forgot to Let Go." A blast of unabashed Ramones worship, the song will appear on the band's upcoming sophomore LP *Out of Space*. That 13-song set is due August 30. Rob Lawless produced the new record at the Physics Lab in Edmonton, with Terry Paholek mixing and mastering.
 
 The group, which features ex-members of the late-90s/early-2000s street punk group [Wednesday Night Heroes](https://en.wikipedia.org/wiki/Wednesday_Night_Heroes), last released *Get Well Soon* in 2018. Real Sickies are fronted by Ben Disaster, who's done a ton of work boosting the Canadian punk scene through his [This Is Pop](https://www.facebook.com/thisispop780/) radio show on [CJSR](https://www.cjsr.com), along with the offshoot music festival and record label.
 

@@ -72,7 +72,7 @@ George Pettit formed dead Tired following the (initial) disillusion of the St. C
 
 [Watch: Dead Tired - "White Caps" @ YouTube](https://youtu.be/KX3_Zmux3dU "#")
 
-Toronto punk/hard rock act [The Anti-Queens](https://theanti-queens.bandcamp.com/) have a new video online for the song "Leave Me Out." The track is one of 11 to appear on their recent self-titled [Stomp Records](http://www.stomprecords.com/) debut. In the premiere at [New Noise](https://newnoisemagazine.com/video-premiere-the-anti-queens-leave-me-out/), the band commented:
+Toronto punk/hard rock act [The Anti-Queens](https://theanti-queens.bandcamp.com/) have a new video online for the song "Leave Me Out." The track is one of 11 to appear on their recent self-titled [Stomp Records](https://stomprecords.com/) debut. In the premiere at [New Noise](https://newnoisemagazine.com/video-premiere-the-anti-queens-leave-me-out/), the band commented:
 
 > "We filmed this over one day in a field north of Uxbridge, ON. We wanted to visually capture the vastness that comes with feeling alone or left out, to be surrounded by so much life yet feel so alone. It's a moody visual to go with a moody song, and we're really happy with how it turned out."
 

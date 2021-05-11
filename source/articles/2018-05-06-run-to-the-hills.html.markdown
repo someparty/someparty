@@ -27,7 +27,7 @@ I'm a fan of this direction. WHIMM's debut was often emotionally raw and tightly
 
 [Listen: WHIMM - "Not My Kind" @ SoundCloud](https://soundcloud.com/pleasence-records/1-not-my-kind "#")
 
-This Friday saw the arrival of *Knives*, the new full-length from Edmonton's gruff folk-punk act [Fire Next Time](https://firenexttime.bandcamp.com/). [Stomp Records](http://www.stomprecords.com/) handled the release, which follows up the band's 2015 record *Cold Hands*. The five-piece, who've been around for a decade, has shared the stage with bands like Good Riddance, Murder by Death, and Off With Their Heads in recent years. Vancouver singer [Jody Glenham](https://jodyglenham.bandcamp.com/) makes an appearance on the new record as well, performing on the track "Old Scratch."
+This Friday saw the arrival of *Knives*, the new full-length from Edmonton's gruff folk-punk act [Fire Next Time](https://firenexttime.bandcamp.com/). [Stomp Records](https://stomprecords.com/) handled the release, which follows up the band's 2015 record *Cold Hands*. The five-piece, who've been around for a decade, has shared the stage with bands like Good Riddance, Murder by Death, and Off With Their Heads in recent years. Vancouver singer [Jody Glenham](https://jodyglenham.bandcamp.com/) makes an appearance on the new record as well, performing on the track "Old Scratch."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZcKgn8iaC5Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

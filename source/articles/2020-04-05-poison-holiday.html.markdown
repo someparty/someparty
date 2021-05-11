@@ -7,7 +7,7 @@ description: More music in isolation from Real Sickies, Matt Ellis, Chris Page, 
 
 Last Friday, the Edmonton punk group [Real Sickies](https://realsickies.bandcamp.com/) made good on their promise and unleashed *Quarantined*, a full-length written, recorded, and mixed in the seven days prior (and without the socially distancing band members leaving their respective homes). The final product clocks in at 10 tracks, with all proceeds from digital sales destined for the WHO's COVID-19 Response Fund. You can snag a copy now at [Bandcamp](https://realsickies.bandcamp.com/).
 
-The group last released *Out of Space*, their debut for Montreal's long-running [Stomp Records](http://www.stomprecords.com/), in 2019. A supporting tour alongside the Real McKenzies was iced when the pandemic broke.
+The group last released *Out of Space*, their debut for Montreal's long-running [Stomp Records](https://stomprecords.com/), in 2019. A supporting tour alongside the Real McKenzies was iced when the pandemic broke.
 
 Real Sickies are a pop-punk group in the grand tradition of Teenage Head and the Ramones, Vocalist Ben Disaster, well-known for his [This Is Pop](https://www.facebook.com/thisispop780/) radio show on [CJSR](https://www.cjsr.com), is backed in the Sickies by bassist Alex Mckie, guitarist Evan Hughes, organist Eric Budd, and drummer Rob Lawless.
 

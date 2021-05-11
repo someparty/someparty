@@ -27,7 +27,7 @@ Paradise features members from several current and defunct Alberta punk groups: 
 
 [Watch: Paradise - "Flickering" @ YouTube](https://youtu.be/ZhAQB4AtJik "#")
 
-Toronto's high strung punk group [Bike Thiefs](http://www.bikethiefsband.ca/) has signed with the long-running [Stomp Records](http://www.stomprecords.com/) to release their upcoming LP *Leaking*. The venerable Montreal label will release the band's new set on October 30. You can find the single "You're Allowed Your Feelings" streaming online now. The band's wry and well-received 2019 single "Hockey Dad" serves as the opening salvo on the 10-song album.
+Toronto's high strung punk group [Bike Thiefs](http://www.bikethiefsband.ca/) has signed with the long-running [Stomp Records](https://stomprecords.com/) to release their upcoming LP *Leaking*. The venerable Montreal label will release the band's new set on October 30. You can find the single "You're Allowed Your Feelings" streaming online now. The band's wry and well-received 2019 single "Hockey Dad" serves as the opening salvo on the 10-song album.
 
 Bike Thiefs features bassist Kris Pandierada, drummer Andrew Fasken, and guitarist/vocalist Marko Woloshyn. The band recorded with [Beliefs](http://beliefsmusic.com/)' Josh Korody (Dirty Nil, Weaves, Dilly Dally) at Candle Recordings in Toronto. The new set follows their *Lean Into It* EP from 2017.
 

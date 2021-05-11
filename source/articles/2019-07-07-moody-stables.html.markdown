@@ -71,7 +71,7 @@ After fronting the post-punk/low-fi pop bands [Moss Lime](https://mosslimer.band
 
 Speaking to [Exclaim](https://exclaim.ca/music/article/montreals_h_l_ne_barbier_premieres_new_album_have_you_met_elliott), where you can now stream the record in its entirety, Barbier commented on her recording process:
 
->​"I got a soundcard from my friends and started recording songs at home alone, thinking about the childish behaviours we sometimes hold onto as adults. The songs started turning into an album, and I got the opportunity to record with Peter Woodford again. *Have you met Elliott?* is a reminder that, as my friend's sister once told them when they were a child, 'You can't just cry to have candies.'"
+>"I got a soundcard from my friends and started recording songs at home alone, thinking about the childish behaviours we sometimes hold onto as adults. The songs started turning into an album, and I got the opportunity to record with Peter Woodford again. *Have you met Elliott?* is a reminder that, as my friend's sister once told them when they were a child, 'You can't just cry to have candies.'"
 
 *Have you met Elliott?* was recorded to tape at the Bottle Garden (Tough Age, Bleu Nuit) and mixed at Value Sound. The album features Barbier on guitar, bass, organ, and vocals, with Christian Simmons on drums. In the studio they brought in guitarists Joe Chamandy, Emma Coldwell, and Matt Robidoux, with Elise Paradis appearing on violin. While Michel's handling the Canadian release, the new album will arrive on Emotional Response in the U.S. and Caballito Records in Europe.
 

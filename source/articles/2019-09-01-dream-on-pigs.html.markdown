@@ -122,7 +122,7 @@ Williams comments that the film, in its completed form, should be available in t
 
 [Watch: Chastity - "Flames" @ YouTube](https://youtu.be/L0fU9sHycvs "#")
 
-Toronto punk/hard rock act [The Anti-Queens](https://theanti-queens.bandcamp.com/) have a new video online featuring their single "Worse Than Death." The song's slated to appear on the band's 11-track, self-titled [Stomp Records](http://www.stomprecords.com/) debut on September 13.
+Toronto punk/hard rock act [The Anti-Queens](https://theanti-queens.bandcamp.com/) have a new video online featuring their single "Worse Than Death." The song's slated to appear on the band's 11-track, self-titled [Stomp Records](https://stomprecords.com/) debut on September 13.
 
 The Anti-Queens features Emily Bones on lead vocals and guitar, Valerie Knox (of Oshawa's [Black Cat Attack](https://blackcatattack.bandcamp.com/)) on guitar and vocals, Dallas Conte on drums, and Taylor Cos (of Newmarket's [Rue Bella](https://ruebella.bandcamp.com/)) on bass and vocals.
 

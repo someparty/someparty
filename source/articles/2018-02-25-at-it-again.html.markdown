@@ -65,7 +65,7 @@ That's all you need to know. You can find the "Hands" video below:
 
 [Watch: Kurt Marble - "Hands" @ Youtube](https://www.youtube.com/watch?v=Bj9LSLsXzJU "#")
 
-Burlington, Ontario's [The Penske File](https://thepenskefileband.bandcamp.com/) have revealed the lead song from their upcoming album *Salvation*, and it's gigantic. "Kamikaze Kids" is a muscular pop-punk anthem, and it's the clearest sign yet that this three-piece is bound for a big leap in recognition and stature when this record hits. Montreal's [Stomp Records](http://www.stomprecords.com/) will handle the release on April 6.
+Burlington, Ontario's [The Penske File](https://thepenskefileband.bandcamp.com/) have revealed the lead song from their upcoming album *Salvation*, and it's gigantic. "Kamikaze Kids" is a muscular pop-punk anthem, and it's the clearest sign yet that this three-piece is bound for a big leap in recognition and stature when this record hits. Montreal's [Stomp Records](https://stomprecords.com/) will handle the release on April 6.
 
 "Kamikaze Kids" is the second track the band's shared from the record, having earlier previewed "Come What May" last year. The new record follows up 2015's  *Burn Into The Earth* LP and a ton of time slugging it out on the road.
 

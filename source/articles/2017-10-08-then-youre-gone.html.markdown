@@ -47,7 +47,7 @@ Was the last [Rural Alberta Advantage](http://www.theraa.com/) record as hooky a
 
 [Listen: The Rural Alberta Advantage - "Toughen Up" @ YouTube](https://www.youtube.com/watch?v=ChmNW86Qbag "#")
 
-[Stomp Records](http://www.stomprecords.com/) has shared a pair of new tunes from Burlington's [The Penske File](https://thepenskefileband.bandcamp.com/). The three-piece punk rock act unveiled "Come What May" (which isn't an Attack In Black cover, if you were wondering) and "Oh Brother." These are the band's first new material since their 2015 full-length *Burn Into the Earth*. Tour dates through November with bands like Mobina Galore and Arms Aloft can be found at [Punknews](https://www.punknews.org/article/64889/the-penske-file-come-what-may-and-oh-brother-punknews-exclusive).
+[Stomp Records](https://stomprecords.com/) has shared a pair of new tunes from Burlington's [The Penske File](https://thepenskefileband.bandcamp.com/). The three-piece punk rock act unveiled "Come What May" (which isn't an Attack In Black cover, if you were wondering) and "Oh Brother." These are the band's first new material since their 2015 full-length *Burn Into the Earth*. Tour dates through November with bands like Mobina Galore and Arms Aloft can be found at [Punknews](https://www.punknews.org/article/64889/the-penske-file-come-what-may-and-oh-brother-punknews-exclusive).
 
 <iframe style="border: 0; width: 350px; height: 522px;" src="https://bandcamp.com/EmbeddedPlayer/album=796136425/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://thepenskefileband.bandcamp.com/album/come-what-may">Come What May by The Penske File</a></iframe>
 

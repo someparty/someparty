@@ -65,7 +65,7 @@ The new song follows No Frills' 2018 debut, the five-track digital EP *Nice To M
 ###[The Peelers](https://the-peelers.bandcamp.com): "Prizefight"
 ==Preview and purchase at [Bandcamp](https://the-peelers.bandcamp.com)==
 
-[Stomp Records](http://www.stomprecords.com/) recently shared the first single from [The Peelers](https://the-peelers.bandcamp.com)' upcoming full-length *Down & Out In The City Of Saints*. "Prizefight" is one of 10 songs to appear on the Celtic punk group's new record. The label commented:
+[Stomp Records](https://stomprecords.com/) recently shared the first single from [The Peelers](https://the-peelers.bandcamp.com)' upcoming full-length *Down & Out In The City Of Saints*. "Prizefight" is one of 10 songs to appear on the Celtic punk group's new record. The label commented:
 
 > "In keeping with their more recent material, Dave Barton's songs reflect the North American experience of the diaspora with a tip of the newsboy cap to the Quebecois narrative and the lure of Boston and New York; blending truth and fiction, glory and sport, love and loss, darkness and despair, while introducing composites of individuals, companions, friends and foes met along the punk rock journey."
 

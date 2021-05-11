@@ -17,7 +17,7 @@ Red Mass last released the full-length *Kilrush Drive* in March of 2019, followe
 
 [Listen: Red Mass - "Killer On The Loose" (ft Rick Froberg & Mac DeMarco) @ Bandcamp](http://redmass.bandcamp.com/album/a-hopeless-noise "#")
 
-Also hailing from Montreal, the posi-punk trio [Boids](https://boids.bandcamp.com/) have returned with a new full-length on [Stomp Records](http://www.stomprecords.com/). The group's titled their new 11-song outing *Quel Drag*, with [Gob](https://www.facebook.com/gobband/) frontman Tom Thacker serving as producer. The press release bills the record as "the antithesis to bummer punk," something that "Bike Thief," the massively catchy lead single, does little to dispute. This silly little slice bit of unbridled guitar-pop may just be what I needed to fight through the grey-skied morass that enveloped southern Ontario this past weekend. Listen to Boids for your health.
+Also hailing from Montreal, the posi-punk trio [Boids](https://boids.bandcamp.com/) have returned with a new full-length on [Stomp Records](https://stomprecords.com/). The group's titled their new 11-song outing *Quel Drag*, with [Gob](https://www.facebook.com/gobband/) frontman Tom Thacker serving as producer. The press release bills the record as "the antithesis to bummer punk," something that "Bike Thief," the massively catchy lead single, does little to dispute. This silly little slice bit of unbridled guitar-pop may just be what I needed to fight through the grey-skied morass that enveloped southern Ontario this past weekend. Listen to Boids for your health.
 
 This will be the band's first full-length since 2015's *Superbafrango*. Look for it on February 21.
 

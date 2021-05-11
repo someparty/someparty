@@ -103,7 +103,7 @@ Last week I ran three interviews at Punknews.org taking a deeper look at some of
 >
 > Olivier Theriault (guitar/vocals): And bees! Also, when you take a look at our song titles, I think it’s obvious that we have a good sense of humour even if the world is kinda fucked right now. Like Guilhem said, we’re all trying to stay positive and to have a good time.
 
-You can read the full thing [here](https://www.punknews.org/article/67942/interviews-montreals-lost-love-stay-positive-on-good-luck-rassco). *Good Luck Rassco* came out in May on [Stomp Records](http://www.stomprecords.com/) and the French label [Guerilla Asso](http://guerilla.limitedrun.com/).
+You can read the full thing [here](https://www.punknews.org/article/67942/interviews-montreals-lost-love-stay-positive-on-good-luck-rassco). *Good Luck Rassco* came out in May on [Stomp Records](https://stomprecords.com/) and the French label [Guerilla Asso](http://guerilla.limitedrun.com/).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=764359607/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=96062200/transparent=true/" seamless><a href="http://lostlove.bandcamp.com/album/good-luck-rassco">Good Luck Rassco by Lost Love</a></iframe>
 

@@ -121,7 +121,7 @@ Sky Caught Fire features Craig Laro of [American Hell](https://americanhell.band
 
 [Watch: Sky Caught Fire - "Ghost In Me" @ YouTube](https://youtu.be/cq7IS6crQOc "#")
 
-Toronto punk'n'roll combo [The Anti-Queens](https://theanti-queens.bandcamp.com/) have a new video online featuring "Run," a track from their recent self-titled [Stomp](http://www.stomprecords.com/) debut. The clip features animation by Montreal artist [Caity Hall](https://caityhallart.artstation.com).
+Toronto punk'n'roll combo [The Anti-Queens](https://theanti-queens.bandcamp.com/) have a new video online featuring "Run," a track from their recent self-titled [Stomp](https://stomprecords.com/) debut. The clip features animation by Montreal artist [Caity Hall](https://caityhallart.artstation.com).
 
 The Anti-Queens features Emily Bones on lead vocals and guitar, Valerie Knox (of Oshawa's [Black Cat Attack](https://blackcatattack.bandcamp.com/)) on guitar and vocals, Dallas Conte on drums, and Taylor Cos (of Newmarket's [Rue Bella](https://ruebella.bandcamp.com/)) on bass and vocals.
 

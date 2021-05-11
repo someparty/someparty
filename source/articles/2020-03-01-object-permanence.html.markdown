@@ -88,7 +88,7 @@ Guilhem recorded *Born & Bored* at Mountain City Studio with Adrian Popovich (So
 
 >"In this album, I talk about stressful stuff, hopeful stuff, depressing stuff, death and love. The excitement of feeling young and the disappointment of being bored."
 
-Guilhem will support *Born & Bored* with a March and April tour of Quebec and the Maritimes. You can find the full routing at his [website](https://www.guilhemmusic.com/). Lost Love last released the EP *Glenn Spaghetti Legs* on Germany's [Uncle M Records](https://uncle-m.com/). It followed the band's 2019 [Stomp Records](http://www.stomprecords.com/) LP, *Good Luck Rassco*.
+Guilhem will support *Born & Bored* with a March and April tour of Quebec and the Maritimes. You can find the full routing at his [website](https://www.guilhemmusic.com/). Lost Love last released the EP *Glenn Spaghetti Legs* on Germany's [Uncle M Records](https://uncle-m.com/). It followed the band's 2019 [Stomp Records](https://stomprecords.com/) LP, *Good Luck Rassco*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2400289226/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://guilhem.bandcamp.com/album/born-bored">Born &amp; Bored by Guilhem</a></iframe>
 

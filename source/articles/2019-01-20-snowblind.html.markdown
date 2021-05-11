@@ -119,7 +119,7 @@ Moon last released the *Paradise String* EP in early 2017.
 
 [Listen: Andrew Neville - *Pure Comfort* @ Bandcamp](http://andrewneville.bandcamp.com/album/pure-comfort "#")
 
-Punknews premiered a new video last week from Edmonton's gruff folk-punk act [Fire Next Time](https://firenexttime.bandcamp.com/). The song "Party Foul" appeared on the band's 2018 [Stomp Records](http://www.stomprecords.com/) full-length *Knives*. The Mike Robertson directed video for the song features the trials and tribulations of a substance-abusing puppet.
+Punknews premiered a new video last week from Edmonton's gruff folk-punk act [Fire Next Time](https://firenexttime.bandcamp.com/). The song "Party Foul" appeared on the band's 2018 [Stomp Records](https://stomprecords.com/) full-length *Knives*. The Mike Robertson directed video for the song features the trials and tribulations of a substance-abusing puppet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eAI3-zTGzQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

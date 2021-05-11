@@ -132,7 +132,7 @@ Frontman Sam Coffey commented on the power-pop tune at the premier at [V13](http
 ###[Boids](https://boids.bandcamp.com/): "Guillotine"
 ==Watch on [YouTube](https://youtu.be/Bz3uDPK7SKY) - Preview and purchase at [Bandcamp](https://boids.bandcamp.com/track/guillotine-2)==
 
-Last year the amiable Montreal punk trio [Boids](https://boids.bandcamp.com/) shared their incredibly fun *Quel Drag* LP. Unfortunately, the [Stomp Records](http://www.stomprecords.com/) release arrived arm-in-arm with the pandemic, and that's certainly proved a distraction, to say the least. With that in mind, it's probably not a bad idea that they've waited this long to serve up another single. You can check out the band's new video for "Guillotine" now on YouTube. The clip features some retro animation from [Allie Brown](https://alliebrowniest.com​).
+Last year the amiable Montreal punk trio [Boids](https://boids.bandcamp.com/) shared their incredibly fun *Quel Drag* LP. Unfortunately, the [Stomp Records](https://stomprecords.com/) release arrived arm-in-arm with the pandemic, and that's certainly proved a distraction, to say the least. With that in mind, it's probably not a bad idea that they've waited this long to serve up another single. You can check out the band's new video for "Guillotine" now on YouTube. The clip features some retro animation from [Allie Brown](https://alliebrowniest.com​).
 
 Boids recorded *Quel Drag* with [Gob](https://www.facebook.com/gobband/) frontman Tom Thacker producing. It followed the band's 2015 full-length *Superbafrango*.
 

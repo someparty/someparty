@@ -16,7 +16,7 @@ So this is my formal acknowledgement, for the record, that the are some pretty d
 
 ##Of Note
 
-[Punknews](https://www.punknews.org/article/64221/exclusivevideos-the-isotopes-doa-punknews-exclusive) premiered the new video for the song "D.O.A." from Vancouver baseball punks [The Isotopes](https://theisotopes.bandcamp.com/). The track, which doesn't appear to have anything in particular to do with Joey Shithead, is the second single from the band's latest LP for [Stomp Records](http://www.stomprecords.com/), *1994 World Series Champions*. Check it out:
+[Punknews](https://www.punknews.org/article/64221/exclusivevideos-the-isotopes-doa-punknews-exclusive) premiered the new video for the song "D.O.A." from Vancouver baseball punks [The Isotopes](https://theisotopes.bandcamp.com/). The track, which doesn't appear to have anything in particular to do with Joey Shithead, is the second single from the band's latest LP for [Stomp Records](https://stomprecords.com/), *1994 World Series Champions*. Check it out:
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Yng_BsIElFA?rel=0" frameborder="0" allowfullscreen></iframe>
 

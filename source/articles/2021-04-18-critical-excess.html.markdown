@@ -211,7 +211,7 @@ Jim Floorburn apperas to be an alias of Barry Higginson, a veteran of bands like
 
 Montreal ska-punk group [K-Man & The 45s](http://k-manthe45s.bandcamp.com) have a new video online featuring "Get Outta My Head," a track from the group's 2019 full-length *Stand With The Youth*. You can find the clip at YouTube now.
 
-*Stand With The Youth* came out in the spring of 2019 on [Stomp Records](http://www.stomprecords.com/).
+*Stand With The Youth* came out in the spring of 2019 on [Stomp Records](https://stomprecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j1GkQnQp_Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -251,7 +251,7 @@ Stoby released a record in January of 2020 titled *Shark Girl Shark Shark*, on w
 ###[Chris Page](https://chrispage.bandcamp.com): "Soul Correcting"
 ==Preview and purchase at [Bandcamp](https://chrispage.bandcamp.com/track/soul-correcting)==
 
-Ottawa garage vet [Chris Page](https://chrispage.bandcamp.com) continues to share previously unheard archival material like clockwork, this past month unveiling a recording of "Soul Correcting." Page commented on the track att Bandcmap, stating:
+Ottawa garage vet [Chris Page](https://chrispage.bandcamp.com) continues to share previously unheard archival material like clockwork, this past month unveiling a recording of "Soul Correcting." Page commented on the track at Bandcmap, stating:
 
 >"...'Soul Correcting' is a song I've played live for years, but never released. (And almost every time I've played this song, John Higney strummed a tenor guitar beside me. And it was always so good.)
 >

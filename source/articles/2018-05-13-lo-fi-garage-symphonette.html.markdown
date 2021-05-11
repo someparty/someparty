@@ -63,7 +63,7 @@ ACTORS features guitarist/vocalist Jason Corbett with Shannon Hemmett on synth, 
 
 I'm a big fan of "Clay Turris," the crunchy new power-pop single from Montreal's [Lost Love](https://lostlove.bandcamp.com/). The track will appear on the band's upcoming LP *Good Luck Rassco*, their third record. There's now a video for the 90s-flavoured track online, shot and edited by the band's Olivier Thériault. It's chock full of pets, which adds further evidence to my theory that the majority of music videos these days are just phone footage of dogs.
 
-*Good Luck Rassco* arrives on May 25 from [Stomp Records](http://www.stomprecords.com/) and the French label [Guerilla Asso](http://guerilla.limitedrun.com/). It follows up the band's 2016 album *Comfortable Scars*.
+*Good Luck Rassco* arrives on May 25 from [Stomp Records](https://stomprecords.com/) and the French label [Guerilla Asso](http://guerilla.limitedrun.com/). It follows up the band's 2016 album *Comfortable Scars*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_C7QRq3jLio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

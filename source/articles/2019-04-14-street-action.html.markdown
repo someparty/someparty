@@ -138,7 +138,7 @@ Speaking to [Exclaim](https://exclaim.ca/music/article/kim_gray_get_philosophica
 
 [Listen: Kim Gray - "On Screen" @ Bandcamp](https://buzzrecordsto.bandcamp.com/track/on-screen "#")
 
-Montreal 3rd wave ska vets [The Planet Smashers](https://www.facebook.com/ThePlanetSmashers) are back with a new album this year, kicking off this cycle with the appropriately titled single "Can't Stop." It'll appear on *Too Much Information*, which arrives May 10 on [Stomp Records](http://www.stomprecords.com/). This is the Smashers first new record since 2014's *Mixed Messages* and their ninth overall.
+Montreal 3rd wave ska vets [The Planet Smashers](https://www.facebook.com/ThePlanetSmashers) are back with a new album this year, kicking off this cycle with the appropriately titled single "Can't Stop." It'll appear on *Too Much Information*, which arrives May 10 on [Stomp Records](https://stomprecords.com/). This is the Smashers first new record since 2014's *Mixed Messages* and their ninth overall.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iYBsu8vttkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -120,7 +120,7 @@ We're not too far off now from [Beau's](http://www.beaus.ca/) [Oktoberfest](http
 
 [Listen: Give Up - *You're Dreaming* @ Bandcamp](http://giveupband.bandcamp.com "#")
 
-You'll find another Beau's staffer amongst the roster of Montreal ska band [K-Man & The 45s](http://k-manthe45s.bandcamp.com). The 5-piece marries classic 2-tone influences from bands like the Specials and the Beat with some classic surf rock licks. The band last released a self-titled full-length on [Stomp Records](http://www.stomprecords.com/) in 2016. Look for them near the top of the Friday night Black Forest lineup, directly leading into Cancer Bats' headlining set. There's a tonal shift for you.
+You'll find another Beau's staffer amongst the roster of Montreal ska band [K-Man & The 45s](http://k-manthe45s.bandcamp.com). The 5-piece marries classic 2-tone influences from bands like the Specials and the Beat with some classic surf rock licks. The band last released a self-titled full-length on [Stomp Records](https://stomprecords.com/) in 2016. Look for them near the top of the Friday night Black Forest lineup, directly leading into Cancer Bats' headlining set. There's a tonal shift for you.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4013731323/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://k-manthe45s.bandcamp.com/album/k-man-the-45s">K-Man &amp; The 45s by K-Man &amp; The 45s</a></iframe>
 

@@ -42,7 +42,7 @@ Red Deer, Alberta skate-punk act [Trashed Ambulance](https://trashedambulance.ba
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3611368799/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thousandislandsrecords.bandcamp.com/album/instant">Instant by Trashed Ambulance</a></iframe>
 
-Montreal melodic pop-punk act [Lost Love](https://lostlove.bandcamp.com/) have announced a set of August tour dates in Quebec and Ontario. Punknews has the [dates listed](https://www.punknews.org/article/64395/lost-love-maladroit-canada). The band will be taking Parisian punk act Maladroit along for the trip. Lost Love last released *Comfortable Scars* on [Stomp](http://www.stomprecords.com/) in 2016.
+Montreal melodic pop-punk act [Lost Love](https://lostlove.bandcamp.com/) have announced a set of August tour dates in Quebec and Ontario. Punknews has the [dates listed](https://www.punknews.org/article/64395/lost-love-maladroit-canada). The band will be taking Parisian punk act Maladroit along for the trip. Lost Love last released *Comfortable Scars* on [Stomp](https://stomprecords.com/) in 2016.
 
 ## FME
 

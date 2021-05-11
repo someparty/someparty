@@ -141,7 +141,7 @@ This past June, melodic Montreal punk quartet [Les Mains Sales](http://lesmainss
 
 Les Mains Sales feature Fred Jacques of [The Sainte Catherines](https://thesaintecatherines.bandcamp.com/) and [Yesterday's Ring](https://yesterdaysringmtl.bandcamp.com/releases) on lead vocals and guitar, backed by several players from that scene. He's joined here by the above-mentioned Ryan Battistuzzi (Colin Moore, Fontarabie, Yesterday's Ring, Miracles, The Bottle) on guitar and Oakhearts' Dan Cesare on bass, along with drummer Rich Bouthillier (The Sainte Catherines, Yesterday's Ring, Rudy Caya).
 
-*Fêlures* arrived via [Stomp Records](http://www.stomprecords.com/) in May.
+*Fêlures* arrived via [Stomp Records](https://stomprecords.com/) in May.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rRov36OO2GI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -41,7 +41,7 @@ I'll be making my first trek out to Sappy this year, and it's a ticket I bought 
 
 [Listen: Bonjay - "Chelsea" @ Bandcamp](https://bonjay.bandcamp.com/ "#")
 
-Melodic Montreal pop-punk act [Lost Love](https://lostlove.bandcamp.com/) have announced details on their upcoming third LP. *Good Luck Rassco* will arrive May 25 on [Stomp Records](http://www.stomprecords.com/) and the French label [Guerilla Asso](http://guerilla.limitedrun.com/). It's an 11 song set that includes the below-linked tune "Clay Turris." There's a delightfully catchy sing-along chorus in this one, a crunchy power-pop track that would feel right at home on one of Weezer's beloved early records. The new Lost Love effort follows up the band's 2016 album *Comfortable Scars*.
+Melodic Montreal pop-punk act [Lost Love](https://lostlove.bandcamp.com/) have announced details on their upcoming third LP. *Good Luck Rassco* will arrive May 25 on [Stomp Records](https://stomprecords.com/) and the French label [Guerilla Asso](http://guerilla.limitedrun.com/). It's an 11 song set that includes the below-linked tune "Clay Turris." There's a delightfully catchy sing-along chorus in this one, a crunchy power-pop track that would feel right at home on one of Weezer's beloved early records. The new Lost Love effort follows up the band's 2016 album *Comfortable Scars*.
 
 Lost Love was also recently confirmed as one of the Canadian bands headed down to Gainesville, Florida this October to take part in the beloved punk rock gathering [The Fest](https://thefestfl.com/).
 

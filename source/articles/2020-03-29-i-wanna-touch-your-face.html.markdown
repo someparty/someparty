@@ -77,7 +77,7 @@ Like the "Object Permanence" clip, this piece also comes from director Andrea Th
 
 Edmonton punk act [Real Sickies](https://realsickies.bandcamp.com/) are using the COVID-19 quarantine to write and record a new benefit album, with each member working in insolation from their respective homes. The band's planning to spend no more than seven days on the set from conception to completion (they're on day 5, as of this mailing), with a release scheduled for Friday of this week. All proceeds from the new record are to be donated to the World Health Organization's COVID-19 Response Fund. You can follow Real Sickies' daily video updates of their progress now at <a href="https://www.facebook.com/therealsickies/">Facebook</a>.
 
-This effort arrives on the heels of a new video for the song "Yeah You," a track from the group's recent [Stomp](http://www.stomprecords.com/) debut, *Out of Space*. You can find the clip, directed by Todd Rocket, on YouTube now. Before everything went to hell, the band was in the middle of a tour with The Real McKenzies supporting the record.
+This effort arrives on the heels of a new video for the song "Yeah You," a track from the group's recent [Stomp](https://stomprecords.com/) debut, *Out of Space*. You can find the clip, directed by Todd Rocket, on YouTube now. Before everything went to hell, the band was in the middle of a tour with The Real McKenzies supporting the record.
 
 Real Sickies are fronted by Ben Disaster, who's done tireless work supporting the Canadian punk scene through his [This Is Pop](https://www.facebook.com/thisispop780/) radio show on [CJSR](https://www.cjsr.com).
 

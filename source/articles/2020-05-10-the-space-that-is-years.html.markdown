@@ -153,7 +153,7 @@ London label [Get Party!](https://getparty.bandcamp.com/) recently debuted a new
 
 [Listen: Hey Dad!!! - "Life's Alright" @ Bandcamp](https://getparty.bandcamp.com/track/lifes-alright "#")
 
-Vancouver's Celtic punk pioneers [The Real McKenzies](http://www.realmckenzies.com/) return this summer with a new full-length titled *Beer & Loathing*. The group shared the title track from the record, which arrives June 3 from [Stomp Records](http://www.stomprecords.com/) at home and [Fat Wreck Chords](http://www.fatwreck.com/) elsewhere. The album serves as the veteran group's 10th overall full-length, following 2017's *Two Devils Will Talk*. You can check the new tune out now at Bandcamp.
+Vancouver's Celtic punk pioneers [The Real McKenzies](http://www.realmckenzies.com/) return this summer with a new full-length titled *Beer & Loathing*. The group shared the title track from the record, which arrives June 3 from [Stomp Records](https://stomprecords.com/) at home and [Fat Wreck Chords](http://www.fatwreck.com/) elsewhere. The album serves as the veteran group's 10th overall full-length, following 2017's *Two Devils Will Talk*. You can check the new tune out now at Bandcamp.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1230454624/size=large/bgcol=ffffff/linkcol=0687f5/license_id=1031/tracklist=false/track=4188255807/transparent=true/" seamless><a href="https://therealmckenzies.bandcamp.com/track/beer-loathing">Beer &amp; Loathing by The Real McKenzies</a></iframe>
 

@@ -132,7 +132,7 @@ The self-titled Badge Époque Ensemble record was released recently on [Telephon
 
 [Watch: Badge Époque Ensemble - "Undressed In Solitude" ft. James Baley](https://youtu.be/KgMNACv5X2A "#")
 
-Edmonton punk group [Real Sickies](https://realsickies.bandcamp.com/) have joined the [Stomp Records](http://www.stomprecords.com/) family, with plans to release a new full-length on August 30. The group, which features ex-members of the late-90s/early-2000s street punk group [Wednesday Night Heroes](https://en.wikipedia.org/wiki/Wednesday_Night_Heroes), last released *Get Well Soon* in 2018 through a whole host of labels.
+Edmonton punk group [Real Sickies](https://realsickies.bandcamp.com/) have joined the [Stomp Records](https://stomprecords.com/) family, with plans to release a new full-length on August 30. The group, which features ex-members of the late-90s/early-2000s street punk group [Wednesday Night Heroes](https://en.wikipedia.org/wiki/Wednesday_Night_Heroes), last released *Get Well Soon* in 2018 through a whole host of labels.
 
 Real Sickies are fronted by Ben Disaster of [This Is Pop](https://www.facebook.com/thisispop780/), a radio show on Edmonton's [CJSR](https://www.cjsr.com) and related [label](https://www.facebook.com/thisispoprecords/).
 

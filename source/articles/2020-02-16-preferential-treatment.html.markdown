@@ -45,7 +45,7 @@ On March 6, the new record from Halifax power-pop act [Outtacontroller](http://w
 
 A second single from the upcoming [Spectres](http://spectresvancouver.bandcamp.com) LP is now online. You can preview "Years of Lead" now wherever you get your streams. It follows "The Head and the Heart" in previewing *Nostalgia*, the slick Vancouver deathrock group's new full-length for [Artoffact Records](http://artoffact.com/).
 
-*Nostalgia* arrives March 13, following up on the post-punk group's 2016 LP *Utopia* and the recent *Provincial Wake* 7". Spectres recorded with [ACTORS](https://actors.bandcamp.com/)' Jason Corbett att his Jacknife Sound studio.
+*Nostalgia* arrives March 13, following up on the post-punk group's 2016 LP *Utopia* and the recent *Provincial Wake* 7". Spectres recorded with [ACTORS](https://actors.bandcamp.com/)' Jason Corbett at his Jacknife Sound studio.
 
 Spectres were first brought together as a studio project in Coombs, British Columbia by Brian Gustavson and Steve Hanker. Now operating from Vancouver, the group's current incarnation features Gustavson backed by drummer Mitch Allen, bassist Nathan Szilagyi, and guitarists Zach Batalden and
 Tyler Pilling.
@@ -82,7 +82,7 @@ The Thrill, once known as The Shame (And once based in Vancouver), features guit
 
 Every once in awhile, my kids latch onto a song so completely that becomes the only thing they request months. As of today, that's "Bike Thief" by Montreal posi-punk trio [Boids](https://boids.bandcamp.com/). It may as well be the national anthem as far as our household's concerned.
 
-Boids has a new video running for "Bike Thief" at YouTube, directed by David Don't. The track appears on the band's new [Stomp Records](http://www.stomprecords.com/) full-length *Quel Drag*. [Gob](https://www.facebook.com/gobband/) frontman Tom Thacker produced the 11-song set. It follows their 2015 full-length *Superbafrango*, and you can look for it Friday.
+Boids has a new video running for "Bike Thief" at YouTube, directed by David Don't. The track appears on the band's new [Stomp Records](https://stomprecords.com/) full-length *Quel Drag*. [Gob](https://www.facebook.com/gobband/) frontman Tom Thacker produced the 11-song set. It follows their 2015 full-length *Superbafrango*, and you can look for it Friday.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AMnUvShRQAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
