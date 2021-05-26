@@ -29,7 +29,7 @@ Winnipeg post-punk band [1971](https://1971canada.bandcamp.com/) have released a
 >
 >The first track “Anxiety (In the Depths of Northwestern Ontario)” was written for Cam in 2016 during a really difficult period while Cam was still around. We’re glad we have “his” song, even though it’s hard to listen to sometimes.
 
-"Anxiety" was recorded and Mixed by J Riley Hill of [Mortfell Recording](http://mortfell.ca/). These final three songs will be released through the [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/) label on December 1. The EP will be titled *No Matter Where You Go, There You Are.* The label's planning to release it as a double cassette which will include the band's entire discography (they last released an EP in 2016 titled *Burning Bridges Before They're Crossed*). 1971 had been active since 2011.
+"Anxiety" was recorded and Mixed by J Riley Hill of [Mortfell Recording](http://mortfell.ca/). These final three songs will be released through the [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) label on December 1. The EP will be titled *No Matter Where You Go, There You Are.* The label's planning to release it as a double cassette which will include the band's entire discography (they last released an EP in 2016 titled *Burning Bridges Before They're Crossed*). 1971 had been active since 2011.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z60JbKRCG18?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
 

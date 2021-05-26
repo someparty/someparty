@@ -25,7 +25,7 @@ The new record will arrive on September 7 via [Pleasence Records](http://www.ple
 
 [Listen: Petra Glynt - "New Growth" @ SoundCloud](https://soundcloud.com/pleasence-records/4-new-growth "#")
 
-Toronto's post-punk trio [Fond](https://www.facebook.com/whatisfond/) premiered a song this week at [New Noise](https://newnoisemagazine.com/song-premiere-fond-smooth-sailing/) titled "Smooth Sailing." The band's something of an [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/) supergroup, featuring Ryan Naray (Animal Faces, Soft Floors), Zach Van Horne (Creeper), and label co-owner Rob Johnson (Low Sun, Shahman). Fond is readying their debut full length, a self-titled effort, for a July 21 release. They recorded at Burlington, Ontario’s B-Town Sound in one six-hour live-off-the-floor session with producer Colin Young.
+Toronto's post-punk trio [Fond](https://www.facebook.com/whatisfond/) premiered a song this week at [New Noise](https://newnoisemagazine.com/song-premiere-fond-smooth-sailing/) titled "Smooth Sailing." The band's something of an [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) supergroup, featuring Ryan Naray (Animal Faces, Soft Floors), Zach Van Horne (Creeper), and label co-owner Rob Johnson (Low Sun, Shahman). Fond is readying their debut full length, a self-titled effort, for a July 21 release. They recorded at Burlington, Ontario’s B-Town Sound in one six-hour live-off-the-floor session with producer Colin Young.
 
 Fond's new record mixes influences ranging from late-70s post-punk bands to the 80s and 90s rosters of labels like Touch And Go and SST. Their press release namechecks acts like Wire, Slint, the Breeders, and Meat Puppets as part of that foundation. Rob Johnson commented:
 

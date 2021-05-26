@@ -35,7 +35,7 @@ Hot Garbage also features bassist Juliana Carlevaris, Dylan Gamble on keys, and 
 
 Toronto low-fi rock group [PAX](https://madelink.bandcamp.com/) released a new song this weekend titled "Sink." The track features the band's principle Madeline Link backed by bassist Noah O'Niel, and drummer by Shane Hooper. The trio recorded with Dexter Nash in the studio and Seamus Patterson mastering.
 
-PAX was initially the bedroom recording project of Madeline Link (one-half of the wonderful jangle-pop duo [Triples](https://triplesband.bandcamp.com/)). With the recent cassette release of her full-length *Ouch* on [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/), PAX expanded into a full live band. Early PAX recordings primarily featured Link accompanied on a 12-string guitar and a Casio SK-1.
+PAX was initially the bedroom recording project of Madeline Link (one-half of the wonderful jangle-pop duo [Triples](https://triplesband.bandcamp.com/)). With the recent cassette release of her full-length *Ouch* on [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/), PAX expanded into a full live band. Early PAX recordings primarily featured Link accompanied on a 12-string guitar and a Casio SK-1.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3085882608/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://madelink.bandcamp.com/track/sink">sink by PAX</a></iframe>
 

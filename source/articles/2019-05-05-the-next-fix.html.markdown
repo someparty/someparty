@@ -94,7 +94,7 @@ BBQT features guitarist/vocalist Amery Sandford, guitarist Jack Bielli, bassist 
 
 [Listen: BBQT - "Flinch" @ Bandcamp](http://bbqtband.bandcamp.com/track/flinch "#")
 
-Toronto's low-fi rock duo [Low Sun](https://low--sun.bandcamp.com/) may be off touring Europe, but they're still trickling out previews of their upcoming full-length *New/Shiny*. The band premiered the song "Don't Look" at [Post-Trash](http://post-trash.com/news/2019/5/1/low-sun-dont-look-post-trash-premiere) last week. It's the second single shared from the new set, due this June from [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/).
+Toronto's low-fi rock duo [Low Sun](https://low--sun.bandcamp.com/) may be off touring Europe, but they're still trickling out previews of their upcoming full-length *New/Shiny*. The band premiered the song "Don't Look" at [Post-Trash](http://post-trash.com/news/2019/5/1/low-sun-dont-look-post-trash-premiere) last week. It's the second single shared from the new set, due this June from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/).
 
 *New/Shiny* follows up 2017's *Reservoir of Impermanent Light*. Low Sun features the brothers Peter and Robert Johnson.
 

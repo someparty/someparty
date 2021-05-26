@@ -65,7 +65,7 @@ Fronted by Jackson Fishauf, Meanlife recently released a full-length titled *Bad
 
 [Watch: Meanlife - "Ready 2 Spark" @ YouTube](https://youtu.be/0i9arVZvfl8 "#")
 
-Peter Johnson's haunting [Tang](https://tanginternetpropaganda.com/) launch their new full-length this week. Titled *Finding Peace, Isn't The Point*, the new album follows the low-fi Toronto band's 2018 record *Super Happy*. Label [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/) recently shared one last preview of the album. "Bye" builds from a whisper to one hell of an explosive release in its final third. The label claims, "[Bye] will give you every feeling," and that's certainly no hyperbole.
+Peter Johnson's haunting [Tang](https://tanginternetpropaganda.com/) launch their new full-length this week. Titled *Finding Peace, Isn't The Point*, the new album follows the low-fi Toronto band's 2018 record *Super Happy*. Label [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) recently shared one last preview of the album. "Bye" builds from a whisper to one hell of an explosive release in its final third. The label claims, "[Bye] will give you every feeling," and that's certainly no hyperbole.
 
 Tang will launch the new material with a release show this Thursday, [December 5](https://www.facebook.com/events/2458906234384434/) at Toronto's Handlebar. That gig features support from the Constantines' [Steven Lambke](http://stevenlambke.com/) and Whitby's [Holiday Pictures](https://holiday-pictures.bandcamp.com).
 

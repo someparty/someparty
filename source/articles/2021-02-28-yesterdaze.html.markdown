@@ -205,7 +205,7 @@ Just last week, I shared the fuzzy rocker "WTF" from [Meanlife](https://meanlife
 ###[Feels Fine](https://feelsfine666.bandcamp.com/): *Grip*
 ==Preview and purchase at [Bandcamp](https://feelsfine666.bandcamp.com/album/grip)==
 
-After the 2019 digital release of *Grip* (and an intervening global crisis) Toronto emo revivalists [Feels Fine](https://feelsfine666.bandcamp.com/) are finally on track to give the record a proper physical release. Underground rock tastemakers [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/) worked with the group to craft a small batch of hand-assembled cassettes. The label commented on the project:
+After the 2019 digital release of *Grip* (and an intervening global crisis) Toronto emo revivalists [Feels Fine](https://feelsfine666.bandcamp.com/) are finally on track to give the record a proper physical release. Underground rock tastemakers [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) worked with the group to craft a small batch of hand-assembled cassettes. The label commented on the project:
 
 >"Assembled and realized in true DIY fashion, the tapes are small batch, pad printed, and include inserts printed individually on transparent paper. The 'Grip' tape is a true collectors item that will inevitably weather all EMP attacks as well as the ultimate collapse of our environment AND civilization. A perfect bargaining chip in the post-bitcoin era!"
 

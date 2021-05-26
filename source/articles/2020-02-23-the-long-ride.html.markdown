@@ -35,7 +35,7 @@ Samson last released the full-length *Winter Wheat* in 2016 on the Epitaph impri
 
 [Watch: John K. Samson - "Millennium for All" @ YouTube](https://youtu.be/pxcI0Kkgaso "#")
 
-I'm thrilled to debut a new song this week from the introspective Toronto slowcore group [Chris](http://chrisrock.bandcamp.com/). The band returns on March 5 with *What Did I Do To Deserve This?*, their debut LP for [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/). The set follows their 2017 EP *I Don't Think Anything*. You can stream the grungy and dour "Foolish" below. Here's what guitarist/vocalist Zach Van Horne had to say about it:
+I'm thrilled to debut a new song this week from the introspective Toronto slowcore group [Chris](http://chrisrock.bandcamp.com/). The band returns on March 5 with *What Did I Do To Deserve This?*, their debut LP for [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/). The set follows their 2017 EP *I Don't Think Anything*. You can stream the grungy and dour "Foolish" below. Here's what guitarist/vocalist Zach Van Horne had to say about it:
 
 > "This song is about deeply ingrained habits or coping mechanisms catching up to you. It's about allowing yourself to get in your own way and having a lack of motivation to change."
 

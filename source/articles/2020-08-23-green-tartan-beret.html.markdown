@@ -109,7 +109,7 @@ Westelaken features Alex Baigent on vocals, bass, and synth, Rob McLay on percus
 
 Last week, I shared the first new single from Toronto's [Feels Fine](https://feelsfine666.bandcamp.com/), and they're already back with a second cut. The group, heavily influenced by midwestern emo of the late 90s, is gearing up to release *Grip* on August 29. This week's preview is titled "Imagine," and follows "Washed Out Blue" from the last go-around. You can check it out now on Bandcamp.
 
-Feels Fine has teamed up with [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/) for this record. It follows up their *At Home* EP from 2018.
+Feels Fine has teamed up with [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) for this record. It follows up their *At Home* EP from 2018.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3923423898/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=185634551/transparent=true/" seamless><a href="http://feelsfine666.bandcamp.com/album/grip">Grip by FEELS FINE</a></iframe>
 

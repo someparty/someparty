@@ -45,7 +45,7 @@ Dboy features the gravelly pipes of guitarist/vocalist Matt Sajn ([Northern Prim
 
 [Watch: Dboy - "Why Do You Only Luv a Dboy (who's down)?" / "Thumbless" @ YouTube](https://youtu.be/Aapp4TJ0h4w "#")
 
-Twangy Toronto slowcore group [Chris](http://chrisrock.bandcamp.com/) return this March with *What Did I Do To Deserve This?*, their debut LP for [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/). The set follows their 2017 EP *I Don't Think Anything*. It's due March 5. The band recently shared a slow-burning track that's, perhaps self-deprecatingly, titled "Dull." The premiere ran at [Post-Trash](http://post-trash.com/news/2020/2/5/chris-dull-post-trash-premiere) last week.
+Twangy Toronto slowcore group [Chris](http://chrisrock.bandcamp.com/) return this March with *What Did I Do To Deserve This?*, their debut LP for [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/). The set follows their 2017 EP *I Don't Think Anything*. It's due March 5. The band recently shared a slow-burning track that's, perhaps self-deprecatingly, titled "Dull." The premiere ran at [Post-Trash](http://post-trash.com/news/2020/2/5/chris-dull-post-trash-premiere) last week.
 
 Chris features two former members of the decidedly livelier Toronto post-hardcore noisemakers [Animal Faces](https://animalfaces.bandcamp.com/). Zach Van Horne plays guitar and sings with Ryan Naray's credited on drums, keys, and clarinet. The group worked in the studio as a duo, with plans to perform this material live as a three-piece with a bassist in the mix.
 

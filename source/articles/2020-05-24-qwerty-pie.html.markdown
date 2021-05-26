@@ -7,7 +7,7 @@ description: New music from Mildew Mildew, Spider Bite (that's Daniel Romano and
 
 I'm thrilled to premiere a new song today from Mississauga's eclectic noise-pop group [Mildew Mildew](https://mildewmildew.bandcamp.com/). The group recently shared a video for the electronic "Querty Pie," a fascinatingly awkward indie-dance number that feels positively fueled by the idle frustrations of isolation. Vocalist/guitarist Nolan Jakupovski flops around his basement throughout the clip, making weary play of whatever clutter he happens to get his hands on. It's certainly not the dance floor, but it's what we're all relatably stuck with.
 
-"Query Pie" is set to arrive as part of *Chopped Lumps*, a collection due later this week from Toronto underground rock label [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/). The Mildew Mildew lineup this time out features Jakupovski, backed by Brendan Cooke, Cameron Leslie, and Ali Garvin.
+"Query Pie" is set to arrive as part of *Chopped Lumps*, a collection due later this week from Toronto underground rock label [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/). The Mildew Mildew lineup this time out features Jakupovski, backed by Brendan Cooke, Cameron Leslie, and Ali Garvin.
 
 Mildew Mildew last released *Double Doors* and *Different Floors*, a pair of EPs that the label collected on a single cassette release last year.
 

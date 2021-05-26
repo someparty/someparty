@@ -35,7 +35,7 @@ Peter Johnson of the Toronto post-hardcore act [Low Sun](https://low--sun.bandca
 
 To help promote the trek, Tang released a video featuring a new song, recorded live at The Be Droom (your guess is as good as mine for what or where that is, but it sounds suitably ominous). A full-band version of the song, titled "Blurred Landscape," is due to appear on Tang's next full-length. You can check out this version out below.
 
-The upcoming Tang record is due in December from [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/). It will follow up 2018's *Super Happy*, which I can assure you was anything but.
+The upcoming Tang record is due in December from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/). It will follow up 2018's *Super Happy*, which I can assure you was anything but.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/12rcmC3RqVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -43,7 +43,7 @@ The upcoming Tang record is due in December from [Art of the Uncarved Block](htt
 
 Madeline Link's low-fi project [PAX](https://madelink.bandcamp.com/) has a new video online for the song "Clingfilm," a b-side from their recent EP *Eat Me*. The clip, directed by Link's sister Eva, features her band cavorting around in a park while dressed for a Renaissance fair that doesn't appear to be happening. You can check it out below.
 
-While initially a bedroom recording project, PAX recently grew into a full band featuring Madeline backed by guitarist Dexter Nash, bassist Noah O'Neil, and drummer Shane Hooper. The group's last physical release was the full-length *Ouch* on [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/). The Link sisters just last week released *Big Time*, their first full-length as the jangle-pop duo [Triples](https://triplesband.bandcamp.com/).
+While initially a bedroom recording project, PAX recently grew into a full band featuring Madeline backed by guitarist Dexter Nash, bassist Noah O'Neil, and drummer Shane Hooper. The group's last physical release was the full-length *Ouch* on [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/). The Link sisters just last week released *Big Time*, their first full-length as the jangle-pop duo [Triples](https://triplesband.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Baq1nEGZ-G8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

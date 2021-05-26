@@ -23,7 +23,7 @@ Proceeds from *Short Songs About a Virus* are also due for the Italian Red Cross
 
 [Listen: Jimmy Vapid and Friends - *Short Songs about a Virus* @ Bandcamp](https://the-vapids.bandcamp.com/album/short-songs-about-a-virus "#")
 
-[Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/), the Toronto-based underground rock label run by [Low Sun](https://low--sun.bandcamp.com/)'s Peter and Rob Johnson, has a new compilation online. Titled *Songs From a (Social) Distance*, the set showcases a number of the label's acts along with a few spiritually aligned counterparts from across Canada. The organization commented on the 15 song set:
+[Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/), the Toronto-based underground rock label run by [Low Sun](https://low--sun.bandcamp.com/)'s Peter and Rob Johnson, has a new compilation online. Titled *Songs From a (Social) Distance*, the set showcases a number of the label's acts along with a few spiritually aligned counterparts from across Canada. The organization commented on the 15 song set:
 
 > "In spite of living in an increasingly compartmentalized world we've decided that there is no better time than now to rally the community together and share some music with everyone. This is just a small sample of the incredible talent we have in Toronto and abroad, so please continue to support artists any way you can as they release new material during these complex times.
 >

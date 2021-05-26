@@ -73,7 +73,7 @@ You can preview the group's new material with the single "Same Old, Same Old," w
 
 Madeline Link's low-fi rock band [PAX](https://madelink.bandcamp.com/) recently released *Melt It Down*, a three-song digital single featuring the new songs "89 Days" and "Blown By the Wind," along with a download-only secret track. It follows the Toronto group's September-released single *Sucked Up*.
 
-From roots as a bedroom recording project, PAX grew last year into a full band featuring Link backed by guitarist Dexter Nash, bassist Noah O'Neil, and drummer Shane Hooper. The group's last physical release was the full-length *Ouch* on [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/). Madeline and her sister Eva Link recently released the full-length *Big Time*, as the jangle-pop duo [Triples](https://triplesband.bandcamp.com/).
+From roots as a bedroom recording project, PAX grew last year into a full band featuring Link backed by guitarist Dexter Nash, bassist Noah O'Neil, and drummer Shane Hooper. The group's last physical release was the full-length *Ouch* on [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/). Madeline and her sister Eva Link recently released the full-length *Big Time*, as the jangle-pop duo [Triples](https://triplesband.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1499916804/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://paxtheband.bandcamp.com/album/melt-it-down">Melt it Down by PAX</a></iframe>
 

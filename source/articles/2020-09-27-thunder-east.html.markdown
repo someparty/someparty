@@ -79,7 +79,7 @@ Peter Connelly's [Tang](https://tanginternetpropaganda.com/) recently shared a n
 
 >"Written and recorded in 6 days, The Quiet Earth is a crude/messy confluence of digital and analog signals, shitty guitar pedals, and some nice guitar pedals. It was whatever I had within reach around my apartment and brain."
 
-The set follows last year's *Finding Peace, Isn't The Point* and arrives from both Toronto's [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/) and the Parisian label [Influenza Records](https://influenza-records.bandcamp.com/).
+The set follows last year's *Finding Peace, Isn't The Point* and arrives from both Toronto's [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) and the Parisian label [Influenza Records](https://influenza-records.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4277451474/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tangsongs.bandcamp.com/album/the-quiet-earth">The Quiet Earth by Tang</a></iframe>
 

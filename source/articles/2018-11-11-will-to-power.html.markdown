@@ -17,7 +17,7 @@ One day I'll get it straight, but regardless these songs are pretty great. That'
 
 [Listen: N0V3L - "Will to Power" @ YouTube](https://youtu.be/UU5_fMYJ_As "#")
 
-Mississauga's shouty noise-pop trio [Mildew Mildew](https://mildewmildew.bandcamp.com/) has a new video up for their recent single "Ands." In a recent write-up Toronto cassette label [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/) lauded the trio:
+Mississauga's shouty noise-pop trio [Mildew Mildew](https://mildewmildew.bandcamp.com/) has a new video up for their recent single "Ands." In a recent write-up Toronto cassette label [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) lauded the trio:
 
 > "Mildew Mildew fearlessly creates songs that unravel like stories; their structures being both dynamic and deeply colourful as they unfurl. This track particularly, is not a far cry from the spastic and borderless creativity delivered by the early works of both Modest Mouse and Built to Spill or the trademark rhythmic tension seen in the carefree demeanour of Pavement's percussionists."
 

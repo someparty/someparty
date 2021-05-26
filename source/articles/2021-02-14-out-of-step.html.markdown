@@ -78,7 +78,7 @@ The group recorded *Down and Out* in Montreal, Vancouver, and Dundee, Scotland, 
 
 Madeline Link's low-fi rock band PAX seems poised to climb the ladder, picking up a pair of new labels and a slight name change along the way. Now billed as [PACKS](https://packstheband.bandcamp.com), the group retains their phonetic identity for the new era, one that will see them recording for [Royal Mountain](https://www.royalmountainrecords.com/) in Canada and [Fire Talk](https://firetalkrecs.com/) in the States.
 
-PACKS christened the name with a remastered version of "Hangman," a track that initially surfaced on the *Songs from a (social) distance* compilation from Toronto's [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/). The press release notes:
+PACKS christened the name with a remastered version of "Hangman," a track that initially surfaced on the *Songs from a (social) distance* compilation from Toronto's [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/). The press release notes:
 
 > "The newly remastered studio version sharpens the roaring electric guitars and Link's drawling vocals, while adding a softness to the drums to create more space in the mix, recalling Alex G and Mac DeMarco at their breeziest."
 

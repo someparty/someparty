@@ -125,7 +125,7 @@ Young Guv, the pop songwriting vehicle of [Fucked Up](http://fuckedup.cc/) and [
 
 [Watch: Young Guv - "Cold In The Summer" @ YouTube](https://youtu.be/t5vszJ0bJxM "#")
 
-Toronto label [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/) has paired up with the emo revivalists [Feels Fine](https://feelsfine666.bandcamp.com/) to release their new album, *Grip*. The set, arriving on August 29, features the Toronto group's authentic take on the midwest emo sound of the late 90s, with the influence of bands like The Jazz June and Rainer Maria on prominent display. You can stream the record's first single, "Washed Out Blue," online now.
+Toronto label [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) has paired up with the emo revivalists [Feels Fine](https://feelsfine666.bandcamp.com/) to release their new album, *Grip*. The set, arriving on August 29, features the Toronto group's authentic take on the midwest emo sound of the late 90s, with the influence of bands like The Jazz June and Rainer Maria on prominent display. You can stream the record's first single, "Washed Out Blue," online now.
 
 Feels Fine last released the EP *At Home* in 2018.
 

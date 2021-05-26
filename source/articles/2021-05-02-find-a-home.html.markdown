@@ -118,7 +118,7 @@ Toronto slack rockers [PACKS](https://packstheband.bandcamp.com) continue to rol
 
 *Take The Cake* is due digitally on May 21, with vinyl shipping for July 9 through [Royal Mountain](https://www.royalmountainrecords.com/) and [Fire Talk Records](https://firetalkrecs.com/).
 
-PACKS is an evolution of Madeline Link's bedroom recording project, which played in recent years as the phonetically similar PAX. The four-piece features Link backed by guitarist Dexter Nash, bassist Noah O'Neil, and drummer Shane Hooper. As PAX, that group last released the full-length *Ouch* in 2019 through [Art of the Uncarved Block](http://www.artoftheuncarvedblock.com/), with the digital EPs *Melt It Down* and *Sucked Up* surfacing online in the time since.
+PACKS is an evolution of Madeline Link's bedroom recording project, which played in recent years as the phonetically similar PAX. The four-piece features Link backed by guitarist Dexter Nash, bassist Noah O'Neil, and drummer Shane Hooper. As PAX, that group last released the full-length *Ouch* in 2019 through [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/), with the digital EPs *Melt It Down* and *Sucked Up* surfacing online in the time since.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7FYHjuz5iFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
