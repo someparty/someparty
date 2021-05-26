@@ -2,7 +2,7 @@
 title: You're My Quarantine Crush
 date: 2021-05-23
 author: adam@someparty.ca (Adam White)
-description: New music and visuals from Part-Time Cool (Innes Wilson), Capitalist Invisible Army, Gemstones, Album, PRIORS, Anxious Pleasers, The Halluci Nation, Talk Show Host, Print Head, N0V3L, Huron Lines, PACKS, André Ethier, Elliott BROOD, and a Canadian punk tribe from Brian Walsby
+description: New music and visuals from Part-Time Cool (Innes Wilson), Capitalist Invisible Army, Gemstones, Album, PRIORS, Anxious Pleasers, The Halluci Nation, Talk Show Host, Print Head, N0V3L, Huron Lines, PACKS, André Ethier, Elliott BROOD, and a Canadian punk tribute from Brian Walsby
 ---
 
 ###[Part-Time Cool](https://parttimecool.bandcamp.com): *Fell In Love at The Punk Show*
@@ -75,7 +75,7 @@ Anxious Pleasers tracked a set of high-energy demos just before the pandemic, so
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ijMV-3ejGDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[The Halluci Nation](https://thehallucination.com/): "Remember 01" ft. John Trudell & Black Bear
+###[The Halluci Nation](https://thehallucination.com/): "Remember 01" (ft. John Trudell & Black Bear)
 ==Watch at [YouTube](https://youtu.be/DWSqIe8-Irw)==
 
 The acclaimed Indigenous electronic duo A Tribe Called Red recently rebranded as [The Halluci Nation](https://thehallucination.com/). The group's first record under the new name arrives June 30 as *One More Saturday Night*, an album that finds Tim "2oolman" Hill and Ehren "Bear Witness" Thomas again celebrating the inspiration of the late author, musician, and activist John Trudell. The record's new single, "Remember 01," features 2014 audio of Trudell speaking to the group at the Museum of International Folk Art in Santa Fe. Footage of that event also factors into the accompanying video from director Jon Riera. You can check it out now on YouTube.
