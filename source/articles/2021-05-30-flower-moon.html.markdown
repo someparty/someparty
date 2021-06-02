@@ -25,7 +25,7 @@ Alexisonfire most recently released the one-off singles "Season of the Flood," "
 ###[Dany Laj and the Looks](http://danylaj.com/): "You & Me"
 ==Purchase at [Bandcamp](https://wearebusybodies.bandcamp.com/album/dany-laj-and-the-looks-ten-easy-pieces) - Watch on [YouTube](https://youtu.be/-BewhQ-Ol70)==
 
-Sudbury power-pop act [Dany Laj and the Looks](http://danylaj.com) have a new hopping single out, with the lively "You & Me" offering a second preview of the group's fast-approaching LP, *Ten East Pieces*. The track arrived alongside a kinetic video from director Ryan Thompson that finds Laj and bassist/vocalist Jeanette Dowling on an enviable tropical vacation. Granted, it's one that's interrupted by a sea monster, but at this point, I'll take anything.
+Sudbury power-pop act [Dany Laj and the Looks](http://danylaj.com) have a hopping new single out, with the lively "You & Me" offering a second preview of the group's fast-approaching LP, *Ten East Pieces*. The track arrived alongside a kinetic video from director Ryan Thompson that finds Laj and bassist/vocalist Jeanette Dowling on an enviable tropical vacation. Granted, it's one that's interrupted by a sea monster, but at this point, I'll take anything.
 
 In a press release, Laj commented:
 
@@ -117,7 +117,7 @@ With the alt-electronica group Holy Fuck, Borcherdt released *Deleter* in Januar
 ###[Fox Run](https://foxrunband.bandcamp.com): *Distress Signals*
 ==Preview and purchase at [Bandcamp](https://foxrunband.bandcamp.com/album/distress-signals)==
 
-Barrie-based melodic punk group [Fox Run](https://foxrunband.bandcamp.com) has a new EP in the wild. The six-song *Distress Signals* arrived last week, collecting the one-off digital singles the band's released across the past year. You can find the set at Bandcamp.
+Barrie-based melodic punk group [Fox Run](https://foxrunband.bandcamp.com) has a new EP in the wild. The six-song *Distress Signals* arrived last week, collecting the one-off digital singles the band's released across the past year. If you've missed them in the lead-up, these songs sound huge - hitting on just the right mix of vocal grit, overblown instrumentation, and melody to feel like some great lost No Idea act from the Punknews heydey. You can find the set at Bandcamp.
 
 Fox Run features Dave Smith, Tyler Broydell, Randell Stringer, Evan Smith, and Matthew Galbraith (also of [The Highdives](https://thehighdives.bandcamp.com)). The band recorded with producer Jeff Wardell at Your Productions.
 
