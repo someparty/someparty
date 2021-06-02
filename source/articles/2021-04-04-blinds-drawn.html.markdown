@@ -146,7 +146,7 @@ Sometimes billed as Matt Delong, JMVII's played in several bands with Cook over 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=4157566009/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://youngguv.bandcamp.com/track/til-i-find-love-again">Til I Find Love Again by Young Guv, James Matthew VII</a></iframe>
 
 ###[SUV](https://suvsuv.bandcamp.com): *Night Blond*
-==Preview and purchase at [Bandcamp](https://suvsuv.bandcamp.com/album/night-blond) - Watch at [YouTube](https://youtu.be/X694Rfx4ul4)==
+==Preview and purchase at [Bandcamp](https://suvsuv.bandcamp.com/album/night-blond) - Watch on [YouTube](https://youtu.be/X694Rfx4ul4)==
 
 [SUV](https://suvsuv.bandcamp.com) is a new electronic music project from Nick Grottick, one-half of Toronto's [Bad Channels](https://badchannels.bandcamp.com/). His new venture made its debut last week with the four-song *Night Blond* EP, available now at Bandcamp. Derek McKeon of [ZONES](https://zonesmusic.bandcamp.com/) helped assemble the artwork for this one.
 
@@ -166,7 +166,7 @@ Bad Waitress has been working with Dave Schiffman (PUP, The OBGMs) on their fort
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4hfrzhBaQHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Moore Ave Underground](https://mooreaveunderground.com): *6 Feet*
-==Preview and purchase at [Bandcamp](https://mooreaveunderground.bandcamp.com/track/6-feet) - Watch at [YouTube](https://youtu.be/LMi4Mmo86aU)==
+==Preview and purchase at [Bandcamp](https://mooreaveunderground.bandcamp.com/track/6-feet) - Watch on [YouTube](https://youtu.be/LMi4Mmo86aU)==
 
 Aylmer, Ontario's pop-punk quartet [Moore Ave Underground](https://mooreaveunderground.com) recently a new single titled "6 Feet." You can find it at Bandcamp or through a newly unveiled self-shot video. In a press release, guitarist/vocalist Josh Gaudette linked the song to an unsettling dream of his father dying. He commented:
 

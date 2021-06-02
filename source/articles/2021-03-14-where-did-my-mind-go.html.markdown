@@ -38,7 +38,7 @@ During the pandemic, Denholm Whale released several recordings under his solo gu
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=326710460/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://odonisodonis.bandcamp.com/album/spectrums">Spectrums by Odonis Odonis</a></iframe>
 
 ###[ROY](https://thesoundofroy.bandcamp.com): "Where Did My Mind Go?"
-==Preview and purchase at [Bandcamp](https://thesoundofroy.bandcamp.com/track/where-did-my-mind-go) - Watch at [YouTube](https://youtu.be/IaUnEW0iIzs)==
+==Preview and purchase at [Bandcamp](https://thesoundofroy.bandcamp.com/track/where-did-my-mind-go) - Watch on [YouTube](https://youtu.be/IaUnEW0iIzs)==
 
 The enigmatic Toronto psych-pop act [ROY](https://thesoundofroy.bandcamp.com) returns this year with *Roy's Garage*. The new 13-song full-length comes on the heels of *Peace Love and Outer Space*, a lush celestial concept album released last year. While no less heady, the new work promises a more grounded approach - appearing to set aside the benevolent aliens and higher-dimensional concerns of its predecessor.
 
@@ -101,7 +101,7 @@ With roots as Link's bedroom recording project, PACKS grew over the past few yea
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N7zREV8i8Ec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Danko Jones](http://www.dankojones.com): "I Want Out"
-==Watch at [YouTube](https://youtu.be/TX_Wv9-KO4o)==
+==Watch on [YouTube](https://youtu.be/TX_Wv9-KO4o)==
 
 Toronto hard rock institution [Danko Jones](http://www.dankojones.com) recently announced plans for their 10th studio album. *Power Trio* arrives August 27 from [Sonic Unyon](http://www.sonicunyon.com/), with the band once again working with veteran Canadian producer Eric Ratz. With his usual bluster, Jones commented on Twitter:
 
@@ -125,7 +125,7 @@ Capable! has roots further north in Abitibi-Témiscamingue, with members previou
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=130714979/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://capable.bandcamp.com/album/br-le-br-le-br-le">Brûle Brûle Brûle by Capable!</a></iframe>
 
 ###[Labour](https://labourband.bandcamp.com): "Movement I"
-==Watch at [YouTube](https://youtu.be/_pAtO2HC7jk) - Preview and Purchase at [Bandcamp](https://labourband.bandcamp.com/album/movements-ep)==
+==Watch on [YouTube](https://youtu.be/_pAtO2HC7jk) - Preview and Purchase at [Bandcamp](https://labourband.bandcamp.com/album/movements-ep)==
 
 Earlier this month, [Diamondtown](http://diamondtown.bandcamp.com/) member Kate O'Neill issued the debut of [Labour](https://labourband.bandcamp.com​), an electronic-folk duo partnered with Andrew Glencross. The pair recently shared the *Movements* EP, featuring three extended, improvised instrumentals performed with analog synthesizers and a drum machine. Last week O'Neill shared a video for the cosmic meditation piece "Movement I." You can check it out on YouTube now.
 
@@ -158,7 +158,7 @@ Following Litovitz's death in June of 2019, Lee worked with engineer Steve Chahl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5oYR2GaQSM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[The Fly Downs](https://theflydowns.bandcamp.com): "Head Held High"
-==Watch at [YouTube](https://youtu.be/tsEiecmGfF4) - Preview and purchase at [Bandcamp](https://thousandislandsrecords.bandcamp.com/album/at-this-point-in-time)==
+==Watch on [YouTube](https://youtu.be/tsEiecmGfF4) - Preview and purchase at [Bandcamp](https://thousandislandsrecords.bandcamp.com/album/at-this-point-in-time)==
 
 Ottawa melodic punk trio [The Fly Downs](https://theflydowns.bandcamp.com) have a new video online showcasing "Head Held High," the latest single from their upcoming [Thousand Islands](https://thousandislandsrecords.bandcamp.com/) debut *At This Point In Time*. Guitarist/vocalist Jesse Brewer commented on the track:
 

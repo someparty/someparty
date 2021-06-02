@@ -24,7 +24,7 @@ School Damage has been kicking around since 2010. The group currently features M
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1256757956/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://schooldamage.bandcamp.com/track/critical-excess">Critical Excess by School Damage</a></iframe>
 
 ###[Slow Down Molasses](https://slowdownmolasses.bandcamp.com): "Street Haunting"
-==Watch at [YouTube](https://youtu.be/CkBsaCw7VoM) - Preview and purchase at [Bandcamp](https://slowdownmolasses.bandcamp.com/track/street-haunting)==
+==Watch on [YouTube](https://youtu.be/CkBsaCw7VoM) - Preview and purchase at [Bandcamp](https://slowdownmolasses.bandcamp.com/track/street-haunting)==
 
 Saskatoon post-punk outfit [Slow Down Molasses](https://slowdownmolasses.bandcamp.com) recently returned to action with their first new material in nearly five years. "Street Haunting" delivers a tightly wound evolution of the band's sound, paying tribute to the rhythmic influence of Gang of Four and Sonic Youth's tense fuzz along the way. The track arrived just a few weeks ago as the quartet's first follow-up to their 2016 record, *100% Sunshine*.
 
@@ -39,7 +39,7 @@ Slow Down Molasses features Tyson McShane on guitar and vocals, Aaron Scholz on 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CkBsaCw7VoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Ducks Ltd.](https://ducksltdband.bandcamp.com): "As Big As All Outside"
-==Watch at [YouTube](https://youtu.be/ZwjnUmqOIQ8) - Preview and purchase at [Bandcamp](https://ducksltdband.bandcamp.com/album/get-bleak)==
+==Watch on [YouTube](https://youtu.be/ZwjnUmqOIQ8) - Preview and purchase at [Bandcamp](https://ducksltdband.bandcamp.com/album/get-bleak)==
 
 Jangle-pop outfit Ducks Unlimited really seemed to be ramping up in late 2019, garnering a fair bit of attention with their *Get Bleak* EP and lining up some cool gigs on the scrappy end of Toronto's indie rock scene. You know how where the story goes from here - catastrophic world-ending something-or-other... lost year... etc.
 
@@ -130,7 +130,7 @@ As a member of the dance-punk trio VICTIME, Samuel Gougoux last released *Mi-tro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tg3rLOBC-BI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[N0V3L](https://n0v3l.bandcamp.com): "Notice of Foreclosure"
-==Watch at [YouTube](https://youtu.be/AoDM5dPr_98) - Preview and purchase at [Bandcamp](https://n0v3l.bandcamp.com/track/notice-of-foreclosure)==
+==Watch on [YouTube](https://youtu.be/AoDM5dPr_98) - Preview and purchase at [Bandcamp](https://n0v3l.bandcamp.com/track/notice-of-foreclosure)==
 
 The BC post-punk militants of [N0V3L](https://n0v3l.bandcamp.com) have a second single online from their forthcoming debut LP. The hypnotic darkwave tune "Notice of Foreclosure" provides our second look at *Non-Fiction*, an album due May 28 through Calgary's [Flemish Eye](http://www.flemisheye.com/) and the UK's [Meat Machine Records](https://twitter.com/meatmachinerecs).
 
@@ -156,7 +156,7 @@ Eamon McGrath last released the *Guts* LP in 2019 on [Saved By Vinyl](https://ww
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/857863798&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ###[JayWood](https://jaywood1.bandcamp.com/): "Some Days"
-==Preview and purchase at [Bandcamp](https://jaywood1.bandcamp.com/album/some-days) - Watch at [YouTube](https://youtu.be/2EoUs7v2ahk)==
+==Preview and purchase at [Bandcamp](https://jaywood1.bandcamp.com/album/some-days) - Watch on [YouTube](https://youtu.be/2EoUs7v2ahk)==
 
 [Royal Mountain Records](https://www.royalmountainrecords.com/) recently signed Jeremy Haywood-Smith's Winnipeg-based psych-funk project [JayWood](https://jaywood1.bandcamp.com). An EP titled *Some Days* is slated for release this Friday, April 23, featuring newly recorded versions of songs first written and recorded on the cheap back in 2015. Haywood-Smith commented on the original material:
 
@@ -187,7 +187,7 @@ A five-piece, The Offsailors features members of [Trashed Ambulance](https://tra
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=51492714/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=871743344/transparent=true/" seamless><a href="https://highenddenimrecords.bandcamp.com/album/one-more-then-we-go">One More Then We Go by The Offsailors</a></iframe>
 
 ###[Danko Jones](http://www.dankojones.com): "Flaunt It"
-==Watch at [YouTube](https://youtu.be/YG7qxm2iIgE)==
+==Watch on [YouTube](https://youtu.be/YG7qxm2iIgE)==
 
 "Flaunt It" is the second single from *Power Trio*, the aptly-named new record from Toronto hard rock institution [Danko Jones](http://www.dankojones.com). The album, the group's 10th, arrives August 27 from [Sonic Unyon](http://www.sonicunyon.com/). The group launched the track with an accompanying lyric video from [Christian Müller](https://www.instagram.com/la_viguela/) which features a museum's worth of old show flyers, magazine interviews, and live photos from the band's long career.
 

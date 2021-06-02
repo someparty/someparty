@@ -53,7 +53,7 @@ The Heavenly Blue demo arrived as a professionally manufactured cassette, limite
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3811956778/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://sewerciderex.bandcamp.com/album/heavenly-blue-demo">Heavenly Blue - Demo by Sewercide Records</a></iframe>
 
 ###[Album](https://albumalbumalbum.bandcamp.com/): "Hommage à M. Cusson Pour H. Hoek"
-==Watch at [YouTube](https://youtu.be/iudwNQPcd9s) - Preview and purchase at [Bandcamp](https://albumalbumalbum.bandcamp.com/track/hommage-m-cusson-pour-h-hoek)==
+==Watch on [YouTube](https://youtu.be/iudwNQPcd9s) - Preview and purchase at [Bandcamp](https://albumalbumalbum.bandcamp.com/track/hommage-m-cusson-pour-h-hoek)==
 
 [Simon Provencher](https://simonprovencher.bandcamp.com/) and Olivier Fairfield have paired up as a duo to form [Album](https://albumalbumalbum.bandcamp.com/). The Hull-based band, self-described as an "experimental glitch-groove duo," will release a new album, the self-titled *Album*, this summer through [Telephone Explosion](https://www.telephoneexplosion.com/). You've likely heard both these players in recent years, with Provencher on guitar with the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/) and Fairfield drumming for the confrontational punk-jazz group [FET.NAT](https://fetnat.bandcamp.com).
 
@@ -68,7 +68,7 @@ Last month, Provencher released the experimental solo EP as *Mesures* through [M
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iudwNQPcd9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Botfly](https://botfly.bandcamp.com): "Disassociate"
-==Watch at [YouTube](https://youtu.be/kiomC7upjOU) - Preview and purchase at [Bandcamp](https://nofuneralsound.bandcamp.com/track/disassociate)==
+==Watch on [YouTube](https://youtu.be/kiomC7upjOU) - Preview and purchase at [Bandcamp](https://nofuneralsound.bandcamp.com/track/disassociate)==
 
 Halifax post-hardcore noisemakers [Botfly](https://botfly.bandcamp.com) have partnered with Cambridge, Ontario's [No Funeral Records](https://store.nofuneral.ca/), with several unannounced projects planned for this year. The group kicked off the relationship with new merch and a video featuring "Disassociate," a track Botfly contributed to No Funeral's *Compilation 2* last October. You can check the Emily Moore-directed clip on YouTube now.
 
@@ -79,7 +79,7 @@ The band features guitarist/vocalists Keegan Goodspeed and Alex Babineau, bassis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kiomC7upjOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[CRABE](http://crabe.bandcamp.com): "8008 rue des Lombards"
-==Watch at [YouTube](https://youtu.be/kiomC7upjOU) - Preview and purchase at [Bandcamp](https://crabe.bandcamp.com/track/8008-rue-des-lombards)==
+==Watch on [YouTube](https://youtu.be/kiomC7upjOU) - Preview and purchase at [Bandcamp](https://crabe.bandcamp.com/track/8008-rue-des-lombards)==
 
 Erratic Montreal art-punk duo [CRABE](http://crabe.bandcamp.com) returns next week with a new full length. *Sentients* arrives May 7 through [Pantoum Records](http://lepantoum.com/pantoumrecords/). The 11 song set finds Gabriel Lapierre and Martin Poulin-Légaré working with a massive group of collaborators. This generation-spanning list includes everyone from glam rock firebrand [Hubert Lenoir](https://hubertlenoir.bandcamp.com/) to [Voivod](http://voivod.net/) guitarist Daniel Mongrain. The album credits contributions to Vincent Peake (Grimskunk), Mathieu A Seulement (Technical Kidman), Laurence-Anne, Yuki BT (IDALG, Jesuslesfilles), and Étienne Dupré (Klô Pelgag, Duu). Furthermore, CRABE opted to record without acoustic drums on this record, relying instead on the synthesized thump of an early-2000s Roland V-Drum.
 

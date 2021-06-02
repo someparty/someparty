@@ -112,7 +112,7 @@ The new 13-song LP, mastered by Oliver Ackermann of A Place to Bury Strangers, a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fg8Pbm9S280" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Chad VanGaalen](https://chadvangaalen.bandcamp.com/): "Starlight"
-==Watch at [YouTube](https://youtu.be/79mPq0l4ut8) - Preview and purchase at [Bandcamp](https://chadvangaalen.bandcamp.com/track/starlight)==
+==Watch on [YouTube](https://youtu.be/79mPq0l4ut8) - Preview and purchase at [Bandcamp](https://chadvangaalen.bandcamp.com/track/starlight)==
 
 [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) ushered *World's Most Stressed Out Gardener* into the world alongside a kaleidoscopic video for the song "Starlight," an animated composition built atop repurposed family movies from the 50s and 60s. The Calgarian artist commented on the piece:
 
@@ -123,7 +123,7 @@ The beloved surrealist songwriter launched *Gardener* last week on [Flemish Eye]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/79mPq0l4ut8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Rude City Riot](https://rudecityriot.bandcamp.com/): "Molotov Dreams"
-==Watch at [YouTube](https://youtu.be/KStTFt8-AX0) - Preview and purchase at [Bandcamp](https://rudecityriot.bandcamp.com/album/shady-schemes-molotov-dreams)==
+==Watch on [YouTube](https://youtu.be/KStTFt8-AX0) - Preview and purchase at [Bandcamp](https://rudecityriot.bandcamp.com/album/shady-schemes-molotov-dreams)==
 
 Vancouver ska-punk unit [Rude City Riot](https://rudecityriot.bandcamp.com/) returns in just a few weeks with a new record. *Shady Schemes & Molotov Dreams* marks the band's first release since way back in 2011 (and while that's nothing compared to the Intersystems gulf, it's certainly still a stretch). The 11-song full-length includes the anti-racist anthem "Molotov Dreams," taking up the subculture's longstanding tradition of confronting discrimination in song. You can preview it at Bandcamp, or through a new video that just arrived today.
 
@@ -145,7 +145,7 @@ Huron Lines features Mueller with guitarist Grainger Harris, bassist/vocalist RJ
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1340709683/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://huronlines.bandcamp.com/track/older-now">Older Now by Huron Lines</a></iframe>
 
 ###[The Peelers](https://the-peelers.bandcamp.com): "Glad to See the Back of You"
-==Watch at [YouTube](https://youtu.be/3H7ZRjmUoj8) - Preview and purchase at [Bandcamp](https://the-peelers.bandcamp.com/track/glad-to-see-the-back-of-you)==
+==Watch on [YouTube](https://youtu.be/3H7ZRjmUoj8) - Preview and purchase at [Bandcamp](https://the-peelers.bandcamp.com/track/glad-to-see-the-back-of-you)==
 
 Montreal-based Celtic punk outfit [The Peelers](https://the-peelers.bandcamp.com) made the best of an understandably low-key St. Patrick's Day with the release of a video showcasing "Glad to See the Back of You." The track comes from the group's recent [Stomp Records](https://stomprecords.com/) full-length *Down & Out In The City Of Saints*. You can raise a glass with it on YouTube now.
 
@@ -154,7 +154,7 @@ The group recorded *Down and Out* in Montreal, Vancouver, and Dundee, Scotland b
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3H7ZRjmUoj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Yves Jarvis](https://www.yvesjarvis.com/): "Body Of Work"
-==Watch at [YouTube](https://youtu.be/zg7HA3WQLpE) - Preview and purchase at [Bandcamp](https://yvesjarvis.bandcamp.com/album/body-of-work)==
+==Watch on [YouTube](https://youtu.be/zg7HA3WQLpE) - Preview and purchase at [Bandcamp](https://yvesjarvis.bandcamp.com/album/body-of-work)==
 
 The brilliant Montreal song scientist [Yves Jarvis](https://www.yvesjarvis.com/) has another playful new standalone single online, following up on last month's "Projection." You can check the mile-a-minute wordplay of "Body of Work" visualized in a new quirky new lyric video on YouTube.
 
@@ -172,7 +172,7 @@ Moncton, New Brunswick's [Zero Zero UFO](https://zerozeroufo.bandcamp.com) charg
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2358455994/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tarantulacassettes.bandcamp.com/track/in-disguise-2">In Disguise by Zero Zero UFO</a></iframe>
 
 ###[Rules](https://rulesareaband.bandcamp.com/): "Victims"
-==Watch at [YouTube](https://youtu.be/1ekK5Pcj8-g) - Preview and purchase at [Bandcamp](https://rulesareaband.bandcamp.com/track/victims)==
+==Watch on [YouTube](https://youtu.be/1ekK5Pcj8-g) - Preview and purchase at [Bandcamp](https://rulesareaband.bandcamp.com/track/victims)==
 
 Hamilton psych-punk supergroup [Rules](https://rulesareaband.bandcamp.com/) has a new video online featuring the track "Victims," a fuzzy scorcher from their recent debut full-length *The Bummer Circus Comes To Truth City*. It's the album's second single following "Burning Bridges." The aforementioned [Stomp](https://stomprecords.com/) (who are all over this week's newsletter) issued the record earlier this month.
 

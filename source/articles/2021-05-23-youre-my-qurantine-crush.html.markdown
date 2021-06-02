@@ -45,7 +45,7 @@ Gemstones assembles a trio of veteran players, with guitarist/vocalist KC Spidle
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1186482414/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://gemstones.bandcamp.com/album/paranoid-amp-ep">Paranoid Amp EP by Gemstones</a></iframe>
 
 ###[Album](https://albumalbumalbum.bandcamp.com/): "New and Annoying"
-==Watch at [YouTube](https://youtu.be/PLYTWZRcIo4) - Preview and purchase at [Bandcamp](https://albumalbumalbum.bandcamp.com/track/new-and-annoying)==
+==Watch on [YouTube](https://youtu.be/PLYTWZRcIo4) - Preview and purchase at [Bandcamp](https://albumalbumalbum.bandcamp.com/track/new-and-annoying)==
 
 [Telephone Explosion](https://www.telephoneexplosion.com/) recently shared a second single from Hull's otherworldly [Album](https://albumalbumalbum.bandcamp.com/), the "glitch-groove" duo pairing [Simon Provencher](https://simonprovencher.bandcamp.com/) of the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/) with Olivier Fairfield of the confrontational punk-jazz group [FET.NAT](https://fetnat.bandcamp.com). "New and Annoying" arrives alongside a surreal animated video from Katerine Dennie-Marcoux.
 
@@ -67,7 +67,7 @@ PRIORS features vocalist Chance Hutchison, drummer Drew Demers, bassist Alan Hil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sTCY5wbdGZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Anxious Pleasers](https://anxiouspleasers.bandcamp.com/): "Suck"
-==Watch at [YouTube](https://youtu.be/ijMV-3ejGDs) - Preview and purchase at [Bandcamp](https://anxiouspleasers.bandcamp.com/album/anxious-pleasers)==
+==Watch on [YouTube](https://youtu.be/ijMV-3ejGDs) - Preview and purchase at [Bandcamp](https://anxiouspleasers.bandcamp.com/album/anxious-pleasers)==
 
 Hamilton's [Anxious Pleasers](https://anxiouspleasers.bandcamp.com/) - a punk trio from members of [TV Freaks](https://teeveefreakzz.bandcamp.com) and [Flesh Rag](https://fleshrag.bandcamp.com) - has a new video online promoting "Suck," a song from their upcoming self-titled cassette. The frenetic clip finds drummer Nathan Burger inexplicably cast as a cyclist wrapped in toilet paper - the metaphoric meaning of which is lost on me but at least it looks cool. Guitarist/vocalist TJ Charlton edited the piece from footage shot by Adam O'Polka and Anthony Saracino.
 
@@ -76,7 +76,7 @@ Anxious Pleasers tracked a set of high-energy demos just before the pandemic, so
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ijMV-3ejGDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[The Halluci Nation](https://thehallucination.com/): "Remember 01" (ft. John Trudell & Black Bear)
-==Watch at [YouTube](https://youtu.be/DWSqIe8-Irw)==
+==Watch on [YouTube](https://youtu.be/DWSqIe8-Irw)==
 
 The acclaimed Indigenous electronic duo A Tribe Called Red recently rebranded as [The Halluci Nation](https://thehallucination.com/). The group's first record under the new name arrives June 30 as *One More Saturday Night*, an album that finds Tim "2oolman" Hill and Ehren "Bear Witness" Thomas again celebrating the inspiration of the late author, musician, and activist John Trudell. The record's new single, "Remember 01," features 2014 audio of Trudell speaking to the group at the Museum of International Folk Art in Santa Fe. Footage of that event also factors into the accompanying video from director Jon Riera. You can check it out now on YouTube.
 
@@ -124,7 +124,7 @@ N0V3L crafted the 11-song LP between 2017 and 2020, recording to an 8-track at t
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3390072848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3808643026/transparent=true/" seamless><a href="https://n0v3l.bandcamp.com/album/non-fiction">NON-FICTION by N0V3L</a></iframe>
 
 ###[Huron Lines](https://huronlines.bandcamp.com/): "Lost and Found"
-==Watch at [YouTube](https://youtu.be/G1emIOvGQZg) - Preview and purchase at [Bandcamp](https://huronlines.bandcamp.com/track/lost-and-found)==
+==Watch on [YouTube](https://youtu.be/G1emIOvGQZg) - Preview and purchase at [Bandcamp](https://huronlines.bandcamp.com/track/lost-and-found)==
 
 Windsor's grim and gritty [Huron Lines](https://huronlines.bandcamp.com/) has a new video online showcasing "Lost and Found," the second single from their upcoming full-length *Lost at the Border*. In a statement, the band commented on the Garth Jackson-directed clip:
 
@@ -161,7 +161,7 @@ PACKS is an evolution of Link's bedroom recording project, which performed in re
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3493697379/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3832349778/transparent=true/" seamless><a href="https://andreethier.bandcamp.com/album/further-up-island">Further Up Island by Andre Ethier</a></iframe>
 
 ###[Elliott BROOD](https://www.elliottbrood.com/): "Runaway"
-==Watch at [YouTube](https://youtu.be/WZfdtf6lpuM) - Preview and purchase at [Bandcamp](https://elliottbrood.bandcamp.com/track/runaway)==
+==Watch on [YouTube](https://youtu.be/WZfdtf6lpuM) - Preview and purchase at [Bandcamp](https://elliottbrood.bandcamp.com/track/runaway)==
 
 Long-running Hamilton alt-country trio [Elliott BROOD](https://www.elliottbrood.com/) recently shared a cover of "Runaway," Del Shannon's international hit from 1961. You can find it accompanied by an animated visualizer on YouTube now or streaming just about everywhere. It's the second recent cover from the group that dares tackle an absolutely ubiquitous song, following a stomping reworking of the theme from *Cheers* back in November.
 

@@ -114,7 +114,7 @@ This new run of songs derives from recent studio sessions with [Cancer Bats](htt
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3145329735/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://championlovermusic.bandcamp.com/track/my-body-is-ready">My Body is Ready by CHAMPION LOVER</a></iframe>
 
 ###[Meanlife](https://meanlife.bandcamp.com/): "Smile In The Night"
-==Watch at [YouTube](https://youtu.be/V6kJAtDc46g) - Preview and purchase at [Bandcamp](https://meanlife.bandcamp.com/track/smile-in-the-night-2)==
+==Watch on [YouTube](https://youtu.be/V6kJAtDc46g) - Preview and purchase at [Bandcamp](https://meanlife.bandcamp.com/track/smile-in-the-night-2)==
 
 Jackson Fishauf's eclectic songwriting project [Meanlife](https://meanlife.bandcamp.com) has a new single in the wild, the tensely wound "Smile In The Night." The Toronto-based artist commented:
 
@@ -138,7 +138,7 @@ The Bloody Hell recorded their latest material at Dartmouth's New Scotland Yard 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FjE2iDebguY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Ripcordz](https://ripcordz.bandcamp.com/): "Tear It Down"
-==Watch at [YouTube](https://youtu.be/iaMsonBsVoY) - Preview and purchase at [Bandcamp](https://ripcordz.bandcamp.com/track/tear-it-down)==
+==Watch on [YouTube](https://youtu.be/iaMsonBsVoY) - Preview and purchase at [Bandcamp](https://ripcordz.bandcamp.com/track/tear-it-down)==
 
 Canadian punk lifers [Ripcordz](https://ripcordz.bandcamp.com/) have a new video online for "Tear It Down," a track from their 2020 LP *Don't Buy the First Album, Jerk-Wad, Get This One!* (and one billed as a spiritual successor to their 2003 tune "The Fence"). Paul Ferguson put the clip together, working remotely with the band during the pandemic. You can check it out now at YouTube.
 
