@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Profiling music from Cluttered, The Garrys, Real Sickies, Prettyboy, Bootlicker, Imploders, TRAITRS, Ship of Fools, TJ Felix, Choices Made. RIP Lungbutter's Joni Sadler.
 ---
 
-Time's playing tricks on me here in Malaise, Ontario. The summer release season's accelerating at a healthy clip, and my notes for next week's edition are already piling high. I'll catch you up with new sounds from Chain Whip, Diamondtown, Odonis Odonis, and more in a few days. I'd complain about keeping up with the content treadmill if it didn't herald a return to live music and better times ahead. I'll circle back to your spam folder in a hot minute, but don't overlook these sounds in the meantime...
+Time's playing tricks on me here in Malaise, Ontario. The summer release season's accelerating at a healthy clip, and my notes for next week's edition are already piling high. A few days late and I'm a million years behind. I'd complain about keeping up with the content treadmill if it didn't herald a return to live music and better times ahead. So don't fret, I'll catch you up with new sounds from Chain Whip, Diamondtown, Odonis Odonis, and more in the next edition. Don't overlook these cool new sounds in the meantime...
 
 ###[Cluttered](https://cluttered.bandcamp.com/): *Accidents*
 ==Preview and purchase at [Bandcamp](https://cluttered.bandcamp.com/album/accidents)==
