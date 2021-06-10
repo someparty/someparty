@@ -97,7 +97,7 @@ The 13-song *Is The Idea Of Us* finds New Fries reconfigured as an economic thre
 
 Toronto two-piece melodic punk group [Found Objects](https://foundobjects666.bandcamp.com/) recently returned with a seven-song set titled *Below The Dirt*. The group recorded at Boxcar Sound in Hamilton, following up on their 2018 EP *Now That You're Gone*. You can check the set out now at Bandcamp, with all proceeds raised from the record due for [Native Women In The Arts](http://www.nwia.ca/).
 
-Found Objects features singer/guitarist Jono Hunter ([!ATTENTION!](https://attentionpp.bandcamp.com/)/[Downers](https://wearedowners.bandcamp.com)) and drummer Izzy Ehrlich ([Pretty Boy](https://prettyboyto.bandcamp.com/)).
+Found Objects features singer/guitarist Jono Hunter ([!ATTENTION!](https://attentionpp.bandcamp.com/)/[Downers](https://wearedowners.bandcamp.com)) and drummer Izzy Ehrlich ([Prettyboy](https://prettyboyto.bandcamp.com/)).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1105788797/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://foundobjects666.bandcamp.com/album/below-the-dirt">Below the Dirt by Found Objects</a></iframe>
 

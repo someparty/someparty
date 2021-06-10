@@ -103,14 +103,13 @@ Toronto's post-punk/darkwave duo [TRAITRS](https://traitrs.bandcamp.com/) are ne
 
 > "Horror films inspired a lot of the lyrics and imagery on the record, so we wanted the video to have an arthouse horror vibe. The pink and blue lighting is a nod to Dario Argento’s Suspiria, the kid opening this weird box is an homage to Hellraiser and the weirdness that ensues in the warehouse is inspired by David Lynch. We shot the video in a giant warehouse in Toronto’s west end two days before it was torn down. The entire building was buzzing with people clearing the place out to be destroyed."
 
-*Butcher's Coin* is a joint-release between [Manic Depression](http://manicdepressionrecords.com/), [Alchera Visions](
-http://alcheravisions.bigcartel.com/), and Pleasence.
+*Butcher's Coin* is a joint-release between [Manic Depression](http://manicdepressionrecords.com/), [Alchera Visions](http://alcheravisions.bigcartel.com/), and Pleasence.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0GUaTuCbxvE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Watch: TRAITRS - "Thin Flesh" @ YouTube](https://youtu.be/0GUaTuCbxvE "#")
 
- Vancouver's folk-punk singer-songwriter [Jesse Lebourdais](https://jesselebourdais.bandcamp.com/) released a new video for his song "Make It Boring," a track from his recent full-length *Grief Intensity Friendship*. That record, his fourth, was released last summer on [My Fingers! My Brain! Records](https://myfingersmybrainrecords.bandcamp.com/). The clip, filmed by Stephanie Hansen, features LeBourdais backed by drummer Dave Leslie and bassist Luc Frost.
+Vancouver's folk-punk singer-songwriter [Jesse Lebourdais](https://jesselebourdais.bandcamp.com/) released a new video for his song "Make It Boring," a track from his recent full-length *Grief Intensity Friendship*. That record, his fourth, was released last summer on [My Fingers! My Brain! Records](https://myfingersmybrainrecords.bandcamp.com/). The clip, filmed by Stephanie Hansen, features LeBourdais backed by drummer Dave Leslie and bassist Luc Frost.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kl3IiO6xymI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

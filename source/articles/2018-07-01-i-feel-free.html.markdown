@@ -37,7 +37,7 @@ Fond's new record mixes influences ranging from late-70s post-punk bands to the 
 
 Toronto two-piece punk group [Found Objects](https://foundobjects666.bandcamp.com/) have announced a new EP titled *Now That You're Gone*, a three-song set for release on July 5 through the band's [Must Be Nice Records](https://mustbenicerecords.bandcamp.com/). Punknews.org premiered a stream of the EP last week. The songs will arrive as a one-sided 7" with a screen-printed B side in a limited pressing of 100. It follows up the duo's debut full-length *The Worse is Yet To Come*, which they released as a 10" last year.
 
-Found Objects shares members with !ATTENTION!, Horses, Threes, and Pretty Boy. They've been playing in and around Toronto for about four years now. The band will celebrate the new release with a show at the Handlebar on [Thursday, June 5](https://www.facebook.com/events/450275818729393/). They'll share the bill with High Home, Father Bodies, and Pretty Matty.
+Found Objects shares members with !ATTENTION!, Horses, Threes, and Prettyboy. They've been playing in and around Toronto for about four years now. The band will celebrate the new release with a show at the Handlebar on [Thursday, June 5](https://www.facebook.com/events/450275818729393/). They'll share the bill with High Home, Father Bodies, and Pretty Matty.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1308729135/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://foundobjects666.bandcamp.com/album/now-that-youre-gone">Now That You&#39;re Gone by Found Objects</a></iframe>
 
