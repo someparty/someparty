@@ -2,7 +2,7 @@
 title: Underneath
 date: 2021-06-20
 author: adam@someparty.ca (Adam White)
-description: A packed week with Rick White (Eric's Trip), Daniel Romano, Jimmy Vapid, Deliluh, Hubert Lenoir, The Black Halos, Bad WAitress, Botfly, Ilusión, Bleu Nuit, New Chance, CIA, AHRF, The Offsailors, Danko Jones, Kristian North, Freelove Fenner, Chris Page, and SappyFest
+description: A packed week with Rick White (Eric's Trip), Daniel Romano, Jimmy Vapid, Deliluh, Hubert Lenoir, The Black Halos, Bad Waitress, Botfly, Ilusión, Bleu Nuit, New Chance, CIA, AHRF, The Offsailors, Danko Jones, Kristian North, Freelove Fenner, Chris Page, and SappyFest
 ---
 
 ###[Rick White](https://rickwhitearchive.bandcamp.com/): "Underneath"
