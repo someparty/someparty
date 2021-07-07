@@ -15,7 +15,7 @@ The band premiered the bright, high-strung single "Pointing Fingers" at [IndiePu
 
 [Watch: Isölation Party - "Pointing Fingers" @ YouTube](https://youtu.be/phRMgsqHbPQ "#")
 
-We've finally heard the first music from [Sauna](http://saunaaa.bandcamp.com), the new project from Michael le Riche of [Fake Palms](https://www.facebook.com/fakepalms/), [Weaves](https://www.weavesband.com/) bassist Zach Bines, and drummer Braeden Craig of [Greys](https://greys.bandcamp.com/). The Toronto-based trio released the single "Over" last week, at the same time announcing that they'd signed with [Idée Fixe Records](http://ideefixerecords.com/) (home of Jennifer Castle, Fiver, and Bry Webb).
+We've finally heard the first music from [Sauna](http://saunaaa.bandcamp.com), the new project from Michael le Riche of [Fake Palms](https://fakepalms-pleasence.bandcamp.com/), [Weaves](https://www.weavesband.com/) bassist Zach Bines, and drummer Braeden Craig of [Greys](https://greys.bandcamp.com/). The Toronto-based trio released the single "Over" last week, at the same time announcing that they'd signed with [Idée Fixe Records](http://ideefixerecords.com/) (home of Jennifer Castle, Fiver, and Bry Webb).
 
 Sauna leaves the guitars in Fake Palms' garage, with le Riche performing swirling arrangements on custom built synths. The press release floridly describes "Over" as a  "syncopated rhythmic splatter" with a "synthetic kosmische disko chorus," and I'm not even going to attempt to reword that. Brian Borcherdt of [Holy Fuck](https://www.holyfuckmusic.com/) and [Dusted](https://totallydusted.bandcamp.com/) produced this first salvo from Sauna back in the spring of 2018.
 

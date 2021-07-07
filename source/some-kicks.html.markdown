@@ -180,7 +180,7 @@ Yess Woah - "Polyester Sometimes"
 Pacer - "Everlaster"
 <small><br/>Toronto, ON - [Bandcamp](https://pacerto.bandcamp.com)</small>
 
-Souvevnir - "Meter"
+Souvenir - "Meter"
 <small><br/>Halifax, NS - [Bandcamp](https://souvenirhfx.bandcamp.com)</small>
 
 Pale Lips - "That Old Ghost Don't Lie"

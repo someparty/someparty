@@ -169,7 +169,7 @@ Cam Steacy's low-fi post-punk outfit [Organ Eyes](http://organeyes.bandcamp.com)
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1558389403/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://organeyes.bandcamp.com/album/like-glass">Like Glass by Organ Eyes</a></iframe>
 
-[Listen: Organ Eyes - "Passed By" @ Bandcamp](http://organeyes.bandcamp.com/album/like-glass "#")
+[Listen: Organ Eyes - *Like Glass* @ Bandcamp](http://organeyes.bandcamp.com/album/like-glass "#")
 
 The high-concept, design-focused Montreal label [Pentagon Black](https://www.pentagon.black/) recently unveiled the fifth volume in their paper compilation series. *Pentagon Black Compilation No. 5* is the third iteration of the project as a "phone comp," with each participating act recording a new song directly to the mic of a smartphone. The label, run by Raymond Biesinger and Drew Demers of noise-punk duo [The Famines](http://www.thefamines.ca/), shared these thoughts:
 

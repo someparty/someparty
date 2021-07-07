@@ -47,7 +47,7 @@ Toronto's [PUP](http://www.puptheband.com/) continues to play the Internet to th
 
 [Watch: PUP - "Old Wounds" @ YouTube](https://www.youtube.com/watch?v=5ty4QADcwgs "#")
 
-Speaking of drug trips, go watch the new Maria Bui-directed [Fake Palms](https://www.facebook.com/fakepalms/) video for the song "I'm Not There." Michael le Riche of the Toronto garage/psych act explained the track to [Noisey](https://noisey.vice.com/en_ca/article/evv5gm/escape-from-infinite-content-with-fake-palms-hazy-im-not-there):
+Speaking of drug trips, go watch the new Maria Bui-directed [Fake Palms](https://fakepalms-pleasence.bandcamp.com/) video for the song "I'm Not There." Michael le Riche of the Toronto garage/psych act explained the track to [Noisey](https://noisey.vice.com/en_ca/article/evv5gm/escape-from-infinite-content-with-fake-palms-hazy-im-not-there):
 
 >"'I'm Not There' is a meditation on modern society and where we're at as a whole. It's not a political statement by any means, it's us trying to find our place while feeling completely alienated among consumer culture and the general egomania of the selfie generation."
 

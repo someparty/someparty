@@ -83,7 +83,7 @@ You can now stream the new solo record from Toronto multi-instrumentalist [Matth
 
 [Listen: Matthew “Doc” Dunn - *Lightbourn* @ SoundCloud](https://soundcloud.com/cosmic_range/sets/lightbourn "#")
 
-I have it in my notes that there's a new Toronto-based band dubbed Sauna that features guitarist/vocalist Michael le Riche of [Fake Palms](https://www.facebook.com/fakepalms/), drummer Braeden Craig of [Greys](https://greys.bandcamp.com/), and [Weaves](https://www.weavesband.com/) bassist Zach Bines. I have no idea what they sound like and no media share, but given the personnel, I thought I'd make mention of it here.
+I have it in my notes that there's a new Toronto-based band dubbed Sauna that features guitarist/vocalist Michael le Riche of [Fake Palms](https://fakepalms-pleasence.bandcamp.com/), drummer Braeden Craig of [Greys](https://greys.bandcamp.com/), and [Weaves](https://www.weavesband.com/) bassist Zach Bines. I have no idea what they sound like and no media share, but given the personnel, I thought I'd make mention of it here.
 
 ##Black Forest
 
