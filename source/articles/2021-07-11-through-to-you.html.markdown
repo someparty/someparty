@@ -112,7 +112,7 @@ The new track finds lead songwriter Kenny Boothby returning to the religious the
 
 >"The song is inspired by Pastor John Arnott, who started the Toronto Airport Christian Fellowship in Toronto, the site of the so-called Toronto Blessing - a charismatic Christian revival in the 90s and early 00s. I actually traveled up from Petrolia with my family to attend a service there, and later learned my partner was attending at the same time (though we didn't meet until about 15 years later). Most of the churches I attended in my teens and early adulthood were led by pastors inspired by the movement that started at TACF: focused on performing miracles, receiving the Gifts of the Spirit, having direct spiritual experiences with God - frankly, they were all a bit 'out there.'"
 
-The reverb-drenched track features Boothby on vocals, guitars, piano, and keys, with Paul Vroom (bass, percussion), Megan Lunn (vocals, keyboards), and Brodie Germain (drums, keysboards).
+The reverb-drenched track features Boothby on vocals, guitars, piano, and keys, with Paul Vroom (bass, percussion), Megan Lunn (vocals, keyboards), and Brodie Germain (drums, keyboards).
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3788037465/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://littlekid.bandcamp.com/track/john-arnott">John Arnott by Little Kid</a></iframe>
 
@@ -172,6 +172,6 @@ Water Bear features vocalist/guitarist Tom Dustome, guitarist/vocalist Alex T, b
 
 >"Originally about hating the ceaseless hours working in the service industry to make ends meet, 'Smoking Pistol' reflects life's anguish, from daily frustrations to existential anxiety. Although this may sound dark, the song makes you feel like an empowered badass ready to take the world into your own hands."
 
-Scarlet Wives features guitarist/vocalist Alice Slick, bassist 'The Mosquito,' and drummer Zenab Jaber. "Smoking Pistol" arrives alongide a video from Ariana Molly that captures the band in a fog of low-fidelity VHS artifacts. The band recorded at the track at Lackhaüs' studio, with Chris Poirier mixing and mastering at Greenhouse.
+Scarlet Wives features guitarist/vocalist Alice Slick, bassist 'The Mosquito,' and drummer Zenab Jaber. "Smoking Pistol" arrives alongside a video from Ariana Molly that captures the band in a throwback fog of vintage VHS-quality effects. The band recorded at the track at Lackhaüs' studio, with Chris Poirier mixing and mastering at Greenhouse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AebVzZ00fDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
