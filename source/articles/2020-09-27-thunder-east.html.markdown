@@ -19,7 +19,7 @@ Toronto indie rock trio [Outer Rooms](https://outerrooms.bandcamp.com) recently 
 
 [Listen: Outer Rooms - "Thunder East" @ Bandcamp](https://outerrooms.bandcamp.com/track/thunder-east-2 "#")
 
-Calgary's grungy punk group [Paradise](https://paradisepunk.bandcamp.com/) has a fall release set for *Pariah*, their debut LP. The eight-song set arrives via [Debt Offensive Records](http://debtoffensiverecs.bigcartel.com/) on October 2. You can preview the album through the single "Flickering" in a new video below, or stream the whole record for a limited time at [CVLT Nation](https://cvltnation.com/travel-to-mental-punk-paradise-pariah/).
+Calgary's grungy punk group [Paradise](https://paradisepunk.bandcamp.com/) has a fall release set for *Pariah*, their debut LP. The eight-song set arrives via [Debt Offensive Records](https://debtoffensiverecords.bandcamp.com/) on October 2. You can preview the album through the single "Flickering" in a new video below, or stream the whole record for a limited time at [CVLT Nation](https://cvltnation.com/travel-to-mental-punk-paradise-pariah/).
 
 Paradise features members from several current and defunct Alberta punk groups: [PMMA](https://pmma.bandcamp.com/), [Empty Heads](https://emptyheads.bandcamp.com/), and [No Brainer](https://nobrainercalgary.bandcamp.com/) among them. The band recorded their new set with Brandon Kam. Will Killingsworth (who recently worked with Bootlicker, Antibodies, and Dogma) mastered the record. The blown-out four-piece last released the *I Wanna Behave* EP in 2019.
 

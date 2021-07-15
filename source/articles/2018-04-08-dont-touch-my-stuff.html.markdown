@@ -57,7 +57,7 @@ I get such a *Marriage*-era Attack In Black vibe from this track. Check it out.
 
 Calgary indie pop-rock act [Pre Nup](https://prenup.bandcamp.com), the husband-and-wife duo of Josiah and Sara Hughes, has shared "The Grudge," another new song from their upcoming full length *Oh Well*.
 
-*Oh Well* features the Hughes backed by Chris Dadge and Darrell Hartsook of the Calgary band [Lab Coast](https://labcoast.bandcamp.com/). They also helped produce. Vancouver's [Jay Arner](https://jayarner.bandcamp.com/) mastered the record, which arrives on May 4 via [Debt Offensive](http://debtoffensiverecs.bigcartel.com/) and [Jigsaw Records](https://jigsaw-records.com/).
+*Oh Well* features the Hughes backed by Chris Dadge and Darrell Hartsook of the Calgary band [Lab Coast](https://labcoast.bandcamp.com/). They also helped produce. Vancouver's [Jay Arner](https://jayarner.bandcamp.com/) mastered the record, which arrives on May 4 via [Debt Offensive](https://debtoffensiverecords.bandcamp.com/) and [Jigsaw Records](https://jigsaw-records.com/).
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/346908046&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 

@@ -27,7 +27,7 @@ Calgary pop-rock act [Pre Nup](https://prenup.bandcamp.com) recently shared the 
 
 If that name sounds familiar, you may recognize Josiah as both a fairly prolific contributor to [Exclaim](http://exclaim.ca/) and one half of the [Blink-155](https://twitter.com/blink155pod) podcast with Sam Sutherland. Pre Nup is a duo featuring Josiah with his wife Sara Hughes on drums. This record also features additional instrumentation, backing vocals, and studio work from Chris Dadge and Darrell Hartsook, members of Calgary guitar-pop group [Lab Coast](https://labcoast.bandcamp.com/). *Oh Well* was mastered by Vancouver's [Jay Arner](https://jayarner.bandcamp.com/).
 
-The record arrives on May 4 from [Debt Offensive](http://debtoffensiverecs.bigcartel.com/) and [Jigsaw Records](https://jigsaw-records.com/).
+The record arrives on May 4 from [Debt Offensive](https://debtoffensiverecords.bandcamp.com/) and [Jigsaw Records](https://jigsaw-records.com/).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=752868759/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://prenup.bandcamp.com/album/oh-well">Oh Well by Pre Nup</a></iframe>
 

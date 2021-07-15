@@ -227,7 +227,7 @@ In 2019 Down Memory Lane issued two releases for Thousand Islands - the internat
 ###[Tripper and the Wild Things](https://tripperandthewildthings.bandcamp.com/): *Boomerang Kids*
 ==Preview and purchase at [Bandcamp](https://tripperandthewildthings.bandcamp.com/album/boomerang-kids-ep)==
 
-Last month Hamilton garage-punk group [Tripper and the Wild Things](https://tripperandthewildthings.bandcamp.com/) issued their debut EP, a five-song set titled *Boomerang Kings*. The band commented:
+Last month Hamilton garage-punk group [Tripper and the Wild Things](https://tripperandthewildthings.bandcamp.com/) issued their debut EP, a five-song set titled *Boomerang Kids*. The band commented:
 
 >"Growing up sucks. Our new *Boomerang Kids* EP speaks to the boomerang generation, exploring the part of growing up in your early 20s that isn't so linear. This collection of songs is all about coming into your own and figuring things out for yourself. Discovering who you are and where you're going is a continuous process."
 
