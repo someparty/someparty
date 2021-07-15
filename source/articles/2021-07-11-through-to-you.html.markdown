@@ -92,7 +92,7 @@ The track features Lawr on vocals backed by Hammerton's instrumentation, with ad
 
 Nathan Lawr's winding career in music follows his roots as the drummer for Three Gut's seminal [Royal City](https://royalcity.bandcamp.com/). He later performed with Sea Snakes, FemBots, Gentleman Reg, Cuff the Duke, Bry Webb(as a member of The Providers), and the Guelph-based funk ensemble [Minotaurs](https://minotaursband.bandcamp.com/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_X7ePpdi8Yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xhnyAnYy-cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[20 Eyes](https://20eyes.bandcamp.com): *Human Enough*
 ==Preview and purchase at [Bandcamp](https://20eyes.bandcamp.com/album/human-enough)==
