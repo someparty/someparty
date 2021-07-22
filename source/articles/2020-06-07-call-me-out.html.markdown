@@ -27,7 +27,7 @@ The set, recorded in 2019, features the distinctively tortured slow-burn vocals 
 
 [Listen: Northern Primitive - "More Songs From Saturn West" @ Bandcamp](https://northernprimitive.bandcamp.com/album/more-songs-from-saturn-west "#")
 
-Toronto's high energy garage-punk outfit [The OBGMs](http://theobgms.com) recently returned with "Cash," the group's first new single in three years. The band's now playing as a trio with guitarist/vocalist Densil McFarlane backed by bassist Joseph Brosnan and drummer Colanthony Humphrey. McFarlane boasted about the group's current direction, which dials up the aggression from their prior LP:
+Toronto's high energy garage-punk outfit [The OBGMs](https://theobgms.com/) recently returned with "Cash," the group's first new single in three years. The band's now playing as a trio with guitarist/vocalist Densil McFarlane backed by bassist Joseph Brosnan and drummer Colanthony Humphrey. McFarlane boasted about the group's current direction, which dials up the aggression from their prior LP:
 
 > "It's a slap in the face... The OBGMs self-titled was on some 'happy to be here' shit. The singles and eventual album are on some 'I deserve to be here' stuff... we wanted to slap people in the face to let them know we are the ones to mess with."
 

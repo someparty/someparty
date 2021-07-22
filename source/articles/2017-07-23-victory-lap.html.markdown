@@ -53,7 +53,7 @@ Toronto duo [Beliefs](http://beliefsmusic.com/) have announced a full length rel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/limJ3JlBo3A?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-[Clash Magazine](https://www.youtube.com/watch?v=dnv4EVS9tRc) premiered the new single "Pill" from Toronto's [The OBGMs](http://theobgms.com
+[Clash Magazine](https://www.youtube.com/watch?v=dnv4EVS9tRc) premiered the new single "Pill" from Toronto's [The OBGMs](https://theobgms.com/
 ). The quartet, who are over in London playing this weekend's [AfroPunk Festival](http://afropunkfest.com/), will release the song on as part of their newly remixed self-titled album, which is set for a September 8th release on [Black Box](http://weareblackbox.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dnv4EVS9tRc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

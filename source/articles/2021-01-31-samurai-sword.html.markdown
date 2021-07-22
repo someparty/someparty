@@ -78,7 +78,7 @@ New York label [Sad Cactus](https://www.sadcact.us/) is issuing the release on C
 ###[The OBGMs](https://theobgms.com/): *The Outsah Tape*
 ==Listen at [YouTube](https://youtu.be/2T5punB2FWQ)==
 
-Toronto punk trio [The OBGMs](http://theobgms.com) recently revisited the opening track to 2020's *The Ends* with a pair of remixes. *The Outsah Tape* features two new takes on "Outsah," one pairing drummer Cola H. with the New York hip-hop/rock hybrid [Oxymorrons](https://www.oxymorrons.com), and the second featuring Chicago wrapper [femdot.](https://www.instagram.com/femdotdotcom) joining forces with the OBGMs' frequent collaborator [Clairmont The Second](https://www.ctsecond.com/). Oxymorrons hyped the project in a statement, stating:
+Toronto punk trio [The OBGMs](https://theobgms.com/) recently revisited the opening track to 2020's *The Ends* with a pair of remixes. *The Outsah Tape* features two new takes on "Outsah," one pairing drummer Cola H. with the New York hip-hop/rock hybrid [Oxymorrons](https://www.oxymorrons.com), and the second featuring Chicago rapper [femdot.](https://www.instagram.com/femdotdotcom) joining forces with the OBGMs' frequent collaborator [Clairmont The Second](https://www.ctsecond.com/). Oxymorrons hyped the project in a statement, stating:
 
 > "This is the collaboration you didn't know you needed! It's NYC meets The 6! This is international Black Punk Rock Rap shit, baby! Enjoy or you can meet us Outsah!"
 

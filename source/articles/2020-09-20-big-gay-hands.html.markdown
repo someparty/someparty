@@ -19,7 +19,7 @@ The 10-song *Never Give Up* arrives from [You've Changed Records](https://youvec
 
 [Watch: Partner - "Big Gay Hands" @ YouTube](https://youtu.be/3hxWLlmQYVY "#")
 
-Toronto punk trio [The OBGMs](http://theobgms.com) have a frantic new video online featuring "Outsah," the album-opening cut from their upcoming full-length *The Ends*. The group co-directed the aggressive clip with Toronto rapper [Clairmont The Second](https://www.ctsecond.com/) and their frequent visual collaborator Beee.
+Toronto punk trio [The OBGMs](https://theobgms.com/) have a frantic new video online featuring "Outsah," the album-opening cut from their upcoming full-length *The Ends*. The group co-directed the aggressive clip with Toronto rapper [Clairmont The Second](https://www.ctsecond.com/) and their frequent visual collaborator Beee.
 
 Vocalist/guitarist Densil McFarlane commented on the video and the song's role as a forceful declaration of intent:
 
