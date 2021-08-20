@@ -93,7 +93,7 @@ Sales of the track at Bandcamp support [Sundance Harvest](https://www.sundanceha
 
 [Watch: Chladny - "Can you See It On My Face" @ YouTube](https://youtu.be/jtNEcV_Vw-Q "#")
 
-Welland rock group [Canyon Carvers](https://canyoncarvers.bandcamp.com) recently unearthed *All Of This*, a 2016 collaboration with Julia Allen of the Toronto dream-pop act [For Keeps](https://forkeepsband.bandcamp.com). The set, recorded in the summer of that year, features three sunny, Blondie-influenced tunes written and sung by Allen. The tracks feature instrumental backing Canyon Carvers' Riley Simpson, with production by the band's Nick Giammarco. The songs are up for sale now on Bandcamp, with all funds generated due to [Black Women In Motion](https://blackwomeninmotion.org/).
+Welland rock group [Canyon Carvers](https://canyoncarvers.bandcamp.com) recently unearthed *All Of This*, a 2016 collaboration with Julia Allen of the Toronto dream pop act [For Keeps](https://forkeepsband.bandcamp.com). The set, recorded in the summer of that year, features three sunny, Blondie-influenced tunes written and sung by Allen. The tracks feature instrumental backing Canyon Carvers' Riley Simpson, with production by the band's Nick Giammarco. The songs are up for sale now on Bandcamp, with all funds generated due to [Black Women In Motion](https://blackwomeninmotion.org/).
 
 With roots in the same scene that produced Attack In Black and their offshoots, Canyon Carvers last released the "Good For You" single in 2015, having issued the full-length *Aside and Beside* the year before. For Keeps put out the *Somedays* album in 2018.
 

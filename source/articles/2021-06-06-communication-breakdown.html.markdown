@@ -84,7 +84,7 @@ The moment I can see a band like this play some shitty bar at whatever horrible 
 ###[TRAITRS](https://traitrs.bandcamp.com): "Magdalene"
 ==Watch on [YouTube](https://youtu.be/CuKUvZi-Vok) - Preview and purchase at [Bandcamp](https://traitrs.bandcamp.com/track/magdalene)==
 
-Toronto's post-punk/darkwave duo [TRAITRS](https://traitrs.bandcamp.com/) returned last week with a new EP titled *The Sick, Tired and Ill*, their first follow-up to their 2018 Pleasence full-length *Burcher's Coin*. You can preview the six-song collection through the authentic 80s goth vibes of "Magdalene." That single's now streaming at Bandcamp and featured in a new video from director Shawn Tucker.
+Toronto's post-punk/darkwave duo [TRAITRS](https://traitrs.bandcamp.com/) returned last week with a new EP titled *The Sick, Tired and Ill*, their first follow-up to their 2018 Pleasence full-length *Butcher's Coin*. You can preview the six-song collection through the authentic 80s goth vibes of "Magdalene." That single's now streaming at Bandcamp and featured in a new video from director Shawn Tucker.
 
 Speaking to [Post-Punk.com](https://post-punk.com/post-punk-duo-traitrs-tear-through-religious-imagery-with-dark-romance-of-magdalene/), the band detailed writing the song while on tour in Copenhagen, noting the influence of Naked Eyes, The Smiths, and The Police. Vocalist Shawn Tucker commented:
 

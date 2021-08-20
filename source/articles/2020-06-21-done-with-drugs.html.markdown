@@ -21,7 +21,7 @@ Also, if case you missed it, make sure you check out Ross Miller's new posi-hard
 
 [Listen: The Dirty Nil - "Done With Drugs" @ Bandcamp](http://thedirtynil.bandcamp.com/album/done-with-drugs "#")
 
-Toronto psych-rock combo [Mother Tongues](https://mothertongues.bandcamp.com) have a new single in the wild, shared alongside details on their upcoming [Buzz Records](http://buzzrecords.ca/) EP, *Everything You Wanted*. The band recently premiered a bright and dynamic dream-pop number titled "Let You Down," one of six tracks slated for on the record.
+Toronto psych-rock combo [Mother Tongues](https://mothertongues.bandcamp.com) have a new single in the wild, shared alongside details on their upcoming [Buzz Records](http://buzzrecords.ca/) EP, *Everything You Wanted*. The band recently premiered a bright and dynamic dream pop number titled "Let You Down," one of six tracks slated for on the record.
 
 In a statement published by [Exclaim](https://exclaim.ca/music/article/mother_tongues_announce_debut_ep_everything_you_wanted), founding guitarist Lukas Cheung laid out a few goals for the EP:
 

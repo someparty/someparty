@@ -101,7 +101,7 @@ Toronto's eclectic electronic/post-punk project [Commuted](https://commuted.band
 
 [Watch: Commuted - "Life's a Zoo" @ YouTube](https://youtu.be/eWGhZc6zUcg "#")
 
-Toronto dream-pop quartet [Tallies](http://tallies.bandcamp.com) have a kaleidoscopic new video online featuring the song "Midnight" from their self-titled 2019 full-length. Directed by Christopher Mills, the clip arrived just as the band embarked for their European tour. You can check it out below.
+Toronto dream pop quartet [Tallies](http://tallies.bandcamp.com) have a kaleidoscopic new video online featuring the song "Midnight" from their self-titled 2019 full-length. Directed by Christopher Mills, the clip arrived just as the band embarked for their European tour. You can check it out below.
 
 Tallies' debut LP was released by [Hand Drawn Dracula](http://handdrawndracula.com/) back in January. It features singer and rhythm guitarist Sarah Cogan, lead guitarist Dylan Frankland, drummer Cian O'Neill, and bassist Stephen Pitman. Frankland and Josh Korody produced the album.
 

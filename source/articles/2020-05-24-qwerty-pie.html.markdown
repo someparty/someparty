@@ -133,7 +133,7 @@ UUBBUURRUU was formed in 2014 by singer/guitarist Joey Napoleon ([El Napoleon](h
 
 [Listen: UUBBUURRUU - "Ice Head" @ YouTube](https://youtu.be/ks-qwE6MtF4 "#")
 
-Windsor-based dream-pop act [Moon King](https://moon-king.bandcamp.com/) recently announced a second cross-border collaboration with the Detroit synth-pop vocalist [Vespre](https://www.vespresounds.com/). You can stream the new single "Seconds From You" now at Bandcamp. Moon King's Daniel Benjamin contributed the instrumentals and production on the track, with Vespre's Kaylan Waterman handling the vocals. The duo recorded over two days in an unused office tower near downtown Detroit where the studio Assemble Sound had rented an entire floor.
+Windsor-based dream pop act [Moon King](https://moon-king.bandcamp.com/) recently announced a second cross-border collaboration with the Detroit synth-pop vocalist [Vespre](https://www.vespresounds.com/). You can stream the new single "Seconds From You" now at Bandcamp. Moon King's Daniel Benjamin contributed the instrumentals and production on the track, with Vespre's Kaylan Waterman handling the vocals. The duo recorded over two days in an unused office tower near downtown Detroit where the studio Assemble Sound had rented an entire floor.
 
 Moon King and Vespre last collaborated on 2019's *Voice of Lovers* LP, appearing together on the single "Neon Lights."
 
