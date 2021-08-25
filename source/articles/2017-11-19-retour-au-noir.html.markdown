@@ -56,7 +56,7 @@ Glynt, or Alexandra Mackenzie in her civilian guise, has also announced an LP [r
 
 [Watch: Julie & The Wrong Guys - "Farther From You" @ YouTube](https://www.youtube.com/watch?v=_uPZvxXAreo&feature=youtu.be "#")
 
-I've mentioned [Corner Boys](https://cornerboys.bandcamp.com)' authentically vintage punk single "Just Don't Care" a few times in past mailings. The track now has a video to accompany it, shot and edited by Simon Thistlewood. The band features [Hosehead Records](http://www.hoseheadrecords.ca/)' Patrick Bertrand, Joel Butler of [Nervous Talk](https://nervoustalk.bandcamp.com/) and Wade from [Stress Eating](https://stresseating.bandcamp.com/). The three-song EP this track leads off arrived in October on [Drunken Sailor Records](http://www.drunkensailorrecords.co.uk/).
+I've mentioned [Corner Boys](https://cornerboys.bandcamp.com)' authentically vintage punk single "Just Don't Care" a few times in past mailings. The track now has a video to accompany it, shot and edited by Simon Thistlewood. The band features [Hosehead Records](https://hoseheadrecords.bandcamp.com/)' Patrick Bertrand, Joel Butler of [Nervous Talk](https://nervoustalk.bandcamp.com/) and Wade from [Stress Eating](https://stresseating.bandcamp.com/). The three-song EP this track leads off arrived in October on [Drunken Sailor Records](http://www.drunkensailorrecords.co.uk/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i3KD120xQxw?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
 

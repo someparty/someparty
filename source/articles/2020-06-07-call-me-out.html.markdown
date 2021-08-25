@@ -157,7 +157,7 @@ Guilhem released the solo album *Born & Bored* on March 2, following it up last 
 
 Vancouver punks [Chain Whip](https://chainwhip.bandcamp.com/) are bringing their 2019 LP of 80s hardcore worship to Europe through a June release on [Drunken Sailor Records](http://www.drunkensailorrecords.co.uk/). In the lead-up to the *14 Lashes* re-release, the group put together a new video for the song "Don't Talk To Me." You can check it out now on YouTube.
 
-Chain Whip features Josh Nickel of [Fashionism](https://fashionism.bandcamp.com/) on vocals, Joel Butler of [Nervous Talk](https://nervoustalk.bandcamp.com/), [The Moby Dicks](https://themobydicks.bandcamp.com/), and Corner Boys on guitar, Brett Thompson of [Stress Eating](https://stresseating.bandcamp.com/) on bass, and Patrick Bertrand of [Corner Boys](https://cornerboys.bandcamp.com) on drums. Nickel and Bertrand respectively run the [Neon Taste](https://neontasterecords.bandcamp.com/) and [Hosehead](http://www.hoseheadrecords.ca/) labels.
+Chain Whip features Josh Nickel of [Fashionism](https://fashionism.bandcamp.com/) on vocals, Joel Butler of [Nervous Talk](https://nervoustalk.bandcamp.com/), [The Moby Dicks](https://themobydicks.bandcamp.com/), and Corner Boys on guitar, Brett Thompson of [Stress Eating](https://stresseating.bandcamp.com/) on bass, and Patrick Bertrand of [Corner Boys](https://cornerboys.bandcamp.com) on drums. Nickel and Bertrand respectively run the [Neon Taste](https://neontasterecords.bandcamp.com/) and [Hosehead](https://hoseheadrecords.bandcamp.com/) labels.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r4c4qyLbIF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

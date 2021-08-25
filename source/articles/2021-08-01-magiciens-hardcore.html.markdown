@@ -40,7 +40,7 @@ Toronto's jangly power-pop trio [Motorists](https://motorists.bandcamp.com/) rec
 
 *Surrounded* arrives on September 3, backed by three labels - [Bobo Integral](https://bobointegral.com/) in Spain, [We Are Time](https://wearetime.bandcamp.com/) in the US, and [Debt Offensive](https://debtoffensiverecords.bandcamp.com/) here in Canada. The band self-produced the twelve-song set, with  Eddy Current Suppression Ring's Mikey Young (Dumb, Itchy Self, TV Freaks) mastering.
 
-MMotorists bring together the Calgarian expats Craig Fahner ([Feel Alright](https://www.facebook.com/feelalrighttt/), [Leather Jacuzzi](https://leatherjacuzzi.bandcamp.com)), Jesse Locke ([Tough Age](https://tough-age.bandcamp.com/), [Chandra](https://chandrachandra.bandcamp.com/), [Simply Saucer](https://www.simplysaucer.com/)), and Matt Learoyd ([Lab Coast](https://labcoast.bandcamp.com/), Mount Analogue).
+Motorists bring together the Calgarian expats Craig Fahner ([Feel Alright](https://www.facebook.com/feelalrighttt/), [Leather Jacuzzi](https://leatherjacuzzi.bandcamp.com)), Jesse Locke ([Tough Age](https://tough-age.bandcamp.com/), [Chandra](https://chandrachandra.bandcamp.com/), [Simply Saucer](https://www.simplysaucer.com/)), and Matt Learoyd ([Lab Coast](https://labcoast.bandcamp.com/), Mount Analogue).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IyCWdymfp7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

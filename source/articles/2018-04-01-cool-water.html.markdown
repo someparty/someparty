@@ -69,7 +69,7 @@ In March the band launched their first EP with a show at Ottawa's Concorde Motel
 
 This week the Vancouver punk trio [Corner Boys](https://cornerboys.bandcamp.com) revealed the details on their upcoming 7" for [Dirt Cult Records](https://dirtcultrecords.bandcamp.com/). *Love Tourist* will feature four new songs, including a cover of "TV Love" by early LA punk group The Simpletones. The band recorded with Fashionism's Jeffrey McCloy.
 
-Corner Boys features [Hosehead Records](http://www.hoseheadrecords.ca/)' Patrick Bertrand, Joel Butler of [Nervous Talk](https://nervoustalk.bandcamp.com/), and Wade from [Stress Eating](https://stresseating.bandcamp.com/). Butler and Bertrand have been playing as members of the incredibly fun punk group [Chain Whip](https://chainwhip.bandcamp.com/) recently as well.
+Corner Boys features [Hosehead Records](https://hoseheadrecords.bandcamp.com/)' Patrick Bertrand, Joel Butler of [Nervous Talk](https://nervoustalk.bandcamp.com/), and Wade from [Stress Eating](https://stresseating.bandcamp.com/). Butler and Bertrand have been playing as members of the incredibly fun punk group [Chain Whip](https://chainwhip.bandcamp.com/) recently as well.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=589518394/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://cornerboys.bandcamp.com/album/love-tourist-ep">Love Tourist EP by Corner Boys</a></iframe>
 
