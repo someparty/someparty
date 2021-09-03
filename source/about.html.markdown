@@ -3,11 +3,11 @@ title: "About Some Party"
 layout: page
 ---
 
-Some Party is a newsletter discussing Canadian music. It's written and curated independently by Adam White, who you may know from 20-odd years as a [Punknews.org](https://www.punknews.org) contributor or a [Polaris Music Prize](https://polarismusicprize.ca/) jurist. The newsletter's written and delivered every Sunday evening (or as close to that as I can get).
+Some Party is an email newsletter sharing updates on independent Canadian rock music, curated and produced entirely as a solo project. I'm Adam White, who you may know from 20-odd years as a [Punknews.org](https://www.punknews.org) editor or as a [Polaris Music Prize](https://polarismusicprize.ca/) jurist. The newsletter's written and delivered every week (more or less).
 
-I named this project after the Constantines song (from their first album). Steve gave me his blessing to call it that, although I admit I asked him years after I started using it. Perhaps he was just being nice.
+I named this project after the Constantines song (from their first album). Steve gave me his blessing to call it that, although I admit I asked him years after I started using the name. Perhaps he was just being nice.
 
-Some Party's based in Niagara Falls, Ontario, within the lands addressed in Treaty 381. You can find me on [Twitter](https://twitter.com/adamwhite), [Instagram](https://www.instagram.com/adamwhite/), and through email at [adam@someparty.ca](mailto:adam@someparty.ca).
+Some Party's based in Niagara Falls, Ontario, within the lands addressed in Treaty 381. You can find me on [Twitter](https://twitter.com/adamwhite), [Instagram](https://www.instagram.com/adamwhite/), and through email at [adam@someparty.ca](mailto:adam@someparty.ca). You're free to add me to your mailing list, PR folk.
 
 ##Why Canada?
 
@@ -30,4 +30,4 @@ I've published Some Party's more-or-less weekly since May of 2017. You can explo
 
 This project couldn't have been launched without the support of [these folks](/acknowledgements/).
 
-Back in 2011 and 2012 a nascent version of this project emerged as a short-lived [podcast](https://itunes.apple.com/ca/podcast/some-party-punknews.org-ontario/id488545346?mt=2). It may evolve that way again someday. You are actively encouraged to ignore it.
+Back in 2011 and 2012 a nascent version of this project emerged as a short-lived [podcast](https://itunes.apple.com/ca/podcast/some-party-punknews.org-ontario/id488545346?mt=2). It may evolve that way again someday. While I've yet to delete it, you are actively encouraged to ignore it.

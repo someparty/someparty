@@ -42,7 +42,7 @@ On the song itself, the vocalist commented:
 
 The new single follows "18 Cigarettes" in previewing the record, which arrives October 1 through [Royal Mountain](https://www.royalmountainrecords.com/) and [Carpark](http://carparkrecords.com/). It's one of several songs on the project to feature backing harmonies from New Zealand indie-pop group The Beths.
 
-*Modern Fiction* serves as Ducks Ltd's full-length debut, following their recently reissued and expanded *Get Bleak* EP. James Cecil (The Goon Sax, Architecture in Helsinki) produced the new record from Australia.
+*Modern Fiction* serves as Ducks Ltd.'s full-length debut, following their recently reissued and expanded *Get Bleak* EP. James Cecil (The Goon Sax, Architecture in Helsinki) produced the new record from Australia.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mevWrqbfkAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
