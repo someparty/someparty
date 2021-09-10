@@ -95,7 +95,7 @@ Locke jested on Twitter that they're going for a "punk Sloan" sound on the outin
 
 Edmonton's [Confusionaires](http://confusionaires.bandcamp.com) recently released *From The Headache To The Heartache*, their second full-length. While the trio's clearly wrestled the limits of the "rockabilly band" label, these 13 songs go a good way towards proving they're something more. *Headache* leaps deftly from vintage rock'n'roll to spaghetti western twang to an attitude-driven punk rock sneer. There are more than a few surfy instrumentals here that should please fans of Huevos Rancheros and the Shadowy Men. The record arrived in February.
 
-Confusionaires features guitarist/vocalist Fat Dave Johnston, Jayson Aschenmeier on the upright bass and vocalis, and drummer Adam Stark. The band co-produced the record with Trevor Rockwell, recording with Adam Stark at Edmontone Studio. The new set follows their 2018 debut, *It's Time To 'Make A Little Mess' With*.
+Confusionaires features guitarist/vocalist Fat Dave Johnston, Jayson Aschenmeier on the upright bass and vocals, and drummer Adam Stark. The band co-produced the record with Trevor Rockwell, recording with Adam Stark at Edmontone Studio. The new set follows their 2018 debut, *It's Time To 'Make A Little Mess' With*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3068920536/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://confusionaires.bandcamp.com/album/from-the-headache-to-the-heartache-2020">&quot;From The Headache To The Heartache&quot; (2020) by Confusionaires!</a></iframe>
 

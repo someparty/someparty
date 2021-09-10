@@ -80,9 +80,9 @@ The band returns to the live stage for the first evening of Chicago's [Cold Wave
 ###[Confusionaires](https://confusionaires.bandcamp.com): *Jerk Reaction Volume 1*
 ==Preview and purchase at [Bandcamp](https://confusionaires.bandcamp.com/album/jerk-reaction-vol-i-e-p-2021)==
 
-Edmonton's [Confusionaires](http://confusionaires.bandcamp.com) continue to branch out from their roots in rockabilly and surf rock, sharing a raucous new four-song EP titled *Jerk Reaction Volume 1*. As the title implies, it's the first of (at least) two forthcoming sets, featuring songs the band assembled in isolation over the course of the pandemic. The trio recorded with Adam Stark engineering at Edmontone Studio. Lorrie Matheson mixed and Clay Francis mastered the new EP.
+Edmonton's [Confusionaires](http://confusionaires.bandcamp.com) continue to branch out from their roots in rockabilly and surf, sharing a raucous new four-song EP titled *Jerk Reaction Volume 1*. As the title implies, it's the first of (at least) two forthcoming sets, featuring songs the band assembled in isolation over the course of the pandemic. The trio recorded with Adam Stark engineering at Edmontone Studio. Lorrie Matheson mixed and Clay Francis mastered the new EP.
 
-This latest slate of material follows the band's 13-song full-length *From The Headache To The Heartache*, one of those unfortunate early 2020 records that arrived with naive hope just a month before the world went to shit. Confusionaires features guitarist/vocalist Fat Dave Johnston, Jayson Aschenmeier on the upright bass and vocalis, and drummer Adam Stark.
+This latest slate of material follows the band's 13-song full-length *From The Headache To The Heartache*, one of those unfortunate early 2020 records that arrived with naive hope just a month before the world went to shit. Confusionaires features guitarist/vocalist Fat Dave Johnston, Jayson Aschenmeier on the upright bass and vocals, and drummer Adam Stark.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1559776339/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://confusionaires.bandcamp.com/album/jerk-reaction-vol-i-e-p-2021">&quot;Jerk Reaction Vol. I&quot; E.P. (2021) by Confusionaires!</a></iframe>
 
