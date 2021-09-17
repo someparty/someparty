@@ -121,6 +121,17 @@ The new record finds Casper Skulls rebuilding around St-Pierre as their sole lea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WYSqFhq8000" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+###[Dooms Children](https://doomschildren.bandcamp.com/): "Heavy Year"
+==Preview and purchase at [Bandcamp](https://doomschildren.bandcamp.com/track/heavy-year)==
+
+[Alexisonfire](https://www.theonlybandever.com/)'s [Wade MacNeil](http://www.wademacneil.com/) has another preview of his psych-rock act [Dooms Children](https://doomschildren.bandcamp.com/) online. You can stream the sombre "Heavy Year" now. It's the third track from the project's self-titled LP to surface, following "Psyche Hospital Blues" and "Flower Moon." In a short statement, MacNeil commented:
+
+>"This song is about not running away from suffering. It's about feeling it, living it, and moving past it."
+
+The album arrives on October 20 from [Dine Alone Records](http://dinealonerecords.com/). MacNeil recorded live-off-the-floor in Welland, Ontario, with [Daniel Romano](https://danielromano.bandcamp.com) co-producing. Those studio sessions featured percussion from Ian Romano (Daniel Romano's Outfit, [Career Suicide](https://careersuicide.bandcamp.com/)) and additional guitars from Patrick Bennett ([Mountain Dust](https://mountaindust.bandcamp.com/)).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6oB5Zi_p1bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ###[Hate It Too](http://hateittoo.bandcamp.com): "Abilene"
 ==Preview and purchase at [Bandcamp](https://hateittoo.bandcamp.com/track/abilene)==
 
