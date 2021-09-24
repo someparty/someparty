@@ -2,7 +2,7 @@
 title: Mother Tongue
 date: 2021-09-16
 author: adam@someparty.ca (Adam White)
-description: Cool new tunes from Visibly Choked, Ciggie & The Darts, Jacob Barber, Wine Lips, Tunic, Ducks Ltd., Mononegatives, Spectres, Chastity, Casper Skulls, Hate It Too, The Ruddy Ruckus, Part-Time Cool
+description: Cool new tunes from Visibly Choked, Ciggie & The Darts, Jacob Barber, Wine Lips, Tunic, Ducks Ltd., Mononegatives, Spectres, Chastity, Casper Skulls, Dooms Children, Hate It Too, The Ruddy Ruckus, Part-Time Cool
 ---
 
 ###[Visibly Choked](https://visiblychoked.bandcamp.com): "Mother Tongue"
