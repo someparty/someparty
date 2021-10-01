@@ -29,7 +29,7 @@ Ottawa peace-punk four-piece [Dogma](https://dogmapeacepunk.bandcamp.com) has a 
 
 [Listen: Dogma - "Zealot" @ Bandcamp](http://dogmapeacepunk.bandcamp.com/album/zealot "#")
 
-The Dartmouth folk-rock/shoegaze group [Diamondtown](http://diamondtown.bandcamp.com/album/the-voice-ep) has a new EP online, combining their recent digital singles with unreleased new material as *The Voice*. The group's an extension of [Husband & Knife](https://husbandknife.bandcamp.com/), a duo featuring KC Spidle of the beloved Halifax indie-rock group [Dog Day](http://dogdaymusic.com/) and Evan Cardwell. Diamondtown builds on that foundation with the addition of Kate O'Neill and [Eric's Trip](https://www.subpop.com/artists/erics_trip) member / Moonsocket soloist Chris Thompson.
+The Dartmouth folk-rock/shoegaze group [Diamondtown](http://diamondtown.bandcamp.com/album/the-voice-ep) has a new EP online, combining their recent digital singles with unreleased new material as *The Voice*. The group's an extension of [Husband & Knife](https://husbandknife.bandcamp.com/), a duo featuring KC Spidle of the beloved Halifax indie-rock group [Dog Day](http://dogdaymusic.com/) and Evan Cardwell. Diamondtown builds on that foundation with the addition of Kate O'Neill and [Eric's Trip](https://www.subpop.com/artists/erics_trip) member / Moon Socket soloist Chris Thompson.
 
 Speaking to [The East](http://www.theeastmag.com/2019/07/02/new-music-diamondtown-weigh-your-life-against-time-with-the-voice/) about the new collection, Spidle commented:
 

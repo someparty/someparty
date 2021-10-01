@@ -45,7 +45,7 @@ Earlier this year, WLMRT vocalist Shelby Wilson re-emerged in [Only God Forgives
 
 Dartmouth folk-rock/shoegaze group [Diamondtown](http://diamondtown.bandcamp.com/) is finishing up a new full-length, expected sometime in the new year. The band previewed the album with the single "Truth," accompanied by a trippy new video. The new material follows the band's 2019 EP *The Voice*, and the two-song early-2020 single *Lost/Free*.
 
-Diamondtown grew as an extension of [Husband & Knife](https://husbandknife.bandcamp.com/), a duo featuring KC Spidle (of the beloved Halifax gloom-pop group [Dog Day](http://dogdaymusic.com/)) and Evan Cardwell. The group also features Chris Thompson (of Moonsocket and the legendary [Eric's Trip](https://www.subpop.com/artists/erics_trip)) and Kate O'Neill.
+Diamondtown grew as an extension of [Husband & Knife](https://husbandknife.bandcamp.com/), a duo featuring KC Spidle (of the beloved Halifax gloom-pop group [Dog Day](http://dogdaymusic.com/)) and Evan Cardwell. The group also features Chris Thompson (of Moon Socket and the legendary [Eric's Trip](https://www.subpop.com/artists/erics_trip)) and Kate O'Neill.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bzED7-wQnn8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
