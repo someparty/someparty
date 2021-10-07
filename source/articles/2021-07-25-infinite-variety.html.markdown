@@ -37,7 +37,7 @@ This year's incarnation of Bad Buzz features bassist/vocalist Joe Iacobelli, gui
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4259202458/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://badbuzzmusic.bandcamp.com/album/for-a-good-time-call">For a Good Time, Call... by Bad Buzz</a></iframe>
 
-###[The Sunshiny Daze](hhttps://snakeriver.bandcamp.com/album/clouds-melt-away): *Clouds Melt Away*
+###[The Sunshiny Daze](https://snakeriver.bandcamp.com/album/clouds-melt-away): *Clouds Melt Away*
 ==Preview and purchase at [Bandcamp](https://snakeriver.bandcamp.com/album/clouds-melt-away)==
 
 Christopher Sleightholm of Regina's rootsy storytellers [Snake River](https://snakeriver.bandcamp.com/) recently unveiled a new side project - performing bright psych-pop as [The Sunshiny Daze](https://snakeriver.bandcamp.com/album/clouds-melt-away). Last week the artist shared an 11-song full-length under the pseudonym titled *Clouds Melt Away*, collecting material recorded from Sleightholm's home studio earlier this year. The project's write-up at Bandcamp reveals:

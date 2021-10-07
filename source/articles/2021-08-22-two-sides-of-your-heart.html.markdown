@@ -117,7 +117,7 @@ Grimy Toronto hardcore/punk quartet [The Slime](https://theslimehardcore.bandcam
 ###[SATE](https://stateofsate.bandcamp.com): "Howler"
 ==Watch on [YouTube](https://youtu.be/qYuGuj3Eirk)==
 
-Hard-hitting Toronto's blues-rocker [SATE](https://stateofsate.bandcamp.com) has a stomping new single out titled "Howler." It's the attitude-driven second preview of the artist's long-in-the-works next full-length, *The Fool*. That record, now arriving November 4, follows up 2016's *RedBlack&Blue*.
+Hard-hitting Toronto blues-rocker [SATE](https://stateofsate.bandcamp.com) has a stomping new single out titled "Howler." It's the attitude-driven second preview of the artist's long-in-the-works next full-length, *The Fool*. That record, now arriving November 4, follows up 2016's *RedBlack&Blue*.
 
 In a statement, SATE, the daughter of Canadian soul/jazz pioneer Salome Bey, commented on the song's origin and its message:
 

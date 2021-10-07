@@ -50,7 +50,7 @@ Wine Lips features vocalist/guitarist Cam Hilborn, drummer Aurora Evans, guitari
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ioJsYEN17e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Tunic](http://tunicband.com/): "Apprehension"
-==Watch on [YouTube](https://youtu.be/pt0XCqvMj9Q) - Preview and purchase at [Bandcamp](hhttps://tunicband.bandcamp.com/track/apprehension)==
+==Watch on [YouTube](https://youtu.be/pt0XCqvMj9Q) - Preview and purchase at [Bandcamp](https://tunicband.bandcamp.com/track/apprehension)==
 
 Winnipeg noise-punks [Tunic](http://tunicband.com/) continue to roll out previews of *Quitter*, their upcoming LP. In just over two minutes, "Apprehension" presents a breakneck journey through loud/quiet dynamics, snapping from grimy lows to surges of aggression. The track comes accompanied by an animated video from director [Dimitris Armenakis](https://www.instagram.com/lv.rmn/) featuring art from Sam Neal. In a statement, guitarist/vocalist David Schellenberg revealed "[the song's] about giving up, being defeated and getting bulldozed by a relationship."
 
