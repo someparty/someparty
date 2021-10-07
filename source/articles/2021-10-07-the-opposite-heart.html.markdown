@@ -2,19 +2,19 @@
 title: The Opposite Heart
 date: 2021-10-07
 author: adam@someparty.ca (Adam White)
-description: Coast to coast audio from Papal Visit, Chad VanGaalen, Sunglaciers, NOBRO, Night Court, Matty Grace, Punitive Damage, Indian Giver, Tunic, Spectres, Our Darkest Days, SATE, and VICTIME
+description: Coast to coast audio from Papal Visit, Chad VanGaalen, Sunglaciers, NOBRO, Night Court, Matty Grace, Punitive Damage, Indian Giver, Wine Lips, Tunic, Spectres, Our Darkest Days, SATE, and VICTIME
 ---
 
 ###[Papal Visit](http://papalvisit.bandcamp.com): "The Opposite Heart"
 ==Watch on [YouTube](https://youtu.be/p82Ibf9-P-M) - Preview and purchase at [Bandcamp](https://papalvisit.bandcamp.com/album/the-opposite-heart)==
 
-Whatever happened to [Papal Visit](http://papalvisit.bandcamp.com)? The Saint John indie rockers released a string of lo-fi yet stylistically varied singles through the spring and summer of 2020. Almost 30 candidate tracks were in play, with some selection destined for a fall full-length. These efforts stalled, though. The 2020 grind had a nasty habit of swallowing projects whole, and the band went quiet before anything materialized. It's been a whole year since the release of their last preview (September 2020's "Inaudible"), and there's now finally news on that long-awaited LP. *Five Fathom Hole* arrives on November 12 through [Monopolized Records](https://monopolizedrecords.com/). The announcement came alongside a studio version of "The Opposite Heart."
+Whatever happened to [Papal Visit](http://papalvisit.bandcamp.com)? The Saint John indie rockers released a string of stylistically varied singles through the spring and summer of 2020. Almost 30 candidate tracks were in play, with some selection destined for a fall full-length. These efforts stalled, though. The 2020 grind had a nasty habit of swallowing projects whole, and the band went quiet before anything materialized. It's been a whole year since the release of their last preview (September 2020's "Inaudible"), and there's now finally news on that long-awaited LP. *Five Fathom Hole* arrives on November 12 through [Monopolized Records](https://monopolizedrecords.com/). The announcement came alongside a studio version of live favourite "The Opposite Heart."
 
 Speaking to [Grid City Magazine](http://www.gridcitymagazine.com/papal-visit-announce-new-album-five-fathom-hole/), Papal Visit principle [Adam Mowery](https://itsadammowery.bandcamp.com) commented on the upcoming release:
 
 >"*Five Fathom Hole* is the kind of album I've wanted to do for years, and Papal Visit's never ending assembly line approach makes it possible. The easiest comparison regarding the format is obviously - *The White Album* by the Beatles - a big unwieldy collection of recordings from different nights, sessions and recording spaces. Some are fully realized indie rock and punk songs, while others are scraps and weird experiments. The end result is hopefully a type of sonic collage, where the listener doesn't have time to process what they've heard before moving onto the next recording."
 
-You may recognize "The Opposite Heart" as the album-opening track from the band's 2019 live record *Prepare For Your Reversal*. It's also a great example of the short-and-scrappy songwriting Papal Visit relishes in - a sound very much in the tradition of Guided By Voices' *Alien Lanes*. You can see it performed in a new music video shot at the Saint John rehearsal space - known quite plainly to locals as "The Space" (thanks to Dan at [The East Mag](https://www.theeastmag.com/2021/10/05/papal-visit-goes-for-the-punch-with-a-quick-and-slick-the-opposite-heart/) for identifying that).
+You may recognize "The Opposite Heart" as the album-opening track from the band's 2019 live record *Prepare For Your Reversal*. It's also a great example of the short-and-scrappy lo-fi songwriting Papal Visit relishes in - a sound very much in the tradition of Guided By Voices' *Alien Lanes*. You can see it performed in a new music video shot at the Saint John rehearsal space - known quite plainly to locals as "The Space" (thanks to Dan at [The East Mag](https://www.theeastmag.com/2021/10/05/papal-visit-goes-for-the-punch-with-a-quick-and-slick-the-opposite-heart/) for identifying that).
 
 Adam Mowery formed Papal Visit after moving to Halifax, working remotely with Pierre Cormier to stay connected with the Saint John scene (remote-assembling songs long before COVID made that fashionable). The new record's the band's first proper LP since 2017's *Garden Grove* and follows Mowery's 2020 solo effort *Horseshoe Canyon*. Papal Visit's current lineup features Mowery on vocals, Cormier on bass, Jason Ogden and Chris Braydon on guitars, and Geoffrey Smith drumming.
 
@@ -23,8 +23,8 @@ Adam Mowery formed Papal Visit after moving to Halifax, working remotely with Pi
 ###[Chad VanGaalen](https://chadvangaalen.bandcamp.com/): *Full Moon Bummer*
 ==Preview and purchase at [Bandcamp](https://chadvangaalen.bandcamp.com/album/full-moon-bummer)==
 
-Just a week after his last release, Calgary's prolific weird-folk figurehead [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) has another collection of new music online. While much of the artist's pandemic-era catalogue explores ambient side-roads and instrumental themes, *Full Moon Bummer* arrives as a more traditional collection of songs. The 11-track set features music written and recorded in the run-up to *World's Most Stressed Out Gardener*, but ultimately cut from the full-length - material that "didn't make sense for right now," as VanGaalen revealed to [Soft Sounds](https://softsounds.substack.com/p/chad-vangaalen-on-the-home-life-animation).
-()
+Just a week after his last release, Calgary's prolific weird-folk figurehead [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) has another collection of new music online. While much of the artist's pandemic-era catalogue explores ambient side-roads and instrumental valleys, *Full Moon Bummer* arrives as a more traditional collection of songs. The 11-track set features music written and recorded in the run-up to *World's Most Stressed Out Gardener*, but ultimately cut from the full-length - material that "didn't make sense for right now," as VanGaalen revealed to [Soft Sounds](https://softsounds.substack.com/p/chad-vangaalen-on-the-home-life-animation).
+
 Consider *Full Moon Bummer*, therefore, an oft-sombre companion piece to the *Gardener*. That record arrived on vinyl in March through [Flemish Eye](http://www.flemisheye.com/) and the legendary [Sub Pop Records](https://www.subpop.com/). For now, at least, *Full Moon Bummer* lives exclusively in the digital realm.
 
 Last month VanGaalen shared *Broken Harp*, featuring six instrumentals written for the titular instrument (plucked from the local classifieds). That set followed a string of digitally issued experiments, including a collection of "off-gassing instrumentals" titled *NTH* and a group of synth compositions dubbed *Lost Harmonies*.
@@ -68,7 +68,7 @@ transparent=true/" seamless><a href="https://nightcourtpunk.bandcamp.com/track/f
 
 With [Cluttered](https://cluttered.bandcamp.com/) on fire and [Century Egg](https://centuryegg.bandcamp.com/) resurgent, you'd think that [Matty Grace](http://mattygrace.bandcamp.com/) would have enough plates to spin. Ever restless, the Halifax vet recently issued a new set of downtrodden folk-punk recordings, dubbed *Dysphoria City Limits*. The intensely personal EP arrives following several COVID-era solo releases, including a split EP with Garbage Disposal Unit and last summer's three-song *Frayed*. That's not even counting Grace's output as the frustrated Ramonescore act [Modern Cynics](https://moderncynics.bandcamp.com). This material all follows in the wake of March 2020's *Rumination Year*, Grace's long-in-the-works solo record and her last "proper" solo release before everything went sideways.
 
-Last week Matty's new punk act Cluttered announced their vinyl debut, a ten-song collection titled *The First Pandemic* (just in case you forgot). It collects the material from January's self-titled effort and June's *Accidents* together as a 12", shipping out near the end of November. You can snag one from the group's Bandcamp page.
+Last week Matty's new punk act Cluttered announced their vinyl debut, a ten-song collection titled *The First Pandemic* (just in case you thought you could forget). It collects the material from January's self-titled effort and June's *Accidents* together as a 12", shipping out near the end of November. You can snag one from the group's Bandcamp page.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4176243558/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://mattygrace.bandcamp.com/album/dysphoria-city-limits">Dysphoria City Limits by Matty Grace</a></iframe>
 
@@ -89,6 +89,15 @@ Indigenous hardcore act [Indian Giver](http://indiangiverhxc.bandcamp.com) has a
 The new recording follows "Bleeding Out" and "Seventh Fire," digital singles issued by the Toronto group in late 2019.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3901608420/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://indiangiverhxc.bandcamp.com/track/blood-on-the-cross-feat-karla-gonzalez">Blood On The Cross (feat. Karla Gonzalez) by Indian Giver</a></iframe>
+
+###[Wine Lips](https://winelips.bandcamp.com): "Tension"
+==Preview and purchase at [Bandcamp](https://winelips.bandcamp.com/track/tension)==
+
+Toronto garage rockers [Wine Lips](https://winelips.bandcamp.com) dramatically dial up the rock heroism on "Tension," the bombastic second preview of their forthcoming LP. The anthemic track appears on *Mushroom Death Sex Bummer Party*, the group's 11-song debut for [Stomp Records](https://stomprecords.com/), due October 29.
+
+Wine Lips features vocalist/guitarist Cam Hilborn, drummer Aurora Evans, guitarist Jordan Sosensky, and bassist Charlie Weare. The group recorded at London's Sugar Shack studio with Simon Larochette producing. The new LP, their third, follows up on 2019's *Stressor*.
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2632928414/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3473708926/transparent=true/" seamless><a href="https://winelips.bandcamp.com/album/mushroom-death-sex-bummer-party">Mushroom Death Sex Bummer Party by Wine Lips</a></iframe>
 
 ###[Tunic](http://tunicband.com/): "You're a Bug"
 ==Watch on [YouTube](https://youtu.be/c1GEZ00r1DY) - Preview and purchase at [Bandcamp](https://tunicband.bandcamp.com/track/youre-a-bug)==
@@ -135,6 +144,6 @@ While they're not playing on the recording, Toronto punk champions [The OBGMs](h
 
 Last week I shared a rarity that [Corridor](https://corridormtl.bandcamp.com) released in celebration of the 30th anniversary of the Université de Montréal's campus radio station [CISM](https://cism893.ca/), but I completely glossed over the fact that it's available as part of a limited LP. *Les chants du 30e* features nine songs from a selection of Quebec artists, available from the station for free with the purchase of any merchandise. This week the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/)shared their contribution to the project, a cacophonous new live-recording titled "Faire la matière." The track features Laurence Gauthier-Brown on vocals and synth, Simon Provencher on guitar, and Samuel Gougoux drumming.
 
-This song's the first new material from VICTIME to arrive since their 2019 EP *Mi-tronc, mi-jambe*. While the trio's been quiet as an ensemble since then, it's been a busy year for related projects. Provencher appeared as one half of [Album](https://albumalbumalbum.bandcamp.com/), a "glitch-groove" duo with [FET.NAT](https://fetnat.bandcamp.com)'s Olivier Fairfield. He also issued an experimental solo EP dubbed *Mesures*. Gougoux's also recorded solo as [TDA](https://tda444.bandcamp.com/) and appears on the recent full-lengh from [Hélène Barbier](https://helenebarbier.bandcamp.com/).
+This song's the first new material from VICTIME to arrive since their 2019 EP *Mi-tronc, mi-jambe*. While the trio's been quiet as an ensemble since then, it's been a busy year for related projects. Provencher appeared as one half of [Album](https://albumalbumalbum.bandcamp.com/), a "glitch-groove" duo with [FET.NAT](https://fetnat.bandcamp.com)'s Olivier Fairfield. He also issued an experimental solo EP dubbed *Mesures*. Gougoux also recorded solo as [TDA](https://tda444.bandcamp.com/) and appears on the recent full-length from [Hélène Barbier](https://helenebarbier.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3535505443/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://victimelol.bandcamp.com/track/faire-la-mati-re-live">Faire la matière (live) by VICTIME</a></iframe>
