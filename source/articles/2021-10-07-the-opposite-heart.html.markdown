@@ -42,7 +42,7 @@ The new songs result from an extensive pandemic-era songwriting effort from mult
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PH11TG-e07c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[NOBRO](https://nobro.bandcamp.com/album/better-each-day): "Better Each Day"
+###[NOBRO](https://nobro.bandcamp.com): "Better Each Day"
 ==Preview and purchase at [Bandcamp](https://nobro.bandcamp.com/album/better-each-day)==
 
 Montreal's [NOBRO](https://nobro.bandcamp.com/) has yet to release a song that one couldn't conservatively describe as "fucking gigantic," and the new one-off "Better Each Day" somehow tops even the earworms of 2020's *Sick Hustle*. The track arrived this week along with the band's post-pandemic tour schedule (look for them opening for some big names through next April, sharing the stage with the likes of Tokyo Police Club, Billy Talent, PUP, and Rise Against). In a statement, vocalist/bassist Kathryn McCaughey commented:

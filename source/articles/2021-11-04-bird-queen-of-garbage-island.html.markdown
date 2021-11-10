@@ -2,11 +2,11 @@
 title: Bird Queen of Garbage Island
 date: 2021-11-04
 author: adam@someparty.ca (Adam White)
-description: New tunes from The Burning Hell, Young Guv, Julie Doiron, Bratboy, Hyness, Pkew Pkew Pkew, Sea of Troubles, Century Egg, The Black Void, 20 Eyes, Lost Love, and Diamontown
+description: New tunes from The Burning Hell, Young Guv, Julie Doiron, Bratboy, Hyness, Pkew Pkew Pkew, Sea of Troubles, Century Egg, The Black Void, 20 Eyes, Lost Love, and Diamondtown
 ---
 
 ###[The Burning Hell](http://www.wearetheburninghell.com/): "Bird Queen of Garbage Island"
-==Watch on [Youtube](https://youtu.be/2hXxz5YQSCA)==
+==Watch on [Youtube](https://youtu.be/2hXxz5YQSCA) - Preview and purchase at [Bandcamp](https://theburninghell.bandcamp.com/album/bird-queen-of-garbage-island-birdhouse-in-your-soul)==
 
 [The Burning Hell](http://www.wearetheburninghell.com/) returned last week with the first single from their upcoming LP. "Bird Queen of Garbage Island" finds singer-songwriter Mathias Kom once again dazzling with playful surrealism and reference-packed wordplay, backed here by an unhurried bed of sly indie-funk from Ariel Sharratt, Jake Nicoll, and Darren Browne. At its midpoint, the track wanders into an extended interlude peppered with unusual instrumentation - among it the telltale crinkling of plastic trash. "Bird Queen" arrives alongside a fittingly idiosyncratic video from New Brunswick-based multimedia artist [Graeme Patterson](https://www.graemepatterson.com/).
 
