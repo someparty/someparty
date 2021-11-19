@@ -100,7 +100,7 @@ The veteran band is gearing up for their 17th annual New Year's Eve show at the 
 
 [Watch: The Sadies - "Another Season Again" @ YouTube](https://www.youtube.com/watch?v=tDB5WY6RyWg "#")
 
-Hamilton alt-country trio [Elliott BROOD](https://www.elliottbrood.com/) played Toronto's storied Massey Hall this past April and footage from their performance is now online. You can check out the video below, which features the band performings songs like "Without Again," "Owen Sound" and "If I Get Old". The band recently released the LP *Ghost Gardens* on [Paper Bag Records](http://paperbagrecords.com/).
+Hamilton alt-country trio [Elliott BROOD](https://www.elliottbrood.com/) played Toronto's storied Massey Hall this past April and footage from their performance is now online. You can check out the video below, which features the band performings songs like "Without Again," "Owen Sound" and "If I Get Old". The band recently released the LP *Ghost Gardens* on [Paper Bag Records](https://paperbagrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ybyeZY0zrog?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 

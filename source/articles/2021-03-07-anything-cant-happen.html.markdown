@@ -77,7 +77,7 @@ Slurry features Rachel Bellone, Steven Lourenço, Pat McKenna, and Steven Conway
 
 It's been a month since Toronto's [Fucked Up](http://fuckedup.cc/) announced *Year of the Horse*, the much anticipated new volume in their long-running series of zodiac singles. Last week the band unveiled the second track on the EP, with "Act Two" clocking in at a whopping twenty-six minutes. The song finds the band in an astonishingly playful mood, hoping genres a dozen times over the extended runtime (including a swing at around 11 minutes that would fit right in on the soundtrack of an old spaghetti western). Nothing else sounds like this.
 
-*I'll save you some precious inbox space and avoid reiterating the whole zodiac story here, but [hop back](https://www.someparty.ca/2021-02-07-year-of-the-horse/) a few weeks into the archives if you need a refresher.*
+*I'll save you some precious inbox space and avoid reiterating the whole [zodiac](https://www.someparty.ca/2021-02-07-year-of-the-horse/) story here, but hop back a few weeks into the archives if you need a refresher.*
 
 "Act Two" primarily feature studio instrumentation from Mike Haliechuk and Jonah Falco (vibraphone, trumpets, and whistling included). Fucked Up regulars Damian Abraham and Sandy Miranda appear on vocals and bass, respectively. The track features vocals in several interludes from Maegan Brooks Mills, Eidolon, and Tuka Mohammed. There's still no word on a vinyl release of *Year Of The Horse*, but those details are in the works.
 

@@ -41,7 +41,7 @@ Toronto's garage-pop act [Twist](https://www.twistofficial.com/) has shared a st
 
 [Watch: Twist - "Freak" @ YouTube](https://www.youtube.com/watch?time_continue=6&v=MS9i-hKxQn8 "#")
 
-Was the last [Rural Alberta Advantage](http://www.theraa.com/) record as hooky as the material from *The Wild*? 2014 feels like a hundred years ago. Everything the Toronto indie rock act's released to preview the new record's stuck with me, and "Toughen Up" continues the trend. *The Wild* arrives on October 13th via [Paper Bag](http://paperbagrecords.com/).
+Was the last [Rural Alberta Advantage](http://www.theraa.com/) record as hooky as the material from *The Wild*? 2014 feels like a hundred years ago. Everything the Toronto indie rock act's released to preview the new record's stuck with me, and "Toughen Up" continues the trend. *The Wild* arrives on October 13th via [Paper Bag](https://paperbagrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ChmNW86Qbag" frameborder="0" allowfullscreen></iframe>
 

@@ -61,7 +61,7 @@ Monkman also commented on his relationship with the track:
 >
 >Like Adam's grandfather, my grandfather, father, aunt and uncle, all attended these schools for many years. I found this song to be very emotional, and I really wanted to capture that on my remix. I ended up isolating Adam's vocals and built a wall of sound around it. I swapped bits of the guitar for sound loops to follow the verses and added in piccolos and strings at the end to symbolize a sort of resolution."
 
-All proceeds the remix EP are bound for London's [LIFE*SPIN](https://lifespin-org.doodlekit.com/) coronavirus relief charity. *Warrior Down* arrived last November on You've Changed. Zoon's upcoming LP, *Bleached Wavves*, is due June 19 from [Paper Bag Records](http://paperbagrecords.com/).
+All proceeds the remix EP are bound for London's [LIFE*SPIN](https://lifespin-org.doodlekit.com/) coronavirus relief charity. *Warrior Down* arrived last November on You've Changed. Zoon's upcoming LP, *Bleached Wavves*, is due June 19 from [Paper Bag Records](https://paperbagrecords.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=45524303/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://thenoisymountain.bandcamp.com/album/warrior-down-remixes">Warrior Down Remixes by WHOOP-Szo</a></iframe>
 

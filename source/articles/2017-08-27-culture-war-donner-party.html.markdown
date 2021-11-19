@@ -33,7 +33,7 @@ Toronto hardcore legends [No Warning](https://www.facebook.com/pg/nowarning666),
 
 [Listen: No Warning - "In The City" @ SoundCloud](https://soundcloud.com/badactorsinc/no-warning-in-the-city "#")
 
-Hamilton alt-country act [Elliott BROOD](https://www.elliottbrood.com/) have released another track from their upcoming fifth full-length. "Dig A Little Hole" will appear on *Ghost Gardens* when it arrives on September 15th via [Paper Bag](http://paperbagrecords.com/). You can stream it now at any of the [usual places](http://hyperurl.co/yoyxmo).
+Hamilton alt-country act [Elliott BROOD](https://www.elliottbrood.com/) have released another track from their upcoming fifth full-length. "Dig A Little Hole" will appear on *Ghost Gardens* when it arrives on September 15th via [Paper Bag](https://paperbagrecords.com/). You can stream it now at any of the [usual places](http://hyperurl.co/yoyxmo).
 
 [Sam Coffey & the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/)' new self-titled full-length has been out for a month now and it's an absolute joy of muscular, punky power-pop, truly one of the feel-good records of the summer. The band just released a new video for the song "Judy" at [What Youth](http://whatyouth.com/70702/wy-premiere-sam-coffey-the-iron-lungs-their-new-video-for-judy-will-put-a-real-big-smile-on-your-face/). The clip was directed by Shawn Kosmerly of the Sudbury band [Dirty Princes](https://dirtyprinces.bandcamp.com/), with his mother starring as the titular Judy. The interview that accompanied the premiere is worth a read.
 

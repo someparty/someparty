@@ -23,7 +23,7 @@ Outside of her brash 2017 side-project [Julie & The Wrong Guys](https://julieand
 ###[New Vogue](https://newvogue.bandcamp.com/): "Safe on the Autobahn"
 ==Watch on [YouTube](https://youtu.be/98KVhBsxLv8) - Preview and purchase at [Bandcamp](https://newvogue.bandcamp.com/album/new-vogue-2)==
 
-Montreal's sinister DEVO-core unit [New Vogue](https://newvogue.bandcamp.com) has a raucous new video online showcasing "Safe on the Autobahn," a highlight of the self-titled collection they issued on cassette in December of 2020. The clip heralds the album's arrival on wax through the French label [Casbah Records](https://casbah-records.com/) - where it now carries the title *Volume II*. Alan Hildebrandt directed the clip, replete with a few loving visual callbacks to Kraftwerk.
+Montreal's sinister DEVO-core unit [New Vogue](https://newvogue.bandcamp.com) has a raucous new video online showcasing "Safe on the Autobahn," a highlight of the self-titled collection they issued on cassette in December of 2020. The clip heralds the album's arrival on wax through the French label [Casbah Records](https://casbah-records.com/) - where it now carries the title *Volume II*. [Alan Hildebrandt](https://vimeo.com/user2625525) directed the clip, replete with a few loving visual callbacks to Kraftwerk.
 
 New Vogue's the brainchild of Max Desharnais from the Montreal garage-punks [Sonic Avenues](https://sonicavenues.bandcamp.com/) and [PRIORS](https://priorsmtl.bandcamp.com/). The group's performed in several forms, both as a duo and a full quartet, drawing on PRIORS' ranks to fill the roster as needed. The project previously released a self-titled EP in 2018, along with a [Spazz Records](https://www.spazzrecords.com/) 7" single that same year.
 

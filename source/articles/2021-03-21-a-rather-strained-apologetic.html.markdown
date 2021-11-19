@@ -54,7 +54,7 @@ The new record follows the band's debut 2019 EP *NOVEL* and a 2020 split release
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3390072848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2986467353/transparent=true/" seamless><a href="https://n0v3l.bandcamp.com/album/non-fiction">NON-FICTION by N0V3L</a></iframe>
 
-###[Jyraph](https://jyraph.bandcamp.com/track/30th-century-man): "30th Century Man"
+###[Jyraph](https://jyraph.bandcamp.com/): "30th Century Man"
 ==Preview and purchase at [Bandcamp](https://jyraph.bandcamp.com/track/30th-century-man)==
 
 The enigmatic Montreal songwriting project [Jyraph](https://jyraph.bandcamp.com/) has a new cover online, tackling Scott Walker's 1969 classic "30th Century Man." Jyraph's version takes on the irresistible quality of a campfire sing-along, a notion aided by the loose and playful backing vocals. The post-punk artist commented on the track in an update to Facebook:

@@ -27,7 +27,7 @@ Hamilton alt-country trio [Elliott BROOD](https://www.elliottbrood.com/) are bac
 
 The announcement came alongside the new single "Stay Out," which arrived alongside a video from director Tatjana Green and animator Jason Kan. You can check it out below.
 
-Elliott BROOD last released *Ghost Gardens* in 2017 on [Paper Bag Records](http://paperbagrecords.com/).
+Elliott BROOD last released *Ghost Gardens* in 2017 on [Paper Bag Records](https://paperbagrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ur2JotPx2lU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

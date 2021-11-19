@@ -97,7 +97,7 @@ Hamilton alt-country trio [Elliott BROOD](https://www.elliottbrood.com/) has a s
 
 >"Her track record speaks for itself and her name is on the credits for a ton of albums we listen to. She understood the essence of the song from the first note and then took that version and ran it through a wash of countrified psychedelic haze."
 
-*Keeper* is due September 18 from [Six Shooter Records](http://sixshooterrecords.com/). The 10-song full-length features studio engineering by Daryl Neudorf (Neko Case) with Ryan Hadlock (The Gossip, The Lumineers) mixing. Elliott BROOD last released *Ghost Gardens* in 2017 on [Paper Bag Records](http://paperbagrecords.com/).
+*Keeper* is due September 18 from [Six Shooter Records](http://sixshooterrecords.com/). The 10-song full-length features studio engineering by Daryl Neudorf (Neko Case) with Ryan Hadlock (The Gossip, The Lumineers) mixing. Elliott BROOD last released *Ghost Gardens* in 2017 on [Paper Bag Records](https://paperbagrecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5i4k_F51NqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

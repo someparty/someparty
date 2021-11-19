@@ -123,7 +123,7 @@ The Fizzgigs are a four-piece heavily inspired by early 90s power-pop and the mi
 
 [Watch: The Fizzgigs - "Destiny" @ YouTube](https://youtu.be/lZbZiTwTq-I "#")
 
-Hamilton, Ontario's [Zoon](http://www.zoongideewin.com/) is a psych and shoegaze inspired project from Ojibwe musician Daniel Monkman. [Paper Bag Records](http://paperbagrecords.com/) will issue the band's first full-length this summer, titled *Bleached Wavves*. The first single from the 10-song set is "Vibrant Colours," a song that arrived alongside a video directed by Christopher Mills (FRIGS, Tallies, Mimico). Monkman commented on the song:
+Hamilton, Ontario's [Zoon](http://www.zoongideewin.com/) is a psych and shoegaze inspired project from Ojibwe musician Daniel Monkman. [Paper Bag Records](https://paperbagrecords.com/) will issue the band's first full-length this summer, titled *Bleached Wavves*. The first single from the 10-song set is "Vibrant Colours," a song that arrived alongside a video directed by Christopher Mills (FRIGS, Tallies, Mimico). Monkman commented on the song:
 
 > "I started to improvise melodies but they kept slipping away and that's where the lyrics in the song come from, and that reference of memories slipping away comes from my experience with my grandmother who suffered from dementia."
 

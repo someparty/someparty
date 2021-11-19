@@ -180,7 +180,7 @@ Greys released *Age Hasn't Spoiled You*, their third full length, earlier this y
 
 [Listen: C.R. Gillespie - *Tlön* @ Bandcamp](https://crgillespie.bandcamp.com/album/tl-n "#")
 
-[Becky Ninkovic](https://beckyninkovic.bandcamp.com/) of the Abbotsford, BC dance-punk group [You Say Party](https://yousayparty.com/), has a solo record on the way titled *Woe*. It arrives on August 23 from [Paper Bag Records](http://paperbagrecords.com/), preceded by the new single and video for "The Carrier."
+[Becky Ninkovic](https://beckyninkovic.bandcamp.com/) of the Abbotsford, BC dance-punk group [You Say Party](https://yousayparty.com/), has a solo record on the way titled *Woe*. It arrives on August 23 from [Paper Bag Records](https://paperbagrecords.com/), preceded by the new single and video for "The Carrier."
 
 *Woe* has its roots in tragedy, stemming from the 2010 death of You Say Party drummer Devon Clifford, who suffered a fatal brain hemorrhage on stage in Vancouver while performing with the now-defunct group. The press-release delves into the difficult journey Ninkovic's been on since:
 

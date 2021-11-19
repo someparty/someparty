@@ -59,7 +59,7 @@ While we're on this kick, let's check in with Toronto's [Damagers](http://damage
 
 In an earlier press release, Fucked Up's Jonah Falco described Damagers thusly:
 
-> New Toronto band of familiar faces playing rough and ready HC punk indebted to early to mid eighties international hardcode not far from what would have been on *Welcome to 1984* and/or *All’s Quiet on the Western Front*. Empty, ugly, loud and fast. Live for no one, love for everyone.
+> New Toronto band of familiar faces playing rough and ready HC punk indebted to early to mid eighties international hardcode not far from what would have been on *Welcome to 1984* and/or *All's Quiet on the Western Front*. Empty, ugly, loud and fast. Live for no one, love for everyone.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1951134332/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://damagers.bandcamp.com/album/victory">Victory by Damagers</a></iframe>
 

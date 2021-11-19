@@ -131,7 +131,7 @@ VanGaalen released a wealth of archival material throughout the pandemic and nes
 
 Scene-veteran, habit-donning Toronto punk group [The Punching Nuns](https://thepunchingnuns.hearnow.com/aint-gettin-nun) returned on Halloween with *Ain't Getting' Nun*, a new 10-song full-length. You can hear the whole sordid affair on streaming services now.
 
-Together for over 25 years with an oft-shifting lineup, the Nuns currently feature Dave Walsh (aka Sister Effing Four Eyes), Jim Rocket (aka Sister Incontinence), and Greg Cahill (aka Hoppy the Special Penguin), and Rick Geroux. The group's collective family tree (which reads like a punk history textbook) touches on Afhakken, Nomind, Bronto Crushrock, Bunchofuckingoofs, Direct Action, UK Subs, The Dead Bunnies, One Free Fall, Bad Punk, G Men, Armed and Hammered, Son of Bronto, and Problem Children.
+Together for over 25 years with an oft-shifting lineup, the Nuns currently feature Dave Walsh (aka Sister Effing Four Eyes), Jim Rocket (aka Sister Incontinence), and Greg Cahill (aka Hoppy the Special Penguin), and Rick Giroux. The group's collective family tree (which reads like a punk history textbook) touches on Afhakken, Nomind, Bronto Crushrock, Bunchofuckingoofs, Direct Action, UK Subs, The Dead Bunnies, One Free Fall, Bad Punk, G Men, Armed and Hammered, Son of Bronto, and Problem Children.
 
 *Ain't Gettin' Nun* follows The Punching Nuns' 2017 EP *Disabled*.
 

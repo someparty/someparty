@@ -42,7 +42,7 @@ Frontman Chance Hutchison revealed how the record came together:
 
 PRIORS recorded *My Punishment On Earth* with longtime producer Adrian Popovich (Tricky Woo, Mudie) at Montreal's Mountain City Studios. Harris Newman mastered the album. The new LP follows their 2018 *New Pleasure* LP and the *Call For You* EP, both of which were issued by [Slovenly](https://www.slovenly.com/). During the summer lockdown, vocalist Chance and his partner Jackie Blenkarn (of the [Pale Lips](https://palelips.bandcamp.com/)) released a handful of home recordings as [Chance & Jackie](http://chanceandjackie.bandcamp.com). Guitarist Maxime Desharnais also recently issued a self-titled cassette from his DEVOcore [New Vogue](https://newvogue.bandcamp.com/) side-gig.
 
-PRIORS features vocalist Chance Hutchison, drummer Drew Demers, bassist Alan Hildebrandt, and guitarists Maxime Desharnais and Sebastien Godin.
+PRIORS features vocalist Chance Hutchison, drummer Drew Demers, bassist [Alan Hildebrandt](https://vimeo.com/user2625525), and guitarists Maxime Desharnais and Sebastien Godin.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tjMGFA9PJj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
