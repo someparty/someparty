@@ -14,7 +14,7 @@ Mississauga's eclectic noise-pop trio [Mildew Mildew](https://mildewmildew.bandc
 
 Mildew Mildew features vocalist/guitarist from Nolan Jakupovski, bassist Cameron Leslie, and drummer Tristan Sousa.
 
-Here's your first taste of the new EPs with the song "Ketchup Chips" from the *Different Floors* set. Nolan left us a note calling the song "a panic-fuelled confession, sort of, and is about not caring what other people think." This is one of those trackså that looks wild just from the peaks and valleys of the SoundCloud waveform. With a satisfying whoop, a frantic spoken word intro turns suddenly into a groovy slacker rock number, with notes of the above-mentioned low-fi heroes Pavement and even some 90s-heydey Beck creeping through.
+Here's your first taste of the new EPs with the song "Ketchup Chips" from the *Different Floors* set. Nolan left us a note calling the song "a panic-fuelled confession, sort of, and is about not caring what other people think." This is one of those trackså that looks wild just from the peaks and valleys of the SoundCloud waveform. With a satisfying whoop, a frantic spoken word intro turns suddenly into a groovy slacker rock number, with notes of the above-mentioned lo-fi heroes Pavement and even some 90s-heydey Beck creeping through.
 
 The tape's release show will fittingly take place in the storefront of Toronto's [Dupe Shop](https://www.duplication.ca/dupeshop/) on March 1, with support from Pour Toi and Teenage Green Bean. It's an all-ages, pay-what-you-can affair. Art of the Uncarved Block has the limited quality, handmade cassette up for [preorder](https://www.artoftheuncarvedblock.com/store/mildew-mildew-double-doors-different-floors-cas) now.
 

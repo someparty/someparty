@@ -117,7 +117,7 @@ Botfly recently issued the one-off track "Disassociate" through No Funeral's rec
 ###[Ilusión](https://ilusion.bandcamp.com): *Ilusión* EP
 ==Preview and purchase at [Bandcamp](https://ilusion.bandcamp.com/album/ilusi-n-ep)==
 
-Rick Aube's played in several of Ottawa's gritter punk-adjacent groups over the years, including Blemish, [Chloroform](https://chloroforming.bandcamp.com/), [Omerta](https://omertapunk.bandcamp.com), and his namesake [Aube](https://bleunuit.bandcamp.com/). Based in Montreal, Aube recently debuted material from a new solo project that seems destined to evolve into a full band - an addictively low-fi, scrappy hardcore EP under the name [Ilusión](https://ilusion.bandcamp.com). You can pick up his five-song debut at Bandcamp now.
+Rick Aube's played in several of Ottawa's gritter punk-adjacent groups over the years, including Blemish, [Chloroform](https://chloroforming.bandcamp.com/), [Omerta](https://omertapunk.bandcamp.com), and his namesake [Aube](https://bleunuit.bandcamp.com/). Based in Montreal, Aube recently debuted material from a new solo project that seems destined to evolve into a full band - an addictively lo-fi, scrappy hardcore EP under the name [Ilusión](https://ilusion.bandcamp.com). You can pick up his five-song debut at Bandcamp now.
 
 The set, recorded in February at Montreal's Marsonic Studios, is due on cassette soon through the Tunisia-based non-profit tape label [A World Divided](https://awd-tapes.bandcamp.com/).
 

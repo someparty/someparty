@@ -25,7 +25,7 @@ Downloads of *Military Standard* include an exclusive dub number not available w
 
 [Listen: Usse - *Military Standard* @ Bandcamp](https://usse.bandcamp.com/album/military-standard "#")
 
-[Ketamines](https://ketamines.bandcamp.com/)' principal [Paul Lawton](http://paullawton.bandcamp.com)'s quietly re-emerged with a new musical project dubbed Kill Credo. He debuted the new venture with the low-fi indie rocker "To Be Seen," available as a YouTube video starring the artist's canine companion Noosh.
+[Ketamines](https://ketamines.bandcamp.com/)' principal [Paul Lawton](http://paullawton.bandcamp.com)'s quietly re-emerged with a new musical project dubbed Kill Credo. He debuted the new venture with the lo-fi indie rocker "To Be Seen," available as a YouTube video starring the artist's canine companion Noosh.
 
 Lawton's left his musical future up in the air since his nascent punk unit [Don't Bother](http://dontbothermusic.bandcamp.com) fell apart. Earlier in the pandemic, he unveiled several archival releases, including Don't Bother's aborted 9-song full-length *Terminal Phase*, and a career-to-date favourites collection dubbed *Nothing Remains to be Done*. He reflected at the time:
 
@@ -124,7 +124,7 @@ Jennifer Castle released the *Monarch Season* LP just last month on [Idée Fixe 
 
 A few months ago, I shared *Psychic Debris*, an ambitious song-a-day project from Saint John, New Brunswick's [Beach Chair](https://beachchair.bandcamp.com/), the home recording guise of former [Glory Glory](https://gloryglory.bandcamp.com/) drummer Ryan Brown. That name's now shelved (oh, those pesky trademarks), with the project re-christened as [Sunnyside Uppers](https://sunnysideuppers.bandcamp.com/) (which is a far cooler name, if you ask me).
 
-To kick off the new era, Brown shared a video for the anthemic low-fi rocker "If All Is Lost," a *Psychic Debris*-bred song re-recorded with engineer Micah Brown (Conditioner, NYON, BBQT - and also Ryan's brother). Gavin Maclean directed the clip.
+To kick off the new era, Brown shared a video for the anthemic lo-fi rocker "If All Is Lost," a *Psychic Debris*-bred song re-recorded with engineer Micah Brown (Conditioner, NYON, BBQT - and also Ryan's brother). Gavin Maclean directed the clip.
 
 The song's the second recent track Brown's released under the new name, with the hard-rocking "[Snowboatin'](https://youtu.be/O9JAdxsjsfA)" surfacing in September as part of the [Lost Opus](https://lostopus.bandcamp.com/) quarantine compilation [*From Our Homes*](https://lostopus.bandcamp.com/album/from-our-homes).
 
@@ -140,7 +140,7 @@ Sea of Troubles features vocalist/guitarist Denzel Gordon, drummer Jeremy Hopkin
 
 [Listen: Sea of Troubles - *鹿威し* @ Bandcamp](https://seaoftroublesband.bandcamp.com/album/shishi-odoshi "#")
 
-Montreal's low-fi rockabilly kingpin [Bloodshot Bill](https://www.bloodshotbill.com) is one of those artists that churns out so much material in any given cycle that you'd need a newsletter solely devoted to him even to attempt to keep track of it (I call that the "King Khan problem"). Those challenges noted, I did manage to catch *Outta My Head Vol. 1*, a five-song collection of entirely new material. It arrived as part of the recent Bandcamp Friday event.
+Montreal's lo-fi rockabilly kingpin [Bloodshot Bill](https://www.bloodshotbill.com) is one of those artists that churns out so much material in any given cycle that you'd need a newsletter solely devoted to him even to attempt to keep track of it (I call that the "King Khan problem"). Those challenges noted, I did manage to catch *Outta My Head Vol. 1*, a five-song collection of entirely new material. It arrived as part of the recent Bandcamp Friday event.
 
 The songs follow a wealth of material churned out over the pandemic, including the rarities, set *Tattle Tale - Vol.1*, the *Spit on My Rubber* EP with Rochester's Televisionaries, a second *Out Of This World Sounds* volume for Ghost Highway Records, and the [Goner Records](https://www.goner-records.com/) LP *Get Loose Or Get Lost*. That's an incomprehensive list, but Bill is a force of nature, and you can't hope to count the rain.
 
@@ -174,7 +174,7 @@ The group's new EP arrives alongside a full-length from [Jawsh & The Drowned Liv
 
 [Watch: Burning Nickels - "Jerome" @ YouTube](https://youtu.be/2T2_Yz3Ev68 "#")
 
-Toronto's low-fi rock project [Tang](https://tanginternetpropaganda.com/) recently shared a new collection of home-recorded material dubbed *The Quiet Earth*. The set arrived in late September from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) and the Parisian label [Influenza Records](https://influenza-records.bandcamp.com/). A video featuring the track "Piet Alley" recently premiered at Punknews. You can check it out below.
+Toronto's lo-fi rock project [Tang](https://tanginternetpropaganda.com/) recently shared a new collection of home-recorded material dubbed *The Quiet Earth*. The set arrived in late September from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) and the Parisian label [Influenza Records](https://influenza-records.bandcamp.com/). A video featuring the track "Piet Alley" recently premiered at Punknews. You can check it out below.
 
 The seven-song set follows last year's *Finding Peace, Isn't The Point*. Connelly has roots in the post-hardcore groups [Low Sun](https://low--sun.bandcamp.com/) and Shahman.
 

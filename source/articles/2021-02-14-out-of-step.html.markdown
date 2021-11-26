@@ -76,7 +76,7 @@ The group recorded *Down and Out* in Montreal, Vancouver, and Dundee, Scotland, 
 ###[PACKS](https://packstheband.bandcamp.com): "Hangman"
 ==Watch on [YouTube](https://youtu.be/39tdz3hlBZ0) - Preview and purchase at [Bandcamp](https://packstheband.bandcamp.com/album/hangman)==
 
-Madeline Link's low-fi rock band PAX seems poised to climb the ladder, picking up a pair of new labels and a slight name change along the way. Now billed as [PACKS](https://packstheband.bandcamp.com), the group retains their phonetic identity for the new era, one that will see them recording for [Royal Mountain](https://www.royalmountainrecords.com/) in Canada and [Fire Talk](https://firetalkrecs.com/) in the States.
+Madeline Link's lo-fi rock band PAX seems poised to climb the ladder, picking up a pair of new labels and a slight name change along the way. Now billed as [PACKS](https://packstheband.bandcamp.com), the group retains their phonetic identity for the new era, one that will see them recording for [Royal Mountain](https://www.royalmountainrecords.com/) in Canada and [Fire Talk](https://firetalkrecs.com/) in the States.
 
 PACKS christened the name with a remastered version of "Hangman," a track that initially surfaced on the *Songs from a (social) distance* compilation from Toronto's [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/). The press release notes:
 
@@ -113,7 +113,7 @@ Welland's [Daniel Romano](http://www.danielromanomusic.com/) has a new video onl
 ###[Hobby](https://hobbytoronto.bandcamp.com): "(We Can) Tough It Out (We Can Try)"
 ==Watch on [YouTube](https://youtu.be/WBYLTt85sHA) - Preview and purchase at [Bandcamp](https://hobbytoronto.bandcamp.com/track/we-can-tough-it-out-we-can-try)==
 
-Toronto's weird-Americana quartet [Hobby](https://hobbytoronto.bandcamp.com/) has a new record on the way, a 9-song set perhaps too revealingly titled *Weed*. You can check out the record's mantra-like new single, "(We Can) Tough It Out (We Can Try)," streaming at Bandcamp or through a new video by directors Eli Speigel and Shelby Wilson. They've declared the jangling low-fi track their "pandemic anthem," and frankly, it's as good as any.
+Toronto's weird-Americana quartet [Hobby](https://hobbytoronto.bandcamp.com/) has a new record on the way, a 9-song set perhaps too revealingly titled *Weed*. You can check out the record's mantra-like new single, "(We Can) Tough It Out (We Can Try)," streaming at Bandcamp or through a new video by directors Eli Speigel and Shelby Wilson. They've declared the jangling lo-fi track their "pandemic anthem," and frankly, it's as good as any.
 
 Hobby features guitarists Stephen Pitman ([Only God Forgives](https://onlygodforgivesto.bandcamp.com), [Tallies](http://tallies.bandcamp.com)) and Cameron Fraser ([Luge](https://hugeluge.bandcamp.com)), with bassist Duncan Wardlaw and drummer Foster Medeiros (with vocal credits all around). *Weed* follows the band's 2018 record *The Fastest Car Yet* and a recent split with folk-punkers [Westelaken](https://westelaken.bandcamp.com/).
 

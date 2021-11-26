@@ -67,7 +67,7 @@ The new track features frontman Jackson Tiefenbach on all instruments save the p
 
 [Listen: J Blissette - "Burn It To The Ground (All These People Have Families)" @ Bandcamp](https://jblissette.bandcamp.com/track/burn-it-to-the-ground-all-these-people-have-families "#")
 
-After fronting the post-punk/low-fi pop bands [Moss Lime](https://mosslimer.bandcamp.com/) and Phern, Montreal's [Hélène Barbier](https://helenebarbier.bandcamp.com/) is striking out solo. Her first LP under her own name, *Have You Met Elliott?*, is due this Friday from [Michel Records](http://michelrecords.com/) (VICTIME, Bleu Nuit). The first single from that set was "The Good Thing," which arrived alongside a video in May by director Katayoon Yousefbigloo.
+After fronting the post-punk/lo-fi pop bands [Moss Lime](https://mosslimer.bandcamp.com/) and Phern, Montreal's [Hélène Barbier](https://helenebarbier.bandcamp.com/) is striking out solo. Her first LP under her own name, *Have You Met Elliott?*, is due this Friday from [Michel Records](http://michelrecords.com/) (VICTIME, Bleu Nuit). The first single from that set was "The Good Thing," which arrived alongside a video in May by director Katayoon Yousefbigloo.
 
 Speaking to [Exclaim](https://exclaim.ca/music/article/montreals_h_l_ne_barbier_premieres_new_album_have_you_met_elliott), where you can now stream the record in its entirety, Barbier commented on her recording process:
 
@@ -79,7 +79,7 @@ Speaking to [Exclaim](https://exclaim.ca/music/article/montreals_h_l_ne_barbier_
 
 [Watch: Hélène Barbier - "The Good Thing" @ YouTube](https://youtu.be/9rwMIpQYS0U "#")
 
-[Cam Fraser](http://camfraser.bandcamp.com) shows up in this newsletter quite a bit, being both the bassist for Toronto art-punks [Luge](https://hugeluge.bandcamp.com) and the guitarist/vocalist for the low-fi alt-country act [Hobby](https://hobbytoronto.bandcamp.com/). He recently recorded and released a new solo set, a six-song collection titled *Sew*. You can find it at Bandcamp now.
+[Cam Fraser](http://camfraser.bandcamp.com) shows up in this newsletter quite a bit, being both the bassist for Toronto art-punks [Luge](https://hugeluge.bandcamp.com) and the guitarist/vocalist for the lo-fi alt-country act [Hobby](https://hobbytoronto.bandcamp.com/). He recently recorded and released a new solo set, a six-song collection titled *Sew*. You can find it at Bandcamp now.
 
 This is the second recent EP from Fraser, with the singer-songwriter's contemplative *All The World's A Dream* surfacing back in January of this year.
 
@@ -87,7 +87,7 @@ This is the second recent EP from Fraser, with the singer-songwriter's contempla
 
 [Listen: Cam Fraser - *Sew* @ Bandcamp](http://camfraser.bandcamp.com/album/sew "#")
 
-Low-fi Ottawa indie rock act [Empty Nesters](https://emptynesters.bandcamp.com/), the solo studio project of Eric Liao, has another new track online following the May-released "Hippie Drip." The new song, titled "Duster 2," can be streamed at Bandcamp. This new material follows Liao's *Tired and Bored* EP from this past February.
+Lo-fi Ottawa indie rock act [Empty Nesters](https://emptynesters.bandcamp.com/), the solo studio project of Eric Liao, has another new track online following the May-released "Hippie Drip." The new song, titled "Duster 2," can be streamed at Bandcamp. This new material follows Liao's *Tired and Bored* EP from this past February.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3746884070/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://emptynesters.bandcamp.com/track/duster-2">Duster 2 by Empty Nesters</a></iframe>
 

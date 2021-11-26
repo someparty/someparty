@@ -58,7 +58,7 @@ You can stream the "Rotting Fruit" online now. An EP is due for Boston's [Triple
 
 [Listen: Masterpiece Machine - "Rotting Fruit" @ Bandcamp](http://masterpiecemachine.bandcamp.com/track/rotting-fruit "#")
 
-With quarantine in full swing and idle time abound, there's a wealth of archival material finally emerging from the closets and hard-drives of the nation. This week saw the release of *Left Undone*, an EP's worth of music from a Halifax act dubbed [LeDrew, Luke & Crowe](http://musicbyllc.bandcamp.com/). The trio features Adam LeDrew and Justin Crowe of breakneck Haligonian punks the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), with their frequent studio collaborator Luke Mumford ([Negative Rage](https://negativerage.bandcamp.com/), [Genetic Angry](https://geneticangry.bandcamp.com/), [The Mark Vodka Group](https://markvodka.bandcamp.com/)). On average, these tunes find the group dabbling in playful, mid-tempo rock'n'roll with little hint of the low-fi chaos the Boojis (in particular) are known for.
+With quarantine in full swing and idle time abound, there's a wealth of archival material finally emerging from the closets and hard-drives of the nation. This week saw the release of *Left Undone*, an EP's worth of music from a Halifax act dubbed [LeDrew, Luke & Crowe](http://musicbyllc.bandcamp.com/). The trio features Adam LeDrew and Justin Crowe of breakneck Haligonian punks the [Booji Boys](https://boojiboysfuneral.bandcamp.com/), with their frequent studio collaborator Luke Mumford ([Negative Rage](https://negativerage.bandcamp.com/), [Genetic Angry](https://geneticangry.bandcamp.com/), [The Mark Vodka Group](https://markvodka.bandcamp.com/)). On average, these tunes find the group dabbling in playful, mid-tempo rock'n'roll with little hint of the lo-fi chaos the Boojis (in particular) are known for.
 
 These songs were recorded in 2017 by Mumford at Pepperell Street (except for the decidedly faster "Keys to Success," recorded by Charles Austin at Echo Chamber Audio). The set's available on cassette through Cody Googoo's Don't Wanna Talk Records.
 
@@ -112,7 +112,7 @@ Botfly's self-titled full-length was released in 2017.
 
 [Listen: Botfly - "At Home With Alex" @ Bandcamp](https://botfly.bandcamp.com/album/at-home-with-alex "#")
 
-Ottawa trio [The Tenenbaums](http://thetenenbaums.bandcamp.com) recently shared a full-length titled *God damn it, you've got to be kind*. The low-fi, shout-along punk record's the result of over three years of recordings captured by Matt Post of [Deathsticks](https://buysomedeathsticks.bandcamp.com) and the [Not My Car](https://www.facebook.com/NotMyCarRecords/) label.
+Ottawa trio [The Tenenbaums](http://thetenenbaums.bandcamp.com) recently shared a full-length titled *God damn it, you've got to be kind*. The lo-fi, shout-along punk record's the result of over three years of recordings captured by Matt Post of [Deathsticks](https://buysomedeathsticks.bandcamp.com) and the [Not My Car](https://www.facebook.com/NotMyCarRecords/) label.
 
 The set follows the group's 2015 EP *We'll Always Have Milhouse*.
 

@@ -101,7 +101,7 @@ Confusionaires features guitarist/vocalist Fat Dave Johnston, Jayson Aschenmeier
 
 [Listen: Confusionaires - *From The Headache To The Heartache* @ Bandcamp](http://confusionaires.bandcamp.com/album/from-the-headache-to-the-heartache-2020 "#")
 
-The gruff, anthemic St. John's punk group [Conditioner](http://ccconditionerrr.bandcamp.com/) has a new EP out on [Must Be Nice Records](https://mustbenicerecords.bandcamp.com/). Titled *Low Point*, the set features five songs, including the recent "Room For Two" single we featured here in December. The band self-recorded the satisfyingly blown-out, low-fi effort in October of 2019, with Micah Brown mixing and mastering. It follows the band's self-titled 2017 release. The whole EP has this roughshod, early Lookout! Records vibe that I'm very much into.
+The gruff, anthemic St. John's punk group [Conditioner](http://ccconditionerrr.bandcamp.com/) has a new EP out on [Must Be Nice Records](https://mustbenicerecords.bandcamp.com/). Titled *Low Point*, the set features five songs, including the recent "Room For Two" single we featured here in December. The band self-recorded the satisfyingly blown-out, lo-fi effort in October of 2019, with Micah Brown mixing and mastering. It follows the band's self-titled 2017 release. The whole EP has this roughshod, early Lookout! Records vibe that I'm very much into.
 
 Conditioner features Nick Giles on drums and vocals, bassist Jeff Gibson, guitarist/vocalist Glen May, and guitarist/vocalist Derek Ashley.
 

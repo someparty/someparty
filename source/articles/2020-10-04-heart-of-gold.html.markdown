@@ -43,7 +43,7 @@ This version of the Hellfish featured vocalist/guitarist Jon Creeden backed by b
 
 [Listen: Jon Creeden & The Flying Hellfish - *Parti* @ Bandcamp](https://joncreeden.com/album/parti "#")
 
-The new record is out from Montreal's delightfully off-kilter synth-pop unit [Night Lunch](https://nightlunch.bandcamp.com). *Wall of Love* arrived this week from Joe Chamandy's [Celluloid Lunch Records](https://celluloidlunch.bandcamp.com/). The band's last preview of the record before it landed featured the album-opening "Your Body," a theatric reimagining of a song first recorded for the Lukie Lovechild's low-fi group [Baked Goods](https://bakedgoods.bandcamp.com) back in 2012. The track followed the haunting first single "Motorhome," which hasn't been out of my head for weeks.
+The new record is out from Montreal's delightfully off-kilter synth-pop unit [Night Lunch](https://nightlunch.bandcamp.com). *Wall of Love* arrived this week from Joe Chamandy's [Celluloid Lunch Records](https://celluloidlunch.bandcamp.com/). The band's last preview of the record before it landed featured the album-opening "Your Body," a theatric reimagining of a song first recorded for the Lukie Lovechild's lo-fi group [Baked Goods](https://bakedgoods.bandcamp.com) back in 2012. The track followed the haunting first single "Motorhome," which hasn't been out of my head for weeks.
 
 Featuring members of Baked Goods and [The Marlees](https://themarlees.bandcamp.com), Night Lunch recorded primarily at The Bottle Garden with Peter Woodford (Tough Age, Deliluh, Bleu Nuit) on this release. They tracked a few additional songs with Peter Bowering at MOD Studio as well.
 
@@ -87,7 +87,7 @@ Designosaur features bassist/vocalist Rebecca Dalley, guitarist/vocalist AJ Bout
 
 [Watch: Designosaur - "Hunger Of The Young" @ Bandcamp](https://youtu.be/e7iHAzSoACQ "#")
 
-Speaking of [Matty Grace](http://mattygrace.bandcamp.com/), the Halifax folk-punker recently released a (very) low-fi split EP with the mysterious and ramshackle Garbage Disposal Unit. Each act contributes four new songs to the project, collectively titled *Ambitious Failures*. You can find it on Bandcamp now.
+Speaking of [Matty Grace](http://mattygrace.bandcamp.com/), the Halifax folk-punker recently released a (very) lo-fi split EP with the mysterious and ramshackle Garbage Disposal Unit. Each act contributes four new songs to the project, collectively titled *Ambitious Failures*. You can find it on Bandcamp now.
 
 Grace recently released the *Frayed* EP, one in a prolific string of digital releases tracked throughout the COVID lockdown. This year also brought us *Rumination Year*, a six-song album produced by [Surrender](https://surrendersounds.bandcamp.com/)'s Dave Williams. That set arrived just a few weeks after the above-mentioned *Beneath The Bridges* split. In the early months of isolation, Grace released two additional EPs as the punk outfit [Modern Cynics](https://moderncynics.bandcamp.com). In normal times, Grace fronts the punk band [Future Girls](https://futuregirls.bandcamp.com/).
 
@@ -133,7 +133,7 @@ PRIORS last released the *New Pleasure* LP and *Call For You* EP in 2018 on [Slo
 
 [Watch: PRIORS at Lawnya Vawnya @ YouTube](https://youtu.be/Gojv5-6qbH8 "#")
 
-I admittingly know very little about the scrappy Charlottetown three-piece [Supermegatonne](https://supermegatonne902.bandcamp.com). The trio put out an extremely low-fi set of punk songs last month titled *SUPERMEGAFUN!*. It's messy and haphazard, but given PEI's 2020 winning streak, it behooves us all to keep a close eye on everything that the community's churning out.
+I admittingly know very little about the scrappy Charlottetown three-piece [Supermegatonne](https://supermegatonne902.bandcamp.com). The trio put out an extremely lo-fi set of punk songs last month titled *SUPERMEGAFUN!*. It's messy and haphazard, but given PEI's 2020 winning streak, it behooves us all to keep a close eye on everything that the community's churning out.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3967910513/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://supermegatonne902.bandcamp.com/album/supermegafun">SUPERMEGAFUN! by supermegatonne</a></iframe>
 

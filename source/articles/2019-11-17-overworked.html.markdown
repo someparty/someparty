@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Music and videos from The Mark Vodka Group, Louie Short, New Chance, Psychic Void, Young Guv, Bedwetters Anonymous, Elephant Stone, a tribute to The Weakerthans, Stoby, Single Mothers, Aquakultre, Coming Clean, and José Miguel Contreras
 ---
 
-Low-fi Halifax punk outfit [The Mark Vodka Group](https://markvodka.bandcamp.com/) recently shared a nine-song full-length on Bandcamp, quite matter-of-factly titled *A New Record*. The set follows the No Name convention established on the band's 2017 debut EP, dubbed (you guessed it) *Debut EP*. The band's dry sense of self-depreciation and outright aversion to any serious self-promotion carried through to the statement released alongside the album, which explains, glumly:
+Lo-fi Halifax punk outfit [The Mark Vodka Group](https://markvodka.bandcamp.com/) recently shared a nine-song full-length on Bandcamp, quite matter-of-factly titled *A New Record*. The set follows the No Name convention established on the band's 2017 debut EP, dubbed (you guessed it) *Debut EP*. The band's dry sense of self-depreciation and outright aversion to any serious self-promotion carried through to the statement released alongside the album, which explains, glumly:
 
 > "this is growing digital mold on my solid state hard drive so here's something to listen to. what is there to say really. expressing feelings in words isn't really mark's bag ya know? mark should learn how to do these things as mark is getting older... but these musics are just for fun. 'shit out' as we say in the music biz. yep the big music biz. all these songs except for 'goon' are like 2 years old now but they mean the same now as they meant then - absolutely nothing."
 

@@ -24,7 +24,7 @@ As an attentive Some Party reader, you likely know Jiffy Marx as one-third of th
 ###[Chairs for Giants](https://chairs4giants.bandcamp.com): *Chairs for Giants*
 ==Preview and purchase at [Bandcamp](https://chairs4giants.bandcamp.com/album/chairs-for-giants-ep)==
 
-There's been no word from the gruff Saint John punk act [Right Shitty](https://rightshitty.bandcamp.com/) since the world went awry, but the band's core members recently resurfaced with a new project. [Chairs for Giants](https://chairs4giants.bandcamp.com) ventures into low-fi indie rock, and while the players dialled back the tempo - the guitar crunch remains. The new band recorded as a duo, with Peter Ellefsen on vocals and guitar and Levi Ellingwood tackling drums, bass, and guitar. You can hear Chairs for Giants' five-song self-titled EP at Bandcamp now.
+There's been no word from the gruff Saint John punk act [Right Shitty](https://rightshitty.bandcamp.com/) since the world went awry, but the band's core members recently resurfaced with a new project. [Chairs for Giants](https://chairs4giants.bandcamp.com) ventures into lo-fi indie rock, and while the players dialled back the tempo - the guitar crunch remains. The new band recorded as a duo, with Peter Ellefsen on vocals and guitar and Levi Ellingwood tackling drums, bass, and guitar. You can hear Chairs for Giants' five-song self-titled EP at Bandcamp now.
 
 Right Shitty issued their debut LP *Bachelor Of Arts* in 2016, followed in 2017 by a split with the noise-duo [Deathsticks](https://buysomedeathsticks.bandcamp.com/). The group's sophomore LP, *Worry Circle*, arrived digitally in the fall of 2019.
 

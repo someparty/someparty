@@ -65,7 +65,7 @@ I'm just taken with the new video from Halifax "gloom-pop" favourites [Dog Day](
 
 [Watch: Dog Day - "Pictures" @ YouTube](https://youtu.be/uWwPh96Cv94 "#")
 
-Aside from the new Dog Day LP, KC Spidle recently shared new music under the guise of [Gemstones](http://gemstones.bandcamp.com). The project finds the Dartmouth-based musician burning through the isolation tedium with five crunchy new garage rock tunes. Spidle recorded the fuzzed-out, low-fi set, titled *Checking In Before I Check Out*, in March and April during the early stage of the COVID lockdown.
+Aside from the new Dog Day LP, KC Spidle recently shared new music under the guise of [Gemstones](http://gemstones.bandcamp.com). The project finds the Dartmouth-based musician burning through the isolation tedium with five crunchy new garage rock tunes. Spidle recorded the fuzzed-out, lo-fi set, titled *Checking In Before I Check Out*, in March and April during the early stage of the COVID lockdown.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4084804254/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://gemstones.bandcamp.com/album/checking-in-before-i-check-out">Checking In Before I Check Out by Gemstones</a></iframe>
 
@@ -120,7 +120,7 @@ During the isolation period, Mudie also took part in the first in a planned seri
 
 *The Golden Days are Hard*, the new LP from Toronto alt-country group [Westelaken](https://westelaken.bandcamp.com/), is due August 21. Following the record's sombre first single "The Pool of Blood," the group's shared a decidedly livelier cut titled "The January Song." The rambunctious track, described by the band as a "country-lobster city-lobster type song," features Alex Baigent on vocals, bass, and synth, Rob McLay on percussion and backing vocals, Jordan Seccareccia on guitar, and Lucas Temor on piano and banjo. This one gives me flashbacks to the rootsy chaos of bands like Jon-Rae and the River, or even perhaps The Deadly Snakes.
 
-Paul Vroom recorded, mixed, and mastered the band's new material last fall at The Pharmacy in Toronto. Westelaken last released a self-titled LP in 2018, followed by a split with the low-fi group [Hobby](https://hobbytoronto.bandcamp.com/) earlier this year.
+Paul Vroom recorded, mixed, and mastered the band's new material last fall at The Pharmacy in Toronto. Westelaken last released a self-titled LP in 2018, followed by a split with the lo-fi group [Hobby](https://hobbytoronto.bandcamp.com/) earlier this year.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1523219430/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=851176151/transparent=true/" seamless><a href="http://westelaken.bandcamp.com/album/the-golden-days-are-hard">The Golden Days are Hard by Westelaken</a></iframe>
 

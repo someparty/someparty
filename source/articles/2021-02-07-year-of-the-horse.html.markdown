@@ -31,7 +31,7 @@ Fucked Up last released *Dose Your Dreams* in 2018. They followed it with a pair
 ###[Scheintot](https://scheintot.bandcamp.com): *Scheintot*
 ==Preview and purchase at [Bandcamp](https://scheintot.bandcamp.com/album/scheintot)==
 
-Montreal goth quartet [Scheintot](https://scheintot.bandcamp.com) doesn't yet have much online visibility, but I'm loving everything I've heard from them. The group recently shared a self-titled EP featuring five moody, low-fi songs that could have been plucked straight from the early days of post-punk. There's no sheen here, just cold grit and attitude. Fantastic.
+Montreal goth quartet [Scheintot](https://scheintot.bandcamp.com) doesn't yet have much online visibility, but I'm loving everything I've heard from them. The group recently shared a self-titled EP featuring five moody, lo-fi songs that could have been plucked straight from the early days of post-punk. There's no sheen here, just cold grit and attitude. Fantastic.
 
 Scheintot recorded the EP with Max Gosselin (CELL, Faze). There's a scant run of 25 cassettes available through Nova Scotia's [Abattoir](https://abattoir-label.bandcamp.com/) label - with less than 10 remaining if you want one.
 

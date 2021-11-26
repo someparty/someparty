@@ -44,7 +44,7 @@ The duo's upcoming record, their fifth, is titled *Bide My Time Until I Die*. It
 
 [Listen: catl. - "Drive" @ Punknews.org](https://www.punknews.org/article/67700/check-out-some-wild-new-punk-blues-from-torontos-catl "#")
 
-The grungy Montreal-via-Peterborough three-piece [Lonely Parade](https://thelonelyparade.bandcamp.com/) have a new song online titled "Olive Green," a gritty punk number that ends with a cool low-fi instrumental. It'll appear on the trio's upcoming [Buzz Records](http://buzzrecords.ca/) release *The Pits* when it arrives on September 14.
+The grungy Montreal-via-Peterborough three-piece [Lonely Parade](https://thelonelyparade.bandcamp.com/) have a new song online titled "Olive Green," a gritty punk number that ends with a cool lo-fi instrumental. It'll appear on the trio's upcoming [Buzz Records](http://buzzrecords.ca/) release *The Pits* when it arrives on September 14.
 
 Lonely Parade recorded at Toronto's Candle Recording Studio with Josh Korody of [Beliefs](http://beliefsmusic.com/) and [Greys](https://greys.bandcamp.com/)' Shehzaad Jiwani producing. *The Pits* follows up the band's 2016 full-length *No Shade*.
 

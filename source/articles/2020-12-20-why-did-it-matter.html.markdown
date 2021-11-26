@@ -31,7 +31,7 @@ Last year the Toronto and Sackville-based artist released the *Dark Blue* LP thr
 
 [Listen: Steven Lambke - *dub.tape* @ Bandcamp](https://stevenlambke.bandcamp.com/album/dub-tape "#")
 
-Charlottetown's [Warsh](http://warsh.bandcamp.com) surprised with a new scorching EP four-track EP last week. The barely six-minute *E.P. II* comes on the heels of the band's appearance on [Sewercide](http://sewerciderecords.limitedrun.com/)'s recent *Seaside Sickness* compilation, a landmark showcase for similarly loud and low-fi Maritime punk groups. Keep an eye on [High Trash Media](https://www.facebook.com/hightrashmedia/) for a cassette release of *E.P. II* soon.
+Charlottetown's [Warsh](http://warsh.bandcamp.com) surprised with a new scorching EP four-track EP last week. The barely six-minute *E.P. II* comes on the heels of the band's appearance on [Sewercide](http://sewerciderecords.limitedrun.com/)'s recent *Seaside Sickness* compilation, a landmark showcase for similarly loud and lo-fi Maritime punk groups. Keep an eye on [High Trash Media](https://www.facebook.com/hightrashmedia/) for a cassette release of *E.P. II* soon.
 
 As the name indicates, this is the second short-form Warsh release, following the band's 2019 debut *Burning Urge*. The PEI group features vocalist Sophia Tweel, guitarist Teajay Doyle, bassist Rosanna Kressin, and drummer Brett Sanderson.
 
@@ -61,7 +61,7 @@ One of the new groups to debut as part of the event was [cluttered](https://clut
 
 [Watch: Cluttered - "Ativan Love Letter" @ YouTube](https://youtu.be/hz41fgrgk-Y "#")
 
-Halifax-based Paul Atwood has a new EP online under his [Dustbowl](https://dustbowl902.bandcamp.com/) guise, a five-song low-fi rock'n'roll record titled *Good Things Change*. The set follows a pair of short-form releases from earlier this year: a self-titled debut in June, and the *Welcome To Dustbowl Enjoy Your Stay* collection in August. The reverb-washed vocals and noisy instrumental backing of *Good Things Change* call to mind some of Paul Jacob's wilder work, and that's an excellent thing in my book.
+Halifax-based Paul Atwood has a new EP online under his [Dustbowl](https://dustbowl902.bandcamp.com/) guise, a five-song lo-fi rock'n'roll record titled *Good Things Change*. The set follows a pair of short-form releases from earlier this year: a self-titled debut in June, and the *Welcome To Dustbowl Enjoy Your Stay* collection in August. The reverb-washed vocals and noisy instrumental backing of *Good Things Change* call to mind some of Paul Jacob's wilder work, and that's an excellent thing in my book.
 
 Atwood's recorded under several names this year alone, including [Comfort Decade](https://comfortdecade.bandcamp.com) and [Yard Sailor](https://yardsailor.bandcamp.com).
 

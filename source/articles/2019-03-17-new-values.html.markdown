@@ -33,7 +33,7 @@ Hot Garbage also features bassist Juliana Carlevaris, Dylan Gamble on keys, and 
 
 [Listen: Hot Garbage - "100" @ Bandcamp](http://hotgarbagemusic.bandcamp.com/album/cocos-paradise-ep "#")
 
-Toronto low-fi rock group [PAX](https://madelink.bandcamp.com/) released a new song this weekend titled "Sink." The track features the band's principle Madeline Link backed by bassist Noah O'Niel, and drummer by Shane Hooper. The trio recorded with Dexter Nash in the studio and Seamus Patterson mastering.
+Toronto lo-fi rock group [PAX](https://madelink.bandcamp.com/) released a new song this weekend titled "Sink." The track features the band's principle Madeline Link backed by bassist Noah O'Niel, and drummer by Shane Hooper. The trio recorded with Dexter Nash in the studio and Seamus Patterson mastering.
 
 PAX was initially the bedroom recording project of Madeline Link (one-half of the wonderful jangle-pop duo [Triples](https://triplesband.bandcamp.com/)). With the recent cassette release of her full-length *Ouch* on [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/), PAX expanded into a full live band. Early PAX recordings primarily featured Link accompanied on a 12-string guitar and a Casio SK-1.
 
@@ -57,7 +57,7 @@ CRABE features Gabriel Lapierre and Mertin Höek. They came together first in th
 
 Cassette label [Reel to Reel Records](https://www.facebook.com/reeltoorealrecords/) recently put out a 17 song compilation titled *Keepin' it Reel*, it among the tracks it collects is a new demo recording from Robbie Brake, frontman of the London, Ontario power-pop group [Isölation Party](https://isolationparty.bandcamp.com/). It's one of several releases the artist has planned for the coming months, including a 7" single and a solo LP. You can check the song out at Bandcamp.
 
-In addition, Brake today released a set of speedy low-fi surf-rock songs under the band-name [Hook and the Creeps](https://hookandthecreeps.bandcamp.com/releases). While he's been  sitting on these tracks for a while, they've been released now in tribute to surf guitar legend Dick Dale, who passed away this weekend.
+In addition, Brake today released a set of speedy lo-fi surf-rock songs under the band-name [Hook and the Creeps](https://hookandthecreeps.bandcamp.com/releases). While he's been  sitting on these tracks for a while, they've been released now in tribute to surf guitar legend Dick Dale, who passed away this weekend.
 
 If you haven't checked out Isölation Party's lovely new garage punk/power-pop LP *Fiberoptic Holiday*, I suggest you [get on that](https://www.punknews.org/article/69330/stream-the-new-lp-from-london-ontario-power-pop-act-isolation-party).
 

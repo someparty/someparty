@@ -83,14 +83,14 @@ Founded in 2016, Dark Time's shifting lineup now finds vocalist Cayley O'Neill (
 
 Matt Post of the Whitby-bred noise-punk duo [Deathsticks](https://buysomedeathsticks.bandcamp.com/) recently debuted new solo material as the [Matt Post Band](https://mattpostband.bandcamp.com/), sharing a five-song self-titled EP. With hushed vocals layered atop propulsive, industrial-styled instrumentation, the album-opening "Black Cheetahs" marks a stark departure from Post's blown-out past work.
 
-During the summer, Matt shared the first self-titled EP from the low-fi punk group [The Gunge](https://thegunge.bandcamp.com). Deathsticks, Post's two-piece with drummer Laura Klinduch, last released the 2019 EP *Soon the Troubles Will Be Over*.
+During the summer, Matt shared the first self-titled EP from the lo-fi punk group [The Gunge](https://thegunge.bandcamp.com). Deathsticks, Post's two-piece with drummer Laura Klinduch, last released the 2019 EP *Soon the Troubles Will Be Over*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2156795926/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://mattpostband.bandcamp.com/album/ep">EP by Matt Post Band</a></iframe>
 
 ###[PACKS](https://packstheband.bandcamp.com): "Silvertongue"
 ==Watch on [YouTube](https://youtu.be/N7zREV8i8Ec) - Preview and purchase at [Bandcamp](https://packstheband.bandcamp.com/track/silvertongue)==
 
-Madeline Link's low-fi rock group [PACKS](https://packstheband.bandcamp.com) (f.k.a. PAX) recently announced details on their debut full-length for [Royal Mountain](https://www.royalmountainrecords.com/) and [Fire Talk Records](https://firetalkrecs.com/). *Take the Cake* is due digitally on May 21, with vinyl due on July 9. In a statement Link commented on the duality of the record, which combines pre-pandemic material with songs written in isolation:
+Madeline Link's lo-fi rock group [PACKS](https://packstheband.bandcamp.com) (f.k.a. PAX) recently announced details on their debut full-length for [Royal Mountain](https://www.royalmountainrecords.com/) and [Fire Talk Records](https://firetalkrecs.com/). *Take the Cake* is due digitally on May 21, with vinyl due on July 9. In a statement Link commented on the duality of the record, which combines pre-pandemic material with songs written in isolation:
 
 > "The album is a meeting of old and new. Old songs from a year ago where I'm having really horrifyingly awful days at work, getting doored while biking in Toronto and flying into the middle of the street, or going on dates with guys who I'm either instantly in love with, or who end up creeping me out a bit. Those songs are more packed with that feeling of hurtling-through-time-and-space-at-breakneck-speed, manic energy. The newer songs are infused with a foggier, slower-paced disillusionment, and deal with the strangeness of a reality morphing before my eyes every day. I still try to be optimistic obviously, but these songs are really glorified coping mechanisms."
 

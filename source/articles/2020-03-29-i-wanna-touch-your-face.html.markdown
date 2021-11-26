@@ -7,7 +7,7 @@ description: Quarantine audio from The Vapids, Art Of The Uncarved Block, No Fix
 
 It's not all that often that veteran Burlington band [The Vapids](https://the-vapids.bandcamp.com/) surfaces in your news feed, but last week the long-running group was at the centre of two separate COVID-19 stories.
 
-The Italian label [I Buy Records](https://www.ibuyrecords.it/) recently released a low-fi tribute to the early-90s punk band, with each of the collection's 37 contributors recording a Vapids cover directly into to a cellphone. While the album, titled *These Kids Are Sick*, is available as a pay-what-you-want download, any money raised will be donated directly to [Croce Rossa Italiana](https://www.cri.it/home-en) - the Red Cross chapter operating amid one of the world's worst outbreaks.
+The Italian label [I Buy Records](https://www.ibuyrecords.it/) recently released a lo-fi tribute to the early-90s punk band, with each of the collection's 37 contributors recording a Vapids cover directly into to a cellphone. While the album, titled *These Kids Are Sick*, is available as a pay-what-you-want download, any money raised will be donated directly to [Croce Rossa Italiana](https://www.cri.it/home-en) - the Red Cross chapter operating amid one of the world's worst outbreaks.
 
 The set features an international slate of performers, with a handful of bands from the Vapids' national backyard among them. Look for covers from Toronto trio [School Damage](https://schooldamage.bandcamp.com/), London's [Johnny Terrien And The Bad Lieutenants](https://johnnyterrienandthebadlieutenants.bandcamp.com/), [Dirty Cheetah](https://dirtycheetah.bandcamp.com/) out of Montreal, Hamilton's [The Merinuks](https://merinuks.bandcamp.com/), [Wired Wrong](https://wiredwrong.bandcamp.com/) from Sarnia, Moncton's [The Follow Ups](https://thefollowups.bandcamp.com/), and the Ottawa miscreants [NECK](https://necktunes.bandcamp.com/) among the performers. Both [PlasticHeads](http://weareplasticheads.bandcamp.com/) and [Flesh Rag](https://fleshrag.bandcamp.com/) make appearances, notable as Matt Ellis, a member of both garage-punk groups, also plays as part of the modern incarnation of The Vapids.
 
@@ -35,7 +35,7 @@ Among the tracklist, you'll find one of the first publically released songs from
 
 [Listen: Art of the Uncarved Block - *Songs From a (Social) Distance* @ Bandcamp](https://artoftheuncarvedblock.bandcamp.com/album/songs-from-a-social-distance "#")
 
-Windsor's Matty Menard has a new four-song EP online from his low-fi solo punk act [No Fix](https://nofixforyou.bandcamp.com). Like so many projects debuting in these times, the appropriately titled *Apocalyptic Rock* serves as a reaction to our newfound isolation. Menard commented:
+Windsor's Matty Menard has a new four-song EP online from his lo-fi solo punk act [No Fix](https://nofixforyou.bandcamp.com). Like so many projects debuting in these times, the appropriately titled *Apocalyptic Rock* serves as a reaction to our newfound isolation. Menard commented:
 
 > "I've been writing some tunes for a few months now and planned on recording in the spring to have something legit out by summer, but then I was told not to leave my house and recorded an EP myself. Turned out alright I'd say."
 
@@ -129,7 +129,7 @@ The Tempunauts features Andersson backed by bassist Rui Resendes and drummer Dav
 
 [Listen: The Tempunauts - *Electric Dreams* @ Bandcamp](http://thetempunauts.bandcamp.com/album/electric-dreams "#")
 
-The low-fi Vancouver indie-pop group [Lucky](https://luckyvancouver.bandcamp.com) has a chill new EP out titled *We'll Find The Time*. The group recorded the four-song set with [Dumb](https://dumbband.bandcamp.com/)'s Gal Av-Gay at the amorphous Vancouver artists' collective [Choms](https://choms.bandcamp.com).
+The lo-fi Vancouver indie-pop group [Lucky](https://luckyvancouver.bandcamp.com) has a chill new EP out titled *We'll Find The Time*. The group recorded the four-song set with [Dumb](https://dumbband.bandcamp.com/)'s Gal Av-Gay at the amorphous Vancouver artists' collective [Choms](https://choms.bandcamp.com).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2483713870/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://luckyvancouver.bandcamp.com/album/well-find-the-time">We&#39;ll Find the Time by Lucky</a></iframe>
 

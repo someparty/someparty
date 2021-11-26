@@ -15,7 +15,7 @@ Real Sickies are a pop-punk group in the grand tradition of Teenage Head and the
 
 [Listen: Real Sickies - *Quarantined* @ Bandcamp](https://realsickies.bandcamp.com/album/quarantined "#")
 
-When Hamilton's [Matt Ellis](https://mattellis333.bandcamp.com) went into isolation, he did the only reasonable thing and jury-rigged an impromptu recording studio in the bathroom of his family home. The first recordings from this setup have arrived as a four-song EP of snotty, low-fi punk songs titled *High Risk Assurance*. You can listen to the set, lead by the "Havana Affair" riffing "Poison Holiday," below.
+When Hamilton's [Matt Ellis](https://mattellis333.bandcamp.com) went into isolation, he did the only reasonable thing and jury-rigged an impromptu recording studio in the bathroom of his family home. The first recordings from this setup have arrived as a four-song EP of snotty, lo-fi punk songs titled *High Risk Assurance*. You can listen to the set, lead by the "Havana Affair" riffing "Poison Holiday," below.
 
 In better times, you can see Ellis on stage fronting both the Hamilton psych-punks [Flesh Rag](https://fleshrag.bandcamp.com) and the Toronto punk outfit [PlasticHeads](http://weareplasticheads.bandcamp.com/). Flesh Rag last released *Inside Your Mind* in 2018 on [Schizophrenic](https://schizophrenicrex.bandcamp.com/) and [Loose Lips Records](https://www.facebook.com/looselipsrecords333/). PlasticHeads released their first full-length *Nowhere To Run* last year on [Ugly Pop](http://uglypopvinyl.tumblr.com/).
 

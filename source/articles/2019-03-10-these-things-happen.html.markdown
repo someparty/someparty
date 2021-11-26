@@ -59,7 +59,7 @@ Stuck Out Here features co-frontmen and principal songwriters Cam Laurie and Iva
 
 This weekend I also premiered a new demo from Windsor's Matty Menard. You've read about a number of his bands on this newsletter over the past few years, as he sings and plays guitar in [Brain Itch](https://brainitch.bandcamp.com), plays bass in [Psychic Void](https://psychicvoid.bandcamp.com), and drums for the veteran punk group [Disco Assault](http://discoassault.bandcamp.com).
 
-[No Fix](https://nofixforyou.bandcamp.com) is the low-fi punk act that's might be nearest and dearest to whatever madness must be thrashing around in Menard's psyche. Last year No Fix put out three songs that authenticity struck right at the heart of late 70s punk. Those tunes will be followed soon with a brand new tape of demos titled *Toxic Adult*. You can hear one of them, the rhythmic "Barriers" below. It thumps along over with an eerie sci-fi vibe that fans of The Spits should lose their minds over. Here's what Matty had to say about the project:
+[No Fix](https://nofixforyou.bandcamp.com) is the lo-fi punk act that's might be nearest and dearest to whatever madness must be thrashing around in Menard's psyche. Last year No Fix put out three songs that authenticity struck right at the heart of late 70s punk. Those tunes will be followed soon with a brand new tape of demos titled *Toxic Adult*. You can hear one of them, the rhythmic "Barriers" below. It thumps along over with an eerie sci-fi vibe that fans of The Spits should lose their minds over. Here's what Matty had to say about the project:
 
 > "No Fix has been an important outlet of mine for quite sometime now, It's like some sort of therapy. Life is fucking weird and it all builds up on ya sometimes... I look forward to the ritual of making demos. I've been involved in multiple projects at once for a long time now and as much as I love playing with friends and creating collectively, it's nice to have something that's all me, for me.  More to come, Stick around."
 
@@ -101,7 +101,7 @@ This new record follows the band's critically lauded 2017 EP *II*, as well as a 
 
 [Listen: Blessed - "Rolled in Glass" @ Bandcamp](http://blessedband.bandcamp.com/album/salt "#")
 
-Aggressive Charlottetown hardcore/punk quartet [Warsh](http://warsh.bandcamp.com) has a low-fi four-song demo online. The band recorded these tracks in January, with a cassette release expected soon from [High Trash Media](https://www.facebook.com/pg/hightrashmedia). I don't know much about Warsh, but in case you were dozing off you're fully fucking awake now.
+Aggressive Charlottetown hardcore/punk quartet [Warsh](http://warsh.bandcamp.com) has a lo-fi four-song demo online. The band recorded these tracks in January, with a cassette release expected soon from [High Trash Media](https://www.facebook.com/pg/hightrashmedia). I don't know much about Warsh, but in case you were dozing off you're fully fucking awake now.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=61624755/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://warsh.bandcamp.com/album/demo">Demo by Warsh</a></iframe>
 

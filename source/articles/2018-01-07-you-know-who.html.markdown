@@ -13,7 +13,7 @@ As such, here are my [favourite records from 2017](https://www.punknews.org/revi
 
 Now reality has a way of calling me on my bullshit. It turns out that my number one and two picks released entirely new albums over Some Party's holiday break. That's a break I took on faith that the doldrums would hold. So much for that.
 
-We were aware that Halifax punk band the [Booji Boys](https://boojiboysfuneral.bandcamp.com/) were planning to release their second LP on Christmas. That's precisely what happened. UK label [Drunken Sailor Records](http://www.drunkensailorrecords.co.uk/) released the five-member band's *Weekend Rocker* LP as expected. The 12 song set was recorded by [Luke Mumford](https://twitter.com/mumfordluke) over the summer, and finds the Booji Boys continuing the sound they established earlier in the year. This is a group made up of hardcore vets performing hooky, low-fi power-pop at breakneck speed. What more could you want?
+We were aware that Halifax punk band the [Booji Boys](https://boojiboysfuneral.bandcamp.com/) were planning to release their second LP on Christmas. That's precisely what happened. UK label [Drunken Sailor Records](http://www.drunkensailorrecords.co.uk/) released the five-member band's *Weekend Rocker* LP as expected. The 12 song set was recorded by [Luke Mumford](https://twitter.com/mumfordluke) over the summer, and finds the Booji Boys continuing the sound they established earlier in the year. This is a group made up of hardcore vets performing hooky, lo-fi power-pop at breakneck speed. What more could you want?
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1019722367/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://boojiboysfuneral.bandcamp.com/album/weekend-rocker-lp">Weekend Rocker LP by Booji Boys</a></iframe>
 
@@ -49,7 +49,7 @@ Over the holidays a four band split appeared featuring Toronto's irreverent punk
 
 [Listen: WLMRT / Deathsticks / Nüshu / Nightbummerz split @ Bandcamp](https://wlmrt.bandcamp.com/album/4-band-split "#")
 
-Ottawa's Caylie Runciman, better known as the indie-pop act [Boyhood](https://boyhoodsongs.bandcamp.com/), released a handful of recordings in December. These include the songs "Drivin'" and "He Don't," both of which should appear in 2018 on an upcoming record titled *Bad Mantras*. It'll be following up 2012's Bruised Tongue-released *When I'm Hungry* LP. A cover of "Wivenhoe Bells II," originally by English low-fi pop group Cleaners from Venus, was posted at [Bandcamp](https://boyhoodsongs.bandcamp.com/track/wivenhoe-bells-ii-cleaners-from-venus) for the holidays as well.
+Ottawa's Caylie Runciman, better known as the indie-pop act [Boyhood](https://boyhoodsongs.bandcamp.com/), released a handful of recordings in December. These include the songs "Drivin'" and "He Don't," both of which should appear in 2018 on an upcoming record titled *Bad Mantras*. It'll be following up 2012's Bruised Tongue-released *When I'm Hungry* LP. A cover of "Wivenhoe Bells II," originally by English lo-fi pop group Cleaners from Venus, was posted at [Bandcamp](https://boyhoodsongs.bandcamp.com/track/wivenhoe-bells-ii-cleaners-from-venus) for the holidays as well.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2399315780/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://boyhoodsongs.bandcamp.com/track/drivin">Drivin&#39; by boyhood</a></iframe>
 

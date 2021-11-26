@@ -65,7 +65,7 @@ Guitarist/vocalist Jordan Seccareccia commented on the piece:
 >
 >The lyrics take specific moments and images and wrap them in an impressionistic landscape, kind an inverse of the way the painting does. There are some songs on this album that are dialled all the way toward literalism and others that are dialled all the way toward abstraction; this narrator can't hold a firm grasp on either. The music oscillates between a gentle country guitar line with piano interplay and moments of discordant noise. Those mixups of terror with understanding and musical delicacy with atonal noise are qualities that we really strove to imbue the song's parent album with. Sometimes that's a contrast between songs; here and elsewhere, it's a contrast within the song."
 
-"The Pool of Blood" features Seccareccia on guitar and vocals, Alex Baigent on electric and upright bass, Rob McLay on drums, and Lucas Temor on piano. Paul Vroom recorded, mixed, and mastered the song at The Pharmacy in Toronto. Westelaken last released a self-titled LP in 2018, followed by a split with the low-fi group [Hobby](https://hobbytoronto.bandcamp.com/) earlier this year.
+"The Pool of Blood" features Seccareccia on guitar and vocals, Alex Baigent on electric and upright bass, Rob McLay on drums, and Lucas Temor on piano. Paul Vroom recorded, mixed, and mastered the song at The Pharmacy in Toronto. Westelaken last released a self-titled LP in 2018, followed by a split with the lo-fi group [Hobby](https://hobbytoronto.bandcamp.com/) earlier this year.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtPQn0ZZUk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

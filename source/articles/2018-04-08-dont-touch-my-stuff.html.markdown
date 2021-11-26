@@ -9,7 +9,7 @@ description: Paul Jacobs returns with Garbage Truck. Dumb signs to Mint. New mus
 
 That almost sounds normal. Say it ain't so!
 
-Fear not, because this week the weirdo low-fi Paul Jacobs came roaring back. The Windsor-native and bandmate Meagan Callen released two playful EPs of strange little tunes under the name Garbage Truck. The first, *Excellent Shopping*, burns through 11 songs in 12 minutes. The second, *Save For Food*, manages 15 tracks in the same span. Paul didn't make much of an announcement regarding the material, other than including a comment that this is their "home recording of what they think the band should do."
+Fear not, because this week the weirdo lo-fi Paul Jacobs came roaring back. The Windsor-native and bandmate Meagan Callen released two playful EPs of strange little tunes under the name Garbage Truck. The first, *Excellent Shopping*, burns through 11 songs in 12 minutes. The second, *Save For Food*, manages 15 tracks in the same span. Paul didn't make much of an announcement regarding the material, other than including a comment that this is their "home recording of what they think the band should do."
 
 Because that's not enough for a given week, Jacobs also animated a video for the *Save For Food* song "[Craig's Here](https://www.youtube.com/watch?v=3FDhc9m4yvY)," a song about the Nintendo 64 game Goldeneye (or at least the guy playing it).
 

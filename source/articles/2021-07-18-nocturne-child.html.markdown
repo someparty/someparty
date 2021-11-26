@@ -140,7 +140,7 @@ The Oshawa-based [Matt Post Band](https://mattpostband.bandcamp.com/) continues 
 
 The project's industrial-tinged electronic compositions, replete with warped dance beats and hushed vocal takes, stand in stark contrast to the racket Post made as half of the Whitby noise-punk duo [Deathsticks](https://buysomedeathsticks.bandcamp.com/). *Habitat* arrives following June's *Banned From The Dogpark* and May's *The Nest Was Destroyed In a Storm*.
 
-Deathsticks, Post's two-piece with drummer Laura Klinduch, last released the EP *Soon the Troubles Will Be Over* in 2019. Last summer Matt also shared a low-fi punk EP, billed as [The Gunge](https://thegunge.bandcamp.com).
+Deathsticks, Post's two-piece with drummer Laura Klinduch, last released the EP *Soon the Troubles Will Be Over* in 2019. Last summer Matt also shared a lo-fi punk EP, billed as [The Gunge](https://thegunge.bandcamp.com).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2704697854/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://mattpostband.bandcamp.com/album/habitat">Habitat by Matt Post Band</a></iframe>
 

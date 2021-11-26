@@ -73,7 +73,7 @@ Hot Garbage features guitarist/vocalist Alessandro Carlevaris, bassist/vocalist 
 ###[Jacob Barber](https://jacobbarber.bandcamp.com/): "Wannaknow"
 ==Watch at [YouTube](https://youtu.be/5L55DR7T6t8)- Preview and purchase at [Bandcamp](https://jacobbarber.bandcamp.com/track/wannaknow-2?)==
 
-Sarnia singer-songwriter [Jacob Barber](https://jacobbarber.bandcamp.com/) recently shared "Wannaknow," the second single from the upcoming LP *Floating Nowhere*. It follows "April Snow" in previewing the release. Available October 1 through Brampton's [Glue Gun Records](https://gluegunrecords.bandcamp.com), the LP promises a low-fi, nostalgic take on 60s psych-pop. The soft-focus, kaleidoscopic "Wannaknow" video captures that mood in spades. Check it out on YouTube.
+Sarnia singer-songwriter [Jacob Barber](https://jacobbarber.bandcamp.com/) recently shared "Wannaknow," the second single from the upcoming LP *Floating Nowhere*. It follows "April Snow" in previewing the release. Available October 1 through Brampton's [Glue Gun Records](https://gluegunrecords.bandcamp.com), the LP promises a lo-fi, nostalgic take on 60s psych-pop. The soft-focus, kaleidoscopic "Wannaknow" video captures that mood in spades. Check it out on YouTube.
 
 Barber wrote, recorded, and mixed the *Floating Nowhere* material from his home studio with [ROY](https://thesoundofroy.bandcamp.com)'s Patrick Lefler mastering. The new LP follows several pandemic-era releases, including January's *Loving Friends* and November 2020's *Strange Time*. In recent years Barber's fronted [Dream Seer](https://dreamseer.bandcamp.com) and the psych-rockers [Bad Habit](https://bad-habit.bandcamp.com).
 

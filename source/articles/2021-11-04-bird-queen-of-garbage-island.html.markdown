@@ -109,7 +109,7 @@ At some point in the murk of the 2020 quarantine, The Black Void's Spacker Dave 
 ###[20 Eyes](https://20eyes.bandcamp.com): "Cold Love"/"You are a Plague"
 ==Preview and purchase at [Bandcamp](https://20eyes.bandcamp.com/album/cold-love-your-are-a-plague-single)==
 
-I may have unceremoniously stuffed my kids' jack-o-lanterns into the composter, but the Halloween spirit lives on with Charlottetown's [20 Eyes](https://20eyes.bandcamp.com). The band's low-fi devotion to the Misfits and The Damned doesn't hurt in that regard, either. The trio has a new single online now, featuring "Cold Love" and "You Are a Plague." The songs follow up on the group's summer debut, the *Human Enough* EP.
+I may have unceremoniously stuffed my kids' jack-o-lanterns into the composter, but the Halloween spirit lives on with Charlottetown's [20 Eyes](https://20eyes.bandcamp.com). The band's lo-fi devotion to the Misfits and The Damned doesn't hurt in that regard, either. The trio has a new single online now, featuring "Cold Love" and "You Are a Plague." The songs follow up on the group's summer debut, the *Human Enough* EP.
 
 20 Eyes features guitarist/vocalist Matthew Ford, bassist/vocalist Ryan Van Winkle, and drummer Jackson Boulter. The group recorded with Sam Langille and Josh Langille of Charlottetown's [Absolute Losers](https://absolutelosers.bandcamp.com).
 

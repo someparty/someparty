@@ -165,7 +165,7 @@ Ontario post-hardcore superstars [Alexisonfire](https://www.theonlybandever.com/
 
 [Watch: Alexisonfire - "Season of the Flood" @ YouTube](https://youtu.be/oQx2V9Znurs "#")
 
-Toronto pop-punk trio [Talk Show Host](http://www.talkshowhost.ca/) may have just blown the quarantine content game wide open. Acoustic streams and low-fi bedroom pop is one thing, but slickly produced mini-exposés on a musician's favourite means of coffee conveyance? That's something else.
+Toronto pop-punk trio [Talk Show Host](http://www.talkshowhost.ca/) may have just blown the quarantine content game wide open. Acoustic streams and lo-fi bedroom pop is one thing, but slickly produced mini-exposés on a musician's favourite means of coffee conveyance? That's something else.
 
 While I'm certain the group's anxiously sitting on the follow-up to 2017's catchy *Not Here to Make Friends*, they may have found a new calling here.
 

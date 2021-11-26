@@ -81,7 +81,7 @@ Speaking of [Bonnie Doon](https://bonniedoon.bandcamp.com/), the Ottawa punk ban
 
 Bassist Lesley Marshall directed the clip.
 
-*Dooner Nooner* is one of the first records I wrote about when this newsletter kicked off in 2017. It endures as a fun mix of low-fi surf rock and sludgy post-punk, interspersed by frenzied X-Ray Spex-channelling craziness like you hear on this tune.
+*Dooner Nooner* is one of the first records I wrote about when this newsletter kicked off in 2017. It endures as a fun mix of lo-fi surf rock and sludgy post-punk, interspersed by frenzied X-Ray Spex-channelling craziness like you hear on this tune.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qIff7lGO8Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

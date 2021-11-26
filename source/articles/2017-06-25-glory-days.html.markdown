@@ -35,7 +35,7 @@ UK label [Drunken Sailor Records](http://www.drunkensailorrecords.co.uk/) has co
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/TUMh5lgygGQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Extremely low-fi Toronto punk act [Protruders](https://protruders.bandcamp.com) released a new cassette last week to coincide with their Ottawa Explosion appearance. You can check out *[Steaming Pile/Dance Dancing Ape](https://protruders.bandcamp.com/album/steaming-pile-dance-dancing-ape)* over at Bandcamp. Seriously though, I played a Protruders song on a Punknews podcast a few weeks ago and I'm pretty sure it made our producer mad at me. Something about clipping? I'm not an engineer, dude.
+Extremely lo-fi Toronto punk act [Protruders](https://protruders.bandcamp.com) released a new cassette last week to coincide with their Ottawa Explosion appearance. You can check out *[Steaming Pile/Dance Dancing Ape](https://protruders.bandcamp.com/album/steaming-pile-dance-dancing-ape)* over at Bandcamp. Seriously though, I played a Protruders song on a Punknews podcast a few weeks ago and I'm pretty sure it made our producer mad at me. Something about clipping? I'm not an engineer, dude.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1840099297/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://protruders.bandcamp.com/album/steaming-pile-dance-dancing-ape">STEAMING PILE/DANCE DANCING APE by protruders</a></iframe>
 

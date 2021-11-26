@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: News from PAX (Triples), N0V3L, Pretty Matty, Garbage Dreams, Single Mothers, Upsy Daisy, Ben Shemie, David McFarlane, Still Eighteen, Parts & Labour's final show, Taverne Tour IV
 ---
 
-Toronto underground rock label [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) has announced the January 25 release of *ouch*, the new record from Madeline Link's [PAX](https://madelink.bandcamp.com/). Link, who also plays in the low-fi jangle-pop duo [Triples](https://triplesband.bandcamp.com/), performs as PAX with a 12-string guitar and a Casio SK-1. *ouch*, which Link this past August digitally, follows her 2016 debut *HYPHAE*. The label compares PAX with "the otherworldly crooning and vocal samplings in the stylings of early Beck."
+Toronto underground rock label [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) has announced the January 25 release of *ouch*, the new record from Madeline Link's [PAX](https://madelink.bandcamp.com/). Link, who also plays in the lo-fi jangle-pop duo [Triples](https://triplesband.bandcamp.com/), performs as PAX with a 12-string guitar and a Casio SK-1. *ouch*, which Link this past August digitally, follows her 2016 debut *HYPHAE*. The label compares PAX with "the otherworldly crooning and vocal samplings in the stylings of early Beck."
 
 Art of the Uncarved Block's release will be available as a limited-run handmade cassette, adding two new tracks to the 7-song original release. A release show will go down on Friday, January 25, at the Owls Club in Toronto. A new video for the song "Wip Wip" is also online to help promote the release.
 

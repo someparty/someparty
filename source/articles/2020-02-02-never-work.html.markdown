@@ -106,7 +106,7 @@ Toronto skatepunk group [Debt Cemetary](http://debtcemetary.bandcamp.com/) has a
 
 [Listen: Debt Cemetary - "Kindasortamaybe" (ft. Josh Riley) @ Bandcamp](http://debtcemetary.bandcamp.com/track/kindasortamaybe-feat-josh-riley "#")
 
-Low-fi Hamilton garage-punk act [Petro Rabbits](http://petrorabbits.bandcamp.com/) are slated to play their first show this month. The group will debut live on February 15 at The Casbah supporting Barrie stoner-metal trio Indian Handcrafts.
+Lo-fi Hamilton garage-punk act [Petro Rabbits](http://petrorabbits.bandcamp.com/) are slated to play their first show this month. The group will debut live on February 15 at The Casbah supporting Barrie stoner-metal trio Indian Handcrafts.
 
 Petro Rabbits released an EP of basement-recorded fuzz a year ago on the Istanbul label [Kafadan Kontak](https://kafadankontak.bandcamp.com/). The band assembled for this first show includes guitarist/vocalist Tyler McIntyre, bassist Marc Brenzil, and drummer Mark Raymond. Further music and shows around Southern Ontario are expected later in the year.
 

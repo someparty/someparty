@@ -50,7 +50,7 @@ Evan broke down the video's narrative for me:
 > "Watch Tobias Lopez navigate two very different relationships - a new friend and an imaginary one. Just as he's getting comfortable, his new friend disappears mysteriously. His imaginary friend (Chladny, as a dancing spaceman) guides him on a quest to find her.
 The Finch Flyer is aiming to make you laugh and cry in equal parts. It's like having a new experience with a very old friend. You can probably find a couple feelings you forgot about in this one."
 
-*The Finch Flyer* draws together members from some of the city's weirdest and wildest groups. On the record you'll find contributors who've played with the No Wave chameleons [Luge](https://hugeluge.bandcamp.com), the low-fi roots rockers of [Hobby](https://hobbytoronto.bandcamp.com/), and the buzzing dream pop act [Tallies](http://tallies.bandcamp.com), not to mention taking part in some thrilling hyphen-punk records from [Westelaken](https://westelaken.bandcamp.com/) and [WLMRT](https://wlmrt.bandcamp.com/). "Scheduling practices can be rough," Evan Chladny admitted when summing up his collaborators' number of active side-gigs, "but they're making it work."
+*The Finch Flyer* draws together members from some of the city's weirdest and wildest groups. On the record you'll find contributors who've played with the No Wave chameleons [Luge](https://hugeluge.bandcamp.com), the lo-fi roots rockers of [Hobby](https://hobbytoronto.bandcamp.com/), and the buzzing dream pop act [Tallies](http://tallies.bandcamp.com), not to mention taking part in some thrilling hyphen-punk records from [Westelaken](https://westelaken.bandcamp.com/) and [WLMRT](https://wlmrt.bandcamp.com/). "Scheduling practices can be rough," Evan Chladny admitted when summing up his collaborators' number of active side-gigs, "but they're making it work."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mKO8ZDfgXtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -94,7 +94,7 @@ BBQT features guitarist/vocalist Amery Sandford, guitarist Jack Bielli, bassist 
 
 [Listen: BBQT - "Flinch" @ Bandcamp](http://bbqtband.bandcamp.com/track/flinch "#")
 
-Toronto's low-fi rock duo [Low Sun](https://low--sun.bandcamp.com/) may be off touring Europe, but they're still trickling out previews of their upcoming full-length *New/Shiny*. The band premiered the song "Don't Look" at [Post-Trash](http://post-trash.com/news/2019/5/1/low-sun-dont-look-post-trash-premiere) last week. It's the second single shared from the new set, due this June from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/).
+Toronto's lo-fi rock duo [Low Sun](https://low--sun.bandcamp.com/) may be off touring Europe, but they're still trickling out previews of their upcoming full-length *New/Shiny*. The band premiered the song "Don't Look" at [Post-Trash](http://post-trash.com/news/2019/5/1/low-sun-dont-look-post-trash-premiere) last week. It's the second single shared from the new set, due this June from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/).
 
 *New/Shiny* follows up 2017's *Reservoir of Impermanent Light*. Low Sun features the brothers Peter and Robert Johnson.
 

@@ -36,7 +36,7 @@ Attack In Black were of course not the only act to hitch a romantically named re
 
 [Gorilla vs. Bear](http://www.gorillavsbear.net/video-premiere-boyhood-luvbomb/) premiered a video for the song as well. Montreal-based photographer [Monika Kraska](https://monikakraska.myportfolio.com/) (Runciman's sister-in-law) directed the clip.
 
-I was just listening to Boyhood's 2012 LP *When I'm Hungry*, and the amount of growth between those early low-fi recordings and Runciman's new material is pretty amazing.
+I was just listening to Boyhood's 2012 LP *When I'm Hungry*, and the amount of growth between those early lo-fi recordings and Runciman's new material is pretty amazing.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k9f2hHWavXc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

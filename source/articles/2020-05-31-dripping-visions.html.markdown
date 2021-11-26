@@ -21,7 +21,7 @@ Freak Heat Waves' *Zap The Planet* clocks in with nine new tracks. It's due on S
 
 [Watch: Freak Heat Waves - "Dripping Visions" @ YouTube](https://youtu.be/SkJHHyFXyMw "#")
 
-Sackville, New Brunswick's criminally underappreciated garage heroes [Astral Gunk](https://astralgunk.bandcamp.com) unexpectedly resurfaced last week with a rarity in toe. The low-fi punk group shared a song titled "Egoismo," a track originally initially for their 2017 [Secret East](https://secreteast.ca/) cassette release *Buzzin'*.
+Sackville, New Brunswick's criminally underappreciated garage heroes [Astral Gunk](https://astralgunk.bandcamp.com) unexpectedly resurfaced last week with a rarity in toe. The lo-fi punk group shared a song titled "Egoismo," a track originally initially for their 2017 [Secret East](https://secreteast.ca/) cassette release *Buzzin'*.
 
 Micah Brown recorded the band's *Buzzin'* set in a Toronto basement in June of 2016. "Egoismo" was among those songs, but the four-track recorder mangled the tape and the unusable audio was dropped from the release. Brown later captured the version you'll find below in a quick make-up session at Montreal's storied [Torn Curtain](https://daily.redbullmusicacademy.com/2016/06/nightclubbing-the-torn-curtain).
 

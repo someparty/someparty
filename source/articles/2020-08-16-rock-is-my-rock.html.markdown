@@ -165,7 +165,7 @@ José Contreras last released *At The Slaughterhouse* on [Headless Owl](http://h
 
 [Watch: Leisure Palace - "The Assigned Problems" @ YouTube](https://youtu.be/ELC2zsPKtXQ "#")
 
-Cam Steacy's low-fi post-punk outfit [Organ Eyes](http://organeyes.bandcamp.com) has a new 10-song full-length online titled *Like Glass*. It includes the Ottawa artist's recent single "Passed By," and stands as the fourth record released by the project this year. Before the pandemic landed, Organ Eyes shared a full-length titled *Matinee Marmalade*. Two rapidly assembled isolation-era LPs followed it, *Paintings in Concrete* (assembled between March 18 to 23) and *Spirits on Acid* (recorded and released between March 27 and April 15). You can find all the new Organ Eyes recordings at Bandcamp now.
+Cam Steacy's lo-fi post-punk outfit [Organ Eyes](http://organeyes.bandcamp.com) has a new 10-song full-length online titled *Like Glass*. It includes the Ottawa artist's recent single "Passed By," and stands as the fourth record released by the project this year. Before the pandemic landed, Organ Eyes shared a full-length titled *Matinee Marmalade*. Two rapidly assembled isolation-era LPs followed it, *Paintings in Concrete* (assembled between March 18 to 23) and *Spirits on Acid* (recorded and released between March 27 and April 15). You can find all the new Organ Eyes recordings at Bandcamp now.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1558389403/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://organeyes.bandcamp.com/album/like-glass">Like Glass by Organ Eyes</a></iframe>
 

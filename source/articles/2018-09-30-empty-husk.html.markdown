@@ -65,7 +65,7 @@ That track arrived alongside a video for the song "Accelerate," directed by Hali
 
 [Listen: Fucked Up - "Dose Your Dreams" @ Bandcamp](https://fuckedup.bandcamp.com/track/dose-your-dreams "#")
 
-Toronto-based [Hugh Man](https://imhughman.bandcamp.com/) has a video online for "Dynasty Destiny," a low-fi garage punk number from their recent 8-song demo *Are We Dan, Sir?*. It's as fittingly funny and weird as the song that inspired it. Ryan Ha filmed and edited the clip.
+Toronto-based [Hugh Man](https://imhughman.bandcamp.com/) has a video online for "Dynasty Destiny," a lo-fi garage punk number from their recent 8-song demo *Are We Dan, Sir?*. It's as fittingly funny and weird as the song that inspired it. Ryan Ha filmed and edited the clip.
 
 Hugh Man is the brainchild of Michael Couvillon of from Calgary's [Leather Jacuzzi](https://leatherjacuzzi.bandcamp.com/). Their new material follows a 6-song tape released last September titled *How You Find That Goo?*
 

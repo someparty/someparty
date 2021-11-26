@@ -11,7 +11,7 @@ Mississauga's eclectic noise-pop trio [Mildew Mildew](https://mildewmildew.bandc
 
 Mildew Mildew features vocalist/guitarist from Nolan Jakupovski, bassist Cameron Leslie, and drummer Tristan Sousa.
 
-Here's your first taste of the new EPs with the song "Ketchup Chips" from the *Different Floors* set. Nolan left us a note calling the song "a panic-fuelled confession, sort of, and is about not caring what other people think." This is one of those tracks that looks wild just from the peaks and valleys of the SoundCloud waveform. With a satisfying whoop, a frantic spoken word intro turns suddenly into a groovy slacker rock number, with notes of the above-mentioned low-fi heroes Pavement and even some 90s-heydey Beck creeping through.å
+Here's your first taste of the new EPs with the song "Ketchup Chips" from the *Different Floors* set. Nolan left us a note calling the song "a panic-fuelled confession, sort of, and is about not caring what other people think." This is one of those tracks that looks wild just from the peaks and valleys of the SoundCloud waveform. With a satisfying whoop, a frantic spoken word intro turns suddenly into a groovy slacker rock number, with notes of the above-mentioned lo-fi heroes Pavement and even some 90s-heydey Beck creeping through.å
 
 The tape's release show will fittingly take place in the storefront of Toronto's [Dupe Shop](https://www.duplication.ca/dupeshop/) on March 1, with support from Pour Toi and Teenage Green Bean. It's an all-ages, pay-what-you-can affair. Art of the Uncarved Block has the limited quality, handmade cassette up for [preorder](https://www.artoftheuncarvedblock.com/store/mildew-mildew-double-doors-different-floors-cas) now.
 
@@ -86,7 +86,7 @@ One of the electronic/industrial acts playing SOTO, Toronto's [Mykhaylo](https:/
 
 [Listen: Mykhaylo - "Black Hole Submarine" @ Bandcamp](http://djmykhaylo.bandcamp.com/album/black-hole-submarine "#")
 
-Low-fi Ottawa indie rock act [Empty Nesters](https://emptynesters.bandcamp.com/) have a new collection of fuzzy, blown-out gems available. *Tired and Bored* arrives as the band's fifth EP and follows a wealth of material released last year. 2018 featured the *Jaded* EP along with two sets of older demo records (*Bag of Suck* volumes 1 and 2). Empty Nesters is the solo project of Eric Liao.
+Lo-fi Ottawa indie rock act [Empty Nesters](https://emptynesters.bandcamp.com/) have a new collection of fuzzy, blown-out gems available. *Tired and Bored* arrives as the band's fifth EP and follows a wealth of material released last year. 2018 featured the *Jaded* EP along with two sets of older demo records (*Bag of Suck* volumes 1 and 2). Empty Nesters is the solo project of Eric Liao.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1071436403/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://emptynesters.bandcamp.com/album/tired-and-bored">Tired and Bored by Empty Nesters</a></iframe>
 

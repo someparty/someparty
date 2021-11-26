@@ -7,7 +7,7 @@ description: Big week of songs from Pottery, The Cosmic Range, Ian Daniel Kehoe,
 
 [Pottery](http://pottery.bandcamp.com)'s been kicking around the Montreal garage/psych scene since early 2017, but a lack of  recorded material's kept the band decidedly underground. With the recently revealed single "Hank Williams," expect that profile to change. The propulsive garage-rock tune, like all good things, has shades of the mighty Devo (and some early Buzzcocks for good measure). The band's lead by UK transplant Austin Boylan and Jacob Shepansky, along with [Paul Jacobs](https://pauljacobs.bandcamp.com/), Peter Baylis, and Tom Gould. Jacobs is, of course, prolific in the Montreal psych world and members of Pottery have shown up in iterations of his backing bands over the years. He's behind the drum kit here.
 
-The jangling, yelped, low-fi "Hank Williams" sounds about as far from its namesake as you can get. The band described its origin in a press release:
+The jangling, yelped, lo-fi "Hank Williams" sounds about as far from its namesake as you can get. The band described its origin in a press release:
 
 > "'Hank Williams' was one of the first songs we wrote. We were messing around with a few ideas we had and the song just fell into place naturally. Once we had the bones of the song in place a friend heard it and said it sounded like Hank Williams on speed. We liked that idea, so we ran with it for the lyrics. There ya have it, Hank was born (again)."
 

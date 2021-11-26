@@ -33,7 +33,7 @@ Matty Grace is a veteran of several Halifax-based punk and hardcore groups, a li
 
 Elsewhere in Halifax, Steve Earle of the [Booji Boys](https://boojiboysfuneral.bandcamp.com/) has a new side-project, recording extended, atmospheric post-punk as [Flesh & Blood](http://abattoir-label.bandcamp.com/album/inner-exile). Under that name he has a single song online, 7-minutes of moody, unbroken audio dubbed "Inner Exile." You can find this sea of gnarly industrial noise at Bandcamp and pick it up as a cassette from the [Abattoir](https://abattoir-label.bandcamp.com/) label.
 
-Booji Boys, a low-fi punk group who are among the finest bands in the country (in my non-professional opinion), last released *Tube Reducer* in 2019. Look for the group, and several offshoot mutations thereof, to appear on the above-mentioned Sewercide comp as well.
+Booji Boys, a lo-fi punk group who are among the finest bands in the country (in my non-professional opinion), last released *Tube Reducer* in 2019. Look for the group, and several offshoot mutations thereof, to appear on the above-mentioned Sewercide comp as well.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1272116928/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://abattoir-label.bandcamp.com/album/inner-exile">Inner Exile by Flesh &amp; Blood</a></iframe>
 

@@ -81,7 +81,7 @@ The Newfoundland group self-recorded this new material, with Micah Brown mixing 
 
 [Watch: Conditioner - "Room For Two" @ YouTube](https://youtu.be/vZIKpMCJa0o "#")
 
-The low-fi Toronto alt-country act [Hobby](https://hobbytoronto.bandcamp.com/) has a video online featuring a live version of the song "Cost," shot in 2018 at the Houndstooth. The band jested that the clip exists specifically because "festival submission season is approaching." You can judge if it'll help in that regard over at YouTube. [WLMRT](https://wlmrt.bandcamp.com/)'s Ryan Hage filmed the "Cost" video through his [Thank You So Much](https://www.youtube.com/channel/UC5xL1xwdEiSlyZl5LqnNddA) production company.
+The lo-fi Toronto alt-country act [Hobby](https://hobbytoronto.bandcamp.com/) has a video online featuring a live version of the song "Cost," shot in 2018 at the Houndstooth. The band jested that the clip exists specifically because "festival submission season is approaching." You can judge if it'll help in that regard over at YouTube. [WLMRT](https://wlmrt.bandcamp.com/)'s Ryan Hage filmed the "Cost" video through his [Thank You So Much](https://www.youtube.com/channel/UC5xL1xwdEiSlyZl5LqnNddA) production company.
 
 Hobby and the Toronto folk-punk act [Westelaken](https://westelaken.bandcamp.com/) recently announced the arrival of a long-in-the-works split record. The bands will convene for a show at that same Houndstooth on [January 11](https://www.facebook.com/events/500653000800221/) to celebrate the release. I'll be sure to share a few tunes from that one once they arrive.
 

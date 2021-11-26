@@ -13,7 +13,7 @@ Slow was formed by Thomas Anselmi, Christian Thorvaldson, Stephen Hamm, and Terr
 
 [Listen: Slow - "Have Not Been the Same" @ Bandcamp](https://slow.bandcamp.com/track/have-not-been-the-same "#")
 
-Speaking of reunions, the Toronto low-fi post-punk act [Anagram](https://anagram.bandcamp.com) have announced one of their own. The band will get back together for one night only at the Owls Club in their hometown for a [May 25 performance](https://www.facebook.com/events/1826087947402702/).
+Speaking of reunions, the Toronto lo-fi post-punk act [Anagram](https://anagram.bandcamp.com) have announced one of their own. The band will get back together for one night only at the Owls Club in their hometown for a [May 25 performance](https://www.facebook.com/events/1826087947402702/).
 
 Anagram formed in the late 90s and played together until a final gig at the Silver Dollar in 2012. The band put out a number of releases in their decade together, including a self-titled EP in 2003, the *After Dark* LP in 2005, a split 12" with The Creeping Nobodies in 2006, another self-titled 7" release in 2007, and a final full length titled *Majewski* in 2010. For the May show, the band will feature their *Majewski* lineup of vocalist Matt Mason, guitarist Willy Mason, drummer Clayton Churcher, and bassist Jeff Peers.
 

@@ -7,7 +7,7 @@ description: André Ethier (the Deadly Snakes) returns. New music from Booji Boy
 
 The [Deadly Snakes](https://en.wikipedia.org/wiki/The_Deadly_Snakes) were incredibly important to me. In the early 2000s as an undergrad at the University of Guelph, I spent a fair portion of my free time figuring out my musical identity and trying to square my teenage punk preferences with the world of Canadian independent music that I was clumsily discovering. By the time I graduated and (begrudgingly) left town, I'd canonised a personal trilogy of bands. There were the Constantines (this was Three Gut territory, of course), the Weakerthans (a clear gateway from the SoCal punk of my youth), and on the dangerous, swaggering fringe was the Deadly Snakes.
 
-I can draw a direct line from my interest in the raucous Toronto band to discovering garage rock. The Snakes' US label [In The Red](https://intheredrecords.com/) was home to all manner of low-fi, underground rock oddities and a preference for that sound's followed me to this day.
+I can draw a direct line from my interest in the raucous Toronto band to discovering garage rock. The Snakes' US label [In The Red](https://intheredrecords.com/) was home to all manner of lo-fi, underground rock oddities and a preference for that sound's followed me to this day.
 
 Given how seminal the band was to me I'm somewhat bewildered how I missed the news that [André Ethier](https://andreethier.bandcamp.com) was releasing a new solo record. *Under Grape Leaves* arrived this past Friday from [Telephone Explosion](https://www.telephoneexplosion.com). The ten song set is his first in nearly a decade, following 2008's *Born on Blue Fog*. Like most of Ethier's solo efforts (and unlike the Snakes) this is a work of subtlety and starkness. It's open and organic, with the artist's familiar growl relaxed and hiding just below the calm surface.
 
@@ -71,7 +71,7 @@ Pouzza will also feature US punk acts Arms Aloft, City Mouse, Mike Frazier, Sinc
 
 [Listen: Brixton Robbers - "How Did it Get There" @ Bandcamp](https://brixtonrobbers.bandcamp.com/track/brixton-robbers-how-did-it-get-there "#")
 
-Experimental and low-fi Ottawa rock projects [Empty Nesters](https://emptynesters.bandcamp.com/) and [Soft Life](https://softlife.bandcamp.com/) have released a 10-song split EP under the title *Empty Life*. Empty Nesters is the nom de plume of musician Eric Liao. Similarly, Soft Life is Marley Bouley. Both artists recorded their sides with drums by Robert Thomson.
+Experimental and lo-fi Ottawa rock projects [Empty Nesters](https://emptynesters.bandcamp.com/) and [Soft Life](https://softlife.bandcamp.com/) have released a 10-song split EP under the title *Empty Life*. Empty Nesters is the nom de plume of musician Eric Liao. Similarly, Soft Life is Marley Bouley. Both artists recorded their sides with drums by Robert Thomson.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3877504295/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://emptynesters.bandcamp.com/album/empty-life">Empty Life by Empty Nesters and Soft Life</a></iframe>
 

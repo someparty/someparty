@@ -146,7 +146,7 @@ In 2019 Down Memory Lane took part in two releases for [Thousand Islands Records
 ###[Bloodshot Bill](https://bloodshotbill.bandcamp.com): *Out Of My Head Vol. 4*
 ==Preview and purchase at [Bandcamp](https://bloodshotbill.bandcamp.com/album/outta-my-head-vol-4)==
 
-Another Bandcamp Friday's come and gone, and with it, we have another EP of fresh music from Montreal rockabilly mainstay [Bloodshot Bill](https://www.bloodshotbill.com). The fourth entry in the *Outta My Head* series is now up, featuring five low-fi throwbacks tracked over the past month by the prolific musician.
+Another Bandcamp Friday's come and gone, and with it, we have another EP of fresh music from Montreal rockabilly mainstay [Bloodshot Bill](https://www.bloodshotbill.com). The fourth entry in the *Outta My Head* series is now up, featuring five lo-fi throwbacks tracked over the past month by the prolific musician.
 
 This series followed a wealth of material Bill rolled out through 2020. Last year Bill brought the rarities set *Tattle Tale - Vol.1*, the *Spit on My Rubber* EP with Rochester's Televisionaries, a second *Out Of This World Sounds* volume for Ghost Highway Records, and the [Goner Records](https://www.goner-records.com/) LP *Get Loose Or Get Lost*. That's quite likely not an inclusive list.
 

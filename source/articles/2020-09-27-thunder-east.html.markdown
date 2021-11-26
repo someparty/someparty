@@ -75,7 +75,7 @@ Danko Jones last released *A Rock Supreme* in 2019.
 
 [Listen: Throat Funeral - *OU812112* @ Bandcamp](https://throatfuneral.bandcamp.com/album/ou812112 "#")
 
-Peter Connelly's [Tang](https://tanginternetpropaganda.com/) recently shared a new collection of home-recorded material titled *The Quiet Earth*. The Toronto low-fi rock artist recorded the 7-song full length on the quick during the quarantine summer, commenting:
+Peter Connelly's [Tang](https://tanginternetpropaganda.com/) recently shared a new collection of home-recorded material titled *The Quiet Earth*. The Toronto lo-fi rock artist recorded the 7-song full length on the quick during the quarantine summer, commenting:
 
 >"Written and recorded in 6 days, The Quiet Earth is a crude/messy confluence of digital and analog signals, shitty guitar pedals, and some nice guitar pedals. It was whatever I had within reach around my apartment and brain."
 

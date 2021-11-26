@@ -20,7 +20,7 @@ Jacobs recently took part in the inaugural *Sounds From [Mothland](https://www.m
 ###[Gemstones](http://gemstones.bandcamp.com): "Drive"
 ==Watch on [YouTube](https://youtu.be/FNUuOJK7_Bw)==
 
-Last summer Dartmouth's KC Spidle shared *Checking In Before I Check Out*, a rollicking EP of low-fi garage rockers under the name [Gemstones](http://gemstones.bandcamp.com). As with much of 2020's understandable home-recording glut, it was uncertain what the project's next step would be (if there even was one). Was *Checking In* just another time-killing isolation-era trifle or the debut of an ongoing band? It turns out it's the latter - and you'll recognize the lineup.
+Last summer Dartmouth's KC Spidle shared *Checking In Before I Check Out*, a rollicking EP of lo-fi garage rockers under the name [Gemstones](http://gemstones.bandcamp.com). As with much of 2020's understandable home-recording glut, it was uncertain what the project's next step would be (if there even was one). Was *Checking In* just another time-killing isolation-era trifle or the debut of an ongoing band? It turns out it's the latter - and you'll recognize the lineup.
 
 Gemstones will operate as a trio, with Spidle on guitar and vocals, backed by his [Diamondtown](http://diamondtown.bandcamp.com/) bandmate Chris Thompson on drums and [Booji Boys](https://boojiboysfuneral.bandcamp.com/)' Cody Googoo on bass. The group's already recorded a four-song 7", due this coming spring. You can check out a live video of the band playing a new song, titled "Drive," from their practice space (recorded just a week ago).
 

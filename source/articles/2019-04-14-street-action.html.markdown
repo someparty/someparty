@@ -19,7 +19,7 @@ The cover art finds the title plastered across a billboard overlooking the kitsc
 
 [Listen: Wild Side - "Street Action" @ Bandcamp](https://bbbrecords.bandcamp.com/album/who-the-hell-is-wild-side "#")
 
-Toronto low-fi rock duo [Low Sun](https://low--sun.bandcamp.com/) will return this year with a fresh collection of songs titled *New/Shiny*, it's the group's follow-up to their 2017 album *Reservoir of Impermanent Light*. On Friday I premiered the first single from the record over at Punknews.org, a crunchy slow-burning song titled "Don't Hesitate." The often understated band gave me a suitably sly comment on the song, stating "We left it open, the door to the henhouse... the fox slid right in."
+Toronto lo-fi rock duo [Low Sun](https://low--sun.bandcamp.com/) will return this year with a fresh collection of songs titled *New/Shiny*, it's the group's follow-up to their 2017 album *Reservoir of Impermanent Light*. On Friday I premiered the first single from the record over at Punknews.org, a crunchy slow-burning song titled "Don't Hesitate." The often understated band gave me a suitably sly comment on the song, stating "We left it open, the door to the henhouse... the fox slid right in."
 
 Low Sun features the brothers Peter and Robert Johnson, the principles behind the [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) label who formerly played together as Shahman. The band sent over a little history lesson leading up to this record:
 

@@ -78,7 +78,7 @@ Dishpit (or "Dish Pit" - the word break, or lack thereof, in their name is incon
 
 [Watch: Dishpit - "Plaza People" @ YouTube](https://youtu.be/pzkokhou0VE "#")
 
-Mississauga's [JONCRO](https://joncro.bandcamp.com/) shared a pair of low-fi isolation-recorded singles last Friday, a crunchy hardcore tune titled "Degenerates" and a ska-punk number titled "Wheel An Tun." The former features guitarist/vocalist Daniel G. Wilson playing all parts, with Maryam Said (Toronto's [Poolblood](https://poolblood.bandcamp.com/)) making a guest appearance to shout along in the chorus. The bouncy latter track features the trio's regular bassist Kieran Christie on bass and keys.
+Mississauga's [JONCRO](https://joncro.bandcamp.com/) shared a pair of lo-fi isolation-recorded singles last Friday, a crunchy hardcore tune titled "Degenerates" and a ska-punk number titled "Wheel An Tun." The former features guitarist/vocalist Daniel G. Wilson playing all parts, with Maryam Said (Toronto's [Poolblood](https://poolblood.bandcamp.com/)) making a guest appearance to shout along in the chorus. The bouncy latter track features the trio's regular bassist Kieran Christie on bass and keys.
 
 Out of lockdown, the noise-pop three-piece features Wilson and Christie with drummer Matthew Mikuljan. These new tunes follow "Violet Hair" and "Wise River" in the group's pandemic catalogue. The full group last released the EP *Twa* in February. Earlier in June, JONCRO committed their next month's worth of Bandcamp earnings to the NAACP and the ACLU.
 
@@ -96,7 +96,7 @@ You can find the release, with some vintage MuchMusic style cover art, at Bandca
 
 Halifax post-punk project [Flesh & Blood](http://abattoir-label.bandcamp.com/album/inner-exile) returned last week with a new single titled *Cast A Shadow*. It's the enigmatic unit's second outing, following May's *Inner Exile*, and arrived to raise funds for Nova Scotia's [Black Lives Matter Solidarity Fund](https://www.gofundme.com/f/black-lives-matter-solidarity-fund-ns/). Along with the download, the atmospheric track's now available on a small run of one-of-a-kind hand-dubbed cassettes, limited to just 10.
 
-The Flesh & Blood name's attached to Steve Earle of the low-fi, high-energy Haligonian punk group [Booji Boys](https://boojiboysfuneral.bandcamp.com/). That band last released the LP *Tube Reducer* in 2019. Both Flesh & Blood recordings can be found via the [Abattoir](https://abattoir-label.bandcamp.com/) label.
+The Flesh & Blood name's attached to Steve Earle of the lo-fi, high-energy Haligonian punk group [Booji Boys](https://boojiboysfuneral.bandcamp.com/). That band last released the LP *Tube Reducer* in 2019. Both Flesh & Blood recordings can be found via the [Abattoir](https://abattoir-label.bandcamp.com/) label.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2910970504/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://abattoir-label.bandcamp.com/album/cast-a-shadow">Cast A Shadow by Flesh &amp; Blood</a></iframe>
 

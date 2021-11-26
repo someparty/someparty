@@ -29,7 +29,7 @@ The 15-song LP can be found at [Bandcamp](https://itstrashrecords.bandcamp.com/a
 
 [Listen: WLMRT - "Deathsticks Ruined My Life" @ Bandcamp](http://itstrashrecords.bandcamp.com/album/killed-by-meth-3-lp "#")
 
-Nearly a year after their last demo, Toronto's low-fi punk act [Moul D.](https://moul-d.bandcamp.com/) have released *Demo 2*, a five-song set recorded earlier this month. The new material coincides with the band's appearance at [Not Dead Yet](http://notdeadyettoronto.tumblr.com/) later this week. The group is set to open a Saturday hardcore matinee at the Owl's Club as part of the annual festival (a gig with  Montreal's excellent [Faze](https://fazefazefaze.bandcamp.com/), Mil-Spec, Q, Impotentie, Khiss, and TØRSØ topping the bill).
+Nearly a year after their last demo, Toronto's lo-fi punk act [Moul D.](https://moul-d.bandcamp.com/) have released *Demo 2*, a five-song set recorded earlier this month. The new material coincides with the band's appearance at [Not Dead Yet](http://notdeadyettoronto.tumblr.com/) later this week. The group is set to open a Saturday hardcore matinee at the Owl's Club as part of the annual festival (a gig with  Montreal's excellent [Faze](https://fazefazefaze.bandcamp.com/), Mil-Spec, Q, Impotentie, Khiss, and TØRSØ topping the bill).
 
 Moul D is a four-piece that features indie cartoonists [Michael DeForge](http://www.michael-deforge.com/) and [Patrick Kyle](http://www.patrickkyle.com/) among its ranks. DeForge is known for the Instagram webcomic [Leaving Richard's Valley](https://www.instagram.com/richardsvalley/) along with his print work, while Kyle's been behind books like *Black Mass*, *Distance Mover*, *Don't Come In Here*, and *Everywhere Disappeared*.
 

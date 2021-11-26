@@ -111,7 +111,7 @@ The band's following up a 2018 split 7" with Spanish punk act [G.A.S. Drummers](
 
 [Watch: Hellbent - "King" @ YouTube](https://youtu.be/tT_pA-S-mo0 "#")
 
-Low-fi art-punk group [Deliluh](https://deliluh.bandcamp.com/) recently shared a live clip of the song "Freeloader Feast," recorded at the Museum Of Contemporary Art in Toronto. It captures the band performing at the June release show for their [Telephone Explosion](https://www.telephoneexplosion.com/)-released EP *Oath of Intent*. The footage was filmed and edited by Ryan Hage.
+Lo-fi art-punk group [Deliluh](https://deliluh.bandcamp.com/) recently shared a live clip of the song "Freeloader Feast," recorded at the Museum Of Contemporary Art in Toronto. It captures the band performing at the June release show for their [Telephone Explosion](https://www.telephoneexplosion.com/)-released EP *Oath of Intent*. The footage was filmed and edited by Ryan Hage.
 
 This is also another reminder to set aside a few minutes to watch *Somewhere Else* if you haven't yet. Deliluh were central to the documentary short by directors [Colin Medley](https://www.colinmedley.com/) and [Maria Todorov-Topouzov](https://mariatt.net/). It features the community of bands making use of non-traditional venues in Toronto, primarily featuring the Owls Club, as the city copes with a loss of traditional performance spaces. You can find it at [Vimeo](https://vimeo.com/332967020).
 

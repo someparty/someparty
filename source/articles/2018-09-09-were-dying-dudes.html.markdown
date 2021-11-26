@@ -98,7 +98,7 @@ Toronto punk/blues group [catl](https://catltheband.com/) continues to share mus
 [Listen: catl. - "I'm On" @ Popdust](https://www.popdust.com/catl-im-on-song-premiere-2602519318.html
  "#")
 
-Slow-burning Ottawa low-fi act [Empty Nesters](https://emptynesters.bandcamp.com/), the experimental solo project of musician Eric Liao, recently shared a second set of older demo recordings. *Bag of Suck (Vol. 2)* follows a collection Liao released back in March. You can stream it now on Bandcamp. Empty Nesters' last proper release was the EP *Jaded*, from February of this year.
+Slow-burning Ottawa lo-fi act [Empty Nesters](https://emptynesters.bandcamp.com/), the experimental solo project of musician Eric Liao, recently shared a second set of older demo recordings. *Bag of Suck (Vol. 2)* follows a collection Liao released back in March. You can stream it now on Bandcamp. Empty Nesters' last proper release was the EP *Jaded*, from February of this year.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3490636708/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://emptynesters.bandcamp.com/album/bag-of-suck-vol-2">Bag of Suck (Vol. 2) by Empty Nesters</a></iframe>
 

@@ -38,7 +38,7 @@ Laj self-produced *Ten East Pieces* at La La Pop Shoppe in Sudbury, with Jesse G
 ###[Heavenly Blue](https://heavenlyblue.bandcamp.com): *8 Tracks*
 ==Preview and purchase at [Bandcamp](https://heavenlyblue.bandcamp.com/album/s-t-8-tracks)==
 
-Just a few short weeks after [Sewercide Records](http://sewerciderecords.limitedrun.com/) sold out the band's demo cassette, Halifax garage rockers [Heavenly Blue](https://heavenlyblue.bandcamp.com) are back with their first studio release. *8 Tracks* delivers just what it says on the label, featuring a mix of newly available songs and re-recorded versions of the fuzz-washed outlaw grit from the demo. The low-fi group features [Booji Boys](https://boojiboysfuneral.bandcamp.com/) members Cody Googoo, Adam Ledrew, and Justin Crowe, with Alastair Macdonald. Truro blues musician Garrett Mason plays harmonica on the record as well.
+Just a few short weeks after [Sewercide Records](http://sewerciderecords.limitedrun.com/) sold out the band's demo cassette, Halifax garage rockers [Heavenly Blue](https://heavenlyblue.bandcamp.com) are back with their first studio release. *8 Tracks* delivers just what it says on the label, featuring a mix of newly available songs and re-recorded versions of the fuzz-washed outlaw grit from the demo. The lo-fi group features [Booji Boys](https://boojiboysfuneral.bandcamp.com/) members Cody Googoo, Adam Ledrew, and Justin Crowe, with Alastair Macdonald. Truro blues musician Garrett Mason plays harmonica on the record as well.
 
 The new set's available on cassette from Don't Wanna Talk Records or digitally at Bandcamp.
 

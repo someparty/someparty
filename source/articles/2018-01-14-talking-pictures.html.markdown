@@ -33,7 +33,7 @@ Nap Eyes once again features the Chapman and his Montreal-based bandmates Brad L
 
 [Watch: Nap Eyes - "Every Time the Feeling " @ YouTube](https://www.youtube.com/watch?v=liXRe7t7v2M "#")
 
-Early in January, a pair of low-fi punk songs from a Windsor-based band dubbed [No Fix](https://nofixforyou.bandcamp.com) popped up online. No Fix is the solo project of Matthew Menard, who plays in the group [Psychic Void](https://psychicvoid.bandcamp.com) (they released a searing, reverb-drenched, psych-rock/hardcore-hybrid last summer). The songs "Local Boys" and "Negative Reclusive" find Matty channelling the late 70s with an authenticity and earnestness not unlike to the recent debut from Vancouver's Corner Boys.
+Early in January, a pair of lo-fi punk songs from a Windsor-based band dubbed [No Fix](https://nofixforyou.bandcamp.com) popped up online. No Fix is the solo project of Matthew Menard, who plays in the group [Psychic Void](https://psychicvoid.bandcamp.com) (they released a searing, reverb-drenched, psych-rock/hardcore-hybrid last summer). The songs "Local Boys" and "Negative Reclusive" find Matty channelling the late 70s with an authenticity and earnestness not unlike to the recent debut from Vancouver's Corner Boys.
 
 <iframe style="border: 0; width: 700px; max-width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3101386885/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://nofixforyou.bandcamp.com/album/untitled">Untitled by No Fix</a></iframe>
 
@@ -49,7 +49,7 @@ In my head, I'm back in my dorm room at U of G hanging up a G7 Welcoming Committ
 
 [Listen: Bullshit Hardcore Band - "False Flags, News Rags and Body Bags"] (https://onedimensionalband.bandcamp.com/album/false-flags-news-rags-and-body-bags "#")
 
-I'm quite taken by the low-fi indie-pop of "Tear Apart," by London, Ontario's [Yess Woah](https://www.yessicawoahneil.com/). It's the first single from the upcoming album *Believe*, which arrives on January 26. Yess Woah's a duo, an evolution from the stage name songwriter Yessica Woahneil used on her 2016 debut *Cheekbone*. The band is now a duo, with Juliette Grasso joining on drums. A video for the song, created by [Life After Dev](https://lifeafterdev.net/), effectively pairs the tune with some vintage horror footage and accentuates the raw, timeless sound Yess Woah has on display here.
+I'm quite taken by the lo-fi indie-pop of "Tear Apart," by London, Ontario's [Yess Woah](https://www.yessicawoahneil.com/). It's the first single from the upcoming album *Believe*, which arrives on January 26. Yess Woah's a duo, an evolution from the stage name songwriter Yessica Woahneil used on her 2016 debut *Cheekbone*. The band is now a duo, with Juliette Grasso joining on drums. A video for the song, created by [Life After Dev](https://lifeafterdev.net/), effectively pairs the tune with some vintage horror footage and accentuates the raw, timeless sound Yess Woah has on display here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6sw__nGg9LA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

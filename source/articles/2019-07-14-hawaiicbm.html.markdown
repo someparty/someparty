@@ -57,7 +57,7 @@ Lost Love is slated to play [Beau's](https://beaus.ca/) [Oktoberfest](https://ww
 
 [Listen: Lost Love - *Glenn Spaghetti Legs* @ Bandcamp](http://unclem.bandcamp.com/album/glenn-spaghetti-legs "#")
 
-This week I had the privilege of sharing the haunting, grungy new single from Toronto's low-fi duo [Low Sun](https://low--sun.bandcamp.com/). The band, self-described as "post-industry / loser rock," are a week away from the release of their new EP, the appropriately-titled *New/Shiny*. That record arrives on July 20 from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) on cassette.
+This week I had the privilege of sharing the haunting, grungy new single from Toronto's lo-fi duo [Low Sun](https://low--sun.bandcamp.com/). The band, self-described as "post-industry / loser rock," are a week away from the release of their new EP, the appropriately-titled *New/Shiny*. That record arrives on July 20 from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) on cassette.
 
 *New/Shiny* is Low Sun's follow-up to their 2017 drone-rock album *Reservoir of Impermanent Light*. While the tour supporting that record brought the band through Eastern Europe, Japan, and Hong Kong, that momentum didn't make the follow-up any easier. The group spent 8 months with a new bass player, only to lose them just before another European tour, this time supporting Czech hardcore band DNO. Out of necessity Low Sun was reborn as a duo, rewrote their EP from the ground up, and started this, their second life.
 

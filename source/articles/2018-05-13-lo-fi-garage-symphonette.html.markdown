@@ -35,7 +35,7 @@ The Subs are playing shows in the coming weeks with Japandroids and Wolf Parade.
 
 [Listen: Adrian Teacher and the Subs - "Anxious Love" @ Bandcamp](https://adrianteacher.bandcamp.com/album/anxious-love "#")
 
-Prolific Lethbridge, Alberta musician Brandon Saucier recently released a new digital single under the name [Print Head](https://wint.bandcamp.com/album/my-mind-you-remain). While it's a moniker Saucier's taken before, he's been far more active as the high-strung post-punk outfit [WINT](https://wint.bandcamp.com). The new tracks, which are playfully low-fi with a bit of a Devo vibe, are titled "My Mind" and "You Remain." They follow up a 23 song WINT album Saucier released in January titled *Naivety*.
+Prolific Lethbridge, Alberta musician Brandon Saucier recently released a new digital single under the name [Print Head](https://wint.bandcamp.com/album/my-mind-you-remain). While it's a moniker Saucier's taken before, he's been far more active as the high-strung post-punk outfit [WINT](https://wint.bandcamp.com). The new tracks, which are playfully lo-fi with a bit of a Devo vibe, are titled "My Mind" and "You Remain." They follow up a 23 song WINT album Saucier released in January titled *Naivety*.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2708093617/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://wint.bandcamp.com/album/my-mind-you-remain">my mind / you remain by PRINT HEAD</a></iframe>
 

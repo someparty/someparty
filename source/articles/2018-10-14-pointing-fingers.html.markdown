@@ -95,7 +95,7 @@ The band's new material was recorded throughout 2018 at Rain City Recorders and 
 
 [Watch: Swear Jar - "Break Hearts" @ YouTube](https://youtu.be/zAFIH3p7nXs "#")
 
-Toronto low-fi alt-country act [Hobby](https://hobbytoronto.bandcamp.com/) (I stress the "alt" here) are streaming their new record, titled *The Fastest Car Yet*. The set features eight new songs and follows 2017's EP *4 Songs in G*. If you listen carefully you'll hear [WLMRT](https://wlmrt.bandcamp.com/)'s Claire Wilkins and Shelby Wilson make a brief guest appearance on the track "Will's Song" as well. Hobby's expecting to put the new set out on cassette "eventually."
+Toronto lo-fi alt-country act [Hobby](https://hobbytoronto.bandcamp.com/) (I stress the "alt" here) are streaming their new record, titled *The Fastest Car Yet*. The set features eight new songs and follows 2017's EP *4 Songs in G*. If you listen carefully you'll hear [WLMRT](https://wlmrt.bandcamp.com/)'s Claire Wilkins and Shelby Wilson make a brief guest appearance on the track "Will's Song" as well. Hobby's expecting to put the new set out on cassette "eventually."
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2845853930/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://hobbytoronto.bandcamp.com/album/the-fastest-car-yet">The Fastest Car Yet by Hobby</a></iframe>
 

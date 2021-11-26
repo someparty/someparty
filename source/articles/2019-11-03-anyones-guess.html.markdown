@@ -27,7 +27,7 @@ Turns out this was a busy week in Haligonia, as the Halifax punk act [Blood Beac
 
 [Listen: Blood Beach - *S/C* @ Bandcamp](http://bloodbeachhfx.bandcamp.com/album/s-c "#")
 
-Peter Johnson's often sombre indie rock outfit [Tang](https://tanginternetpropaganda.com/) has a new full-length due this December. Titled *Finding Peace, Isn't The Point*, the record follows up low-fi Toronto band's 2018 record *Super Happy*. The album's due December 5 from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/).
+Peter Johnson's often sombre indie rock outfit [Tang](https://tanginternetpropaganda.com/) has a new full-length due this December. Titled *Finding Peace, Isn't The Point*, the record follows up lo-fi Toronto band's 2018 record *Super Happy*. The album's due December 5 from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/).
 
 In a write-up at [Post-Trash](http://post-trash.com/news/2019/11/1/tang-real-dark-post-trash-premiere) the band premiered the single "Real Dark," a track that starts out deceptively acoustic before it crashes a satisfying wave of crunchy distortion. Speaking to the site, Johnson dissected the sentiment behind the track:
 

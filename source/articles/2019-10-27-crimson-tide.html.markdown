@@ -37,7 +37,7 @@ The song appears on *A Flower That Wouldn't Bloom*, the third full-length from t
 
 [PUP](http://www.puptheband.com/)'s ongoing tour brought them through St. John's last week, with the popular quartet playing a show at the city's Club One. Support for that gig came from local punks [Conditioner](http://ccconditionerrr.bandcamp.com/), and they made the most of the spotlight by releasing a pair of new songs to coincide with the event. The group, who last released a self-titled EP in 2017, have the new tracks "My Way Back (2 U)" and "Room For Two" online.
 
-I'm utterly polish-averse when it comes to punk these days, so the new Conditioner jams hit just the right spot for me. There are some huge pop-punk hooks wrapped in these blown out, low-fi recordings. Micah Brown mixed and mastered these new tracks, which the band self-recorded.
+I'm utterly polish-averse when it comes to punk these days, so the new Conditioner jams hit just the right spot for me. There are some huge pop-punk hooks wrapped in these blown out, lo-fi recordings. Micah Brown mixed and mastered these new tracks, which the band self-recorded.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=746835120/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://ccconditionerrr.bandcamp.com/album/singles">SINGLES by CONDITIONER</a></iframe>
 

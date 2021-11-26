@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Weird jams from TJ Cabot (from Phone Jerks), Gulfer, Remote Control (Antibodies/Warsh duo), Post-Rough, Brutal Poodle, Bad River, Dogo Suicide, Shoulder Season, The Blood of Keith Richards, Westelaken, Feels Fine, FME is happening?!
 ---
 
-Out on the East Coast, solo punk act [TJ Cabot](https://tjcabot.bandcamp.com) continues to record crunchy Ramones-styled tunes supporting the noble, if perhaps obscure, cause of Boularderie Island independence. Given the surreal year we're grinding through, I choose to take that notion entirely at face value and free of sarcasm. The *Dick Charles* EP features seven songs, basement-recorded to the internal mic in a laptop, with the low-fi production values giving the material a bit of a gnarly Spits vibe (always a good thing).
+Out on the East Coast, solo punk act [TJ Cabot](https://tjcabot.bandcamp.com) continues to record crunchy Ramones-styled tunes supporting the noble, if perhaps obscure, cause of Boularderie Island independence. Given the surreal year we're grinding through, I choose to take that notion entirely at face value and free of sarcasm. The *Dick Charles* EP features seven songs, basement-recorded to the internal mic in a laptop, with the lo-fi production values giving the material a bit of a gnarly Spits vibe (always a good thing).
 
 The new set follows two previous quarantine releases from Cabot, a set of demos credited to [TJ Cabot & Thee Artificial Rejects](https://tjcabot.bandcamp.com/album/tj-cabot-thee-artificial-rejects-demos), and the new wave styled "Overcompensation" single. The latter was a collaboration with the Moncton synthwave artist [Sonic Hz](https://sonichz.bandcamp.com/).
 

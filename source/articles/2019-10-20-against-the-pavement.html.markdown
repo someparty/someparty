@@ -31,7 +31,7 @@ Woolworm features Giles Roy on guitars and vocals, guitarist Alex Pomeroy, bassi
 
 [Listen: Woolworm - "Let Me Wear The Mask" @ Bandcamp](https://woolworm.bandcamp.com/track/let-me-wear-the-mask "#")
 
-Peter Johnson of the Toronto post-hardcore act [Low Sun](https://low--sun.bandcamp.com/) is hitting the road this week in his [Tang](https://tanginternetpropaganda.com/) guise for a tour of the U.S. midwest. He'll be playing alongside Milwaukee's [Cairns](https://cairnsmke.bandcamp.com). This will be Johnson's first solo tour as the pensive, low-fi Tang, promising a set filled with "scratchy 4 track loops" and "warm, droney experimentation[s] of songs" re-interpreted from the band's studio recordings. The tour kicks off on the 23rd and runs through the 27th with shows in Wisconsin and Michigan. Check Tang's website for the full routing.
+Peter Johnson of the Toronto post-hardcore act [Low Sun](https://low--sun.bandcamp.com/) is hitting the road this week in his [Tang](https://tanginternetpropaganda.com/) guise for a tour of the U.S. midwest. He'll be playing alongside Milwaukee's [Cairns](https://cairnsmke.bandcamp.com). This will be Johnson's first solo tour as the pensive, lo-fi Tang, promising a set filled with "scratchy 4 track loops" and "warm, droney experimentation[s] of songs" re-interpreted from the band's studio recordings. The tour kicks off on the 23rd and runs through the 27th with shows in Wisconsin and Michigan. Check Tang's website for the full routing.
 
 To help promote the trek, Tang released a video featuring a new song, recorded live at The Be Droom (your guess is as good as mine for what or where that is, but it sounds suitably ominous). A full-band version of the song, titled "Blurred Landscape," is due to appear on Tang's next full-length. You can check out this version out below.
 
@@ -41,7 +41,7 @@ The upcoming Tang record is due in December from [Art of the Uncarved Block](htt
 
 [Watch: Tang - "Blurred Landscape" @ YouTube](https://youtu.be/12rcmC3RqVQ "#")
 
-Madeline Link's low-fi project [PAX](https://madelink.bandcamp.com/) has a new video online for the song "Clingfilm," a b-side from their recent EP *Eat Me*. The clip, directed by Link's sister Eva, features her band cavorting around in a park while dressed for a Renaissance fair that doesn't appear to be happening. You can check it out below.
+Madeline Link's lo-fi project [PAX](https://madelink.bandcamp.com/) has a new video online for the song "Clingfilm," a b-side from their recent EP *Eat Me*. The clip, directed by Link's sister Eva, features her band cavorting around in a park while dressed for a Renaissance fair that doesn't appear to be happening. You can check it out below.
 
 While initially a bedroom recording project, PAX recently grew into a full band featuring Madeline backed by guitarist Dexter Nash, bassist Noah O'Neil, and drummer Shane Hooper. The group's last physical release was the full-length *Ouch* on [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/). The Link sisters just last week released *Big Time*, their first full-length as the jangle-pop duo [Triples](https://triplesband.bandcamp.com/).
 
@@ -51,7 +51,7 @@ While initially a bedroom recording project, PAX recently grew into a full band 
 
 We've got one more note from the Uncarved Block family before we move on this week.
 
-The Toronto low-fi post-punk trio [Fond](https://www.facebook.com/whatisfond/) recently premiered another track from their new EP *Vern*. You can check out the song "Against The Pavement" below.
+The Toronto lo-fi post-punk trio [Fond](https://www.facebook.com/whatisfond/) recently premiered another track from their new EP *Vern*. You can check out the song "Against The Pavement" below.
 
 Fond will launch the 5-song cassette release this week with a [show](https://www.facebook.com/events/405890876735653/) at the Owls Club on October 24, supported by locals [Dart Mouth](https://dartsbud.bandcamp.com) and [Nigel Nigel](https://nigelnigel.bandcamp.com/). The Meat Puppets-inspired group brings together Ryan Naray of Animal Faces and Soft Floors, Zach Van Horne of Creeper, and label-co-head Rob Johnson (also of Low Sun and Shahman).
 

@@ -51,7 +51,7 @@ SAGO features veterans of a number of Ontario punk and hardcore acts. The five-p
 
 [Watch: SAGO - "Squealer" @ YouTube](https://www.youtube.com/watch?v=Oko-21WfkF4 "#")
 
-Peter Johnson of Toronto's post-hardcore acts [Shahman](https://shahman.bandcamp.com/) and [Low Sun](https://low--sun.bandcamp.com/) has announced a new solo record under his [Tang](https://artoftheuncarvedblock.bandcamp.com/album/super-happy) alias. [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) will release the new album, titled *Super Happy*, on June 2. It's an intimate, super low-fi effort that pulls influence from Lou Barlow, Smog, Mount Eerie, and Bill Callahan.
+Peter Johnson of Toronto's post-hardcore acts [Shahman](https://shahman.bandcamp.com/) and [Low Sun](https://low--sun.bandcamp.com/) has announced a new solo record under his [Tang](https://artoftheuncarvedblock.bandcamp.com/album/super-happy) alias. [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) will release the new album, titled *Super Happy*, on June 2. It's an intimate, super lo-fi effort that pulls influence from Lou Barlow, Smog, Mount Eerie, and Bill Callahan.
 
 Johnston premiered a video for the song "It's Not (All) Bad" on [PopMatters](https://www.popmatters.com/tang-its-not-all-bad-2569043534.html) last week. He commented:
 

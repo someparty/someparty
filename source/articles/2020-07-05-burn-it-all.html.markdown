@@ -99,7 +99,7 @@ Pretty Matty most recently released a split with Nashville's Sad Baxter on [Head
 
 [Listen: PM - *Demo 2020* @ Bandcamp](http://pmhc.bandcamp.com/album/demo-2020 "#")
 
-Low-fi rockabilly kingpin [Bloodshot Bill](https://www.bloodshotbill.com)'s curated a digital collection of rarities under the title *Tattle Tale - Vol.1*. The set features songs previously featured on several European 7" releases between 2005 and 2013, with several of the tracks now available digitally for the first time. You can find the set at Bandcamp.
+Lo-fi rockabilly kingpin [Bloodshot Bill](https://www.bloodshotbill.com)'s curated a digital collection of rarities under the title *Tattle Tale - Vol.1*. The set features songs previously featured on several European 7" releases between 2005 and 2013, with several of the tracks now available digitally for the first time. You can find the set at Bandcamp.
 
 Bill last released the LP *Get Loose Or Get Lost* in April on Memphis' legendary [Goner Records](https://www.goner-records.com/). Earlier this year, the prolific Montreal musician put out the *Spit on My Rubber* EP with Rochester's Televisionaries, along with EP for Ghost Highway Recordings titled *The Out Of This World Sounds of Bloodshot Bill Vol.2*.
 

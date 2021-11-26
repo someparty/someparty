@@ -38,7 +38,7 @@ I enjoy how casually Lenoir laughs off Callinan breaking *both* of his arms. Len
 
 [Listen: Hubert Lenoir and Kirin J. Callinan - "hunny bunny" @ YouTube](https://youtu.be/Idlqe_wIjvg "#")
 
-The low-fi art-punk group [Deliluh](https://deliluh.bandcamp.com/) recently announced *Beneath The Floors*, a new LP due November 15. The 10-song set marks the band's second major release of the year, following May's *Oath of Intent* EP. As with that record, this one arrives on [Telephone Explosion](https://www.telephoneexplosion.com/) in North America and [Tin Angel](https://www.tinangelrecords.co.uk/) everywhere else.
+The lo-fi art-punk group [Deliluh](https://deliluh.bandcamp.com/) recently announced *Beneath The Floors*, a new LP due November 15. The 10-song set marks the band's second major release of the year, following May's *Oath of Intent* EP. As with that record, this one arrives on [Telephone Explosion](https://www.telephoneexplosion.com/) in North America and [Tin Angel](https://www.tinangelrecords.co.uk/) everywhere else.
 
 Like *Oath of Intent* before it, *Beneath The Floors* was recorded live off the floor of Toronto veteran hall the Owls Club (although five months prior to the sessions for that record). The group shared the single "Lickspittle (A Nut in the Paste)" along with the announcement, a track that features an appearance from Patrick Flegel of [Women](https://womenband.bandcamp.com/) and [Cindy Lee](https://cindylee-w25th.bandcamp.com/). Band leader Kyle Knapp commented on the song, stating:
 

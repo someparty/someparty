@@ -15,7 +15,7 @@ Mildew Mildew last released *Double Doors* and *Different Floors*, a pair of EPs
 
 [Watch: Mildew Mildew - "Qwerty Pie" @ YouTube](https://youtu.be/B7ik5CQ0wKQ "#")
 
-When's the last time we had the pleasure of hearing [Constantines](http://theconstantines.wordpress.com/) guitarist and weathered-poet solo artist [Steven Lambke](http://stevenlambke.com/) shout his way through a bunch of punk songs? One of the later Baby Eagle and the Proud Mothers records, perhaps, if you squit? Last week saw the release of *Spider Bite*, the latest in [Daniel Romano](http://www.danielromanomusic.com/)'s bafflingly prolific series of quarantine releases. The speedy, low-fi effort features Danny and his brother/drummer Ian Romano with Lambke searing on lead vocals. The trio sneers through ten tracks that at times throw off some big 80s hardcore vibes, going a few miles further into the punk realm than even Ancient Shapes dares.
+When's the last time we had the pleasure of hearing [Constantines](http://theconstantines.wordpress.com/) guitarist and weathered-poet solo artist [Steven Lambke](http://stevenlambke.com/) shout his way through a bunch of punk songs? One of the later Baby Eagle and the Proud Mothers records, perhaps, if you squit? Last week saw the release of *Spider Bite*, the latest in [Daniel Romano](http://www.danielromanomusic.com/)'s bafflingly prolific series of quarantine releases. The speedy, lo-fi effort features Danny and his brother/drummer Ian Romano with Lambke searing on lead vocals. The trio sneers through ten tracks that at times throw off some big 80s hardcore vibes, going a few miles further into the punk realm than even Ancient Shapes dares.
 
 Lambke commented on the set with what I'm choosing to read as a sly Rancid reference:
 
@@ -115,7 +115,7 @@ Wasted Potential last released the *Living Up To The Name* LP in 2017. They've h
 
 [Listen: Wasted Potential - "Dude You Got Adelle" @ Bandcamp](https://fixedfrequency.bandcamp.com/track/dude-you-got-adelle "#")
 
-Cam Steacy's low-fi post-punk outfit [Organ Eyes](http://organeyes.bandcamp.com) recently shared "Passed By," a new single that's the latest in a busy slate of quarantine releases from the Ottawa artist. The frack follows a pair of rapidly assembled isolation LPs: *Spirits on Acid* (recorded and released between March 27 and April 15), and the preceding *Paintings in Concrete* (assembled between March 18 to 23). You can dig through all this new material at Bandcamp.
+Cam Steacy's lo-fi post-punk outfit [Organ Eyes](http://organeyes.bandcamp.com) recently shared "Passed By," a new single that's the latest in a busy slate of quarantine releases from the Ottawa artist. The frack follows a pair of rapidly assembled isolation LPs: *Spirits on Acid* (recorded and released between March 27 and April 15), and the preceding *Paintings in Concrete* (assembled between March 18 to 23). You can dig through all this new material at Bandcamp.
 
 Just before the world went sideways Organ Eyes released the full-length *Matinee Marmalade*.
 

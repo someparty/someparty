@@ -69,7 +69,7 @@ David O'Connor and Nathan Burger of Hamilton's [TV Freaks](https://teeveefreakzz
 ###[PACKS](https://packstheband.bandcamp.com): "New TV"
 ==Watch on [YouTube](https://youtu.be/6yZZidcXXaQ) - Preview and purchase at [Bandcamp](https://packstheband.bandcamp.com/track/new-tv)==
 
-There's another new single online from the buzzing Toronto low-fi rockers [PACKS](https://packstheband.bandcamp.com). "New TV" is our second taste of their forthcoming LP *Take The Cake*, again showcasing the sly wonder of Madeline Link's deceptively languid vocals. The artist commented on the track in a press release:
+There's another new single online from the buzzing Toronto lo-fi rockers [PACKS](https://packstheband.bandcamp.com). "New TV" is our second taste of their forthcoming LP *Take The Cake*, again showcasing the sly wonder of Madeline Link's deceptively languid vocals. The artist commented on the track in a press release:
 
 >"I got the chance to witness a craigslist transaction of two bros selling a hideous pink couch to an eager young man with a U-HAUL. As they lovingly demonstrated the LA-Z-BOY function, everyone seemed pretty impressed. New TV boxes and old couches litter curbs every garbage day. This song goes out to other people's garbage."
 

@@ -61,7 +61,7 @@ Aquakultre, lead by vocalist Lance Sampson, released their fantastic debut full-
 
 [Listen: Aquakultre - "Garden" @ Bandcamp](https://aquakultre.bandcamp.com/track/2-garden-ft-budi "#")
 
-Montreal's oblique punk/psych group [Faze](https://fazefazefaze.bandcamp.com/) recently shared an extremely low-fidelity live set titled *The inaudible sounds of... Faze Live @ the Fettuccini Incident*. The release includes a single track capturing the entirety of the group's performance at last year's [I Can't Believe It's Not Paris](https://icantbelieveitsnotparis.bigcartel.com/)  festival. The band played on December 12 at Brasserie Beaubien. All proceeds from the sale of the set are due for [DESTA](https://destabyn.org/), an organization supporting Black youth in Montreal.
+Montreal's oblique punk/psych group [Faze](https://fazefazefaze.bandcamp.com/) recently shared an extremely lo-fidelity live set titled *The inaudible sounds of... Faze Live @ the Fettuccini Incident*. The release includes a single track capturing the entirety of the group's performance at last year's [I Can't Believe It's Not Paris](https://icantbelieveitsnotparis.bigcartel.com/)  festival. The band played on December 12 at Brasserie Beaubien. All proceeds from the sale of the set are due for [DESTA](https://destabyn.org/), an organization supporting Black youth in Montreal.
 
 Faze last released the EP *Struggling to enjoy ourselves while the world slowly implodes* in 2018, which has proven to be an oddly evergreen title.
 
@@ -121,7 +121,7 @@ Ellis is the frontman of both Hamilton's proto-punk revivalists [Flesh Rag](http
 
 [Listen: Matt Ellis - *Halfway To Insanity* @ Bandcamp](https://mattellis333.bandcamp.com/album/halfway-to-insanity "#")
 
-Toronto's [Friend Ship Committee](https://www.facebook.com/friendshipcommittee/) recently shared the third volume in their *Friend Ship From Home* compilation series. The 15-track set features an assortment of low-fi Toronto-area rock bands, including contributions from [Kurt Marble](https://kurtmarble.bandcamp.com/), [Nigel Nigel](https://nigelnigel.bandcamp.com/), and [The Gunge](https://thegunge.bandcamp.com). All proceeds raised by the record are headed to the family of [Regis Korchinski Paquet](https://www.gofundme.com/f/justice-for-regis?utm_source=facebook) and Black Lives Matter.
+Toronto's [Friend Ship Committee](https://www.facebook.com/friendshipcommittee/) recently shared the third volume in their *Friend Ship From Home* compilation series. The 15-track set features an assortment of lo-fi Toronto-area rock bands, including contributions from [Kurt Marble](https://kurtmarble.bandcamp.com/), [Nigel Nigel](https://nigelnigel.bandcamp.com/), and [The Gunge](https://thegunge.bandcamp.com). All proceeds raised by the record are headed to the family of [Regis Korchinski Paquet](https://www.gofundme.com/f/justice-for-regis?utm_source=facebook) and Black Lives Matter.
 
 The Friend Ship Committee organized 2019's Friend Ship cruise, a show hosted on a boat in Lake Ontario that featured the likes of Hot Garbage, Burner, and WLMRT.
 

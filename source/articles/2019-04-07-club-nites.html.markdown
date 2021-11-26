@@ -95,7 +95,7 @@ The band commented on the track's place in the concept album's narrative:
 
 [Listen: Run Coyote - "The Chase" @ Bandcamp](http://runcoyotemusic.bandcamp.com/album/in-shadowlands "#")
 
-Toronto live music documentarian [Mechanical Forest Sound](http://mechanicalforestsound.blogspot.com/) published a wealth of new material this past week. Included in Joe Strutt's latest batch of field recordings are three songs from low-fi punk act [Moul D.](https://moul-d.bandcamp.com/) The band played live at the comic and graphic novel store [The Beguiling](http://www.beguilingbooksandart.com/) as part of a [#DefendThe11](https://www.gofundme.com/SPX-Support-The-11) fundraiser on February 2.
+Toronto live music documentarian [Mechanical Forest Sound](http://mechanicalforestsound.blogspot.com/) published a wealth of new material this past week. Included in Joe Strutt's latest batch of field recordings are three songs from lo-fi punk act [Moul D.](https://moul-d.bandcamp.com/) The band played live at the comic and graphic novel store [The Beguiling](http://www.beguilingbooksandart.com/) as part of a [#DefendThe11](https://www.gofundme.com/SPX-Support-The-11) fundraiser on February 2.
 
 Moul D is a four-piece that features indie cartoonists [Michael DeForge](http://www.michael-deforge.com/) and [Patrick Kyle](http://www.patrickkyle.com/) among its ranks. DeForge is known for the Instagram webcomic [Leaving Richard's Valley](https://www.instagram.com/richardsvalley/) along with his print work. Kyle's published several books including *Black Mass*, *Distance Mover*, *Don't Come In Here*, and *Everywhere Disappeared*.
 

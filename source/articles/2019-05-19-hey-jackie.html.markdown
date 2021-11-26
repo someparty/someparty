@@ -121,7 +121,7 @@ Moon last released the *Paradise String* EP in early 2017.
 
 [Listen: Andrew Neville - "Something Happened" @ Bandcamp](http://andrewneville.bandcamp.com/track/something-happened "#")
 
-Low-fi Ottawa indie rock act [Empty Nesters](https://emptynesters.bandcamp.com/), the solo studio project of Eric Liao, has a new song online. You can check the chill, laid-back "Hippie Drip" over at Bandcamp. The song follows the decidedly louder *Tired and Bored*, the project's fifth EP, from this past February.
+Lo-fi Ottawa indie rock act [Empty Nesters](https://emptynesters.bandcamp.com/), the solo studio project of Eric Liao, has a new song online. You can check the chill, laid-back "Hippie Drip" over at Bandcamp. The song follows the decidedly louder *Tired and Bored*, the project's fifth EP, from this past February.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1071436403/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://emptynesters.bandcamp.com/album/tired-and-bored">Tired and Bored by Empty Nesters</a></iframe>
 
