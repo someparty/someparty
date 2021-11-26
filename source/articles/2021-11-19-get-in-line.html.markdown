@@ -95,7 +95,7 @@ The press release observes that, in contrast to *Engel*'s industrial notes and f
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3362024062/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://scotthardware.bandcamp.com/album/ballad-of-a-tryhard">Ballad Of A Tryhard by Scott Hardware</a></iframe>
 
-###[Hellaphant](https://hellaphant1.bandcamp.com): "Crumble"
+###[Hellaphant](https://hellaphant1.bandcamp.com): *Crumble*
 ==Preview and purchase at [Bandcamp](https://fasterandlouder.bandcamp.com/album/hellaphant-crumble)==
 
 London, Ontario punks [Hellaphant](https://hellaphant1.bandcamp.com) are working with hometown label [Faster And Louder Records](https://fasterandlouder.bandcamp.com) on their new EP, *Crumble*. The band recorded the high-octane 5-song set with producer Siegfried Meier (Stuck Out Here, Ten Boy Summer). You can stream it at Bandcamp now, but keep an eye on the band's socials or the imminent release of a video for the single "Maybe Pain." Expect it tonight, leading to a show in Guelph with The Nasties and Dave Rocket this Saturday night.
@@ -114,7 +114,7 @@ It's been a few long years since we last heard from the promising Toronto's punk
 ###[Chad VanGaalen and UncleBibby](https://chadvangaalenandunclebibby.bandcamp.com): "Friendfishes"
 ==Preview and purchase at [Bandcamp](https://chadvangaalenandunclebibby.bandcamp.com/track/friendfishes)==
 
-This week the [We Are Time](https://wearetime.bandcamp.com/) label checked in with a quirky digital fundraiser. "Friendfishes" is the first collaboration between Calgary weird-folk wizard [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) and UncleBibby, the new stage name for Vancouver artist Patty Locke (sister of Tough Age / Motorists drummer Jesse Locke). UncleBibby commented in the Bandcamp notes:
+This week the [We Are Time](https://wearetime.bandcamp.com/) label checked in with a quirky digital fundraiser. "Friendfishes" is the first collaboration between weird-folk wizard [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) and UncleBibby, the new stage name for Calgary artist Patty Locke (sister of Tough Age / Motorists drummer Jesse Locke). UncleBibby commented in the Bandcamp notes:
 
 >"when i was younger i really liked Chad VanGaalen's scary animations for his music videos and his cool, haunting music so i bought a CD of it. now a decade later or so, my brother Jesse Locke brought us together for a collab and it turns out Chad is really nice so i sent him some super-nintendo-and-MIDI slapbass beats and the rest is history!!"
 

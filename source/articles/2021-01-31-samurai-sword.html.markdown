@@ -97,7 +97,7 @@ Felix earlier alluded to an upcoming LP titled *Transformer Story*, so I'd assum
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=139431850/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://codyellen.bandcamp.com/track/starving-pitbull-on-a-short-chain">Starving Pitbull on a Short Chain by INDUSTRIAL PRIEST OVERCOATS</a></iframe>
 
-###[Future Star](https://dogosuicide.bandcamp.com/): "I'm Gonna be Fine"/"I'm So Alone"
+###[Future Star](https://futurestar.bandcamp.com): "I'm Gonna be Fine"/"I'm So Alone"
 ==Preview and purchase at [Bandcamp](https://futurestar.bandcamp.com/album/when-will-the-dj-of-luv-grant-me-my-1-requests)==
 
 Victoria indie-pop act [Future Star](https://futurestar.bandcamp.com) has a new full-length slated for a February 14 release on [Kingfisher Bluez](https://kingfisherbluez.bandcamp.com/). The 13-track Valentine's Day release carries the seasonally appropriate title of *When Will The DJ Of Luv Grant Me My 1 Request*. You can preview the album's keyboard-backed opening tracks, "I'm Gonna Be Fine" and "I'm So Alone," over at Bandcamp.
