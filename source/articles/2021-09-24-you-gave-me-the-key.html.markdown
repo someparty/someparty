@@ -152,7 +152,7 @@ The grungy quartet recorded in their hometown with [Psychic Void](https://psychi
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=114024237/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://huronlines.bandcamp.com/track/rock-n-roll-will-save-your-life">Rock N Roll Will Save Your Life by Huron Lines</a></iframe>
 
 ###[Comeback Kid](https://comebackkid-hc.bandcamp.com/): "No Easy Way Out"
-==Watch at [YouTube](https://youtu.be/ztSHR3rw-C0) - Preview and purchase at [Bandcamp](https://comebackkid-hc.bandcamp.com/track/no-easy-way-out)==
+==Watch at [YouTube](https://youtu.be/ztSHR3rw-C0) - Preview and purchase at [Bandcamp](https://comebackkid-hc.bandcamp.com/track/no-easy-way-out-2)==
 
 [Comeback Kid](https://comebackkid-hc.bandcamp.com/)'s massive profile in the hardcore sphere likely makes their inclusion here wholly redundant. If you've been living under a thoroughly soundproofed rock, though, this is your formal notice that the Winnipeg group has a new single out. "No Easy Way Out" arrived last week as the band's first new music since the release of 2017's *Outsider*. Vocalist Andrew Neufeld commented in a press release:
 
