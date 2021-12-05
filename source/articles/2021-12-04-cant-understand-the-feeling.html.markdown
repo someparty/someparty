@@ -2,7 +2,7 @@
 title: Can't Understand the Feeling
 date: 2021-12-04
 author: adam@someparty.ca (Adam White)
-description: Kick off December with Faze, Sweet Dave, Young Guv, Mononegaties, ROY, Possum, Imploders, FHANG, NOBRO, Sweet and Lowdown, Wares, Chris Page, The Filthy Radicals, Total Waste, Chastity, and Special Costello
+description: Kicking off December with Faze, Sweet Dave, Young Guv, Mononegaties, ROY, Possum, Imploders, FHANG, NOBRO, Sweet and Lowdown, Wares, Chris Page, The Filthy Radicals, Total Waste, Chastity, and Special Costello
 ---
 
 ###[Faze](https://fazefazefaze.bandcamp.com): *Content*
@@ -19,7 +19,7 @@ Faze last issued a live set in 2020, with the super lo-fi *The inaudible sounds 
 ###[Sweet Dave](https://sweetdave.bandcamp.com/): "Awesome Feeling"
 ==Preview and purchase at [Bandcamp](https://sweetdave.bandcamp.com/album/now-more-than-ever)==
 
-[TV Freaks](https://teeveefreakzz.bandcamp.com/) frontman David O'Connor has another record on the way in his solo guise of [Sweet Dave](https://sweetdave.bandcamp.com/). *Now More Than Ever* lands in February as an extremely limited lathe-cut vinyl 12", following up 2020's sophomore effort *Pink Dreams*. Like that record, Dave leaves his punker inclinations for the Freaks and dives headfirst into goth and new wave, crafting some wildly off-kilter psych-pop steeped in electronics. The album features appearances from several members of TV Freaks and their extended circle, including Sarah Hardy, Vee Bell, Dan Empringham, Angie Lanza ([Uncontrollable Urge](https://theeuncontrollableurge.bandcamp.com/)), Caleb Collins, Lowell Sostomi ([CIVIC TV](https://civic--tv.bandcamp.com)), and [Jessy Lanza](https://jessylanza.bandcamp.com/). O'Connor recorded and mixed with Boxcar Sound's Sean Pearson. Mikey Young of the Eddy Current Suppression Ring mastered the album.
+[TV Freaks](https://teeveefreakzz.bandcamp.com/) frontman David O'Connor has another record on the way in his solo guise of [Sweet Dave](https://sweetdave.bandcamp.com/). *Now More Than Ever* lands in February as an extremely limited lathe-cut vinyl 12", following up 2020's sophomore effort *Pink Dreams*. Like that record, Dave leaves his punker inclinations for the Freaks and dives headfirst into goth and new wave, crafting some wildly off-kilter psych-pop steeped in electronics. The album features appearances from several members of TV Freaks' extended circle, including Sarah Hardy, Vee Bell, Dan Empringham, Angie Lanza ([Uncontrollable Urge](https://theeuncontrollableurge.bandcamp.com/)), Caleb Collins, Lowell Sostomi ([CIVIC TV](https://civic--tv.bandcamp.com)), and [Jessy Lanza](https://jessylanza.bandcamp.com/). O'Connor recorded and mixed with Boxcar Sound's Sean Pearson. Mikey Young of the Eddy Current Suppression Ring mastered the album.
 
 You can groove along to the album-opening "Awesome Feeling" at Bandcamp.
 
@@ -77,7 +77,7 @@ Speaking of [Possum](https://possumyyz.bandcamp.com/), the Toronto psych quintet
 
 Toronto's [Imploders](https://neontasterecords.bandcamp.com/album/imploders) preview their forthcoming LP on a new live tape available through [Neon Taste](https://neontasterecords.bandcamp.com/). *EXD* features ten songs, six brand new, recorded live off the floor. You can pick up one of the limited cassettes (with super gross cover art by Dylan "Skulls" Bowden) at Bandcamp. Christian Turner mixed and mastered the set.
 
-Imploders surfaced this past summer with a self-titled EP brimming with Californian hardcore influences. The band features ex-[Average Times](https://averagetimes.bandcamp.com) member Todd Faux on vocals, Joey Parenteau (Vicious Cycle, [Pink Wine](https://ilikepinkwine.bandcamp.com/)) on guitar, Mikey Microwave ([First Base](https://firstbase.bandcamp.com/), [Teen Archer](https://teenarcher.bandcamp.com/)) on bass, and Curtis Tone ([PlasticHeads](http://weareplasticheads.bandcamp.com/), [School Damage](https://schooldamage.bandcamp.com/)) drumming. The group recently played their first show, opening Chain Whip's one-stop Ontario tour. The group has a big gig lined up on February 5 at Hamilton's Doors Pub, playing with labelmates [Anxious Pleasers](https://anxiouspleasers.bandcamp.com/) along with School Damage and Neurasthenia.
+Imploders surfaced this past summer with a self-titled EP brimming with Californian hardcore influences. The band features ex-[Average Times](https://averagetimes.bandcamp.com) member Todd Faux on vocals, Joey Parenteau (Vicious Cycle, [Pink Wine](https://ilikepinkwine.bandcamp.com/)) on guitar, Mikey Microwave ([First Base](https://firstbase.bandcamp.com/), [Teen Archer](https://teenarcher.bandcamp.com/)) on bass, and Curtis Tone ([PlasticHeads](http://weareplasticheads.bandcamp.com/), [School Damage](https://schooldamage.bandcamp.com/)) drumming. The group recently played their first show, opening Chain Whip's one-stop Ontario tour. Their next big gig's lined up for February 5 at Hamilton's Doors Pub with labelmates [Anxious Pleasers](https://anxiouspleasers.bandcamp.com/), plus School Damage and Neurasthenia.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=824315178/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://neontasterecords.bandcamp.com/album/exd">EXD by Imploders</a></iframe>
 
