@@ -2,7 +2,7 @@
 title: Can't Understand the Feeling
 date: 2021-12-04
 author: adam@someparty.ca (Adam White)
-description: Kicking off December with Faze, Sweet Dave, Young Guv, Mononegaties, ROY, Possum, Imploders, FHANG, NOBRO, Sweet and Lowdown, Wares, Chris Page, The Filthy Radicals, Total Waste, Chastity, and Special Costello
+description: Kicking off December with Faze, Sweet Dave, Young Guv, Mononegatives, ROY, Possum, Imploders, FHANG, NOBRO, Sweet and Lowdown, Wares, Chris Page, The Filthy Radicals, Total Waste, Chastity, and Special Costello
 ---
 
 ###[Faze](https://fazefazefaze.bandcamp.com): *Content*

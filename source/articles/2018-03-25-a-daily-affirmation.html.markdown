@@ -49,7 +49,7 @@ The EP's, ballad "Behind You With Knives" took first place in the International 
 
 [Watch: Jon Creeden & the Flying Hellfish - "Nailbiter" @ YouTube](https://youtu.be/fO2kUT5oHRU "#")
 
-[New Noise Magazine](https://newnoisemagazine.com/song-premiere-the-allovers-rinky-dink/) has premiered a new song from the Edmonton/Calgary power-trio [The Allovers](https://www.facebook.com/TheAllovers/). "Rinky Dink" is the first recording the band's shared from their upcoming debut for the [Anxious & Angry](http://www.anxiousandangry.com/) label, titled *Yer Guises*. It arrives on May 18. The song finds the band pairing crunchy garage rock with earnest early-60s pop elements. You don't often hear the wholesome playfulness of that era crop up in modern bands like this.
+[New Noise Magazine](https://newnoisemagazine.com/song-premiere-the-allovers-rinky-dink/) has premiered a new song from the Edmonton/Calgary power-trio [The Allovers](https://theallovers.bandcamp.com/). "Rinky Dink" is the first recording the band's shared from their upcoming debut for the [Anxious & Angry](http://www.anxiousandangry.com/) label, titled *Yer Guises*. It arrives on May 18. The song finds the band pairing crunchy garage rock with earnest early-60s pop elements. You don't often hear the wholesome playfulness of that era crop up in modern bands like this.
 
 The Allovers have been together since 2011, and features guitarist Matt Pahl, bassist Paul Arnusch (The Wet Secrets, Faunts, The Whitsundays), and drummer Garrett Kruger (Fire Next Time). Kruger was also behind the kit in the early incarnation of [The Famines](http://www.thefamines.ca/) with Raymond Biesinger.
 

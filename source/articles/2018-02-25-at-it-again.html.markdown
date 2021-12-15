@@ -15,7 +15,7 @@ If you're looking to hear more of the band's self-described "bummer punk" in per
 
 [Listen: Future Girls - "At It Again" @ Bandcamp](https://futuregirls.bandcamp.com/track/at-it-again "#")
 
-Minneapolis punk label [Anxious & Angry](http://www.anxiousandangry.com/), which is run by Ryan Young of the band Off With Their Heads, has announced the singing of Edmonton/Calgary power-trio [The Allovers](https://www.facebook.com/TheAllovers/). The label will release the band's debut full-length, *Yer Guises*, on May 18.
+Minneapolis punk label [Anxious & Angry](http://www.anxiousandangry.com/), which is run by Ryan Young of the band Off With Their Heads, has announced the singing of Edmonton/Calgary power-trio [The Allovers](https://theallovers.bandcamp.com/). The label will release the band's debut full-length, *Yer Guises*, on May 18.
 
 The Allovers got together in 2011 and features guitarist Matt Pahl, bassist Paul Arnusch (The Wet Secrets, Faunts, The Whitsundays), and drummer Garrett Kruger (Fire Next Time).
 
