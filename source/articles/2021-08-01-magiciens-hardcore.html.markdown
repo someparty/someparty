@@ -47,7 +47,7 @@ Motorists bring together the Calgarian expats Craig Fahner ([Feel Alright](https
 ###[Book Buddies](https://bookbuddies.bandcamp.com/): "Dream Girl"
 ==Preview and purchase at [Bandcamp](https://bookbuddies.bandcamp.com/track/dream-girl)==
 
-Dartmouth indie rock unit [Book Buddies](https://bookbuddies.bandcamp.com/) recently shared their second single, with the newly unveiled "Dream Girl" following the band's February debut "Neon." You can stream it now at Bandcamp. The group bills themselves as a combination of the Nova Scotian rockers [Designosaur](https://designosaur.bandcamp.com/) and the metalcore act [Pale Ache](https://paleachehfx.bandcamp.com/) - with members also having appeared in [Outtacontroller](http://www.outtacontroller.com/) and [Cluttered](https://cluttered.bandcamp.com/), among others.
+Dartmouth indie rock unit [Book Buddies](https://bookbuddies.bandcamp.com/) recently shared their second single, with the newly unveiled "Dream Girl" following the band's February debut "Neon." You can stream it now at Bandcamp. The group bills themselves as a combination of the Nova Scotian rockers [Designosaur](https://designosaur.bandcamp.com/) and the metalcore act [Pale Ache](https://paleachehfx.bandcamp.com/) - with members also having appeared in [Outtacontroller](https://outtacontroller.bandcamp.com) and [Cluttered](https://cluttered.bandcamp.com/), among others.
 
 A recent feature in [The East](https://www.theeastmag.com/2021/07/30/book-buddies-get-critical-of-social-media-on-dream-girl/) delves into the song's criticism of social media and online culture. Vocalist Rebecca Dalley commented in the piece:
 

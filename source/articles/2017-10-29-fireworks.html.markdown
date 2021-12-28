@@ -82,7 +82,7 @@ Every week it seems that there's some new content to share from Toronto noise-pu
 
 [Watch: METZ - "Drained Lake" @ YouTube](https://www.youtube.com/watch?v=0lBQdzSQSaI&feature=youtu.be "#")
 
-Chris Cresswell of [Flatliners](http://www.theflatliners.com/) performed acoustic [Black Coffee Session](https://www.facebook.com/Blackcoffeesession/) versions of the songs "Human Party Trick" and "Indoors." Both tracks are from the band's latest record *Inviting Light* from earlier in the year. Cresswell also posted the fourth episode of the band's [Carry The Banner](https://itunes.apple.com/ca/podcast/carry-the-banner/id1286042457?mt=2) podcast, which focuses on the scene in Edmonton with a spotlight on [Worst Days Down](http://worstdaysdown.com/) and promoter John Kennedy of [ConcertWorks](http://concertworks.ca/en/).
+Chris Cresswell of [Flatliners](http://www.theflatliners.com/) performed acoustic [Black Coffee Session](https://www.facebook.com/Blackcoffeesession/) versions of the songs "Human Party Trick" and "Indoors." Both tracks are from the band's latest record *Inviting Light* from earlier in the year. Cresswell also posted the fourth episode of the band's [Carry The Banner](https://itunes.apple.com/ca/podcast/carry-the-banner/id1286042457?mt=2) podcast, which focuses on the scene in Edmonton with a spotlight on [Worst Days Down](https://worstdaysdown.bandcamp.com) and promoter John Kennedy of [ConcertWorks](http://concertworks.ca/en/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lUzUHJXfTBU?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
 

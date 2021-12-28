@@ -21,7 +21,7 @@ Pat McEachnie drums in Vancouver's relentless [Chain Whip](https://chainwhip.ban
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1486720404/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://packratpunk.bandcamp.com/album/glad-to-be-forgotten">Glad To Be Forgotten by Pack Rat</a></iframe>
 
 ###[Mr. Power](https://mrpower.bandcamp.com/): "Fix It"
-==Watch on [YouTube](https://youtu.be/5U9iv422q2g) - Preview and purchase at [Bandcamp](https://mrpower.bandcamp.com/releases)==
+==Watch on [YouTube](https://youtu.be/5U9iv422q2g) - Preview and purchase at [Bandcamp](https://mrpower.bandcamp.com/album/romance)==
 
 Mikey Power of Ottawa surf-punks [The Thrill](https://thethrillthethrill.bandcamp.com/) has a new video out spotlighting "Fix It," a track from the askew-pop solo EP he released this summer as [Mr. Power](https://mrpower.bandcamp.com/). The song appears on *Romance*, a five-song digital set issued through the [Clubhouse Recording Club](https://www.instagram.com/the.clubhouse.recording.club/). The video arrived amidst the hype for the label's New Year's Eve bash at the storied Dominion Tavern.
 
@@ -76,7 +76,7 @@ Vancouver punk trio [Night Court](https://nightcourtpunk.bandcamp.com) continues
 
 Edmonton melodic hardcore group [Wolfrik](https://www.wolfrik.ca/) recently detailed their upcoming debut for [Thousand Islands](https://thousandislandsrecords.bandcamp.com/) and [Lockjaw Records](https://lockjawrecords.co.uk/), a 10-song LP titled *Clones*. You can hear the riffy singles "Bashem" and "All Tongues" streaming now at Bandcamp, with the LP due on February 25. Perhaps to a fault, Thousand Islands churns out 90s-vibing skatepunk at an astonishing pace, but Wolfrik stands out for me with an Epitaph-era Hot Water Music gruffness that I'm entirely on board with.
 
-The new record arrives as the quintet's follow-up to the band's 2017 EP *Skeleton City*. Wolfrik features vocalist Dylan Toews, guitarists Kevin Perry and Mark Seifeddine, bassist Luca Properzi and drummer Nathan Troock.
+The new record arrives as the quintet's follow-up to the band's 2017 EP *Skeleton City*. Wolfrik features vocalist Dylan Toews, guitarists Nathaniel Court and Mark Seifeddine, bassist Luca Properzi and drummer Nathan Troock.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4134676368/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3025923859/transparent=true/" seamless><a href="https://thousandislandsrecords.bandcamp.com/album/clones">Clones by Wolfrik</a></iframe>
 

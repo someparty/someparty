@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: New pop punk from Outtacontroller and First Base. Videos from A Tribe Called Red with Lido Pimienta, Vanity Phase, Daniel Romano. New Protruders tape.
 ---
 
-North End Halifax punk / power-pop act [Outtacontroller](http://www.outtacontroller.com/) has announced their next release. The band will be issuing an EP titled *No Echo* through Madrid-based label [Jarama 45RPM Recs](https://www.facebook.com/jarama45rpmrecs/) at some point the near future.
+North End Halifax punk / power-pop act [Outtacontroller](https://outtacontroller.bandcamp.com) has announced their next release. The band will be issuing an EP titled *No Echo* through Madrid-based label [Jarama 45RPM Recs](https://www.facebook.com/jarama45rpmrecs/) at some point the near future.
 
 The release, which follows up 2015's P-Trash LP *Television Zombie*, was recorded by Charles Austin and James O'Toole at the band's neighbourhood studio Echo Chamber Audio. A teaser video featuring a handful of song clips can be found at YouTube now. One of those clips is of the track "Prime Time," which the band shared in full late last year (and you can hear again below). Outtacontroller's sound would fit right in on the Pacific Northwest alongside bands like The Briefs from Seattle and Portland's Mean Jeans.
 

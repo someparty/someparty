@@ -63,7 +63,7 @@ Sloves recorded with Stephen Pitman ([Hobby](https://hobbytoronto.bandcamp.com/)
 ###[Book Buddies](https://bookbuddies.bandcamp.com/): "Neon"
 ==Preview and purchase at [Bandcamp](https://bookbuddies.bandcamp.com/track/neon)==
 
-[Book Buddies](https://bookbuddies.bandcamp.com/) are a brand new Dartmouth-based indie rock unit from members of [Designosaur](https://designosaur.bandcamp.com/) and [Outtacontroller](http://www.outtacontroller.com/). The group recently shared "Neon," their debut single. The hooky track features Rebecca Dalley on vocals and guitar, Anna Cannings on bass, Andrew O'Toole on guitar, and drums from AJ Boutilier. Sean MacGillivray of [Alright Already](https://alrightalready.bandcamp.com/) makes a guest appearance here on backing vocals.
+[Book Buddies](https://bookbuddies.bandcamp.com/) are a brand new Dartmouth-based indie rock unit from members of [Designosaur](https://designosaur.bandcamp.com/) and [Outtacontroller](https://outtacontroller.bandcamp.com). The group recently shared "Neon," their debut single. The hooky track features Rebecca Dalley on vocals and guitar, Anna Cannings on bass, Andrew O'Toole on guitar, and drums from AJ Boutilier. Sean MacGillivray of [Alright Already](https://alrightalready.bandcamp.com/) makes a guest appearance here on backing vocals.
 
 I'd expect more from Book Buddies soon. Rebecca Dalley, meanwhile, recently appeared as a member of [Cluttered](https://cluttered.bandcamp.com/), the propulsive new punk outfit from [Matty Grace](http://mattygrace.bandcamp.com/) of [Future Girls](https://futuregirls.bandcamp.com/).
 

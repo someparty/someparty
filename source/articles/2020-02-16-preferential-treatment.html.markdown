@@ -35,7 +35,7 @@ Gagne wrote and performed all instrumentation on the new record. Jackson Darby m
 
 [Watch: Man Made Hill - "Preferential Treatment" @ YouTube](https://youtu.be/0NGOp0oxIwU "#")
 
-On March 6, the new record from Halifax power-pop act [Outtacontroller](http://www.outtacontroller.com/) arrives on the German label [Alien Snatch!](http://www.aliensnatch.de/). It's the long-awaited follow-up to the Ramonescore group's 2017 EP *No Echo*. We've already previewed this set with the 2018 single "Glassy Eyes," and you can hear the track "Too Soon" below as well.
+On March 6, the new record from Halifax power-pop act [Outtacontroller](https://outtacontroller.bandcamp.com) arrives on the German label [Alien Snatch!](http://www.aliensnatch.de/). It's the long-awaited follow-up to the Ramonescore group's 2017 EP *No Echo*. We've already previewed this set with the 2018 single "Glassy Eyes," and you can hear the track "Too Soon" below as well.
 
 2017's *No Echo* was released through the Madrid-based label [Jarama 45RPM Recs](https://www.facebook.com/jarama45rpmrecs/). You'll likely remember Outtacontroller's video for "Glassy Eyes," which cast [B.A. Johnston](http://www.bajohnston.ca/) as a talk-show host. Outtacontroller's lineup on this 10-track outing includes vocalist/guitarists Terry A'hearn and James O'Toole, bassist AJ Boutilier, and drummer Sean Parsons. The band's most recent full-length was *Television Zombie*, released way back in 2015 on the legendary P.Trash Records.
 

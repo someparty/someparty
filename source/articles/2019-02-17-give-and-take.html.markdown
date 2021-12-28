@@ -82,7 +82,7 @@ The song arrives as J Blissette gears up for their March ["Burn it to the Ground
 
 [Listen: J Blissette - "Relax" @ Bandcamp](http://jblissette.bandcamp.com/track/relax "#")
 
-Halifax punk / power-pop act [Outtacontroller](http://www.outtacontroller.com/) has a video up for their 2018 single "Glassy Eyes." The clip features Hamilton's [B.A. Johnston](http://www.bajohnston.ca/) hosting a Halifax-based talk show, and appearances from several regular faces from the Halifax punk scene. Outtacontroller's lineup on this recording featured vocalist/guitarists Terry A'hearn and James O'Toole, with bassist AJ Boutilier and drummer Sean Parsons. A new full-length from the group is expected sometime this year.
+Halifax punk / power-pop act [Outtacontroller](https://outtacontroller.bandcamp.com) has a video up for their 2018 single "Glassy Eyes." The clip features Hamilton's [B.A. Johnston](http://www.bajohnston.ca/) hosting a Halifax-based talk show, and appearances from several regular faces from the Halifax punk scene. Outtacontroller's lineup on this recording featured vocalist/guitarists Terry A'hearn and James O'Toole, with bassist AJ Boutilier and drummer Sean Parsons. A new full-length from the group is expected sometime this year.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aP9yBFm2iAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
