@@ -80,7 +80,7 @@ The record finds Schmidt working with a team of improvisational maritime musicia
 ###[André Ethier](https://andreethier.bandcamp.com): "Nature Compels Me"
 ==Preview and purchase at [Bandcamp](https://andreethier.bandcamp.com/track/nature-compels-me)==
 
-A second single from [André Ethier](https://andreethier.bandcamp.com)'s *Further Up Island* is out in the wild. You can now preview "Nature Compels Me," an unhurried acoustic track that finds the Toronto folk artist backed by [Destroyer](https://www.mergerecords.com/destroyer)'s Joseph Shabason on saxophone. Ethier commented on the song in a statement:
+A second single from [André Ethier](https://andreethier.bandcamp.com)'s *Further Up Island* is out in the wild. You can now preview "Nature Compels Me," an unhurried acoustic track that finds the Toronto folk artist backed by [Destroyer](https://destroyer.bandcamp.com/)'s Joseph Shabason on saxophone. Ethier commented on the song in a statement:
 
 >"I think this one is a meditation on work and dreams. Repetition of daily patterns until you finally float off into the air like a buzzing fly or a saxophone solo."
 

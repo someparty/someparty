@@ -34,7 +34,7 @@ The announcement arrived alongside the jangle-pop lead single "Mark Zuckerberg,"
 
 >"People are scared of Mark Zuckerberg. You look at him before Congress and think, 'Is this the bogeyman? Is he a CIA plant? Can he read my mind with some sort of God-mode search feature in all my chat transcripts?' This video leads us to believe that Mark wants to enjoy and surveil whatever world he inhabits, whether it’s starting a band with ghastly apparitions in the spirit realm or changing size according to his whim while observing natural and urban landscapes with equal awe. He wants you to accept his friend request and let him watch over you. 'When there was only one set of footprints in the sand...'"
 
-Nap Eyes featured vocalist/guitarist Nigel Chapman, drummer Seamus Dalton, bassist Josh Salter, and guitarist Brad Loughead. The group recorded at The National’s Long Pond Studio in upstate New York with producers Jonathan Low and James Elkington. Look for Nap Eyes on the road soon, supporting Dan Bejar's [Destroyer](https://www.mergerecords.com/destroyer).
+Nap Eyes featured vocalist/guitarist Nigel Chapman, drummer Seamus Dalton, bassist Josh Salter, and guitarist Brad Loughead. The group recorded at The National’s Long Pond Studio in upstate New York with producers Jonathan Low and James Elkington. Look for Nap Eyes on the road soon, supporting Dan Bejar's [Destroyer](https://destroyer.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gq2YhOY55zU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

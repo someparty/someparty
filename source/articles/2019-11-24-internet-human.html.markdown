@@ -89,7 +89,7 @@ Autogramm features Jiffy Marx of Hard Drugs and [Blood Meridian](https://bloodme
 
 [Watch: Autogramm - "Bad Day" @ YouTube](https://youtu.be/IVQSd-xC0Bc "#")
 
-Speaking of [Destroyer](https://www.mergerecords.com/destroyer), the Dan Bejar vehicle recently shared a second track from the upcoming *Have We Met*. "It Doesn't Just Happen" follows October's "Crimson Tide" in previewing the new LP, Destroyer's 13th. You can check it through a subdued new video that follows a snowmobile travelling in near darkness.
+Speaking of [Destroyer](https://destroyer.bandcamp.com/), the Dan Bejar vehicle recently shared a second track from the upcoming *Have We Met*. "It Doesn't Just Happen" follows October's "Crimson Tide" in previewing the new LP, Destroyer's 13th. You can check it through a subdued new video that follows a snowmobile travelling in near darkness.
 
 *Have We Met* is due on January 31 from [Dead Oceans](https://deadoceans.com/) and [Merge](https://www.mergerecords.com/). The album follows 2017's *Ken*.
 

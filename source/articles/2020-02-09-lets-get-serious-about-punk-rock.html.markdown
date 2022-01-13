@@ -153,7 +153,7 @@ The new episode of [Come For a Ride](https://twitter.com/comeforaridepod) featur
 
 [Subscribe: Come for a Ride on iTunes](https://podcasts.apple.com/ca/podcast/come-for-a-ride/id1487586878 "#")
 
-I can't keep up with the release schedule of [Vish Khanna](http://vishkhanna.com/)'s now-Edmonton-based [Kreative Kontrol](http://vishkhanna.com/kreative-kontrol/), but among the show's recent episodes you'll surely want to tune into a featured chat with Dan Bejar on the new [Destroyer](https://www.mergerecords.com/destroyer) record, *Have We Met*. You can find it, and recent conversations with Sarah Harmer, Gord Sinclair, Beth Stelling, and Matana Roberts, out on the Kreative Kontrol feed now.
+I can't keep up with the release schedule of [Vish Khanna](http://vishkhanna.com/)'s now-Edmonton-based [Kreative Kontrol](http://vishkhanna.com/kreative-kontrol/), but among the show's recent episodes you'll surely want to tune into a featured chat with Dan Bejar on the new [Destroyer](https://destroyer.bandcamp.com/) record, *Have We Met*. You can find it, and recent conversations with Sarah Harmer, Gord Sinclair, Beth Stelling, and Matana Roberts, out on the Kreative Kontrol feed now.
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/12945878/height/90/theme/custom/thumbnail/no/direction/backward/render-playlist/no/custom-color/6d381a/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
