@@ -26,6 +26,7 @@ I've published Some Party's more-or-less weekly since May of 2017. You can explo
 * [2019](/2019/)
 * [2020](/2020/)
 * [2021](/2021/)
+* [2022](/2022/)
 * [Some Kicks Radio playlist (2020)](/some-kicks)
 
 ##Acknowledgements

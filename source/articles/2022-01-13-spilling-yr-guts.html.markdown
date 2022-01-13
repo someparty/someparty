@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Kicking off the year in style with Apollo Ghosts, Solitüde at the Pils Sessions, the Greville Tapes Music Club, No Frills, Matt Ellis, Salmonblaster, Jyraph, Print Head, TJ Felix, Young Guv, Dead Soft, Still Insane, Jesse Lebourdais, Halcyon Phase, Friesen/Munro/Waters, and Destroyer!
 ---
 
-During the early 2000s Punknews heyday, we'd dread the weeks following Christmas. We were in the habit of churning more than a dozen stories a day, and the post-holiday news doldrums felt simply excruciating for their lack of momentum. I'm older now, arguably wiser, and (like everyone) ground quite thoroughly down by the sorry state of the world. At Some Party speeds, in a pandemic funk, I relished the break - but inertia's pernicious. Monday seemed a little thin still, but what a difference a few days can make. This is a big one.
+During the early 2000s Punknews heyday we'd dread the weeks following Christmas. We were in the habit of churning more than a dozen stories a day, and the post-holiday news doldrums felt simply excruciating for their lack of momentum. I'm older now, arguably wiser, and (like everyone) ground quite thoroughly down by the sorry state of the world. At Some Party speeds, in a pandemic funk, I relished the break - but inertia's pernicious. Monday seemed a little thin still, but what a difference a few days can make. This is a big one.
 
 ###[Apollo Ghosts](https://apolloghosts.bandcamp.com/): "Spilling Yr Guts"
 ==Watch on [YouTube](https://youtu.be/ob0DjZO-E3U) - Preview and purchase at [Bandcamp](https://apolloghosts.bandcamp.com/album/pink-tiger-2)==
@@ -93,7 +93,7 @@ The crashing new track follows several recent singles from Pablo Garcia-Rejon Ga
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=258634148/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://jyraph.bandcamp.com/track/el-pinche-gobierno">El Pinche Gobierno by Jyraph</a></iframe>
 
 ###[Print Head](https://printhead.bandcamp.com/): *In Motion*
-==Preview and purchase at [Bandcamp](https://printhead.bandcamp.com/album/made-by-yesterday)==
+==Preview and purchase at [Bandcamp](https://printhead.bandcamp.com/album/in-motion)==
 
 Looking over his recent discography, it's evident that I've utterly failed to keep up with Brandon Saucier's prolific lo-fi solo project [Print Head](https://printhead.bandcamp.com/). Last week, the *In Motion* tape surfaced, packing seven thrillingly unpredictable new tracks. It's the latest from the Lethbridge musician's seemingly unending well of manic DEVOcore rackets, following at least four releases last year. These tracks came together in September and October.
 
