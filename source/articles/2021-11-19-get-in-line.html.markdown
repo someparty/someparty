@@ -32,7 +32,7 @@ Monkman spoke to [Exclaim](https://exclaim.ca/music/article/ombiigizi_zoon_statu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_4NGiMfXiOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[The Sadies](http://www.thesadies.net/): "Stop and Start"
-==Watch on [YouTube](https://youtu.be/CNS7XVtHMPk) - Preview and purchase at [Bandcamp](https://ombiigizi.bandcamp.com/album/sewn-back-together)==
+==Watch on [YouTube](https://youtu.be/CNS7XVtHMPk)==
 
 Toronto alt-country mainstays [The Sadies](http://www.thesadies.net/) have a new single in the wild. "Stop and Start" doesn't deviate from the quartet's well-established take on garagey Americana, but why mess with perfection? The song provides our first glimpse into sessions recorded with Arcade Fire's [Richard Reed Parry](https://richardreedparry.com/) producing. You can check it out below in a lyric video directed by Mike Dubue.
 

@@ -29,7 +29,7 @@ Kamikaze Nurse features vocalist/guitarist KC Wei ([hazy](https://hazyhazyhaze.b
 
 [Watch: Kamikaze Nurse - "Sun Song" @ YouTube](https://youtu.be/aiZm1VIKmNg "#")
 
-Long back before Some Party was a mildly unsuccessful newsletter it was the title of an entirely unsuccessful 2012-era podcast (that you should continue to mercifully ignore). One artist I recall showcasing on that show was the Welland-based singer-songwriter [Julianna Riolino](https://jr-sings.bandcamp.com/). While she's been quiet these past few years, it's great to hear her finally return with new material. "Be My Man" is the propulsive first single from an upcoming EP from Riolino, who's now playing under the stage-name J.R.
+Long back before Some Party was a mildly unsuccessful newsletter it was the title of an entirely unsuccessful 2012-era podcast (that you should continue to mercifully ignore). One artist I recall showcasing on that show was the Welland-based singer-songwriter [Julianna Riolino](https://juliannariolinosings.bandcamp.com). While she's been quiet these past few years, it's great to hear her finally return with new material. "Be My Man" is the propulsive first single from an upcoming EP from Riolino, who's now playing under the stage-name J.R.
 
 In the premiere at [Indie 88](https://indie88.com/indie88-premiere-j-r-releases-video-for-new-fuzzy-indie-pop-single-be-my-man/) Riolino comments:
 

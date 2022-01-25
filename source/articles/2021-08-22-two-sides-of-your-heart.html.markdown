@@ -49,7 +49,7 @@ The new single follows "18 Cigarettes" in previewing the record, which arrives O
 ###[Daniel Romano's Outfit](https://danielromano.bandcamp.com): "The Motions"
 ==Watch on [YouTube](https://youtu.be/Vlkq53sK2co) - Preview and purchase at [Bandcamp](https://danielromano.bandcamp.com/track/the-motions)==
 
-The second single from September's *Cobra Poems* finds [Daniel Romano's Outfit](https://danielromano.bandcamp.com) trying something new - with the band's namesake songwriter stepping back to let [Julianna Riolino](https://jr-sings.bandcamp.com/) take lead vocals. I've written before about how Danny's bandmates have become more satisfyingly assertive over time, and "The Motions" is perhaps the clearest example of that trend. The new single follows "Nocturne Child" in previewing the group's new LP, due September 10 from [You've Changed Records](https://youvechangedrecords.com/).
+The second single from September's *Cobra Poems* finds [Daniel Romano's Outfit](https://danielromano.bandcamp.com) trying something new - with the band's namesake songwriter stepping back to let [Julianna Riolino](https://juliannariolinosings.bandcamp.com) take lead vocals. I've written before about how Danny's bandmates have become more satisfyingly assertive over time, and "The Motions" is perhaps the clearest example of that trend. The new single follows "Nocturne Child" in previewing the group's new LP, due September 10 from [You've Changed Records](https://youvechangedrecords.com/).
 
 The song arrived alongside a video that co-stars Texas musician Carson McHone. You can find it on YouTube now.
 
