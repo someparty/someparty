@@ -113,9 +113,9 @@ Winnipeg noise-punk trio [Tunic](http://tunicband.com/) has a new single out in 
 
 Tunic's *Complexion* arrived back in February through Texan label [Self Sabotage Records](https://selfsabotagerecords.bandcamp.com/album/complexion). It featured 11 songs recorded with Jace Lasek of The Besnard Lakes producing. There's no word yet onto which future release "Nylon" may land.
 
-<iframe src="https://open.spotify.com/embed/track/18LAb9Xff4eyE7SxwCw5yQ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1080697331/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1428368483/transparent=true/" seamless><a href="https://tunicband.bandcamp.com/album/exhaling">Exhaling by tunic</a></iframe>
 
-[Listen: Tunic - "Nylon" @ Spotify](https://open.spotify.com/track/18LAb9Xff4eyE7SxwCw5yQ "#")
+[Listen: Tunic - "Nylon" @ Bandcamp](https://tunicband.bandcamp.com/track/nylon-2 "#")
 
 Here's something weird and wonderful about which I have very little information ("that's most things" I hear you shout into your email client). There's a gleefully snarky demo floating around from a Montreal band dubbed [The World Health Organization](https://www.youtube.com/watch?v=5txtehj9XYY), featuring such nihilistic future-classics as "1-800-MEAT-DAD" and "Keep on Vapin' (in the free world)." It's a sound not unlike Toronto's WLMRT, so perhaps that's why I'm into this.
 

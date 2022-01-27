@@ -21,9 +21,9 @@ While Jimmie's regularly released music since that fan-favourite album (most rec
 
 This record features Jim Kilpatrick backed by Ryan Peters of [Ladyhawk](https://ladyhawk.bandcamp.com/), Jay Baird of [Do Make Say Think](http://domakesaythink.com/), and José Miguel Contreras of [By Divine Right](https://bydivineright.bandcamp.com/). It was recorded and produced by Contreras at The Chat Chateaux in Toronto. The album's first single "Cool All The Time," featured a guest monologue from [Chad VanGaalen](https://chadvangaalen.bandcamp.com/), with the work also featuring instrumentation from the Cons' [Steven Lambke](http://stevenlambke.com/) and [Human Music](https://humanmusic.bandcamp.com/)'s Cole Woods.
 
-<iframe src="https://open.spotify.com/embed/album/2tRbUU73ThEj2m4JxlZUNM" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3731652709/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=378442733/transparent=true/" seamless><a href="https://shotgunjimmie.bandcamp.com/album/transistor-sister-2">Transistor Sister 2 by Shotgun Jimmie</a></iframe>
 
-[Listen: Shotgun Jimmie - "The New Sincerity" @ Spotify (sorry!)](https://open.spotify.com/album/2tRbUU73ThEj2m4JxlZUNM "#")
+[Listen: Shotgun Jimmie - "The New Sincerity" @ Bandcamp](https://shotgunjimmie.bandcamp.com/track/the-new-sincerity "#")
 
 [Washing Machine](https://washingmachine.bandcamp.com/), the Halifax quartet spearheaded by Noel Macdonald ([Moon](http://moonhalifax.tumblr.com), [Long Weekends](https://longweekends.bandcamp.com/), [Don Lovely](https://donlovely.bandcamp.com/)) has a new single online titled "Act of War." It's the band's first follow-up to their 2018 full-length *Walk It Back*, which saw Macdonald establish an indie rock sound heavily influenced by 80s new wave and college rock, taking queues from classics like The Smiths.
 

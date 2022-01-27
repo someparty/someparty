@@ -63,9 +63,7 @@ A pummelling new song titled "Change" was made available last week to commemorat
 
 [Blacktop Records](http://www.blacktoprecords.ca/) is also issuing a limited cassette collecting Blue's *Positive Attitude* and *Only Anger* demos as a single set titled *Only Attitude*. You can snag one now at [Bandcamp](https://blacktoprecords.bandcamp.com/album/blue-only-attitude-btr061).
 
-<iframe src="https://open.spotify.com/embed/album/1woAngBDmDXe6T4SlApP7D" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-[Listen: Blue - "Change" @ Spotify](https://open.spotify.com/track/2g8uHTwHiZiuY3fgM0VWBa "#")
+<div class="media-removed">Embedded media no longer available. Sorry!</div>
 
 Hamilton's dialled-to-eleven space rock trio [Blandlord](https://www.facebook.com/Blandlordmusic/) make one hell of an impression with the explosive "Sun Explorers." Speaking to [Pure Grain Audio](https://puregrainaudio.com/audio/calling-all-sun-explorers-blandlord-have-a-red-hot-new-single-song-premiere) the band commented on the apocalyptic track:
 

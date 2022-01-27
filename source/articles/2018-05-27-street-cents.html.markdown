@@ -76,10 +76,9 @@ Dundas, Ontario's [The Dirty Nil](https://thedirtynil.com/) recorded the follow 
 
 To bridge that gap the three-piece rock band's thrown fans a new cover song to hold them over. Last week the Nil unveiled their take on Cheap Trick's 1978 anthem "Surrender." You can find it on your streaming services of choice.
 
-<iframe src="https://open.spotify.com/embed/track/64Of6sgevD9YDmrMybzrRm"
-              width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1608194887/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://thedirtynil.bandcamp.com/album/surrender">Surrender by The Dirty Nil</a></iframe>
 
-[Listen: The Dirty Nil - "Surrender" @ Spotify](https://open.spotify.com/track/64Of6sgevD9YDmrMybzrRm "#")
+[Listen: The Dirty Nil - "Surrender" @ Bandcamp](https://thedirtynil.bandcamp.com/album/surrender "#")
 
 The nominees for the 2018 edition of the fan-voted [SOCAN Songwriting Prize](http://www.socansongwritingprize.ca/) have been announced. This year the English side of the competition will see [Alvvays](http://alvvays.com/), [Weaves](https://www.weavesband.com/), [Partner](https://partnerband.bandcamp.com/), and [Casper Skulls](https://casperskulls.bandcamp.com/) among the 10 acts vying for 10 grand and other prizes.
 
