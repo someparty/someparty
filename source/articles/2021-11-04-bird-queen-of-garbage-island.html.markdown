@@ -46,10 +46,10 @@ Setting aside her hard-rocking 2017 side-project [Julie & The Wrong Guys](https:
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3863047395/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1772888405/transparent=true/" seamless><a href="https://juliedoiron.bandcamp.com/album/i-thought-of-you">I Thought Of You by Julie Doiron</a></iframe>
 
-###[Bratboy](https://hyness.bandcamp.com): "Blue Eyes"
+###[Bratboy](https://bratboy.bandcamp.com): "Blue Eyes"
 ==Preview and purchase at [Bandcamp](https://bratboy.bandcamp.com/track/blue-eyes)==
 
-[Bratboy](https://hyness.bandcamp.com) recently emerged from former members of the Vancouver indie rock group [Jo Passed](http://www.jopassed.com/). Guitar/vocalist Bella Bébê and bassist/vocalist Megan Magdalena are now playing as a trio backed by drummer Tony Dallas, and you can hear them arrive in full force on the charged pop-punk tune "Blue Eyes." The track's our first preview of an upcoming full-length due in early 2022. The band recorded with Jordan Koop (Dumb, The Courtneys) at Noise Floor Recording Studio.
+[Bratboy](https://bratboy.bandcamp.com) recently emerged from former members of the Vancouver indie rock group [Jo Passed](http://www.jopassed.com/). Guitar/vocalist Bella Bébê and bassist/vocalist Megan Magdalena are now playing as a trio backed by drummer Tony Dallas, and you can hear them arrive in full force on the charged pop-punk tune "Blue Eyes." The track's our first preview of an upcoming full-length due in early 2022. The band recorded with Jordan Koop (Dumb, The Courtneys) at Noise Floor Recording Studio.
 
 Bella and Meg took their first swing at this project in early 2019, releasing a pair of songs under the abbreviation BB (that single, collectively titled *X*, saw a limited physical release through the UK subscription label Flying Vinyl).
 
