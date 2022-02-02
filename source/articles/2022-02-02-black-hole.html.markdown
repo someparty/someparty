@@ -6,7 +6,7 @@ description: A packed week with Ryan Bourne, Tess Parks, Klazo, Julie Doiron & D
 ---
 
 ###[Ryan Bourne](https://ryanbourne.bandcamp.com/): "Black Hole"
-==Watch at [YouTube](https://youtu.be/xSbvjBcDCqo) - Preview and purchase at [Bandcamp](https://ryanbourne.bandcamp.com/track/black-hole)==
+==Watch on [YouTube](https://youtu.be/xSbvjBcDCqo) - Preview and purchase at [Bandcamp](https://ryanbourne.bandcamp.com/track/black-hole)==
 
 I don't think I've yet addressed Calgary singer-songwriter Ryan Bourne directly, but his past work resonates through the Some Party archives. With a cursory search, I can see him mentioned as a member of the Calgary indie rock troop [Ghostkeeper](https://ghostkeeper.bandcamp.com/) and credited on the lovely 2020 LP from Edmonton's [Marlaena Moore](https://marlaenamoore.bandcamp.com). That I missed Bourne's 2021 singles (April's "Hopeless' and September's "Wasted World") is an unfortunate oversight on my part (especially given how propulsively weird the latter is - just an absolutely [on-brand](https://ryanbourne.bandcamp.com/track/wasted-world) Some Party tune if there ever was one). This week, the artist returns with the psych rocker "Black Hole," the latest in a series of studio collaborations with alt-folk icon [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) and Calgary super-connector Chris Dadge ([Lab Coast](https://labcoast.bandcamp.com/)/[Alvvays](http://alvvays.com/)). For years Bourne and Dadge have served as VanGaalen's sometimes-backing band The Bleach Wipes, so it's no surprise how well everyone clicks here. On "Black Hole," Bourne sings while covering guitar, bass, and keyboards, Dadge plays drums and cello, and VanGaalen handles synths and backing vocals.
 
@@ -73,7 +73,7 @@ Apollo Ghosts recorded with Jordan Koop (Dumb, The Courtneys) at the Noise Floor
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GdlafYPmBQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Bratboy](https://bratboy.bandcamp.com): "Dream Rope"
-==Watch at [YouTube](https://youtu.be/fRSLazm8XmY) - Preview and purchase at [Bandcamp](https://bratboy.bandcamp.com/track/dream-rope)==
+==Watch on [YouTube](https://youtu.be/fRSLazm8XmY) - Preview and purchase at [Bandcamp](https://bratboy.bandcamp.com/track/dream-rope)==
 
 Last week the emergent Vancouver punk act [Bratboy](https://bratboy.bandcamp.com) issued "Dream Rope," the second preview from an upcoming full-length the band also recorded with Jordan Koop. The track comes on the heels of October's "Blue Eyes," a similarly impactful pop-punk tune that debuted the group's three-piece lineup. Now home to former members of the indie rock group [Jo Passed](http://www.jopassed.com/), Bratboy's comprised of guitar/vocalist Bella Bébê, bassist/vocalist Megan Magdalena, and drummer Tony Dallas. The new track lands alongside a slick video from director [Zachary Vague](https://www.instagram.com/zacharyvague).
 
@@ -128,7 +128,7 @@ PasMort features vocalist/guitarist Jonathan St-Pierre, bassist Louis-Alexandre 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/thuUT93Zsqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[dianacrawls](https://dianacrawls.bandcamp.com/) / [Botfly](https://botfly.bandcamp.com): Split
-==Watch at [YouTube](https://youtu.be/fRSLazm8XmY) - Preview and purchase at [Bandcamp](https://nofuneralsound.bandcamp.com/album/dianacrawls-botfly)==
+==Preview and purchase at [Bandcamp](https://nofuneralsound.bandcamp.com/album/dianacrawls-botfly)==
 
 Their landmark *Lower Than Love* LP is just a few months old, but Haligonian post-hardcore noisemakers [Botfly](https://botfly.bandcamp.com) aren't standing still. Last week the band issued a new split EP with the Montreal skramz act [dianacrawls](https://dianacrawls.bandcamp.com/). You can pick up the digital release today, with 7" vinyl due later on from [No Funeral](https://store.nofuneral.ca/) and Italy's [Fresh Outbreak Records](https://freshoutbreak.bandcamp.com/).
 
@@ -137,7 +137,7 @@ The split marks dianacrawls' first new material since 2020's EP *A Glitter Manif
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2454989616/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://nofuneralsound.bandcamp.com/album/dianacrawls-botfly">dianacrawls / Botfly by no funeral records</a></iframe>
 
 ###[Moral Pleasures](https://moralpleasures.bandcamp.com): "View From The Canopy"
-==Watch at [YouTube](https://youtu.be/myOYpxmsLN4) - Preview and purchase at [Bandcamp](https://moralpleasures.bandcamp.com/track/view-from-the-canopy-2)==
+==Watch on [YouTube](https://youtu.be/myOYpxmsLN4) - Preview and purchase at [Bandcamp](https://moralpleasures.bandcamp.com/track/view-from-the-canopy-2)==
 
 [Pkew Pkew Pkew](https://www.pkewx3.com/) guitarist Ryan McKinley has an unassumingly hooky new single out from his alt-pop solo guise [Moral Pleasures](https://moralpleasures.bandcamp.com/). The artist describes "View from The Canopy" as a song concerning "the majesty of trees and inspired by old growth forest defenders." The track's the first since *Sleepy Songs For Dying Loves*, a five-song EP issued in the summer of 2021. The new song arrives alongside a video directed by [Jesse Powell](https://www.instagram.com/jsspwll/).
 
@@ -146,7 +146,7 @@ McKinley's decidedly less subtle punk outfit Pkew Pkew Pkew issued an acoustic E
 <iframe width="560" height="315" src="https://www.youtube.com/embed/myOYpxmsLN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Mo Kenney](https://mokenney.bandcamp.com/): "With You"
-==Watch at [YouTube](https://youtu.be/ZT8a5-t92d8) - Preview and purchase at [Bandcamp](https://mokenney.bandcamp.com/track/with-you)==
+==Watch on [YouTube](https://youtu.be/ZT8a5-t92d8) - Preview and purchase at [Bandcamp](https://mokenney.bandcamp.com/track/with-you)==
 
 Dartmouth singer-songwriter [Mo Kenney](http://mokenney.com/) recently issued the single "With You," the artist's first new work following last winter's *Covers* collection. The wistful track finds the artist working entirely solo, playing organ, guitar and mandolin (notably, it's her first studio recording without longtime collaborator Joel Plaskett taking part). In a press release, Kenney describes:
 
@@ -183,7 +183,7 @@ Bring On The Storm features Chris Kreuger (formerly of Torches to Triggers) on v
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igb-olJy6K4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Chimp Change](https://chimpchange.bandcamp.com/): "Permanent"
-==Watch on [YouTube](https://youtu.be/DC9ptT3JivA)==
+==Watch on [YouTube](https://youtu.be/DC9ptT3JivA) - Preview and purchase at [Bandcamp](https://highenddenimrecords.bandcamp.com/album/type-zero-civilization)==
 
 Red Deer's [High End Denim Records](http://highenddenimrecords.bandcamp.com) recently shared a video for "Permanent," the new song from Albertan punk act [Chimp Change](https://chimpchange.bandcamp.com/) that surfaced last summer. The long-hibernating group recorded the track to coincide with the cassette release of their sole full-length, *Type Zero Civilization*.
 
@@ -198,7 +198,7 @@ Bassist/Vocalist Blitzcraig commented on the song:
 ###[Cheval](https://acadianembassy.bandcamp.com/album/makes-me-wanna-die-b-w-cool-when-yer-old): "The Boys in the Bright White Sports Car"
 ==Listen at [YouTube](https://youtu.be/lVDcV9IxVwg)==
 
-Despite my self-appointed role as a Z-level Canadian music booster, I'd be the first to admit that there are certain songs from the CanCon era that we're doomed to suffer for the rest of our lives, like CRTC-mandated scar tissue. In fits of post-ironic revisionism, I've learned to appreciate some of these, but so many I reject with every punk rock bone in my body. "Making It Work" is a goofy joy. "Oowatanite" I can get behind. "Patio Lanterns" is instant fucking death. Where does Trooper's 1976 hit "The Boys in the Bright White Sports Car" fall on that spectrum? I can't say I've ever been a fan, but [AA Wallace](https://aawallace.bandcamp.com/) makes a strong case for redemption with his new take.
+Despite my self-appointed role as a Z-level Canadian music booster, I'd be the first to admit that there are certain songs from the CanCon era that we're doomed to suffer for the rest of our lives, like CRTC-mandated scar tissue. In fits of post-ironic revisionism, I've learned to appreciate some of these, but so many I reject with every punk rock bone in my body. "Makin' It Work" is a goofy joy. "Oowatanite" I can get behind. "Patio Lanterns" is instant fucking death. Where does Trooper's 1976 hit "The Boys in the Bright White Sports Car" fall on that spectrum? I can't say I've ever been a fan, but [AA Wallace](https://aawallace.bandcamp.com/) makes a strong case for redemption with his new take.
 
 The genre-hopping Nova Scotian songwriter has a cover of the radio staple out under his recently resurrected [Cheval](https://acadianembassy.bandcamp.com/album/makes-me-wanna-die-b-w-cool-when-yer-old) moniker. Wallace's take pulls back the throttle of the original, trading pop cheese for a decidedly darker Crazy Horse stomp. You can judge for yourself on YouTube.
 

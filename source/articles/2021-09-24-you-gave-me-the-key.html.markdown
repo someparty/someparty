@@ -32,7 +32,7 @@ I'm probably biased because New Vogue appeared on the [Some Party cassette](http
 <iframe width="560" height="315" src="https://www.youtube.com/embed/98KVhBsxLv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Gally](https://gallly.bandcamp.com/): *Heights*
-==Watch at [YouTube](https://youtu.be/r7cypu73f2w) - Preview and purchase at [Bandcamp](https://gallly.bandcamp.com/album/heights)==
+==Watch on [YouTube](https://youtu.be/r7cypu73f2w) - Preview and purchase at [Bandcamp](https://gallly.bandcamp.com/album/heights)==
 
 Three-piece Montreal garage rock act [Gally](https://gallly.bandcamp.com/) recently issued their debut EP, a 5-song set dubbed *Heights*. You can find it on Bandcamp and see the moody lead single "September" showcased in a hypnotically pixelated video on YouTube. The group drapes their sound in early 90s indie rock, with some sharper edges retained from their past in the punk and emo scenes. Of course (as in all good things), the DNA of Eric's Trip is unmistakable here. The band comments that, lyrically, *Heights* explores "the transitionary feeling of one's mid-to-late 20s as relationships change, confidence falters, and projects fizzle out."
 
@@ -106,7 +106,7 @@ Last fall, Lebourdais released *Firelight*, his debut fantasy novel, accompanyin
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1658153297/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://jesselebourdais.bandcamp.com/track/bottom-of-the-well">Bottom of the Well by Jesse LeBourdais</a></iframe>
 
 ###[The Electric Petals](https://theelectricpetals.bandcamp.com/): "Cherry Red"
-==Watch at [YouTube](https://youtu.be/w14NGO_3qIs) - Preview and purchase at [Bandcamp](https://theelectricpetals.bandcamp.com/track/cherry-red)==
+==Watch on [YouTube](https://youtu.be/w14NGO_3qIs) - Preview and purchase at [Bandcamp](https://theelectricpetals.bandcamp.com/track/cherry-red)==
 
 Temagami, Ontario psych/garage group [The Electric Petals](https://theelectricpetals.bandcamp.com/) recently issued "Cherry Red," the second single from their upcoming LP *Wild at Heart*. In a statement, the band discussed the impact of Iggy Pop's swaggering late-70s output on the song:
 
@@ -152,7 +152,7 @@ The grungy quartet recorded in their hometown with [Psychic Void](https://psychi
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=114024237/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://huronlines.bandcamp.com/track/rock-n-roll-will-save-your-life">Rock N Roll Will Save Your Life by Huron Lines</a></iframe>
 
 ###[Comeback Kid](https://comebackkid-hc.bandcamp.com/): "No Easy Way Out"
-==Watch at [YouTube](https://youtu.be/ztSHR3rw-C0) - Preview and purchase at [Bandcamp](https://comebackkid-hc.bandcamp.com/track/no-easy-way-out-2)==
+==Watch on [YouTube](https://youtu.be/ztSHR3rw-C0) - Preview and purchase at [Bandcamp](https://comebackkid-hc.bandcamp.com/track/no-easy-way-out-2)==
 
 [Comeback Kid](https://comebackkid-hc.bandcamp.com/)'s massive profile in the hardcore sphere likely makes their inclusion here wholly redundant. If you've been living under a thoroughly soundproofed rock, though, this is your formal notice that the Winnipeg group has a new single out. "No Easy Way Out" arrived last week as the band's first new music since the release of 2017's *Outsider*. Vocalist Andrew Neufeld commented in a press release:
 

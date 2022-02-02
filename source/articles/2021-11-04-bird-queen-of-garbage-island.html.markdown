@@ -65,7 +65,7 @@ Pkew Pkew Pkew last released *Optimal Lifestyles* in 2019 on [Dine Alone Records
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=350371842/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://pkewx3.bandcamp.com/album/expedition-denied-2">Expedition Denied by PKEW PKEW PKEW</a></iframe>
 
 ###[Hyness](https://hyness.bandcamp.com): *Settle Down in the Dirt*
-==Watch at [YouTube](https://youtu.be/tE6KcOdbSbA) - Preview and purchase at [Bandcamp](https://hyness.bandcamp.com/album/settle-down-in-the-dirt)==
+==Watch on [YouTube](https://youtu.be/tE6KcOdbSbA) - Preview and purchase at [Bandcamp](https://hyness.bandcamp.com/album/settle-down-in-the-dirt)==
 
 The recent singles from Kitchener's [Hyness](https://hyness.bandcamp.com)  nailed the cool indifference of grunge and the bright potential of early 90s power pop. Those songs have finally come together as a new 10-song full-length, sounding less studiously nostalgic than it does authentically of the era. *Settle Down In The Dirt*'s now available digitally wherever you find your stuff. The release landed alongside a new video for the single "Spill." You can catch that on YouTube now.
 

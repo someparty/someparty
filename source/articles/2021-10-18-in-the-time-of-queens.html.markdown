@@ -114,7 +114,7 @@ Hellbent recorded *Primitive Hits* with [Cancer Bats](http://www.cancerbats.com/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ow5VzGBftgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[NOBRO](https://nobro.bandcamp.com/album/better-each-day): "Better Each Day"
-==Watch at [YouTube](https://youtu.be/8GZ9PKPlKrA) - Preview and purchase at [Bandcamp](https://nobro.bandcamp.com/album/better-each-day)==
+==Watch on [YouTube](https://youtu.be/8GZ9PKPlKrA) - Preview and purchase at [Bandcamp](https://nobro.bandcamp.com/album/better-each-day)==
 
 In case you missed it last week, Montreal punks [NOBRO](https://nobro.bandcamp.com/) unveiled a massively hooky new single titled "Better Each Day." You can now take it in through a new music video running where music videos run. Go check it out.
 
@@ -154,7 +154,7 @@ Now hard at work on their third full length, The Hypnotics' current lineup inclu
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3573304897/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://hypnotics.bandcamp.com/album/here-she-comes-now-holiday-in-the-city-paradise-beach">Here She Comes Now / Holiday In The City / Paradise Beach by The Hypnotics</a></iframe>
 
 ###[The Spitfires](https://thespitfires.bandcamp.com): "Down On It" (Live at the Pic)
-==Watch at [YouTube](https://youtu.be/8p4a2SwNQM0) - Preview and purchase at [Bandcamp](https://yeahrightrecords.bandcamp.com/album/live-at-the-pic)==
+==Watch on [YouTube](https://youtu.be/8p4a2SwNQM0) - Preview and purchase at [Bandcamp](https://yeahrightrecords.bandcamp.com/album/live-at-the-pic)==
 
 The notorious Vancouver rock act [The Spitfires](https://thespitfires.bandcamp.com) has a new live record available. *Live At The Pic* captures a high-octane 2003 show from Vancouver's Piccadilly Pub, recorded by notable BC producer Howard Redekop (New Pornographers, Tegan and Sara). The set arrives digitally and on vinyl through [Yeah Right! Records](https://yeahrightrecords.bandcamp.com/album/live-at-the-pic).
 

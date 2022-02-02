@@ -82,7 +82,7 @@ Imploders surfaced this past summer with a self-titled EP brimming with Californ
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=824315178/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://neontasterecords.bandcamp.com/album/exd">EXD by Imploders</a></iframe>
 
 ###[FHANG](https://hiddenship.bandcamp.com/album/fhang-2): "Fleur Du Mal"
-==Watch at [YouTube](https://youtu.be/cVINPByCotE) - Preview and purchase at [Bandcamp](https://hiddenship.bandcamp.com/album/fhang-2)==
+==Watch on [YouTube](https://youtu.be/cVINPByCotE) - Preview and purchase at [Bandcamp](https://hiddenship.bandcamp.com/album/fhang-2)==
 
 Somewhere in last month's blind spot, the evocative Montreal psych duo [FHANG](https://hiddenship.bandcamp.com/album/fhang-2) released an excellent debut LP that I've yet to cover. The self-titled nine-song set arrived in late August through [Hidden Ship](https://hiddenship.bandcamp.com). The group pairs producer Sam Woywitka ([Half Moon Run](https://halfmoonrun.bandcamp.com/) engineer) and bassist Mishka Stein (Leonard Cohen, [TEKE::TEKE](https://teketekeband.bandcamp.com), Patrick Watson) on a cerebral and oft-ominous cycle of atmospheric songs.
 
@@ -111,7 +111,7 @@ On December 11, the band's celebrating their return to action with an album rele
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1069156409/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://sweetandlowdownmusic.bandcamp.com/album/nihilism-now">Nihilism Now! by Sweet and Lowdown</a></iframe>
 
 ###[Wares](https://wares.bandcamp.com): "Cloudless"
-==Watch at [YouTube](https://youtu.be/IFp3R_1yOys)==
+==Watch on [YouTube](https://youtu.be/IFp3R_1yOys)==
 
 Edmonton's [Wares](https://wares.bandcamp.com) has a new video online featuring a live basement performance of "Cloudless," a moody indie-rock number recently unveiled at [Mint Records](https://www.mintrecs.com/)' Ridiculously Early Xmas Party. The band calls it "a winter song about telling your friends you're thinking of them wherever they are."
 
@@ -140,7 +140,7 @@ The gritty six-piece issued their new EP just a month after their last. *Fine Li
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dMFMy8mGIns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Total Waste](https://totalwastemtl.bandcamp.com): *Total Waste*
-==Watch at [YouTube](https://youtu.be/aG8XWWaXL0s) - Preview and purchase at [Bandcamp](https://totalwastemtl.bandcamp.com/album/total-waste-ep)==
+==Watch on [YouTube](https://youtu.be/aG8XWWaXL0s) - Preview and purchase at [Bandcamp](https://totalwastemtl.bandcamp.com/album/total-waste-ep)==
 
 Montreal hardcore act [Total Waste](https://totalwastemtl.bandcamp.com) recently shared their thrashy self-titled debut. The three-song EP finds the four-piece working with producer Olivier Bourgeois. The group previously shared a showcasing the single "Black & Blue" back in October.
 

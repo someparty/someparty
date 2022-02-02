@@ -99,7 +99,7 @@ The announcement came alongside the R&B vibes of "DIMANCHE SOIR," the record's s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-YxKAP-Tvfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Karloff](https://karloffnoise.bandcamp.com): "Ocean or Other"
-==Watch at [YouTube](https://youtu.be/lLjNEh1OMho) - Purchase and purchase at [Bandcamp](https://karloffnoise.bandcamp.com/album/karloff)==
+==Watch on [YouTube](https://youtu.be/lLjNEh1OMho) - Purchase and purchase at [Bandcamp](https://karloffnoise.bandcamp.com/album/karloff)==
 
 There's a palpable sense of dread to "Ocean or Other," the first single from [Karloff](https://karloffnoise.bandcamp.com)'s self-titled full-length. The Cambridge, Ontario group draws from some heavy (and heady) influences on their upcoming debut, from the cerebral post-rockers Slint to screamo pioneers like Orchid and City of Caterpillar. Playing as a five-piece, Karloff recorded with Marcelle Rusu (Block Parent) producing and Jack Shirley (Jeff Rosenstock, Deafheaven) mastering. You can find the track streaming at Bandcamp or showcased in a visualizer on YouTube now.
 

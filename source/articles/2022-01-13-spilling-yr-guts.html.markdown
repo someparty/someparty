@@ -158,7 +158,7 @@ Halcyon Phase pairs Ottawa singer-songwriter Frank Smith ([Sills & Smith](https:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/km21faH8lZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Friesen/Munro/Waters](https://youtu.be/QqDkPuxxD3Q): Bug Incision sessions at The GRAND, July 23, 2021
-==Watch at [YouTube](https://youtu.be/QqDkPuxxD3Q)==
+==Watch on [YouTube](https://youtu.be/QqDkPuxxD3Q)==
 
 Calgary's improvisational performance series [Bug Incision](http://www.bugincision.com/) recently published a collaboration between noise rocker Devin Friesen (aka [Bitter Fictions](http://bitterfictions.bandcamp.com)), saxophonist Nate Waters, and [Preoccupations](http://preoccupationsband.com/)' Scott Munro. The trio appeared together at The GRAND in July of last year. Organizer Chris Dadge (of the band [Lab Coast](https://labcoast.bandcamp.com/)) spoke about the performance:
 

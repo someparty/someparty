@@ -53,7 +53,7 @@ The Garrys are sisters Erica, Julie, and Lenore Maier (performing guitar, bass, 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2541806691/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://thegarrys.bandcamp.com/track/its-over">It&#39;s Over by The Garrys</a></iframe>
 
 ###[Mutated Void](https://mutatedvoid.bandcamp.com): "Afraid to Make Change" / "Roses Forever"
-==Watch at [YouTube](https://youtu.be/2VguV9zmPPo) - Preview and purchase at [Bandcamp](https://ironlungpv.bandcamp.com/album/concrete-flower-ost)==
+==Watch on [YouTube](https://youtu.be/2VguV9zmPPo) - Preview and purchase at [Bandcamp](https://ironlungpv.bandcamp.com/album/concrete-flower-ost)==
 
 The prolific Cody Googoo (of [Booji Boys](https://boojiboysfuneral.bandcamp.com/), [Alienation](https://alienation902.bandcamp.com/), [Gemstones](http://gemstones.bandcamp.com), [Fragment](https://fragmentpunk.bandcamp.com), and half a dozen others) recently shared a classically styled skate video dubbed *Concrete Flower Vol. 1*. The 12-minute piece, shot by Googoo, Josh Gallant, and Steve Corkum, features new music from [Mutated Void](https://mutatedvoid.bandcamp.com), yet another caustic punk outlet from the Halifax artist. Even by Cody's usually lo-fi standards, these songs are absolutely grimy! The Mutated Void tracks featured on the soundtrack are destined for an upcoming LP, titled *Roses Forever*, arriving through Seattle's [Iron Lung Records](https://ironlungpv.bandcamp.com). You can hear "Afraid to Make Change" along with the title track at Bandcamp now. While the LPs are due later this year, you can now watch the full *Concrete Flower* film on YouTube.
 
@@ -71,7 +71,7 @@ A four-piece, Piper Maru last released the four-song EP *Most of My Friends Died
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1177617907/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://pipermaru.bandcamp.com/track/enough">enough by piper maru</a></iframe>
 
 ###[Tunic](http://tunicband.com/): "Fake Interest"
-==Watch at [YouTube](https://youtu.be/AlfPVpFpdyQ) - Preview and purchase at [Bandcamp](https://tunicband.bandcamp.com/track/fake-interest)==
+==Watch on [YouTube](https://youtu.be/AlfPVpFpdyQ) - Preview and purchase at [Bandcamp](https://tunicband.bandcamp.com/track/fake-interest)==
 
 Winnipeg noise-punks [Tunic](http://tunicband.com/) have a new single out titled "Fake Interest," perhaps the closest the breakneck group's come to a writing a slow burn. It arrived alongside news on their next LP. *Quitter* is an 11-song album due October 15 through [Artoffact Records](http://artoffact.com/) (we heard the title track just a week ago). In a press release, vocalist/guitarist David Schellenberg commented:
 

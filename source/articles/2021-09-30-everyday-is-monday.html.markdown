@@ -71,7 +71,7 @@ Hot Garbage features guitarist/vocalist Alessandro Carlevaris, bassist/vocalist 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cC7I7aFdzcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Jacob Barber](https://jacobbarber.bandcamp.com/): "Wannaknow"
-==Watch at [YouTube](https://youtu.be/5L55DR7T6t8)- Preview and purchase at [Bandcamp](https://jacobbarber.bandcamp.com/track/wannaknow-2?)==
+==Watch on [YouTube](https://youtu.be/5L55DR7T6t8)- Preview and purchase at [Bandcamp](https://jacobbarber.bandcamp.com/track/wannaknow-2?)==
 
 Sarnia singer-songwriter [Jacob Barber](https://jacobbarber.bandcamp.com/) recently shared "Wannaknow," the second single from the upcoming LP *Floating Nowhere*. It follows "April Snow" in previewing the release. Available October 1 through Brampton's [Glue Gun Records](https://gluegunrecords.bandcamp.com), the LP promises a lo-fi, nostalgic take on 60s psych-pop. The soft-focus, kaleidoscopic "Wannaknow" video captures that mood in spades. Check it out on YouTube.
 
@@ -91,7 +91,7 @@ Fractured released a self-titled demo in February of 2020. The band features ex-
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3829616876/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://pilssessions.bandcamp.com/album/fractured-session-03-08-21">FRACTURED - Session #03 08/21 by Pils Sessions</a></iframe>
 
 ###[Karloff](https://karloffnoise.bandcamp.com): "Hibiscus"
-==Watch at [YouTube](https://youtu.be/r07A2FwZotw) - Purchase and purchase at [Bandcamp](https://karloffnoise.bandcamp.com/album/karloff)==
+==Watch on [YouTube](https://youtu.be/r07A2FwZotw) - Purchase and purchase at [Bandcamp](https://karloffnoise.bandcamp.com/album/karloff)==
 
 The new single from Cambridge, Ontario's [Karloff](https://karloffnoise.bandcamp.com) is rather unsettling and perfectly arrives just on time as we stumble into the spookier months of the year. "Hisbiscus" lands as the screamo act's second single from their upcoming full-length, showing the scathing influence of genre pioneers like Orchid and City of Caterpillar. Even without their Torin Langen-directed video, this should be enough to set you on edge.
 

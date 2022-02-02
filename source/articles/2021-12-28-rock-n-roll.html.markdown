@@ -65,7 +65,7 @@ Simpson, an acclaimed Michi Saagiig Nishnaabeg scholar and musician, released *T
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jlmg8yzgUNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Dark Trip](https://darktrip.bandcamp.com/): "Christmas with the Boys"
-==Watch at [YouTube](https://youtu.be/CQwltM92slY) - Preview and purchase at [Bandcamp](https://darktrip.bandcamp.com/track/christmas-with-the-boys)==
+==Watch on [YouTube](https://youtu.be/CQwltM92slY) - Preview and purchase at [Bandcamp](https://darktrip.bandcamp.com/track/christmas-with-the-boys)==
 
 Hamilton's [Dark Trip](https://darktrip.bandcamp.com/) resurfaced over the holiday to share "Christmas with the Boys," a hooky new single that gives Sam Coffey a run for his money by similarly channelling Thin Lizzy through garage rock. The track's another solo production by the group's mononymous frontman Dave, who's worked without bandmates throughout the pandemic on several one-off singles. "I Just Wanna Smoke Weed at Work" arrived in April, following January's "D.U.M.E." Hayley Elsaesser co-produced the accompanying video for the song, available now on YouTube.
 

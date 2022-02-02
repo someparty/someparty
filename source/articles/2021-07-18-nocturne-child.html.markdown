@@ -145,7 +145,7 @@ Deathsticks, Post's two-piece with drummer Laura Klinduch, last released the EP 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2704697854/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://mattpostband.bandcamp.com/album/habitat">Habitat by Matt Post Band</a></iframe>
 
 ###[Golden Cinema](https://goldencinema.bandcamp.com/): "Dead Ringer"
-==Watch at [YouTube](https://youtu.be/1tTQJEtteKg) - Preview and purchase at [Bandcamp](https://goldencinema.bandcamp.com/album/reels-2016-2021)==
+==Watch on [YouTube](https://youtu.be/1tTQJEtteKg) - Preview and purchase at [Bandcamp](https://goldencinema.bandcamp.com/album/reels-2016-2021)==
 
 This week PEI / Ontario pop-rock band [Golden Cinema](https://goldencinema.bandcamp.com/) marks their first physical release with *Reels (2016-2021)*, a singles collection bringing together nine of the band's previously digital-only tracks. The group marked the occasion with a video for "Dead Ringer" (one of the two 2021 additions to their catalogue, alongside "Little Sunscreen"). The track's built along a prominent bass line, bringing to mind low-end driven classics from Tom Tom Club. The accompanying clip features several Canadian music and media personalities reacting to the song, with members of TUNS, The Inbreds, Kiwi Jr., and The Smugglers among them.
 
