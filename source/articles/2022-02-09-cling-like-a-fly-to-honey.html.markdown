@@ -14,7 +14,7 @@ Robinson commented on the self-described "messy EP" via Bandcamp, stating that t
 
 >"Behold, my lisp and my discordant guitar perform the soundtrack to your next vomit. We jammed once and recorded live the next day ~ I essentially had our second band practice mastered."
 
-I, perhaps foolishly, endeavoured to listen to absolutely everything that hit my inbox this week, and the effort left me completely hollowed out. The brunt of what came down the PR funnel felt overly glossy and consciously manufactured for some online audience that I'm clearly too old for. I'm sure it's all competent and well produced by whatever TikTok metric they're measuring against - but just not for me. Swamp Prince isn't paying for a publicist by any means. They were only on my radar because I saw mutual friends cheering them on. What they've assembled here, however hasty, feels worlds more meaningful.
+I, perhaps foolishly, endeavoured to listen to absolutely everything that hit my inbox this week, and the effort left me completely hollowed out. The brunt of what came down the PR funnel felt overly glossy and consciously manufactured for some online audience that I'm clearly too old for. I'm sure it was all competent and well produced by whatever TikTok metric they measure against - but it's just not for me. On the other hand, Swamp Prince isn't paying for a publicist by any means. They were only on my radar because I stumbled upon mutual acquaintances cheering them on. What they've assembled here, however hasty, feels worlds more meaningful than anything the mechanisms of the industry pushed my way.
 
 The Swamp Prince debut features four endearingly broken songs. It's available to pick up today at Bandcamp.
 
@@ -74,7 +74,7 @@ For their part, Fat Stupids last released the EP *Reaction* in early 2017.
 ###[No Frills](https://nofrills.life/): "Copy Cat"
 ==Watch on [YouTube](https://youtu.be/g1aoJ2pAqcA) - Preview and purchase at [Bandcamp](https://nofrillsmusic.bandcamp.com/track/copy-cat-single)==
 
-Toronto bummer pop group [No Frills](https://nofrillsmusic.bandcamp.com/) continues to roll out songs from their forthcoming LP, *Downward Dog*, last week sharing the single "Copy Cat." The track stands out from their recent singles as it finds Maddy Wilde (also of TO synth-pop act [Rapport](https://rapport.bandcamp.com/) on lead vocals. It arrived alongside a playfully animated video from [Angela Kirkwood](https://www.instagram.com/angelakirkwood/) (described in a recent [Range](https://readrange.com/no-frills-copy-cat/) interview as "Yellow Submarine meets Schoolhouse Rock! meets Mr. Men").
+Toronto bummer pop group [No Frills](https://nofrillsmusic.bandcamp.com/) continues to roll out songs from their forthcoming LP, *Downward Dog*, last week sharing the single "Copy Cat." The track stands out from their recent singles as it finds Maddy Wilde (also of TO synth-pop act [Rapport](https://rapport.bandcamp.com/)) on lead vocals. It arrived alongside a playfully animated video from [Angela Kirkwood](https://www.instagram.com/angelakirkwood/) (described in a recent [Range](https://readrange.com/no-frills-copy-cat/) interview as "Yellow Submarine meets Schoolhouse Rock! meets Mr. Men").
 
 The song follows "I Don't Wanna Be Your Dog Anymore," "Ice Cream Cone," and "Drip" in previewing the new record, due April 1.
 
