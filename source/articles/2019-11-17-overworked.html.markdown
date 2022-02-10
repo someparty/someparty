@@ -71,7 +71,7 @@ Montreal psych-rock trio [Elephant Stone](https://www.elephantstone.ca/) has a n
 
 > "We can't believe what is happening. We don't know what to do. Scientists reveal they have built a spaceship that can take the top candidates for continuing humanity to New Earth. We've never been there, but we have heard transmissions that suggest life exists like ours. Who are the lucky ones that get to board starship Harmonia for planet B?"
 
-Elephant Stone last released *Ship of Fools* in 2016, with *Hollow* due to arrive on February 14 from [Elephants On Parade](https://www.elephantsonparade.colortestmerch.com/). Elephant Stone features Rishi Dhir on vocals, bass, and sitar alongside drummer Miles Dupire and guitarist Robbie MacArthur. When the group performs live, they fill out their sound with the help of guitarist/keyboardist Jason Kent.
+Elephant Stone last released *Ship of Fools* in 2016, with *Hollow* due to arrive on February 14 from [Elephants On Parade](https://eoprecords.com/). Elephant Stone features Rishi Dhir on vocals, bass, and sitar alongside drummer Miles Dupire and guitarist Robbie MacArthur. When the group performs live, they fill out their sound with the help of guitarist/keyboardist Jason Kent.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u8Q2CYP32tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

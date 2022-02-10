@@ -43,7 +43,7 @@ The Sadies are playing a short run of shows in Ontario over the next few weeks, 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CNS7XVtHMPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Jasmyn](https://jasmyn.bandcamp.com/): "Find The Light"
-==Watch on [YouTube](https://youtu.be/r3PnAXa3XUs) - Preview and purchase at [Bandcamp](https://ombiigizi.bandcamp.com/album/sewn-back-together)==
+==Watch on [YouTube](https://youtu.be/r3PnAXa3XUs) - Preview and purchase at [Bandcamp](https://jasmyn.bandcamp.com/album/find-the-light)==
 
 It looks like the art-punk combo [Weaves](https://www.weavesband.com/) is no more, with vocalist Jasmyn Burke since launching a solo career billed simply as [Jasmyn](https://jasmyn.bandcamp.com/). The Toronto artist signed with [Royal Mountain Records](https://www.royalmountainrecords.com/) in Canada and the Epitaph imprint [ANTI-](http://www.anti.com/) abroad, kicking off the new chapter with the single "Find The Light." In a statement Burke commented on the track:
 
@@ -114,7 +114,7 @@ It's been a few long years since we last heard from the promising Toronto's punk
 ###[Chad VanGaalen and UncleBibby](https://chadvangaalenandunclebibby.bandcamp.com): "Friendfishes"
 ==Preview and purchase at [Bandcamp](https://chadvangaalenandunclebibby.bandcamp.com/track/friendfishes)==
 
-This week the [We Are Time](https://wearetime.bandcamp.com/) label checked in with a quirky digital fundraiser. "Friendfishes" is the first collaboration between weird-folk wizard [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) and UncleBibby, the new stage name for Calgary artist Patty Locke (sister of Tough Age / Motorists drummer Jesse Locke). UncleBibby commented in the Bandcamp notes:
+This week the [We Are Time](https://wearetime.bandcamp.com/) label checked in with a quirky digital fundraiser. "Friendfishes" is the first collaboration between weird-folk wizard [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) and [UncleBibby](https://unclebibby.bandcamp.com), the new stage name for Calgary artist Patty Locke (sister of Tough Age / Motorists drummer Jesse Locke). UncleBibby commented in the Bandcamp notes:
 
 >"when i was younger i really liked Chad VanGaalen's scary animations for his music videos and his cool, haunting music so i bought a CD of it. now a decade later or so, my brother Jesse Locke brought us together for a collab and it turns out Chad is really nice so i sent him some super-nintendo-and-MIDI slapbass beats and the rest is history!!"
 

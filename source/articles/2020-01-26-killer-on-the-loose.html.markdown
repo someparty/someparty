@@ -83,7 +83,7 @@ The February 14 arrival of [Elephant Stone](https://www.elephantstone.ca/)'s *Ho
 
 > "For the 'We Cry For Harmonia' video, I wanted to make a series of animations that would take you through the music. The song itself is like riding a smooth wave through time. I wanted to make sure the visual elements had a similar feel to bring you through to the other side. This was a really fun project to work on. A few of my favourite cell animated clips came out of this. I'm really excited to see it released."
 
-Elephant Stone last released *Ship of Fools* in 2016, with *Hollow* due to arrive on next month from [Elephants On Parade](https://www.elephantsonparade.colortestmerch.com/) and [Fuzz Club](https://fuzzclub.com/). Elephant Stone features Rishi Dhir on vocals, bass, and sitar alongside drummer Miles Dupire and guitarist Robbie MacArthur. When the group performs live, they fill out their sound with the help of guitarist/keyboardist Jason Kent.
+Elephant Stone last released *Ship of Fools* in 2016, with *Hollow* due to arrive on next month from [Elephants On Parade](https://eoprecords.com/) and [Fuzz Club](https://fuzzclub.com/). Elephant Stone features Rishi Dhir on vocals, bass, and sitar alongside drummer Miles Dupire and guitarist Robbie MacArthur. When the group performs live, they fill out their sound with the help of guitarist/keyboardist Jason Kent.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iQphmC_1KY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
