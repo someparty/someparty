@@ -119,7 +119,7 @@ This is also another reminder to set aside a few minutes to watch *Somewhere Els
 
 [Watch: Deliluh - "Freeloader Feast" (Live at the Museum Of Contemporary Art) @ YouTube](https://youtu.be/v4cZWbvHQL0 "#")
 
-Montreal ska-punk vets [The Planet Smashers](https://www.facebook.com/ThePlanetSmashers) have a video online showcasing the single "Break My Neck (A Love Song)." The track comes from their recent 14-song full-length *Too Much Information*. The *Big Lebowski*-inspired clip features cameo appearances from a number of the band's [Stomp Records](https://stomprecords.com/) label-mates, including Gutter Demons, Lost Love, and Morgan.
+Montreal ska-punk vets [The Planet Smashers](https://planetsmashers.bandcamp.com) have a video online showcasing the single "Break My Neck (A Love Song)." The track comes from their recent 14-song full-length *Too Much Information*. The *Big Lebowski*-inspired clip features cameo appearances from a number of the band's [Stomp Records](https://stomprecords.com/) label-mates, including Gutter Demons, Lost Love, and Morgan.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0bQdGVO6ftc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

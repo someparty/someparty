@@ -155,7 +155,7 @@ The song comes from the band's sophomore LP *Bad Luck like Gold*, released just 
 
 [Watch: Heart Attack Kids - "Do What You Do" @ YouTube](https://youtu.be/BDHlfvtaD9w "#")
 
-Montreal 3rd wave ska institution [The Planet Smashers](https://www.facebook.com/ThePlanetSmashers) have a new video online featuring their recent single "Can't Stop." Directed by Marc A DC, it features the veteran band playing the first single from the upcoming LP *Too Much Information*, their ninth full-length. Look for that record on May 10 through [Stomp Records](https://stomprecords.com/).
+Montreal 3rd wave ska institution [The Planet Smashers](https://planetsmashers.bandcamp.com) have a new video online featuring their recent single "Can't Stop." Directed by Marc A DC, it features the veteran band playing the first single from the upcoming LP *Too Much Information*, their ninth full-length. Look for that record on May 10 through [Stomp Records](https://stomprecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/joXcQCu-Ecg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
