@@ -98,10 +98,10 @@ GEM
     middleman-search_engine_sitemap (1.4.0)
       builder
       middleman-core (~> 4.0)
-    mini_portile2 (2.6.1)
+    mini_portile2 (2.8.0)
     minitest (5.14.2)
-    nokogiri (1.12.5)
-      mini_portile2 (~> 2.6.1)
+    nokogiri (1.13.3)
+      mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     padrino-helpers (0.13.3.4)
       i18n (~> 0.6, >= 0.6.7)
@@ -113,7 +113,7 @@ GEM
     parser (2.7.2.0)
       ast (~> 2.4.1)
     public_suffix (4.0.6)
-    racc (1.5.2)
+    racc (1.6.0)
     rack (2.2.3)
     rack-livereload (0.3.17)
       rack
@@ -164,7 +164,7 @@ DEPENDENCIES
   middleman-minify-html
   middleman-robots
   middleman-search_engine_sitemap
-  nokogiri (>= 1.11.4)
+  nokogiri (>= 1.13.2)
   redcarpet (>= 3.5.1)
   rexml (>= 3.2.5)
   rubocop
@@ -172,4 +172,4 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   2.2.3
+   2.2.16

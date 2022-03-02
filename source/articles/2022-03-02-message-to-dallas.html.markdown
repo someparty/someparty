@@ -11,7 +11,7 @@ Alas, I have no personal anecdotes to share regarding Dallas Good of [The Sadies
 
 I struggle to express this in more grounded terms, but it feels like the elves have sailed from the Grey Havens. Something old and noble's now lost, and while the world endures as it must, it's henceforth diminished. There won't be another.
 
-Thankfully the personalities in Good's circle have far less abstractly Tolkienesque tributes to offer. [Vish Khanna](http://vishkhanna.com/)'s connection with the band runs deep, and alongside penning Exclaim's [obituary](https://exclaim.ca/music/article/remembering_dallas_good_of_the_sadies), he put his thoughts fourth on the [Kreative Kontrol](http://vishkhanna.com/2022/02/18/ep-669-dallas-good-remembered/) podcast. Likewise, Damian Abraham's [Turned Out A Punk](https://audioboom.com/posts/8036082-rip-dallas-good) called up Jonah Falco to discuss Good's legacy, with some personal anecdotes from his time [Career Suicide](https://careersuicide.bandcamp.com/). The discussion exemplifies how several eras of punk, hardcore and roots music seemed to find common ground through Dallas Good.
+Thankfully the personalities in Good's circle have far less abstractly Tolkienesque tributes to offer. [Vish Khanna](http://vishkhanna.com/)'s connection with the band runs deep, and alongside penning Exclaim's [obituary](https://exclaim.ca/music/article/remembering_dallas_good_of_the_sadies), he put his thoughts fourth on the [Kreative Kontrol](http://vishkhanna.com/2022/02/18/ep-669-dallas-good-remembered/) podcast. Likewise, Damian Abraham's [Turned Out A Punk](https://audioboom.com/posts/8036082-rip-dallas-good) called up Jonah Falco to discuss Good's legacy, with some personal anecdotes from his time in [Career Suicide](https://careersuicide.bandcamp.com/). The discussion exemplifies how several eras of punk, hardcore and roots music seemed to find common ground through Dallas Good.
 
 Good's ability to bridge genre silos played a massive part in my own growth as a music fan, and undoubtedly coloured my current trajectory. While 2004 found me in the thick of my Punknews tenure, I had little interest in covering the emo upstarts who were then in vogue, instead privately binging on *Favourite Colours* and Neko Case's Sadies-backed *The Tigers Have Spoken*. It always astonished me that The Sadies commanded my attention despite Good's history with the scene - I certainly wasn't aware of it then. The quality of their music was self-evident and indisputable.
 
@@ -148,7 +148,7 @@ Kitchener skate punk group [Handheld](https://handheldpunk.bandcamp.com) has ret
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WvTUrnIpAcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Moral Pleasures](https://moralpleasures.bandcamp.com): *Golden Autumn*
-==Watch on [YouTube](https://youtu.be/bBiVDsxBybc) - Preview and purchase at [Bandcamp](https://moralpleasures.bandcamp.com/album/golden-autumn)==
+==Preview and purchase at [Bandcamp](https://moralpleasures.bandcamp.com/album/golden-autumn)==
 
 Last week Ryan McKinley issued the first full-length from his alt-pop solo project [Moral Pleasures](https://moralpleasures.bandcamp.com/). The 10-song set includes the recent singles "Deathbed" and "View From The Canopy," following up on last summer's debut EP *Sleepy Songs For Dying Loves*. You can pick the collection up at Bandcamp now.
 
