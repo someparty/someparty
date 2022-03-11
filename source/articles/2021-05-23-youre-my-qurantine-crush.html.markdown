@@ -172,7 +172,7 @@ Elliott BROOD last recently released the full-length *Keeper* on [Six Shooter Re
 ###[Brian Walsby](http://www.brianwalsby.net): "Canadian Punk Rock and Hardcore"
 ==Check it out at [Instagram](https://www.instagram.com/p/CPTqDukpj45/)==
 
-Over the past few days, the legendary punk cartoonist [Brian Walsby](http://www.brianwalsby.net)'s shared images of an in-progress piece that showcases some of the legends of the Canadian punk world. In the linked Instagram post, you'll find his depictions of members of D.O.A, NoMeansNo, The Dishrags, Subhumans, Neos, SNFU, Stretch Marks, Personality Crisis, Beyond Possession, Genetic Control, No Policy, The Viletones, Teenage Head, Youth Youth Youth, Career Suicide, Fucked Up, and Propagandhi. Walsby shared an [uncoloured version](https://www.instagram.com/p/CPR-FfZpTcS/) of the busy ensemble as well.
+Over the past few days, the legendary punk cartoonist [Brian Walsby](http://www.brianwalsby.net)'s shared images of an in-progress piece that showcases some of the legends of the Canadian punk world. In the linked Instagram post, you'll find his depictions of members of D.O.A, Nomeansno, The Dishrags, Subhumans, Neos, SNFU, Stretch Marks, Personality Crisis, Beyond Possession, Genetic Control, No Policy, The Viletones, Teenage Head, Youth Youth Youth, Career Suicide, Fucked Up, and Propagandhi. Walsby shared an [uncoloured version](https://www.instagram.com/p/CPR-FfZpTcS/) of the busy ensemble as well.
 
 Heading off any feedback on who he may have missed, he commented:
 

@@ -53,7 +53,7 @@ Ottawa's [Jon Creeden](http://www.joncreeden.com/) and his band the Flying Hellf
 
 Speaking of punk rock festivals, two high profile events were just confirmed for next year. First the long-running [Vans Warped Tour](http://vanswarpedtour.com/), after skipping Canada for two consecutive years, will be back in Toronto on July 17, 2018. The Montreal-based [Pouzza Fest](https://pouzzafest.com/) will return for its eighth year from May 18 through the 21st. It's too soon for any line-up confirmations for either event at this point, so you've got ample time to have your belt re-studded.
 
-Montreal's [Laura Sauvage](http://www.laurasauvage.com/) has released a video from her recently released [Simone Records](http://www.simonerecords.net/) full-length *"The Beautiful"*. The clip for "Alien (Anything Like It, Have You?)" was directed by Ariel Poupart. For the unaware, Sauvage is also known as Vivianne Roy and is one-third of the Moncton folk-country trio Les Hay Babies. Her solo act's full of quirky rock songs with a laid-back vibe like this one.
+Montreal's [Laura Sauvage](http://www.laurasauvage.com/) has released a video from her recently released [Simone Records](https://www.simonerecords.net/) full-length *"The Beautiful"*. The clip for "Alien (Anything Like It, Have You?)" was directed by Ariel Poupart. For the unaware, Sauvage is also known as Vivianne Roy and is one-third of the Moncton folk-country trio Les Hay Babies. Her solo act's full of quirky rock songs with a laid-back vibe like this one.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2SdN-gzBFhA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 

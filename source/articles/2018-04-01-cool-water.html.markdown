@@ -85,7 +85,7 @@ While we wait to hear the new stuff, here's an early cut that should show up on 
 
 [Listen: Fashionism - "Breaking Out" @ Bandcamp](https://fashionism.bandcamp.com/track/breaking-out "#")
 
-[Zen Bamboo](https://zenbamboo.bandcamp.com/), a rock band out of Saint-Lambert, Quebec, has been regularly releasing new material culled from a full-length session that they've split into four EPs. The first two instalments arrived last year and the third, titled *Volume 3 – Carrière Solo*, is now set for an April 13 release on [Simone Records](http://www.simonerecords.net/). The band premiered the first single from this batch, titled "La Mort," in a feature at [Urbania](https://urbania.ca/article/primeur-videoclip-zen-bamboo-presente-la-mort/
+[Zen Bamboo](https://zenbamboo.bandcamp.com/), a rock band out of Saint-Lambert, Quebec, has been regularly releasing new material culled from a full-length session that they've split into four EPs. The first two instalments arrived last year and the third, titled *Volume 3 – Carrière Solo*, is now set for an April 13 release on [Simone Records](https://www.simonerecords.net/). The band premiered the first single from this batch, titled "La Mort," in a feature at [Urbania](https://urbania.ca/article/primeur-videoclip-zen-bamboo-presente-la-mort/
 ).
 
 You can find their video, directed by Charles-Antoine Olivier, below. The band recorded these songs with [Malajube](https://malajube.bandcamp.com/)'s Thomas Augustin producing.

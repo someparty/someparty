@@ -67,7 +67,7 @@ Niagara-on-the-Lake post-hardcore/emo act [Heavy Hearts](http://heavyheartsband.
 
 [Listen: Heavy Hearts - "Cut Too Deep" @ YouTube](https://youtu.be/CsMhFFm6hVQ "#")
 
-Last week saw a flurry of activity from Quebec glam rock upstart [Hubert Lenoir](https://hubertlenoir.bandcamp.com/), with two videos arriving within a day of each other for the songs "Ton hôtel" and "Momo." It's undoubtedly part of a last-minute push to coincide with this Monday's awarding of the [Polaris Music Prize](https://polarismusicprize.ca/) in Toronto. Lenoir's recent [Simone Records](http://www.simonerecords.net/) LP *Darlène* is up against 9 other titles for the $50,000 prize.
+Last week saw a flurry of activity from Quebec glam rock upstart [Hubert Lenoir](https://hubertlenoir.bandcamp.com/), with two videos arriving within a day of each other for the songs "Ton hôtel" and "Momo." It's undoubtedly part of a last-minute push to coincide with this Monday's awarding of the [Polaris Music Prize](https://polarismusicprize.ca/) in Toronto. Lenoir's recent [Simone Records](https://www.simonerecords.net/) LP *Darlène* is up against 9 other titles for the $50,000 prize.
 
 The "Ton hôtel" video was directed by Gabriel Lapointe and Noémie D. Leclerc, with Leclerc directing the "Mono" clip solo. Writer Jill Krajewski's comprehensive interview with the provocative musician recently ran in [Noisey](https://noisey.vice.com/en_ca/article/xwp8kk/provocateur-hubert-lenoir-burns-down-his-past), and it's well worth a read.
 

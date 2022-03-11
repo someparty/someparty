@@ -83,7 +83,7 @@ ANAMAI's atmospheric, minimalist folk music comes courtesy of Anna Mayberry (for
 
 [Listen: Anamai - "Dream Baby" @ Bandcamp](https://anamaimusic.bandcamp.com/album/dream-baby-htra009 "#")
 
-[Simone Records](http://www.simonerecords.net/) recently shared a new single from the prolific singer-songwriter [Dany Placard](https://danyplacard.bandcamp.com/). "Pulperie" finds the Montreal musician branching further from his folk-rock roots to land in trippy late-60s psychedelia. The song arrived alongside a video from director Ariel Poupart that really drives home the artist's hallucinogenic new direction.
+[Simone Records](https://www.simonerecords.net/) recently shared a new single from the prolific singer-songwriter [Dany Placard](https://danyplacard.bandcamp.com/). "Pulperie" finds the Montreal musician branching further from his folk-rock roots to land in trippy late-60s psychedelia. The song arrived alongside a video from director Ariel Poupart that really drives home the artist's hallucinogenic new direction.
 
 The new single is due for Placard's upcoming full-length *J'connais rien à l'astronomie*, which is due in early 2020. Dany Placard last released *Full Face* in 2017.
 

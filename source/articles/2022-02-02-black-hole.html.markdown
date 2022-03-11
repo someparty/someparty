@@ -47,7 +47,7 @@ Klazo features [Robbie Brake](http://robbiebrake.bandcamp.com) on vocals and gui
 ###[Julie & Dany](https://julieetdany.bandcamp.com): "Mayo"
 ==Watch on [YouTube](https://youtu.be/gfG02swaZws) - Preview and purchase at [Bandcamp](https://julieetdany.bandcamp.com/track/mayo)==
 
-Quebec singer-songwriter [Dany Placard](https://danyplacard.bandcamp.com/) and New Brunswick indie legend [Julie Doiron](https://juliedoiron.bandcamp.com/) have a new collaborative album on the way. Titled plainly [Julie & Dany](https://julieetdany.bandcamp.com), the record arrives April 29 through [Simone Records](http://www.simonerecords.net/), bringing 11 new songs, including the preview single "Mayo." The set comes on the heels of Doiron's recent LP *I Thought Of You*, on which Placard played bass.
+Quebec singer-songwriter [Dany Placard](https://danyplacard.bandcamp.com/) and New Brunswick indie legend [Julie Doiron](https://juliedoiron.bandcamp.com/) have a new collaborative album on the way. Titled plainly [Julie & Dany](https://julieetdany.bandcamp.com), the record arrives April 29 through [Simone Records](https://www.simonerecords.net/), bringing 11 new songs, including the preview single "Mayo." The set comes on the heels of Doiron's recent LP *I Thought Of You*, on which Placard played bass.
 
 The "Mayo" single arrives alongside a video from Sylvain Dumais. Doiron commented on the track in a statement:
 

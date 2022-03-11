@@ -63,7 +63,7 @@ Red Arms recorded *Critical State* at 11th Hour Studios between the spring of 20
 
 [Watch: Red Arms - "All That Noise" @ YouTube](https://youtu.be/09oVh5sLY58 "#")
 
-Moncton, New Brunswick indie-folk trio [Les Hay Babies](http://leshaybabies.bandcamp.com) return next month with *Boîte aux lettres*, their third full-length. The francophone group's new album arrives on February 28 from [Simone Records](http://www.simonerecords.net/).
+Moncton, New Brunswick indie-folk trio [Les Hay Babies](http://leshaybabies.bandcamp.com) return next month with *Boîte aux lettres*, their third full-length. The francophone group's new album arrives on February 28 from [Simone Records](https://www.simonerecords.net/).
 
 You can preview the group's new material with the single "Same Old, Same Old," which arrived alongside a  video last week. Les Hay Babies features Katrine Noël ([Tampa](https://tampabelatedlove.bandcamp.com/)/[Thomé Young](https://thomeyoung.bandcamp.com)), Vivianne Roy ([Laura Sauvage](http://www.laurasauvage.com/)), and [Julie Aubé](https://www.julieaube.me/). *Boîte aux lettres* follows a few years of side-projects, collaborations, and solo work from all three principles. As a group, they last released *La 4ième dimension* in 2016.
 

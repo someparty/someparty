@@ -72,7 +72,7 @@ METZ recently released a b-sides and rarities collection on [Sub Pop Records](ht
 
 [Listen: METZ - "Call of the Wighat" @ Revolver](https://www.revolvermag.com/music/hear-metzs-nasty-noise-rock-cover-cramps-call-wighat "#")
 
-Saint-Lambert's grunge-influenced [Zen Bamboo](https://zenbamboo.bandcamp.com/) recently shared a video for the title track to their upcoming record *GLU*. You can preview the slick alt-rock anthem "Glu (coule sur moi)" now at YouTube through a video directed by [Jean-Benoît Duval](https://www.facebook.com/jeanbenoitduval) of the art collective [Les Mêmes-Cacaïstes](https://www.facebook.com/lesmemescacaistes/). The album arrives on March 27 from [Simone Records](http://www.simonerecords.net/).
+Saint-Lambert's grunge-influenced [Zen Bamboo](https://zenbamboo.bandcamp.com/) recently shared a video for the title track to their upcoming record *GLU*. You can preview the slick alt-rock anthem "Glu (coule sur moi)" now at YouTube through a video directed by [Jean-Benoît Duval](https://www.facebook.com/jeanbenoitduval) of the art collective [Les Mêmes-Cacaïstes](https://www.facebook.com/lesmemescacaistes/). The album arrives on March 27 from [Simone Records](https://www.simonerecords.net/).
 
 [Malajube](https://malajube.bandcamp.com/)'s Julien Mineau produced the 10-song set, which follows a narratively interconnected series of four EPs the band released throughout 2017 and 2018. Zen Bamboo features vocalist Simon Larose, guitarist Léo Leblanc, bassist Xavier Touikan and drummer Cao.
 

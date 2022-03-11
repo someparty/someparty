@@ -74,15 +74,15 @@ Menard's other musical hats (at least before the pandemic slowdown) include bass
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=896935864/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://nofixforyou.bandcamp.com/album/neon-dreamz">Neon Dreamz by No Fix</a></iframe>
 
-###[Unwanted Noise](https://unwantednoise.bandcamp.com/): *Pils Sessions*
+###[Unwanted Noise](https://unwantednoiseofficial.bandcamp.com): *Pils Sessions*
 ==Preview and purchase at [Bandcamp](https://pilssessions.bandcamp.com/album/unwanted-noise-session-07-11-21)==
 
-Gatineau's [Pils Sessions](https://pilssessions.bandcamp.com) continues their unwavering quest to document underground music from eastern Ontario and Quebec with a new studio set from Longueuil street punk act [Unwanted Noise](https://unwantednoise.bandcamp.com/). The five-piece took part in the seventh edition of the series, recording in November 2021 at Pils Records' NOMANSLAND studio. As always, Chany Pilote engineered the performance with Dizz Hupé producing visuals.
+Gatineau's [Pils Sessions](https://pilssessions.bandcamp.com) continues their unwavering quest to document underground music from eastern Ontario and Quebec with a new studio set from Longueuil street punk act [Unwanted Noise](https://unwantednoiseofficial.bandcamp.com). The five-piece took part in the seventh edition of the series, recording in November 2021 at Pils Records' NOMANSLAND studio. As always, Chany Pilote engineered the performance with Dizz Hupé producing visuals.
 
 The new recordings follow similarly staged sessions from [Solitüde](https://solitde.bandcamp.com/),
 [Fractured](https://fractured3.bandcamp.com), [Dysruptive](https://dysruptive.bandcamp.com), [Ciggie & The Darts](https://ciggieandthedarts.bandcamp.com/), [Ad Vitam](https://demofest.bandcamp.com/album/ad-vitam-i), and [Collapsed](https://collapsedmtl.bandcamp.com/).
 
-Unwanted Noise last released a split with Quebec City's [The Hacked](https://thehacked.bandcamp.com/) in 2018. Look for them next on stage at the release party for [Dayglo Abortions](https://murraythecretinacton.bandcamp.com/)' *Hate Speech* LP on April 9 at Montreal's Foufounes Électriques.
+Unwanted Noise released a split with Quebec City's [The Hacked](https://thehacked.bandcamp.com/) in 2018, the *Tonight We Die* full-length in 2019, and another split with California's [D-Con](https://dconpunx.bandcamp.com/) just last year. Look for them next on stage at the release party for [Dayglo Abortions](https://murraythecretinacton.bandcamp.com/)' *Hate Speech* LP on April 9 at Montreal's Foufounes Électriques.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1203495654/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://pilssessions.bandcamp.com/album/unwanted-noise-session-07-11-21">UNWANTED NOISE - Session #07 11/21 by Pils Sessions</a></iframe>
 

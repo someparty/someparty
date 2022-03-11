@@ -88,7 +88,7 @@ Seccareccia recorded this material on February 24, 2021, from Markham, Ontario. 
 ###[Hubert Lenoir](https://hubertlenoir.bandcamp.com/): "DIMANCHE SOIR"
 ==Watch on [YouTube](https://youtu.be/-YxKAP-Tvfg) - Preview and purchase at [Bandcamp](https://hubertlenoir.bandcamp.com/track/dimanche-soir)==
 
-Quebec firebrand [Hubert Lenoir](https://hubertlenoir.bandcamp.com/) recently unveiled more about his upcoming record, which now carries the title *PICTURA DE IPSE : Musique directe*. The album arrives on September 15 through Worse/Terrible and [Simone Records](http://www.simonerecords.net/), featuring 20 songs sprawled across a 54-minute runtime with individual tracks nestled among an array of field recordings and audio interludes. The tracklist reveals a collaboration with the Parisian R&B singer Bonnie Banane and no less than three songs featuring the erratic Montreal art-punk duo [CRABE](http://crabe.bandcamp.com).
+Quebec firebrand [Hubert Lenoir](https://hubertlenoir.bandcamp.com/) recently unveiled more about his upcoming record, which now carries the title *PICTURA DE IPSE : Musique directe*. The album arrives on September 15 through Worse/Terrible and [Simone Records](https://www.simonerecords.net/), featuring 20 songs sprawled across a 54-minute runtime with individual tracks nestled among an array of field recordings and audio interludes. The tracklist reveals a collaboration with the Parisian R&B singer Bonnie Banane and no less than three songs featuring the erratic Montreal art-punk duo [CRABE](http://crabe.bandcamp.com).
 
 The announcement came alongside the R&B vibes of "DIMANCHE SOIR," the record's second single. In a statement, Lenoir commented:
 

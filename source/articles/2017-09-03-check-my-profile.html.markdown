@@ -45,7 +45,7 @@ I had the pleasure of both seeing and interviewing [A Tribe Called Red](http://a
 
 [Interact: A Tribe Called Red - "Indian City" @ YouTube](https://www.youtube.com/watch?v=BeGk8qn61Ik "#")
 
-Speaking of FME, one of the highlights was seeing Montreal's [Laura Sauvage](http://www.laurasauvage.com/) performing an intimate set at Pub Chez Gibb to launch her new full length *"The Beautiful"*. The slacker rock set from the Les Hay Babies member is a great deal of fun and you can preview the entire thing over at [CISM 89,3](http://cism893.ca/nouvelles/laura-sauvage-son-deuxieme-album-the-beautiful-en-ecoute-exclusive/). The record comes out on September 8th on [Simone Records](http://www.simonerecords.net/).
+Speaking of FME, one of the highlights was seeing Montreal's [Laura Sauvage](http://www.laurasauvage.com/) performing an intimate set at Pub Chez Gibb to launch her new full length *"The Beautiful"*. The slacker rock set from the Les Hay Babies member is a great deal of fun and you can preview the entire thing over at [CISM 89,3](http://cism893.ca/nouvelles/laura-sauvage-son-deuxieme-album-the-beautiful-en-ecoute-exclusive/). The record comes out on September 8th on [Simone Records](https://www.simonerecords.net/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1603753621/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://laurasauvage.bandcamp.com/album/the-beautiful">&quot;The Beautiful&quot; by Laura Sauvage</a></iframe>
 

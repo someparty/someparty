@@ -79,7 +79,7 @@ The clip premiered as part of [Mint Records](https://www.mintrecs.com/)' [Ridicu
 ###[Dany Placard](https://danyplacard.bandcamp.com): "J'ai jamais su quoi dire"
 ==Watch on [YouTube](https://youtu.be/Daul4RnFcuU) - Preview and purchase at [Bandcamp](https://danyplacard.bandcamp.com/album/astronomie-suite)==
 
-It's been a year since [Dany Placard](https://danyplacard.bandcamp.com/)'s playful psych-rock opus *J'connais rien à l'astronomie*, and the Saguenay singer-songwriter's returned to the well with a sequel piece dubbed *Astronomie(suite)*. The new set features six-songs, including the new single "J'ai jamais su quoi dire." You can find that track streaming now at Bandcamp or via a new video playing on YouTube. The new record arrives on January 29 from [Simone Records](http://www.simonerecords.net/).
+It's been a year since [Dany Placard](https://danyplacard.bandcamp.com/)'s playful psych-rock opus *J'connais rien à l'astronomie*, and the Saguenay singer-songwriter's returned to the well with a sequel piece dubbed *Astronomie(suite)*. The new set features six-songs, including the new single "J'ai jamais su quoi dire." You can find that track streaming now at Bandcamp or via a new video playing on YouTube. The new record arrives on January 29 from [Simone Records](https://www.simonerecords.net/).
 
 *Astronomie(suite)* features several multi-instrumentalists backing Placard, including Nicolas Beaudoin, Benoit Bouchard, Jonathan Bigras, and Dave Chose in various roles. Robin Boislard-Gauthier and [Julie Doiron](https://juliedoiron.bandcamp.com/) both appear as backing vocalists.
 
