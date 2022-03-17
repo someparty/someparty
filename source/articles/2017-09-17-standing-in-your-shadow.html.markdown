@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Reissues from The Nils, Zellots, and East Money. New tracks from PONY, Twist, and Don't Bother. Videos from Jock Tears and Alvvays.
 ---
 
-On October 14 [Label Obscura](http://www.labelobscura.com/) is set to reissue the self-titled debut record from Montreal's [The Nils](https://www.facebook.com/TheNilsBand/), the first time this classic of Canadian independent music has been in press for decades.
+On October 14 [Label Obscura](https://labelobscura.ca/) is set to reissue the self-titled debut record from Montreal's [The Nils](https://www.facebook.com/TheNilsBand/), the first time this classic of Canadian independent music has been in press for decades.
 
 The Nils first released the *Sell Out Young!* EP in 1985 and the *Paisley* EP shortly after in 86, recording their debut full-length for Rock Hotel Records (an imprint of NYC hip-hop label Profile Records) in 87. Profile's bankruptcy forced the band to abandon a major US tour and ultimately left the record out-of-print. Worse, the band was unable to release any material under their name for the duration of their contract with Profile (about four years).
 
