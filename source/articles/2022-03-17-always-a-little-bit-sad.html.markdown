@@ -142,7 +142,7 @@ Handheld issued a half dozen releases in their original incarnation, last issuin
 ###[3Dspex](https://3dspex.bandcamp.com): *Midwest Success*
 ==Watch on [YouTube](https://youtu.be/lzEny3uwBpI) - Preview and purchase at [Bandcamp](https://3dspex.bandcamp.com/track/midwest-success)==
 
-Scrappy Sudbury emo/pop-punk act [3Dspex](https://3dspex.bandcamp.com) recently returned with "Midwest Sucess," their first material shared from a series of 2021 recording sessions. You can stream the track at Bandcamp now or see it featured in a new video on YouTube.
+Scrappy Sudbury emo/pop-punk act [3Dspex](https://3dspex.bandcamp.com) recently returned with "Midwest Success," their first material shared from a series of 2021 recording sessions. You can stream the track at Bandcamp now or see it featured in a new video on YouTube.
 
 The new track follows up on the band's 2021 EP *Sunny Days Inside* - recorded under their old name of VCR (it turns out there already was one). 3Dspex features vocalist/guitarist Jame Quenville, guitarist Joe Genier, bassist Tony Carr, and drummer Dylan Baron.
 
