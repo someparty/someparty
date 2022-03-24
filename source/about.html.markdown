@@ -9,7 +9,7 @@ I named this project after a Constantines song that addresses the music industry
 
 Some Party's based in Niagara Falls, Ontario, within the lands addressed by Treaty 381.
 
-You can find me at my increasingly inactive [Twitter](https://twitter.com/adamwhite) and [Instagram](https://www.instagram.com/adamwhite/) accounts, or directly through email at [adam@someparty.ca](mailto:adam@someparty.ca). You're free to add me to your mailing lists, PR folk, but note that the mission statement of this publication precludes me from writing about bands from North Dakota and the like.
+You can contact me through email at [adam@someparty.ca](mailto:adam@someparty.ca). You're free to add me to your mailing lists, PR folk, but note that the mission statement of this publication precludes me from writing about bands from North Dakota and the like. I have a thoroughly uninteresting presence on [Instagram](https://www.instagram.com/adamwhite/) should you wish to find me there. My [Twitter](https://twitter.com/adamwhite) account is currently unmonitored and inactive.
 
 ##Why Canada?
 
@@ -31,6 +31,4 @@ I've published Some Party's more-or-less weekly since May of 2017. You can explo
 
 ##Acknowledgements
 
-This project couldn't have been launched without the support of [these folks](/acknowledgements/).
-
-In 2011 and 2012, a nascent version of this project emerged as a short-lived Ontario-focused [podcast](https://itunes.apple.com/ca/podcast/some-party-punknews.org-ontario/id488545346?mt=2) issued through Punknews.org. While I've yet to delete the feed, you are actively encouraged to ignore it.
+I couldn't have launched this project without the support of [these folks](/acknowledgements/).
