@@ -13,12 +13,12 @@ Before the big day arrived, I nixed most of the social media in my life. That's 
 
 It wasn't real, though - it was too wrapped up in the systems built to hold my attention by flattering my ego - so now I'm going to do without.
 
-Whatever I'm seeking post-40, recognition as some quippy, always-online personality isn't it. Free from those distractions, I'm hoping I can relearn how to engage with the world. I fully intend for that newfound clarity to reflect in the quality of what I'm producing. Given my reduced online footprint, your direct feedback is now all the more vital. It's just me and you, dear recipient, and you know how to reach me.
+Whatever I'm seeking post-40, recognition as some quippy, always-online personality isn't it. Free from those distractions, I'm hoping I can relearn how to engage with the world. I fully intend for that newfound clarity to reflect in the quality of what I'm producing. However given my reduced online footprint, your direct feedback is now all the more vital. It's just me and you, faceless email recipient, and you know how to reach me.
 
 ###[Night Court](https://nightcourtpunk.bandcamp.com): "Titanic"
 ==Watch at [YouTube](https://youtu.be/B_MTdzfhgak) - Preview and purchase at [Bandcamp](https://nightcourtpunk.bandcamp.com/album/nervous-birds-too)==
 
-Vancouver trio [Night Court](https://nightcourtpunk.bandcamp.com) has a May 6 release slated for the second volume in their two-part debut. The group emerged with *Nervous Birds! One* in December, a brisk and hooky slate of punky power-pop. The 12-song *Nervous Birds! Too* completes the group's manic brain dump of pandemic era songwriting, a set you can preview through the bright new single "Titanic." Last week, the song arrived with a video premiering at my old haunt of [Punknews.org](https://www.punknews.org/article/77038/night-court-titanic). There, bassist/vocalist [Jiffy Marx](https://jiffymarx.bandcamp.com/) commented:
+The Vancouver trio [Night Court](https://nightcourtpunk.bandcamp.com) has a May 6 release slated for the second volume in their two-part debut. The group emerged with *Nervous Birds! One* in December, a brisk and hooky slate of punky power-pop. The 12-song *Nervous Birds! Too* completes the group's manic brain dump of pandemic era songwriting, a set you can preview through the bright new single "Titanic." Last week, the song arrived with a video premiering at my old haunt of [Punknews.org](https://www.punknews.org/article/77038/night-court-titanic). There, bassist/vocalist [Jiffy Marx](https://jiffymarx.bandcamp.com/) commented:
 
 >"This video was a real group effort because we were low on time. We shot the band stuff in my basement the day after my birthday then I left to play some solo shows in California the next day. Dave did the puppet animation while I was gone and Emily got to warm up her acting muscles which we will have her fully flexing in future vids!"
 
@@ -29,7 +29,7 @@ Like its predecessor, *Nervous Birds! Too*, arrives via [Debt Offensive Records]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B_MTdzfhgak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Weird Nightmare](https://weirdnightmare.bandcamp.com/): "Lusitania"
-==Watch on [Youtube](https://youtu.be/D74Ua2wgwbA)==
+==Watch on [Youtube](https://youtu.be/D74Ua2wgwbA) - Preview and purchase at [Bandcamp](https://weirdnightmare.bandcamp.com/track/lusitania)==
 
 Keeping with this week's serendipitous ocean liner theme, Alex Edkins recently shared "Lusitania," the second single from his solo debut as [Weird Nightmare](https://weirdnightmare.bandcamp.com/). The track landed alongside a video from director Colin Medley, starring Allie Higgins. In a statement, Edkins revealed:
 
@@ -228,7 +228,7 @@ Ronny Howl brings together a veteran group of Maritime musicians, including guit
 
 Toronto glam-pop group [Blonde Elvis](https://blondeelvis.bandcamp.com/) has teased a record titled *On Humility* for what feels like years, and a release finally looks likely in the spring. A new single dubbed "Still Life in Glass" recently cropped up on Bandcamp, and while the band's thus far said little of it, it's a fantastically crafted slice of distinctive, new wave-indebted rock that's well worth a listen.
 
-The band's still teasing that the record's first single lands on April 8 - which, of course, hasn't happened yet, so your guess is as good as mine to which it refers. This track features Mike Duffield, Kristina Koski, Andrew Hastings, James Kearns, Jesse James Laderoute, and Max Cotter. Both Duffield and Koski, in the past, played with [Goosebump](https://goosebump.bandcamp.com/).
+The band's still teasing that the record's first single lands on April 8 - which, of course, hasn't happened yet - so your guess is as good as mine to which it refers. This track features Mike Duffield, Kristina Koski, Andrew Hastings, James Kearns, Jesse James Laderoute, and Max Cotter. Both Duffield and Koski, in the past, played with [Goosebump](https://goosebump.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3910586831/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://blondeelvis.bandcamp.com/track/still-life-in-glass">still life in glass by blonde elvis</a></iframe>
 
@@ -290,7 +290,7 @@ Allegories feature childhood friends Adam Bentley and Jordan Mitchell, formerly 
 
 >"The term 'Fault Lines' could serve as a metaphor for many elements of the fractures between things we see and feel but also the past and future, and frankly any pair of opposites. The song is two parts, the first half speaking more to my failures (shortcomings), and the second half more critiquing the world's (sometimes palpable voids)."
 
-This track features Cameron on guitar and bass, Aiden Ayers on lap steel and violin, with Josh Contant drumming. Colyn Cameron's following up her 2018 LP *Sad & Easy*. Wake Owl last issued *The Private World Of Paradise* in 2014.
+This track features Cameron on guitar and bass, Aiden Ayers on lap steel and violin, with Josh Contant drumming. Based in Vancouver, Colyn Cameron's following up her 2018 LP *Sad & Easy*. Wake Owl last issued *The Private World Of Paradise* in 2014.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6DS5pro3lLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
