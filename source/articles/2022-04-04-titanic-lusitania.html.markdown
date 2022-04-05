@@ -13,7 +13,7 @@ Before the big day arrived, I nixed most of the social media in my life. That's 
 
 It wasn't real, though - it was too wrapped up in the systems built to hold my attention by flattering my ego - so now I'm going to do without.
 
-Whatever I'm seeking post-40, recognition as some quippy, always-online personality isn't it. Free from those distractions, I'm hoping I can relearn how to engage with the world. I fully intend for that newfound clarity to reflect in the quality of what I'm producing. However given my reduced online footprint, your direct feedback is now all the more vital. It's just me and you, faceless email recipient, and you know how to reach me.
+Whatever I'm seeking post-40, recognition as some quippy, always-online personality isn't it. Free from these distractions, I'm hoping to engage with the world without half my mind drawn to my phone. I fully intend for that newfound clarity to reflect in what I'm producing here; however, given my reduced online footprint, your direct feedback is now all the more vital. It's just me and you, faceless email recipient, and you know how to reach me.
 
 ###[Night Court](https://nightcourtpunk.bandcamp.com): "Titanic"
 ==Watch at [YouTube](https://youtu.be/B_MTdzfhgak) - Preview and purchase at [Bandcamp](https://nightcourtpunk.bandcamp.com/album/nervous-birds-too)==
