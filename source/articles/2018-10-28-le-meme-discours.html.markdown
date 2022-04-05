@@ -48,7 +48,7 @@ Psychedelic Vancouver electro-pop act [Old Man Canyon](http://www.oldmancanyon.c
 
 > "This song is written as a conversation between someone and their future self, a version of themselves that’s attained all they wish to be and know. It’s the inner dialogue that follows a revelation, and that compulsion to run and abandon everything to avoid real resolution."
 
-*A Grand Facade* is a 7-song set that will serve as Pace's second release under the Old Man Canyon name. He recorded much of the album in his home studio before heading to California alongside members of the band [Wake Owl](https://www.facebook.com/wakeowl/) to wrap it up.
+*A Grand Facade* is a 7-song set that will serve as Pace's second release under the Old Man Canyon name. He recorded much of the album in his home studio before heading to California alongside members of the band [Wake Owl](https://wakeowl.bandcamp.com/) to wrap it up.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=438708676/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=50658552/transparent=true/" seamless><a href="http://oldmancanyon.bandcamp.com/album/a-grand-facade">A Grand Facade by OLD MAN CANYON</a></iframe>
 

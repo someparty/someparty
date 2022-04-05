@@ -97,7 +97,7 @@ Drew Thomson issued two singles last Friday, each landing under a different name
 
 "Run" finds Drew in a decidedly less gritty mode, backed by bright new wave synths. While it arrived without comment, the hooky track fits well among [The Drew Thomson Foundation](https://drewthomson.bandcamp.com)'s pop-rock sensibilities. The song features far less of the observational spoken word that's typified the No Idea Head project to date.
 
-In January, single mothers expanded their traditional punk pallet to take on industrial and electronic notes with the full-length *Bubble*. In his pop-rock guise, The Drew Thomson Foundation issued the *Unplugged & Live Off The Floor* collection in the summer of 2020. This July, No Idea Head released the singles "Somewhere Else" and "Slab City or Bust," following a series of pandemic-era EPs.
+In January, Single Mothers expanded their traditional punk pallet to take on industrial and electronic notes with the full-length *Bubble*. In his pop-rock guise, The Drew Thomson Foundation issued the *Unplugged & Live Off The Floor* collection in the summer of 2020. This July, No Idea Head released the singles "Somewhere Else" and "Slab City or Bust," following a series of pandemic-era EPs.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=237427835/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://singlemothersband.bandcamp.com/album/need">Need by SM WorseWorld</a></iframe>
 

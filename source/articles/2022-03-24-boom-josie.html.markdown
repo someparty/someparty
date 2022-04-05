@@ -29,7 +29,7 @@ Speaking on the song, Nora revealed:
 
 The track offers an early preview of an upcoming full-length, due later this year. That record features Kelly on vocals and guitar backed by Ethan Soil ([Fleece](https://fleecemusic.bandcamp.com/)/DISHPIT) on drums, Vader Ryderwood ([Treasure Eyes](https://treasureeyes.bandcamp.com/)) on bass, Rachel Silverstein on keys, and [Michael Feurstack](https://michaelfeuerstack.bandcamp.com/) on pedal steel. Pietro Amato (The Luyas, Bell Orchestre) mixed the album.
 
-Dishpit's Steve Albini recorded debut landed in 2021 after considerable delay. They're returning to action this May with an appearance at the 10th edition of the Montreal punk gathering [Pouzza Fest](https://pouzzafest.com/).
+Dishpit's Steve Albini-recorded debut landed in 2021 after considerable delay. They're returning to action this May with an appearance at the 10th edition of the Montreal punk gathering [Pouzza Fest](https://pouzzafest.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIvwEuQJKmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -112,7 +112,7 @@ Carlyn Bezic had this to say about the thumping synthpop number:
 ###[The Wesleys](https://thewesleys.bandcamp.com/): "Find a Way" (Live)
 ==Watch on [YouTube](https://youtu.be/r2Tun0mbINU)==
 
-A few weeks ago, I shared the first single from emergent Montreal garage quartet [The Wesleys](https://thewesleys.bandcamp.com/). The skittering "Find a Way" arrived as our first taste of an upcoming self-titled EP, due soon via [Burnt Sugar Records](https://www.instagram.com/burnt_sugar_records/). This week, that track gets a little more mileage with a well-recorded live take, captured at the band's first show at Holy Mountain Sound. Clayton Dupuis's credited with editing the VHS footage, shot at the February 26 gig by [Ty](https://www.instagram.com/teabart/). You can check it out on YouTube.
+A few weeks ago, I shared the first single from emergent Montreal garage quartet [The Wesleys](https://thewesleys.bandcamp.com/). The skittering "Find a Way" arrived as our first taste of an upcoming self-titled EP, due soon via [Burnt Sugar Records](https://www.instagram.com/burnt_sugar_records/). This week, that track gets a little more mileage with a well-recorded live take, captured at the band's first show at Holy Mountain Sound. Clayton Dupuis' credited with editing the VHS footage, shot at the February 26 gig by [Ty](https://www.instagram.com/teabart/). You can check it out on YouTube.
 
 The Wesleys feature Henry Girard, William D'amours, Quentin Chisholm, and Pablo Garcia-Rejon Gaubeca ([Jyraph](https://jyraph.bandcamp.com/)).
 
@@ -139,7 +139,7 @@ Lost Love released *Empathy* through [Fantasio Club](https://fantasioclub.com/) 
 ###[The Stonemen](https://celluloidlunch.bandcamp.com/album/faded-colors-b-w-in-the-evening): "Faded Colors" / "In the Evening"
 ==Preview and purchase at [Bandcamp](https://celluloidlunch.bandcamp.com/album/faded-colors-b-w-in-the-evening)==
 
-I've delighted in the nerdy history lessons we've had on Canadian punk history these past few weeks through [Supreme Echo](https://supremeecho.bandcamp.com)'s reissue efforts. Not to be outdone, Joe Chamandy's [Celluloid Lunch Records](https://celluloidlunch.bandcamp.com/) has a pair of unearthed gems from the nation's garage rock past on the way. The first arrives on April 20 with a reissue of an obscure 1967 single from Cap-Pelé, New Brunswick group [The Stonemen](https://celluloidlunch.bandcamp.com/album/faded-colors-b-w-in-the-evening).
+I've delighted in the nerdy history lessons we've had on Canadian punk these past few weeks through [Supreme Echo](https://supremeecho.bandcamp.com)'s reissue efforts. Not to be outdone, Joe Chamandy's [Celluloid Lunch Records](https://celluloidlunch.bandcamp.com/) has a pair of unearthed gems from the nation's garage rock past on the way. The first arrives on April 20 with a reissue of an obscure 1967 single from Cap-Pelé, New Brunswick group [The Stonemen](https://celluloidlunch.bandcamp.com/album/faded-colors-b-w-in-the-evening).
 
 Eric's Trip drummer Mark Gaudet scribed the liner notes for the "Faded Colors" / "In the Evening" redux, commenting, in part:
 

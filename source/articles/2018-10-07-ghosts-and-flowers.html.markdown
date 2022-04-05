@@ -73,7 +73,7 @@ The Nil are, of course, supporting the high-profile recent release of *Master Vo
 
 [Old Man Canyon](http://www.oldmancanyon.com/), the Vancouver electro-pop act lead by multi-instrumentalist Jett Pace, announced a new full-length last week titled *A Grand Facade*. The 7-song set, which will be Pace's sophomore release under the name, is due on November 16. Pace previewed the new material last week by unveiling the psychedelic single "Good While It Lasted," which arrived alongside a video by director Geordie Starr.
 
-Pace recorded the brunt of the album in his home studio, completing it in California alongside members of the band [Wake Owl](https://www.facebook.com/wakeowl/). In the press release Pace commented:
+Pace recorded the brunt of the album in his home studio, completing it in California alongside members of the band [Wake Owl](https://wakeowl.bandcamp.com/). In the press release Pace commented:
 
 >  "This album could be described as a satirical commentary on the state of the world. Sometimes it feels like everyone is on vacation in their mind, sipping on a mai tai while the world burns behind them. We all turn a blind eye to the nature of things happening around us so I’m trying to bring attention to our inclination to run away from problems and to trust we have the ability to change it. The boat needs to get rocked a bit for people to wake up."
 
