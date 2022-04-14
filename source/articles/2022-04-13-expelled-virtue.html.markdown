@@ -2,7 +2,7 @@
 title: Expelled Virtue
 date: 2022-04-13
 author: adam@someparty.ca (Adam White)
-description: Sights and sounds from PRIORS, Pale Lips, Roye Trout, Returners, Paul Jacobs, Basketball Knees, Guster, Harkness, Steve & Ginie Jackson, The Soviet Influence, Jenn Nuum, Easy Tiger, No Frills, Chastity, Real Sickies, The King Khan & BBQ Show.
+description: Sights and sounds from PRIORS, Pale Lips, Roye Trout, Returners, Paul Jacobs, Basketball Knees, Gutser, Harkness, Steve & Ginie Jackson, The Soviet Influence, Jenn Nuum, Easy Tiger, No Frills, Chastity, Real Sickies, The King Khan & BBQ Show.
 ---
 
 ###[PRIORS](https://priorsmtl.bandcamp.com/): *NEWNEWNEW*
@@ -82,12 +82,12 @@ Will do. Look for the complete album on April 30. The group has a gig scheduled 
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3087235525/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://basketballknees.bandcamp.com/track/beauty-lines">Beauty Lines by Basketball Knees</a></iframe>
 
-###[Guster](https://gutser.bandcamp.com): "The Spilling Joke"
+###[Gutser](https://gutser.bandcamp.com): "The Spilling Joke"
 ==Preview and purchase at [Bandcamp](https://gutser.bandcamp.com/track/the-spilling-joke)==
 
-The recent single from Montreal thrash punks [Guster](https://gutser.bandcamp.com) is utterly massive, a song that lunges for the throat in the first 15 seconds. "The Spilling Joke" is a relentless teaser for *Spill Everything*, the group's 11-song debut LP due this week from [Tarantula Tapes](https://tarantulacassettes.bandcamp.com/). After you check it out on Bandcamp, head over to [No Echo](https://www.noecho.net/features/gutser-band-2022) to preview the sardonic album cut "Wicked Set Dude."
+The recent single from Montreal thrash punks [Gutser](https://gutser.bandcamp.com) is utterly massive, a song that lunges for the throat in the first 15 seconds. "The Spilling Joke" is a relentless teaser for *Spill Everything*, the group's 11-song debut LP due this week from [Tarantula Tapes](https://tarantulacassettes.bandcamp.com/). After you check it out on Bandcamp, head over to [No Echo](https://www.noecho.net/features/gutser-band-2022) to preview the sardonic album cut "Wicked Set Dude."
 
-Guster worked with engineer Jordan Barillaro (Thick Glasses, Mass Hysteria Agency) at NoFun Audio. This Saturday, the group plays a release party at Montreal's Turbo Haus with fellow heavy lifters Cell Press and Obelisk.
+Gutser worked with engineer Jordan Barillaro (Thick Glasses, Mass Hysteria Agency) at NoFun Audio. This Saturday, the group plays a release party at Montreal's Turbo Haus with fellow heavy lifters Cell Press and Obelisk.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4222736025/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://gutser.bandcamp.com/album/spill-everything">Spill Everything by Gutser</a></iframe>
 
