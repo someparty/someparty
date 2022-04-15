@@ -22,7 +22,7 @@ The eventual home for these new songs appears to be an upcoming LP titled *Plant
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xSbvjBcDCqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Tess Parks](https://www.tessparks.com/) : "Happy Birthday Forever"
+###[Tess Parks](https://www.tessparks.com/): "Happy Birthday Forever"
 ==Watch on [YouTube](https://youtu.be/k_-hFR46b0w) - Preview and purchase at [Bandcamp](https://tessparks.bandcamp.com/track/happy-birthday-forever)==
 
 Psych-pop singer-songwriter [Tess Parks](https://www.tessparks.com/) recently announced *And Those Who Were Seen Dancing*, a new full-length due May 20 through [Fuzz Club](https://fuzzclub.com/) and [Hand Drawn Dracula](http://handdrawndracula.com/). The Toronto-born artist, now based in London, shared the news alongside the gospel-influenced "Happy Birthday Forever." In a press release Parks commented on the single and the difficult path to the record's completion:

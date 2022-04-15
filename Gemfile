@@ -12,6 +12,7 @@ gem 'tzinfo-data', platforms: %i[mswin mingw jruby]
 
 gem 'builder', '~> 3.0' # For feed.xml
 gem 'fastimage'
+gem 'activesupport'
 gem 'middleman', '~> 4.3.7'
 gem 'middleman-autoprefixer'
 gem 'middleman-blog'

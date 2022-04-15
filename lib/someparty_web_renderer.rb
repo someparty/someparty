@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'middleman-core/renderers/redcarpet'
+require 'active_support/core_ext/string/inflections'
 
 # Extends the Redcarpet Markdown parser to generate Tachyons style CSS markup
 class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
@@ -74,8 +75,25 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
   end
 
   def header(text, header_level)
-    format('<h%s class="maxread center">%s</h%s>', header_level,
-           text, header_level)
+    doc = Nokogiri::HTML(text)
+    header_link = doc.css('a')
+    if header_link.size > 0
+      # Use the first link in the header, usually the band name, as the anchor ID
+      anchor = header_link.first.content
+    else
+      # No link in the header. Split on the : if it's thre
+      split_text = text.split(':')
+      if split_text.size > 0
+        anchor = split_text[0]
+      else
+        # Just use the text
+        anchor = text
+      end
+    end
+
+    anchor_id = anchor.parameterize(separator: '_')
+
+    format('<h%s id="%s" class="maxread center">%s</h%s>', header_level, anchor_id, text, header_level)
   end
 
   def hrule
