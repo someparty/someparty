@@ -169,7 +169,7 @@ Suburban-angst-rockers [Chastity](https://chastitysongs.bandcamp.com) has a new 
 ###[Real Sickies](https://realsickies.bandcamp.com): "Scammy"
 ==Watch at [YouTube](https://youtu.be/MHIsmtYCI18) - Preview and purchase at [Bandcamp](https://realsickies.bandcamp.com/album/danny-its-not-your-birthday)==
 
-I detailed the bizarre fraud attempt that resulted in the [Real Sickies](https://realsickies.bandcamp.com/) latest EP a [few weeks ago](https://www.someparty.ca/2022-03-10-searching-for-you/#realsickies), so I won't repeat it here. The Edmonton punk act's making the most of their near-miss with financial misfortune, treating the song "Scammy" from their *Danny, It's Not Your Birthday* EP to a frenetic new video. You can find it on YouTube now.
+I detailed the bizarre fraud attempt that resulted in the [Real Sickies](https://realsickies.bandcamp.com/) latest EP a [few weeks ago](https://www.someparty.ca/2022-03-10-searching-for-you/#real_sickies), so I won't repeat it here. The Edmonton punk act's making the most of their near-miss with financial misfortune, treating the song "Scammy" from their *Danny, It's Not Your Birthday* EP to a frenetic new video. You can find it on YouTube now.
 
 Real Sickies issued *Love is for Lovers* last year through [Stomp Records](https://stomprecords.com/). It was the group's first full-length since their home-recorded 2020 LP *Quarantined*, featuring 14 new tracks with guest appearances from Dave Bacon ([The Real McKenzies](http://www.realmckenzies.com/)/[SNFU](http://snfu.ca/)) and dream pop singer [Lucette](http://www.lucettemusic.net).
 

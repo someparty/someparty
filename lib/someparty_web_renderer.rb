@@ -145,7 +145,7 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     if text.include? '<img'
       format("<p class='tc center'>%s</p>", text)
     elsif text.include? '<small'
-      format("<p class='maxread center mt0'>%s</p>", text)
+      format("<p class='maxread center mt0' data-controller='share'>%s</p>", text)
     else
       format("<p class='maxread center'>%s</p>", text)
     end
@@ -155,6 +155,6 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     # I'm hijacking highlight to use it to render the media links header line below H3s
     # Note this fires before paragraph, so the <small> will be wrapped in a paragraph with no top margin
     # as per the paragraph(text) function
-    format("<small>%s</small>", text)
+    format("<small>%s <span data-share-target='container'></span></small>", text)
   end
 end
