@@ -288,7 +288,7 @@ In a press release, Parks commented on the choreography central to the "Do You P
 
 The new album's the long-awaited follow-up to Parks' 2013 full-length *Blood Hot*. It's also her first solo record following a pair of collaborative LPs with Anton Newcombe of the Brian Jonestown Massacre. The intergenerational duo issued *I Declare Nothing* in 2015 and the self-titled *Tess Parks & Anton Newcombe* three years later.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qf5Wj86zUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vE5dtPZp-j8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Fresh Pepper](https://freshpepper.bandcamp.com): "Congee Around Me"
 ==Preview and purchase at [Bandcamp](https://freshpepper.bandcamp.com/album/fresh-pepper)==

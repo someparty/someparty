@@ -208,7 +208,7 @@ Nova Scotian indie-pop group [Safeword](https://safeword4.bandcamp.com/) returne
 
 > "[It's] a spite letter to the wealthy, from a city increasingly divided into ruins and homelessness on one side and luxury and excess on the other. It calls out the delusion of the self-proclaimed job-creators and wealth-generators, who believe they are owed something—respect, love, admiration—by those who are harmed most by their system."
 
-The track follows February's decidedly gentler "Food for Something Else," both of which arrived in the wake of Safeword's 2021 debut *Things We Never Could Afford*. Look for these songs on a forthcoming EP slated for the summer. The band recorded at Ocean Floor with Charles Austin (Outtacontroller, Future Girls, Souvenir) and Franc Lopes. Joel Plaskett and Thomas Stajcer mixed at Fang, Alex Burris mastering.
+The track follows February's decidedly gentler "Food for Something Else," both of which arrived in the wake of Safeword's 2021 debut *Things We Never Could Afford*. Look for these songs on a forthcoming EP slated for the summer. The band recorded at Ocean Floor with Charles Austin (Outtacontroller, Future Girls, Souvenir) and Franc Lopes. Joel Plaskett and Thomas Stajcer mixed at Fang, with Alex Burris mastering.
 
 Safeword brings together members of [Shoulder Season](https://shoulderseasonhfx.bandcamp.com/), Darts, [Skullocybin](https://skullocybin.bandcamp.com/), and [Blackout 77](https://www.facebook.com/Blackout-77-215696025147435). The band features Karen Foster on vocals and keys, guitarist Dan Watt, bassist Greg Baller, and drummer Brian Foster.
 
