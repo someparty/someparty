@@ -33,7 +33,7 @@ London punks [Red Arms](https://redarms.bandcamp.com/) are back with *Critical S
 
 Red Arms features guitars, vocals, and synth from Roberto LoRusso and Eric Longtin, backed by the rhythm section of bassist Curtis Hebert and drummer Jay Westman. "Ran Away," in particular, crests with such a massive sing-along that several guests from London's rock scene were brought in to back it up. The Red Arms Choir, as its named in the liner notes, features Jared Ellul ([Heart Attack Kids](https://www.facebook.com/heartattackkids/)), Robbie Brake ([Isölation Party](https://isolationparty.bandcamp.com/)/[Mononegatives](https://mononegatives.bandcamp.com)), Steve Bennett ([Nervousmen](https://nervousmen.bandcamp.com/)), and Mike Murphy ([Sanseiru](https://sanseiru.bandcamp.com/)).
 
-*Critical State* is due on September 13 from [Yeah Right Records](http://yeahrightrecords.com/). A [release show](http://londonmusichall.com/events/red-arms-critical-state-release/)'s slated for October 11 at the London Music Hall, with Stuck Out Here, Averages, and Thunder Queens supporting.
+*Critical State* is due on September 13 from [Yeah Right! Records](http://yeahrightrecords.com/). A [release show](http://londonmusichall.com/events/red-arms-critical-state-release/)'s slated for October 11 at the London Music Hall, with Stuck Out Here, Averages, and Thunder Queens supporting.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/umoIqqJBr98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

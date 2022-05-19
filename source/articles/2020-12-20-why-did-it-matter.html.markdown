@@ -107,7 +107,7 @@ VCR recorded their new material at Sudbury's Deadpan Studios. The band features 
 
 >"This tune was inspired by all the dickbags I've never met before who come up to me and start bragging about how much money they make and spinning some other exaggerated stories that I know are lies. This happens way too often so I wrote some words to voice my frustration!"
 
-The Offsailors features members of [Trashed Ambulance](https://trashedambulance.bandcamp.com/), [County 23](https://countyxxiii.bandcamp.com/), and [Avem](https://avem-theband.bandcamp.com). The band has a record due January 14, titled *One More Then We Go*.
+The Offsailors features members of [Trashed Ambulance](https://instagram.com/trashedambulance/), [County 23](https://countyxxiii.bandcamp.com/), and [Avem](https://avem-theband.bandcamp.com). The band has a record due January 14, titled *One More Then We Go*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=51492714/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2242222789/transparent=true/" seamless><a href="https://highenddenimrecords.bandcamp.com/album/one-more-then-we-go">One More Then We Go by The Offsailors</a></iframe>
 
@@ -153,7 +153,7 @@ Every dollar The Food Bank raises translates to three meals for someone in need.
 
 Red Deer punks [Burning Nickels](https://highenddenimrecords.bandcamp.com/album/shout-at-the-nickel) got in on the holiday action with *Cool Tide Carrolls*, a two-song set pairing their new original "Rum Nogs" with a cover of Roger Miller's "Old Toy Trains."
 
-The single arrives right on the heels of *Bernie Goes To College*, the band's new five-song EP on [High End Denim](http://highenddenimrecords.bandcamp.com). Burning Nickels features Josh (Jawsh) Hauta on guitar and Jason (Ozone) Ezeard drumming (both from [Trashed Ambulance](https://trashedambulance.bandcamp.com/)), with Robbie of Calgary punk act [Moröns](https://hickcitymorons.com/) on bass. [Brad Manners](https://bradmanners.bandcamp.com), of Toronto's [School Damage](https://schooldamage.bandcamp.com/), appears here as a guest vocalist.
+The single arrives right on the heels of *Bernie Goes To College*, the band's new five-song EP on [High End Denim](http://highenddenimrecords.bandcamp.com). Burning Nickels features Josh (Jawsh) Hauta on guitar and Jason (Ozone) Ezeard drumming (both from [Trashed Ambulance](https://instagram.com/trashedambulance/)), with Robbie of Calgary punk act [Moröns](https://hickcitymorons.com/) on bass. [Brad Manners](https://bradmanners.bandcamp.com), of Toronto's [School Damage](https://schooldamage.bandcamp.com/), appears here as a guest vocalist.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1351619856/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://highenddenimrecords.bandcamp.com/album/cool-tide-carrolls">Cool Tide Carrolls by Burning Nickels</a></iframe>
 

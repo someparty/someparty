@@ -63,7 +63,7 @@ Kiwi Jr. last released *Football Money* in 2018 on Vancouver's [Mint Records](ht
 
 [Watch: Kiwi Jr. - "Undecided Voters" @ YouTube](https://youtu.be/Vue2lznRaDg "#")
 
-Toronto hard rock institution [Danko Jones](http://www.dankojones.com) recently released a challenging new solo project under the name [Throat Funeral](https://throatfuneral.bandcamp.com). The experimental ten -song "vocal noise" set, collectively titled *OU812112*, primarily features Jones producing an array of guttural sounds, grunts, and screams - free of the usual song structures and guitar heroism of his main gig. He commented:
+Toronto hard rock institution [Danko Jones](https://www.dankojones.com) recently released a challenging new solo project under the name [Throat Funeral](https://throatfuneral.bandcamp.com). The experimental ten -song "vocal noise" set, collectively titled *OU812112*, primarily features Jones producing an array of guttural sounds, grunts, and screams - free of the usual song structures and guitar heroism of his main gig. He commented:
 
 >"As a singer, getting nodes is my worst nightmare. Screaming pushes you towards it. This album represents walking to the edge of the precipice and looking down. There really isn't too much thinking when one screams. There really wasn't too much thought put into this. I simply wanted to get everything inside outside... Aside from a few cymbal hits here and a few keys pushed there, this is work via mouth."
 

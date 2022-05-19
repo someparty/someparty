@@ -123,7 +123,7 @@ Later this week Ben Cook will release *GUV II*, his second full-length of the ye
 
 90s-era Vancouver glam-punk act [The Black Halos](https://theblackhalos.bandcamp.com/) are back in action. The newest incarnation of the memorable B.C. group brings together original vocalist Billy Hopeless, guitarist/vocalist Rich Jones and guitarist Jay Millette with a new rhythm section featuring bassist John Kern and drummer Danni Action.
 
-The group's first new release together will be a limited edition colour 7" on London's [Yeah Right Records](http://yeahrightrecords.com/). The set will feature the new songs "Geisterbahn II" and "Tandem Down," both of which were mixed by the legendary Seattle grunge producer Jack Endino. It drops Christmas Day.
+The group's first new release together will be a limited edition colour 7" on London's [Yeah Right! Records](http://yeahrightrecords.com/). The set will feature the new songs "Geisterbahn II" and "Tandem Down," both of which were mixed by the legendary Seattle grunge producer Jack Endino. It drops Christmas Day.
 
 A new full-length from the group is due in 2020. The Black Halos first got together in 1993 as the Black Market Babies, with the band's debut LP not arriving until '99. The group's original run lasted until 2008, with the band first reforming for select live performances in 2016.
 

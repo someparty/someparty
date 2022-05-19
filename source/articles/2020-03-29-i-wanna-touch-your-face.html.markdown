@@ -135,7 +135,7 @@ The lo-fi Vancouver indie-pop group [Lucky](https://luckyvancouver.bandcamp.com)
 
 [Listen: Lucky - *We'll Find The Time* @ Bandcamp](https://luckyvancouver.bandcamp.com/album/well-find-the-time "#")
 
-You may recall [Burning Nickels](https://highenddenimrecords.bandcamp.com/album/shout-at-the-nickel) as a side-project of the Red Deer, Alberta skate-punk outfit [Trashed Ambulance](https://trashedambulance.bandcamp.com/). The group recently resurfaced with a six-song EP titled *Shout at the Nickel*. It's the first set of originals from the project, following 2018's *Freezer Burnt* full-length. That album resurrected songs written for frontman Josh Hauta's pre-Ambulance group Fridge Or Freezer.
+You may recall [Burning Nickels](https://highenddenimrecords.bandcamp.com/album/shout-at-the-nickel) as a side-project of the Red Deer, Alberta skate-punk outfit [Trashed Ambulance](https://instagram.com/trashedambulance/). The group recently resurfaced with a six-song EP titled *Shout at the Nickel*. It's the first set of originals from the project, following 2018's *Freezer Burnt* full-length. That album resurrected songs written for frontman Josh Hauta's pre-Ambulance group Fridge Or Freezer.
 
 [High End Denim Records](http://highenddenimrecords.bandcamp.com) is carrying the new release, described by Josh as "5 skate punk songs and a ridiculous hair metal song." Along with Hauta on guitar and vocals, and bassist Young D, the set features Trashed Ambulance guitarist Jason "Ozone" Ezeard drumming, with TA drummer Ryan Bell contributing gang vocals.
 

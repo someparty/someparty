@@ -125,7 +125,7 @@ Frontman Gabe Brinton broke the new track down in a press release, stating:
 
 >"This song's about the male mind's inability to process our own stupidity and the effects it has on the more complex female mind. An endless, ongoing battle we'll probably never see the end of!"
 
-The Offsailors features members of [Trashed Ambulance](https://trashedambulance.bandcamp.com/), [County 23](https://countyxxiii.bandcamp.com/), and [Avem](https://avem-theband.bandcamp.com). Look for their full-length *One More Then We Go* when the world seems a little less dire.
+The Offsailors features members of [Trashed Ambulance](https://instagram.com/trashedambulance/), [County 23](https://countyxxiii.bandcamp.com/), and [Avem](https://avem-theband.bandcamp.com). Look for their full-length *One More Then We Go* when the world seems a little less dire.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=51492714/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1026483744/transparent=true/" seamless><a href="https://highenddenimrecords.bandcamp.com/album/one-more-then-we-go">One More Then We Go by The Offsailors</a></iframe>
 

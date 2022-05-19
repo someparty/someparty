@@ -168,14 +168,14 @@ Ottawa four-piece [AHRF](https://www.instagram.com/ahrf666/) emerged as a high s
 
 Red Deer bruisers [The Offsailors](https://highenddenimrecords.bandcamp.com/album/one-more-then-we-go) recently shared a video for their new single "Fork In The Road," the latest preview of their upcoming record *One More Then We Go*. You can check the low-budget home-shot clip, in all its socially distant glory, at YouTube now.
 
-A five-piece punk group, The Offsailors features members of [Trashed Ambulance](https://trashedambulance.bandcamp.com/), [County 23](https://countyxxiii.bandcamp.com/), and [Avem](https://avem-theband.bandcamp.com) among their ranks. Look for their full-length *One More Then We Go* on [High End Denim Records](https://highenddenimrecords.bandcamp.com) on July 1.
+A five-piece punk group, The Offsailors features members of [Trashed Ambulance](https://instagram.com/trashedambulance/), [County 23](https://countyxxiii.bandcamp.com/), and [Avem](https://avem-theband.bandcamp.com) among their ranks. Look for their full-length *One More Then We Go* on [High End Denim Records](https://highenddenimrecords.bandcamp.com) on July 1.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHZ7n7JHyqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Danko Jones](http://www.dankojones.com): "Saturday"
+###[Danko Jones](https://www.dankojones.com): "Saturday"
 ==Watch on [YouTube](https://youtu.be/FCk2JOwaiWg)==
 
-Toronto hard rock hedonists [Danko Jones](http://www.dankojones.com) recently shared "Saturday," the third single from their upcoming full-length *Power Trio*. Clocking in as the long-running group's 10th LP, the new set drops August 27 through [Sonic Unyon](http://www.sonicunyon.com/). *Power Trio*, the follow-up to 2019's *A Rock Supreme*, finds Danko Jones again working with veteran Canadian producer Eric Ratz.
+Toronto hard rock hedonists [Danko Jones](https://www.dankojones.com) recently shared "Saturday," the third single from their upcoming full-length *Power Trio*. Clocking in as the long-running group's 10th LP, the new set drops August 27 through [Sonic Unyon](http://www.sonicunyon.com/). *Power Trio*, the follow-up to 2019's *A Rock Supreme*, finds Danko Jones again working with veteran Canadian producer Eric Ratz.
 
 "Saturday" arrived with a video directed by Trevor Bowman. You can find it at the usual places.
 

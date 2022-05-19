@@ -55,7 +55,7 @@ Another Canadian act taking part this year's Fest is [Brutal Youth](http://bruta
 
 [Watch: Brutal Youth - "Sandpit" @ YouTube](https://youtu.be/rSOQtFj8lRg "#")
 
-Red Deer, Alberta skate-punk trio [Trashed Ambulance](https://trashedambulance.bandcamp.com/) have shared "Accountable," the first single from their upcoming LP *Flashes of Competence*. The 12-song record is the band's second full length, following 2016's *Blurry Thoughts* and a pair of EPs last year. Once again the group's paired up with Montreal's [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/) for the release, which is due on May 4. Trashed Ambulance will support the LP with a tour through Ontario in May as the band travels to play Pouzza Fest on the long weekend in Montreal. You can find the dates on [Facebook](https://www.facebook.com/pg/trashedambulance).
+Red Deer, Alberta skate-punk trio [Trashed Ambulance](https://instagram.com/trashedambulance/) have shared "Accountable," the first single from their upcoming LP *Flashes of Competence*. The 12-song record is the band's second full length, following 2016's *Blurry Thoughts* and a pair of EPs last year. Once again the group's paired up with Montreal's [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/) for the release, which is due on May 4. Trashed Ambulance will support the LP with a tour through Ontario in May as the band travels to play Pouzza Fest on the long weekend in Montreal. You can find the dates on [Facebook](https://www.facebook.com/pg/trashedambulance).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vll0oOzgd44" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

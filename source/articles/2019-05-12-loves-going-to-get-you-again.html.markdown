@@ -31,7 +31,7 @@ The Paz Ramirez-directed video reinterprets a scene from David Lynch's 1990 film
 
 [Watch: Petra Glynt - "New Growth" @ YouTube](https://youtu.be/sOhI3iR3Lyg "#")
 
-Red Deer, Alberta skate-punk act [Trashed Ambulance](https://trashedambulance.bandcamp.com/) has a new EP on the way this June. Titled *Shorthanded*, it's set to arrive on the 7th via [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/) as both a digital download and limited run of 100 tapes. The label announced the release while sharing the speedy rocker "Buy In." You can check it out below.
+Red Deer, Alberta skate-punk act [Trashed Ambulance](https://instagram.com/trashedambulance/) has a new EP on the way this June. Titled *Shorthanded*, it's set to arrive on the 7th via [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/) as both a digital download and limited run of 100 tapes. The label announced the release while sharing the speedy rocker "Buy In." You can check it out below.
 
 Trashed Ambulance last released the LP *Flashes of Competence* in 2018.
 

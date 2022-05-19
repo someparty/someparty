@@ -112,7 +112,7 @@ Kiwi Jr features vocalist/guitarist Jeremy Gaudet, guitarist Brian Murphy (also 
 ###[Trashed Ambulance](https://trashedambulance.bandcamp.com): *Leapfrog*
 ==Preview and purchase at [Bandcamp](https://thousandislandsrecords.bandcamp.com/album/leapfrog)==
 
-Red Deer punks [Trashed Ambulance](https://trashedambulance.bandcamp.com/) kicked off 2021 with a new EP. Released through Montreal's [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/), *Leapfrog* features three new songs from the snotty Alberta trio. The group recorded at their local Overserved Studios, with Nick of Edmonton's [Unban Jace](https://unbanjace.bandcamp.com/) making a guest appearance on bass.
+Red Deer punks [Trashed Ambulance](https://instagram.com/trashedambulance/) kicked off 2021 with a new EP. Released through Montreal's [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/), *Leapfrog* features three new songs from the snotty Alberta trio. The group recorded at their local Overserved Studios, with Nick of Edmonton's [Unban Jace](https://unbanjace.bandcamp.com/) making a guest appearance on bass.
 
 While the new songs serve as the first proper material from the band since 2019's *Shorthanded* EP, the group's various offshoots and side-projects have had a busy few months. Through [High End Denim Recotds](http://highenddenimrecords.bandcamp.com), Josh Hauta and Jason (Ozone) Ezeard have played on recent releases from [Burning Nickels](https://highenddenimrecords.bandcamp.com/album/shout-at-the-nickel) (the *Bernie Goes To College* EP) and [Jawsh & The Drowned Livers](https://highenddenimrecords.bandcamp.com/album/eloquent-trash) (the *Eloquent Trash* acoustic set - which revisits several Trashed Ambulance hits).
 

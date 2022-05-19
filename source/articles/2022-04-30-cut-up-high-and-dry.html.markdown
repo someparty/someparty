@@ -2,7 +2,7 @@
 title: Cut Up High and Dry
 date: 2022-04-30
 author: adam@someparty.ca (Adam White)
-description: Wild new sounds from The Sadies, Nouveaux, Safeword, Simon Provencher, Among Legends, Marian, Blunt Chunks, The Fake Frieds, Night Court, Julie & Dany, Weird Nightmare, Basketball Knees, Dislexic, Deathmarch, Death Waits, Man Crush, The Johnnys, Bad Waitress, Sauna, She Came to Quit, King Pong Productions, Jenny Berkel, Russian Tim and Pavel Bures, and B.A. Johnston
+description: Wild new sounds from The Sadies, Nouveaux, Safeword, Simon Provencher, Among Legends, Marian, Blunt Chunks, The Fake Friends, Night Court, Julie & Dany, Weird Nightmare, Basketball Knees, Dislexic, Deathmarch, Death Waits, Man Crush, The Johnnys, Bad Waitress, Sauna, She Came to Quit, King Pong Productions, Jenny Berkel, Russian Tim and Pavel Bures, and B.A. Johnston
 ---
 
 ###[The Sadies](http://www.thesadies.net/): "Cut Up High and Dry"

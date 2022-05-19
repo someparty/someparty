@@ -84,7 +84,7 @@ Toronto indie-rock act [Kiwi Jr.](https://kiwijr.bandcamp.com/) recently shared 
 
 >"Put together like a thousand-piece puzzle, assembled in flow state through the first dull stretch of quarantine, sanitized singer shuffling to sanitized studio by streetcar, masked like it's the kind of work where getting recognized means getting killed, *Cooler Returns* materializes as a sprawling survey from the first few bites of the terrible twenties, an investigative exposé of recent history buried under the headlines & ancient kings buried under parking lots."
 
-The reveal came alongside a video for the title track, directed by [Sean Egerton Foreman](seanegertonforeman.com) (Foreman worked with the band on clips from their prior record as well). Vocalist Jeremy Gaudet commented:
+The reveal came alongside a video for the title track, directed by [Sean Egerton Foreman](http://seanegertonforeman.com/) (Foreman worked with the band on clips from their prior record as well). Vocalist Jeremy Gaudet commented:
 
 >"No one is able to play live shows, so using the latest technology we have replicated the most accurate version possible of what Kiwi Jr. shows once looked like"
 
@@ -166,7 +166,7 @@ Red Deer punks [Burning Nickels](https://highenddenimrecords.bandcamp.com/album/
 
 >"Jerome has become legendary in his pursuit of glory so it's only natural he had a song devoted to him. The video cost millions of rupees to make and was created with home video footage of Jerome and live action shots of the band performing in front of an unfathomably large audience. Luckily, we were able to land Rawb from The Morøns to play the bass because our last bassist recently quit to join Roxette. It all turned out great, against all odds! You'd basically be a damned fool not to check it out at this point so what are you waiting for?"
 
-The song appears on *Bernie Goes To College*, a five-song EP due from the band's [High End Denim Records](http://highenddenimrecords.bandcamp.com). Burning Nickels play as a three-piece on this record, with Jawsh and drummer Jason (Ozone) Ezeard (both from [Trashed Ambulance](https://trashedambulance.bandcamp.com/) camp) joined by bassist Robbie from Calgary punk act [Moröns](https://hickcitymorons.com/).
+The song appears on *Bernie Goes To College*, a five-song EP due from the band's [High End Denim Records](http://highenddenimrecords.bandcamp.com). Burning Nickels play as a three-piece on this record, with Jawsh and drummer Jason (Ozone) Ezeard (both from [Trashed Ambulance](https://instagram.com/trashedambulance/) camp) joined by bassist Robbie from Calgary punk act [Moröns](https://hickcitymorons.com/).
 
 The group's new EP arrives alongside a full-length from [Jawsh & The Drowned Livers](https://highenddenimrecords.bandcamp.com/album/eloquent-trash), an acoustic project featuring Hauta and Ezeard revisiting Trashed Ambulance and [Chimp Change](https://chimpchange.bandcamp.com/) songs in a less frenzied context. That group's new collection is out now as *Eloquent Trash*.
 

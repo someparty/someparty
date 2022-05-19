@@ -71,7 +71,7 @@ On the other end of the spectrum, melodic punk act [Family Meeting](https://fami
 
 [Listen: Family Meeting - "Four Months of Rain" @ Bandcamp](https://thousandislandsrecords.bandcamp.com/track/four-months-of-rain "#")
 
-Speaking of Thousand Island, a new side-project from label mainstays [Trashed Ambulance](https://trashedambulance.bandcamp.com/) recently cropped up. Josh Hauta has released an album as [Burning Nickels](http://highenddenimrecords.bandcamp.com/album/burning-nickels-freezer-burnt), featuring what he says will be "familiar songs for those who hung out at Cheers North in Red Deer in the late 2000s." Burning Nickels is resurrecting songs that were written when he was a part of the now defunct band Fridge Or Freezer. They were never recorded while that band was active.
+Speaking of Thousand Island, a new side-project from label mainstays [Trashed Ambulance](https://instagram.com/trashedambulance/) recently cropped up. Josh Hauta has released an album as [Burning Nickels](http://highenddenimrecords.bandcamp.com/album/burning-nickels-freezer-burnt), featuring what he says will be "familiar songs for those who hung out at Cheers North in Red Deer in the late 2000s." Burning Nickels is resurrecting songs that were written when he was a part of the now defunct band Fridge Or Freezer. They were never recorded while that band was active.
 
 Josh tracked the guitar, bass, and lead vocals himself, working at Overserved Studios in Red Deer, Alberta. Trashed Ambulance guitarist Jason "Ozone" Ezeard drums on the recordings, with he and TA drummer Ryan Bell contributing gang vocals. [High End Denim Records](http://highenddenimrecords.bandcamp.com) is carrying the release.
 

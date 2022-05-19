@@ -100,10 +100,10 @@ With roots as Link's bedroom recording project, PACKS grew over the past few yea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N7zREV8i8Ec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Danko Jones](http://www.dankojones.com): "I Want Out"
+###[Danko Jones](https://www.dankojones.com): "I Want Out"
 ==Watch on [YouTube](https://youtu.be/TX_Wv9-KO4o)==
 
-Toronto hard rock institution [Danko Jones](http://www.dankojones.com) recently announced plans for their 10th studio album. *Power Trio* arrives August 27 from [Sonic Unyon](http://www.sonicunyon.com/), with the band once again working with veteran Canadian producer Eric Ratz. With his usual bluster, Jones commented on Twitter:
+Toronto hard rock institution [Danko Jones](https://www.dankojones.com) recently announced plans for their 10th studio album. *Power Trio* arrives August 27 from [Sonic Unyon](http://www.sonicunyon.com/), with the band once again working with veteran Canadian producer Eric Ratz. With his usual bluster, Jones commented on Twitter:
 
 >"I'm gonna be real here, it FUCKING RULES. I'm very proud we made this album and HOW we made this album."
 

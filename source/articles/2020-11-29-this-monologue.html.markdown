@@ -157,7 +157,7 @@ Soul Mates is a four-piece featuring vocalist Tyler Baptist, Jeshaiah David on g
 
 [Watch: Soul Mates - "Calm During The Storm" @ YouTube](https://youtu.be/YxN50-WJXTo "#")
 
-We've had a ton of news recently from members of Red Deer's [Trashed Ambulance](https://trashedambulance.bandcamp.com/), with a pair of  side projects emerging on the group's [High End Denim](http://highenddenimrecords.bandcamp.com) label earlier this month. Last week the Alberta skate-punks shared a new single from their main gig, titled "On The Mend." The track's the first to emerge under the Trashed Ambulance name since 2019's *Shorthanded* EP. Frontman Josh Hauta commented:
+We've had a ton of news recently from members of Red Deer's [Trashed Ambulance](https://instagram.com/trashedambulance/), with a pair of  side projects emerging on the group's [High End Denim](http://highenddenimrecords.bandcamp.com) label earlier this month. Last week the Alberta skate-punks shared a new single from their main gig, titled "On The Mend." The track's the first to emerge under the Trashed Ambulance name since 2019's *Shorthanded* EP. Frontman Josh Hauta commented:
 
 >"Most people would agree that 2020 has been a disaster of a year but in actuality 2019 was almost worse for me! I went through a dark time after college concluded and took a long break from music.
 >

@@ -171,7 +171,7 @@ The new material follows JayWood's dynamic 2019 LP *Time*. In June of 2020, JayW
 ###[Boltergeist](https://highenddenimrecords.bandcamp.com/album/maybe-next-year): "Glory Daze"
 ==Preview and purchase at [Bandcamp](https://highenddenimrecords.bandcamp.com/album/maybe-next-year)==
 
-[Boltergeist](https://highenddenimrecords.bandcamp.com/album/maybe-next-year) is a brand new collaboration between members of Red Deer, Alberta's [Trashed Ambulance](https://trashedambulance.bandcamp.com/) and Cambridge, Ontario pop-punk group [Frank Dux](https://frankduxpunk.bandcamp.com/). The melodic punk group features the latter's Joel Dux on lead vocals and bass, with Josh (Jawsh) Hauta on guitar and Jason (Ozone) Ezeard drumming. The new group's making their debut with the four-song EP *Maybe Another Year*, due June 4 from the ever-busy [High End Denim Records](https://highenddenimrecords.bandcamp.com). You can preview the set with the track "Glory Daze" now at Bandcamp, which finds the group in a slightly more dour mood than you hear in their oft-jovial main gigs. I can't imagine why.
+[Boltergeist](https://highenddenimrecords.bandcamp.com/album/maybe-next-year) is a brand new collaboration between members of Red Deer, Alberta's [Trashed Ambulance](https://instagram.com/trashedambulance/) and Cambridge, Ontario pop-punk group [Frank Dux](https://frankduxpunk.bandcamp.com/). The melodic punk group features the latter's Joel Dux on lead vocals and bass, with Josh (Jawsh) Hauta on guitar and Jason (Ozone) Ezeard drumming. The new group's making their debut with the four-song EP *Maybe Another Year*, due June 4 from the ever-busy [High End Denim Records](https://highenddenimrecords.bandcamp.com). You can preview the set with the track "Glory Daze" now at Bandcamp, which finds the group in a slightly more dour mood than you hear in their oft-jovial main gigs. I can't imagine why.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3724064975/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://highenddenimrecords.bandcamp.com/album/maybe-next-year">Maybe Next Year by Boltergeist</a></iframe>
 
@@ -182,14 +182,14 @@ Speaking of the [High End Denim](https://highenddenimrecords.bandcamp.com) famil
 
 >"Have you ever been 2.5 times drunker than everyone you're with? They look concerned but you're content and pay no regard to their warnings of discretion and couth. They give up on trying to babysit you... the song is about that."
 
-A five-piece, The Offsailors features members of [Trashed Ambulance](https://trashedambulance.bandcamp.com/), [County 23](https://countyxxiii.bandcamp.com/), and [Avem](https://avem-theband.bandcamp.com) among their ranks. Look for their full-length *One More Then We Go* at some point when we're further out of the shit.
+A five-piece, The Offsailors features members of [Trashed Ambulance](https://instagram.com/trashedambulance/), [County 23](https://countyxxiii.bandcamp.com/), and [Avem](https://avem-theband.bandcamp.com) among their ranks. Look for their full-length *One More Then We Go* at some point when we're further out of the shit.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=51492714/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=871743344/transparent=true/" seamless><a href="https://highenddenimrecords.bandcamp.com/album/one-more-then-we-go">One More Then We Go by The Offsailors</a></iframe>
 
-###[Danko Jones](http://www.dankojones.com): "Flaunt It"
+###[Danko Jones](https://www.dankojones.com): "Flaunt It"
 ==Watch on [YouTube](https://youtu.be/YG7qxm2iIgE)==
 
-"Flaunt It" is the second single from *Power Trio*, the aptly-named new record from Toronto hard rock institution [Danko Jones](http://www.dankojones.com). The album, the group's 10th, arrives August 27 from [Sonic Unyon](http://www.sonicunyon.com/). The group launched the track with an accompanying lyric video from [Christian Müller](https://www.instagram.com/la_viguela/) which features a museum's worth of old show flyers, magazine interviews, and live photos from the band's long career.
+"Flaunt It" is the second single from *Power Trio*, the aptly-named new record from Toronto hard rock institution [Danko Jones](https://www.dankojones.com). The album, the group's 10th, arrives August 27 from [Sonic Unyon](http://www.sonicunyon.com/). The group launched the track with an accompanying lyric video from [Christian Müller](https://www.instagram.com/la_viguela/) which features a museum's worth of old show flyers, magazine interviews, and live photos from the band's long career.
 
 *Power Trio* finds Danko Jones once again working with veteran Canadian producer Eric Ratz. The group last released *A Rock Supreme* in 2019.
 

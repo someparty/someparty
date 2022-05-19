@@ -132,7 +132,7 @@ Veteran Vancouver glam-punk act [The Black Halos](https://theblackhalos.bandcamp
 
 The two-song single features "Ain't No Time To Say Goodbye" backed by a cover of SNFU's 1995 classic "Rusty Rake." All proceeds raised from record sales are due for the [Chi Pig mural fund](https://www.gofundme.com/f/larger-than-life-the-chi-pig-mural).
 
-The modern line-up of the Halos features Hopeless backed by guitarist/vocalist Rich Jones, guitarist Jay Millette, bassist John Kerns (The Age Of Electric), and drummer Danni Action (ACIIDZ). This incarnation first surfaced with the [Yeah Right Records](http://yeahrightrecords.com/) single *Geisterbahn II* in 2019. The band's next full-length, due in 2021, will be their first since 2008's *We Are Not Alone*.
+The modern line-up of the Halos features Hopeless backed by guitarist/vocalist Rich Jones, guitarist Jay Millette, bassist John Kerns (The Age Of Electric), and drummer Danni Action (ACIIDZ). This incarnation first surfaced with the [Yeah Right! Records](http://yeahrightrecords.com/) single *Geisterbahn II* in 2019. The band's next full-length, due in 2021, will be their first since 2008's *We Are Not Alone*.
 
 Born Ken Chinn in Edmonton, Mr. Chi Pig passed on July 16 at the age of 57.
 

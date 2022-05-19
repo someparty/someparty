@@ -23,7 +23,7 @@ A video for the song "Empty Husk" is online at YouTube. It's the opening track f
 
 [Watch: Daniel Romano - "Empty Husk" @ YouTube](https://youtu.be/trS3rdCzE34 "#")
 
-That wasn't the only bit of news from the Romano camp this week. London, Ontario's [Yeah Right Records](http://yeahrightrecords.com/) announced an upcoming split 7" between Ancient Shapes and the three-piece Turbonegro-inspired punk act [Dboy](https://www.dboylove.com). It should arrive this fall, with specifics to be announced.
+That wasn't the only bit of news from the Romano camp this week. London, Ontario's [Yeah Right! Records](http://yeahrightrecords.com/) announced an upcoming split 7" between Ancient Shapes and the three-piece Turbonegro-inspired punk act [Dboy](https://www.dboylove.com). It should arrive this fall, with specifics to be announced.
 
 This split isn't the first connection between the two bands. Romano's credited with recording Dboy's debut mock-live record *Prove Your Love - Live in Belem*, and members of both camps call Welland, Ontario home. Dboy features members of the now-defunct local punk act [The Snips](https://www.facebook.com/thesnipsmusic/) and [Northern Primitive](https://northernprimitive.bandcamp.com/).
 
