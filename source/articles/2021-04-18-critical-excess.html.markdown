@@ -97,7 +97,7 @@ Montreal post-rock trio [Yoo Doo Right](https://yoodooright.bandcamp.com/) recen
 
 >"Driving, simple, straight forward repetition, built into a psychedelic haze with no apparent meaning. Like the day the clocks struck midnight on January 1, 1970. The title is an ode to both the tempo and a good friend who indirectly influenced us, helped us write this song."
 
-Yoo Doo Right features Justin Cober (guitar, synthesizers, vocals), Charles Masson (bass), and John Talbot (drums, percussions). The band recorded *Don't Think You Can Escape Your Purpose* in Quebec City and Montreal, working with Sebastien Fournier (Panopticon Eyelids, No Negative) at Hotel2Tango and Guillaume Chiasson (Ponctuation, Jesuslesfilles) at Le Pantoum.
+Yoo Doo Right features Justin Cober (guitar, synthesizers, vocals), Charles Masson (bass), and John Talbot (drums, percussion). The band recorded *Don't Think You Can Escape Your Purpose* in Quebec City and Montreal, working with Sebastien Fournier (Panopticon Eyelids, No Negative) at Hotel2Tango and Guillaume Chiasson (Ponctuation, Jesuslesfilles) at Le Pantoum.
 
 *Don't Think You Can Escape Your Purpose* arrives on May 21. It comes in the wake of a split 7" with Japanese psych titans Acid Mothers Temple and the trio's earlier EPs.
 

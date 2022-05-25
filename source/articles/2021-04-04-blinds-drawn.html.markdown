@@ -198,7 +198,7 @@ Another month's behind us, and with its passage we've got our hands on another q
 
 Like the preceding acts, this track goes through several distinct movements over its runtime, bringing in a host of guest players along the way. A lovely illustrated [libretto](https://we.tl/t-OcZYKp8LVL) has all those details available as a download while we await the eventual liner notes. On that note, there's still no word on how and when *Year of the Horse* will arrive in the physical realm. I suspect we'll learn next month.
 
-Fucked Up's last proper full length was 2018's *Dose Your Dreams*, with the zodiac entry *Year of the Snake* arriving the year prior. Last year Falco and Haliechuk released their debut as the synthpop group [Jade Hairpins](https://jadehairpins.bandcamp.com/) along with an industrial EP as [Masterpiece Machine](http://Masterpiecemachine.bandcamp.com) (the latter featuring the late Riley Gale of the Dallas thrash act Power Trip on vocals).
+Fucked Up's last proper full length was 2018's *Dose Your Dreams*, with the zodiac entry *Year of the Snake* arriving the year prior. Last year Falco and Haliechuk released their debut as the synthpop group [Jade Hairpins](https://jadehairpins.bandcamp.com/) along with an industrial EP as [Masterpiece Machine](https://masterpiecemachine.bandcamp.com) (the latter featuring the late Riley Gale of the Dallas thrash act Power Trip on vocals).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1948901196/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=4206569539/transparent=true/" seamless><a href="https://fuckedup.bandcamp.com/album/year-of-the-horse">Year of the Horse by Fucked Up</a></iframe>
 

@@ -113,7 +113,7 @@ Look for the 13-song full-length on October 16 from [Royal Mountain](https://www
 
 [Watch: Gulfer - "Nature Kids" @ YouTube](https://youtu.be/WZnBm5SSxgQ "#")
 
-Toronto's wry chatterbox punk unit [Bike Thiefs](http://www.bikethiefsband.ca/) recently premiered a video for their single "You're Allowed Your Feelings" over at [Punknews.org](https://www.punknews.org/article/73413/videos-torontos-bike-thiefs-concede-youre-allowed-your-feelings-in-new-video). It's the first preview of their upcoming [Stomp Records](https://stomprecords.com/) debut *Leaking*, due October 30. The band commented on the track:
+Toronto's wry chatterbox punk unit [Bike Thiefs](https://bikethiefs.bandcamp.com/) recently premiered a video for their single "You're Allowed Your Feelings" over at [Punknews.org](https://www.punknews.org/article/73413/videos-torontos-bike-thiefs-concede-youre-allowed-your-feelings-in-new-video). It's the first preview of their upcoming [Stomp Records](https://stomprecords.com/) debut *Leaking*, due October 30. The band commented on the track:
 
 >"It's about how our lives can be like a journey through a desolate urban landscape populated with failure, compromise, and the occasional beer. The song is heavily inspired by the things we all agree on - racket, sweat, and our outlandish sense of humour."
 
