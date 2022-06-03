@@ -99,7 +99,7 @@ On the album, produced by Jon Drew (Fucked Up, METZ), the band commented:
 
 >"Since we didn't have a hard deadline to finish, we felt a lot more freedom to take our time and mess around in the studio. Jon is the kind of producer that is down to try anything, so we had lots of fun playing with trumpets, old moog synths, glockenspiels."
 
-Not counting the *Expedition Denied* EP that surfaced amidst the frustration of the band's pandemic downtime, the new record formally follows up 2019's *Optimal Lifestyles*. It arrives May 13 through [Dine Alone Records](http://dinealonerecords.com/). Notably, it appears that Pkew Pkew Pkew's continued their mentorship with Craig Finn of The Hold Steady, who's credited here as a "consultant."
+Not counting the *Expedition Denied* EP that surfaced amidst the frustration of the band's pandemic downtime, the new record formally follows up 2019's *Optimal Lifestyles*. It arrives May 13 through [Dine Alone Records](https://dinealonerecords.com/). Notably, it appears that Pkew Pkew Pkew's continued their mentorship with Craig Finn of The Hold Steady, who's credited here as a "consultant."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXKhWKiR5MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -219,7 +219,7 @@ The new record follows up on 2021's stand-alone single "Metaphors" and the group
 
 I like to include one incredibly obvious update per mailing - something that should be news to absolutely no one, just in case I've got a subscriber returning home from an offline canoe trip. The internet just moves too fast for canoes, as we all know.
 
-In case you missed it, the St. Catharines' bred post-hardcore superstars [Alexisonfire](https://www.theonlybandever.com/) recently issued "Sweet Dreams of Otherness," the first single from their first new record in over 13 years. The 10-song *Otherness* arrives on June 24 via [Dine Alone Records](http://dinealonerecords.com/). Comedian and actor Jay Baruchel, who seems to be everywhere these days, directed the "Sweet Dreams" video, which you can, of course, find on YouTube.
+In case you missed it, the St. Catharines' bred post-hardcore superstars [Alexisonfire](https://www.theonlybandever.com/) recently issued "Sweet Dreams of Otherness," the first single from their first new record in over 13 years. The 10-song *Otherness* arrives on June 24 via [Dine Alone Records](https://dinealonerecords.com/). Comedian and actor Jay Baruchel, who seems to be everywhere these days, directed the "Sweet Dreams" video, which you can, of course, find on YouTube.
 
 Vocalist George Pettit revealed:
 

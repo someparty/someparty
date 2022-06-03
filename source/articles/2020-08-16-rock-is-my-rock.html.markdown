@@ -61,7 +61,7 @@ Dundas power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) shared word
 
 >"Without parallel, 'Doom Boy' is the most dangerous video we've ever made. When we were told that all we had to do was return the shell of the van to get half our money back, all hell broke loose. Between the Roman candles, vintage mini bikes and minivan mayhem, I was quite surprised that we only had a few injuries by the end of the night. Do NOT attempt any of the antics performed in the 'Doom Boy' video. You've been warned."
 
-"Doom Boy" follows the group's recent "Done With Drugs" single, with both expected on *Fuck Art* when it arrives on [Dine Alone Records](http://dinealonerecords.com/) later this year.
+"Doom Boy" follows the group's recent "Done With Drugs" single, with both expected on *Fuck Art* when it arrives on [Dine Alone Records](https://dinealonerecords.com/) later this year.
 
 As reported earlier, Bentham, bassist Ross Miller, and drummer Kyle Fisher benefited from living together under the same roof throughout the COVID quarantine. That arrangement allowed the group to forge ahead on this record without having to resort to clumsy remote setups or precautionary distancing.
 

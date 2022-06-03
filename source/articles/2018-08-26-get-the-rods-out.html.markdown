@@ -65,7 +65,7 @@ Dundas, Ontario's [The Dirty Nil](https://thedirtynil.bandcamp.com/) are fast ap
 
 > "I've found subtlety to be a vastly overrated quality, best left to cardigan wearing jazz tooters. We here at The Dirty Nil prefer to espouse the truth in all its brash glory and ugliness. 'I Don't Want That Phone Call' is a love letter to any individual struggling with substances of self destruction. You're not alone, there's help out there, friends."
 
-*Master Volume* will mark the band's second LP of new material for [Dine Alone Records](http://dinealonerecords.com/), following 2016's *Higher Power* and the early singles collection *Minimum R&B*.
+*Master Volume* will mark the band's second LP of new material for [Dine Alone Records](https://dinealonerecords.com/), following 2016's *Higher Power* and the early singles collection *Minimum R&B*.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/488646171%3Fsecret_token%3Ds-Cy3Ls&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 

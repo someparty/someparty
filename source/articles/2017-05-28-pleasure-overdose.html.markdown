@@ -25,7 +25,7 @@ You should go listen to *Pleasure Overdose* because it's cool. It picks up on th
 
 ##Human Party Trick
 
-I caught the first night of the [Dine Alone](http://dinealonerecords.com/) package tour in Hamilton on Thursday. While I've seen both the Dirty Nil and the Flatliners more times than I can recall, it was my first live experience with the Toronto-via-Waterloo group [Sam Coffey and the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/), who opened.
+I caught the first night of the [Dine Alone](https://dinealonerecords.com/) package tour in Hamilton on Thursday. While I've seen both the Dirty Nil and the Flatliners more times than I can recall, it was my first live experience with the Toronto-via-Waterloo group [Sam Coffey and the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/), who opened.
 
 While I enjoyed the band's last record, the material they've assembled for their upcoming self-titled [Burger](http://burgerrecords.com/) / Dine Alone co-release is something else. The six-piece, in matching denim, put on one of the strongest and most engaging sets I've seen in a while. The new songs feel like big, muscular covers of 80s pop-rock hits and I mean that with as much affection as possible. This band's been all over the place stylistically in the past, but the place they've landed is really enjoyable.
 

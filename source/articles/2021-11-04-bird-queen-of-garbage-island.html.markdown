@@ -60,7 +60,7 @@ Bella and Meg took their first swing at this project in early 2019, releasing a 
 
 Toronto punk quartet [Pkew Pkew Pkew](https://www.pkewx3.com/) are so fucking bored. Even with the pandemic on the wane, the band still couldn't get out on the road ("because of some absolute bullshit," or so we're told). With little else to do, the group instead convened to record a primarily acoustic EP. You can hear the four-song *Expedition Denied* at Bandcamp now. Along with a decidedly COVID-era opener, the set revisits a few classics from the band's 2013 debut *Glory Days*. Those songs come from the group's earlier incarnation as Pkew Pkew Pkew (Gunshots). (I'm honestly unsure if that record's still *canonical* at this point - bands are weird). The group recorded with Gareth Parry and Mark Robertson at Bengal Cat Sound.
 
-Pkew Pkew Pkew last released *Optimal Lifestyles* in 2019 on [Dine Alone Records](http://dinealonerecords.com/), a record that underscored their often irreverent, hard-partying anthems with a bit of subtle pathos.
+Pkew Pkew Pkew last released *Optimal Lifestyles* in 2019 on [Dine Alone Records](https://dinealonerecords.com/), a record that underscored their often irreverent, hard-partying anthems with a bit of subtle pathos.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=350371842/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://pkewx3.bandcamp.com/album/expedition-denied-2">Expedition Denied by PKEW PKEW PKEW</a></iframe>
 

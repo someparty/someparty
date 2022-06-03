@@ -119,7 +119,7 @@ WHOOP-Szo features Sturgeon alongside Kirsten Kurvink Palm on guitar, synth, and
 
 [Watch: WHOOP-Szo - "Nshwaaswi" @ YouTube](https://youtu.be/2bgNyCLZKOs "#")
 
-Last weekend the London-bred [Single Mothers](https://singlemothersband.bandcamp.com/) released the deluxe edition of 2018's *Through a Wall*, a remix and remaster of the Juno-nominated [Dine Alone Records](http://dinealonerecords.com/) LP. The set came with a bonus track, "I'm Wrong," which you can preview now through a  video shot by the band while in isolation. Before the pandemic, the group was booked to tour North America with the Fat Wreck punk act PEARS.
+Last weekend the London-bred [Single Mothers](https://singlemothersband.bandcamp.com/) released the deluxe edition of 2018's *Through a Wall*, a remix and remaster of the Juno-nominated [Dine Alone Records](https://dinealonerecords.com/) LP. The set came with a bonus track, "I'm Wrong," which you can preview now through a  video shot by the band while in isolation. Before the pandemic, the group was booked to tour North America with the Fat Wreck punk act PEARS.
 
 "I'm Wrong" follows the group's first pandemic tune, the swiftly-recorded "Turbulence" single.
 

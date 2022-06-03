@@ -65,7 +65,7 @@ Dundas, Ontario maximalists [The Dirty Nil](https://thedirtynil.bandcamp.com/) r
 
 >"'Astro Ever After' is by no means an out-take from Master Volume. It's an accompanying track that we chose to release after the bulk of the material simply because we can. Out of all the songs we recorded during the *Master Volume* sessions, this is certainly one of our favourites. For anyone with a space lust, and for those who appreciate the beauty and brevity of life, the majesty of the sky, and the sludge of stoner metal: this one's for you. Please friends, crank and enjoy.
 
-2018 *Master Volume* was the band's second LP of new material for [Dine Alone Records](http://dinealonerecords.com/) following 2016's *Higher Power*.
+2018 *Master Volume* was the band's second LP of new material for [Dine Alone Records](https://dinealonerecords.com/) following 2016's *Higher Power*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2028092012/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://thedirtynil.bandcamp.com/album/astro-ever-after">Astro Ever After by The Dirty Nil</a></iframe>
 
@@ -109,7 +109,7 @@ Have I been running a new song from [Single Mothers](https://singlemothersband.b
 
 > "Tripping over substance abuse and retreating from responsibility isn't a new theme, but it's relatable. I spent half my life sweeping up the night before and avoiding what caused the mess, determined it was the place I was living, not the life I was living that was the true problem. It's a fight most of us go through it sometime in our 20's. This song is just about a punch in that fight, not the knock out or the beginning - but a snippet somewhere between yelling at the bouncer and hearing the sirens getting closer down the street."
 
-Single Mothers last released *Through A Wall* in 2018. The Drew Thomson Foundation last released the EP *Stay* in 2018. All these recent new songs are expected on a full-length from [Dine Alone](http://dinealonerecords.com/) due in the fall.
+Single Mothers last released *Through A Wall* in 2018. The Drew Thomson Foundation last released the EP *Stay* in 2018. All these recent new songs are expected on a full-length from [Dine Alone](https://dinealonerecords.com/) due in the fall.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sNhyokIqVfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -53,7 +53,7 @@ Ottawa's usually-denim-clad party punks [New Swears](https://newswears.bandcamp.
 
 The comments left under the "Angel" YouTube video are wonderful though. My favourite is the person asking "Is it bad if I like this?"
 
-New Swears' last full-length was 2017's [Dine Alone](http://dinealonerecords.com/)-released *and the Magic of Horses*. It sounds nothing like this.
+New Swears' last full-length was 2017's [Dine Alone](https://dinealonerecords.com/)-released *and the Magic of Horses*. It sounds nothing like this.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xATR14xSg9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

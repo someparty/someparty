@@ -75,7 +75,7 @@ Toronto industrial/electronic act [Odonis Odonis](http://www.odonisodonis.com/) 
 
 [Watch: Odonis Odonis - "Collector" @ YouTube](https://youtu.be/mH8E-WSXKM8 "#")
 
-A new single arrived last week from [The Drew Thomson Foundation](https://drewthomson.bandcamp.com), the [Single Mothers](https://singlemothersband.bandcamp.com/) frontman's namesake pop-rock solo vehicle. It's the first song from Thomson's upcoming LP on [Dine Alone Records](http://dinealonerecords.com/). In the premiere at Brooklyn Vegan, Thomson commented on the track, titled "Break":
+A new single arrived last week from [The Drew Thomson Foundation](https://drewthomson.bandcamp.com), the [Single Mothers](https://singlemothersband.bandcamp.com/) frontman's namesake pop-rock solo vehicle. It's the first song from Thomson's upcoming LP on [Dine Alone Records](https://dinealonerecords.com/). In the premiere at Brooklyn Vegan, Thomson commented on the track, titled "Break":
 
 > "On the surface, 'Break' is about a relationship, but in broader sense, it’s about not being afraid of change and the possible consequences that can come from it. We had a lot of fun working with Alex Newport, and I think that comes through in the recording and the rest of the album."
 

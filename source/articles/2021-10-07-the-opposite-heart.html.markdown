@@ -49,7 +49,7 @@ Montreal's [NOBRO](https://nobro.bandcamp.com/) has yet to release a song that o
 
 >"I was experiencing some kind of crisis at the time of writing 'Better Each Day' and if I remember correctly, it was a 'writing music' one. There are times when songs come streaming out of you as though they wrote themselves into existence, and other times it can be as challenging as getting two purebred Persian cats to mate. I was sitting in our producer's studio when he suggested I might like a little jingle he wrote for a commercial that never got used. I thought it was dope and voila, this song was born. One day you're punk as fuck and then next you're playing old unused car commercial jingles."
 
-The single arrives mixed by Dave Schiffman (PUP, The OBGMs, Bad Waitress) via [Dine Alone Records](http://dinealonerecords.com/). NOBRO features vocalist/bassist Kathryn McCaughey, guitarist Karolane Carbonneau, Lisandre Bourdages on keys and percussion, and drummer Sarah Dion.
+The single arrives mixed by Dave Schiffman (PUP, The OBGMs, Bad Waitress) via [Dine Alone Records](https://dinealonerecords.com/). NOBRO features vocalist/bassist Kathryn McCaughey, guitarist Karolane Carbonneau, Lisandre Bourdages on keys and percussion, and drummer Sarah Dion.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1570974992/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://nobro.bandcamp.com/album/better-each-day">Better Each Day by NOBRO</a></iframe>
 

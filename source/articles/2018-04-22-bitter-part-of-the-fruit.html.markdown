@@ -31,7 +31,7 @@ Feel Alright's the brainchild of audio/visual artist Craig Fahner, with this new
 
 [Listen: Feel Alright - "Truth About Us" @ SoundCloud](https://soundcloud.com/pleasence-records/feel-alright-truth-about-us "#")
 
-[Drew Thomson](https://drewthomson.bandcamp.com), the frontman of London punk band [Single Mothers](https://singlemothersband.bandcamp.com/), has announced the release of *Stay*, a new solo EP in his Drew Thomson Foundation guise. [Dine Alone Records](http://dinealonerecords.com/), who released Single Mothers latest record, will handle this one as well. Look for it on May 11. The set engineered and co-produced by John Dinsmore (NQ Arbuckle, Great Lake Swimmers) and mixed by Alex Newport (Pissed Jeans, City And Colour).
+[Drew Thomson](https://drewthomson.bandcamp.com), the frontman of London punk band [Single Mothers](https://singlemothersband.bandcamp.com/), has announced the release of *Stay*, a new solo EP in his Drew Thomson Foundation guise. [Dine Alone Records](https://dinealonerecords.com/), who released Single Mothers latest record, will handle this one as well. Look for it on May 11. The set engineered and co-produced by John Dinsmore (NQ Arbuckle, Great Lake Swimmers) and mixed by Alex Newport (Pissed Jeans, City And Colour).
 
 The new material finds Thomson exploring alt-country and power-pop, quite a change from the often snide and acerbic Single Mothers. This new release follows up a set of home recordings the Foundation released last fall, titled *Vol 1: Huh, it's generally pretty empty in here*. Look for a proper full-length to follow.
 
@@ -67,7 +67,7 @@ The band described the video as "an adventure into multiple dimensions of madnes
 
 Ottawa's raucous [New Swears](https://newswears.bandcamp.com/) recently appeared in a live session for Exclaim!'s YouTube channel No Future. The publication hosted the band at Toronto's Boots & Bourbon Saloon, where they performed "Two Darts" from 2013's *Funny Isn't Real*, "Midnight Lovers" from 2015's *Junkfood Forever, Bedtime Whatever* and "Dance with the Devil" their latest record *And the Magic of Horses*.
 
-That last album came out on [Dine Alone](http://dinealonerecords.com/) in 2017. The party punk group last released the single "Illuminati Knights" in January to raise money for a pair of Ottawa-area youth charities.
+That last album came out on [Dine Alone](https://dinealonerecords.com/) in 2017. The party punk group last released the single "Illuminati Knights" in January to raise money for a pair of Ottawa-area youth charities.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IEC8Y4RLfYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

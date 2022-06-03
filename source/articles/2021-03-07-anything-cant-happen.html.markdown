@@ -121,7 +121,7 @@ Sister Suzie last released the full-length *Don't Want To* in April of 2020, ava
 
 Dundas power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) has a new video online featuring the *Fuck Art* album cut "Elvis '77." The clip's comprised of video footage submitted by fans (121 contributors, by my count). You can find the video on YouTube now.
 
-The gleefully kinetic *Fuck Art* arrived January 1 from [Dine Alone Records](http://dinealonerecords.com/), followed up on 2018's *Master Volume*. The Dirty Nil features Luke Bentham on guitar and vocals, Ross Miller on bass, and Kyle Fisher on drums.
+The gleefully kinetic *Fuck Art* arrived January 1 from [Dine Alone Records](https://dinealonerecords.com/), followed up on 2018's *Master Volume*. The Dirty Nil features Luke Bentham on guitar and vocals, Ross Miller on bass, and Kyle Fisher on drums.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RK33nh1m0t0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

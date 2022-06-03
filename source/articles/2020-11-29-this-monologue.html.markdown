@@ -141,7 +141,7 @@ Frontman Luke Betham commented song, which seems tailor-made as a triumphant, se
 
 >"Let's be clear: social media hates you. 'One More And The Bill' is an ode to the primitive, casting off the shackles and enjoying life while you've got it. This is one of my favourite songs we've ever made and we hope you enjoy!"
 
-*Fuck Art* lands as the band's third record and arrives at the start of 2021 through [Dine Alone Records](http://dinealonerecords.com/). It follows up on 2018's *Master Volume*. The Dirty Nil features Luke Bentham on guitar and vocals, Ross Miller on bass, and Kyle Fisher on drums.
+*Fuck Art* lands as the band's third record and arrives at the start of 2021 through [Dine Alone Records](https://dinealonerecords.com/). It follows up on 2018's *Master Volume*. The Dirty Nil features Luke Bentham on guitar and vocals, Ross Miller on bass, and Kyle Fisher on drums.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=933957078/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2418727335/transparent=true/" seamless><a href="https://thedirtynil.bandcamp.com/album/fuck-art">Fuck Art by The Dirty Nil</a></iframe>
 

@@ -35,7 +35,7 @@ In lieu of media from the split, here's a live video of Ancient Shapes playing i
 
 Toronto's [Sam Coffey & the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) have a new single out, the first new material released since last year's self-titled full-length. "First Time" feels like a huge rock radio hit, if those things still existed, and finds the six-piece further flexing the massively hooky formula they perfected on their last record. It's also the first song I've ever heard to explicitly reference the "millennial whoop" (Google it) in a brilliantly self-aware moment.
 
-A video for the song finds the band once again working with Shawn Kosmerly, who produced much of the visual accompaniment for their last LP. The new song will appear on whatever the group has coming next for [Dine Alone](http://dinealonerecords.com/). Producer Eric Ratz (Metric, Tegan & Sara, Arkells, Billy Talent) brings a new level of polish to the band on this one.
+A video for the song finds the band once again working with Shawn Kosmerly, who produced much of the visual accompaniment for their last LP. The new song will appear on whatever the group has coming next for [Dine Alone](https://dinealonerecords.com/). Producer Eric Ratz (Metric, Tegan & Sara, Arkells, Billy Talent) brings a new level of polish to the band on this one.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RgGw4eLSwUo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

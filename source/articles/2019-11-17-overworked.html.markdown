@@ -99,7 +99,7 @@ In the lead-up to their North American tour alongside [The Dirty Nil](https://th
 
 [Andrew Friesen](http://www.andrewfriesen.com/) directed the accompanying "Nihilist Headlights" video.
 
-[Single Mothers](https://singlemothersband.bandcamp.com/) last released *Through A Wall* in 2018 on [Dine Alone](http://dinealonerecords.com/) and [Big Scary Monsters](http://www.bsmrocks.com). Thomson also recently released a full-length with his solo pop-rock vehicle [The Drew Thomson Foundation](https://drewthomson.bandcamp.com). You can find the Dirty Nil / Single Mothers tour dates over at [Brooklyn Vegan](http://www.brooklynvegan.com/watch-single-mothers-video-for-new-song-nihilist-headlights-tour-starts-soon/).
+[Single Mothers](https://singlemothersband.bandcamp.com/) last released *Through A Wall* in 2018 on [Dine Alone](https://dinealonerecords.com/) and [Big Scary Monsters](http://www.bsmrocks.com). Thomson also recently released a full-length with his solo pop-rock vehicle [The Drew Thomson Foundation](https://drewthomson.bandcamp.com). You can find the Dirty Nil / Single Mothers tour dates over at [Brooklyn Vegan](http://www.brooklynvegan.com/watch-single-mothers-video-for-new-song-nihilist-headlights-tour-starts-soon/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8M24eELipsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

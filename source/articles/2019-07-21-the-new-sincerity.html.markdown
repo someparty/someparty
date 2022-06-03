@@ -133,7 +133,7 @@ Nylon Spirit features Norman Regucera, Matt Tomasi, Noah Aviles-Betel, and Chris
 
 [Listen: Nylon Spirit - "Dumb For U" @ Bandcamp](http://nylonspirit.bandcamp.com/track/dumb-for-u "#")
 
-Following several months of previews, [Dine Alone Records](http://dinealonerecords.com/) has finally detailed the debut solo full length from [Single Mothers](https://singlemothersband.bandcamp.com/) lead Drew Thomson. [The Drew Thomson Foundation](https://drewthomson.bandcamp.com)'s debut will be self-titled and is set for a September 6 release. With the confirmation came another new single, "Phone Ring."
+Following several months of previews, [Dine Alone Records](https://dinealonerecords.com/) has finally detailed the debut solo full length from [Single Mothers](https://singlemothersband.bandcamp.com/) lead Drew Thomson. [The Drew Thomson Foundation](https://drewthomson.bandcamp.com)'s debut will be self-titled and is set for a September 6 release. With the confirmation came another new single, "Phone Ring."
 
 A complete contrast from the high-stress, often acidic punk of Single Mothers, the Foundation lets Drew show off some considerable pop songwriting chops. These two worlds aren't being kept entirely separate though, as the former's "People are Pets" has been reworked on this album as a Rufus Wainwright-styled piano ballad. Thomson worked on the record with producer Alex Newport at his Los Angeles studio (Pissed Jeans, City and Colour, Frank Turner).
 

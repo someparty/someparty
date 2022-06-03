@@ -55,7 +55,7 @@ In the lead-up to the shows, the Club issued a new set of live videos, [one](htt
 ###[NOBRO](https://nobro.bandcamp.com/): "Eat Slay Chardonnay"
 ==Watch on [YouTube](https://youtu.be/MsurO4jPbU8) - Preview and purchase at [Bandcamp](https://nobro.bandcamp.com/album/live-your-truth-shred-some-gnar)==
 
-[NOBRO](https://nobro.bandcamp.com/)'s hook-drenched EP *Live Your Truth Shred Some Gnar* landed last week through [Dine Alone Records](http://dinealonerecords.com/). The 7-song collection arrived alongside a video for the shout-along single "Eat Slay Chardonnay." In a statement, bassist/vocalist Kathryn McCaughey reflected on the record's ethos:
+[NOBRO](https://nobro.bandcamp.com/)'s hook-drenched EP *Live Your Truth Shred Some Gnar* landed last week through [Dine Alone Records](https://dinealonerecords.com/). The 7-song collection arrived alongside a video for the shout-along single "Eat Slay Chardonnay." In a statement, bassist/vocalist Kathryn McCaughey reflected on the record's ethos:
 
 >"*Live Your Truth Shred Some Gnar* is about needing to believe in something. For us, that's ourselves. Believing that we can and will do it. You have to live your truth and cannot lose sight of who you are. Even when you feel like a loser cleaning puke out of the bathroom sink, or because of rejection, heartache, and a seemingly never-ending list of reasons to give up. You have to shred some gnar because you are the only person who gets to live your own life."
 
@@ -153,7 +153,7 @@ Kitchener skate punk group [Handheld](https://handheldpunk.bandcamp.com) has ret
 
 Last week Ryan McKinley issued the first full-length from his alt-pop solo project [Moral Pleasures](https://moralpleasures.bandcamp.com/). The 10-song set includes the recent singles "Deathbed" and "View From The Canopy," following up on last summer's debut EP *Sleepy Songs For Dying Loves*. You can pick the collection up at Bandcamp now.
 
-Moral Pleasures continues to prove a surprisingly mature outlet for McKinley, who we otherwise know from the Toronto party-punks [Pkew Pkew Pkew](https://www.pkewx3.com/). That group issued an acoustic EP last fall dubbed *Expedition Denied*, their first output since their 2019 [Dine Alone](http://dinealonerecords.com/) full-length *Optimal Lifestyles*.
+Moral Pleasures continues to prove a surprisingly mature outlet for McKinley, who we otherwise know from the Toronto party-punks [Pkew Pkew Pkew](https://www.pkewx3.com/). That group issued an acoustic EP last fall dubbed *Expedition Denied*, their first output since their 2019 [Dine Alone](https://dinealonerecords.com/) full-length *Optimal Lifestyles*.
 
 I love pointing out personnel connections, so, of course, I'm making mention of Pkew Pkew Pkew here. Moral Pleasures is so subtle and nuanced in contrast that the association is undoubtedly doing it a disservice.
 

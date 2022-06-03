@@ -197,7 +197,7 @@ Wayfarer released the full-length *Reckless Spring* in the fall of 2019.
 
 > "I think this is everything that's ever been on here and maybe a couple more. I did most of these all in my bedroom without a clue how to record. I used to just use a tape machine and then I got a computer. A few of these were done in a studio. Saturday Night/Oxy were with Joby Ford. The Early versions of Stay etc. were done at The Dirty Nil Jam Space/House in Hamilton w Ian Romano and Ross Miller. This spans over the 'drinking too much and then not at all' part of my life. I don't know - it's a collection of something."
 
-The Foundation released a self-titled full-length on [Dine Alone](http://dinealonerecords.com/) in 2019.
+The Foundation released a self-titled full-length on [Dine Alone](https://dinealonerecords.com/) in 2019.
 
 <iframe style='border: 0; width: 350px; height: 470px;' src='https://bandcamp.com/EmbeddedPlayer/album=4026769697/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/' seamless><a href='http://drewthomson.bandcamp.com/album/drew-thomson-bedroom-door-full-ep-demo-bandcamp-discography'>Drew Thomson- BEDROOM DOOR: FULL EP/DEMO BANDCAMP DISCOGRAPHY by The Drew Thomson Foundation</a></iframe>
 

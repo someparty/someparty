@@ -100,7 +100,7 @@ Hailing from the north shore of Montreal, four-piece skate-punk act [L'Affaire P
 
 [Listen: L'Affaire Pélican - *Si C'est Flou, C'est Un OVNI!* @ Bandcamp](http://laffairepelican.bandcamp.com/album/si-cest-flou-cest-un-ovni "#")
 
-[The Drew Thomson Foundation](https://drewthomson.bandcamp.com) has a new video online featuring "Karma," a track from the group's self-titled, [Dine Alone](http://dinealonerecords.com/)-released 2019 full-length. In a press-release Thomson commented on the tune:
+[The Drew Thomson Foundation](https://drewthomson.bandcamp.com) has a new video online featuring "Karma," a track from the group's self-titled, [Dine Alone](https://dinealonerecords.com/)-released 2019 full-length. In a press-release Thomson commented on the tune:
 
 > "'Karma' is a song about a person being so blissfully unaware that they float through life, with things easily falling in their lap -  and in turn that ease and confidence then pushes people close away. It's kind of about some people I know and kind of not. This should be easy, you just want to love me!"
 

@@ -84,7 +84,7 @@ Bella and Meg took their first swing at this project in early 2019, releasing a 
 ###[NOBRO](https://nobro.bandcamp.com/): "Bye Bye Baby"
 ==Preview and purchase at [Bandcamp](https://nobro.bandcamp.com/track/bye-bye-baby)==
 
-Later this month Montreal quartet [NOBRO](https://nobro.bandcamp.com/)'s collecting their recent singles as an EP. *Live Your Truth Shred Some Gnar* arrives on February 23 via [Dine Alone Records](http://dinealonerecords.com/). The announcement landed alongside "Bye Bye Baby," which follows the infectious "Julia" and "Better Each Day" in previewing the 7-song set.
+Later this month Montreal quartet [NOBRO](https://nobro.bandcamp.com/)'s collecting their recent singles as an EP. *Live Your Truth Shred Some Gnar* arrives on February 23 via [Dine Alone Records](https://dinealonerecords.com/). The announcement landed alongside "Bye Bye Baby," which follows the infectious "Julia" and "Better Each Day" in previewing the 7-song set.
 
 The new track is notably the first that guitarist/vocalist Karolane Carbonneau wrote for the group. She reveals:
 
@@ -141,7 +141,7 @@ The split marks dianacrawls' first new material since 2020's EP *A Glitter Manif
 
 [Pkew Pkew Pkew](https://www.pkewx3.com/) guitarist Ryan McKinley has an unassumingly hooky new single out from his alt-pop solo guise [Moral Pleasures](https://moralpleasures.bandcamp.com/). The artist describes "View from The Canopy" as a song concerning "the majesty of trees and inspired by old growth forest defenders." The track's the first since *Sleepy Songs For Dying Loves*, a five-song EP issued in the summer of 2021. The new song arrives alongside a video directed by [Jesse Powell](https://www.instagram.com/jsspwll/).
 
-McKinley's decidedly less subtle punk outfit Pkew Pkew Pkew issued an acoustic EP last fall dubbed *Expedition Denied*, their first output since their 2019 [Dine Alone](http://dinealonerecords.com/) full-length  *Optimal Lifestyles*.
+McKinley's decidedly less subtle punk outfit Pkew Pkew Pkew issued an acoustic EP last fall dubbed *Expedition Denied*, their first output since their 2019 [Dine Alone](https://dinealonerecords.com/) full-length  *Optimal Lifestyles*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/myOYpxmsLN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

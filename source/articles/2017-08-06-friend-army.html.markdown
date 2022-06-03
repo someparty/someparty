@@ -16,7 +16,7 @@ Speaking of The Burning Hell, a frequent member in recent years has been Peterbo
 ##Of Note
 
 Remember all the speculation last week with regards to the tenth anniversary of [Attack In Black](https://attackinblack.bandcamp.com/)'s
-*Marriage*? [Dine Alone Records](http://dinealonerecords.com/) will be celebrating with a vinyl reissue (180 gram, tweaked artwork, and if you're in for the bundle, packaged with a new poster and t-shirt). That's perhaps less fantastical news than some were holding out for, but it's pretty cool for what it is (in particular if you missed the boat on the Record Store Day reissue of this album from a few years back).
+*Marriage*? [Dine Alone Records](https://dinealonerecords.com/) will be celebrating with a vinyl reissue (180 gram, tweaked artwork, and if you're in for the bundle, packaged with a new poster and t-shirt). That's perhaps less fantastical news than some were holding out for, but it's pretty cool for what it is (in particular if you missed the boat on the Record Store Day reissue of this album from a few years back).
 
 [Drew Thomson](https://drewthomson.bandcamp.com) of [Single Mothers](https://singlemothersband.bandcamp.com/) dropped a surprise solo full length last week, billed as *The Drew Thomson Foundation Vol 1: Huh, it's generally pretty empty in here*. The seven song set was produced, mixed, and engineered by Ian Romano (of the aforementioned Attack In Black), who also drums on the recordings. Ross Miller of Single Mothers and the Dirty Nil plays bass and additional guitar on the songs. Given how much Thomson draws on anxiety and sarcasm on Single Mothers records, it's nice to hear his approach when the stylistic confines of punk rock are lifted a little.
 

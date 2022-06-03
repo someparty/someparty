@@ -133,7 +133,7 @@ The set, described by Monkman as "moccasin-gaze," arrives June 19. Zoon will pla
 
 [Watch: Zoon - "Vibrant Colours" @ YouTube](https://youtu.be/10RtDVBwFRQ "#")
 
-[Dine Alone Records](http://dinealonerecords.com/) recently shared another new song from the upcoming [NOBRO](https://nobro.bandcamp.com/) EP. "Don't Wanna Talk About It" is, in the words of the band, "as close to a love song as we're going to get." The group co-wrote the tough, buzzing track with [METZ](http://www.metzztem.com/)'s Alex Edkins.
+[Dine Alone Records](https://dinealonerecords.com/) recently shared another new song from the upcoming [NOBRO](https://nobro.bandcamp.com/) EP. "Don't Wanna Talk About It" is, in the words of the band, "as close to a love song as we're going to get." The group co-wrote the tough, buzzing track with [METZ](http://www.metzztem.com/)'s Alex Edkins.
 
 Based out of Montreal, NOBRO will release *Sick Hustle* on April 3. The band features vocalist/bassist Kathryn McCaughey, guitarist Karolane Carbonneau, Lisandre Bourdages on keys and percussion, and drummer Sarah Dion.
 

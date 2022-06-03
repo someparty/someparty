@@ -114,7 +114,7 @@ Whitby's suburban grunge-punks [Chastity](https://chastitysongs.bandcamp.com) ha
 
 Williams comments that the film, in its completed form, should be available in the spring and could lend itself to some unique performance pieces down the road.
 
-*Home Made Satan* arrives on September 13 from [Dine Alone Records](http://dinealonerecords.com/) and [Captured Tracks](http://www.capturedtracks.com/). It follows the band's 2018 debut *Death Lust* and the subsequent outtake-collecting EP *Death Lust Cuts*.
+*Home Made Satan* arrives on September 13 from [Dine Alone Records](https://dinealonerecords.com/) and [Captured Tracks](http://www.capturedtracks.com/). It follows the band's 2018 debut *Death Lust* and the subsequent outtake-collecting EP *Death Lust Cuts*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L0fU9sHycvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

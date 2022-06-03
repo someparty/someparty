@@ -53,7 +53,7 @@ The Vancouver-based Garbage Dreams has only a handful of live performances under
 
 > "This band constantly feels like it’s hoping and skipping along with or without me and I’m just floating in and out of sync with it constantly trying to figure out where I am and where it is. This song ‘Tan Line’ is about falling in and out of sync. ‘Spread out folly somewhere in your mind, pieces of who you and I collide’ — how we all grow together, separately but hold onto what we remember we were as truth. ‘You’ve changed’ — obviously. Life is short, and it seems like we’re always trying to catch up, find short cuts into each other — like passing through the walls we all put up.”
 
-*Through a Wall* is out now on [Dine Alone](http://dinealonerecords.com/) in Canada and [Big Scary Monsters](http://www.bsmrocks.com) overseas. The band will kick off a European tour supporting Drug Church at the end of January.
+*Through a Wall* is out now on [Dine Alone](https://dinealonerecords.com/) in Canada and [Big Scary Monsters](http://www.bsmrocks.com) overseas. The band will kick off a European tour supporting Drug Church at the end of January.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ls4bItw1zo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -77,7 +77,7 @@ The single artwork shared for "The Girls I Know Don't Think So" features an imag
 
 > "She was way ahead of her time. She fought for women's equality in the workforce, universal maternity care and women's advancement in education. She won. In 1920, Soviet Russia was the first country in the world to make abortion legal under women's request. Homosexuality was decriminalized, sex work too. This was 100 years ago, it's fucked how long it's taken the rest of the world. Alexandra Kollontai helped to change the lives of millions of people. There may be voices similar to hers out there today. Are we listening?"
 
-*Home Made Satan* arrives on September 13 from [Dine Alone Records](http://dinealonerecords.com/) and [Captured Tracks](http://www.capturedtracks.com/). It follows the band's 2018 debut *Death Lust* and the subsequent outtake-collecting EP *Death Lust Cuts*.
+*Home Made Satan* arrives on September 13 from [Dine Alone Records](https://dinealonerecords.com/) and [Captured Tracks](http://www.capturedtracks.com/). It follows the band's 2018 debut *Death Lust* and the subsequent outtake-collecting EP *Death Lust Cuts*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9HXB-XaSok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

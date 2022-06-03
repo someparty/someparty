@@ -53,7 +53,7 @@ It's list season and I've been spending a lot of time trying to sort out my favo
 
 [Watch: The Weather Station - CBC First Play Live @ YouTube](https://www.youtube.com/watch?v=pinUZSGioy8&list=PLxuaaONzLc3fNnv_dGcSM1ApOqea-G9Zp "#")
 
-[Sam Coffey & the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) put out one of the year's best rock'n'roll records with July's self-titled effort on [Dine Alone](http://dinealonerecords.com/). The group's been supporting the album with a string of playful videos, and the latest for the song "Tough" is no exception. This one features the denim-vested band mugging around the CNE. Once again they hooked up with Shawn Kosmerly (of Sudbury's [Dirty Princes](https://dirtyprinces.bandcamp.com/)) to direct.
+[Sam Coffey & the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) put out one of the year's best rock'n'roll records with July's self-titled effort on [Dine Alone](https://dinealonerecords.com/). The group's been supporting the album with a string of playful videos, and the latest for the song "Tough" is no exception. This one features the denim-vested band mugging around the CNE. Once again they hooked up with Shawn Kosmerly (of Sudbury's [Dirty Princes](https://dirtyprinces.bandcamp.com/)) to direct.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9GMYo0RwHCQ?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 

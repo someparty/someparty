@@ -16,7 +16,7 @@ Wares' Big Winter Classic set goes down at Calgary's Last Best Brewing Company o
 
 [Listen: Wares - "Rice Paper Dress" @ Bandcamp](http://wares.bandcamp.com/album/silhouette "#")
 
-Winterruption and the Big Winter Classic are also set to feature my satin-clad Niagara neighbours [Dboy](https://www.dboylove.com). The gimp-masked, Soviet-style punk trio formally announced their sophomore full-length last week. *New Records In Human Power* arrives on February 14 from [Dine Alone Records](http://dinealonerecords.com/) in Canada and [Alcopop!](https://www.ilovealcopop.co.uk/) in the UK.
+Winterruption and the Big Winter Classic are also set to feature my satin-clad Niagara neighbours [Dboy](https://www.dboylove.com). The gimp-masked, Soviet-style punk trio formally announced their sophomore full-length last week. *New Records In Human Power* arrives on February 14 from [Dine Alone Records](https://dinealonerecords.com/) in Canada and [Alcopop!](https://www.ilovealcopop.co.uk/) in the UK.
 
 The Welland band previewed the new 12-song, 19-minute set with the single "Red Ultra Glide." You can check it out below through a new video from director [Chris Paco](https://vimeo.com/chrispaco). Release shows for *New Records* go down on [February 14](https://www.facebook.com/events/577053626387464/) at the Warehouse in St. Catharines and [the next day](https://www.facebook.com/events/468793194063443/) at the Monarch Tavern in Toronto.
 
@@ -85,13 +85,13 @@ Frontman George Pettit commented in a statement:
 
 >"I’m very proud of this new song. There were some first time attempts for us and we all really came together in the studio to make this song what it is. This was also my first time singing with Dallas [Green] on a song. I know I’ve been playing in a band with Dal for almost 20 years, but damn, that guy’s voice could melt an angel."
 
-[Dine Alone](http://dinealonerecords.com/) will release the track physically as a limited 7" single with an etched b-side. The band's recent singles are their first studio material since 2010's *Dog's Blood* EP and the 2009's album *Old Crows / Young Cardinals*.
+[Dine Alone](https://dinealonerecords.com/) will release the track physically as a limited 7" single with an etched b-side. The band's recent singles are their first studio material since 2010's *Dog's Blood* EP and the 2009's album *Old Crows / Young Cardinals*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ug0AiLTpPLM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Listen: Alexisonfire - "Season of the Flood" @ YouTube](https://youtu.be/Ug0AiLTpPLM "#")
 
-Alexis are playing those western dates alongside L.A. punks The Distillers and Montreal garage-rock quartet [NOBRO](https://nobro.bandcamp.com/). The latter recently announced an EP through [Dine Alone](http://dinealonerecords.com/), titled *Sick Hustle*. It arrives on April 3. You can hear the sugar-bomb first single from the set, "Marianna," linked below.
+Alexis are playing those western dates alongside L.A. punks The Distillers and Montreal garage-rock quartet [NOBRO](https://nobro.bandcamp.com/). The latter recently announced an EP through [Dine Alone](https://dinealonerecords.com/), titled *Sick Hustle*. It arrives on April 3. You can hear the sugar-bomb first single from the set, "Marianna," linked below.
 
 In a statement vocalist/bassist Kathryn McCaughey commented on the track:
 

@@ -61,7 +61,7 @@ Toronto's post-punk trio [WHIMM](https://whimm.bandcamp.com/) have released thei
 
 [Watch: WHIMM - "Fifth Column" (live) @ YouTube](https://www.youtube.com/watch?v=0aP7J5KLy04 "#")
 
-Ottawa's [New Swears](https://newswears.bandcamp.com/)' haven't stopped touring since the release of *and the Magic of Horses* earlier this year on [Dine Alone](http://dinealonerecords.com/). The party-punk group's latest video, for the song "Walkin' to Rockin'" features members of the band as the world's worst valets. I'm pretty sure I drive some variant of the car they desecrate in this video.
+Ottawa's [New Swears](https://newswears.bandcamp.com/)' haven't stopped touring since the release of *and the Magic of Horses* earlier this year on [Dine Alone](https://dinealonerecords.com/). The party-punk group's latest video, for the song "Walkin' to Rockin'" features members of the band as the world's worst valets. I'm pretty sure I drive some variant of the car they desecrate in this video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fjW1IflJW_A?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
 

@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: News and music from The Dirty Nil, the Flatliners, Psychic Void, Lonely Parade, Isla Craig, Booji Boys, Feel Alright, Dumb, DBoy, NEEDS, Bruce Haack, the Highest Order, and more.
 ---
 
-Dundas, Ontario's three-piece rock combo [The Dirty Nil](https://thedirtynil.bandcamp.com/) have announced their sophomore full length. *Master Volume* will arrive on September 14 through [Dine Alone Records](http://dinealonerecords.com/). It follows up 2016's *Higher Power*, not to mention a whirlwind of touring (including extended runs with Florida punk heroes Against Me!), a "Breakthrough Group of the Year" JUNO, and a major personnel change.
+Dundas, Ontario's three-piece rock combo [The Dirty Nil](https://thedirtynil.bandcamp.com/) have announced their sophomore full length. *Master Volume* will arrive on September 14 through [Dine Alone Records](https://dinealonerecords.com/). It follows up 2016's *Higher Power*, not to mention a whirlwind of touring (including extended runs with Florida punk heroes Against Me!), a "Breakthrough Group of the Year" JUNO, and a major personnel change.
 
 The band's first single from the new set is "Bathed In Light," a huge power-pop track that resulted from sessions with veteran alt-rock producer John Goodmanson (Sleater-Kinney, Bikini Kill). It establishes a theme of car crashes that's said to recur throughout the album. Guitarist/vocalist Luke Bentham commented on that, and the track's origins, in the press release:
 

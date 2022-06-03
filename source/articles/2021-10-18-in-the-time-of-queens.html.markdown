@@ -118,7 +118,7 @@ Hellbent recorded *Primitive Hits* with [Cancer Bats](http://www.cancerbats.com/
 
 In case you missed it last week, Montreal punks [NOBRO](https://nobro.bandcamp.com/) unveiled a massively hooky new single titled "Better Each Day." You can now take it in through a new music video running where music videos run. Go check it out.
 
-"Better Each Day" arrives through [Dine Alone Records](http://dinealonerecords.com/) as the first follow-up to 2020's *Sick Hustle* EP. Dave Schiffman (PUP, The OBGMs, Bad Waitress) mixed the track. NOBRO features vocalist/bassist Kathryn McCaughey, guitarist Karolane Carbonneau, Lisandre Bourdages on keys and percussion, and drummer Sarah Dion.
+"Better Each Day" arrives through [Dine Alone Records](https://dinealonerecords.com/) as the first follow-up to 2020's *Sick Hustle* EP. Dave Schiffman (PUP, The OBGMs, Bad Waitress) mixed the track. NOBRO features vocalist/bassist Kathryn McCaughey, guitarist Karolane Carbonneau, Lisandre Bourdages on keys and percussion, and drummer Sarah Dion.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8GZ9PKPlKrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -129,7 +129,7 @@ Dundas power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) recently sh
 
 The video also arrives on the heels of a lineup shuffle, with bassist Ross Miller stepping aside from the boisterous group. Instead, the Nil's upcoming tours will feature Sam Tomlinson of [Captain Wildchild](https://captainwildchild.bandcamp.com) filling in on the low end. Miller was the band's second bassist, taking over for Dave Nardi in the wake of 2016's *Higher Power*. He's currently running the tape label [Weepy Eye](https://weepyeye.bandcamp.com/).
 
-*Fuck Art* arrived on January 1 from [Dine Alone Records](http://dinealonerecords.com/), following up 2018's *Master Volume*.
+*Fuck Art* arrived on January 1 from [Dine Alone Records](https://dinealonerecords.com/), following up 2018's *Master Volume*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xV4CpcXjusM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

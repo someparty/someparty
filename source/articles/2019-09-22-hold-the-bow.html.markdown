@@ -132,7 +132,7 @@ Frontman Luke Bentham commented on the new track in a press release:
 
 Mitch Barnes and Victor Malang directed the "Idiot Victory" video. The Dirty Nil will play with London punks [Single Mothers](https://singlemothersband.bandcamp.com/) and Brampton hip hop/hardcore act [Dear-God](https://deardashgod.com/) on the tour.
 
-*Master Volume* was the band's second LP of new material for [Dine Alone Records](http://dinealonerecords.com/) following 2016's *Higher Power*. Throughout the summer the band released pairs of cover songs as part of a four-volume set titled *You're Welcome*.
+*Master Volume* was the band's second LP of new material for [Dine Alone Records](https://dinealonerecords.com/) following 2016's *Higher Power*. Throughout the summer the band released pairs of cover songs as part of a four-volume set titled *You're Welcome*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KDOKeVT6jAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

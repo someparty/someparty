@@ -59,7 +59,7 @@ Montreal's [Laura Sauvage](http://www.laurasauvage.com/) has released a video fr
 
 [Watch: Laura Sauvage - "Alien (Anything Like It, Have You?)" @ YouTube](https://www.youtube.com/watch?v=2SdN-gzBFhA&feature=youtu.be "#")
 
-[Sam Coffey and the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) have released a video for the song "Pressure" from their recent [Dine Alone](http://dinealonerecords.com/)/[Burger Records](http://burgerrecords.com/) self-titled full length. The video was directed, edited, and produced by Nick Benidt, and was shot entirely on a Fischer Price PXL-2000. That's a toy camera from 1978 that records video to audio cassettes. For this shoot, they recorded over a cassette copy of the band's previous album *Gates of Hell*.
+[Sam Coffey and the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) have released a video for the song "Pressure" from their recent [Dine Alone](https://dinealonerecords.com/)/[Burger Records](http://burgerrecords.com/) self-titled full length. The video was directed, edited, and produced by Nick Benidt, and was shot entirely on a Fischer Price PXL-2000. That's a toy camera from 1978 that records video to audio cassettes. For this shoot, they recorded over a cassette copy of the band's previous album *Gates of Hell*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KAtZP6tzgmc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 

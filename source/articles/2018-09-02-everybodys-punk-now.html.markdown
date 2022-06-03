@@ -25,7 +25,7 @@ So who are the Mark Vodka Group? While they've not made much of an effort to ann
 
 [Listen: The Mark Vodka Group - 3 songs from *Mark's Blues* @ Bandcamp](http://markvodka.bandcamp.com/album/3-songs-from-marks-blues "#")
 
-London punk group [Single Mothers](https://singlemothersband.bandcamp.com/) re-emerged last week with an (apparent) one-off single titled "Switch Off." It follows the band's 2017 Wade MacNeil-produced / [Dine Alone](http://dinealonerecords.com/)-released LP *Our Pleasure*. Everyone's tight-lipped on whether this is the precursor to something more.
+London punk group [Single Mothers](https://singlemothersband.bandcamp.com/) re-emerged last week with an (apparent) one-off single titled "Switch Off." It follows the band's 2017 Wade MacNeil-produced / [Dine Alone](https://dinealonerecords.com/)-released LP *Our Pleasure*. Everyone's tight-lipped on whether this is the precursor to something more.
 
 The past few months have seen Single Mothers frontman [Drew Thomson](https://drewthomson.bandcamp.com) working his decidedly more pop-oriented solo EP titled *Stay*. That sound doesn't seem to have migrated back into Single Mothers' toolkit, as "Switch Off" finds the band fast and angry.
 

@@ -194,7 +194,7 @@ All funds raised by the song are due for the Indian Residential School Survivors
 
 Toronto punk quartet [Pkew Pkew Pkew](https://www.pkewx3.com/) recently shared the second single from the upcoming LP *Open Bar*. You can stream "Drinking in the Park," a song that needs no further explanation, over on YouTube. The track follows "Maybe Someday" in previewing the record.
 
-The new album finds the Pkew Pkew Pkew working with producer Jon Drew (Fucked Up, METZ). Not counting the *Expedition Denied* EP that surfaced in frustration during the band's pandemic downtime, the *Open Bar* formally follows up on 2019's *Optimal Lifestyles*. It arrives May 13 through [Dine Alone Records](http://dinealonerecords.com/).
+The new album finds the Pkew Pkew Pkew working with producer Jon Drew (Fucked Up, METZ). Not counting the *Expedition Denied* EP that surfaced in frustration during the band's pandemic downtime, the *Open Bar* formally follows up on 2019's *Optimal Lifestyles*. It arrives May 13 through [Dine Alone Records](https://dinealonerecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lNMQusZ7E4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

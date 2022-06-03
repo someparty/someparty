@@ -84,7 +84,7 @@ Ottawa party punk outfit [New Swears](https://newswears.bandcamp.com/) shared a 
 
 >"At one point after the show we found some permanent markers and we were all drawing on each other’s bodies, doing each other’s makeup and making questionable choices. The boys then headed back to the house we were crashing at but I decided to stick around with the locals. The Germans are quite good at the drinking. This is when everything goes black and the next 3 hours of my memory are completely lost. Once I snapped back into it I am completely alone on the streets of Hamburg, phone dead, nothing on me but two packs of cigarettes and 2 lighters..."
 
-You can read the full account at Atwood. *Night Mirror* arrives on June 13 from [Dine Alone Records](http://dinealonerecords.com/), following up 2017's *and the Magic of Horses*.
+You can read the full account at Atwood. *Night Mirror* arrives on June 13 from [Dine Alone Records](https://dinealonerecords.com/), following up 2017's *and the Magic of Horses*.
 
 I should note that the band recently addressed a controversy in the Ottawa music community stemming from the DIY music venue they once ran (the [Fun Boy Club House](https://www.ottawashowbox.com/2013/11/fun-boy-club-house/), which shut down in 2013). The band spoke to the unspecified concerns in a statement at [Facebook](https://www.facebook.com/NewSwears/posts/2928437483834803).
 

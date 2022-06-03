@@ -58,7 +58,7 @@ Speaking of [Black Mountain](http://www.blackmountainarmy.com/), the popular Van
 
 > "A riff in A flat and some Neu / Nugent / Newman Motorik hustle. Was the vacation better than the journey or did the drive etch itself into your soul? I'd like to thank the DMV for the inspiration."
 
-The new song follows the previously shared album cuts "Boogie Lover" and "Future Shade." All three will be part of the band's upcoming 8-song LP, which arrives on May 24 from [Dine Alone](http://dinealonerecords.com/) and [Jagjaguwar](https://jagjaguwar.com/). It follows their 2016 full-length *IV*.
+The new song follows the previously shared album cuts "Boogie Lover" and "Future Shade." All three will be part of the band's upcoming 8-song LP, which arrives on May 24 from [Dine Alone](https://dinealonerecords.com/) and [Jagjaguwar](https://jagjaguwar.com/). It follows their 2016 full-length *IV*.
 
 *Destroyer* features McBean and longtime player Jeremy Schmidt with new collaborators Rachel Fannan (Sleepy Sun) and Adam Bulgasem (Dommengang, Soft Kill). Returning guests this time out include Kliph Scurlock (Flaming Lips), Kid Millions (Oneida), and John Congleton (producer for St. Vincent, Cloud Nothings).
 

@@ -36,7 +36,7 @@ Monkman spoke to [Exclaim](https://exclaim.ca/music/article/ombiigizi_zoon_statu
 
 Toronto alt-country mainstays [The Sadies](http://www.thesadies.net/) have a new single in the wild. "Stop and Start" doesn't deviate from the quartet's well-established take on garagey Americana, but why mess with perfection? The song provides our first glimpse into sessions recorded with Arcade Fire's [Richard Reed Parry](https://richardreedparry.com/) producing. You can check it out below in a lyric video directed by Mike Dubue.
 
-A new single, of course, suggests a new record, but there's no word on that yet. The band last released *Northern Passages* in 2017 through [Dine Alone](http://dinealonerecords.com/) and [Yep Roc Records](https://www.yeproc.com/). I'd expect both labels to be on board or this next round as well.
+A new single, of course, suggests a new record, but there's no word on that yet. The band last released *Northern Passages* in 2017 through [Dine Alone](https://dinealonerecords.com/) and [Yep Roc Records](https://www.yeproc.com/). I'd expect both labels to be on board or this next round as well.
 
 The Sadies are playing a short run of shows in Ontario over the next few weeks, including a gig supporting Buffy Sainte-Marie at Massey Hall. You can find the full routing on their website. The Sadies feature drummer Mike Belitsky, bassist Sean Dean, and sibling vocalists/guitar heroes Dallas and Travis Good.
 

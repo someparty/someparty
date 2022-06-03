@@ -61,7 +61,7 @@ The London, Ontario-based artist released a teaser video for the album, commenti
 
 The second single from [Black Mountain](http://www.blackmountainarmy.com/)'s upcoming full-length is now available. You can find a video for "Boogie Lover" at YouTube, a song the Vancouver psyche-rock heavies describe as "space doom for lovers." It's a little less, um, cocaine Super Nintendo than the preceding single "Future Shade," but you can't win them all.
 
-The song will appear on the band's upcoming 8-song LP *Destroyer*, which arrives on May 24 from [Dine Alone](http://dinealonerecords.com/) and [Jagjaguwar](https://jagjaguwar.com/). It follows the band's 2016 full-length *IV*.
+The song will appear on the band's upcoming 8-song LP *Destroyer*, which arrives on May 24 from [Dine Alone](https://dinealonerecords.com/) and [Jagjaguwar](https://jagjaguwar.com/). It follows the band's 2016 full-length *IV*.
 
 *Destroyer* features longtime principles Stephen McBean and Jeremy Schmidt with new players Rachel Fannan (Sleepy Sun) and Adam Bulgasem (Dommengang, Soft Kill). Returning collaborators this time out include Kliph Scurlock (Flaming Lips), Kid Millions (Oneida), and John Congleton (producer for St. Vincent, Cloud Nothings).
 

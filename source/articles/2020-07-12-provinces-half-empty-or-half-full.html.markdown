@@ -47,7 +47,7 @@ Dundas trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) has a new video o
 
 The song's the first new work from the group to arrive in the wake of their sophomore full-length *Master Volume*. Bentham, bassist Ross Miller, and drummer Kyle Fisher benefited from living together under the same roof together during the isolation period, so they've been able to put the work into their forthcoming record without tripping on the hurdles of remote collaboration.
 
-"Done With Drugs" is available now as a 7" single from [Dine Alone Records](http://dinealonerecords.com/), with a cover of Tom Petty's "Even The Losers" on the b-side.
+"Done With Drugs" is available now as a 7" single from [Dine Alone Records](https://dinealonerecords.com/), with a cover of Tom Petty's "Even The Losers" on the b-side.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SQCvnxikK9Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

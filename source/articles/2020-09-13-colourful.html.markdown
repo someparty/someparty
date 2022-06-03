@@ -91,7 +91,7 @@ Roach features vocalist/guitarist Violet DeRege Braga, drummer Carly Harris, gui
 
 [Listen: Roach - "R.I.P. Soft Serve" @ Bandcamp](https://roachband.bandcamp.com/album/r-i-p-soft-serve "#")
 
-Last week [Spencer Burton](https://www.spencerburtonmusic.com/) unveiled "Further," his first single as a part of Dallas Green's [Dine Alone](http://dinealonerecords.com/) imprint [Still Records](http://stillrecords.ca/). The lushly orchestrated track certainly feels like a step up in production value from the Niagara-area folk artist. Burton commented on the song:
+Last week [Spencer Burton](https://www.spencerburtonmusic.com/) unveiled "Further," his first single as a part of Dallas Green's [Dine Alone](https://dinealonerecords.com/) imprint [Still Records](http://stillrecords.ca/). The lushly orchestrated track certainly feels like a step up in production value from the Niagara-area folk artist. Burton commented on the song:
 
 >"'Further' was written with the world's downward spiral in mind. We've lost focus. Forgotten what matters. We are the world? But the world isn't us. I think we need to find out how to become equal parts earth and humanity without causing damage to one another. There's a balance in there somewhere."
 

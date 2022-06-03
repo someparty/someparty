@@ -30,7 +30,7 @@ Lambke and Construction & Destruction have a week of tour dates scheduled in Ont
 
 [Watch: Daniel Romano - "The Long Wheel of Time" @ YouTube](https://youtu.be/8HvgHcHzqbQ "#")
 
-Last week Toronto punk quartet [Pkew Pkew Pkew](https://www.pkewx3.com/) shared a catchy new single titled "65 Nickels." It's the latest track to emerge from the band's new collaboration with [Dine Alone Records](http://dinealonerecords.com/), following the "Passed Out" 7" that kicked things off in September. There's no word yet on what physical format this song will end up on. The band's most recent full-length, a Royal Moutain release in Canada, was reissued for the US market by SideOneDummy last fall.
+Last week Toronto punk quartet [Pkew Pkew Pkew](https://www.pkewx3.com/) shared a catchy new single titled "65 Nickels." It's the latest track to emerge from the band's new collaboration with [Dine Alone Records](https://dinealonerecords.com/), following the "Passed Out" 7" that kicked things off in September. There's no word yet on what physical format this song will end up on. The band's most recent full-length, a Royal Moutain release in Canada, was reissued for the US market by SideOneDummy last fall.
 
 Back when the band started their Dine Alone chapter, they shared that they were [running song ideas](https://www.someparty.ca/2018-09-16-passed-out/) past Craig Finn of the much revered Brooklyn rock band The Hold Steady. I can't say that little piece of trivia is necessarily related to this track, but it's worth remembering as this new material rolls out.
 

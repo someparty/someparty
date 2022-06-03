@@ -9,7 +9,7 @@ Three years out from their Thin Lizzy-worshipping self-titled LP, Toronto's [Sam
 
 >"'Back With The Gang' is our way of saying 'WE'RE BACK! AND WE'VE STILL GOT GUITARS.' We got really into junkshop glam while recording this, particularly bands like Laurice, The Equals, Slade, and Sweet. Before taking this to the studio, we tested out at shows at about half speed. We loved the song but the slow pace and high register was burning us and the people at the show out. Enter our great producer Kevin Ratterman to fix the problem! He told us to turn up the BPM and detuned the song to make it feel heavier."
 
-*Real One* features Coffey backed by Dave Tyson on keys, lead guitarist Liam Doyle, Joel "French" Desbois on rhythm guitar, bassist Richard Stanley, and drummer Connor Glen. Guests on the record include vocalist Siânteuse, [Destroyer](https://destroyer.bandcamp.com/)'s Joseph Shabason on sax, and a string quartet arranged by Paul Erlichman of [Ducks Unlimited](http://ducksunlimitedband.bandcamp.com). This will be the Iron Lungs' second outing with [Dine Alone Records](http://dinealonerecords.com/).
+*Real One* features Coffey backed by Dave Tyson on keys, lead guitarist Liam Doyle, Joel "French" Desbois on rhythm guitar, bassist Richard Stanley, and drummer Connor Glen. Guests on the record include vocalist Siânteuse, [Destroyer](https://destroyer.bandcamp.com/)'s Joseph Shabason on sax, and a string quartet arranged by Paul Erlichman of [Ducks Unlimited](http://ducksunlimitedband.bandcamp.com). This will be the Iron Lungs' second outing with [Dine Alone Records](https://dinealonerecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ZUzoJR8afk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -196,7 +196,7 @@ Dundas power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) have a new 
 
 >"for once, we tried to make a video without the risk of death or maiming. No explosions, no fire, just flowers and good vibes. However, the heavens declared against us and I was almost killed by an allergic reaction to a horse. My head ballooned up like a goddamn melon and my skin felt like fire. Moral of the story is: wherever we go, chaos rides shotgun."
 
-The new tune follows "Done With Drugs" and "Doom Boy" in previewing the upcoming record, the band's third. The album is due from [Dine Alone Records](http://dinealonerecords.com/) on January 1, 2021. The trio, featuring Bentham on guitar and vocals backed by bassist Ross Miller and drummer Kyle Fisher, follows up on 2018's *Master Volume*.
+The new tune follows "Done With Drugs" and "Doom Boy" in previewing the upcoming record, the band's third. The album is due from [Dine Alone Records](https://dinealonerecords.com/) on January 1, 2021. The trio, featuring Bentham on guitar and vocals backed by bassist Ross Miller and drummer Kyle Fisher, follows up on 2018's *Master Volume*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qfo3JYLVGTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

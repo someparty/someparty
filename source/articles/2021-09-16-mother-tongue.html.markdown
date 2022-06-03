@@ -98,7 +98,7 @@ Following up on last week's news, the Vancouver deathrock quintet [Spectres](htt
 ###[Chastity](https://chastitysongs.bandcamp.com): "Pummeling"
 ==Watch on [YouTube](https://youtu.be/7veKR5ruhyw)==
 
-Whitby alt-rockers [Chastity](https://chastitysongs.bandcamp.com) continue their journey into suburban angst with *Suffer Summer*, their third LP and first for the band's new US home of [Deathwish Inc](https://deathwishinc.com/). [Dine Alone](http://dinealonerecords.com/)'s carrying the album in Canada, with a release date set for January 13, 2022. The news came with the record's second preview, a buoyant pop-punk single titled "Pummeling" (we heard "Dying to Live" a few weeks back). Singer/songwriter Brandon Williams commented on the emo-flavoured track in a statement:
+Whitby alt-rockers [Chastity](https://chastitysongs.bandcamp.com) continue their journey into suburban angst with *Suffer Summer*, their third LP and first for the band's new US home of [Deathwish Inc](https://deathwishinc.com/). [Dine Alone](https://dinealonerecords.com/)'s carrying the album in Canada, with a release date set for January 13, 2022. The news came with the record's second preview, a buoyant pop-punk single titled "Pummeling" (we heard "Dying to Live" a few weeks back). Singer/songwriter Brandon Williams commented on the emo-flavoured track in a statement:
 
 >"'Pummeling' was a place I was afraid to go, I've been so focused on my music being challenging, technical, and correct. But on this, I wanted to allow myself to go simple, out of my comfort zone."
 
@@ -128,7 +128,7 @@ The new record finds Casper Skulls rebuilding around St-Pierre as their sole lea
 
 >"This song is about not running away from suffering. It's about feeling it, living it, and moving past it."
 
-The album arrives on October 20 from [Dine Alone Records](http://dinealonerecords.com/). MacNeil recorded live-off-the-floor in Welland, Ontario, with [Daniel Romano](https://danielromano.bandcamp.com) co-producing. Those studio sessions featured percussion from Ian Romano (Daniel Romano's Outfit, [Career Suicide](https://careersuicide.bandcamp.com/)) and additional guitars from Patrick Bennett ([Mountain Dust](https://mountaindust.bandcamp.com/)).
+The album arrives on October 20 from [Dine Alone Records](https://dinealonerecords.com/). MacNeil recorded live-off-the-floor in Welland, Ontario, with [Daniel Romano](https://danielromano.bandcamp.com) co-producing. Those studio sessions featured percussion from Ian Romano (Daniel Romano's Outfit, [Career Suicide](https://careersuicide.bandcamp.com/)) and additional guitars from Patrick Bennett ([Mountain Dust](https://mountaindust.bandcamp.com/)).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6oB5Zi_p1bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -21,7 +21,7 @@ The new full length from Toronto's [Teenanger](https://teenanger.bandcamp.com/),
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/AHjGLOr4z7M?rel=0" frameborder="0" allowfullscreen></iframe>
 
-With the July 28th release date of their self-titled [Dine Alone](http://dinealonerecords.com/) debut fast approaching, [Sam Coffey & the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) continue to share clips from the new record. Just wait for the soaring chorus in "Ragnarok" to hit for a perfect example of the big 80s pop influence that's taken hold on this outing from the denim-vested punk band.
+With the July 28th release date of their self-titled [Dine Alone](https://dinealonerecords.com/) debut fast approaching, [Sam Coffey & the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/) continue to share clips from the new record. Just wait for the soaring chorus in "Ragnarok" to hit for a perfect example of the big 80s pop influence that's taken hold on this outing from the denim-vested punk band.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/4BnsOsTmIYQ?rel=0" frameborder="0" allowfullscreen></iframe>
 

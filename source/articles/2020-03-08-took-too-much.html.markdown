@@ -79,7 +79,7 @@ In the lead-up to the awards, the Dundas, Ontario trio was also recently profile
 
 > "That, in and of itself, is an accomplishment... We definitely have some pretty gnarly punk roots and we lean into that sound from time to time, but we consider ourselves a rock'n'roll band. To be recognized in that category, that's worth the award in my books alone. That's an important distinction. You can call us whatever you want — it's highly subjective, obviously — but just to be considered in that category is important for us."
 
-The Nil are nominated for *Master Volume*, their sophomore LP for [Dine Alone Records](http://dinealonerecords.com/). The Junos will be handed out in Saskatoon on Sunday, March 13.
+The Nil are nominated for *Master Volume*, their sophomore LP for [Dine Alone Records](https://dinealonerecords.com/). The Junos will be handed out in Saskatoon on Sunday, March 13.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vvx1BocERqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -97,7 +97,7 @@ Montreal's high-energy [NOBRO](https://nobro.bandcamp.com/) continues to roll ou
 
 >"The song almost wrote itself. The 'Julia-ya ya' hook had been in my head for a couple days and with the help of our producer Thom D'Arcy we put together enough of a demo to make the song make sense, but the real magic happened when we went to record it. We couldn't decide on a speed at first because our normal 'shred your face off' pace was not the vibe, but then we decided it was OK to live life mid-tempo. And voilà, the song was born."
 
-The new material arrives via [Dine Alone Records](http://dinealonerecords.com/) as the follow-up to 2020's *Sick Hustle* EP. NOBRO features vocalist/bassist Kathryn McCaughey, guitarist Karolane Carbonneau, Lisandre Bourdages on keys and percussion, and drummer Sarah Dion.
+The new material arrives via [Dine Alone Records](https://dinealonerecords.com/) as the follow-up to 2020's *Sick Hustle* EP. NOBRO features vocalist/bassist Kathryn McCaughey, guitarist Karolane Carbonneau, Lisandre Bourdages on keys and percussion, and drummer Sarah Dion.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1DCzg6uoWLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -151,7 +151,7 @@ Total Waste features Dave on vocals, Alexis on bass, J-M on guitar, and Elie dru
 ###[Chastity](https://chastitysongs.bandcamp.com): "Vicious Circle" (ft. City and Colour)
 ==Watch on [YouTube](https://youtu.be/d8qEkkfH3S8)==
 
-Last week Whitby alt-rockers [Chastity](https://chastitysongs.bandcamp.com) shared "Vicious Circle," a vulnerable song that pairs singer/songwriter Brandon Williams with [City and Colour](https://www.cityandcolour.com/)'s Dallas Green. The track arrives as the fourth single for the upcoming LP *Suffer Summer*, out January 13 through [Deathwish Inc](https://deathwishinc.com/) and [Dine Alone](http://dinealonerecords.com/). In a statement, Williams commented:
+Last week Whitby alt-rockers [Chastity](https://chastitysongs.bandcamp.com) shared "Vicious Circle," a vulnerable song that pairs singer/songwriter Brandon Williams with [City and Colour](https://www.cityandcolour.com/)'s Dallas Green. The track arrives as the fourth single for the upcoming LP *Suffer Summer*, out January 13 through [Deathwish Inc](https://deathwishinc.com/) and [Dine Alone](https://dinealonerecords.com/). In a statement, Williams commented:
 
 >"Once the strings were recorded, I felt like the song became too beautiful for my voice honestly. I needed help living up to the song's potential, and asked Dallas Green if he would sing on it with me. Was genuinely so shocked and excited that he was down. Once he was on the song it turned out way friggin better than what I ever could've hoped."
 

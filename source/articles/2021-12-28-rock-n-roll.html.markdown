@@ -87,7 +87,7 @@ The new material follows a string of digital singles issued over the past few ye
 ###[Mr. Power](https://mrpower.bandcamp.com/): "Santa Is Not Real"
 ==Preview and purchase at [Bandcamp](https://mrpower.bandcamp.com/track/santa-is-not-real)==
 
-Just a few weeks ago, I shared some updates from Ottawa's [Mr. Power](https://mrpower.bandcamp.com/), who, along with the rest of the  [Clubhouse Recording Club](https://www.instagram.com/the.clubhouse.recording.club/) roster, hyped a New Years Eve gig at the Dominion Tavern. As we all know, the public health situation in Ontario (and elsewhere) has since gone rather exponentially awry, and you can hear some of that frustration in the warped "Santa Is Not Real," a new track written and recorded on Christmas Eve.
+Just a few weeks ago, I shared some updates from Ottawa's [Mr. Power](https://mrpower.bandcamp.com/), who, along with the rest of the [Clubhouse Recording Club](https://www.instagram.com/the.clubhouse.recording.club/) roster, hyped a New Years Eve gig at the Dominion Tavern. As we all know, the public health situation in Ontario (and elsewhere) has since gone rather exponentially awry, and you can hear some of that frustration in the warped "Santa Is Not Real," a new track written and recorded on Christmas Eve.
 
 Mr. Power is the formal odd-pop moniker of Mikey Power, of Ottawa surf-punks [The Thrill](https://thethrillthethrill.bandcamp.com/). In June he released *Romance*, a five-song digital EP, through Clubhouse.
 

@@ -162,7 +162,7 @@ Suburban-angst-rockers [Chastity](https://chastitysongs.bandcamp.com) has a new 
 
 >"This is the most nonfiction Chastity song — it's about my friend Andrew who died in a Salvation Army shelter in London [Ontario], meters away from where we record everything. He was the first outsider I ever met. I was such a Quiksilver-wearing elementary-school kid, and he was older and was like, 'Have you seen this Zero skate video called 'Dying to Live?' Neil Young was on that soundtrack, Slayer was on there, Nirvana — it was an insane soundtrack. He showed me that and The Misfits, and it really opened my world. After I met him, I grew my hair long, and it was, like, on for me. Andrew was a path changer for me, so learning about him dying was a fucking brutal heart-sinker."
 
-*Suffer Summer* arrived in January through [Deathwish Inc](https://deathwishinc.com/) and [Dine Alone](http://dinealonerecords.com/). It completed a thematic trilogy of records that started with 2018's *Death Lust* and continued with *Home Made Satan* in 2019.
+*Suffer Summer* arrived in January through [Deathwish Inc](https://deathwishinc.com/) and [Dine Alone](https://dinealonerecords.com/). It completed a thematic trilogy of records that started with 2018's *Death Lust* and continued with *Home Made Satan* in 2019.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HDFjhAIVGDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

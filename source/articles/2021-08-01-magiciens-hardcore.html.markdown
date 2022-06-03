@@ -104,7 +104,7 @@ A press release sheds some light on how the project came together:
 
 Anyone familiar with [Sam Coffey and The Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com)' earlier work knows the band dabbled in country music long before they blossomed into the punky next coming of Thin Lizzy. Frontman [Sam Coffey](https://sambcoffey.bandcamp.com) certainly hasn't forgotten and used the lockdown downtime to assemble an entire album of twangy, home-recorded solo tunes. You can hear "Hard Livin'" now, our first preview of an upcoming record titled *Big Thyme*.
 
-We've been waiting anxiously for the Iron Lungs to hit the road in support of their excellent third LP *Real One*, released in February through [Dine Alone Records](http://dinealonerecords.com/). The band recently returned to the stage to play the outdoor [River and Sky](https://riverandsky.ca/) festival, one of the first Ontario music festivals to return to action this year.
+We've been waiting anxiously for the Iron Lungs to hit the road in support of their excellent third LP *Real One*, released in February through [Dine Alone Records](https://dinealonerecords.com/). The band recently returned to the stage to play the outdoor [River and Sky](https://riverandsky.ca/) festival, one of the first Ontario music festivals to return to action this year.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2890180664/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://sambcoffey.bandcamp.com/track/hard-livin">Hard Livin&#39; by Sam Coffey</a></iframe>
 
@@ -117,7 +117,7 @@ Last week [Wade MacNeil](http://www.wademacneil.com/) issued a second single fro
 
 The song arrived alongside a video from director Mitch Barns that leans into hippie tropes, providing a humorous counterpoint to all that vulnerability. You can check it out on YouTube now.
 
-The self-titled Dooms Children LP arrives on October 20 from [Dine Alone Records](http://dinealonerecords.com/). MacNeil recorded live-off-the-floor in Welland, Ontario, with [Daniel Romano](https://danielromano.bandcamp.com) co-producing. The record features percussion from Ian Romano (Daniel Romano's Outfit, [Career Suicide](https://careersuicide.bandcamp.com/)) and additional guitars from Patrick Bennett ([Mountain Dust](https://mountaindust.bandcamp.com/)).
+The self-titled Dooms Children LP arrives on October 20 from [Dine Alone Records](https://dinealonerecords.com/). MacNeil recorded live-off-the-floor in Welland, Ontario, with [Daniel Romano](https://danielromano.bandcamp.com) co-producing. The record features percussion from Ian Romano (Daniel Romano's Outfit, [Career Suicide](https://careersuicide.bandcamp.com/)) and additional guitars from Patrick Bennett ([Mountain Dust](https://mountaindust.bandcamp.com/)).
 
 As a member of the reunited post-hardcore heroes [Alexisonfire](https://www.theonlybandever.com/), Wade took part in several recent one-off singles ("Season of the Flood," "Familiar Drugs," and "Complicit"). In the years since Alexis' first run, MacNeil's notably fronted the UK hardcore group Gallows, while performing on occasion as his other solo outfit, Black Lungs. He's also worked on scores for a handful of feature films, often collaborating with filmmaker Jay Baruchel.
 

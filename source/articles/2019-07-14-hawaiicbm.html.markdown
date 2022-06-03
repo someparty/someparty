@@ -142,7 +142,7 @@ In the midst of their headlining UK tour, [Single Mothers](https://singlemothers
 
 >"'Metropolis' was recorded just before Through A Wall at Lincoln County Social Club in Toronto, Ontario. It’s a collaboration between Peter Landi and myself. I had recently moved apartments and my old landlord had sold the building we lived in and kicked everyone out. There was a real estate boom and we were all seemingly in the middle of it. Peter came to me with the song and once we were in the studio the lyrics came right away. I was just venting. A few years before I was living in my van. Sometimes it takes all the energy you have just to keep the lights on."
 
-*Through a Wall* was released on [Dine Alone](http://dinealonerecords.com/) in Canada and [Big Scary Monsters](http://www.bsmrocks.com) overseas. Drew's spent much of this year teasing the upcoming full-length from his solo pop-rock vehicle [The Drew Thomson Foundation](https://drewthomson.bandcamp.com), which is expected in the fall.
+*Through a Wall* was released on [Dine Alone](https://dinealonerecords.com/) in Canada and [Big Scary Monsters](http://www.bsmrocks.com) overseas. Drew's spent much of this year teasing the upcoming full-length from his solo pop-rock vehicle [The Drew Thomson Foundation](https://drewthomson.bandcamp.com), which is expected in the fall.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MmQ5oFkx6kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

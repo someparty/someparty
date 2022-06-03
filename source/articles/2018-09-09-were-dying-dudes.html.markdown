@@ -52,7 +52,7 @@ Frontman [Drew Thomson](https://drewthomson.bandcamp.com) commented:
 
 Single Mothers has seen many players come and go over the past few years, with Thomson as the only constant. For this record, he worked closely with Ian Romano (Attack In Black, Career Suicide) producing. A "rotating cast" of musicians play on the studio recordings (I'm not sure who yet, although Romano has said he both drums and plays some guitar on the record).
 
-*Through A Wall* follows the band's 2017 LP *Our Pleasure* and Thomson's recent EP *Stay* as the [Drew Thomson Foundation](https://drewthomson.bandcamp.com). The new record is out now on [Dine Alone](http://dinealonerecords.com/) here and [Big Scary Monsters](http://www.bsmrocks.com) in the UK. A video for the songs "Dog Parks" and "Switch Off," directed by Vanessa Heins and Stef Delmedico, were shared last week when the album dropped.
+*Through A Wall* follows the band's 2017 LP *Our Pleasure* and Thomson's recent EP *Stay* as the [Drew Thomson Foundation](https://drewthomson.bandcamp.com). The new record is out now on [Dine Alone](https://dinealonerecords.com/) here and [Big Scary Monsters](http://www.bsmrocks.com) in the UK. A video for the songs "Dog Parks" and "Switch Off," directed by Vanessa Heins and Stef Delmedico, were shared last week when the album dropped.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8LbDvgvUCfI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -84,7 +84,7 @@ In addition, last week Toronto radio station [Indie 88](https://indie88.com/indi
 
 Toronto four-piece [Dilly Dally](https://dillydally.bandcamp.com/) has released a third new track previewing their upcoming record *Heaven*. You can check out a video for "Doom" below. It's one of the nine songs to slated to appear on the band's sophomore LP.
 
-Dilly Dally recorded the new album in Los Angeles with producer Rob Schnapf (Elliott Smith, Beck). It arrives September 14 on [Dine Alone Records](http://dinealonerecords.com/) in Canada and [Partisan Records](http://www.partisanrecords.com/) in the States.
+Dilly Dally recorded the new album in Los Angeles with producer Rob Schnapf (Elliott Smith, Beck). It arrives September 14 on [Dine Alone Records](https://dinealonerecords.com/) in Canada and [Partisan Records](http://www.partisanrecords.com/) in the States.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IexyDzpX6_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

@@ -59,7 +59,7 @@ The members of School Damage waited out the pandemic with several side projects.
 ###[Dboy](https://www.dboylove.com): "Post Modern Trash"
 ==Watch at [YouTube](https://youtu.be/IjjIQIa9xM4)==
 
-The gimp-masked, Soviet-Welland punk trio [Dboy](https://www.dboylove.com) returned this week with *Post Modern Trash*, a four-song EP issued digitally through [Dine Alone](http://dinealonerecords.com/). The set's aggressive title track landed alongside a video by director Corduroy Paco. The band hyped the EP with their usual aplomb:
+The gimp-masked, Soviet-Welland punk trio [Dboy](https://www.dboylove.com) returned this week with *Post Modern Trash*, a four-song EP issued digitally through [Dine Alone](https://dinealonerecords.com/). The set's aggressive title track landed alongside a video by director Corduroy Paco. The band hyped the EP with their usual aplomb:
 
 >"From the band that stole the 'here and now' from the blind claws of regression, Dboy presents four new plays for the pace age. A rapid, sonic test; an unploughed field. Three beads of sweat no cloth can arrest. Self-reflexive songs for self reflexive people -- the boy is the brick, the book, and the steeple."
 

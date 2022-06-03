@@ -105,7 +105,7 @@ Ducks Unlimited will play a record release show on [December 5](https://www.face
 
 [Listen: Ducks Unlimited - "Anhedonia" @ YouTube](https://youtu.be/RF2SqoXIEDE "#" )
 
-Andrew Woods' off-kilter yacht-rock project [Legal Vertigo](https://www.facebook.com/legalvertigo/) has a new single up. "Feelin' Finite" will appear on the project's debut full-length *Tragic Future Film Star* on November 15. It's due from [Dine Alone Records](http://dinealonerecords.com/). The new track was accompanied by a video directed by fellow singer-songwriter [Basia Bulat](http://basiabulat.com/). You can check it out below.
+Andrew Woods' off-kilter yacht-rock project [Legal Vertigo](https://www.facebook.com/legalvertigo/) has a new single up. "Feelin' Finite" will appear on the project's debut full-length *Tragic Future Film Star* on November 15. It's due from [Dine Alone Records](https://dinealonerecords.com/). The new track was accompanied by a video directed by fellow singer-songwriter [Basia Bulat](http://basiabulat.com/). You can check it out below.
 
 Based in Montreal, Woods and Bulat have been collaborating on this project for a few years. The act originally performed under the name Napster Vertigo.
 

@@ -69,7 +69,7 @@ Casper Skulls last released the full-length *Mercy Works* on [Buzz Records](http
 ###[Chastity](https://chastitysongs.bandcamp.com): "Dying to Live"
 ==Watch on [YouTube](https://youtu.be/tbdSSAhRCsQ) - Preview and purchase at [Bandcamp](https://chastitysongs.bandcamp.com/album/dying-to-live)==
 
-Suburban Whitby alt-rockers [Chastity](https://chastitysongs.bandcamp.com) recently resurfaced with another standalone single. "Dying to Live" arrived last week through [Dine Alone Records](http://dinealonerecords.com/) and the band's new US home of [Deathwish Inc](https://deathwishinc.com/). Singer/songwriter Brandon Williams commented:
+Suburban Whitby alt-rockers [Chastity](https://chastitysongs.bandcamp.com) recently resurfaced with another standalone single. "Dying to Live" arrived last week through [Dine Alone Records](https://dinealonerecords.com/) and the band's new US home of [Deathwish Inc](https://deathwishinc.com/). Singer/songwriter Brandon Williams commented:
 
 >"The song is about the feeling of not being able to live without someone, as though life won't start again until they're back again. The title 'Dying to Live' was inspired by an old 'Zero' skate video from 2002. The video had the best soundtrack. Nirvana, Slayer, Neil Young - it definitely helped inform my taste growing up."
 

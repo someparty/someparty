@@ -125,7 +125,7 @@ Dundas power-trio [The Dirty Nil](https://thedirtynil.bandcamp.com/) recently re
 
 > "It gives us great pleasure to reintroduce these songs to the world, at the volume they were meant to be heard."
 
-The "Queen Bitch" cover originally appeared as the b-side to the "Bathed in Light" 7" (all of the *You're Welcome* tracks actually first surfaced on a 2018 [8-track](https://www.discogs.com/The-Dirty-Nil-Youre-Welcome/release/12846772) of which 15 were ever made... but I assume you're not rocking one of those). The Dirty Nil's spent much of the last year on the road supporting *Master Volume*, their second LP of new material for [Dine Alone Records](http://dinealonerecords.com/) following 2016's *Higher Power*.
+The "Queen Bitch" cover originally appeared as the b-side to the "Bathed in Light" 7" (all of the *You're Welcome* tracks actually first surfaced on a 2018 [8-track](https://www.discogs.com/The-Dirty-Nil-Youre-Welcome/release/12846772) of which 15 were ever made... but I assume you're not rocking one of those). The Dirty Nil's spent much of the last year on the road supporting *Master Volume*, their second LP of new material for [Dine Alone Records](https://dinealonerecords.com/) following 2016's *Higher Power*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dfQ7CyLN1Ks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -162,7 +162,7 @@ The quartet, Jason Corbett, Shannon Hemmett, Jahmeel Russell, and Adam Fink, hav
 
 Ottawa party-punk outfit [New Swears](https://newswears.bandcamp.com/) brought the alt-country leanings of their early work back to the fore on their recently released long-player *Night Mirror*, crafting a series of long-haul road songs like "Wheels." The group now has a video online featuring that very track. You can find it below.
 
-*Night Mirror* arrived in June from [Dine Alone Records](http://dinealonerecords.com/), following up 2017's *and the Magic of Horses*. The group's set to play the Toronto release show for that record on [August 16](https://www.facebook.com/events/351470555536235/) at the Monarch Tavern, featuring appearances from [Teen Archer](https://teenarcher.bandcamp.com/), [The Thrill](https://thethrillthethrill.bandcamp.com/), and [Man Crush](https://mancrush.bandcamp.com/).
+*Night Mirror* arrived in June from [Dine Alone Records](https://dinealonerecords.com/), following up 2017's *and the Magic of Horses*. The group's set to play the Toronto release show for that record on [August 16](https://www.facebook.com/events/351470555536235/) at the Monarch Tavern, featuring appearances from [Teen Archer](https://teenarcher.bandcamp.com/), [The Thrill](https://thethrillthethrill.bandcamp.com/), and [Man Crush](https://mancrush.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EBAn5_PZMh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

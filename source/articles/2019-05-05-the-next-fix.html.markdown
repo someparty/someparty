@@ -102,7 +102,7 @@ Toronto's lo-fi rock duo [Low Sun](https://low--sun.bandcamp.com/) may be off to
 
 [Listen; Low Sun - "Don't Look" @ Post-Trash](http://post-trash.com/news/2019/5/1/low-sun-dont-look-post-trash-premiere "#")
 
-Toronto punk quartet [Pkew Pkew Pkew](https://www.pkewx3.com/) have a new video online for the song "I Don't Matter at All." Shawn Kosmerly directed the clip. The band implores you to watch this one all the way through to the end ("cause it's a masterpiece"). The song appears on the group's latest LP, *Optimal Lifestyles*, released this past March on [Dine Alone Records](http://dinealonerecords.com/).
+Toronto punk quartet [Pkew Pkew Pkew](https://www.pkewx3.com/) have a new video online for the song "I Don't Matter at All." Shawn Kosmerly directed the clip. The band implores you to watch this one all the way through to the end ("cause it's a masterpiece"). The song appears on the group's latest LP, *Optimal Lifestyles*, released this past March on [Dine Alone Records](https://dinealonerecords.com/).
 
 Pkew Pkew Pkew recently confirmed that they'll soon make their U.S. network TV debut. The group's scheduled to appear on Late Night with Seth Meyers on May 15.
 

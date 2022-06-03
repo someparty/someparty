@@ -37,7 +37,7 @@ Among their upcoming tour dates, the New Pornographers will be headlining the Fr
 
 [Listen: The New Pornographers - "The Surprise Knock" @ YouTube](https://youtu.be/x4r5tAcxMhc "#")
 
-[Dine Alone Records](http://dinealonerecords.com/) have set a November 15 release date for *Tragic Future Film Star*, the debut full-length from Andrew Woods' askew yacht-rock project [Legal Vertigo](https://www.facebook.com/legalvertigo/). Based in Montreal, Woods had been performing similar material in recent years alongside singer-songwriter [Basia Bulat](http://basiabulat.com/) under the name Napster Vertigo. One has to assume that whoever holds the trademark to the long-dead file sharing service wasn't entirely hip to that, hence the change. (As a side-note, it's also worth digging into some of the early Napster Vertigo [show reviews](https://exclaim.ca/music/article/alvvays_napster_vertigo-mod_club_theatre_toronto_on_december_12), as the band's stage antics tell you something about their approach to this material).
+[Dine Alone Records](https://dinealonerecords.com/) have set a November 15 release date for *Tragic Future Film Star*, the debut full-length from Andrew Woods' askew yacht-rock project [Legal Vertigo](https://www.facebook.com/legalvertigo/). Based in Montreal, Woods had been performing similar material in recent years alongside singer-songwriter [Basia Bulat](http://basiabulat.com/) under the name Napster Vertigo. One has to assume that whoever holds the trademark to the long-dead file sharing service wasn't entirely hip to that, hence the change. (As a side-note, it's also worth digging into some of the early Napster Vertigo [show reviews](https://exclaim.ca/music/article/alvvays_napster_vertigo-mod_club_theatre_toronto_on_december_12), as the band's stage antics tell you something about their approach to this material).
 
 Last week Exclaim premiered Legal Vertigo's mock-infomercial video for "At The Brasserie," a track written in tribute to the Montreal venue [Brasserie Beaubien](https://www.facebook.com/brasseriebeaubien/). Woods spoke to [Exclaim](https://exclaim.ca/music/article/join_legal_vertigo_at_the_brasserie_in_his_new_video), commenting:
 
@@ -93,7 +93,7 @@ The prior installments of the series featured charged up takes on Van Halen, Apr
 
 > "We can say with complete honesty that we saved the best for last... trimmed down and dimed up!"
 
-The Big Star cover first surfaced on what could best be described as stunt-merch, an ultra-limited 2018 [8-track](https://www.discogs.com/The-Dirty-Nil-Youre-Welcome/release/12846772) of which 15 were ever made. The Dirty Nil's spent much of the last year on the road supporting *Master Volume*, their second LP of new material for [Dine Alone Records](http://dinealonerecords.com/) following 2016's *Higher Power*.
+The Big Star cover first surfaced on what could best be described as stunt-merch, an ultra-limited 2018 [8-track](https://www.discogs.com/The-Dirty-Nil-Youre-Welcome/release/12846772) of which 15 were ever made. The Dirty Nil's spent much of the last year on the road supporting *Master Volume*, their second LP of new material for [Dine Alone Records](https://dinealonerecords.com/) following 2016's *Higher Power*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W45KVEJOxEg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
