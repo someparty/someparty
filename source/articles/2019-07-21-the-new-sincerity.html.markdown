@@ -59,7 +59,7 @@ Pacer last released the digital singles "Bangers" and "Piledriver"/"Lose," both 
 
 [Listen: Pacer - "Rapture" @ Punknews.org](https://www.punknews.org/article/70332/torontos-pacer-get-cathartic-on-new-single-rapture "#")
 
-Sydney J. Koke, bassist for Vancouver indie-pop trio [The Courtneys](https://thecourtneys.bandcamp.com/) and prolific experimental punk group [Shearing Pinx](https://shearingpinx.bandcamp.com/), has a new solo recording available. Released under the so-ridiculous-it's-amazing stage-name [Slaylor Moon](https://www.facebook.com/slaylormoon/), the song "Mothgirl" finds Koke unleashing an eerie electronic soundscape.
+Sydney J. Koke, bassist for Vancouver indie-pop trio [The Courtneys](https://thecourtneys.bandcamp.com/) and prolific experimental punk group [Shearing Pinx](https://shearingpinx.bandcamp.com/), has a new solo recording available. Released under the so-ridiculous-it's-amazing stage-name [Slaylor Moon](https://slaylormoon.bandcamp.com), the song "Mothgirl" finds Koke unleashing an eerie electronic soundscape.
 
 The song's part of a new 7-song EP to be released by [Maple Death Records](http://www.mapledeathrecords.com/) as a limited-run cassette with hand-made art. The release, titled *Zone Of Pure Resistance*, will be Koke's first solo release. It arrives this Friday, July 26.
 

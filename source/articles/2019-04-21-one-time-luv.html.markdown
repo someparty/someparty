@@ -17,7 +17,7 @@ The band recorded the album's 10 songs with Jeffrey McCloy of [Fashionism](https
 
 [Listen: Corner Boys - "Norman" / "Waiting for 2020" @ Bandcamp](http://drunkensailorrecords.bandcamp.com/album/waiting-for-2020-lp "#")
 
-May 10 will see the debut full-length from [Quaker Parents](http://www.brokejoken.com/), the weirdo indie-pop solo project from Mark Grundy of the affable Halifax rock experimenters [Heaven For Real](https://heavenforreal.bandcamp.com/). The record's titled *Our Drawing Club* and will carry the [Vain Mina Records](https://vainmina.bandcamp.com/) label (it'll see a May 15 release on the Japanese label Moorworks as well).
+May 10 will see the debut full-length from [Quaker Parents](https://quakerparents.bandcamp.com/), the weirdo indie-pop solo project from Mark Grundy of the affable Halifax rock experimenters [Heaven For Real](https://heavenforreal.bandcamp.com/). The record's titled *Our Drawing Club* and will carry the [Vain Mina Records](https://vainmina.bandcamp.com/) label (it'll see a May 15 release on the Japanese label Moorworks as well).
 
 Grundy workshopped this material in several locals, writing in Montreal, on a residency in the Azores, and most recently in Toronto. The album's 11 songs were finalized in 2018, with Mark's twin brother J. Scott Grundy (Heaven For Real, JJ Purple) contributing percussion in the studio. The album was recorded and mixed by Mark with Stephen Prickett.
 

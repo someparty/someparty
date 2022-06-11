@@ -99,7 +99,7 @@ This recording features Matty Grace and Coleman Johnston of [Future Girls](https
 
 Toronto jangle-pop quartet [Ducks Unlimited](http://ducksunlimitedband.bandcamp.com) has signed with Spanish label [Bobo Integral](https://bobointegral.com/) for the release of their debut EP. Titled *Get Bleak*, the four-song 7" is set to arrive on November 29. That four will include the previously previewed title track (which you may recall featured Laura Hermiston of [Twist](https://www.twistofficial.com/)) and the new single "Anhedonia." You can check that one out below.
 
-Ducks Unlimited will play a record release show on [December 5](https://www.facebook.com/events/2511481175738378/) in Toronto at The Baby G, with support from Mark Grundy's [Quaker Parents](http://www.brokejoken.com/) and Madeline Link's [PAX](https://madelink.bandcamp.com/).
+Ducks Unlimited will play a record release show on [December 5](https://www.facebook.com/events/2511481175738378/) in Toronto at The Baby G, with support from Mark Grundy's [Quaker Parents](https://quakerparents.bandcamp.com/) and Madeline Link's [PAX](https://madelink.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RF2SqoXIEDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

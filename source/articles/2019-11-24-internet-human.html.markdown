@@ -69,7 +69,7 @@ Toronto jangle-pop quartet [Ducks Unlimited](http://ducksunlimitedband.bandcamp.
 
 The four-song 7" arrives this Friday from the Spanish label [Bobo Integral](https://bobointegral.com/).
 
-Ducks Unlimited will play a record release show on [December 5](https://www.facebook.com/events/2511481175738378/) in Toronto at The Baby G, with support from Mark Grundy's [Quaker Parents](http://www.brokejoken.com/) and Madeline Link's [PAX](https://madelink.bandcamp.com/).
+Ducks Unlimited will play a record release show on [December 5](https://www.facebook.com/events/2511481175738378/) in Toronto at The Baby G, with support from Mark Grundy's [Quaker Parents](https://quakerparents.bandcamp.com/) and Madeline Link's [PAX](https://madelink.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2550738012/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2392656588/transparent=true/" seamless><a href="http://ducksunlimitedband.bandcamp.com/album/get-bleak-ep">Get Bleak (EP) by Ducks Unlimited</a></iframe>
 
