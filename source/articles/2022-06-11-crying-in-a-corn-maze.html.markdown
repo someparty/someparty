@@ -167,7 +167,7 @@ These Fast Times features vocalist/guitarist Jeffrey Vuorela, bassist/vocalist J
 
 Electronic music producer [New Chance](https://www.newchance.biz/) recently shared a video showcasing "To The Edge," a song from her 2021 LP *Real Time*. Award-winning animator Seth Scriver crafted the visuals for the piece as part of a wider project. He commented:
 
-> "This video is a small clip of a bigger movie called Endless Cookie, a collection of family stories and jokes that Seth Scriver and his brother Pete Scriver are working on and should be out in 2022! New Chance was working on some audio clips for Endless Cookie when we realized this clip fit with their song 'To The Edge' so well that we decided to use it with some tweaking and additions for a music video. This video was made as a dedication to Jessica Scriver, Peter's daughter and Seth's niece, who took her own life in 2013. Jessica was only 16 and had been saving up for a motorcycle at the time. RIP lil Jess!"
+> "This video was made as a dedication to Jessica Scriver, Peter's daughter and Seth's niece, who took her own life in 2013. Jessica was only 16 and had been saving up for a motorcycle at the time. RIP lil Jess!"
 
 New Chance, also known as Victoria Cheong, shared:
 

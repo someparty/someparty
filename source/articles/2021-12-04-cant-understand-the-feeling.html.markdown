@@ -90,7 +90,7 @@ The group recently premiered a video for the album-closing "Fleur Du Mal," as sh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cVINPByCotE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[NOBRO](https://nobro.bandcamp.com/album/better-each-day): "Julia"
+###[NOBRO](https://nobro.bandcamp.com): "Julia"
 ==Listen at [YouTube](https://youtu.be/1DCzg6uoWLM)==
 
 Montreal's high-energy [NOBRO](https://nobro.bandcamp.com/) continues to roll out quality one-off singles to mark thier return to the road, with "Julia" following last month's massive "Better Each Day." While less bombastic than its predecessor, this one's no less hooky. In a statement, Kathryn McCaughey commented:

@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: New music from Man Made Hill, J Blissette, WHOOP-Szo, Boyhood. Attack In Black reissue. D.O.A. recording with Ron Reyes.
 ---
 
-Hamilton-via-Toronto "existential disco" project [Man Made Hill](https://manmadehillpleasence.bandcamp.com/) has announced a new release on [Pleasence Records](http://www.pleasencerecords.com/) titled *Fingertip*. The 18 song cassette will be Randall Gagne's 20th release under the name. Gagne commented on his difficult to peg sound in the label's press release, somehow becoming (fittingly) more oblique in each successive statement:
+Hamilton-via-Toronto "existential disco" project [Man Made Hill](https://manmadehill.bandcamp.com/) has announced a new release on [Pleasence Records](http://www.pleasencerecords.com/) titled *Fingertip*. The 18 song cassette will be Randall Gagne's 20th release under the name. Gagne commented on his difficult to peg sound in the label's press release, somehow becoming (fittingly) more oblique in each successive statement:
 
 > "I think of it as some kind of Mutant Smorgasbord... I wanted these songs to feel physical in every way, and to show how music unfolds from the fingertip into all sensual centres... I wanted my songs to function as links to raw, concrete experience that can be held and kept, and integrated into your own personal history. Plus Total Attitude!”
 

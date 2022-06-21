@@ -33,7 +33,7 @@ Vancouver synth-pop act [Nouveaux](https://nouveaux.bandcamp.com) recently share
 
 >"Illusions is a dark and dreamy dance song that reflects on the distorted lens through which we remember our first love and heartbreak... The video was recorded in an empty nightclub at a time when we all felt starved for connection, and is a visual tribute to the dreamy 1980s pop videos that filled our youth and left us yearning for memories that had not yet been experienced."
 
-Nouveaux plays as a trio featuring [Spectres](http://spectresvancouver.bandcamp.com) principle Brian Gustavson, former Spectre Nathan Szilagyi, and ;lead vocalist Michelle Smolnicki. Last winter, they recorded with Jason Corbett of [ACTORS](https://actors.bandcamp.com/) at Jacknife Sound. Look for the record in June through the [Doomed to Extinction](https://dtepunk.com) imprint Castra Records in North America and [Sabotage Records](https://sabotagerecords-shop.net/) in Europe.
+Nouveaux plays as a trio featuring [Spectres](http://spectresvancouver.bandcamp.com) principle Brian Gustavson, former Spectre Nathan Szilagyi, and lead vocalist Michelle Smolnicki. Last winter, they recorded with Jason Corbett of [ACTORS](https://actors.bandcamp.com/) at Jacknife Sound. Look for the record in June through the [Doomed to Extinction](https://dtepunk.com) imprint Castra Records in North America and [Sabotage Records](https://sabotagerecords-shop.net/) in Europe.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i8Z8n7aspUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

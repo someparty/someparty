@@ -74,7 +74,7 @@ The Halifax indie-rock group's also promoting the new work with a slick new medi
 
 [Watch: Nap Eyes - "I'm Bad" @ YouTube](https://www.youtube.com/watch?v=J9yL81mxljk "#")
 
-Prolific Hamilton-based "existential disco" weirdo [Man Made Hill](https://manmadehillpleasence.bandcamp.com/) released his latest cassette *Fingertip* on Friday via [Pleasence](http://www.pleasencerecords.com/). The label recently revealed a video for the song "Midnight Nap," created by [MC NTSC](https://vimeo.com/mcntsc). You can check it out below.
+Prolific Hamilton-based "existential disco" weirdo [Man Made Hill](https://manmadehill.bandcamp.com/) released his latest cassette *Fingertip* on Friday via [Pleasence](http://www.pleasencerecords.com/). The label recently revealed a video for the song "Midnight Nap," created by [MC NTSC](https://vimeo.com/mcntsc). You can check it out below.
 
 *Fingertip* is Man Made Hill's 20th release. Pleasence calls it a "sensual, hypnagogic pop art pastiche," which is a description I'll never be able to top so I'm just going to run with it.
 

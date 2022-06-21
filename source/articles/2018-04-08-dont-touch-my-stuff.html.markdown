@@ -47,7 +47,7 @@ I get such a *Marriage*-era Attack In Black vibe from this track. Check it out.
 
 [Listen: Espanola - "Outside Saskatoon" @ Bandcamp](https://espanola.bandcamp.com/album/outside-saskatoon-b-w-its-a-good-life-if-you-dont-weaken "#")
 
-[Man Made Hill](https://manmadehillpleasence.bandcamp.com/) has released a video for "My Accoutrements," the ode to accessorizing and weirdo soul centrepiece from his recent [Pleasence Records](http://www.pleasencerecords.com/) full-length *Fingertip*.
+[Man Made Hill](https://manmadehill.bandcamp.com/) has released a video for "My Accoutrements," the ode to accessorizing and weirdo soul centrepiece from his recent [Pleasence Records](http://www.pleasencerecords.com/) full-length *Fingertip*.
 
 [Zak Tatham](http://zaktatham.com) directed this one. I shouldn't even attempt to describe this, you need to experience it on your own. Let it wash over you.
 
