@@ -11,7 +11,7 @@ Hell, by my count, there's been 241 issues of Some Party over these five years -
 
 In that spirit, here's an update that's neither timely nor comprehensive. Proudly so.
 
-###[The Flatliners](http://www.theflatliners.com/): *Performative Hours*
+###[The Flatliners](http://www.theflatliners.com/): "Performative Hours"
 ==Watch on [YouTube](https://youtu.be/iKH_LtQDlyc) - Preview and purchase at [Bandcamp](https://theflatliners.bandcamp.com/track/performative-hours)==
 
 The 2017 roots of this newsletter coincided with the release of *Inviting Light*, the then-most recent full-length from the Toronto punk group [The Flatliners](http://www.theflatliners.com/). While I, like much of the Punknews crowd, wrestled with that album's clean pop sensibilities - we never imagined how much of an impact frontman Chris Cresswell would soon have outside of the group. By the fall of that year, he was on stage, unplanned, with Gainesville legends Hot Water Music, filling in for that band's ailing Chris Wollard in front of a hometown crowd at The Fest. As Wollard pulled back from the band's live commitments, Chris proved to be more than a mere ringer - appearing to this day as a fully-fledged contributor to the beloved punk group. Look no further than last week, when the band showcased the Cresswell-fronted "[Turn The Dial](https://www.punknews.org/article/77498/hot-water-music-release-turn-the-dial-video)" as a single from their new studio album.

@@ -121,7 +121,7 @@ The Wesleys feature Henry Girard, William D'amours, Quentin Chisholm, and Pablo 
 ###[Sunnyside Uppers](https://sunnysideuppers.bandcamp.com): "All I Want"
 ==Watch on [YouTube](https://youtu.be/3vSv1idhHFc) - Preview and purchase at [Bandcamp](https://sunnysideuppers.bandcamp.com/track/all-i-want)==
 
-I shared some in-depth background on [Sunnyside Uppers](https://sunnysideuppers.bandcamp.com/)' recent single "All I Want" [earlier this month](https://www.someparty.ca/2022-03-02-message-to-dallas/#sunnysideuppers), so I won't repeat it here. That track, recorded with [Monopolized Records](http://monopolizedrecords.com/) principal Corey Bonnevie, recently resurfaced in a new video. The clip, directed by [Naomi Studio](https://www.naomi.studio/), sees principal Ryan Brown performing the upbeat power-pop track as a one-band band. You can check it out now on YouTube.
+I shared some in-depth background on [Sunnyside Uppers](https://sunnysideuppers.bandcamp.com/)' recent single "All I Want" [earlier this month](https://www.someparty.ca/2022-03-02-message-to-dallas/#sunnysideuppers), so I won't repeat it here. That track, recorded with [Monopolized Records](https://monopolizedrecords.com/) principal Corey Bonnevie, recently resurfaced in a new video. The clip, directed by [Naomi Studio](https://www.naomi.studio/), sees principal Ryan Brown performing the upbeat power-pop track as a one-band band. You can check it out now on YouTube.
 
 The song follows the first volume in the Uppers' *Official Bootleg Series*, a live EP that arrived in January.
 
