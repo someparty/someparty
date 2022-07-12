@@ -2,7 +2,7 @@
 title: Limit and a Situation
 date: 2022-07-11
 author: adam@someparty.ca (Adam White)
-description: It's the full spectrum of the human emotions from TJ Cabot, Outtacontroller, Poolblood, Spite House, Jonathan Personne, PONY, Ornaments, 86 It, Trashed Ambulance, The Moröns, Sessions, Short Straps, Man Crush, Heaven For Real, Bitter Fictions, Lammping, JONCRO, Waste Youth, and Mike Warne of Pkew Pkew Pkew
+description: Rogers is working again so now you can get email with outdated updates on TJ Cabot, Outtacontroller, Poolblood, Spite House, Jonathan Personne, PONY, Ornaments, 86 It, Trashed Ambulance, The Moröns, Sessions, Short Straps, Heaven For Real, Bitter Fictions, Man Crush, Lammping, JONCRO, Waste Youth, and Mike Warne of Pkew Pkew Pkew
 ---
 
 ###[TJ Cabot](https://tjcabot.bandcamp.com): *King Grove EP*
@@ -167,7 +167,7 @@ Toronto psych-rock group [Lammping](https://lammping.bandcamp.com/) recently sha
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1610455307/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://lammping.bandcamp.com/track/desert-on-the-keel">Desert On The Keel by Lammping</a></iframe>
 
-###[JONCRO](https://joncro.bandcamp.com): *Richmond Station*
+###[JONCRO](https://joncro.bandcamp.com): "Sakura"
 ==Watch on [YouTube](https://youtu.be/c0g07tHWKD4) - Preview and purchase at [Bandcamp](https://joncro.bandcamp.com/album/richmond-station)==
 
 Mississauga rock trio [JONCRO](https://joncro.bandcamp.com) recently shared a new video for "Sakura," a buzzsaw love song from last summer's *Richmond Station*. Toronto filmmaker [Chelsea Williams](https://www.instagram.com/visualsbychelsea/) directed, filmed, edited, and co-starred in the piece. The band commented:
