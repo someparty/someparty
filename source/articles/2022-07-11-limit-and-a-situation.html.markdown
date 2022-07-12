@@ -39,7 +39,7 @@ Poolblood last released the *Yummy* EP in 2018 through [Accidental Popstar](http
 ###[Spite House](https://spitehousemtl.bandcamp.com): "Hope"
 ==Watch on [YouTube](https://youtu.be/_tNl4QoS2Io) - Preview and purchase at [Bandcamp](https://spitehousemtl.bandcamp.com/track/hope-2)==
 
-Montreal post-hardcore group [Spite House](https://spitehousemtl.bandcamp.com) recently issued "Hope," the hard-driving first single from their upcoming debut, a ten-song self-titled set due August 26 through the [New Morality Zine](https://newmoralityzine.com/). You can check the song out through a newly shared video, filmed and edited by drummer Marc Tremblay. Not to stereotype - but if you're a beard-sporting No Idea Records fan from back in the day, you may want to clear some space on your jacket for a new patch.
+Montreal post-hardcore group [Spite House](https://spitehousemtl.bandcamp.com) recently issued "Hope," the hard-driving first single from their upcoming debut, a ten-song self-titled set due August 26 through the [New Morality Zine](https://newmoralityzine.com/). You can check the song out through a newly shared video, filmed and edited by the band's Max Lajoie. Not to stereotype - but if you're a beard-sporting No Idea Records fan from back in the day, you may want to clear some space on your jacket for a new patch.
 
 Spite House features Maxime Lajoie on guitar and vocals, Marc Tremblay on percussion, and bassist Nabil Ortega. This marks the latest in a series of recent projects from Lajoie - including the recent EP from the 90s alternative-styled [Seed Toss](https://seedtossmtl.bandcamp.com). That band issued the *Love Business* EP just last month.
 
