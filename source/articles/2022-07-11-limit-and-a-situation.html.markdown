@@ -2,7 +2,7 @@
 title: Limit and a Situation
 date: 2022-07-11
 author: adam@someparty.ca (Adam White)
-description: Rogers is working again so now you can get email with outdated updates on TJ Cabot, Outtacontroller, Poolblood, Spite House, Jonathan Personne, PONY, Ornaments, 86 It, Trashed Ambulance, The Moröns, Sessions, Short Straps, Heaven For Real, Bitter Fictions, Man Crush, Lammping, JONCRO, Waste Youth, and Mike Warne of Pkew Pkew Pkew
+description: Rogers is working again so now you can get email with outdated updates on TJ Cabot, Outtacontroller, Poolblood, Spite House, Jonathan Personne, PONY, Ornaments, 86 It, Trashed Ambulance, The Moröns, Sessions, Short Straps, Heaven For Real, Bitter Fictions, Man Crush, Lammping, JONCRO, Waste Youth, and Mike Tom Warne of Pkew Pkew Pkew
 ---
 
 ###[TJ Cabot](https://tjcabot.bandcamp.com): *King Grove EP*
@@ -185,10 +185,10 @@ Toronto noise-punk duo [Waste Youth](https://wasteyouth.bandcamp.com) recently i
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1444308301/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://wasteyouth.bandcamp.com/album/live-at-the-mule-spinner">Live at the Mule Spinner by WASTE YOUTH</a></iframe>
 
-###[Mike Warne](https://miketomwarne.bandcamp.com): *Almost No Bullshit*
+###[Mike Tom Warne](https://miketomwarne.bandcamp.com): *Almost No Bullshit*
 ==Preview and purchase at [Bandcamp](https://miketomwarne.bandcamp.com/album/almost-no-bullshit-produced-by-nestor)==
 
-Mike Warne of Toronto punk quartet [Pkew Pkew Pkew](https://www.pkewx3.com/) recently issued a slate of solo recordings dubbed *Almost No Bullshit*. The set finds Warne recording with an assist from [PUP](http://www.puptheband.com/) drummer Zack Mykula and bassist Nestor Chumak (the former behind the kit and the latter in the producer's chair). Pkew's Ryan McKinley, who records solo as [Moral Pleasures](https://moralpleasures.bandcamp.com/), also appears on the set. You can pick it up at Bandcamp. As you may have guessed from the title, the project's decidedly less wacky (and less gleefully binge-drinky) than Warne's main gig.
+[Mike Tom Warne](https://miketomwarne.bandcamp.com) of Toronto punk quartet [Pkew Pkew Pkew](https://www.pkewx3.com/) recently issued a slate of solo recordings dubbed *Almost No Bullshit*. The set finds Warne recording with an assist from [PUP](http://www.puptheband.com/) drummer Zack Mykula and bassist Nestor Chumak (the former behind the kit and the latter in the producer's chair). Pkew's Ryan McKinley, who records solo as [Moral Pleasures](https://moralpleasures.bandcamp.com/), also appears on the set. You can pick it up at Bandcamp. As you may have guessed from the title, the project's decidedly less wacky (and less gleefully binge-drinky) than Warne's main gig.
 
 Pkew Pkew Pkew are currently on the road in the US touring behind *Open Bar*, their recent LP for [Dine Alone Records](https://dinealonerecords.com/). That album saw the quartet recording with producer Jon Drew (Fucked Up, METZ).
 

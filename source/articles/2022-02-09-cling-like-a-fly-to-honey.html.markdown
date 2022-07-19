@@ -34,7 +34,7 @@ The set follows a spate of activity from White, who issued the psych-rocking *Wh
 
 Vancouver power-pop trio [Brutal Poodle](http://brutalpoodlevan.bandcamp.com) recently shared "Drainage," a track cut from the upcoming LP they recorded with Jesse Gander at Raincity Recorders. The hooky one-off arrived alongside a video directed by drummer Dustin Bromley. It incorporates some vintage Hi8 video footage by [Corbin C](http://instagram.com/corbincorbin) alongside the band's performance. There's no word yet on when their forthcoming LP is due to arrive, but I'd expect it this year.
 
-Brutal Poodle features bassist/vocals Karmin Poirier, guitarist/vocalist John Johnston, and drummer Dustin Bromley. Members of the group previously appeared in [SBDC](https://sbdc.bandcamp.com/), [Jock Tears](https://jocktears.bandcamp.com/), and [Slow Learners](https://slowlearners.bandcamp.com/).
+Brutal Poodle features bassist/vocalist Karmin Poirier, guitarist/vocalist John Johnston, and drummer Dustin Bromley. Members of the group previously appeared in [SBDC](https://sbdc.bandcamp.com/), [Jock Tears](https://jocktears.bandcamp.com/), and [Slow Learners](https://slowlearners.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6HGYClddqQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
