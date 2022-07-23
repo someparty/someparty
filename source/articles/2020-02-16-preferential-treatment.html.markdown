@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Music from Wares, Dead Friends, Man Made Hill, Outtacontroller, Spectres, Young Blades, Barnacle, The Thrill, Boids, U.S. Girls, Laurie, Organ Eyes, Mudie, Red Mass, King Khan, The Sadies, Pouzza Fest, Kazoo
 ---
 
-Edmonton indie-rock outfit [Wares](https://wares.bandcamp.com) have signed with the mighty [Mint Records](https://www.mintrecs.com/). The group, led by singer/guitarist Cassia J. Hardy, will release their sophomore album *Survival* on the Vancouver label on April 24. You can stream the record's first single, "Surrender Into Open Arms," online now. It's a hallmark Wares song: alternating between caustic outbursts and lush, evocative soundscapes without ever losing its pop footing. In a press release Hardy commented:
+Edmonton indie rock outfit [Wares](https://wares.bandcamp.com) have signed with the mighty [Mint Records](https://www.mintrecs.com/). The group, led by singer/guitarist Cassia J. Hardy, will release their sophomore album *Survival* on the Vancouver label on April 24. You can stream the record's first single, "Surrender Into Open Arms," online now. It's a hallmark Wares song: alternating between caustic outbursts and lush, evocative soundscapes without ever losing its pop footing. In a press release Hardy commented:
 
 >"[It's] a song about consent and safe sex. After years of hard work processing trauma and thawing from self isolation, it's the profound joy of building complete trust in your partner, and in a relationship built on respect and good communication. *Survival* is the story of recovery as a non linear path of healing and disruption. The narrator in this song, at the midpoint of the album, finds freedom in safe, sane, and consensual love."
 

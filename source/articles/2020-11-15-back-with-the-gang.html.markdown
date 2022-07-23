@@ -80,7 +80,7 @@ The decidedly-less-whimsical [Bootlicker](https://boot-licker.bandcamp.com/) rel
 
 [Listen: Nutrition - *No E.P.* @ Bandcamp](https://neontasterecords.bandcamp.com/album/no-e-p "#")
 
-Toronto indie-rock act [Kiwi Jr.](https://kiwijr.bandcamp.com/) recently shared the specifics of their [Sub Pop](https://www.subpop.com/) debut. The band will release *Cooler Returns* on January 22, 2021 (worldwide on the Seattle institution, except for Canada, where it will carry the "Kiwi Club" label). The band self-produced the record, with [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh engineering and mixing. Phillip Shaw Bova mastered the set in Ottawa. A florid statement accompanying the news elaborated:
+Toronto indie rock act [Kiwi Jr.](https://kiwijr.bandcamp.com/) recently shared the specifics of their [Sub Pop](https://www.subpop.com/) debut. The band will release *Cooler Returns* on January 22, 2021 (worldwide on the Seattle institution, except for Canada, where it will carry the "Kiwi Club" label). The band self-produced the record, with [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh engineering and mixing. Phillip Shaw Bova mastered the set in Ottawa. A florid statement accompanying the news elaborated:
 
 >"Put together like a thousand-piece puzzle, assembled in flow state through the first dull stretch of quarantine, sanitized singer shuffling to sanitized studio by streetcar, masked like it's the kind of work where getting recognized means getting killed, *Cooler Returns* materializes as a sprawling survey from the first few bites of the terrible twenties, an investigative exposé of recent history buried under the headlines & ancient kings buried under parking lots."
 

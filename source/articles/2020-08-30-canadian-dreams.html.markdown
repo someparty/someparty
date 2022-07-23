@@ -13,7 +13,7 @@ Lead by vocalist Brad Deighan, FSHKILL features guitarists Lee Clarke and Devin 
 
 [Listen: FSHKLL - *Sashimi Shoreline* @ Bandcamp](http://fshkll.bandcamp.com/album/sashimi-shoreline-ep "#")
 
-Windsor indie-rock group [Trout](https://trout.bandcamp.com/) has a new single out in the wild titled "Q.T." The track follows the June-released "New Space" in previewing the band's upcoming LP, due later this year from [Must Be Nice Records](https://mustbenicerecords.bandcamp.com/).
+Windsor indie rock group [Trout](https://trout.bandcamp.com/) has a new single out in the wild titled "Q.T." The track follows the June-released "New Space" in previewing the band's upcoming LP, due later this year from [Must Be Nice Records](https://mustbenicerecords.bandcamp.com/).
 
 There's some deep recess of my brain stuck as a teenager in the 90s, endless driving up and down the Niagara Parkway at night with nowhere to go. "Q.T." absolutely feels like the type of hooky alt-rock song I'd be blaring on the car stereo back then.
 

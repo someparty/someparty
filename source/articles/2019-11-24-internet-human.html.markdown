@@ -27,7 +27,7 @@ Weaves are also my daughter's favourite band, if the endorsement of a 7-year-old
 
 [Watch: Weaves - "Internet Tears" @ YouTube](https://youtu.be/5xOEtggUtDM "#")
 
-The oft-haunting Nova Scotian indie-rock duo [Construction & Destruction](https://constructionanddestruction.bandcamp.com/) recently appeared in a session for the Concordia-affiliated Montreal community station [CJLO](http://www.cjlo.com/). In the October appearance, Dave Trenaman and Colleen Collins performed four cerebral new songs for host Zak Slax' program [Slax Trax](https://www.facebook.com/zslax/).
+The oft-haunting Nova Scotian indie rock duo [Construction & Destruction](https://constructionanddestruction.bandcamp.com/) recently appeared in a session for the Concordia-affiliated Montreal community station [CJLO](http://www.cjlo.com/). In the October appearance, Dave Trenaman and Colleen Collins performed four cerebral new songs for host Zak Slax' program [Slax Trax](https://www.facebook.com/zslax/).
 
 You can watch the pair performing "Come Back," "Darling Starling," "Calamity," and "Wood Smoke" over on YouTube, or grab the audio at [SoundCloud](https://soundcloud.com/cjlo1690am/sets/construction-destruction-live-cjlo).
 

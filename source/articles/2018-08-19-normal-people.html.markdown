@@ -69,7 +69,7 @@ The Dirty Nil are now well into the hype cycle for their upcoming record. *Maste
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PlRgxW8i_us" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Halifax four-piece [Nap Eyes](https://napeyes.bandcamp.com/) recently performed a live session for [Low Four](http://lowfour.tv). The indie-rock act appearing at the Old Granada Studios in Manchester to play a set promoting their latest LP.
+Halifax four-piece [Nap Eyes](https://napeyes.bandcamp.com/) recently performed a live session for [Low Four](http://lowfour.tv). The indie rock act appearing at the Old Granada Studios in Manchester to play a set promoting their latest LP.
 
 Nap Eyes released *I'm Bad Now* earlier this year on [You've Changed Records](https://youvechangedrecords.com/) in Canada, with [Paradise of Bachelors](http://www.paradiseofbachelors.com/) and [Jagjaguwar](https://jagjaguwar.com/) handling the release elsewhere. The record is the follow-up wot their 2016 LP *Through Rock Fish Scale*.
 

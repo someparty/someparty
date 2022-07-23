@@ -180,7 +180,7 @@ Scriver's debut film, *Asphalt Watches*, won the Best First Canadian Feature Awa
 ###[Beauts](https://beauts.bandcamp.com/): "Paragon"
 ==Watch on [YouTube]() - Preview and purchase at [Bandcamp](https://beauts.bandcamp.com/track/paragon)==
 
-Atmospheric Halifax indie-rock act [Beauts](https://beauts.bandcamp.com/) have a new single out dubbed "Paragon," a chilled-out follow-up to their early 2020 LP *Dalliance*. The track arrived through the [LMH Records](https://www.lhmrec.com/) label. Vocalist Jeff Lawton commented in a press release:
+Atmospheric Halifax indie rock act [Beauts](https://beauts.bandcamp.com/) have a new single out dubbed "Paragon," a chilled-out follow-up to their early 2020 LP *Dalliance*. The track arrived through the [LMH Records](https://www.lhmrec.com/) label. Vocalist Jeff Lawton commented in a press release:
 
 > "It feels like we're settling into the idea that this band can sound like a lot of different things, as opposed to a strict style or genre, and that's been really exciting for us. I've also been trying to move away from writing about self-deprecation and self-criticism, and instead trying to look outward and write about the people around me. I'm very clearly writing about my partner here, chronicling our relationship and expressing my awe for her. Being forced to stay indoors for the past couple years has given me time to appreciate how fortunate it is to have someone in your life you love, admire, and are happy to be around all the time."
 

@@ -60,7 +60,7 @@ WHOOP-Szo was also recently confirmed as one of the bands slated to play the [Fl
 
 [Watch: WHOOP-Szo - "Organlude" @ YouTube](https://www.youtube.com/watch?v=OUHRoT7YjgE "#")
 
-Halifax indie-rock act [Nap Eyes](https://napeyes.bandcamp.com/) have released another song from their upcoming LP *I'm Bad Now*, titled "Dull Me Line." It's one of 10 songs you'll find on the March 9 release, a joint effort between [You've Changed Records](https://youvechangedrecords.com/), [Paradise of Bachelors](http://www.paradiseofbachelors.com/), and [Jagjaguwar](https://jagjaguwar.com/) in different territories.
+Halifax indie rock act [Nap Eyes](https://napeyes.bandcamp.com/) have released another song from their upcoming LP *I'm Bad Now*, titled "Dull Me Line." It's one of 10 songs you'll find on the March 9 release, a joint effort between [You've Changed Records](https://youvechangedrecords.com/), [Paradise of Bachelors](http://www.paradiseofbachelors.com/), and [Jagjaguwar](https://jagjaguwar.com/) in different territories.
 
 *I'm Bad Now* is the follow-up to Nap Eyes' acclaimed 2016 LP *Through Rock Fish Scale*. The new record was recorded and mixed by Howard Bilerman with Mike Wright at [Hotel2Tango](http://www.hotel2tango.com/) in Montreal.
 

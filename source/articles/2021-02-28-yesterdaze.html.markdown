@@ -165,7 +165,7 @@ Montreal's [Guilhem](https://guilhem.bandcamp.com), the mononymous solo project 
 ###[TUNS](https://tunsband.bandcamp.com): "United We Stand"
 ==Watch on [YouTube](https://youtu.be/-hQf3yi0Jj0) - Preview and purchase at [Bandcamp](https://tunsband.bandcamp.com/track/we-stand-united)==
 
-Canadian indie-rock supergroup [TUNS](https://tunsband.bandcamp.com) recently shared the second single from their upcoming *Duly Noted* LP. You can check out a video for "United We Stand" at YouTube now, a clip shot outdoors in the snow this past February (in Matt Murphy's Toronto backyard, to be precise). The band commented in a press release:
+Canadian indie rock supergroup [TUNS](https://tunsband.bandcamp.com) recently shared the second single from their upcoming *Duly Noted* LP. You can check out a video for "United We Stand" at YouTube now, a clip shot outdoors in the snow this past February (in Matt Murphy's Toronto backyard, to be precise). The band commented in a press release:
 
 >"TUNS may have gone overboard on the Canadiana in their latest video. Fully decked out in tuque, winter coats, boots and scarves, they inadvertently made a video that seems to be attempting to answer the age old question: What if Bob and Doug McKenzie had a drummer?"
 

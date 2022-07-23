@@ -38,7 +38,7 @@ Before relocating to the Big Smoke, Kiwi Jr. called Charlottetown home. Along wi
 
 [Watch: Kiwi Jr. - "Leslie" @ YouTube](https://youtu.be/mGk3VaM2i_E "#")
 
-Vancouver indie-rock heroes [Apollo Ghosts](https://apolloghosts.bandcamp.com/) have reunited. Original guitarist/vocalist [Adrian Teacher](https://adrianteacher.bandcamp.com/) and drummer Amanda Panda have picked up two new players for this incarnation, listed as Robbie N. and Luke N. in the announcement. The band's confirmed that tours, festival shows, and new music are all on the horizon, but there are no specifics to mention just yet.
+Vancouver indie rock heroes [Apollo Ghosts](https://apolloghosts.bandcamp.com/) have reunited. Original guitarist/vocalist [Adrian Teacher](https://adrianteacher.bandcamp.com/) and drummer Amanda Panda have picked up two new players for this incarnation, listed as Robbie N. and Luke N. in the announcement. The band's confirmed that tours, festival shows, and new music are all on the horizon, but there are no specifics to mention just yet.
 
 Apollo Ghosts' catalogue included three full-lengths (plus a handful of short-form releases) spanning 2008 to 2013, the last of which was the You've Changed-released *Landmark*. Teacher's since put out material as COOL TV and as Adrian Teacher & The Subs, most recently releasing a full-length last year titled *Anxious Love*. Former Ghosts members not returning this round include Jarrett Samson (who went on to form [Tough Age](https://tough-age.bandcamp.com/) and relocate to Toronto), and Jason Oliver.
 

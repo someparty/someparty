@@ -171,7 +171,7 @@ Guitarist/vocalist Cailen Pygott and drummer/vocalist Chris Wilson performed on 
 
 [Listen: No, It's Fine. - "Pisces•Gemini•Libra (Demo)" @ Bandcamp](https://noitsfine.bandcamp.com/track/pisces-gemini-libra-demo "#")
 
-On March 20 the Windsor indie-rock group [Trout](https://trout.bandcamp.com/) recorded a nine-song set live off the floor of their jam space, The resulting recordings are now online as *Live From Isolation*,
+On March 20 the Windsor indie rock group [Trout](https://trout.bandcamp.com/) recorded a nine-song set live off the floor of their jam space, The resulting recordings are now online as *Live From Isolation*,
 
 This recording features Roye Trout on guitar and vocals, guitarist Brent Cusmanic, Colin Wysman on bass, Jeremy Coulter playing piano and organ, with James Brown on drums. The set follows a five-song EP the band released last December, titled *Nectar*.
 

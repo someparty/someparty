@@ -102,7 +102,7 @@ Laurie features Trent Bristow on guitar and synth, bassist Fabian Kearns, and dr
 ###[Roach](https://roachband.bandcamp.com/): "Everything or Nothing"
 ==Preview and purchase at [Bandcamp](https://roachband.bandcamp.com/track/everything-or-nothing-demo)==
 
-Toronto indie-rock quartet [Roach](https://roachband.bandcamp.com/) has a new pair of songs online, a sparkling and confessional demo titled "Everything or Nothing," and a cover of Snail Mail's "Heat Wave." You can check them out now at Bandcamp.
+Toronto indie rock quartet [Roach](https://roachband.bandcamp.com/) has a new pair of songs online, a sparkling and confessional demo titled "Everything or Nothing," and a cover of Snail Mail's "Heat Wave." You can check them out now at Bandcamp.
 
 Roach last released the emo-pop tune "R.I.P. Soft Serve" in September of last year. The group features vocalist/guitarist Violet DeRege Braga, drummer Carly Harris, guitarist Jackson Seaward, and bassist Tyler Twigger.
 

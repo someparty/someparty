@@ -83,7 +83,7 @@ Brigitte Bardon't last released the field recording collage set *Radio Songs* in
 
 [Listen: Brigitte Bardon't - *Pink* @ Bandcamp](https://bardont.bandcamp.com/album/pink "#")
 
-Toronto's scrappy indie-rock quartet [Roach](https://roachband.bandcamp.com/) has a new single online, pairing the infectious emo-pop tune (and ode to a dead pet) "R.I.P. Soft Serve" with the b-side "Manspreading."
+Toronto's scrappy indie rock quartet [Roach](https://roachband.bandcamp.com/) has a new single online, pairing the infectious emo-pop tune (and ode to a dead pet) "R.I.P. Soft Serve" with the b-side "Manspreading."
 
 Roach features vocalist/guitarist Violet DeRege Braga, drummer Carly Harris, guitarist Jackson Seaward, and bassist Tyler Twigger. The group released its debut EP, *Taste Test*, in the spring of 2019. They also recently appeared as part of the *Black And Loud* compilation from the [Ontario Artists Against Injustice](http://ontarioartistsagainstinjustice.bandcamp.com) group.
 
@@ -168,7 +168,7 @@ Kim Bingham and Noah Green, Adam Bix Berger on vocals and trumpet, John Jordan o
 
 [Watch: Me Mom & Morgentaler - "Racist Friend" @ YouTube](https://youtu.be/IVygczRFfEc "#")
 
-Dartmouth singer-songwriter [Mo Kenney](http://mokenney.com/) recently shared a gorgeous cover of the Guided By Voices classic "Game of Pricks." The track finds Kenney slowing the indie-rock staple down to its raw, emotional core, with [Joel Plaskett](http://joelplaskett.com/) accompanying on piano.
+Dartmouth singer-songwriter [Mo Kenney](http://mokenney.com/) recently shared a gorgeous cover of the Guided By Voices classic "Game of Pricks." The track finds Kenney slowing the indie rock staple down to its raw, emotional core, with [Joel Plaskett](http://joelplaskett.com/) accompanying on piano.
 
 You can check the song out now in the Matt Williams-directed video linked below. The GBV cover's been a part of Kenney's live set for a few years now, with the studio recording due for an upcoming covers record.
 

@@ -113,7 +113,7 @@ On December 11, the band's celebrating their return to action with an album rele
 ###[Wares](https://wares.bandcamp.com): "Cloudless"
 ==Watch on [YouTube](https://youtu.be/IFp3R_1yOys)==
 
-Edmonton's [Wares](https://wares.bandcamp.com) has a new video online featuring a live basement performance of "Cloudless," a moody indie-rock number recently unveiled at [Mint Records](https://www.mintrecs.com/)' Ridiculously Early Xmas Party. The band calls it "a winter song about telling your friends you're thinking of them wherever they are."
+Edmonton's [Wares](https://wares.bandcamp.com) has a new video online featuring a live basement performance of "Cloudless," a moody indie rock number recently unveiled at [Mint Records](https://www.mintrecs.com/)' Ridiculously Early Xmas Party. The band calls it "a winter song about telling your friends you're thinking of them wherever they are."
 
 Wares last released the shoegaze-influenced *Survival* in April 2020, their first for the storied Vancouver label. The group features vocalist/guitarist Cassia J. Hardy backed by keyboardist Jamie Mclean, bassist Matthew Gooding, and drummer Holly Greaves.
 

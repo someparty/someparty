@@ -121,7 +121,7 @@ You can check out the punishing title track of the new 8-song project below.
 
 [Listen: Freak Dream - "Into The Sun" @ Bandcamp](https://freakdream.bandcamp.com/album/into-the-sun "#")
 
-Seth A. Smith, filmmaker and frontman of the beloved (and mostly inactive) Halifax indie-rock group [Dog Day](http://dogdaymusic.com/), has announced details on the soundtrack to his new horror film *The Crescent*. The OST will see a digital and vinyl release on [Label Obscura](https://labelobscura.ca/) on September 7. From the press release:
+Seth A. Smith, filmmaker and frontman of the beloved (and mostly inactive) Halifax indie rock group [Dog Day](http://dogdaymusic.com/), has announced details on the soundtrack to his new horror film *The Crescent*. The OST will see a digital and vinyl release on [Label Obscura](https://labelobscura.ca/) on September 7. From the press release:
 
 > Smith's influences on the film's soundtrack range from classical music to church organ records to 1970s space-disco. Created with virtual instruments he used to sample improvised voice recordings from the cast and the warped sound of himself pretending to cry, its ominous ambience brings to mind Broadcast's score for Berberian Sound Studio. Devoted Dog Day fans may even be able to spot a fragment of their song "In the Woods" paying tribute to Rosemary's Baby. Yet, in the end, the film's two-year-old star played the biggest role in its soundtrack as well.
 

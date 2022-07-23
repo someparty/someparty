@@ -17,7 +17,7 @@ The band's 8-track debut is due for an official release in mid-November from [No
 
 [Listen: Telegenic Pleasure - "Sealed Off" @ Bandcamp](http://telegenicpleasure.bandcamp.com/album/telegenic-pleasure "#")
 
-Solem Vancouver indie-rock act [Woolworm](https://woolworm.bandcamp.com) recently shared the second new single from *Awe*. Titled "Let Me Wear The Mask," the song will appear on upcoming 12-song full-length, the band's third LP. It arrives on November 8 from [Mint Records](https://www.mintrecs.com/).
+Solem Vancouver indie rock act [Woolworm](https://woolworm.bandcamp.com) recently shared the second new single from *Awe*. Titled "Let Me Wear The Mask," the song will appear on upcoming 12-song full-length, the band's third LP. It arrives on November 8 from [Mint Records](https://www.mintrecs.com/).
 
 In a statement frontman Giles Roy commented on the track:
 

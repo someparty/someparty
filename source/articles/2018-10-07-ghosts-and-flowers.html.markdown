@@ -9,7 +9,7 @@ Last week Ottawa duo [Expanda Fuzz](https://expandafuzz.bandcamp.com) announced 
 
 Expanda Fuzz features Leila Younis and Chris Page, the latter known for his tenure in 90s garage-punk act [The Stand GT](https://thestandgt.bandcamp.com/) and later [Camp Radio](http://campradio.org/) (I interviewed Chris about a recent Stand GT reunion at Beau's Oktoberfest [last month](https://www.punknews.org/article/67961/interviews-chris-page-gets-the-stand-gt-back-together-for-beaus-oktoberfest). Expands Fuzz finds the pair experimenting with droney fuzzed-out guitar-pop, pulling influence from everyone from the Velvet Underground to Suicide to the Breeders.
 
-A record release show is set for Saturday, October 27 in Ottawa backed by local noise act [Deathsticks](https://buysomedeathsticks.bandcamp.com/) and Toronto indie-rock act [Pacer](https://pacerto.bandcamp.com).
+A record release show is set for Saturday, October 27 in Ottawa backed by local noise act [Deathsticks](https://buysomedeathsticks.bandcamp.com/) and Toronto indie rock act [Pacer](https://pacerto.bandcamp.com).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=896099233/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://expandafuzz.bandcamp.com/album/cotton-candy-jet-engine">Cotton Candy Jet Engine by Expanda Fuzz</a></iframe>
 
@@ -91,7 +91,7 @@ Prior to this record Rochon and Nathaniel Epp, both founding members of the band
 
 [Listen: Dead Soft - "Bones" @ YouTube](https://youtu.be/p-wycpqdWUo "#")
 
-Toronto indie-rock act [Casper Skulls](https://casperskulls.bandcamp.com/) recently premiered their first new single to follow *Mercy Works*, the band's debut [Buzz Records](http://buzzrecords.ca/) LP from last year. You can check out the song "O My Enemy" streaming on YouTube along with an animated video by the band's Melanie Gail St Pierre. A feature at Brooklyn Vegan that premiered the track revealed that St Pierre has become the band's main singer-songwriter, with Neil Bednis taking a supporting role (the pair split vocal duties on *Mercy Works*). The new song, sparse and atmospheric, is a demonstration of the Casper Skulls' new focus, which takes them further afield from their post-punk roots.
+Toronto indie rock act [Casper Skulls](https://casperskulls.bandcamp.com/) recently premiered their first new single to follow *Mercy Works*, the band's debut [Buzz Records](http://buzzrecords.ca/) LP from last year. You can check out the song "O My Enemy" streaming on YouTube along with an animated video by the band's Melanie Gail St Pierre. A feature at Brooklyn Vegan that premiered the track revealed that St Pierre has become the band's main singer-songwriter, with Neil Bednis taking a supporting role (the pair split vocal duties on *Mercy Works*). The new song, sparse and atmospheric, is a demonstration of the Casper Skulls' new focus, which takes them further afield from their post-punk roots.
 
 St Pierre spoke with [Brooklyn Vegan](http://www.brooklynvegan.com/stream-casper-skulls-new-song-o-my-enemy-see-them-on-tour/) about the track, commenting:
 

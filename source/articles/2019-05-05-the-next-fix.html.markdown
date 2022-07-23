@@ -116,7 +116,7 @@ Montreal-via-Fredericton prog-pop act [LAPS](https://lapslapslap.bandcamp.com/) 
 
 [Listen: LAPS - "Brunch" @ Dominionated](https://dominionated.ca/songs/brunch-by-laps/ "#")
 
-I've been sharing clips from [The Holy Gasp](https://theholygasp.bandcamp.com)'s recent release show for *The Love Songs of Oedipus Rex* for a few months now, and at long last here's the whole thing! Last October the theatric Toronto indie-rock group, lead by Benjamin Hackman, performed the emotionally-fraught (and often weirdly funny) record with a 27-person orchestra. The performance was staged as a wedding, with the crowd suitably dressed for a formal affair.
+I've been sharing clips from [The Holy Gasp](https://theholygasp.bandcamp.com)'s recent release show for *The Love Songs of Oedipus Rex* for a few months now, and at long last here's the whole thing! Last October the theatric Toronto indie rock group, lead by Benjamin Hackman, performed the emotionally-fraught (and often weirdly funny) record with a 27-person orchestra. The performance was staged as a wedding, with the crowd suitably dressed for a formal affair.
 
 The documentary also notably includes some of the last footage shot at the now-shuttered Coffin Factory. The extended Holy Gasp ensemble used the former industrial building for rehearsals before this show. The Coffin Factory was closed on April 1 to make way for a condo development. It had hosted live-work artist studios in the city for nearly 30 years.
 

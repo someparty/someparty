@@ -155,7 +155,7 @@ The band recently donned their most satanic togas for the "Covered in Blood" vid
 
 [Watch: Holy Void - "Covered in Blood" @ YouTube](https://youtu.be/otYWKdQ708Y "#")
 
-Last March the Windsor indie-rock/alt-rock group [Trout](https://trout.bandcamp.com/) recorded an in-studio session at their local campus radio station [CJAM](http://www.cjam.ca/). The set features two new songs, "Freelance Therapist" and "Laika," along with a take on "Contrition & Disclosure" from the band's recent EP *Figures*. You can check out the video, which was just recently published, below.
+Last March the Windsor indie rock/alt-rock group [Trout](https://trout.bandcamp.com/) recorded an in-studio session at their local campus radio station [CJAM](http://www.cjam.ca/). The set features two new songs, "Freelance Therapist" and "Laika," along with a take on "Contrition & Disclosure" from the band's recent EP *Figures*. You can check out the video, which was just recently published, below.
 
 Released in December *Figures* featured music from Roye Trout (Lychi, No Hands), Jesse Fellows (Blurt, Shared Arms), and Shane Gelinas. It was recorded, mixed, and mastered by Fellows at The Wonderful Alley in Toronto. The set arrived on vinyl from [Psychic Readings Records](https://psychicreadingsrecords.bandcamp.com/) and cassette by [Must Be Nice Records](https://mustbenicerecords.bandcamp.com/).
 

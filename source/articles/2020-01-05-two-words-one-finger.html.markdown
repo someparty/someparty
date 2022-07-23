@@ -43,7 +43,7 @@ The group features members of several Halifax hardcore and crust punk groups, in
 
 Dartmouth folk-rock/shoegaze group [Diamondtown](http://diamondtown.bandcamp.com/album/the-voice-ep) has two new songs online, kicking off 2020 with "Lost" and "Free." This is the band's first material since their recent EP *The Voice*, and a prelude to some "bug stuff coming" later this year.
 
-Diamondtown an extension of [Husband & Knife](https://husbandknife.bandcamp.com/), a duo featuring KC Spidle of the beloved Halifax indie-rock group [Dog Day](http://dogdaymusic.com/) and Evan Cardwell. Along with that pair, the group features Chris Thompson of Moon Socket and the legendary [Eric's Trip](https://www.subpop.com/artists/erics_trip) along with Kate O'Neill.
+Diamondtown an extension of [Husband & Knife](https://husbandknife.bandcamp.com/), a duo featuring KC Spidle of the beloved Halifax indie rock group [Dog Day](http://dogdaymusic.com/) and Evan Cardwell. Along with that pair, the group features Chris Thompson of Moon Socket and the legendary [Eric's Trip](https://www.subpop.com/artists/erics_trip) along with Kate O'Neill.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=13025109/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://diamondtown.bandcamp.com/album/lost-free">Lost/Free by Diamondtown</a></iframe>
 

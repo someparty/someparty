@@ -99,7 +99,7 @@ The Big Star cover first surfaced on what could best be described as stunt-merch
 
 [Listen: The Dirty Nil - "September Gurls" @ YouTube](https://youtu.be/W45KVEJOxEg "#")
 
-Ottawa-based indie-rock/electronic duo [Paragon Cause](https://paragoncause.bandcamp.com/) has a new EP on the way titled *Lies Between Us*, due September 13. From that set, the group recently released the single "Save Me." It, like much of the band's recent studio work, was produced by Sune Rose Wagner of the long-running Danish rock group The Raveonettes. Vocalist/keyboardist Michelle Opthof commented on the politically-charged track, which the band had set out to write as a punk song:
+Ottawa-based indie rock/electronic duo [Paragon Cause](https://paragoncause.bandcamp.com/) has a new EP on the way titled *Lies Between Us*, due September 13. From that set, the group recently released the single "Save Me." It, like much of the band's recent studio work, was produced by Sune Rose Wagner of the long-running Danish rock group The Raveonettes. Vocalist/keyboardist Michelle Opthof commented on the politically-charged track, which the band had set out to write as a punk song:
 
 > "It's about people exerting control because they think they're better, that they're superior to someone else. It's two ideas: the religious side of things says you can save them all but at the same time we look at it saying you actually cannot save them all, meaning you cannot save them from themselves. And for myself I grew up in an environment governed by a very strict church, that has its own school system and completely controls everyone's lives, including what they are to think and believe
 >

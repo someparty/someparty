@@ -123,7 +123,7 @@ Toronto hardcore act [Twin Rivals](https://twinrivals.bandcamp.com/) recently pr
 
 [Watch: Twin Rivals - "Hell's Coming" @ YouTube](https://www.youtube.com/watch?v=5n23J1yWPy8 "#")
 
-Vancouver's indie-rock four-piece [Jo Passed](http://www.jopassed.com/) has another new  video out from their upcoming debut LP *Their Prime*. You can find the [Justin Gradin](http://justingradin.com/) directed "Millenial Trash Blues" below.
+Vancouver's indie rock four-piece [Jo Passed](http://www.jopassed.com/) has another new  video out from their upcoming debut LP *Their Prime*. You can find the [Justin Gradin](http://justingradin.com/) directed "Millenial Trash Blues" below.
 
 Jo Passed features Joseph Hirabayashi, formerly of the band [Sprïng](https://springband.bandcamp.com/), along with Mac Lawrie, Bella Bébé, and  Megan-Magdalena Bourne. Their record arrives on May 25 on [Royal Mountain Records](https://www.royalmountainrecords.com/) in Canada and [Sub Pop](https://www.subpop.com/) elsewhere.
 

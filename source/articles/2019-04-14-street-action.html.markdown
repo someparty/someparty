@@ -190,7 +190,7 @@ Isla Craig last released *The Becoming* LP on [Pleasence Records](http://www.ple
 
 [Watch: Isla Craig - "Young Woman" @ YouTube](https://youtu.be/jyMvS-G8ycU "#")
 
-Last October Toronto indie-rock ensemble  launched their emotionally-fraught divorce-themed LP with a 27-person orchestra performing the album track-for-track. Staged as a wedding with formally dressed attendees, the release show for *The Love Songs of Oedipus Rex* was captured on film at 918 Bathurst Centre in Toronto. The band's been releasing clips ever since, with the latest footage featuring the Benjamin Hackman-lead ensemble performing "A Daily Affirmation." You can check it out below.
+Last October Toronto indie rock ensemble  launched their emotionally-fraught divorce-themed LP with a 27-person orchestra performing the album track-for-track. Staged as a wedding with formally dressed attendees, the release show for *The Love Songs of Oedipus Rex* was captured on film at 918 Bathurst Centre in Toronto. The band's been releasing clips ever since, with the latest footage featuring the Benjamin Hackman-lead ensemble performing "A Daily Affirmation." You can check it out below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oZjfwNb-7RM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

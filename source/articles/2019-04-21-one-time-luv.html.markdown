@@ -113,7 +113,7 @@ Darkwave Toronto four-piece [Gloin](https://gloinxo.bandcamp.com/) released a ne
 
 The group released a video for the song "Steady Drone" to celebrate the record. You can check it out below.
 
-Gloin features members of Toronto indie-rock act [Brenda](https://heybrenda.bandcamp.com) and the metal band [Witchrot](https://witchrot.bandcamp.com). They recorded *Soft Monster* with Dylan Frankland of [Tallies](http://tallies.bandcamp.com) at Dining Room and Candle Recording. Look for them on the roster July's [Crystal Lake](https://www.crystallakesound.ca/) psych festival up in West Grey, Ontario.
+Gloin features members of Toronto indie rock act [Brenda](https://heybrenda.bandcamp.com) and the metal band [Witchrot](https://witchrot.bandcamp.com). They recorded *Soft Monster* with Dylan Frankland of [Tallies](http://tallies.bandcamp.com) at Dining Room and Candle Recording. Look for them on the roster July's [Crystal Lake](https://www.crystallakesound.ca/) psych festival up in West Grey, Ontario.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IIZyv_VOaNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

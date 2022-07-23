@@ -169,7 +169,7 @@ The 8-song self-titled Venus Furs debut arrived last July from [Silk Screaming R
 ###[TUNS](https://tunsband.bandcamp.com): "My Memories"
 ==Watch on [YouTube](https://youtu.be/2EvGl53z0xk) - Preview and purchase at [Bandcamp](https://tunsband.bandcamp.com/album/duly-noted)==
 
-Canadian indie-rock supergroup [TUNS](https://tunsband.bandcamp.com) returns this spring with a new full-length. *Duly Noted* arrives March 26 as the band's second album, following their self-titled 2016 debut. Look for it on Sloan's Murderecords label. The group released the harmony-drenched single "My Memories" alongside the announcement. You can preview it through a new video which, through some thematically-apt use of archival footage, features the band's members from back in 1996 (which is, of course, many years before TUNS was a thing).
+Canadian indie rock supergroup [TUNS](https://tunsband.bandcamp.com) returns this spring with a new full-length. *Duly Noted* arrives March 26 as the band's second album, following their self-titled 2016 debut. Look for it on Sloan's Murderecords label. The group released the harmony-drenched single "My Memories" alongside the announcement. You can preview it through a new video which, through some thematically-apt use of archival footage, features the band's members from back in 1996 (which is, of course, many years before TUNS was a thing).
 
 TUNS features [Sloan](http://sloanmusic.com/)'s Chris Murphy, [The Inbreds](http://inbredsmusic.blogspot.com/)' Mike O'Neill, and [The Super Friendz](https://thesuperfriendz.bandcamp.com/)' Matt Murphy.
 

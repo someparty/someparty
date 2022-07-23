@@ -71,7 +71,7 @@ Naray's also been active lately in the post-punk trio [Fond](https://www.faceboo
 
 [Listen: lié - "Bugs" @ Bandcamp](https://lievancouver.bandcamp.com/track/bugs "#")
 
-[Flemish Eye](http://www.flemisheye.com/) recently released a limited-run split 7" pairing Saskatoon three-piece post-punk act [The Avulsions](https://theavulsions.bandcamp.com/) and the recently-defunct Halifax indie-rock group [Mauno](https://mauno.bandcamp.com/). Each band contributes a previously unheard song to the release ("Mars" from Avulsions and "Waste" from Mauno). Calgary's beloved multidisciplinary space alien [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) contributed new illustrations to pair with each tune.
+[Flemish Eye](http://www.flemisheye.com/) recently released a limited-run split 7" pairing Saskatoon three-piece post-punk act [The Avulsions](https://theavulsions.bandcamp.com/) and the recently-defunct Halifax indie rock group [Mauno](https://mauno.bandcamp.com/). Each band contributes a previously unheard song to the release ("Mars" from Avulsions and "Waste" from Mauno). Calgary's beloved multidisciplinary space alien [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) contributed new illustrations to pair with each tune.
 
 Mauno last released *Really Well* in August on [Tin Angel Records](https://tinangelrecords.bandcamp.com/), but announced their dissolution soon after. The Avulsions have been supporting 2019's *Expanding Program* LP.
 

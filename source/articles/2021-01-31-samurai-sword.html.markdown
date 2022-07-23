@@ -141,7 +141,7 @@ If you missed Allison Hussey's recent deep dive for [Pitchfork](https://pitchfor
 
 Toronto darkwave four-piece [Gloin](https://gloinxo.bandcamp.com/) has a new set of live recordings online. *Live Monster* features live-to-tape renditions of material from the band's 2019 EP *Soft Monster*, captured in January of 2020 during a weekend trip to Northern Ontario. The group also shared a series of colourfully psychedelic videos from the sessions, split into three parts at their [YouTube](https://youtu.be/lclyirGSD80) channel.
 
-Gloin features members of the indie-rock act [Brenda](https://heybrenda.bandcamp.com) and the metal band [Witchrot](https://witchrot.bandcamp.com). Later this month, the band plans to again revisit their *Soft Monster* material - this time through an EP of remixes. There's no word yet on who's collaborating on the project with them, but look for it on February 22.
+Gloin features members of the indie rock act [Brenda](https://heybrenda.bandcamp.com) and the metal band [Witchrot](https://witchrot.bandcamp.com). Later this month, the band plans to again revisit their *Soft Monster* material - this time through an EP of remixes. There's no word yet on who's collaborating on the project with them, but look for it on February 22.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3980940238/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://gloinxo.bandcamp.com/album/live-monster">Live Monster by Gloin</a></iframe>
 

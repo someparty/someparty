@@ -66,7 +66,7 @@ Alscher's stacked resume includes stints with [They Shoot Horses Don't They?](ht
 We're a week out from the release of *I'm Bad Now*, [Nap Eyes](https://napeyes.bandcamp.com/)' highly anticipated new full-length for [You've Changed](https://youvechangedrecords.com/), [Paradise of Bachelors](http://www.paradiseofbachelors.com/), and [Jagjaguwar](https://jagjaguwar.com/). The wait's essentially over, as you can now stream the 10 song record in its entirety over at [NPR](
 https://www.npr.org/2018/03/01/589142518/first-listen-nap-eyes-i-m-bad-now?utm_source=twitter.com&utm_medium=social&utm_campaign=nprmusic&utm_term=music&utm_content=20180301).
 
-The Halifax indie-rock group's also promoting the new work with a slick new medieval-styled video for the track "I'm Bad." Halifax-based director Seth A Smith and his producing partner Nancy Urich are behind the production. They're part of the team that created the recent horror film *The Crescent*.
+The Halifax indie rock group's also promoting the new work with a slick new medieval-styled video for the track "I'm Bad." Halifax-based director Seth A Smith and his producing partner Nancy Urich are behind the production. They're part of the team that created the recent horror film *The Crescent*.
 
 *I'm Bad Now* is the follow-up to Nap Eyes' 2016 sophomore LP *Through Rock Fish Scale*. This record was recorded and mixed by Howard Bilerman with Mike Wright at Montreal's Hotel2Tango.
 
@@ -112,7 +112,7 @@ St Catharines power-pop group [Strange Shakes](https://strangeshakes.bandcamp.co
 
 [Listen: Strange Shakes - "Worn Feet" @ Bandcamp](https://strangeshakes.bandcamp.com/album/worn-feet "#")
 
-Vancouver's four-piece indie-rock group [Jo Passed](http://www.jopassed.com/) is taking a significant leap forward, singing to [Sub Pop](https://www.subpop.com/) and [Royal Mountain Records](https://www.royalmountainrecords.com/) for the release of their debut full-length, *Their Prime*. The band was once the solo project of Joseph Hirabayashi, formerly of the band [Sprïng](https://springband.bandcamp.com/). Hirabayashi and drummer Mac Lawrie operated as a duo out of Montreal for a period before returning to BC. The full band now features multi-instrumentalist Bella Bébé and bassist  Megan-Magdalena Bourne.
+Vancouver's four-piece indie rock group [Jo Passed](http://www.jopassed.com/) is taking a significant leap forward, singing to [Sub Pop](https://www.subpop.com/) and [Royal Mountain Records](https://www.royalmountainrecords.com/) for the release of their debut full-length, *Their Prime*. The band was once the solo project of Joseph Hirabayashi, formerly of the band [Sprïng](https://springband.bandcamp.com/). Hirabayashi and drummer Mac Lawrie operated as a duo out of Montreal for a period before returning to BC. The full band now features multi-instrumentalist Bella Bébé and bassist  Megan-Magdalena Bourne.
 
 You can check out a video for the song "MDM," directed by Eleanor Petry. Jo Passed will release *Their Prime* on May 25.
 

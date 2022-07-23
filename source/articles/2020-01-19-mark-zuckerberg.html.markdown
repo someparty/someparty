@@ -28,7 +28,7 @@ Dboy features the gravelly pipes of guitarist/vocalist Matt Sajn ([Northern Prim
 
 [Watch: Dboy - "Red Ultra Glide" @ YouTube](https://youtu.be/daQOnUj4mYA "#")
 
-Halifax's wry, literate indie-rock quartet [Nap Eyes](https://napeyes.bandcamp.com/) have a new full-length on the way this spring titled *Snapshot of a Beginner*. The record, which follows-up 2018's *I'm Bad Now*, arrives March 27 with [Royal Mountain](https://www.royalmountainrecords.com/), [Jagjaguwar](https://jagjaguwar.com/), and [Paradise of Bachelors](http://www.paradiseofbachelors.com/) carrying it in various territories. It'll be the band's fourth outing.
+Halifax's wry, literate indie rock quartet [Nap Eyes](https://napeyes.bandcamp.com/) have a new full-length on the way this spring titled *Snapshot of a Beginner*. The record, which follows-up 2018's *I'm Bad Now*, arrives March 27 with [Royal Mountain](https://www.royalmountainrecords.com/), [Jagjaguwar](https://jagjaguwar.com/), and [Paradise of Bachelors](http://www.paradiseofbachelors.com/) carrying it in various territories. It'll be the band's fourth outing.
 
 The announcement arrived alongside the jangle-pop lead single "Mark Zuckerberg," replete with a beautifully hypnotic animated video. In a statement the band commented:
 
