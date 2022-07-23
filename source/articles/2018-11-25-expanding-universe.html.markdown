@@ -12,7 +12,7 @@ In an interview with [The East](http://www.theeastmag.com/2018/11/20/new-music-s
 
 > "We do plan to continue it as a series. No exact plans, but the idea is we’ll get together in front of a recording device every so often and make another EP."
 
-Hailing from Port Greville, Nova Scotia, Construction & Destruction are veterans of [SappyFest](http://www.sappyfest.com/), the Sackville, New Brunswick summer music festival where Lambke serves as creative director. The duo also runs The Quarantine, a home studio that keeps popping up in this newsletter (Innes Wilson and B.A. Johnston both recently recorded with them).
+Hailing from Port Greville, Nova Scotia, Construction & Destruction are veterans of [Sappyfest](http://www.sappyfest.com/), the Sackville, New Brunswick summer music festival where Lambke serves as creative director. The duo also runs The Quarantine, a home studio that keeps popping up in this newsletter (Innes Wilson and B.A. Johnston both recently recorded with them).
 
 Lambke and Construction & Destruction have a week of tour dates scheduled in Ontario this December, with appearances planned for Hamilton, London, Guelph, St. Catharines, and Toronto. That Guelph show will be part of the annual [Stay Out Of The Mall](https://www.facebook.com/events/2173711496224808/) fundraiser, hosted by [Vish Khanna](http://vishkhanna.com/). It'll also feature Toronto electro-pop artist [I Am Robot and Proud](https://www.facebook.com/iamrobotandproud/) and the uncategorizable [WHOOP-Szo](https://thenoisymountain.bandcamp.com).
 

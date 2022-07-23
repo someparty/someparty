@@ -2,7 +2,7 @@
 title: Every Flower I See
 date: 2019-06-23
 author: adam@someparty.ca (Adam White)
-description: Music and news from Young Guv, Fly Pan Am, Nyssa, SappyFest, Polaris Music Prize, WLMRT, Side by Side Weekend, Bondar, Bonnie Doon, Absolutely Free, Innes Wilson, Bullshit Hardcore Band, Brand New Lungs
+description: Music and news from Young Guv, Fly Pan Am, Nyssa, Sappyfest, Polaris Music Prize, WLMRT, Side by Side Weekend, Bondar, Bonnie Doon, Absolutely Free, Innes Wilson, Bullshit Hardcore Band, Brand New Lungs
 ---
 
 While Ben Cook makes more immediate noise as leader of the aggressive hardcore unit [No Warning](https://www.facebook.com/pg/nowarning666) (and as a player in the roiling cauldron of maximalism that is [Fucked Up](http://fuckedup.cc/)), his low-key indie-pop solo persona persists as an intriguing source of contrast. The next [Young Guv](https://youngguv.bandcamp.com/) record's on its way, due August 2 from [Run For Cover Records](http://www.runforcoverrecords.com). Titled *GUV I*, the 8-song set follows up 2018's enigmatic *2 Sad 2 Funk*.
@@ -35,7 +35,7 @@ Toronto glam-pop artist [Nyssa](https://soundcloud.com/thisisnyssa) has another 
 
 That video can be found below.
 
-Nyssa's among the performers slated to play Sackville, New Brunswick's [SappyFest](http://www.sappyfest.com/) on the first weekend of August. The festival just announced its latest slate of performers, with [Julie Doiron](https://juliedoiron.bandcamp.com/), [Tim Baker](https://timbaker.net/), [By Divine Right](https://bydivineright.bandcamp.com/)'s José Contreras, [Liz Brain x Doug](https://soundcloud.com/lizbrainxdoug), Lillia, and Flour all named to the event's musical roster. The literary side of the Sappy will feature readings by Marilyn Lerch, Kate Mildew, Annick MacAskill, and Ian Roy, along with a dramatic performance by Patrick Allaby. The event touted these latest additions:
+Nyssa's among the performers slated to play Sackville, New Brunswick's [Sappyfest](http://www.sappyfest.com/) on the first weekend of August. The festival just announced its latest slate of performers, with [Julie Doiron](https://juliedoiron.bandcamp.com/), [Tim Baker](https://timbaker.net/), [By Divine Right](https://bydivineright.bandcamp.com/)'s José Contreras, [Liz Brain x Doug](https://soundcloud.com/lizbrainxdoug), Lillia, and Flour all named to the event's musical roster. The literary side of the Sappy will feature readings by Marilyn Lerch, Kate Mildew, Annick MacAskill, and Ian Roy, along with a dramatic performance by Patrick Allaby. The event touted these latest additions:
 
 > "It seems like we're never quite finished! As some of our oldest, most inspirational and foundational friends return, as some new friends pay a surprise visit, we're thrilled to welcome their legendary songs, their poetic wisdom, their story telling inventions, their sonic instigations, their bar-rock deconstructions to the Sappyfest 14 program. We hope for Sappyfest to be a conversation between everyone willing to share this space in the spirit of goodwill and with open hearts, across disciplines, genres, and forms of expression. We hope you will join us!"
 

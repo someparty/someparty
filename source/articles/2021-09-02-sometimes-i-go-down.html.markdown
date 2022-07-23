@@ -126,7 +126,7 @@ Gulfer released a self-titled 13-song full-length last October through [Royal Mo
 ###[Cluttered](https://cluttered.bandcamp.com/): "Ativan Love Letter"
 ==Watch on [YouTube](https://youtu.be/hz41fgrgk-Y) - Preview and purchase at [Bandcamp](https://cluttered.bandcamp.com/album/cluttered)==
 
-Fresh off some of their first live appearances (taking part in Newfoundland's [Lawnya Vawnya](https://www.instagram.com/lawnyavawnya/) and this telethon edition of [SappyFest](http://www.sappyfest.com/)) Halifax punk quartet [Cluttered](https://cluttered.bandcamp.com/) recently shared a new video for "Ativan Love Letter," the standout track from their debut EP. The clip arrived from director Kay Slauenwhite.
+Fresh off some of their first live appearances (taking part in Newfoundland's [Lawnya Vawnya](https://www.instagram.com/lawnyavawnya/) and this telethon edition of [Sappyfest](http://www.sappyfest.com/)) Halifax punk quartet [Cluttered](https://cluttered.bandcamp.com/) recently shared a new video for "Ativan Love Letter," the standout track from their debut EP. The clip arrived from director Kay Slauenwhite.
 
 Cluttered's self-titled set arrived in January (with roots in December's [Demo Fest](https://demo-fest.org) event). The follow-up *Accidents* EP landed in June. The band's catalogue-to-date find singer-songwriter [Matty Grace](http://mattygrace.bandcamp.com/) (of [Future Girls](https://futuregirls.bandcamp.com/), [Weekend Dads](https://weekenddads.bandcamp.com/), [Outtacontroller](https://outtacontroller.bandcamp.com), etc.) backed by Becca Dalley ([Designosaur](https://designosaur.bandcamp.com/), [Book Buddies](https://bookbuddies.bandcamp.com/)), Danny Bailey (Jabber), and Dylan Mombourquete (Alright Already).
 

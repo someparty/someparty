@@ -2,15 +2,15 @@
 title: Infinite Variety
 date: 2021-07-25
 author: adam@someparty.ca (Adam White)
-description: I was supposed to skip this week, but instead, here's news from SappyFest and a short update on Bad Buzz, The Sunshiny Daze (Snake River), Odonis Odonis, The Effens, Badge Epoch, Huron Lines, and ACTORS
+description: I was supposed to skip this week, but instead, here's news from Sappyfest and a short update on Bad Buzz, The Sunshiny Daze (Snake River), Odonis Odonis, The Effens, Badge Epoch, Huron Lines, and ACTORS
 ---
 
-###[SappyFest](http://www.sappyfest.com/): "Infinite Variety"
+###[Sappyfest](http://www.sappyfest.com/): "Infinite Variety"
 ==Stream on [YouTube](https://youtu.be/0iEOb3KA9rc) this Friday==
 
 While it doesn't take much to delay this newsletter from its (chiefly fictional) Sunday deadline, this week's excuse felt a little less contrived than usual. I just returned home from a few days of over-prepped car camping, having taken the kids up to Turkey Point for a brief diversion from their otherwise monotonous summer. For a few fleeting moments in Norfolk County we could pretend the pandemic was over. My son and daughter spent no less than six straight hours on the beach; I suspect happy to be anywhere other than our house after these long months (and soaking in the novelty of being among a crowd of people again). So I assert that I was, quite justifiably, *elsewhere* when this week's edition would otherwise have come together. If I do say so, these were top-shelf Dad efforts and perfect justification for a rare Some Party skip week.
 
-On our drive home, it occurred to me that even in more innocent times this would have been a travel week - only rather than meandering on the shores of Lake Erie, we'd be eagerly trekking eastward. The end of July was, and remains, [SappyFest](http://www.sappyfest.com/)'s hallowed ground. I'd be remiss to slack off this week without giving their making-the-best-of-it online extravaganza a proper push.
+On our drive home, it occurred to me that even in more innocent times this would have been a travel week - only rather than meandering on the shores of Lake Erie, we'd be eagerly trekking eastward. The end of July was, and remains, [Sappyfest](http://www.sappyfest.com/)'s hallowed ground. I'd be remiss to slack off this week without giving their making-the-best-of-it online extravaganza a proper push.
 
 The beloved New Brunswick festival's again gone virtual as it waits out the pandemic. This year that effort takes the form of a 26-hour variety show - to be live-streamed from 8:00 PM AST this Friday, July 30, through 10:00 PM AST the next night. Broadcasting from [Struts Gallery](https://www.strutsgallery.ca/) in the event's home of Sackville, the event promises "music, art, film, poetry, storytelling, workshopping, cooking, pets, puppets, plant care, yoga, costumes, and much much more." The press release describes it as:
 
@@ -24,7 +24,7 @@ If you're aching for a little more context, Sappy's [Instagram](https://www.inst
 
 Keep in mind is that the event will only be broadcast live and only once - with no piecemeal archive intended for later consumption. While it'll again prove challenging to emit the communal vibe of Sappy's legendary Swamp Magic from afar, the ephemeral nature of Infinite Variety telethon should go a long way towards at least fostering the event's sense of whimsy.
 
-SappyFest's Infinite Variety broadcasts live on [YouTube](https://youtu.be/0iEOb3KA9rc) starting this Friday.
+Sappyfest's Infinite Variety broadcasts live on [YouTube](https://youtu.be/0iEOb3KA9rc) starting this Friday.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0iEOb3KA9rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

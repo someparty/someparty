@@ -24,13 +24,13 @@ A [statement](https://www.facebook.com/halifaxpopexplosion/posts/101557522391306
 >
 >We will not accept this behaviour and neither should you. Be responsible for your friends - talk to them and support them as they move towards unpacking their racism. People of Colour deserve safe spaces and it is your responsibility to help. It is also ours.
 
-It should be noted that Lido's made the same invitation, which is a callback to the riot grrrl movement, at other performances without incident. Steven Lambke, the creative director of [SappyFest](http://www.sappyfest.com/), posted a [message](https://www.facebook.com/stevenlambke/posts/10210064695320299?pnref=story) in support of Pimienta and reflected on the respect shown at the Sackville event.
+It should be noted that Lido's made the same invitation, which is a callback to the riot grrrl movement, at other performances without incident. Steven Lambke, the creative director of [Sappyfest](http://www.sappyfest.com/), posted a [message](https://www.facebook.com/stevenlambke/posts/10210064695320299?pnref=story) in support of Pimienta and reflected on the respect shown at the Sackville event.
 
 ## On a positive note
 
 Speaking of...
 
-It's been a couple years since [Steven Lambke](http://stevenlambke.com/)'s last full length. In October of 2015 the artist released *Days of Heaven*, his first major work under his own name. He'd performed and recorded for years prior as Baby Eagle and of course as a member of the beloved Guelph-bred rock band the [Constantines](http://theconstantines.wordpress.com/). Of course the singer-songwriter's kept busy in the meantime, both as a co-owner of [You've Changed Records](https://youvechangedrecords.com/) and the creative director of [SappyFest](http://www.sappyfest.com/), but it's always nice to hear something new. Here it is.
+It's been a couple years since [Steven Lambke](http://stevenlambke.com/)'s last full length. In October of 2015 the artist released *Days of Heaven*, his first major work under his own name. He'd performed and recorded for years prior as Baby Eagle and of course as a member of the beloved Guelph-bred rock band the [Constantines](http://theconstantines.wordpress.com/). Of course the singer-songwriter's kept busy in the meantime, both as a co-owner of [You've Changed Records](https://youvechangedrecords.com/) and the creative director of [Sappyfest](http://www.sappyfest.com/), but it's always nice to hear something new. Here it is.
 
 "Fireworks" showed up online last week. The track was recorded in Toronto in August of 2016, but that fact and the lyrics are all Steven's revealed about it so far. It's a shade more uptempo than the understated love songs that comprised *Days of Heaven*. We'll just have it wait and see if it's destined for the follow up.
 

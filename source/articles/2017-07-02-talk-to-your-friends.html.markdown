@@ -41,7 +41,7 @@ The 13 song album was recorded by Bell, with drums tracked to analog tape by Dav
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/331046174&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-Toronto's [Teenanger](https://teenanger.bandcamp.com/) continue to preview new music from their upcoming LP *Teenager*, this week sharing the bouncy "Just Drop It." The band are set to tour their way to August's SappyFest alongside Sweet Dave & The Shallow Graves (who are alums of the second Pentagon Black comp). You can find the dates over at [Exclaim](http://exclaim.ca/music/article/teenanger_share_just_drop_it_announce_east_coast_tour).
+Toronto's [Teenanger](https://teenanger.bandcamp.com/) continue to preview new music from their upcoming LP *Teenager*, this week sharing the bouncy "Just Drop It." The band are set to tour their way to August's Sappyfest alongside Sweet Dave & The Shallow Graves (who are alums of the second Pentagon Black comp). You can find the dates over at [Exclaim](http://exclaim.ca/music/article/teenanger_share_just_drop_it_announce_east_coast_tour).
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329531479&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 

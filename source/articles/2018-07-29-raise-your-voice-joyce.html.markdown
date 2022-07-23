@@ -129,10 +129,10 @@ That toddler would be Woodrow Graves, the son of Smith and his producer/partner 
 
 You can preview the song "May I Enter Your Heart" below.
 
-Dog Day are playing a pair of upcoming reunion shows, this coming weekend at Sackville, New Brunswick's SappyFest and an August 25 gig at Halifax's Seahorse Tavern. Songs from the soundtrack are expected to be part of the band's sets.
+Dog Day are playing a pair of upcoming reunion shows, this coming weekend at Sackville, New Brunswick's Sappyfest and an August 25 gig at Halifax's Seahorse Tavern. Songs from the soundtrack are expected to be part of the band's sets.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/473869047&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 [Listen: The Crescent OST - "May I Enter Your Heart" @ SoundCloud](https://soundcloud.com/user-78903201/may-i-enter-your-heart "#")
 
-With all that said, I'm off to SappyFest myself. If you see me around, hit me up for a sticker or to personally unsubscribe, which is the classy way to do it. Next week's edition of Some Party will be quite egregiously late as a result of the trip. You'll be ok.
+With all that said, I'm off to Sappyfest myself. If you see me around, hit me up for a sticker or to personally unsubscribe, which is the classy way to do it. Next week's edition of Some Party will be quite egregiously late as a result of the trip. You'll be ok.

@@ -8,7 +8,7 @@ description: Premiering B.A. Johnston's new banger "Jesus Take The Wheel" from T
 thumbnail: 'premieres/ba-johnston-social.jpg'
 ---
 
-<small>Photo by [Stephen McGill](https://www.flickr.com/photos/smcgillphotography) at SappyFest 13</small>
+<small>Photo by [Stephen McGill](https://www.flickr.com/photos/smcgillphotography) at Sappyfest 13</small>
 
 [B.A. Johnston](http://www.bajohnston.ca/)'s the one artist I can think of who's mastered the most tedious aspect online music promotion: announcing the next show. The problem is that outside of the immediate local market, nobody cares. There's many a band I'm a fan of who I dare not follow online to avoid the tedious, plodding social media posts promoting their next club show, and the next, and the next, and the next. Stoked to play Albany tonight, you can buy tickets online here. Early show in Boise today, tickets available at the door.
 

@@ -2,7 +2,7 @@
 title: Teeth Showing
 date: 2018-04-29
 author: adam@someparty.ca (Adam White)
-description: SappyFest's initial lineup. New stuff from Lost Love, Blessed, Tunic, Trashed Ambulance, Jennifer Castle, TRAITRS, Goosebump, Isla Craig, Casper Skulls, Jesse Lebourdais.
+description: Sappyfest's initial lineup. New stuff from Lost Love, Blessed, Tunic, Trashed Ambulance, Jennifer Castle, TRAITRS, Goosebump, Isla Craig, Casper Skulls, Jesse Lebourdais.
 ---
 
 Last week [Buzz Records](http://buzzrecords.ca/) announced a split 7" featuring the lush Abbotsford, BC post-punk act [Blessed](http://www.blessedtheband.com/) and Winnipeg noise-punk outfit [Tunic](http://tunicband.com/). The label released both sides of the split online in full, with the physical release to be available from the bands on their upcoming North American tour. That trek kicks off in Winnipeg on the 17th of May, then hopping back and forth across the border as it heads east. You can find all the details on [Facebook](https://www.facebook.com/blessedband1234/).
@@ -33,7 +33,7 @@ By contrast Tunic's searing "Teeth Showing" clocks in at just over two minutes. 
 
 [Watch: Jennifer Castle - "Texas" @ YouTube](https://youtu.be/14oe1iDUFCs "#")
 
-While we're on the topic of Jennifer Castle, I should, of course, take a moment mention that the well-regarded Sackville, New Brunswick music festival [SappyFest](http://www.sappyfest.com/) has announced the first portion of its 2018 lineup. The festival will celebrate 13 years with performances by Jennifer Castle along with [The Burning Hell](http://www.wearetheburninghell.com/), [Jeremy Dutcher](https://jeremydutcher.com/), [U.S. Girls](http://yousgirls.blogspot.ca/), [B.A. Johnston](http://www.bajohnston.ca/), [WHOOP-Szo](https://thenoisymountain.bandcamp.com), [Witch Prophet](https://www.witchprophet.com/), [Bonjay](http://www.bonjay.net/), [Emma Healey](http://www.emmahealey.com/), [Leanne Betasamosake Simpson](https://www.leannesimpson.ca/), [Special Costello](http://specialcostello.bandcamp.com/), and [Julie & The Wrong Guys](https://julieandthewrongguys.bandcamp.com/). SappyFest is under the creative direction of the Constantines' Steve Lambke.
+While we're on the topic of Jennifer Castle, I should, of course, take a moment mention that the well-regarded Sackville, New Brunswick music festival [Sappyfest](http://www.sappyfest.com/) has announced the first portion of its 2018 lineup. The festival will celebrate 13 years with performances by Jennifer Castle along with [The Burning Hell](http://www.wearetheburninghell.com/), [Jeremy Dutcher](https://jeremydutcher.com/), [U.S. Girls](http://yousgirls.blogspot.ca/), [B.A. Johnston](http://www.bajohnston.ca/), [WHOOP-Szo](https://thenoisymountain.bandcamp.com), [Witch Prophet](https://www.witchprophet.com/), [Bonjay](http://www.bonjay.net/), [Emma Healey](http://www.emmahealey.com/), [Leanne Betasamosake Simpson](https://www.leannesimpson.ca/), [Special Costello](http://specialcostello.bandcamp.com/), and [Julie & The Wrong Guys](https://julieandthewrongguys.bandcamp.com/). Sappyfest is under the creative direction of the Constantines' Steve Lambke.
 
 I'll be making my first trek out to Sappy this year, and it's a ticket I bought entirely on the reputation of this thing before any announcements. Seeing how it's shaping up, I couldn't be more excited.
 

@@ -107,7 +107,7 @@ Weaves last released the record *Wide Open* on [Buzz Records](http://buzzrecords
 
 [Watch: Weaves - "Neighborhood #3 (Power Out)" @ YouTube](https://youtu.be/LmZT3_zej8E "#")
 
-The second slate of performers has been confirmed for [SappyFest](http://www.sappyfest.com/), the early-August music festival that takes place annually in Sackville, New Brunswick.
+The second slate of performers has been confirmed for [Sappyfest](http://www.sappyfest.com/), the early-August music festival that takes place annually in Sackville, New Brunswick.
 
 The latest batch of bands includes [Boyhood](https://boyhoodsongs.bandcamp.com/), [Darlene Shrugg](https://darleneshrugg.bandcamp.com/), [Cris Derksen](http://crisderksen.virb.com/), [Nick Ferrio](http://www.nickferrio.com/), [Ice Cream](https://icecreeeammm.bandcamp.com/), [Motherhood](http://motherhood-music.com/), Nap Eyes, [Quaker Parents](https://quakerparents.bandcamp.com/), [Ansley Simpson](http://www.ansleysimpson.com/), and a reunion of [Dog Day](http://dogdaymusic.com/). They'll join previously announced performers like U.S. Girls, Jennifer Castle, and B.A. Johnston.
 

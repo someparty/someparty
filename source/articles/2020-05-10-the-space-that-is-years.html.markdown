@@ -2,7 +2,7 @@
 title: The Space That is Years
 date: 2020-05-10
 author: adam@someparty.ca (Adam White)
-description: Only God Forgives, Daniel Romano, Modern Cynics, Flesh & Blood, Chance & Jackie, Vanity Phase, Scheme, Blue, Stonegrass, The Burning Hell, WHOOP-Szo, Single Mothers, The Drew Thomson Foundation, No Idea Head, Hey Dad!!!, The Real McKenzies, Chris Page, B.A. Johnston, SappyFest
+description: Only God Forgives, Daniel Romano, Modern Cynics, Flesh & Blood, Chance & Jackie, Vanity Phase, Scheme, Blue, Stonegrass, The Burning Hell, WHOOP-Szo, Single Mothers, The Drew Thomson Foundation, No Idea Head, Hey Dad!!!, The Real McKenzies, Chris Page, B.A. Johnston, Sappyfest
 ---
 
 I remain disappointed that the brilliant Toronto art-punks [WLMRT](https://wlmrt.bandcamp.com/) opted for an early grave this winter, but thankfully the band's distinctive vocalist is back with a new project. [Only God Forgives](http://onlygodforgivesto.bandcamp.com) pairs the dry vocal wit of Shelby Wilson with [Tallies](http://tallies.bandcamp.com)' Stephen Pitman as a twitchy electronic duo. Wilson unfairly diminished the 12-song *Power and Prowess* as a rip-off of Olympia's legendary Beat Happening ("but [with] some punky songs, because punk is the best"), but you should judge for yourself over at Bandcamp. The home-recorded project features the couple with guest appearances by [Cam Fraser](http://camfraser.bandcamp.com) of [Luge](https://hugeluge.bandcamp.com), Mary Getachew of [SExT](https://www.sexeducationbytheatre.com/), Kenny Boothby of [Little Kid](https://littlekid.bandcamp.com/), and Nathan Patrick of [Albert Plague](https://albertplague.bandcamp.com/). Wilson tries on a few different vocal modes as the record progresses, with the quirky pop backing giving her a little more space to play she had among WLMRT's breakneck frenzy.
@@ -181,7 +181,7 @@ To hold you over until then, here's a stray new track posted to Johnston's Twitt
 
 [Watch: B.A. Johnston - "Now We Consume Chinese Food" @ YouTube](https://twitter.com/BAJohnston/status/1258939230371434496 "#")
 
-The writing's been on the wall for weeks, and we're now finally seeing the last hopeful hold-outs of the summer festival season put their events on hold for the year. Today that list included Sackville, New Brunswick's [SappyFest](http://www.sappyfest.com/), a gathering and a state of mind that's played a pivotal role in shaping the heart and soul of this very newsletter. The event was slated for the first weekend in August. A statement from organizers read:
+The writing's been on the wall for weeks, and we're now finally seeing the last hopeful hold-outs of the summer festival season put their events on hold for the year. Today that list included Sackville, New Brunswick's [Sappyfest](http://www.sappyfest.com/), a gathering and a state of mind that's played a pivotal role in shaping the heart and soul of this very newsletter. The event was slated for the first weekend in August. A statement from organizers read:
 
 > "For 14 consecutive years, Sappyfest has been held, here in the heart of the heart of the heart of the maritimes, in the hot heart of summer, on the August long weekend in beautiful Sackville NB. It is with a certain sorrow that we have to acknowledge that even impossible dreams sometimes meet impossible realities. The ongoing public health situation will prevent us from hosting Sappyfest, as we've come to know it and love it, this summer.
 >

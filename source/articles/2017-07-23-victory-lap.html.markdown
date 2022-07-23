@@ -22,7 +22,7 @@ Pittsburgh's [Cruel Noise Records](https://www.cruelnoiserecords.com/) has set a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLYWO82FFq8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Also from Halifax, experimental indie-pop act [Heaven For Real](https://heavenforreal.bandcamp.com/) are set to tour both Canada and Japan this September in support of their 2016 [Mint Records](https://www.mintrecs.com/) release *Kill Your Memory*. Following an appearance at SappyFest on August 7th they'll play Montreal, Ottawa, Guelph, and Toronto before taking the long flight to Tokyo. You can find the dates at [Exclaim](http://exclaim.ca/music/article/heaven_for_real_map_out_canadian_tour_dates).
+Also from Halifax, experimental indie-pop act [Heaven For Real](https://heavenforreal.bandcamp.com/) are set to tour both Canada and Japan this September in support of their 2016 [Mint Records](https://www.mintrecs.com/) release *Kill Your Memory*. Following an appearance at Sappyfest on August 7th they'll play Montreal, Ottawa, Guelph, and Toronto before taking the long flight to Tokyo. You can find the dates at [Exclaim](http://exclaim.ca/music/article/heaven_for_real_map_out_canadian_tour_dates).
 
 Niagara-on-the-Lake post-hardcore act [Heavy Hearts](http://heavyheartsband.com/) premiered a video for their new song "Unravel (Your Love)" at [New Noise](http://newnoisemagazine.com/heavy-hearts-unravel-love-video/). The [New Damage](http://newdamagerecords.com/)-released single comes amidst their ongoing US tour and gives some hint at the direction they'll follow on their eventual follow up to 2016's *Bliss*.
 

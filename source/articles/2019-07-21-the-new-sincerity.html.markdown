@@ -15,7 +15,7 @@ As for Jimmie's interpretation, he commented on his website:
 
 All clear?
 
-The song's the second single release from the fast-approaching sequel to 2011's *Transistor Sister*, aptly titled *Transistor Sister 2*. The album arrives on [You've Changed Records](https://youvechangedrecords.com/) on Friday, August 2, coinciding with Jimmie's triumphant return to Sackville, New Brunswick's [SappyFest](http://www.sappyfest.com/) as the Saturday night headliner the following evening.
+The song's the second single release from the fast-approaching sequel to 2011's *Transistor Sister*, aptly titled *Transistor Sister 2*. The album arrives on [You've Changed Records](https://youvechangedrecords.com/) on Friday, August 2, coinciding with Jimmie's triumphant return to Sackville, New Brunswick's [Sappyfest](http://www.sappyfest.com/) as the Saturday night headliner the following evening.
 
 While Jimmie's regularly released music since that fan-favourite album (most recently *Field of Trampolines* in 2016 and the first [The Heat Death](https://theheatdeath.bandcamp.com) record last year ), the new full length serves as a direct response to that the original *Transistor Sister*. Jimmie commented earlier that he intended to "recreate the immersive experience of making the original" by working with a full band in a self-contained studio session.
 

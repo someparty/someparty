@@ -17,7 +17,7 @@ The album announcement arrived alongside the upbeat single "Cool All The Time," 
 
 > "I think of Chad's monologue like it's our version of Chuck D on Sonic Youth's Kool Thing. In hindsight, I should have named the Track 'Kool All The Time'  "
 
-The 13 song *Transistor Sister 2* arrives from You've Changed on August 2. The release coincides with Jimmie's long-awaited return to Sackville, New Brunswick's [SappyFest](http://www.sappyfest.com/).
+The 13 song *Transistor Sister 2* arrives from You've Changed on August 2. The release coincides with Jimmie's long-awaited return to Sackville, New Brunswick's [Sappyfest](http://www.sappyfest.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3731652709/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://youvechangedrecords.bandcamp.com/album/transistor-sister-2">Transistor Sister 2 by Shotgun Jimmie</a></iframe>
 
@@ -144,7 +144,7 @@ I don't have any music to share from the deal yet, but here's the band's last re
 
 Fredericton's joyous and noisy art-punk trio [Motherhood](https://motherhoodmusic.bandcamp.com/) revealed two videos featuring their sing "Hard in the Paint" over the past week. First, there's an acoustic performance filmed on a cafe patio in Brighton sometime last year. You can stream that from [DiscovrTV](https://www.facebook.com/DiscovrTVLondon/videos/450657599043196/UzpfSTE0OTY2MzE3NTA1MzUzNzoyNDYzNjI1MDYwMzIzOTky/) on Facebook. They followed that on Monday with a proper music video that turns the *Dear Bongo* single into a beach dance party.
 
-The band's newest LP arrived this past March from the [Forward Music Group](https://www.forwardmusicgroup.com/). Motherhood features lead-vocalist/guitarist Brydon Crain, keyboardist Penelope Stevens, and drummer Adam Sipkema. Look for them on stage at the above-mentioned [SappyFest](http://www.sappyfest.com/) this August.
+The band's newest LP arrived this past March from the [Forward Music Group](https://www.forwardmusicgroup.com/). Motherhood features lead-vocalist/guitarist Brydon Crain, keyboardist Penelope Stevens, and drummer Adam Sipkema. Look for them on stage at the above-mentioned [Sappyfest](http://www.sappyfest.com/) this August.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYMDoac3ISE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

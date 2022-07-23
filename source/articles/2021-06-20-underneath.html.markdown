@@ -2,7 +2,7 @@
 title: Underneath
 date: 2021-06-20
 author: adam@someparty.ca (Adam White)
-description: A packed week with Rick White (Eric's Trip), Daniel Romano, Jimmy Vapid, Deliluh, Hubert Lenoir, The Black Halos, Bad Waitress, Botfly, Ilusión, Bleu Nuit, New Chance, CIA, AHRF, The Offsailors, Danko Jones, Kristian North, Freelove Fenner, Chris Page, and SappyFest
+description: A packed week with Rick White (Eric's Trip), Daniel Romano, Jimmy Vapid, Deliluh, Hubert Lenoir, The Black Halos, Bad Waitress, Botfly, Ilusión, Bleu Nuit, New Chance, CIA, AHRF, The Offsailors, Danko Jones, Kristian North, Freelove Fenner, Chris Page, and Sappyfest
 ---
 
 ###[Rick White](https://rickwhitearchive.bandcamp.com/): "Underneath"
@@ -29,7 +29,7 @@ On the other hand, *Cobra Poems* is a wholly new studio full-length, due Septemb
 
 I've long counted myself a fan of the individual Outfit members, in some cases well before they came into Romano's orbit (most are somewhat local to me), so it's heartening to see their increasing visibility in promotional materials and album art. Interchangeable side-players these are not.
 
-Picking the setlists for their eventual gigs could prove interesting, given that Danny issued 11 distinct albums in 2020, with a 12th (*Kissing The Foe*) arriving earlier this year. Of course, Romano is nothing if not restless, so the safe money's on more to come. If we somehow emerge from 2021 with nothing further from this crew, I'll eat my SappyFest ballcap.
+Picking the setlists for their eventual gigs could prove interesting, given that Danny issued 11 distinct albums in 2020, with a 12th (*Kissing The Foe*) arriving earlier this year. Of course, Romano is nothing if not restless, so the safe money's on more to come. If we somehow emerge from 2021 with nothing further from this crew, I'll eat my Sappyfest ballcap.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=60495691/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://danielromano.bandcamp.com/album/fully-plugged-in">Fully Plugged In by Daniel Romano</a></iframe>
 
@@ -210,10 +210,10 @@ When not stuck recording at home, Chris Page plays as part of the duo [Expanda F
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2679893674/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://chrispage.bandcamp.com/track/saints-breeders-cover">Saints (Breeders cover) by Chris Page</a></iframe>
 
-###[SappyFest](http://www.sappyfest.com/): Infinite Variety
+###[Sappyfest](http://www.sappyfest.com/): Infinite Variety
 ==See the [application form](https://forms.gle/eqPRP2oQu8Cs63tw5)==
 
-I offhandedly mentioned Sackville, New Brunswick's [SappyFest](http://www.sappyfest.com/) earlier in the newsletter. As expected, the festival's again succumbing to circumstances beyond its control, going virtual for a second subsequent year for obvious reasons. In lieu of the sorely missed gathering, the event's 16th incarnation emerges as a community talent show to be broadcast online from Sackville for 28 straight hours starting Friday, July 30. Sappy's organizers seek "[the] reestablishing of connections and a reaffirmation of a shared sense of place" with the project. They commented:
+I offhandedly mentioned Sackville, New Brunswick's [Sappyfest](http://www.sappyfest.com/) earlier in the newsletter. As expected, the festival's again succumbing to circumstances beyond its control, going virtual for a second subsequent year for obvious reasons. In lieu of the sorely missed gathering, the event's 16th incarnation emerges as a community talent show to be broadcast online from Sackville for 28 straight hours starting Friday, July 30. Sappy's organizers seek "[the] reestablishing of connections and a reaffirmation of a shared sense of place" with the project. They commented:
 
 >"Sappyfest: Infinite Variety will be just that - a variety show of infinite possibilities, inspired by cable access telethons and the spirit of community presentation. It is every good and hopeful idea we can squeeze into a full 28 hour online broadcast. Infinite Variety will be performed live at [Struts Gallery](https://www.strutsgallery.ca/) in Sackville, NB from the evening of Friday July 30 through the evening of Saturday July 31 and streamed out to a worldwide audience on the Sappyfest web channels. It's going to be fun. It's going to be strange. It's going to be Sappy.
 
