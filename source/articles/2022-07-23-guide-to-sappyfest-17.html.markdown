@@ -12,7 +12,7 @@ In case you're wondering, this isn't a paid promotion. It's bordering more on an
 
 Below you'll find a recap of the complete roster performing this year's event, a manageable number of artists to wrap your head around, given the sprawling lineups we see at bigger festivals. Some of these names are well-represented in the annals of Some Party, while others required a good deal of research. I feel better for doing it, as Sappy's small enough that you can embrace the tapestry of sounds without needing to pick and choose. Even if you're not attending - I suspect you'll find something of interest below. Sappy has an uncanny ability to create a sense of community independent of genre or stylistic preference, and this batch of artists exemplifies that.
 
-*I'll also note two exclusive bits of content below. First, Sackville's own [Klarka Weinwurm](/#klarka_weinwurm) provided me with an on-the-ground report of the pandemic's impact on her hometown. Second, I dive deep with [Tough Age](/#tough_age) on the band's future - sharing some extended passages from an unpublished interview I conducted/botched earlier this year.*
+*I'll also note two exclusive bits of content below. First, Sackville's own [Klarka Weinwurm](https://www.someparty.ca/2022-07-23-guide-to-sappyfest-17/#klarka_weinwurm) provided me with an on-the-ground report of the pandemic's impact on her hometown. Second, I dive deep with [Tough Age](https://www.someparty.ca/2022-07-23-guide-to-sappyfest-17/#tough_age) on the band's future - sharing some extended passages from an unpublished interview I conducted/botched earlier this year.*
 
 ![Sappyfest 17](articles/sappyfest17_logo.png)
 
@@ -44,7 +44,7 @@ Noel recorded *Hang Time* primarily at Montreal studio The Pines with engineer S
 
 ###[The Burning Hell](http://www.wearetheburninghell.com/)
 ==Fairfield, Prince Edward Island<br/>
-Listen to *Garbage Island* at [Bandcamp]https://theburninghell.bandcamp.com/album/garbage-island) - IG: [@theburninghellband](https://www.instagram.com/theburninghellband/)==
+Listen to *Garbage Island* at [Bandcamp](https://theburninghell.bandcamp.com/album/garbage-island) - IG: [@theburninghellband](https://www.instagram.com/theburninghellband/)==
 
 Even before recent troubles [The Burning Hell](http://www.wearetheburninghell.com/)'s kept a keen eye on the apocalypse. Let's not forget that nimble singer/songwriter Mathias Kom vaporized an entire wedding once (see "Canadian Wine" from 2017's *Revival Beach*, an album that closed with the society-rebooting "Supermoon"). It's always done with a wry smile and a clever turn of phrase, though. These disasters often happen off-screen, with Kom more interested in cheerfully cataloguing and celebrating the messy human minutiae left in its wake. It's fitting that the band's first album since the pandemic quite literally revels in the trash: the 12-song *Garbage Island* addresses "The End of the End of the World" quite directly (although with a bit of an avian perspective).
 
