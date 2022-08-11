@@ -214,7 +214,7 @@ Calgary singer-songwriter Ryan Bourne recently shared the psych-pop breakup song
 
 The song arrived alongside a video co-directed by Rebecca Reid.
 
-Bourne plays with the Calgary indie rock troop [Ghostkeeper](https://ghostkeeper.bandcamp.com/) and serves as a member of  [Chad VanGaalen](https://chadvangaalen.bandcamp.com/)'s backing band the Bleach Wipes with Chris Dadge. This song features all of the above, with Dadge on percussion, VanGaalen on synth, and Shane Ghostkeeper adding the sound of a backwards saw to the mix.
+Bourne plays with the Calgary indie rock troop [Ghostkeeper](https://ghostkeeper.bandcamp.com/) and serves as a member of [Chad VanGaalen](https://chadvangaalen.bandcamp.com/)'s backing band the Bleach Wipes with Chris Dadge. This song features all of the above, with Dadge on percussion, VanGaalen on synth, and Shane Ghostkeeper adding the sound of a backwards saw to the mix.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wUMTMmsv9-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

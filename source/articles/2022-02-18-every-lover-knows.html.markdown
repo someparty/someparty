@@ -145,7 +145,7 @@ Calgary indie rock group [Ghostkeeper](https://ghostkeeper.bandcamp.com/) recent
 
 >" [The Trees is about] escaping this colonial, political climate with its greed that abuses the Earth and its many religions that vie to conquer and chain the soul. It's about yearning to return to that powerful spot: that piece of land where I have played in wonderment with the Creator as it engaged as Mother Earth and Grandmother Sun; that place in time when spirituality was simple, concise and magical... and I felt safe, inspired, and grateful."
 
-This album again finds Ghostkeeper's core duo of Shane Ghostkeeper and Sarah Houle backed by multi-instrumentalist Ryan Bourne](https://ryanbourne.bandcamp.com/) (of [Chad VanGaalen](https://chadvangaalen.bandcamp.com/)'s Bleach Wipes) and drummer Eric Hamelin. Founded in the Metis settlement of Paddle Prairie, Alberta, the band's following up their 2017 LP *Sheer Blouse Buffalo Knocks*. The group worked with Lorrie Matheson in the studio.
+This album again finds Ghostkeeper's core duo of Shane Ghostkeeper and Sarah Houle backed by multi-instrumentalist [Ryan Bourne](https://ryanbourne.bandcamp.com/) (of [Chad VanGaalen](https://chadvangaalen.bandcamp.com/)'s Bleach Wipes) and drummer Eric Hamelin. Founded in the Metis settlement of Paddle Prairie, Alberta, the band's following up their 2017 LP *Sheer Blouse Buffalo Knocks*. The group worked with Lorrie Matheson in the studio.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I254BYz--4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
