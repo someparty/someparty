@@ -143,7 +143,7 @@ Hamilton power-trio [Captain WildChild](https://captainwildchild.bandcamp.com) r
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2zf1tSRqD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Smelters](https://smelters.bandcamp.com/): "You"
+###[Smelters](https://smelters.bandcamp.com/): "Dance All Night"
 ==Watch on [YouTube](https://youtu.be/0sJrPurP1NA) - Preview and purchase at [Bandcamp](https://smelters.bandcamp.com/album/burnin-dirt)==
 
 With roots in Hinton, Alberta, the [Smelters](https://smelters.bandcamp.com/) have been kicking around the west coast of Canada for nearly 20 years. This week the Ramonescore pop-punk group issues *Burnin' Dirt*, a new full-length LP through [Mom's Basement Records](https://www.facebook.com/MomsBasementRecords/) and [This Is Pop](https://www.facebook.com/thisispop780/). The quartet recorded at Edmonton studio The Shed with producer Chrispy Workun (of [The Blame Its](https://theblameits.bandcamp.com/)). Cody Blakely of [The Nielsens](https://thenielsens.bandcamp.com/) mixed the album and contributed a couple of guitar solos to the project. Stuard McKillop mastered at Railtown.
