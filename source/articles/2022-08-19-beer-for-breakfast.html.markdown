@@ -29,7 +29,7 @@ Given the punk roots of this newsletter and my baffling conceit that geography m
 - [The Nasties](https://thenastiesguelph.bandcamp.com/) from Guelph dip all the way back to 1978 to resurrect "Sick Boy" by Toronto's The Anemics.
 - Fredericton's [Hard Charger](https://hardcharger.bandcamp.com/) wrap things up with "Beer for Breakfast" by Dunnville, Ontario's Problem Children.
 
-I was about to write something hyperbolic to celebrate the first mention of the mighty Dunnville in this newsletter, but I let the occasion pass unremarked upon back in 2018. Oh well. Look for *Punk Canada Vol 1* on vinyl soon. Online availability seems a little iffy at the moment, so one of the Ripcordz' supporting tour dates may be your best bet. Digitally you can pluck these tracks from Bandcamp now.
+I was about to write something hyperbolic to celebrate the first mention of the mighty Dunnville in this newsletter, but I let the occasion pass unremarked upon back in 2018. Oh well. Look for *Punk Canada Vol 1* on vinyl soon. Online availability seems a little iffy at the moment, so one of the bands' supporting tour dates may be your best bet. Digitally you can pluck these tracks from Bandcamp now.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4256416029/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://ripcordz.bandcamp.com/album/punk-canada-vol-1">Punk Canada, Vol. 1 by Ripcordz</a></iframe>
 
