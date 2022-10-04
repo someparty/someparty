@@ -173,7 +173,7 @@ New Chance, also known as Victoria Cheong, shared:
 
 >"Seth's video captures the expansive freedom-seeking spirit of the song. An empty road at the edge of day beckons us toward the stars."
 
-Scriver's debut film, *Asphalt Watches*, won the Best First Canadian Feature Award at the Toronto International Film Festival in 2013. The nine-song *Real Time* arrived in July of 2021 through the Chandra band-affiliated [We Are Time](https://wearetime.bandcamp.com/) label. A remix album followed in November, featuring contributions from Canadian post-punk luminaries like [LAL](https://lalforest.bandcamp.com/), [Petra Glynt](http://www.petraglynt.zone/), [Peleda](https://pelada.bandcamp.com/), and [Lee Paradise](https://leeparadisemusic.bandcamp.com/).
+Scriver's debut film, *Asphalt Watches*, won the Best First Canadian Feature Award at the Toronto International Film Festival in 2013. The nine-song *Real Time* arrived in July of 2021 through the Chandra band-affiliated [We Are Time](https://wearetime.bandcamp.com/) label. A remix album followed in November, featuring contributions from Canadian post-punk luminaries like [LAL](https://lalforest.bandcamp.com/), [Petra Glynt](http://www.petraglynt.zone/), [Peleda](https://pelada.bandcamp.com/), and [Lee Paradise](https://leeparadise2.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQytIkNDJ-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

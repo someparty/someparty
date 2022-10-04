@@ -192,10 +192,10 @@ The work, co-produced by Hackman and Anthony William Wallace, features what the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fe2LyHZWu9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Lee Paradise](https://leeparadisemusic.bandcamp.com/): "Cement" (ft Scott Hardware)
+###[Lee Paradise](https://leeparadise2.bandcamp.com/): "Cement" (ft Scott Hardware)
 ==Watch on [YouTube](https://youtu.be/gidJxn6wZ5M) - Preview and purchase at [Bandcamp](https://leeparadise2.bandcamp.com/album/co)==
 
-Dan Lee's "cyborg-funk" project [Lee Paradise](https://leeparadisemusic.bandcamp.com/) returns in the fall with a guest-packed collaborative LP. Our first taste of *Lee Paradise & Co.* arrived last week with the single "Cement," featuring Scott Harwood's avant-pop guise [Scott Hardware](https://scotthardware.bandcamp.com/). Harwood revealed in a press release:
+Dan Lee's "cyborg-funk" project [Lee Paradise](https://leeparadise2.bandcamp.com/) returns in the fall with a guest-packed collaborative LP. Our first taste of *Lee Paradise & Co.* arrived last week with the single "Cement," featuring Scott Harwood's avant-pop guise [Scott Hardware](https://scotthardware.bandcamp.com/). Harwood revealed in a press release:
 
 >"'Cement' is a sort of short story about an imperfect friendship. It touches on lots of hard-to-admit emotions that can arise in relationships as people get older and life gets harder. Cement as a substance is rough. It'll scrape you if you fall on it, but at the same time, it's solid and permanent. That's what the harder side of friendships can feel like at times - bitter, jealous, unkind - but solid nonetheless in a world that changes around us and our own inner worlds changing. I can admit I was having a rough couple of months when I wrote it. It's a snapshot of a bad mood, essentially."
 

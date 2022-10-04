@@ -127,10 +127,10 @@ The track follows up on the single "Colour Blue," issued in March of 2021, and b
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2514787645/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://bedss.bandcamp.com/track/manowar-beach">Manowar Beach by BEDS</a></iframe>
 
-###[Lee Paradise](https://leeparadisemusic.bandcamp.com/): "Dreamin'"
+###[Lee Paradise](https://leeparadise2.bandcamp.com/): "Dreamin'"
 ==Preview and purchase at [Bandcamp](https://leeparadise2.bandcamp.com/track/dreamin)==
 
-Dan Lee's "cyborg-funk" project [Lee Paradise](https://leeparadisemusic.bandcamp.com/) resurfaced last week with another one-off single. "Dreamin'" follows up last summer's sensation (in my house, at least) "Tripping Over Daisies." [Telephone Explosion](https://www.telephoneexplosion.com/) detailed the new track:
+Dan Lee's "cyborg-funk" project [Lee Paradise](https://leeparadise2.bandcamp.com/) resurfaced last week with another one-off single. "Dreamin'" follows up last summer's sensation (in my house, at least) "Tripping Over Daisies." [Telephone Explosion](https://www.telephoneexplosion.com/) detailed the new track:
 
 > "'Dreamin" starts with a flowery harpsichord riff and gradually stirs in tasteful instrumentation alongside a perfectly sedate vocal melody. Clocking in at just over two minutes, the song reaches an alternately melancholic and majestic peak before disappearing in a puff of reverberated smoke. Listeners will wonder if things will kick back in, waiting in confusion like woozy beachgoers after a sun-drenched nap."
 

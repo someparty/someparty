@@ -22,10 +22,10 @@ Dunn, as always, has numerous projects and collaborations percolating. Last fall
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2013063115/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1381934260/transparent=true/" seamless><a href="https://dr-joy.bandcamp.com/album/dr-joy">Dr. Joy by Dr. Joy</a></iframe>
 
-###[Lee Paradise](https://leeparadisemusic.bandcamp.com/): "Tripping Over Daisies"
+###[Lee Paradise](https://leeparadise2.bandcamp.com/): "Tripping Over Daisies"
 ==Preview and purchase at [Bandcamp](https://leeparadise2.bandcamp.com/album/tripping-over-daisies)==
 
-Dan Lee's "cyborg-funk" project [Lee Paradise](https://leeparadisemusic.bandcamp.com/) returned last week with a brilliantly breezy summer single. "Tripping Over Daisies" features a few notable guests, with Karen Ng of the [Badge Époque Ensemble](https://badgeepoque.bandcamp.com) appearing on saxophone and flute, while Toronto singer [Blunt Chunks](https://bluntchunks.bandcamp.com/) lends backing vocals. [Telephone Explosion](https://www.telephoneexplosion.com/) broke down the track in a press release:
+Dan Lee's "cyborg-funk" project [Lee Paradise](https://leeparadise2.bandcamp.com/) returned last week with a brilliantly breezy summer single. "Tripping Over Daisies" features a few notable guests, with Karen Ng of the [Badge Époque Ensemble](https://badgeepoque.bandcamp.com) appearing on saxophone and flute, while Toronto singer [Blunt Chunks](https://bluntchunks.bandcamp.com/) lends backing vocals. [Telephone Explosion](https://www.telephoneexplosion.com/) broke down the track in a press release:
 
 >"Composed in two parts, the first addresses the maddening and confounding notion of time, how we sometimes try to bend it to our own wills, use it to its maximum potential, get caught up in future possibilities, or try to correct the past.
 >

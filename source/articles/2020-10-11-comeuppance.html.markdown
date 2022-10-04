@@ -87,7 +87,7 @@ The track features McGrath on keys, guitar, bass, and vocals, with Connor Elling
 
 [Listen: Eamon McGrath - "Sparkle & Bleed" @ SoundCloud](https://soundcloud.com/eamonmcgrath/06-sparkle-and-bleed "#")
 
-[Telephone Explosion](https://www.telephoneexplosion.com/) recently shared a second preview of *The Fink*, the latest record from Dan Lee's "cyborg-funk" post-punk outfit [Lee Paradise](https://leeparadisemusic.bandcamp.com/). You can stream the upbeat, psych-influenced "Maintaining Platitudes" now. It's one of 12 songs due for the record when it arrives on December 4.
+[Telephone Explosion](https://www.telephoneexplosion.com/) recently shared a second preview of *The Fink*, the latest record from Dan Lee's "cyborg-funk" post-punk outfit [Lee Paradise](https://leeparadise2.bandcamp.com/). You can stream the upbeat, psych-influenced "Maintaining Platitudes" now. It's one of 12 songs due for the record when it arrives on December 4.
 
 Dan Lee plays in the Toronto art-rock group [Hooded Fang](https://hoodedfang.bandcamp.com/) as well as the electronic psych-pop group [Phèdre](https://phedre.bandcamp.com/). It's been six years since the release of Lee Paradise's debut, *Water Palace Kingdom*.
 

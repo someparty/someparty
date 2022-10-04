@@ -101,7 +101,7 @@ Dogma recorded with [House of TARG](http://www.houseoftarg.com/) co-founder Paul
 
 [Listen: Dogma - "Austerity" @ Bandcamp](https://dogmapeacepunk.bandcamp.com/album/dogma-2 "#")
 
-[Telephone Explosion](https://www.telephoneexplosion.com/)'s set a December 4 release date for *The Fink*, the latest record from Dan Lee's "cyborg-funk" post-punk outfit [Lee Paradise](https://leeparadisemusic.bandcamp.com/). You can preview the record now through the single "Message to the Past."
+[Telephone Explosion](https://www.telephoneexplosion.com/)'s set a December 4 release date for *The Fink*, the latest record from Dan Lee's "cyborg-funk" post-punk outfit [Lee Paradise](https://leeparadise2.bandcamp.com/). You can preview the record now through the single "Message to the Past."
 
 The label elaborated on Lee's songwriting process, highlighting how the live incarnation of the project helped shape these new tunes:
 
