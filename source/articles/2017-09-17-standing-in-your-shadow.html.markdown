@@ -5,13 +5,13 @@ author: adam@someparty.ca (Adam White)
 description: Reissues from The Nils, Zellots, and East Money. New tracks from PONY, Twist, and Don't Bother. Videos from Jock Tears and Alvvays.
 ---
 
-On October 14 [Label Obscura](https://labelobscura.ca/) is set to reissue the self-titled debut record from Montreal's [The Nils](https://www.facebook.com/TheNilsBand/), the first time this classic of Canadian independent music has been in press for decades.
+On October 14 [Label Obscura](https://labelobscura.ca/) is set to reissue the self-titled debut record from Montreal's [The Nils](https://thenilsmtl.bandcamp.com), the first time this classic of Canadian independent music has been in press for decades.
 
 The Nils first released the *Sell Out Young!* EP in 1985 and the *Paisley* EP shortly after in 86, recording their debut full-length for Rock Hotel Records (an imprint of NYC hip-hop label Profile Records) in 87. Profile's bankruptcy forced the band to abandon a major US tour and ultimately left the record out-of-print. Worse, the band was unable to release any material under their name for the duration of their contract with Profile (about four years).
 
 Label Obscura's had the album remastered at Lacquer Channel Studios and pressed on 180-gram vinyl. Their set features new artwork from Yorodeo (the visual art collective of [Dog Day](http://dogdaymusic.com/)’s Seth Smith) and liner notes from Jack Rabid of [The Big Takeover](http://bigtakeover.com/).
 
-Nils founder Alex Soria took his own life in 2003, with the band eventually reforming in 2015 with his brother, bassist Carlos Soria, taking over vocal duties. The band will celebrate the reissue if their debut with an [October 17](https://www.facebook.com/events/340645883061612/) show at Ottawa's House of Targ with the [Steve Adamyk Band](https://steveadamykband.com/) and [Dead Weights](https://deadweights.bandcamp.com/).
+Nils founder Alex Soria took his own life in 2004, with the band eventually reforming in 2015 with his brother, bassist Carlos Soria, taking over vocal duties. The band will celebrate the reissue if their debut with an [October 17](https://www.facebook.com/events/340645883061612/) show at Ottawa's House of Targ with the [Steve Adamyk Band](https://steveadamykband.com/) and [Dead Weights](https://deadweights.bandcamp.com/).
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/347391036&amp;color=%2300aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
