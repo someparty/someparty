@@ -191,7 +191,7 @@ Lambke, who first came to prominence as guitarist and co-vocalist of the beloved
 ###[Bike Thiefs](https://bikethiefs.bandcamp.com/): *Small Claims Court*
 ==Watch on [YouTube](https://youtu.be/M88_hWfTjqE) - Preview and purchase at [Bandcamp](https://bikethiefs.bandcamp.com/album/small-claims-court)==
 
-Toronto's [Bike Thiefs](https://bikethiefs.bandcamp.com/) are in Europe supporting their 2020 [Stomp Records](https://stomprecords.com/) LP *Leaking*. To mark the occasion, the wry punk group's shared "Small Claims Court," their first new studio recording since their debut. The track finds the trio recording with Emmett O'Reilly and Mike Warne of [Pkew Pkew Pkew](https://www.pkewx3.com/)producing. You can check it out at Bandcamp or through the accompanying video on YouTube. The single comes backed by the "morose version" of the *Leaking* song "Flyover State."
+Toronto's [Bike Thiefs](https://bikethiefs.bandcamp.com/) are in Europe supporting their 2020 [Stomp Records](https://stomprecords.com/) LP *Leaking*. To mark the occasion, the wry punk group's shared "Small Claims Court," their first new studio recording since their debut. The track finds the trio recording with Emmett O'Reilly and Mike Warne of [Pkew Pkew Pkew](https://www.pkewx3.com/) producing. You can check it out at Bandcamp or through the accompanying video on YouTube. The single comes backed by the "morose version" of the *Leaking* song "Flyover State."
 
 Bike Thiefs features bassist Kris Pandierada, drummer Andrew Fasken, and guitarist/vocalist Marko Woloshyn.
 
