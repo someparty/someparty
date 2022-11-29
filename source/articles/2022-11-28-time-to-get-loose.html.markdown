@@ -51,10 +51,10 @@ The new track follows the impactful "Dream Rope" and "Victoria" in debuting Brat
 ###[Bus People](https://buspeoplexo.bandcamp.com): "Luck"
 ==Preview and purchase at [Bandcamp](https://buspeoplexo.bandcamp.com/track/luck) - Watch on [YouTube](https://youtu.be/hOI6sfClwz4)==
 
-Corner Brook's [Bus People](https://buspeoplexo.bandcamp.com) describe themselves as a lo-fi prom band, not a common genre descriptor but one that feels right on the money. The band, a duo comprised of Aley Waterman and Scott Sheppard, recently shared a video for their debut single, "Luck." The  synthpop confection's our first preview of the band's forthcoming record *Starcade*.
+Corner Brook's [Bus People](https://buspeoplexo.bandcamp.com) describe themselves as a lo-fi prom band, not a common genre descriptor by any means, but one that feels right on the money. The duo, comprised of Aley Waterman and Scott Sheppard, recently shared a video for their debut single, "Luck." That synthpop confection's our first preview of the band's forthcoming record *Starcade*.
 
-The band commented on the tune in a press release, stating:
-s
+Bus People commented on the tune in a press release, stating:
+
 > "Our debut single, 'Luck,' was inspired by a nostalgia for being a young teenager in a small town. The conflicts of the time felt so simple when looking back through the lens of adulthood.
 >
 > There's a calm narrative throughout the verses but we wanted to capture an unhinged energy in the choruses that really reflects a desire to go back to the innocence of youth when that concept becomes an impossibility."
