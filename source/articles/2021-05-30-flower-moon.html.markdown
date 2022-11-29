@@ -25,13 +25,13 @@ Alexisonfire most recently released the one-off singles "Season of the Flood," "
 ###[Dany Laj and the Looks](http://danylaj.com/): "You & Me"
 ==Purchase at [Bandcamp](https://wearebusybodies.bandcamp.com/album/dany-laj-and-the-looks-ten-easy-pieces) - Watch on [YouTube](https://youtu.be/-BewhQ-Ol70)==
 
-Sudbury power-pop act [Dany Laj and the Looks](http://danylaj.com) have a hopping new single out, with the lively "You & Me" offering a second preview of the group's fast-approaching LP, *Ten East Pieces*. The track arrived alongside a kinetic video from director Ryan Thompson that finds Laj and bassist/vocalist Jeanette Dowling on an enviable tropical vacation. Granted, it's one that's interrupted by a sea monster, but at this point, I'll take anything.
+Sudbury power-pop act [Dany Laj and the Looks](http://danylaj.com) have a hopping new single out, with the lively "You & Me" offering a second preview of the group's fast-approaching LP, *Ten Easy Pieces*. The track arrived alongside a kinetic video from director Ryan Thompson that finds Laj and bassist/vocalist Jeanette Dowling on an enviable tropical vacation. Granted, it's one that's interrupted by a sea monster, but at this point, I'll take anything.
 
 In a press release, Laj commented:
 
 >"'You & Me' is a sixties-esque pop love blender with seven lines of lyrics, containing seventeen words slapped together with drums, bass, guitar, vocals, keys and tremolo. It's a vacation on your favourite pure-pop island."
 
-Laj self-produced *Ten East Pieces* at La La Pop Shoppe in Sudbury, with Jesse Gander (Wares, Woolworm, Necking) mixing and mastering from Vancouver. The songs featured on new the LP were selected from over three albums worth of material written between tours before the pandemic. Look for the record, the follow up to 2019's *Everything Old Is New Again*, on June 11 through [We Are Busy Bodies](https://wearebusybodies.bandcamp.com).
+Laj self-produced *Ten Easy Pieces* at La La Pop Shoppe in Sudbury, with Jesse Gander (Wares, Woolworm, Necking) mixing and mastering from Vancouver. The songs featured on new the LP were selected from over three albums worth of material written between tours before the pandemic. Look for the record, the follow up to 2019's *Everything Old Is New Again*, on June 11 through [We Are Busy Bodies](https://wearebusybodies.bandcamp.com).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-BewhQ-Ol70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
