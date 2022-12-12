@@ -132,7 +132,7 @@ The band's EP, issued this past May, reworked five favourites from Wilson's solo
 ###[Tang](https://www.instagram.com/tang_internet_propaganda/): "Future Plans"
 ==Watch on [YouTube](https://youtu.be/GseOt4mPnD8)==
 
-The scrappy Toronto low-fi project [Tang](https://www.instagram.com/tang_internet_propaganda/) recently resurfaced with a new single previewing their forthcoming album. Last week at [Punknews](https://www.punknews.org/article/78777/torontos-tang-debut-their-future-plans-video), I debuted the band's serenely aquatic video for "Future Plans." It's our first glimpse into the dynamic, pandemic-fueled racket of *Fish in a Fishbowl*, due digitally on December 17 through [Influenza Records](https://influenza-records.bandcamp.com/) in Europe and [Art of the Uncarved Block](https://artoftheuncarvedblock.bandcamp.com/) in Canada.
+The scrappy Toronto lo-fi project [Tang](https://www.instagram.com/tang_internet_propaganda/) recently resurfaced with a new single previewing their forthcoming album. Last week at [Punknews](https://www.punknews.org/article/78777/torontos-tang-debut-their-future-plans-video), I debuted the band's serenely aquatic video for "Future Plans." It's our first glimpse into the dynamic, pandemic-fueled racket of *Fish in a Fishbowl*, due digitally on December 17 through [Influenza Records](https://influenza-records.bandcamp.com/) in Europe and [Art of the Uncarved Block](https://artoftheuncarvedblock.bandcamp.com/) in Canada.
 
 Tang principal Peter Connelly (Low Sun, Shahman) notes the song's roots in those fraught early days of the Ontario COVID lockdowns:
 
@@ -154,7 +154,7 @@ The Squad represents yet another recombination of lifers from the deeply interco
 ###[UZU](https://uzupunk.bandcamp.com): *Pils Session*
 ==Preview and purchase at [Bandcamp](https://pilssessions.bandcamp.com/album/uzu-session-17-11-22)==
 
-The Montreal punk trio [UZU](https://uzupunk.bandcamp.com) recently took the trip to Gatineau to record a propulsive set for the [Pils Sessions](https://pilssessions.bandcamp.com). The band notably delivers their dark melodic punk music entirely in Arabic. UZU feautres bassist Mimel, drummer Gustavo, guitarist/vocalist Adlene, and guitarist Mathieu. Before setting up in Montreal, members of UZU previously played in the Algerian group [Demokhratia](https://awd-tapes.bandcamp.com/album/no-religions-no-states).
+The Montreal punk trio [UZU](https://uzupunk.bandcamp.com) recently took the trip to Gatineau to record a propulsive set for the [Pils Sessions](https://pilssessions.bandcamp.com). The band notably delivers their dark melodic punk music entirely in Arabic. UZU features bassist Mimel, drummer Gustavo, guitarist/vocalist Adlene, and guitarist Mathieu. Before setting up in Montreal, members of UZU previously played in the Algerian group [Demokhratia](https://awd-tapes.bandcamp.com/album/no-religions-no-states).
 
 The band's Pils set lands in the wake of their self-titled full-length, issued in April of this year. As with all Pils Sessions, Chany Pilote produced while Dizz Hupé documented the studio work. You can see the latter's video for the song "Akhtanik اوزو أختنق" on [YouTube](https://youtu.be/KqMFBu3_Syg) now.
 
