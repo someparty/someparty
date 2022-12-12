@@ -235,7 +235,7 @@ The band's still teasing that the record's first single lands on April 8 - which
 ###[Hood Rats](https://hoodrats.bandcamp.com): *2022 Demo tracks*
 ==Preview and purchase at [Bandcamp](https://hoodrats.bandcamp.com/album/2022-demo-tracks)==
 
-Montreal punks [Hood Rats](https://motherhoodmusic.bandcamp.com/) have a new full-length record in the works, delayed as most are by the worldwide vinyl backlog. The band shared a set of four demo recordings to hold fans over. These tracks mark the gritty group's first new material since *40oz Of Fury* in the summer of 2019.
+Montreal punks [Hood Rats](https://hoodrats.bandcamp.com) have a new full-length record in the works, delayed as most are by the worldwide vinyl backlog. The band shared a set of four demo recordings to hold fans over. These tracks mark the gritty group's first new material since *40oz Of Fury* in the summer of 2019.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2380815006/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://hoodrats.bandcamp.com/album/2022-demo-tracks">2022 Demo tracks by HOOD RATS</a></iframe>
 

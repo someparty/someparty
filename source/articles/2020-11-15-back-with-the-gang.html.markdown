@@ -174,7 +174,7 @@ The group's new EP arrives alongside a full-length from [Jawsh & The Drowned Liv
 
 [Watch: Burning Nickels - "Jerome" @ YouTube](https://youtu.be/2T2_Yz3Ev68 "#")
 
-Toronto's lo-fi rock project [Tang](https://tanginternetpropaganda.com/) recently shared a new collection of home-recorded material dubbed *The Quiet Earth*. The set arrived in late September from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) and the Parisian label [Influenza Records](https://influenza-records.bandcamp.com/). A video featuring the track "Piet Alley" recently premiered at Punknews. You can check it out below.
+Toronto's lo-fi rock project [Tang](https://www.instagram.com/tang_internet_propaganda/) recently shared a new collection of home-recorded material dubbed *The Quiet Earth*. The set arrived in late September from [Art of the Uncarved Block](https://www.artoftheuncarvedblock.com/) and the Parisian label [Influenza Records](https://influenza-records.bandcamp.com/). A video featuring the track "Piet Alley" recently premiered at Punknews. You can check it out below.
 
 The seven-song set follows last year's *Finding Peace, Isn't The Point*. Connelly has roots in the post-hardcore groups [Low Sun](https://low--sun.bandcamp.com/) and Shahman.
 
