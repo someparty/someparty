@@ -2,7 +2,7 @@
 title: Somewhere Beyond
 date: 2022-12-12
 author: adam@someparty.ca (Adam White)
-description: Stumbling into December with Un Huh (formerly Teenanger), Shirley & The Pyramids, Butcher's Laugh, Sweet Dave, Hood Rats, Kali Horse, Hobby, Tearing Up, Ivan Rivers, Innes Wilson's Freightliner, Tang, B.A.L.M Squad, UZU, Méfait, Doctor Mother Father, Weird Nightmare, Chris Page, OwlMountainRadar, 63 Monroe, and Sunday Morning (doing Art Bergmann)!
+description: Stumbling into December with Uh Huh (formerly Teenanger), Shirley & The Pyramids, Butcher's Laugh, Sweet Dave, Hood Rats, Kali Horse, Hobby, Tearing Up, Ivan Rivers, Innes Wilson's Freightliner, Tang, B.A.L.M Squad, UZU, Méfait, Doctor Mother Father, Weird Nightmare, Chris Page, OwlMountainRadar, 63 Monroe, and Sunday Morning (doing Art Bergmann)!
 ---
 
 ###[Uh Huh](https://uhhuhband.bandcamp.com): "Somewhere Beyond"
