@@ -6,7 +6,7 @@ description: Stumbling into December with Un Huh (formerly Teenanger), Shirley &
 ---
 
 ###[Uh Huh](https://uhhuhband.bandcamp.com): "Somewhere Beyond"
-==Purchase at [Bandcamp](https://uhhuhband.bandcamp.com/track/somewhere-beyond)==
+==Preview and purchase at [Bandcamp](https://uhhuhband.bandcamp.com/track/somewhere-beyond)==
 
 I'm not one to fret over a band changing directions. I'm actually rather enamoured with the narrative of a creative shift, as there are often breadcrumb trails obvious only in hindsight. If a compelling story arc's hidden among isolated songs and past diversions, connecting those dots is immensely satisfying. Honestly, you don't even need to be right about it. Such is the case with the sardonic Toronto garage punks of [Teenanger](https://teenanger.bandcamp.com/), and their newly debuted second life as the dub-heavy art-rock act [Uh Huh](https://uhhuhband.bandcamp.com).
 
@@ -55,7 +55,7 @@ As the principal behind Brain Bag, Clayton put out a separate batch of demos in 
 
 >"In the last 'lockdown' I decided I would bring a Tascam 4 track cassette recorder and a limited bunch of instruments up to our dining room table and record a batch of very simple, un-laboured-over songs. I finished them, but got sidetracked with life and they never saw the light of day. I didn't labour over the mixing of these- they are as they are on the tape. Raw and simple."
 
-Like Dave's past solo work, the track accentuates the goth potential of his vocals, a quality that's often lost among the Freaks' garage-punk racket. Look for more recordings from those dining room sessions in the coming weeks.
+Like Dave's past solo work, the track accentuates the goth potential of his vocals, a quality that's often lost among the Freaks' garage-punk racket. Look for more recordings from those dining room sessions in the coming weeks ("Big Hat No Cattle"/"Golden Age" just dropped at press-time).
 
 This material follows Sweet Dave's 2021 full-length, *Now More Than Ever*, and a busy slate of side-projects. The artist recently issued short-form material as a member of [The Trophies](https://trophyrecords.bandcamp.com) (a 60s garage revival band with his [Trophy Tattoo](http://www.trophytattoo.com/) coworkers) and [Perfect World](https://perfectw0rld.bandcamp.com) (a new project with the Freaks' Vivienne Bell with Chance Hutchison of [PRIORS](https://priorsmtl.bandcamp.com/)). [TV Freaks](https://teeveefreakzz.bandcamp.com/)-proper last issued their ambitious *People* LP in 2020 through [Schizophrenic](https://schizophrenicrex.bandcamp.com/).
 
@@ -218,7 +218,7 @@ The band's making these three songs, collected as the *Bluey Pink* EP, available
 
 London's [Yeah Right! Records](http://yeahrightrecords.com/) have dusted off one of the Ontario town's classic early-80s punk artifacts. The seven-song *N.F.G.* album marked the debut of the now-long-running glam/punk act [63 Monroe](https://yeahrightrecords.bandcamp.com/album/n-f-g). It's now available for the first time digitally from the label, with a vinyl reissue on the way. The band, at the time, featured vocalist Steven R Stunning, guitarist Marky Burnaway, drummer Pete "Lambougini" Lambert, and bass at various points from Bob Gliddon and Mark Deroux. The album opens with three songs tracked at EMAC Studios in June of 1980, with the remainder taken from a live set at the Cedar Lounge in February of that year.
 
-This update features remasterers of the audio from the original analogue tapes, performed in March of 2022 by Rob Nation.
+This update features remasters of the audio from the original analogue tapes, performed in March of 2022 by Rob Nation.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3778913981/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://yeahrightrecords.bandcamp.com/album/n-f-g">N.F.G. by 63 Monroe</a></iframe>
 
