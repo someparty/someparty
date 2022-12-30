@@ -8,7 +8,7 @@ description: Wrapping up 2022 with Strange Attractor, Jyraph, Dermabrasion, Knit
 ###[Strange Attractor](https://strangeattractor.bandcamp.com): "Dog Walker"
 ==Watch on [YouTube](https://youtu.be/4WMWMX3vkNw) - Preview and purchase at [Bandcamp](https://strangeattractor.bandcamp.com/album/good-boy-bad-boy-3)==
 
-It's been a quiet month - which is to say I'm projecting my malaise and inaction onto the music scene and calling it a trend. It's either that or I claim I've gifted you the mercy of less email over the holidays. Take your pick. This is my newsletter. I can do whatever I want.
+It's been a quiet month - which is to say I'm projecting my malaise and inaction onto the music scene and calling it a trend. It's either that or I claim I've gifted you the mercy of less email over the holidays. Take your pick.
 
 While I could happily hibernate into the new year, I'd be remiss in my duties if I let 2022 pass without celebrating the triumphant return of Jeff Houle's [Strange Attractor](https://strangeattractor.bandcamp.com/). The Sudbury-based punk project roared out of hiatus earlier this month with "Dog Walker," the lead single from a fast-approaching LP *Good Boy Bad Boy*.
 
@@ -44,12 +44,14 @@ The unexpected December arrival's the first we've heard from Kat McGouran and Ad
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1952077049/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://dermabrasion.bandcamp.com/album/dragula">Dragula by Dermabrasion</a></iframe>
 
-###[Knitting](https://knitting.bandcamp.com): *Throwaway Year*
+###[Knitting](https://knitting.bandcamp.com): "Throwaway Year"
 ==Watch on [YouTube](https://youtu.be/KgigkIfGkw0) - Preview and purchase at [Bandcamp](https://knitting.bandcamp.com/track/throwaway-year-2)==
 
 Mischa Dempsey's [Knitting](https://knitting.bandcamp.com) is back with "Throwaway Year," the first single from the Montreal indie rock act since their self-titled 2021 EP. Since that debut, Knitting's solidified as a four-piece lead by Dempsey (formerly of Peterborough's [Lonely Parade](https://thelonelyparade.bandcamp.com/)) and backed by guitarist Sarah Harris, bassist Piper Curtis, and drummer Andy Mulcair. The new track's the first recorded by this lineup, although it has far earlier roots. On that, Dempsey revealed:
 
 >"I wrote 'throwaway year' about the year when I was 18. It was a really rough one, I moved out of home for the first time and lost a lot of friendships and ended the year feeling it was irredeemable, and just needed to be thrown out. Fast forward to this year, I found myself thinking about this song again, in relation the pandemic and feeling like so much of my year had already been wasted, or thrown away. This song is significant because it's the first song we've arranged and recorded together as a full band - I think this brings a feeling of relief to the song, like the worst of the isolation is hopefully over, and we have each other and a sense of community again."
+
+The song arrived accompanied by a video directed by Ryan O'Marra.
 
 Over the past year-and-a-half, Knitting's shared the stage with artists like Julie Doiron, Nap Eyes, and Gulfer, also making appearances at POP Montreal and Calgary's Sled Island. 2023 promises the band's first US outings, with planned trips down south to SXSW, Treefort, and the New Colossus festival.
 
