@@ -9,7 +9,7 @@ Dundas, Ontario's three-piece rock combo [The Dirty Nil](https://thedirtynil.ban
 
 The band's first single from the new set is "Bathed In Light," a huge power-pop track that resulted from sessions with veteran alt-rock producer John Goodmanson (Sleater-Kinney, Bikini Kill). It establishes a theme of car crashes that's said to recur throughout the album. Guitarist/vocalist Luke Bentham commented on that, and the track's origins, in the press release:
 
-> "What can I say, most of the rock ‘n' roll I've consumed in my lifetime has something to do with fast cars, as Van Halen as that sounds... On a tour of England, I kept napping in the back seat of the sprinter. One dream, involving a fiery roundabout death, shocked me to consciousness and put me in a jittery mood. I wrote down some nonsense on the back of a guitar string package and put a stomper of a riff to it at soundcheck. Roundabouts are terrifying."
+> "What can I say, most of the rock 'n' roll I've consumed in my lifetime has something to do with fast cars, as Van Halen as that sounds... On a tour of England, I kept napping in the back seat of the sprinter. One dream, involving a fiery roundabout death, shocked me to consciousness and put me in a jittery mood. I wrote down some nonsense on the back of a guitar string package and put a stomper of a riff to it at soundcheck. Roundabouts are terrifying."
 
 On this record The Dirty Nil are Bentham and longtime drummer Kyle Fisher, with Niagara music scene fixture Ross Miller marking his first full-length with the band on bass.
 
@@ -41,7 +41,7 @@ The song's available as *Psychic Readings Vol. 3*, the third release in the cass
 
 Augusta Veno spoke about the album, which was written in the wake of their Peterborough, Ontario scene dissolving.
 
-> “I don't think there's any way we could write another album like this now. It's charged with a very specific negative energy. We were friends with almost everyone in our tiny scene, and now no one talks to each other and nothing feels as penultimate as how it did in Peterborough then. It's so tiny there that if you fuck one thing up with someone and then go downtown, everybody knows. It just started feeling really small."
+> "I don't think there's any way we could write another album like this now. It's charged with a very specific negative energy. We were friends with almost everyone in our tiny scene, and now no one talks to each other and nothing feels as penultimate as how it did in Peterborough then. It's so tiny there that if you fuck one thing up with someone and then go downtown, everybody knows. It just started feeling really small."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kiQilZrR_d0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -67,7 +67,7 @@ I'm a massive fan of "Cool Water," the first single that Calgary guitar-pop act 
 
 Last week the band issued a video for the song, animated by [Mat Lindenberg](http://matlindenberg.com/). Frontman Craig Fahner commented on it in the premiere at [Big Takeover](http://bigtakeover.com/news/video-premiere-cool-water-by-feel-alright):
 
-> "I made the “Cool Water” video with the brilliant and talented artist Mat Lindenberg using a video game development software called Unity3D. The idea started as a throwback to my childhood encounters with technology – I would spend a lot more time figuring out how to break things than how to use them as intended. I remember playing a skateboarding video game and finding a glitch that would let you float into a white void racking up infinite points, all while generating a beautiful feedback-like image. We attempted to reconstruct that kind of surreal passage into various strange environments, playing off of the song's weightless ambience.”
+> "I made the "Cool Water" video with the brilliant and talented artist Mat Lindenberg using a video game development software called Unity3D. The idea started as a throwback to my childhood encounters with technology – I would spend a lot more time figuring out how to break things than how to use them as intended. I remember playing a skateboarding video game and finding a glitch that would let you float into a white void racking up infinite points, all while generating a beautiful feedback-like image. We attempted to reconstruct that kind of surreal passage into various strange environments, playing off of the song's weightless ambience."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dvhYdJJikr0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -99,7 +99,7 @@ Vancouver punk outfit [NEEDS](http://www.needsvancouver.com/) will release a new
 
 Last week NEEDS released a video for the song "Everybody Makes Me Steaks." Here's what they had to say about it:
 
-> "Steaks" started off as a poem. We wanted to make a different sounding song in the vein of TV Freaks. There's a reference to Agate Beach which is in northern California where we stopped on the way down the first time. The title is a reference to my first ever solo exhibition where I presented London Drugs contact sheets blown up and encased in lucite. on the opposite wall I wrote "Everybody Makes me Steaks." it was meant to defy the dominant narrative of Vancouver school photography that looks for the ‘perfect photograph.' By showing the contact prints you could see all of my mistakes as well as the process. The song is rich in visual narrative and I wanted to complement that with an homage to 90s shoegaze videos, but, as with everything we do, we wanted to keep it light, event though it's basically a song about how much my body hurts all the time.
+> "Steaks" started off as a poem. We wanted to make a different sounding song in the vein of TV Freaks. There's a reference to Agate Beach which is in northern California where we stopped on the way down the first time. The title is a reference to my first ever solo exhibition where I presented London Drugs contact sheets blown up and encased in lucite. on the opposite wall I wrote "Everybody Makes me Steaks." it was meant to defy the dominant narrative of Vancouver school photography that looks for the 'perfect photograph.' By showing the contact prints you could see all of my mistakes as well as the process. The song is rich in visual narrative and I wanted to complement that with an homage to 90s shoegaze videos, but, as with everything we do, we wanted to keep it light, event though it's basically a song about how much my body hurts all the time.
 
 The band's prepared a series of essays that expand on the meanings behind songs of *Limitations*. It'll run at [needslimitations.com](http://needslimitations.com/).
 
@@ -115,7 +115,7 @@ The label detailed the collection's origins in their press release:
 >
 > We were shown test-pressings of The Electric Lucifer board mixes from his Columbia studio sessions, countless pieces of written music, a large number of personal photos, an invitation from Raymond Scott inviting Bruce to play his newly created Electronium instrument (now owned by Devo's Mark Mothersbaugh), poems, press clippings, and, most importantly, a shelf containing 213 reel-to-reel tapes.
 >
-> All of the chosen material on Preservation Tapes is unreleased and has only been heard by a handful of people. It showcases a relatively unknown period in Bruce's musical career where Bruce was recording for Sparrow Records (who billed themselves as "America's best Christian music record label.”) Bruce's signature Farad vocoder continues to feature prominently, but the lyrical content is decidedly more religious.
+> All of the chosen material on Preservation Tapes is unreleased and has only been heard by a handful of people. It showcases a relatively unknown period in Bruce's musical career where Bruce was recording for Sparrow Records (who billed themselves as "America's best Christian music record label.") Bruce's signature Farad vocoder continues to feature prominently, but the lyrical content is decidedly more religious.
 
  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/453697287&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
