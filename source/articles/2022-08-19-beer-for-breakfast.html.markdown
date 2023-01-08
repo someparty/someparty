@@ -242,3 +242,37 @@ The city of Toronto plays a starring role in [Sloan](https://sloanmusic.bandcamp
 The track's one of twelve slated for *Steady*, the indie legends' 13th studio album. It's due through [Yep Roc Records](https://www.yeproc.com/) on October 21, arriving 30 years to the month from *Smeared*. Sloan impressively still boasts their classic lineup of guitarist/vocalist Patrick Pentland, bassist/vocalist Chris Murphy, drummer/vocalist Andrew Scott, and guitarist/vocalist Jay Ferguson. The new record follows up their 2018 LP *12* and the two recent *B Sides Win* collections issued through the group's Murderecords.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4UFGlqBejPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+###[Status/Non-Status](https://statusnonstatus.bandcamp.com): *January 3rd*
+==Preview and purchase at [Bandcamp](https://statusnonstatus.bandcamp.com/album/january-3rd)==
+
+Adam Sturgeon recently shared the second single from the new [Status/Non-Status](https://statusnonstatus.bandcamp.com) record. You can hear the folk-rocker "Mainly Crows" at Bandcamp and see it in a visually dense new video from director and animator Jordan Allen (Breeze, Fake Palms). In a statement, Sturgeon mused on the track:
+
+>"[It's an] observation on community of how flashy lights and opportunities flush vibrant people from their humble homes. It's about the death of the small town and the call to join the city mass. More than that, it is a tribute to friends and about travelling between worlds to see them along the way. It's a song about how sorely they are missed and how we can't really blame them for moving away."
+
+The band recorded this 10-song set with Matthew Wiewel at Sudbury's Deadpan Studios. Harris Newman mastered. *Surely Travel* comes on the heels of Status/Non-Status' *1, 2, 3, 4, 500 Years* EP, and follows up on Sturgeon's final record under the name WHOOP-Szo, 2019's *Warrior Down*. The new album, due September 23 from [You've Changed](https://youvechangedrecords.com/), is also notably the first from Sturgeon in the wake of *Sewn Together*: his Polaris shortlisted full-length team-up with [Zoon](https://zoongideewinmusic.bandcamp.com)'s Daniel Monkman, jointly billed by the Anishnaabe songwriters as [OMBIIGIZI](https://ombiigizi.bandcamp.com).
+
+
+
+
+Status/Non-Status follow up the critically acclaimed Surely Travel LP with a selection of additional material drawn from the same fruitful sessions. The January 3rd EP offers 3 beautiful reflections on the search for home, those left behind when we leave, and those lost far too early, highlighted by a title track calling to a more natural way of existing but trapped within the busy people, streets and lights of a broken city. Collected together these songs document a sentimental journey that sounds just right on the cold winds of winter.
+
+"January 3rd is a song of reflection; a call to a more natural way of existing but trapped within the busy people, streets and lights of a broken city.
+I wrote this while living in Flint, Michigan and it was the first song we recorded for Surely Travel, where in a song we are all just trying to be free.
+
+Johnny's Song could be about any kid, anywhere. In this case a specific kid - Johnny, who was trying his best to persevere despite a harsh reality at home, each day bringing a new challenge but finding hope within the cold terrain of the Arctic tundra and being on the land.
+
+Glide is a dedication to our dear mother, mentor and friend who slipped into the ice and never came home. Emotions got the better of me through tracking so I walked away from the song and left it unfinished. Still can't listen to it to this day." - Adam Sturgeon
+credits
+released January 3, 2023
+
+Recorded, Mixed and Mastered by Matthew Wiewel, Deadpan Studios
+Layout/Design by Blake Stevenson
+
+
+Out today is a set of rather personal tracks.... songs that for one reason or another didn't find their way onto our latest LP Surely Travel (have you heard it?!). We call it the January 3rd EP and you can listen now. these songs are yet another means to release thought and expressions (and sometimes heavy vibes) into a vast world. We yearn to find you and ourselves on the journey. So heads up and we'll see you on the way.
+
+
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2723554885/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://statusnonstatus.bandcamp.com/album/january-3rd">January 3rd by Status/Non-Status</a></iframe>

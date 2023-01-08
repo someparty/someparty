@@ -64,7 +64,7 @@ Goosebump will play Feel Alright's upcoming record release show on June 14 at th
 
 [Listen: Goosebump - "She Don't Say Goodbye" @ SoundCloud](https://soundcloud.com/goosebump-music/she-dont-say-goodbye-1 "#")
 
-Last week I mentioned that Toronto hardcore act [S.H.I.T.](http://whatwedoissecrete.org/) was releasing a new LP this summer titled *What Do You Stand For?*. I neglected, however, to include the fact that it would a second album would be simultaneously released. That record, titled *Complete S.H.I.T.*, will collect and compiles the band's other studio recordings. Both arrive on June 1.
+Last week I mentioned that Toronto hardcore act [S.H.I.T.](https://whatwedoissecrete.bandcamp.com) was releasing a new LP this summer titled *What Do You Stand For?*. I neglected, however, to include the fact that it would a second album would be simultaneously released. That record, titled *Complete S.H.I.T.*, will collect and compiles the band's other studio recordings. Both arrive on June 1.
 
 Last week Richard Trapunski interviewed guitarist Greg Benedetto for [NOW Toronto](https://nowtoronto.com/music/features/s-h-i-t--punk-band/). His article is well worth your time and touches on the struggles and hypocrisies a politically-minded band like S.H.I.T. has to grapple with to maintain DIY values in today's digital reality. It's a remarkably compelling piece.
 

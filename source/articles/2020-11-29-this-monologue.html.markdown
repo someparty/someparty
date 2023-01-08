@@ -163,7 +163,7 @@ We've had a ton of news recently from members of Red Deer's [Trashed Ambulance](
 >
 >This song was the first thing I wrote as I came out of the darkness and as you will see, it's a bowl of gummy bears in terms of joyfulness. Unfortunately for your ears, I've decided to keep Trashed Ambulance going so stay tuned for a few new tracks coming in this god-forsaken year because things will get worse but hey, at least we still have punk rock!"
 
-The latest Trashed Ambulance materials arrived through Montreal's [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/). Hauta and Jason (Ozone) Ezeard recently released the new *Bernie Goes To College* EP as [Burning Nickels](https://highenddenimrecords.bandcamp.com/album/shout-at-the-nickel), and the *Eloquent Trash* acoustic collection as [Jawsh & The Drowned Livers](https://highenddenimrecords.bandcamp.com/album/eloquent-trash).
+The latest Trashed Ambulance materials arrived through Montreal's [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/). Hauta and Jason (Ozone) Ezeard recently released the new *Bernie Goes To College* EP as [Burning Nickels](https://highenddenimrecords.bandcamp.com/album/shout-at-the-nickel), and the *Eloquent Trash* acoustic collection as [Jawsh & The Drowned Livers](https://highenddenimrecords.bandcamp.com/album/eloquent-trash).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QvA4CL87z6o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

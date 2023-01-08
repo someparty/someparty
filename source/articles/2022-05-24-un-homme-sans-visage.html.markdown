@@ -28,7 +28,7 @@ As a member of Les Hay Babies, Julie Aubé last issued *Boîte aux lettres* in F
 ###[Trashed Ambulance](https://instagram.com/trashedambulance/): "Blip On The Radar"
 ==Listen at [YouTube](https://youtu.be/GIRNL1jtH8I)==
 
-After a busy year of digital releases from side-projects and sibling groups, Red Deer punks [Trashed Ambulance](https://instagram.com/trashedambulance/) are back with a new single. "Blip on the Radar" is the first we've heard from their upcoming full length, due later this year through Montreal's [Thousand Island Records](https://thousandislandsrecords.bandcamp.com/). On the song, the band commented:
+After a busy year of digital releases from side-projects and sibling groups, Red Deer punks [Trashed Ambulance](https://instagram.com/trashedambulance/) are back with a new single. "Blip on the Radar" is the first we've heard from their upcoming full length, due later this year through Montreal's [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/). On the song, the band commented:
 
 >"'Blip on the Radar' is a look into the mind of someone battling addiction and depression. Going at it alone in an existence supported by the worst drug dealer of them all... the doctors that feed them pills and false hope. The sky opened up and they finally realized that it was always up to them to dig themselves out of the dirt, and punk music and sobriety were a means to an end."
 

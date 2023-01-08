@@ -25,7 +25,7 @@ You've Changed will release the set on vinyl on March 27. A video for the track 
 
 [Watch: Daniel Romano and The Outfit - "Nerveless" @ YouTube](https://youtu.be/znUMs5SpX64 "#")
 
-Toronto hardcore stalwarts [S.H.I.T.](http://whatwedoissecrete.org/) returned with two new songs this week. "Hidden In Eternity" and "Eraser III" were both released in the lead-up to the band's upcoming European shows, which include gigs in Barcelona and Athens along with an appearance as part of London's [Static Shock Weekend](https://www.facebook.com/events/new-river-studios/static-shock-weekend-viii-london/1632407200230056/). The band primarily recorded these tracks with [Tallies](http://tallies.bandcamp.com)' Dylan Frankland recording. [Fucked Up](http://fuckedup.cc/)'s Jonah Falco mixed and is credited with engineering some additional material.
+Toronto hardcore stalwarts [S.H.I.T.](https://whatwedoissecrete.bandcamp.com) returned with two new songs this week. "Hidden In Eternity" and "Eraser III" were both released in the lead-up to the band's upcoming European shows, which include gigs in Barcelona and Athens along with an appearance as part of London's [Static Shock Weekend](https://www.facebook.com/events/new-river-studios/static-shock-weekend-viii-london/1632407200230056/). The band primarily recorded these tracks with [Tallies](http://tallies.bandcamp.com)' Dylan Frankland recording. [Fucked Up](http://fuckedup.cc/)'s Jonah Falco mixed and is credited with engineering some additional material.
 
 S.H.I.T.'s last proper full-length was 2018's killer *What Do You Stand For?*. It was simultaneously released that summer with a collection titled *Complete S.H.I.T.*, which compiled the band's prior studio recordings.
 
