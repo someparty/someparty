@@ -33,7 +33,7 @@ Béton Armé's following up on 2020's *Au bord du gouffre* EP. In 2021 the band 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2c7oeo6Meug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ###[Big Thyme](https://bigthyme.bandcamp.com/): "Home Away From Home"
-==Watch on [YouTube](https://youtu.be/scI4YUQAn4k)==
+==Listen on [YouTube](https://youtu.be/scI4YUQAn4k)==
 
 Sam Coffey's [Big Thyme](https://bigthyme.bandcamp.com/) returned this week with "Home Away From Home," the second single from the Iron Lungs principle's trad-country side gig. Here the frontman drapes his authentic vocal twang in reverb, giving the tune something of a lo-fi garage edge. It's a satisfying counterpoint to the honky tonk keys and Sam's gleefully throwback genre affectations. Coffey's joined on the recording by [Altameda](http://altameda.net/) drummer Erik Grice and pedal steel player Morgan Husty, with backing vocals from Toronto glam-pop titan [Nyssa](https://nyssa.bandcamp.com). They're the same personnel from Big Thyme's namesake debut single, a group Coffee's now calling the Magic Big Thyme Band.
 
