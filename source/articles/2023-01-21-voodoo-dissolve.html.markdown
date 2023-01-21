@@ -114,7 +114,7 @@ The quartet features Andrew Salazar, John Miorin, Craig Terzievski, and Jeff Bri
 ###[Ace of Wands](https://aceofwands.bandcamp.com): "I Taste Blood"
 ==Preview and purchase at [Bandcamp](https://aceofwands.bandcamp.com/track/i-taste-blood)==
 
-Toronto's [Ace of Wands](https://aceofwands.bandcamp.com) has a high-octane rocker out this week dubbed "I Taste Blood," another preview of their forthcoming LP *Desiring*. Look for that album on March 21 through [Fortune Stellar Records](https://fortunestellarrecords.com/) (By Divine Right, HotKid). A press release details the song, stating:
+Toronto's [Ace of Wands](https://aceofwands.bandcamp.com) has a high-octane rocker out this week dubbed "I Taste Blood," another preview of their forthcoming LP *Desiring*. Look for that album on March 31 through [Fortune Stellar Records](https://fortunestellarrecords.com/) (By Divine Right, HotKid). A press release details the song, stating:
 
 >"'I Taste Blood' was inspired by the magnetic, electrical energy of being in the presence of someone that you desire, especially when you realize that the feeling is mutual. Exploring a gritty and sensual sound, this is the first song written for the band by guitarist [Anna] Mernieks."
 
