@@ -50,7 +50,7 @@ A 2020 health scare finally spurned Pytel to share these songs publically. He co
 
 Look for further material from the Hotel2Tango sessions over the next few months, along with a new 5-song EP from Pytel's power pop group [SLIP~ons](https://slip-ons.bandcamp.com/). That band last issued the *Bad TV* single in 2019. The best I can tell, Pytel's preceding solo outing was 2000's *Second Choice*.
 
-Based out of Montreal, the Doughboys initial run took them from 1987 through 1997 (Pytel left the group in 1989). On the related topic Doughboys Jonathan Cummins and Jon Ascenio, the pair appear these days in Montreal group [The Low Sixes](https://thelowsixes.bandcamp.com/). That band issued an energetic new full-length on New Year's Day titled *Yes Is The Answer* that's now sitting high on my to-delve list.
+Based out of Montreal, the Doughboys initial run took them from 1987 through 1997 (Pytel left the group in 1989). Speaking of Jonathan Cummins and Jon Ascenio, the pair appear these days in Montreal group [The Low Sixes](https://thelowsixes.bandcamp.com/). That band issued an energetic new full-length on New Year's Day titled *Yes Is The Answer* that's now sitting high on my to-delve list.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sILtaCRgYk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
