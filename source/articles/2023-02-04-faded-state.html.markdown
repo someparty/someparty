@@ -12,7 +12,7 @@ Thanks for your patience.
 ###[Home Front](https://arewenothomefront.bandcamp.com): "Faded State"
 ==Watch on [YouTube](https://youtu.be/CtyKEAyfHPU) - Preview and purchase at [Bandcamp](https://arewenothomefront.bandcamp.com/album/games-of-power)==
 
-Look, folks, I try to pay attention given the beat I'm chasing, but I'm often baffled at the exceedingly cool things that pass me by. Edmonton's [Home Front](https://arewenothomefront.bandcamp.com) plays new wave revival with the energy of a hardcore band. Unannounced to me, they issued their debut EP *Think of the Lie* in 2021, produced, mixed, and mastered by [Fucked Up](http://fuckedup.cc/)'s Jonah Falco. The duo's following it up soon with the 12-song *Games of Power* LP on March 3, a record from which you can now preview the opening 1-2 punch of "Faded State" and "Real Eyes."
+Look, folks, I try to pay attention given the beat I'm chasing, but I'm often baffled at the exceedingly cool things that pass me by. Edmonton's [Home Front](https://arewenothomefront.bandcamp.com) plays new wave revival with the energy of a hardcore band. Unbeknownst to me, they issued their debut EP *Think of the Lie* in 2021, produced, mixed, and mastered by [Fucked Up](http://fuckedup.cc/)'s Jonah Falco. The duo's following it up soon with the 12-song *Games of Power* LP on March 3, a record from which you can now preview the opening 1-2 punch of "Faded State" and "Real Eyes."
 
 Given how much I've botched my Home Front coverage to date, I'll lift from Falco's write-up on the album directly:
 
