@@ -2,7 +2,7 @@
 title: Heart of Gold
 date: 2020-10-04
 author: adam@someparty.ca (Adam White)
-description: New TV Freaks, Flesh Rag, Dime Lifters (Deliluh / WHIMM), Jon Creeden and the Flying Hellfish, Night Lunch, ZONES, Jennifer Castle, Teenanger, Designosaur, Matty Grace, Scratch, Gulfer, Bike Thiefs, PRIORS, Supermegatonne, Meisha & The Spanks, Sloan
+description: New TV Freaks, Flesh Rag, Dime Lifters (Deliluh / WHIMM), Jon Creeden and the Flying Hellfish, Night Lunch, ZONES, Jennifer Castle, Teenanger, Designosaur, Matty Grace, Scratch, Gulfer, Bike Thiefs, PRIORS, Supermegatonne, Miesha & The Spanks, Sloan
 ---
 
 It's been in the works for a while, and with the first single now out in the wild, it really feels that [TV Freaks](https://teeveefreakzz.bandcamp.com/) have something special on deck for us with their upcoming LP *People*. You can stream their opening salvo, the familiarly-named "Heart of Gold," at Bandcamp now. It's the first preview of the 10 track record, due October 30 from [Schizophrenic Records](https://schizophrenicrex.bandcamp.com/). With a four and a half minute runtime and an extended instrumental outro, the track seems like new territory for a band that's so often characterized by whip-fast bursts of sneering garage punk. Is this just a curious anomaly, or are TV Freaks set to follow Fucked Up on out on some Hawkwind-inspired space adventure? We'll find out at the end of the month.
