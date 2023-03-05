@@ -8,11 +8,11 @@ description: Premieres from Mononegatives and Wasting Time, plus new tunes from 
 ###[Mononegatives](https://mononegatives.bandcamp.com/): "North Carolina Atomic Bomb"
 ==Preview and purchase at [Bandcamp](https://mononegatives.bandcamp.com/album/north-carolina-atomic-bomb)==
 
-I'm beyond stoked to help premiere "North Carolina Atomic Bomb," the electric opening salvo of the sophomore LP from London, Ontario synth-punks [Mononegatives](https://mononegatives.bandcamp.com). In concert with my old haunt of [Punknews.org](https://www.punknews.org) I'm sharing the first of 14 tracks packed into *Crossing Visual Field*, due April 21 through the UK's [No Front Teeth](http://www.nofrontteeth.co.uk/) and LA design collective [Dowd Records](https://dowdrecords.com). Below you can check out "North Carolina Atomic Bomb, a madcap speedrun of a song that slams the component parts of new wave through a lo-fi garage-punk aperture.
+I'm beyond stoked to help premiere "North Carolina Atomic Bomb," the electric opening salvo of the sophomore LP from London, Ontario synth-punks [Mononegatives](https://mononegatives.bandcamp.com). In concert with my old haunt of [Punknews.org](https://www.punknews.org/article/79307/ontario-synth-punks-mononegatives-deploy-the-north-carolina-atomic-bomb) I'm sharing the first of 14 tracks packed into *Crossing Visual Field*, due April 21 through the UK's [No Front Teeth](http://www.nofrontteeth.co.uk/) and LA design collective [Dowd Records](https://dowdrecords.com). Below you can check out "North Carolina Atomic Bomb, a madcap speedrun of a song that slams the component parts of new wave through a lo-fi garage-punk aperture.
 
 While you've missed our chance to get one, we should stop and marvel at the wild vinyl pressing Dowd prepared for the single. The limited-edition (and now decisively sold-out) lathe cut 7" features pop-up cutouts of the band (and their van!), effectively creating a moving diorama while it spins. It's gloriously unnecessary in the finest way, and you can see it in action on [Instagram](https://www.instagram.com/p/ColLFjGpMcn/).
 
-That single's just the latest clever swerve from Dowd. Last year the Californian label's in-house gear workshop issued a Mononegatives-signature version of their Fuzz Crusher pedal, designed explicitly for synth and bass use. I'm betting you can hear that at play here.
+That single's just the latest clever swerve from Dowd. Last year the Californian label's in-house gear workshop issued [The Sender](https://dowdrecords.com/store/the-sender-mononegatives-synth-guitar-fuzz-pedal), a Mononegatives-signature version of their Furs Face pedal, designed explicitly for synth and bass guitar use. I'm betting you can hear that at play here.
 
 Mononegatives features [Robbie Brake](http://robbiebrake.bandcamp.com) ([Isölation Party](https://isolationparty.bandcamp.com/)) on guitar, synth, and vocals, with drummer David Cereghini, and bassist Aaron Wallis. The new record follows up on a pair of recent EPs from the trio, namely *Counterclockwise Interjection* and *Frequencies Rotating Clockwise*, as well as a split with Albany's [Mystery Girl](https://mysterygirl518.bandcamp.com/). Mononegatives issued their debut full-length, *Apparatus Division*, in 2020.
 
@@ -21,7 +21,7 @@ Mononegatives features [Robbie Brake](http://robbiebrake.bandcamp.com) ([Isölat
 ###[Wasting Time](https://wastingtimemusic.bandcamp.com/): "When I'm Gone"
 ==Preview and purchase at [Bandcamp](https://wastingtimemusic.bandcamp.com/track/when-im-gone)==
 
-Toronto pop-punkers [Wasting Time](https://wastingtimemusic.bandcamp.com/) get sentimental with their new single "When I'm Gone," a perfect offering for Valentine's Day (and one that's perhaps more necessary once you've realized that the holiday has come and gone). I'm thrilled to help premiere the track here at Some Party today in concert with the fine folks at [Punknews.org](https://www.punknews.org). The new song follows up on Wasting Time's 2022 LP, *Once More Without Feeling*.
+Toronto pop-punkers [Wasting Time](https://wastingtimemusic.bandcamp.com/) get sentimental with their new single "When I'm Gone," a perfect offering for Valentine's Day (and one that's perhaps more necessary once you've realized that the holiday has come and gone). I'm thrilled to help premiere the track here at Some Party today in concert with the fine folks at [Punknews.org](https://www.punknews.org/article/79300/torontos-wasting-time-get-sentimental-with-when-im-gone). The new song follows up on Wasting Time's 2022 LP, *Once More Without Feeling*.
 
 The band had this to say about the tune:
 
@@ -230,9 +230,9 @@ Later this month, Sluice returns to the studio to record their sophomore album, 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HjJ8qp-gT18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ###[SUUNS](https://suuns.bandcamp.com): "Wave"
-==Preview and purchase at [Bandcamp](https://suuns.bandcamp.com/album/wave)==
+==Watch on [YouTube](https://youtu.be/jf8w2m9xz-Q) - Preview and purchase at [Bandcamp](https://suuns.bandcamp.com/album/wave)==
 
-Montreal art-rock heroes [Suuns](https://suuns.bandcamp.com/) recently shared the new one-off single "Wave," a track that came together while the band toured over the past year and a half in support of the 2021's *The Witness*. Vocalist/guitarist Ben Shemie commented:
+Montreal art-rock heroes [SUUNS](https://suuns.bandcamp.com/) recently shared the new one-off single "Wave," a track that came together while the band toured over the past year and a half in support of the 2021's *The Witness*. Vocalist/guitarist Ben Shemie commented:
 
 >"While touring (in support of) *The Witness*, between plane rides, car rides, van rides, and text threads, we started working on new music. New sounds and a new approach seemed to take shape while testing new material. What started to emerge were really slow songs, some strange experimentations, and some unclassifiable jams. Amongst these tunes, 'Wave' emerged. One of SUUNS' simplest songs, drawing on our classic rock and roll background and a nod to our Montreal brethren The Besnard Lakes."
 
@@ -240,7 +240,7 @@ Adrian Popovich ([FRVITS](https://www.instagram.com/_frvits_/), [American Lips](
 
 The track features Shemie on guitar and vocals, Joseph Yarmush on guitar, bass, and synth, with Liam O'Neill drumming and providing other electronic and analogue percussion.
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=26432560/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://suuns.bandcamp.com/album/wave">Wave by SUUNS</a></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf8w2m9xz-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ###[Man Crush](https://mancrush.bandcamp.com): "Wicked Game"
 ==Preview and purchase at [Bandcamp](https://mancrush.bandcamp.com/track/wicked-game)==
