@@ -10,7 +10,7 @@ description: News and music from Vivat Virtute (Christine and JS Fellows), Dilly
 
 Given the stubbornly narrow scope of this publication and my limited time for anything else, I'll be the first to concede I exist in a bubble within a bubble. My blinders notwithstanding, I'm still regularly baffled that certain news resonates less than others. I suppose it's thematically fitting, given that we're talking about the increasingly insular world of [John K. Samson](http://johnksamson.com/), but in my pantheon, there are few songwriters of greater impact. One suspects the artist, now billed as John Samson Fellows, is quite content eschewing the spotlight, but I remain perturbed by the relative media silence in our [Weakerthans](https://theweakerthans.bandcamp.com/)-starved nation.
 
-Last month the beloved Winnipeg artist paired with partner [Christine Fellows](http://www.christinefellows.com/) to issue an 18-song digital full-length. Billed as [Vivat Virtute](https://vivatvirtute.bandcamp.com), the pair shared a predominantly instrumental *Hold Music* on Bandcamp. Quirky and compelling despite the lack of vocals, the set hops through delicate home-recorded soundscapes - which, given the personnel and timing, very likely spun out from the sessions resulting in Christine's masterful November studio album *Stuff We All Get*.
+Last month the beloved Winnipeg artist paired with partner [Christine Fellows](http://www.christinefellows.com/) to issue an 18-song digital full-length. As [Vivat Virtute](https://vivatvirtute.bandcamp.com), the pair shared a predominantly instrumental *Hold Music* on Bandcamp. Quirky and compelling despite the lack of vocals, the set hops through delicate home-recorded soundscapes - which, given the personnel and timing, very likely spun out from the sessions resulting in Christine's masterful November studio album *Stuff We All Get*.
 
 John's instantly recognizable vocals make a sole appearance, taking the lead in the album-closing "Do Not Worry." That track, accompanied by a stop-motion animated video, brings in Weakerthans members Greg Smith on bass and Jason Tait on drums and guitar. Given how rare it is to hear these players back together, I'm happy to embarrass myself by making a big damn deal about it. Let's treasure these fleeting moments when they arise.
 
@@ -109,7 +109,7 @@ Mudie issued his sophomore full-length *Concerta Fantasio* earlier in 2020.
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1207044288/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://hugomudie.bandcamp.com/album/bad-vibrations">Bad Vibrations by Mudie</a></iframe>
 
 ###[Kali Horse](https://kalihorse.bandcamp.com): "Wigs"
-==Watch on [YouTube](https://youtu.be/5VEpXPKjj80) -Preview and purchase at [Bandcamp](https://kalihorse.bandcamp.com/track/wigs)==
+==Watch on [YouTube](https://youtu.be/5VEpXPKjj80) - Preview and purchase at [Bandcamp](https://kalihorse.bandcamp.com/track/wigs)==
 
 Toronto art-rock duo [Kali Horse](https://kalihorse.bandcamp.com) has a new single out dubbed "Wigs." The track arrived with a note warning:
 
