@@ -46,9 +46,9 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     if featured_media
       link_string = link.dup
       link_string << %("#{title}") if title && !title.empty? && title != alt_text
-      "<div style='text-align: center;'><strong><a href='#{link_string}' target='_blank'>#{content}</a></strong></div>"
+      "<div style='text-align: center;'><strong><a href='#{link_string}'>#{content}</a></strong></div>"
     else
-      attributes = { title: title, target: '_blank' }
+      attributes = { title: title }
       attributes.merge!(@local_options[:link_attributes]) if @local_options[:link_attributes]
       scope.link_to(content, link, attributes)
     end

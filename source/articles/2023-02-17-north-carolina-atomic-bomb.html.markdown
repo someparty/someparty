@@ -101,7 +101,7 @@ Montreal psych trio [Hippie Hourrah](https://hippiehourrah.bandcamp.com/) has a 
 
 >« Dire que 2 jours avant l'enregistrement, on a passé bien proche de la jeter aux poubelles... Pour finalement la réarranger complètement la veille du studio et terminer avec une de nos chansons préférées : une épopée psych-prog en deux temps, inspirée d'un vieux poète du Plateau Mont-Royal. »
 
-Hippie Hurrah features the core trio of Cédric Marinelli (of [Les Marinellis](https://lesmarinellis.bandcamp.com/), Miles Dupire-Gagnon ([Elephant Stone](https://www.elephantstone.ca/)), and Gabriel Lambert. This track finds them again collaborating with Christian Sean Trudel and Samuel Gemme (the same team behind "Les murs" from last fall). This track also features Joé Napoleon on backing vocals and Chris Darley on guitar.
+Hippie Hurrah features the core trio of Cédric Marinelli (of [Les Marinellis](https://lesmarinellis.bandcamp.com/)), Miles Dupire-Gagnon ([Elephant Stone](https://www.elephantstone.ca/)), and Gabriel Lambert. This track finds them again collaborating with Christian Sean Trudel and Samuel Gemme (the same team behind "Les murs" from last fall). This track also features Joé Napoleon on backing vocals and Chris Darley on guitar.
 
 The group's following up on their self-titled 2021 LP, released via [Simone Records](https://www.simonerecords.net/).
 

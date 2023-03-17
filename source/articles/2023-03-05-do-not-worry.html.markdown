@@ -126,7 +126,7 @@ The song landed alongside a video that again finds the band working with directo
 
 Toronto skatepunk group [Debt Cemetary](http://debtcemetary.bandcamp.com/) recently shared the muscular single "Let's Murderlize 'Em!" through [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/). The track follows up on 2021's "Daved And Confused" and their early 2020 EP *Dig It Yourself*, again pairing the band with engineer Matt Gauthier.
 
-Currently touring as a quartet, the group features Davey Knight ([Gnarly Horse](https://gnarlyhorse.bandcamp.com/), Winning Streak), Eddie Knowlton ([Fast Eddie](https://fasteddieacoustic.bandcamp.com/)), Bill Morton ([Your Pal Bill](https://yourpalbill.bandcamp.com/), Reminder, [Wordplay](http://w-rdplay.bandcamp.com)), and Nick MacDougall (Hotel Murder). Look for the group on stage in Montreal this Victoria Day weekend as part of [Pouzza Fest](https://pouzzafest.com/en/).
+Currently touring as a quartet, the group features Davey Knight ([Gnarly Horse](https://gnarlyhorse.bandcamp.com/), Winning Streak), Eddie Knowlton ([Fast Eddie](https://fasteddieacoustic.bandcamp.com/)), Bill Morton ([Your Pal Bill](https://yourpalbill.bandcamp.com/), Reminder, [Wordplay](http://w-rdplay.bandcamp.com)), and Nick MacDougall (Hotel Murder). Look for the group on stage in Montreal this Victoria Day weekend as part of [Pouzza Fest](https://pouzzafest.com/).
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2754977125/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://thousandislandsrecords.bandcamp.com/track/let-s-murderlize-em">Let's Murderlize 'Em! by Debt Cemetary</a></iframe>
 
