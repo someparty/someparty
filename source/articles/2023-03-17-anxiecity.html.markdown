@@ -2,7 +2,7 @@
 title: Anxiecity
 date: 2023-03-17
 author: adam@someparty.ca (Adam White)
-description: Sounds collide with Anxiecity, Love Language, Prosthetic Bung, Smaller Hearts, Mononegatives, Brutal Youth, Double Date with Death, Symphony Orchestra, Citizen Rage, Single Mothers, Hippie Hourrah, Bad Egg, Super Kill Me Now, Motherhood, Kristian North, Octoberman, Miesha & The Spanks, Sean Hamilton and the Amber Hour, Dogo Suicide, Ryan Bourne, Chris Page, Fuudge, and Rick White
+description: Sounds collide with Dark Trip, Love Language, Prosthetic Bung, Smaller Hearts, Mononegatives, Brutal Youth, Double Date with Death, Symphony Orchestra, Citizen Rage, Single Mothers, Hippie Hourrah, Bad Egg, Super Kill Me Now, Motherhood, Kristian North, Octoberman, Miesha & The Spanks, Sean Hamilton and the Amber Hour, Dogo Suicide, Ryan Bourne, Chris Page, Fuudge, and Rick White
 ---
 
 ###[Dark Trip](https://darktrip.bandcamp.com/): "Anxiecity"
