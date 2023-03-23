@@ -122,7 +122,7 @@ Ottawa slack-rockers [Dart Trees](https://darttrees.bandcamp.com) issued a pair 
 
 The quartet's following up on their 2022 EP *Music for Dudes Named Ryan*. Dart Trees features vocals and guitar from Nick Baker, Hunter Vanerlaan on bass, Nik Skilton on lead guitar, and Sam Rymil on drums. Dart Trees recorded with Hannah Judge ([fanclubwallet](https://www.fanclubwallet.com/)).
 
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=4235226995/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://darttrees.bandcamp.com/track/lazarus-of-cryville">lazarus of cryville by Dart Trees</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3670658592/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://darttrees.bandcamp.com/album/consider-two-beers">Consider Two Beers by Dart Trees</a></iframe>
 
 ###[Man Crush](https://mancrush.bandcamp.com): "The Sting"
 ==Preview and purchase at [Bandcamp](https://mancrush.bandcamp.com/track/the-sting)==
@@ -151,7 +151,7 @@ PACKS features Madeline Link backed by lead guitarist Dexter Nash, bassist Noah 
 ###[Softtub](https://softtub.bandcamp.com): "Love Me Anyway"
 ==Watch on [YouTube](https://youtu.be/reaWFenedYY) - Preview and purchase at [Bandcamp](https://softtub.bandcamp.com/track/love-me-anyway)==
 
-Last week Sudbury's Keegan McDonald shared a second preview of their self-titled EP as [Softtub](https://softtub.bandcamp.com). The bright power-pop tune arrived alongside a video directed by [Shawn Kosmerly](https://www.facebook.com/herekittykittyproductions/) of Here Kitty Kitty Productions (Sam Coffey, Pkew Pkew Pkew). It finds McDonald leaning into his life as a  home-recording geek, playing any instrument he can get his hands on wherever he happens to be in the house. On it, the artist commented:
+Last week Sudbury's Keegan McDonald shared a second preview of their self-titled EP as [Softtub](https://softtub.bandcamp.com). The bright power-pop tune arrived alongside a video directed by [Shawn Kosmerly](https://www.facebook.com/herekittykittyproductions/) of Here Kitty Kitty Productions (Sam Coffey, Pkew Pkew Pkew). It finds McDonald leaning into his life as a  home-recording geek, playing any instrument he can get his hands on wherever he happens to be in the house. On "Love Me Anyway," the artist commented:
 
 >"This song is about friendship and unconditional love, inspired by hazy festival nights where friends may go off in all directions but find each other in the end, excited to share each other's adventures."
 
