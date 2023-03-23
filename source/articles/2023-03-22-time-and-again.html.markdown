@@ -51,7 +51,7 @@ There's been so much buzz surrounding London synth-punks [Mononegatives](https:/
 
 Catering to this newsletter's baffling geographic obsessions, the 12-song LP features a cover of "I Wanna Know" by early Ontario punk legends The Demics. Brake recorded his half of the album in the pandemic summer of 2020 from home, with Palumbo doing the same across the pond at that other London. Brake mixed the results with Will Killingsworth mastering at Dead Air.
 
-The new record follows Telegenic Pleasure's self-titled 2018 LP. Meanwhile, Mononegatives' new album *Crossing Visual Field* arrives on April 21 through the No Front Teeth and LA's [Dowd Records](https://dowdrecords.com).
+The new record follows Telegenic Pleasure's self-titled 2018 LP. Meanwhile, Mononegatives' new album *Crossing Visual Field* arrives on April 21 through No Front Teeth and LA's [Dowd Records](https://dowdrecords.com).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1163230230/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://feral-kid-records.bandcamp.com/album/concentric-grave">Concentric Grave by Telegenic Pleasure</a></iframe>
 
