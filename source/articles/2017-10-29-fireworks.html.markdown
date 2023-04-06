@@ -38,7 +38,7 @@ It's been a couple years since [Steven Lambke](http://stevenlambke.com/)'s last 
 
 [Listen: Steven Lambke - "Fireworks" @ SoundCloud](https://soundcloud.com/steven-lambke/fireworks "#")
 
-Steven's over in Europe [touring](https://www.facebook.com/sedatebookings/photos/a.231526063534212.58656.229711280382357/1627381840615287/?type=3&theater) as support for [Daniel Romano](http://www.danielromanomusic.com/)'s Jazz Police through November. After the You've Changed co-owners wrap that trip, the Cons will be back together for a pair of shows at the Horseshoe Tavern in December as part of the venue's 70th-anniversary celebrations.
+Steven's over in Europe [touring](https://www.facebook.com/sedatebookings/photos/a.231526063534212.58656.229711280382357/1627381840615287/?type=3&theater) as support for [Daniel Romano](https://www.danielromanomusic.com/)'s Jazz Police through November. After the You've Changed co-owners wrap that trip, the Cons will be back together for a pair of shows at the Horseshoe Tavern in December as part of the venue's 70th-anniversary celebrations.
 
 ![New Constellations](articles/new_constellations.jpg)
 
@@ -88,6 +88,6 @@ Chris Cresswell of [Flatliners](http://www.theflatliners.com/) performed acousti
 
 [Watch: The Flatliners - "Human Party Trick" (Black Coffee Session)](https://www.youtube.com/watch?v=lUzUHJXfTBU "#")
 
-[The Sadies](http://www.thesadies.net/) have announced tour dates for the fall in support of their latest album *Northern Passages*. The Good brothers and company will perform in Montreal and Quebec City, along with a number of Ontario towns big and small, including Burnstown, Ottawa, St. Catharines, London, Waterloo, Hamilton, Sarnia, and Guelph. As is tradition, the band will play a New Years Eve show at the Horseshoe Tavern, capping off that venue's season of 70th-annversary shows. You can find all these dates at [Exclaim](http://exclaim.ca/music/article/the_sadies_map_out_fall_tour).
+[The Sadies](https://www.thesadies.net/) have announced tour dates for the fall in support of their latest album *Northern Passages*. The Good brothers and company will perform in Montreal and Quebec City, along with a number of Ontario towns big and small, including Burnstown, Ottawa, St. Catharines, London, Waterloo, Hamilton, Sarnia, and Guelph. As is tradition, the band will play a New Years Eve show at the Horseshoe Tavern, capping off that venue's season of 70th-annversary shows. You can find all these dates at [Exclaim](http://exclaim.ca/music/article/the_sadies_map_out_fall_tour).
 
 On that note, one final thanks to the October sponsor of Some Party: the new book [The Legendary Horseshoe Tavern: A Complete History](http://horseshoetavernbook.com/) by David McPherson. The book chronicles the storied history of the Queen Street bar and venue, which had a place of relevance in just about every era of Toronto's rock'n'roll history. You can read the [introduction](http://horseshoetavernbook.com/read-the-introduction/) online now, along with an excerpt that explores the venue's punk history at [NOW Toronto](https://nowtoronto.com/music/features/horseshoe-tavern-history-book-garys-punk/).

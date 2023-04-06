@@ -134,7 +134,7 @@ Red Mass previously released *Kilrush Drive* in March of 2019, followed by the *
 
 [Watch: Red Mass - "To Fall From Grace" @ YouTube](https://youtu.be/yRH9P7otf2w "#")
 
-[King Khan](https://kingkhanmusic.com/), a Berlin-based garage impresario with Montreal punk roots not dissimilar to Vucino's, recently released a split 7" with the Toronto alt-country legends [The Sadies](http://www.thesadies.net/). The A-side of the record features the Khan with Natalia Avelon and Mary Simich performing "Old Gunga Din," while The Sadies contribute "The Most Despicable Man Alive" to the B-side.
+[King Khan](https://kingkhanmusic.com/), a Berlin-based garage impresario with Montreal punk roots not dissimilar to Vucino's, recently released a split 7" with the Toronto alt-country legends [The Sadies](https://www.thesadies.net/). The A-side of the record features the Khan with Natalia Avelon and Mary Simich performing "Old Gunga Din," while The Sadies contribute "The Most Despicable Man Alive" to the B-side.
 
 If you've not had a chance to hear these songs, they're playfully combative. Each artist directly references the other, by name, offering conflicting accounts of what appears to be the same LSD-fueled incident. It's a lovely little novelty, and there's less than 20 left for sale online through [Khannibalism](https://khannibalism.bandcamp.com/) and [Ernest Jenning](https://www.ernestjenning.com/) if you're so inclined.
 

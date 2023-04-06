@@ -46,7 +46,7 @@ Lenore Maier of Sakadoon trio [The Garrys](https://thegarrys.bandcamp.com/) mean
 
 >"'It's Over' is a breakup track taking its cues from late-1950s teenage heartbreak anthems and classic Girl Group melodrama. Oozing vintage style, with pensive guitars and misty-eyed vocal harmonies, The Garrys sway and bounce on an emotional high-wire between the failed-relationship extremes of 'it's fine' and 'I wanna die', and invite the listener to join them in a moment of indulging every messy feeling that can bubble up in the aftermath of a breakup."
 
-Dallas Good of [The Sadies](http://www.thesadies.net/) produced the track remotely, with Barrett Ross recording and mixing at Rec Hall Studios in Saskatoon. *Get Thee To a Nunnery*'s due September 24 through [Grey Records](https://greyrecords.bandcamp.com/).
+Dallas Good of [The Sadies](https://www.thesadies.net/) produced the track remotely, with Barrett Ross recording and mixing at Rec Hall Studios in Saskatoon. *Get Thee To a Nunnery*'s due September 24 through [Grey Records](https://greyrecords.bandcamp.com/).
 
 The Garrys are sisters Erica, Julie, and Lenore Maier (performing guitar, bass, and drums, respectively, with all three sharing vocal duties). In 2020 the trio released a retroactive score for the 1922 film *Häxan: Witchcraft Through the Ages*. Their last proper full-length, *Surf Manitou*, arrived in 2017.
 

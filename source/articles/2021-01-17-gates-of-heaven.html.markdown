@@ -60,7 +60,7 @@ Dogo Suicide recorded "Négationnistes" at l'ampli de Québec studios in Decembe
 ###[Mo Kenney](https://mokenney.bandcamp.com/): "Hard on You"
 ==Stream at [SoundCloud](https://soundcloud.com/mokenney/hard-on-you-1)==
 
-Dartmouth singer-songwriter [Mo Kenney](http://mokenney.com/) recently shared another preview of her upcoming covers record: a rendition of [Daniel Romano](http://www.danielromanomusic.com/)'s "Hard On You" (originally from 2011's *Sleep Beneath The Willow*). Kenny shared some insights on her version in a press release:
+Dartmouth singer-songwriter [Mo Kenney](http://mokenney.com/) recently shared another preview of her upcoming covers record: a rendition of [Daniel Romano](https://www.danielromanomusic.com/)'s "Hard On You" (originally from 2011's *Sleep Beneath The Willow*). Kenny shared some insights on her version in a press release:
 
 > "I've been a big Daniel Romano fan since I first heard this song. It was so nice to hear a modern country song that was reminiscent of the old stuff. The songwriting is so good, I was excited to strip it down so the lyrics really shine. Recorded in front of one mic at the New Scotland Yard."
 

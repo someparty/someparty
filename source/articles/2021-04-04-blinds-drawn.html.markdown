@@ -83,7 +83,7 @@ Patrick Lefler's psych-pop group [ROY](https://thesoundofroy.bandcamp.com) has a
 ###[Daniel Romano](https://danielromano.bandcamp.com): *Kissing The Foe*
 ==Preview and purchase at [Bandcamp](https://danielromano.bandcamp.com/album/kissing-the-foe)==
 
-You'd be reasonably mistaken to assume that after his astonishing 11-record year, [Daniel Romano](http://www.danielromanomusic.com/) may be taking a well-deserved rest. It seems that the time out of the spotlight was merely a working period, as the Welland singer-songwriter's at it again: Danny's first full-length of 2021 has landed with *Kissing The Foe*, a 12-song set. Romano performs everything here aside from the appearance of a few guests (usual collaborators Mark Lalama on piano and Aaron Hutchinson on trumpet, with Texan singer Carson McHone lending some vocals).
+You'd be reasonably mistaken to assume that after his astonishing 11-record year, [Daniel Romano](https://www.danielromanomusic.com/) may be taking a well-deserved rest. It seems that the time out of the spotlight was merely a working period, as the Welland singer-songwriter's at it again: Danny's first full-length of 2021 has landed with *Kissing The Foe*, a 12-song set. Romano performs everything here aside from the appearance of a few guests (usual collaborators Mark Lalama on piano and Aaron Hutchinson on trumpet, with Texan singer Carson McHone lending some vocals).
 
 The new collection's one of two significant projects to launch in the past week, with Romano also kicking off [Varianza](https://varianza.bandcamp.com), an ambient music venture. The first track from the project arrived as the 25-minute *The Abstract Expanse*, with further missives promised weekly.
 

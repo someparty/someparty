@@ -270,7 +270,7 @@ The record features Keegan Trumpour on lead vocal and electric guitar, backed by
 ###[Rick White](https://rickwhitearchive.bandcamp.com): *Rick White plays The Sadies*
 ==Preview and purchase at [Bandcamp](https://rickwhitearchive.bandcamp.com/album/rick-white-plays-the-sadies-2022)==
 
-In the wake of Dallas Good's death, longtime friend and collaborator [Rick White](https://rickwhitearchive.bandcamp.com)'s kicked off a covers series celebrating the work Toronto alt-country legends [The Sadies](http://www.thesadies.net/). While unveiling his renditions of "Another Season Again" and "Translucent Sparrow," White commented:
+In the wake of Dallas Good's death, longtime friend and collaborator [Rick White](https://rickwhitearchive.bandcamp.com)'s kicked off a covers series celebrating the work Toronto alt-country legends [The Sadies](https://www.thesadies.net/). While unveiling his renditions of "Another Season Again" and "Translucent Sparrow," White commented:
 
 >"I love the Sadies. I love the guys, their big loving family, seeing them play, playing with them in the Unintended or as a guest during one of their concerts. I also think they made some great albums with a lot of wonderful songs and lyrics. I've been actually planning this project for many years but the shock we all had a couple months ago has finally set me into motion."
 

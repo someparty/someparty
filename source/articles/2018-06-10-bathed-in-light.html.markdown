@@ -89,7 +89,7 @@ Fresh off their successful [crowdfunding campaign](https://www.gofundme.com/preo
 
 Welland, Ontario three-piece Turbonegro-inspired scuzz-punk act [Dboy](https://www.dboylove.com), which features members of [The Snips](https://www.facebook.com/thesnipsmusic/) and [Northern Primitive](https://northernprimitive.bandcamp.com/), has a new video out for the track "Born With a Hard On," which was shot by Brent Kore.
 
-The song appears on the band's recent full-length, the mock-live record *Prove Your Love - Live in Belem*, which was recorded by [Daniel Romano](http://www.danielromanomusic.com/).
+The song appears on the band's recent full-length, the mock-live record *Prove Your Love - Live in Belem*, which was recorded by [Daniel Romano](https://www.danielromanomusic.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGPpp0d-WiQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

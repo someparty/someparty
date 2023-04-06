@@ -5,10 +5,10 @@ author: adam@someparty.ca (Adam White)
 description: Wild new sounds from The Sadies, Nouveaux, Safeword, Simon Provencher, Among Legends, Marian, Blunt Chunks, The Fake Friends, Night Court, Julie & Dany, Weird Nightmare, Basketball Knees, Dislexic, Deathmarch, Death Waits, Man Crush, The Johnnys, Bad Waitress, Sauna, She Came to Quit, King Pong Productions, Jenny Berkel, Russian Tim and Pavel Bures, and B.A. Johnston
 ---
 
-###[The Sadies](http://www.thesadies.net/): "Cut Up High and Dry"
+###[The Sadies](https://www.thesadies.net/): "Cut Up High and Dry"
 ==Watch on [YouTube](https://youtu.be/4UEdd-uhKn0) - Preview and purchase at [Bandcamp](https://thesadies.bandcamp.com/track/cut-up-high-and-dry)==
 
-Early promotion of [The Sadies](http://www.thesadies.net/)' next record was well underway before the sudden loss of Dallas Good. We had two teasers in hand before tragedy struck, with the band revealing little on the eventual home of "Stop and Start" and "Message to Belial." The pieces have now fallen into place, as the beloved Toronto group's confirmed that *Colder Streams*, their 11th studio album, is due on July 22 through [Dine Alone](https://dinealonerecords.com/) and [Yep Roc Records](https://www.yeproc.com/).
+Early promotion of [The Sadies](https://www.thesadies.net/)' next record was well underway before the sudden loss of Dallas Good. We had two teasers in hand before tragedy struck, with the band revealing little on the eventual home of "Stop and Start" and "Message to Belial." The pieces have now fallen into place, as the beloved Toronto group's confirmed that *Colder Streams*, their 11th studio album, is due on July 22 through [Dine Alone](https://dinealonerecords.com/) and [Yep Roc Records](https://www.yeproc.com/).
 
 The quartet recorded the 11-song album between 2019 and 2021 at Montreal's Skybarn with Arcade Fire's [Richard Reed Parry](https://richardreedparry.com/) producing. Pietro Amato engineered and mixed the brunt of the record, with Hilotrons' Michael Dubue and Cowboy Junkies producer Peter J. Moore working on the song "You Should Be Worried." The LP promises a return appearance from longtime collaborator Jon Spencer. The Goods' parents also make appearances, with Margaret singing backup on "So Far for So Few" and Bruce playing autoharp on "All the Good."
 
@@ -133,7 +133,7 @@ The 11-song self-titled debut from [Julie & Dany](https://julieetdany.bandcamp.c
 >
 >So, with Sylvain Dumais the director, we decided to film on our phones during the tour, and every day we would we send him the footage. Sylvain then edited this while we were on tour."
 
-The joint effort arrives on the heels of Doiron's recent solo LP *I Thought Of You*, issued last fall through [You've Changed Records](https://youvechangedrecords.com/). Doiron and Placard, a couple outside of the studio, worked on *I Thought Of You* together in early 2020 with Ian and [Daniel Romano](http://www.danielromanomusic.com/). Last summer, Placard released *Astronomie(suite)*, a companion piece to his early-2020 psych-rock opus *J'connais rien à l'astronomie* (both on Simone and both featuring Doiron on backing vocals).
+The joint effort arrives on the heels of Doiron's recent solo LP *I Thought Of You*, issued last fall through [You've Changed Records](https://youvechangedrecords.com/). Doiron and Placard, a couple outside of the studio, worked on *I Thought Of You* together in early 2020 with Ian and [Daniel Romano](https://www.danielromanomusic.com/). Last summer, Placard released *Astronomie(suite)*, a companion piece to his early-2020 psych-rock opus *J'connais rien à l'astronomie* (both on Simone and both featuring Doiron on backing vocals).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N5pNSl0DpcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -29,7 +29,7 @@ I'm married to a Wellander, and I don't mean those new subdivisions encroaching 
 
 I shared the defiant, perhaps tongue-in-cheek "Welland 2020" video to Facebook, to which my mother-in-law, never one to comment on my music nonsense, chimed in with "hope he's right." Here's hoping.
 
-The song appears on *A Flower That Wouldn't Bloom*, the third full-length from the [Daniel Romano](http://www.danielromanomusic.com/)-fronted punk group. The record came out just this past week on [You've Changed Records](https://youvechangedrecords.com/). While Danny puts together these albums more-or-less solo in the studio, the live Shapes band includes Ian Romano, David Nardi, Vee Bell, and Roddy Rosetti.
+The song appears on *A Flower That Wouldn't Bloom*, the third full-length from the [Daniel Romano](https://www.danielromanomusic.com/)-fronted punk group. The record came out just this past week on [You've Changed Records](https://youvechangedrecords.com/). While Danny puts together these albums more-or-less solo in the studio, the live Shapes band includes Ian Romano, David Nardi, Vee Bell, and Roddy Rosetti.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mB_bFqg-TwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -13,7 +13,7 @@ WLMRT last released the 10-song full-length cassette *Forever* in 2019, with Pit
 
 [Listen: Only God Forgives - *Power and Prowess* @ Bandcamp](http://onlygodforgivesto.bandcamp.com/album/power-and-prowess "#")
 
-[Daniel Romano](http://www.danielromanomusic.com/)'s enviably prolific quarantine hasn't gone unnoticed in the world outside this newsletter, but last week the Welland artist unveiled what may be his most over-the-top release of the period. Along with his remote-recording band The Outfit, and inexplicably joined by Tool drummer Danny Carey, he shared a nearly 23-minute prog epic dubbed "Forever Love's Fool." You can find the opulent new track now on Bandcamp.
+[Daniel Romano](https://www.danielromanomusic.com/)'s enviably prolific quarantine hasn't gone unnoticed in the world outside this newsletter, but last week the Welland artist unveiled what may be his most over-the-top release of the period. Along with his remote-recording band The Outfit, and inexplicably joined by Tool drummer Danny Carey, he shared a nearly 23-minute prog epic dubbed "Forever Love's Fool." You can find the opulent new track now on Bandcamp.
 
 This particular genre swerve follows the country-styled record *Content To Point The Way*, the slightly more alt-country LP *"Visions Of The Higher Dream"*, and the punky EP *Super Pollen* (with Jonah Falco and Mike Haliechuk [Fucked Up](http://fuckedup.cc/)). Before going into lockdown, Danny was on the road with The Outfit supporting that band's first live album, the [You've Changed](https://youvechangedrecords.com/) released *"Okay Wow"*.
 

@@ -41,7 +41,7 @@ Whatever you want to call it, "Thirty" feels pretty special and is completely en
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D3F3DsXLSaw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Episode 335 of [Vish Khanna](http://vishkhanna.com/)'s [Kreative Kontrol](http://vishkhanna.com/2017/07/20/ep-335-the-sadies-on-long-night/) podcast features [The Sadies](http://www.thesadies.net/) performing songs from their Polaris long listed album *Northern Passages*. The prolific Toronto alt-country / garage rock band visited Khanna's TV show *Long Night* to perform before the studio audience and chat about their catalogue.
+Episode 335 of [Vish Khanna](http://vishkhanna.com/)'s [Kreative Kontrol](http://vishkhanna.com/2017/07/20/ep-335-the-sadies-on-long-night/) podcast features [The Sadies](https://www.thesadies.net/) performing songs from their Polaris long listed album *Northern Passages*. The prolific Toronto alt-country / garage rock band visited Khanna's TV show *Long Night* to perform before the studio audience and chat about their catalogue.
 
 [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) has released a new music video for the song "Pine and Clover," which the celebrated Calgary musician directed and animated himself. The song appears on the upcoming *Light Information* LP, due September 8th on [Flemish Eye](http://www.flemisheye.com/) in Canada and [Sub Pop](https://www.subpop.com/) elsewhere. You can find comments from the artist on the video's production, along with a list of upcoming fall tour dates, at [Sidewalk Hustle](http://www.sidewalkhustle.com/chad-vangaalen-shares-pine-and-clover-video/).
 

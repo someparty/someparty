@@ -50,7 +50,7 @@ Kehoe's the former bassist and co-vocalist of Welland's [Attack In Black](https:
 
 [Watch: Ian Daniel Kehoe - "One Picture" @ YouTube](https://youtu.be/vWohFffo8b0 "#")
 
-[Dine Alone Records](https://dinealonerecords.com/) has picked up Welland punk trio [Dboy](https://www.dboylove.com), releasing a new 3-song 7" from the band titled *Dboy for President.* It follows the group's recent [Yeah Right! Records](http://yeahrightrecords.com/) split with [Daniel Romano](http://www.danielromanomusic.com/)'s power-pop group [Ancient Shapes](http://ancientshapes.bandcamp.com), as well as their Romano-recorded mock-live debut record *Prove Your Love - Live in Belem*.
+[Dine Alone Records](https://dinealonerecords.com/) has picked up Welland punk trio [Dboy](https://www.dboylove.com), releasing a new 3-song 7" from the band titled *Dboy for President.* It follows the group's recent [Yeah Right! Records](http://yeahrightrecords.com/) split with [Daniel Romano](https://www.danielromanomusic.com/)'s power-pop group [Ancient Shapes](http://ancientshapes.bandcamp.com), as well as their Romano-recorded mock-live debut record *Prove Your Love - Live in Belem*.
 
 The video for "Dboy For President" features [Spencer Burton](https://www.spencerburtonmusic.com/), another member of the Attack In Black family, playing the role of a reporter kidnapped by the gimp-masked, satin-clad punk collective. As with Dboy's other material, these new tracks find them playing high-octane rock'n'roll that's almost entirely self-referential.
 

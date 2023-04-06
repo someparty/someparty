@@ -15,7 +15,7 @@ Mckiel salvaged the audio from those tapes and brought the samples into the stud
 
 [Listen: Jon Mckiel - "Object Permanence" @ Bandcamp](https://youvechangedrecords.bandcamp.com/album/bobby-joe-hope "#")
 
-This week You've Changed also announced a live album from [Daniel Romano](http://www.danielromanomusic.com/)'s touring band The Outfit. *"Okay Wow"* will collect 15 songs recorded live in Scandanavia and mixed by the band's longtime collaborator Kenneth Roy Meehan. The set-list pulls from across Romano's rather prolific solo output, including a few selections from out-of-print digital collections like *Nerveless* and *Human Touch*.
+This week You've Changed also announced a live album from [Daniel Romano](https://www.danielromanomusic.com/)'s touring band The Outfit. *"Okay Wow"* will collect 15 songs recorded live in Scandanavia and mixed by the band's longtime collaborator Kenneth Roy Meehan. The set-list pulls from across Romano's rather prolific solo output, including a few selections from out-of-print digital collections like *Nerveless* and *Human Touch*.
 
 The lineups (and band names) of Romano's backing group tend to shift over time, but always include a few anchor players that rose out of the southern Ontario punk scene. This version of The Outfit featured [Julianna Riolino](https://juliannariolinosings.bandcamp.com) (a Welland-based singer-songwriter, theses days billed as J.R.), Roddy Rosetti (a regular member of both this band and [Ancient Shapes](http://ancientshapes.bandcamp.com)), Dave Nardi (the founding and former bassist of [The Dirty Nil](https://thedirtynil.bandcamp.com/)), Ian Romano (Danny's brother and likewise a former member of [Attack In Black](https://attackinblack.bandcamp.com/)), and Tony "The Pope" Cicero.
 

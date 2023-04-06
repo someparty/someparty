@@ -104,7 +104,7 @@ The song's one of 11 slated to appear on the band's upcoming debut *DIPSHIT*, wh
 ###[Daniel Romano's Outfit](https://danielromano.bandcamp.com): "First Yoke"
 ==Watch on [YouTube](https://youtu.be/qgwp893DSb0) - Preview and purchase at [Bandcamp](https://danielromano.bandcamp.com/track/first-yoke)==
 
-Welland's [Daniel Romano](http://www.danielromanomusic.com/) has a new video online featuring his band The Outfit performing "First Yoke," a track from 2020's *How Ill Thy World Is Ordered*. The clip, directed by Carson McHone and Kenneth Roy Meehan, features the band playing amidst a retro 70s office space. The version of The Outfit appearing here includes vocalist [Julianna Riolino](https://juliannariolinosings.bandcamp.com), bassist Roddy Rosetti, guitarist Dave Nardi, and drummer Ian Romano.
+Welland's [Daniel Romano](https://www.danielromanomusic.com/) has a new video online featuring his band The Outfit performing "First Yoke," a track from 2020's *How Ill Thy World Is Ordered*. The clip, directed by Carson McHone and Kenneth Roy Meehan, features the band playing amidst a retro 70s office space. The version of The Outfit appearing here includes vocalist [Julianna Riolino](https://juliannariolinosings.bandcamp.com), bassist Roddy Rosetti, guitarist Dave Nardi, and drummer Ian Romano.
 
 *How Ill Thy World Is Ordered* arrived last fall from [You've Changed Records](https://youvechangedrecords.com/), a tentpole release in a year that saw Romano do the impossible and share 11 fully realized albums at an astonishing clip. You can find a full accounting of that run in my [2020 recap](https://www.someparty.ca/2021-01-03-2020-recap/).
 

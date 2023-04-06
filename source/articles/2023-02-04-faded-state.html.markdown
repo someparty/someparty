@@ -156,7 +156,7 @@ Lo-fi Ottawa slack-rockers [Dart Trees](https://darttrees.bandcamp.com) sound su
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=4235226995/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://darttrees.bandcamp.com/track/lazarus-of-cryville">lazarus of cryville by Dart Trees</a></iframe>
 
 ###[The Speakeasy](https://thespeakeasyrock.bandcamp.com): "Bright Side"
-==Listen on [YouTube](https://youtu.be/vXv-CB9iD0g)==
+==Preview and purchase at [Bandcamp](https://thousandislandsrecords.bandcamp.com/track/bright-side) - Watch on [YouTube](https://youtu.be/OUD-pbE0-hk)==
 
 Gruff Montreal punks [The Speakeasy](https://thespeakeasyrock.bandcamp.com) are back with "Bright Side," a triumphant and optimistic single marking their post-pandemic return to action. It's the group's first preview of an upcoming LP, due later this year through [Thousand Islands Records](https://thousandislandsrecords.bandcamp.com/). The forthcoming album follows up their two-part EP cycle, *Tales From The Moonshiner*, issued in two parts between 2018 and the fall of 2020.
 

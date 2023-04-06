@@ -160,10 +160,10 @@ Autogramm's sophomore full-length arrived on [Nevado Music](http://www.nevadomus
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GLMlg1KnybU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[The Sadies](http://www.thesadies.net/): *Stop and Start*
+###[The Sadies](https://www.thesadies.net/): *Stop and Start*
 ==Watch on [YouTube](https://youtu.be/FUUgVGEOK90)==
 
-At least in my circles, the trials of [The Sadies](http://www.thesadies.net/) have been the year's dominant Canadian music story. The tragic loss of Dallas Good in [March](https://www.someparty.ca/2022-03-02-message-to-dallas/) continues to reverberate, ultimately casting the group's summer LP *Colder Streams* in a vastly different light and throwing their very future into question. The band's now revisiting a performance mired in that uncertainty with a short concert film titled *The Sadies Stop and Start*. The group premiered the 23-minute piece through [Exclaim](https://exclaim.ca/music/article/the_sadies_performance_film_stop_and_start) over the holidays, stating:
+At least in my circles, the trials of [The Sadies](https://www.thesadies.net/) have been the year's dominant Canadian music story. The tragic loss of Dallas Good in [March](https://www.someparty.ca/2022-03-02-message-to-dallas/) continues to reverberate, ultimately casting the group's summer LP *Colder Streams* in a vastly different light and throwing their very future into question. The band's now revisiting a performance mired in that uncertainty with a short concert film titled *The Sadies Stop and Start*. The group premiered the 23-minute piece through [Exclaim](https://exclaim.ca/music/article/the_sadies_performance_film_stop_and_start) over the holidays, stating:
 
 >"'The Sadies Stop and Start' captures a moment in time. That time was uncertain and dark. Still reeling from losing Dallas, we found out that Mike needed to have emergency wrist surgery. We needed to play these songs, not knowing if we would ever have the opportunity again.
 >

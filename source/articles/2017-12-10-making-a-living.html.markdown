@@ -92,7 +92,7 @@ On November 9, Toronto indie rock group [Casper Skulls](https://casperskulls.ban
 
 [Watch: Casper Skulls - Audiotree Live @ YouTube](https://www.youtube.com/watch?v=MERStWL8cv4 "#")
 
-The legendary Toronto alt-country/garage-rock combo [The Sadies](http://www.thesadies.net/) have unveiled a video for the song "Another Season Again" from their 2017 record *Northern Passages*. It was shot live at The Royal Cinema in Toronto this past March.
+The legendary Toronto alt-country/garage-rock combo [The Sadies](https://www.thesadies.net/) have unveiled a video for the song "Another Season Again" from their 2017 record *Northern Passages*. It was shot live at The Royal Cinema in Toronto this past March.
 
 The veteran band is gearing up for their 17th annual New Year's Eve show at the legendary Horseshoe Tavern on December 31. They'll be joined at that show by Jon Langford as a special guest (you'll recall the Sadies backed Langford on the 2003 record *Mayors Of The Moon*).
 

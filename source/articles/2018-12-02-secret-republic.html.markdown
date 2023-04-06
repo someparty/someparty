@@ -75,7 +75,7 @@ After teasing the record earlier in the fall, Montreal's punky rock'n'roll quart
 
 [Watch: Pale Lips - "You're A Doll" @ YouTube](https://youtu.be/KOnSSZ16xqk "#")
 
-The split between [Daniel Romano](http://www.danielromanomusic.com/)'s power-pop group [Ancient Shapes](http://ancientshapes.bandcamp.com) and the Welland's Turbonegro-inspired trio [Dboy](https://www.dboylove.com) is out now. You can hear the songs over at the [Yeah Right! Records](http://yeahrightrecords.com/) Bandcamp page. The 7" features two new tracks from both groups.
+The split between [Daniel Romano](https://www.danielromanomusic.com/)'s power-pop group [Ancient Shapes](http://ancientshapes.bandcamp.com) and the Welland's Turbonegro-inspired trio [Dboy](https://www.dboylove.com) is out now. You can hear the songs over at the [Yeah Right! Records](http://yeahrightrecords.com/) Bandcamp page. The 7" features two new tracks from both groups.
 
 Romano previously worked with Dboy in the studio, recording their debut mock-live record *Prove Your Love - Live in Belem*. Dboy features members culled from Rose City punk acts [The Snips](https://www.facebook.com/thesnipsmusic/) and [Northern Primitive](https://northernprimitive.bandcamp.com/) (and do they ever sound like they've been guzzling diesel on these tracks).
 

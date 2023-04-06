@@ -71,7 +71,7 @@ Last week Toronto noise-punk quartet [Greys](https://greys.bandcamp.com/) releas
 
 [Watch: Greys - "Arc Light" @ YouTube](https://youtu.be/XRUOnD9cyXc "#")
 
-Welland troubadour [Daniel Romano](http://www.danielromanomusic.com/) released two new videos last week, putting visuals to both "There Is Beauty In The Vibrant Form" and "Between the Blades of Grass." At this rate, there must be more songs from *Finally Free* with accompanying videos than otherwise. [You've Changed](https://youvechangedrecords.com/) and [New West Records](http://newwestrecords.com/) released the indie-folk chameleon's latest record in 2018.
+Welland troubadour [Daniel Romano](https://www.danielromanomusic.com/) released two new videos last week, putting visuals to both "There Is Beauty In The Vibrant Form" and "Between the Blades of Grass." At this rate, there must be more songs from *Finally Free* with accompanying videos than otherwise. [You've Changed](https://youvechangedrecords.com/) and [New West Records](http://newwestrecords.com/) released the indie-folk chameleon's latest record in 2018.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fBuR6uoiwu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

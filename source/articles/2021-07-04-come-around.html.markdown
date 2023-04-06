@@ -64,7 +64,7 @@ Saskatoon 'doom-wop' trio [The Garrys](https://thegarrys.bandcamp.com/) recently
 
 >"Taking its title from a fading prairie town with a deceptively intriguing and far-away sounding name, 'Sintaluta' is a dreamy, psychedelic track that uses swirling guitars and ethereal vocals to capture that fleeting feeling of being aware of your own happiness in a specific time and place, and the quiet heartbreak of knowing the transience of such moments"
 
-Dallas Good of [The Sadies](http://www.thesadies.net/) produced the track remotely, with Barrett Ross recording and mixing at Rec Hall Studios in Saskatoon. *Get Thee To a Nunnery*'s due September 24 through [Grey Records](https://greyrecords.bandcamp.com/).
+Dallas Good of [The Sadies](https://www.thesadies.net/) produced the track remotely, with Barrett Ross recording and mixing at Rec Hall Studios in Saskatoon. *Get Thee To a Nunnery*'s due September 24 through [Grey Records](https://greyrecords.bandcamp.com/).
 
 The Garrys are sisters Erica, Julie, and Lenore Maier (performing guitar, bass, and drums, respectively, with all three sharing vocal duties). In 2020 the trio released an acclaimed retroactive score for the 1922 film *Häxan: Witchcraft Through the Ages*. Their last proper full-length, *Surf Manitou*, arrived in 2017.
 

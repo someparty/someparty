@@ -123,7 +123,7 @@ Charlottetown garage rock act [Pearly Gates](https://pearlygatespei.bandcamp.com
 
 > "I liked the idea of writing a song about a bad relationship I had been in with a dark lyrical theme accompanied by a sunny happy chord progression and sing-along cheerful melody... I came up with the melody for the verses while lobster fishing with my father. I put in long days on the boat doing repetitive work and spend most of the time writing songs in my head. Writing lyrics, working out the melody, and repeating it over and over in hopes of not forgetting anything by the time I get home to add the music to what I produced."
 
-The song, produced by Ian Romano of [Attack In Black](https://attackinblack.bandcamp.com/) and [Daniel Romano's Outfit](http://www.danielromanomusic.com/), follows the group's March single "Measures of Safety." Pearly Gates features Palmer backed by guitarist/vocalist Colin Buchanan, bassist Chris Francis, and drummer Roger Carter.
+The song, produced by Ian Romano of [Attack In Black](https://attackinblack.bandcamp.com/) and [Daniel Romano's Outfit](https://www.danielromanomusic.com/), follows the group's March single "Measures of Safety." Pearly Gates features Palmer backed by guitarist/vocalist Colin Buchanan, bassist Chris Francis, and drummer Roger Carter.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2919224806/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://pearlygatespei.bandcamp.com/track/theres-a-black-hole-where-your-heart-should-be">There&#39;s a Black Hole (Where Your Heart Should Be) by Pearly Gates</a></iframe>
 
@@ -142,10 +142,10 @@ Live PACKS performs as a four-piece, with Link backed by guitarist Dexter Nash, 
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=820273345/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://packstheband.bandcamp.com/album/woah">WOAH by PACKS</a></iframe>
 
-###[The Sadies](http://www.thesadies.net/): "All The Good"
+###[The Sadies](https://www.thesadies.net/): "All The Good"
 ==Watch on [YouTube](https://youtu.be/aXB53Mpee_I) - Preview and purchase at [Bandcamp](https://thesadies.bandcamp.com/track/all-the-good)==
 
-This week [The Sadies](http://www.thesadies.net/) shared the final pre-release single from *Colder Streams*, their upcoming 11th studio album and the final LP to feature Dallas Good before his untimely death in February. You can hear "All The Good" streaming or paired with a lyric video directed by Hilotrons' Michael Dubue. That clip features artwork from bassist Sean Dean and visual effects by Arturo Brisindi (created with an LZX Memory Palace effects processor, if you want to get particular). The record arrives July 22 through [Dine Alone](https://dinealonerecords.com/) and [Yep Roc Records](https://www.yeproc.com/).
+This week [The Sadies](https://www.thesadies.net/) shared the final pre-release single from *Colder Streams*, their upcoming 11th studio album and the final LP to feature Dallas Good before his untimely death in February. You can hear "All The Good" streaming or paired with a lyric video directed by Hilotrons' Michael Dubue. That clip features artwork from bassist Sean Dean and visual effects by Arturo Brisindi (created with an LZX Memory Palace effects processor, if you want to get particular). The record arrives July 22 through [Dine Alone](https://dinealonerecords.com/) and [Yep Roc Records](https://www.yeproc.com/).
 
 The beloved alt-country/garage quartet recorded these 11 songs between 2019 and 2021 at Montreal's Skybarn with Arcade Fire's [Richard Reed Parry](https://richardreedparry.com/) producing. Pietro Amato engineered and mixed the brunt of the record, with Dubue and Cowboy Junkies producer Peter J. Moore working on the song "You Should Be Worried." Longtime collaborator Jon Spencer and the Goods' parents, Margaret and Bruce, also appear on select tracks.
 

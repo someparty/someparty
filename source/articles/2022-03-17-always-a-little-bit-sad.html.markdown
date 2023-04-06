@@ -58,7 +58,7 @@ Cody Googoo's played in a swarth of punk, hardcore, and garage rock bands over t
 
 The project features music composed by Quebec singer-songwriter [Dany Placard](https://danyplacard.bandcamp.com/) and New Brunswick indie legend [Julie Doiron](https://juliedoiron.bandcamp.com/). The joint effort arrives on the heels of Doiron's recent solo LP *I Thought Of You*, issued last fall through [You've Changed Records](https://youvechangedrecords.com/).
 
-Doiron and Placard, a couple outside of their professional relationship, worked on *I Thought Of You* together in early 2020, teamed with Ian and [Daniel Romano](http://www.danielromanomusic.com/) in the studio. Last summer, Placard released *Astronomie(suite)*, a companion piece to his early-2020 psych-rock opus *J'connais rien à l'astronomie* (both released via Simone - and both featuring Doiron on backing vocals).
+Doiron and Placard, a couple outside of their professional relationship, worked on *I Thought Of You* together in early 2020, teamed with Ian and [Daniel Romano](https://www.danielromanomusic.com/) in the studio. Last summer, Placard released *Astronomie(suite)*, a companion piece to his early-2020 psych-rock opus *J'connais rien à l'astronomie* (both released via Simone - and both featuring Doiron on backing vocals).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OUCr3tnM3QA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

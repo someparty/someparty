@@ -19,7 +19,7 @@ Pneumatic Tube's of course not the only outlet for the TV Freaks members. It joi
 
 [Listen: Glittering Prizes @ Bandcamp](https://glitteringprizesband.bandcamp.com/ "#")
 
-Side-projects aside, TV Freaks proper are hard at work on a new record. The band's currently writing for the follow up to 2015's [Deranged](http://www.derangedrecords.com/)-released *Bad Luck Charms*, which saw the group produced by Dallas Good of [The Sadies](http://www.thesadies.net/) and mixed by Don Pyle of [Shadowy Men on a Shadowy Planet](https://shadowy.brainiac.com/). The band should have some new stuff together for December, which will see them both open one of those big ticket Alexisonfire reunion gigs then burn down 2017 at [This Ain't Hollywood](https://www.facebook.com/events/125834558086235/) for a New Years gig with Daniel Romano's Ancient Shapes and Ian Kehoe.
+Side-projects aside, TV Freaks proper are hard at work on a new record. The band's currently writing for the follow up to 2015's [Deranged](http://www.derangedrecords.com/)-released *Bad Luck Charms*, which saw the group produced by Dallas Good of [The Sadies](https://www.thesadies.net/) and mixed by Don Pyle of [Shadowy Men on a Shadowy Planet](https://shadowy.brainiac.com/). The band should have some new stuff together for December, which will see them both open one of those big ticket Alexisonfire reunion gigs then burn down 2017 at [This Ain't Hollywood](https://www.facebook.com/events/125834558086235/) for a New Years gig with Daniel Romano's Ancient Shapes and Ian Kehoe.
 
 ##Of Note
 

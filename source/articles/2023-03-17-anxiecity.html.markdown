@@ -69,7 +69,7 @@ It feels like an eternity since we last heard from [Brutal Youth](http://brutaly
 
 >"I was listening to a lot of Dag Nasty *Can I Say* at the time. This was inspired by 'Values Her'e' in a lot of ways. Lyrically it's a personal anthem about when the intimate promises we often make to the ones we love can just fall apart no matter how much you're doing to try to hold them together. Thematically I think that's in line with the entire record."
 
-[Michael Crusty](https://crustymedia.ca) (The Black Halos, Danko Jones) directed the "Moonstones" video, playing now on YouTube. The band recorded with Steve Rizun (The Flatliners, Choices Made) at Drive Studios in Toronto. *Rebuilding Year* lands as the group's fourth long player, following up from their 2016 Stomp LP *Sanguine*. Brutal Youth finds O'Lanern backed by drummer Dustin Campbell, bassist Kyle Hynes, and guitarist Greg Hounsel.
+[Michael Crusty](https://crustymedia.ca) (The Black Halos, Danko Jones) directed the "Moonstones" video, playing now on YouTube. The band recorded with Steve Rizun (The Flatliners, Choices Made) at Drive Studios in Toronto. *Rebuilding Year* lands as the group's fourth long player, following up from their 2016 Stomp LP *Sanguine*. Brutal Youth finds O'Lantern backed by drummer Dustin Campbell, bassist Kyle Hynes, and guitarist Greg Hounsel.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kzMKAlHqvpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -249,6 +249,6 @@ White shared extensive notes on Bandcamp, noting:
 
 >"With Eric's Trip, especially in the early days up to *Love Tara*, o didn't really record solo demos of the songs that i wrote for the band. I would write them and work them out with Julie and the other guys before we recorded. So the first recorded version of many of those songs is the one that got released. I did end up finding a couple though..."
 
-You can find the collection and the full write-up over at the Rick White Archive. In May of last year, White issued *Rick White plays The Sadies*, a 14-song LP celebrating the career of beloved Toronto alt-country group [The Sadies](http://www.thesadies.net/) and the legacy of White's friend and frequent collaborator Dallas Good.
+You can find the collection and the full write-up over at the Rick White Archive. In May of last year, White issued *Rick White plays The Sadies*, a 14-song LP celebrating the career of beloved Toronto alt-country group [The Sadies](https://www.thesadies.net/) and the legacy of White's friend and frequent collaborator Dallas Good.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3703109299/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://rickwhitearchive.bandcamp.com/album/rick-white-erics-trip-demos-92-95">RICK WHITE - Eric&#39;s Trip Demos (92-95) by Rick White Archive</a></iframe>

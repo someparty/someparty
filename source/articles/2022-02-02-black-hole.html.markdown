@@ -55,7 +55,7 @@ The "Mayo" single arrives alongside a video from Sylvain Dumais. Doiron commente
 
 The new record reflects the monotony of life during the stay-at-home orders, written and recorded from the real-life couple's respective homes during the slow grind of the pandemic.
 
-Doiron and Placard worked together on the recent *I Thought of You* in early 2020, teaming with Welland, Ontario brothers Ian and [Daniel Romano](http://www.danielromanomusic.com/) in the studio. That record arrived last November through [You've Changed Records](https://youvechangedrecords.com/). Last summer, Placard released *Astronomie(suite)*, a companion piece to his early-2020 psych-rock record *J'connais rien à l'astronomie* (both via Simone - and both featuring Doiron on backing vocals).
+Doiron and Placard worked together on the recent *I Thought of You* in early 2020, teaming with Welland, Ontario brothers Ian and [Daniel Romano](https://www.danielromanomusic.com/) in the studio. That record arrived last November through [You've Changed Records](https://youvechangedrecords.com/). Last summer, Placard released *Astronomie(suite)*, a companion piece to his early-2020 psych-rock record *J'connais rien à l'astronomie* (both via Simone - and both featuring Doiron on backing vocals).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gfG02swaZws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

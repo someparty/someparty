@@ -25,7 +25,7 @@ Protruders is the successor project to [Kappa Chow](https://kappachow.bandcamp.c
 
 [Listen: Protruders - *PROTRUDERSREDURTORP* @ Bandcamp](http://protruders.bandcamp.com/album/protrudersredurtorp "#")
 
-[Daniel Romano](http://www.danielromanomusic.com/)'s *tournée infinite* is getting ready to return home from Europe and Canadian shows are on the horizon. The eclectic and prolific singer-songwriter will take his live band, currently dubbed the Jazz Police, through Winnipeg, Saskatoon, Edmonton, Calgary, and Vancouver in January. Before that, Dan's power-pop side-project [Ancient Shapes](https://youvechangedrecords.bandcamp.com/album/ancient-shapes) will play [TV Freaks](https://www.facebook.com/teeveefreakzz/)' New Year's Eve show in Hamilton along with fellow Attack In Black alumnus [Ian Daniel Kehoe](https://www.iandanielkehoe.com/).
+[Daniel Romano](https://www.danielromanomusic.com/)'s *tournée infinite* is getting ready to return home from Europe and Canadian shows are on the horizon. The eclectic and prolific singer-songwriter will take his live band, currently dubbed the Jazz Police, through Winnipeg, Saskatoon, Edmonton, Calgary, and Vancouver in January. Before that, Dan's power-pop side-project [Ancient Shapes](https://youvechangedrecords.bandcamp.com/album/ancient-shapes) will play [TV Freaks](https://www.facebook.com/teeveefreakzz/)' New Year's Eve show in Hamilton along with fellow Attack In Black alumnus [Ian Daniel Kehoe](https://www.iandanielkehoe.com/).
 
 The latest video from Romano's Polaris long-listed *Modern Pressure* is also online. "Fake Love Songs" was directed by Cotey Pope and shot on 16mm film in Sackville this past summer. That's Romano's bandmate [Kay Berkel](https://kayberkel.bandcamp.com/) on the rollerskates...
 

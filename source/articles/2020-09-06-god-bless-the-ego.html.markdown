@@ -59,7 +59,7 @@ Speaking of Kingfisher Bluez, the Vancouver label recently issued *Short Songs 2
 
 [Listen: J Blissette - "Left Outside" @ Bandcamp](https://kingfisherbluez.bandcamp.com/track/left-outside "#")
 
-[Daniel Romano](http://www.danielromanomusic.com/)'s Outfit shared a second video preview of their upcoming *How Ill Thy World Is Ordered* last week with the new single "Green Eye Shade." The Welland artist commented on the equine-focused clip in a florid statement:
+[Daniel Romano](https://www.danielromanomusic.com/)'s Outfit shared a second video preview of their upcoming *How Ill Thy World Is Ordered* last week with the new single "Green Eye Shade." The Welland artist commented on the equine-focused clip in a florid statement:
 
 >"From a lightning bolt. From the sea. In the end of eternity, The white horse  Carries no saint, no world saviour, The white horse roams free in its spectacular Human-less liberty as the aspiration of its destiny. Empty chariots, hidden in green vines, hill-like and indistinguishable from the world's eye — the rotting fossil of the gods. There is a white horse, roaming in the green eye-shade, In a new dawning hour, through a mad reverie, bore the eyes of the kingdom, green eye-shade, In the fall of all power, rose a clear alchemy of green eye-shade."
 

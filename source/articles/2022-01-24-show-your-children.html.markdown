@@ -116,10 +116,10 @@ A video for "Plaque Protection" went live with the album drop, filmed and edited
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHndk5Xr1DA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[The Sadies](http://www.thesadies.net/): "Message to Belial"
+###[The Sadies](https://www.thesadies.net/): "Message to Belial"
 ==Watch on [YouTube](https://youtu.be/ig11RSMz2VI)==
 
-Toronto alt-country wizards [The Sadies](http://www.thesadies.net/) recently shared "Message to Belial," a new single and the band's second reveal from sessions recorded with Arcade Fire's [Richard Reed Parry](https://richardreedparry.com/). While I'd wager both this track and the preceding "Stop and Start" are destined for the follow-up to *Northern Passages*, there's been no announcement on that front yet. The track arrived alongside a wonderfully psychedelic lyric video directed by Mike Dubue, with visual effects by Arturo Brisindi.
+Toronto alt-country wizards [The Sadies](https://www.thesadies.net/) recently shared "Message to Belial," a new single and the band's second reveal from sessions recorded with Arcade Fire's [Richard Reed Parry](https://richardreedparry.com/). While I'd wager both this track and the preceding "Stop and Start" are destined for the follow-up to *Northern Passages*, there's been no announcement on that front yet. The track arrived alongside a wonderfully psychedelic lyric video directed by Mike Dubue, with visual effects by Arturo Brisindi.
 
 *Northern Passages* arrived in 2017 through [Dine Alone](https://dinealonerecords.com/) and [Yep Roc Records](https://www.yeproc.com/). The Sadies' long-running lineup remains rock solid with drummer Mike Belitsky, bassist Sean Dean, and sibling vocalists/guitar heroes Dallas and Travis Good.
 
