@@ -47,7 +47,7 @@ Speaking to [Pure Grain Audio](https://puregrainaudio.com/audio/francophone-punk
 
 >"'Festival' is about the fact that there is not much crazy tubular noisish music in the popular festivals scene in Quebec which isn’t bad or good but just a fact. And comes the day when you see a Klo Pelgag show on psychadelix, sitting alone in mud, in a field under the rain, then you realize that in the end, it does not even matter (Linkin Park). It is a good time and we learn from our differences and we’re all there in the same boat, chilling and doing our best."
 
-*Notre-Dame de la vie intérieure* arrives in the spring on [Pantoum Records](http://lepantoum.com/pantoumrecords/).
+*Notre-Dame de la vie intérieure* arrives in the spring on [Pantoum Records](https://www.lepantoum.com/).
 
 CRABE features Gabriel Lapierre and Mertin Höek. They came together first in the southwestern Quebec town of Salaberry-de-Valleyfield before relocating to Montreal. Guillaume Chiasson of the Quebec City garage rock duo [Ponctuation](https://ponctuationponctuation.bandcamp.com/) produced the band's new material.
 

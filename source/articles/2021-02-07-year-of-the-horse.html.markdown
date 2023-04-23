@@ -147,7 +147,7 @@ The collection, which follows The Holdouts' early-2020 EP *Cause and Effect*, sh
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=210674687/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://theholdouts905.bandcamp.com/album/for-reasons-unknown">For Reasons Unknown by The Holdouts</a></iframe>
 
-###[Mother Tongues](https://buzzrecordsto.bandcamp.com/track/sexy-boy): "Sexy Boy"
+###[Mother Tongues](https://mothertongues.bandcamp.com): "Sexy Boy"
 ==Preview and purchase at [Bandcamp](https://buzzrecordsto.bandcamp.com/track/sexy-boy)==
 
 Toronto psych-rock group [Mother Tongues](https://mothertongues.bandcamp.com) recently returned with a cover of "Sexy Boy," the 1988 single by the French electronic duo Air. The one-off comes on the heels of the band's debut EP *Everything You Wanted*, which arrived in 2020 through [Buzz Records](http://buzzrecords.ca/).

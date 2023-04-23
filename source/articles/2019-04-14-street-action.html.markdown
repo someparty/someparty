@@ -32,7 +32,7 @@ Low Sun will promote the new release with a two-week European tour kicking off t
 
 [Listen: Low Sun - "Don't Hesitate" @ Punknews.org](https://www.punknews.org/article/69593/low-sun-premieres-dont-hesitate-from-upcoming-new-shiney-ep "#")
 
-I had the privilege last week of premiering more weird and wild sounds from Montreal art-punk duo [CRABE](http://crabe.bandcamp.com). The band's gearing up to release their 7th record, *Notre-Dame de la vie intérieure*, this spring on [Pantoum Records](http://lepantoum.com/pantoumrecords/). Over at Punknews I shared the new video for the riffy and raucous "Le monde entier." It's the third single the band's revealed in recent months, following "Festival" and "Livre compliqué."
+I had the privilege last week of premiering more weird and wild sounds from Montreal art-punk duo [CRABE](http://crabe.bandcamp.com). The band's gearing up to release their 7th record, *Notre-Dame de la vie intérieure*, this spring on [Pantoum Records](https://www.lepantoum.com/). Over at Punknews I shared the new video for the riffy and raucous "Le monde entier." It's the third single the band's revealed in recent months, following "Festival" and "Livre compliqué."
 
 I asked the often oblique band about the new track and got a very satisfyingly-CRABE description back:
 
