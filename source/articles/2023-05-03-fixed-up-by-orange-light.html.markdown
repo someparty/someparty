@@ -14,7 +14,7 @@ The latter features Jordan Seccareccia on guitar and vocals, Alex Baigent on bas
 
 >"'Pear Tree' was written in 2019. It's a song about a body, found on a beach, and the questions and conclusions people draw from bodies. Most of the questions aren't resolved and the characters in the song argue as they circle around understanding. Finding comfort with uncertainty is a theme that runs through the album. There's a musical emphasis on the space between players, listening to the hesitation and commitment between notes. Everything is measured and slow and quiet so that the tape can pick up that sweet silence and hold it in the mix. I wanted to find that weird comfort, that bleary eyed early feeling when the day is a hazy mystery, the weathered and windswept quiet as the late afternoon begins to dim and chill."
 
-The lively "Fixed Up By Orange Light" arrived this week alongside a [performance video](https://youtu.be/xb-7PQXaizc) shot at the Toronto bookstore Sellers and Newel. On that track, the band commented:
+The lively "Fixed Up By Orange Light" arrived this week alongside a [performance video](https://youtu.be/xb-7PQXaizc) shot at the Toronto bookstore [Sellers and Newel](http://www.sellersandnewel.com/). On that track, the band commented:
 
 >"Something we wanted to do with Paul on this album that we knew he was good at but didn't really get to fully exploit on the last album was to record as much of it live off the floor as possible. The songs on this album all create a lot of space, they breathe, and the players all stretch their legs as they go. It's not really an album of 'parts' but of 'playing' if that makes sense. To me it's a real benefit if you can hear the space in the room between the players in the live take, especially with songs like these. 'Orange Light' was the hardest song to record like this because it's full of little tricks and twists and is relatively uptempo. We did take after take to try to get the right tempo, the right feel between us, good solos, fun little fills and stuff. Paul is so good at keeping things engaging and focused and honing in on the sound we're all looking for."
 
@@ -27,7 +27,7 @@ Westelaken would have fit right in on the old Three Gut Records label, and it's 
 ###[Woolworm](https://woolworm.bandcamp.com): "Bangs"
 ==Preview and purchase at [Bandcamp](https://woolworm.bandcamp.com/album/bangs)==
 
-Grim Vancouver indie rock act [Woolworm](https://woolworm.bandcamp.com) made a welcome return last month, teasing their fourth full-length while issuing the new single "Bangs." The track, one of two recently crafted one-offs, finds the long-running group working with Nick Short of [Dumb](https://dumbband.bandcamp.com/) at Choms Studio. A second track, "Ritual Pass," is due in a few weeks. In a press release, Giles Roy describes "Bangs" as a love song, commenting:
+The oft-grim Vancouver indie rock act [Woolworm](https://woolworm.bandcamp.com) made a welcome return last month, teasing their fourth full-length while issuing the new single "Bangs." The track, one of two recently crafted one-offs, finds the long-running group working with Nick Short of [Dumb](https://dumbband.bandcamp.com/) at Choms Studio. A second track, "Ritual Pass," is due in a few weeks. In a press release, Giles Roy describes "Bangs" as a love song, commenting:
 
 >"A vocal melody fell into place naturally over a riff within minutes of its composition and, as is the case with every Woolworm song, Heather Black's backing vocals then took it to a new plane of existence. The goal was to reimagine My Bloody Valentine's Isn't Anything sound as something a little more forceful and clear. Appropriately, like the love that inspired it, the song showed up suddenly and fully formed."
 
@@ -61,20 +61,20 @@ While Samson and Clark remain partners off-stage, the bassist/vocalist stepped b
 
 *Waiting Here* lands June 16 through Spain's [Bobo Integral](https://bobointegral.com/) and the Chandra-band affiliated [We Are Time](https://wearetime.bandcamp.com/). This era of Tough Age finds Samson again backed by their Toronto-era drummer Jesse Locke, with early Tough Age bassist Lauren Smith returning to the fold. Live, the band's now joined by Wade from [Stress Eating](https://stresseating.bandcamp.com/) and [Corner Boys](https://cornerboys.bandcamp.com). The new album finds the group again recording with [Freelove Fenner](https://freelovefenner.bandcamp.com)'s Peter Woodford at Montreal's Bottle Garden Studio, with [Jay Arner](https://jayarner.bandcamp.com/) mastering.
 
-The band's final full-length in their four-album run for [Mint Records](https://www.mintrecs.com/), *Which Way Am I?*, arrived in 2020, followed by the *Pizza Punks* split 7" with Vancouver slackers [Dumb](https://dumbband.bandcamp.com/).
+Tough Age's final full-length in their four-album run for [Mint Records](https://www.mintrecs.com/), *Which Way Am I?*, arrived in 2020, followed by the *Pizza Punks* split 7" with Vancouver slackers [Dumb](https://dumbband.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=307647410/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2040831755/transparent=true/" seamless><a href="https://tough-age.bandcamp.com/album/waiting-here">Waiting Here by Tough Age</a></iframe>
 
 ###[Odonis Odonis](https://odonisodonis.bandcamp.com/): "Beast" (ft. Tobacco)
 ==Watch on [YouTube](https://youtu.be/meh3V5qO8vw) - Preview and purchase at [Bandcamp](https://odonisodonis.bandcamp.com/album/icon)==
 
-Toronto chameleons [Odonis Odonis](https://odonisodonis.bandcamp.com/) have undergone yet another conceptual shift, with the duo (Constantin (Dean) Tzenos and Denholm Whale) launching a collaborative era supporting an ambitious list of artists. The band's following up their new wave-inspired 2021 album *Spectrums* with the *ICON* EP. It features six songs, each lending the pair's industrial post-punk styling to a different collaborator. The set includes team-ups with Brooklyn noise heroes [A Place to Bury Strangers](https://www.aplacetoburystrangers.com/), Pittsburg producer [TOBACCO](https://tobaxxo.bandcamp.com/), LA industrial pop act [Patriarchy](https://patriarchy.bandcamp.com/), atmospheric Montreal art-rock group [SUUNS](https://suuns.bandcamp.com/), and a pair of Vancouver bands: the synth-punks [ACTORS](https://actors.bandcamp.com/) and darkwave artist [Terror Bird](https://terrorbird.bandcamp.com/).
+Toronto chameleons [Odonis Odonis](https://odonisodonis.bandcamp.com/) have undergone yet another conceptual shift, with the duo (Constantin (Dean) Tzenos and Denholm Whale) launching a collaborative era supporting an ambitious list of artists. The upcoming *ICON* EP features six songs, each lending the pair's industrial post-punk toolkit to a different collaborator. The set includes team-ups with Brooklyn noise heroes [A Place to Bury Strangers](https://www.aplacetoburystrangers.com/), Pittsburg producer [TOBACCO](https://tobaxxo.bandcamp.com/), LA industrial pop act [Patriarchy](https://patriarchy.bandcamp.com/), atmospheric Montreal art-rock group [SUUNS](https://suuns.bandcamp.com/), and a pair of Vancouver bands: the synth-punks [ACTORS](https://actors.bandcamp.com/) and darkwave artist [Terror Bird](https://terrorbird.bandcamp.com/).
 
 The announcement came packaged with a preview of the aggressive electronic outing "Beast." In a press release, Denholm Whale spoke on how the track, which features TOBACCO (Thomas Fec, also of the psych outfit Black Moth Super Rainbow), came together:
 
 >"The track started by just recording a bunch of jams with an erica synth bassline and linn drum. We sent the jam over to Tom Fec (Tobacco) and he picked out his favorite moments. We used those parts to block out the song structure and some scratch vocals. Then Tom added a bunch of lead synth lines on top with a Juno. After that was mostly just polishing the track up until both parties were happy with it"
 
-New York noise artist [Dreamcrusher](https://dreamcrusher.bandcamp.com) created the artwork for the *ICON* project. The album arrives June 9 through [Felte](http://www.felte.net) and [Pirates Blend](https://piratesblend.com/).
+New York noise artist [Dreamcrusher](https://dreamcrusher.bandcamp.com) created the artwork for the *ICON* project. The album arrives June 9 through [Felte](http://www.felte.net) and [Pirates Blend](https://piratesblend.com/). Odonis Odonis is following up their new wave-inspired 2021 album *Spectrums*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/meh3V5qO8vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -99,7 +99,7 @@ Lost Love released *Empathy* through [Fantasio Club](https://fantasioclub.com/) 
 ###[Roach](https://roachband.bandcamp.com/): "Swimming"/"Drowning"
 ==Preview and purchase at [Bandcamp](https://roachband.bandcamp.com/album/swimming-drowning)==
 
-Toronto indie/emo quartet [Roach](https://roachband.bandcamp.com/) shared a pair of new songs last week, previewing their forthcoming debut LP, *No One to Lose*. You can hear the evocative "Swimming" and "Drowning" at Bandcamp, presenting a significant leap forward for the group after years of roughshod demos and upstream roadblocks. The group features drummer Carly Harris, guitarist Jackson Seaward, and  Violet de Rege Braga on guitar and vocals. They're joined on this recording by bassist Michael O'Meara, Robyn Bond (Blanks, Cinder) on synth, and [Casper Skulls](https://casperskulls.bandcamp.com/)' Fraser McClean on guitars and harmonies. The band recorded with Dex Piecowye engineering.
+Toronto indie/emo quartet [Roach](https://roachband.bandcamp.com/) shared a pair of new songs last week, previewing their forthcoming debut LP, *No One to Lose*. You can hear the evocative "Swimming" and "Drowning" at Bandcamp, presenting a significant leap forward for the group after years of roughshod demos and public health roadblocks. The group features drummer Carly Harris, guitarist Jackson Seaward, and  Violet de Rege Braga on guitar and vocals. They're joined on this recording by bassist Michael O'Meara, Robyn Bond (Blanks, Cinder) on synth, and [Casper Skulls](https://casperskulls.bandcamp.com/)' Fraser McClean on guitars and harmonies. The band recorded with Dex Piecowye engineering.
 
 The new recordings follow the band's 2020 single "R.I.P. Soft Serve." Expect the new album through Brantford, Ontario's [Bummer Records](https://www.bummerrecords.ca/).
 
@@ -108,13 +108,13 @@ The new recordings follow the band's 2020 single "R.I.P. Soft Serve." Expect the
 ###[Kristian North](https://kristiannorth.bandcamp.com/): "Pseudoscience Fiction"
 ==Watch on [YouTube](https://youtu.be/S8x7_CGA5z0) - Preview and purchase at [Bandcamp](https://kristiannorth.bandcamp.com/album/pseudoscience-fiction)==
 
-Montreal sophisti-pop artist [Kristian North](http://kristiannorth.bandcamp.com) recently shared the dramatic title track to *Pseudoscience Fiction*, his fast-approaching new album. Over a propulsive bassline, the track finds North cruising through a dark retro-future, with the fleeting appearance of a *Trans*-style vocoder driving that home. In a press release, the artist commented:
+Montreal sophisti-pop artist [Kristian North](http://kristiannorth.bandcamp.com) recently shared the dramatic title track to *Pseudoscience Fiction*, his fast-approaching new album. Over a propulsive bassline, the song finds North cruising through a dark retro-future, with the fleeting appearance of a *Trans*-style vocoder driving that home. In a press release, the artist commented:
 
 >"At some point, I thought it would be the first or last song on the album with this kind of opening or closing credits thing, but it never fit. I noticed it worked opening the album's B-side, bolstering the album's non-linear storytelling, hopping around from past to present to future and back.
 >
 >As the title track, this song also serves as a kind of theme song for the record. I was trying for a kitschy disco song, like something that would be on the Warriors soundtrack or something like that."
 
-Animator [Jordan 'Dr. Cool' Minkoff](http://www.jordanminkoff.com) (Teenanger, Suuns) showcases the track in a neat visualizer available on YouTube. *Pseudoscience Fiction* lands May 19 through [Mothland](https://www.mothland.com/), playing host to a killer list of guest musicians, including Cindy Lee Woland on guitar, Joe Grass on pedal steel, Ari Swan on violin, and Andrea Mercier on sax. Celluloid Lunch players [Hélène Barbier](https://helenebarbier.bandcamp.com/) and Joe Chamandy ([Tha Retail Simps](https://totalpunkrecords.bandcamp.com/album/reverberant-scratch-9-shots-in-tha-dark)) both appear, as does their labelmate [Elle Barbara](https://ellebarbarasblackspace.bandcamp.com/), who performs on the duet "Mercy."
+Animator [Jordan 'Dr. Cool' Minkoff](http://www.jordanminkoff.com) (Teenanger, Suuns) showcases the track in a neat visualizer available on YouTube. *Pseudoscience Fiction* lands May 19 through [Mothland](https://www.mothland.com/), playing host to an impressive list of guest musicians, including Cindy Lee Woland on guitar, Joe Grass on pedal steel, Ari Swan on violin, and Andrea Mercier on sax. Celluloid Lunch players [Hélène Barbier](https://helenebarbier.bandcamp.com/) and Joe Chamandy ([Tha Retail Simps](https://totalpunkrecords.bandcamp.com/album/reverberant-scratch-9-shots-in-tha-dark)) both appear, as does their labelmate [Elle Barbara](https://ellebarbarasblackspace.bandcamp.com/), who performs on the duet "Mercy."
 
 *Pseudoscience Fiction* follows up on 2021's *Passion Play*. It's the third solo effort from North since he parted ways with the shambling punk act [Babysitter](https://babysitter.bandcamp.com/).
 
@@ -141,9 +141,9 @@ The duo, formerly known as The Faps, is a long-running collaboration between Bla
 ###[Monsoon Moon](http://monsoonmoonunit.bandcamp.com/): *Circulating*
 ==Watch on [YouTube](https://youtu.be/XCp9GM1Q85I) - Preview and purchase at [Bandcamp](https://monsoonmoonunit.bandcamp.com/album/circulating)==
 
-Last month the Montreal-via-Vancouver garage duo [Monsoon Moon](http://monsoonmoonunit.bandcamp.com/) returned with *Circulating*, a five-song EP and their first collection since 2019's *Two-Headed Dog*. The set features a lively and stylish collection of surf-flavoured, organ-backed rock songs. You can now find a video celebrating the title track playing on YouTube. The band's formally launching the album with a show on May 12 at L'Hémisphère Gauche, backed by [Debbie Christ](https://debbiechrist.bandcamp.com) and [Binoculars](https://binoculars.bandcamp.com/).
+Last month the Montreal-via-Vancouver garage duo [Monsoon Moon](http://monsoonmoonunit.bandcamp.com/) returned with *Circulating*, a five-song EP and their first collection since 2019's *Two-Headed Dog*. The set features a lively and stylish collection of surf-flavoured, organ-backed rock songs. You can now find a video celebrating the title track playing on YouTube.
 
-Monsoon Moon last issued the "Satiate" single in May of 2022. The duo features Riley McMaster on vocals and guitar paired with drummer/keyboardist/vocalist Marie Foxall.
+Monsoon Moon last issued the "Satiate" single in May of 2022. The duo features Riley McMaster on vocals and guitar paired with drummer/keyboardist/vocalist Marie Foxall. The band's formally launching the new album with a show on May 12 at L'Hémisphère Gauche, backed by [Debbie Christ](https://debbiechrist.bandcamp.com) and [Binoculars](https://binoculars.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCp9GM1Q85I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -198,7 +198,7 @@ Fucked Up issued the ten-track *One Day* in January through [Merge](https://www.
 ###[Barnacle](https://barnaclemtl.bandcamp.com): *Old Songs*
 ==Watch "Bare Knuckle" on [YouTube](https://youtu.be/LVFe64SAk74) - Preview and purchase at [Bandcamp](https://barnaclemtl.bandcamp.com/album/old-songs)==
 
-I adore the weird aquatic punk of Montreal's [Barnacle](https://barnaclemtl.bandcamp.com), but their future seemed bleak. Keeping momentum is hard in good times; the past three years have been anything but. Would lo-fi beach freakouts be forever left as a pre-pandemic relic? Fortunately, the universe isn't *that* cruel, and there's some life left in the tidal pool. The group acknowledges the forced hiatus on *Old Songs*, a nine-song collection written between 2017 and 2019, recorded just as the world fell apart. They mythologize the long-awaited debut on Bandcamp:
+I adore the weird aquatic punk of Montreal's [Barnacle](https://barnaclemtl.bandcamp.com), but their future seemed bleak. Keeping momentum is hard in good times; the past three years have been anything but. Would lo-fi beach freakouts be forever left as pre-pandemic relics? Fortunately, the universe isn't *that* cruel, and there's some life left still in the tidal pool. The group acknowledges the forced hiatus on *Old Songs*, a nine-song collection written between 2017 and 2019, recorded just as the world fell apart. They mythologize the long-awaited debut on Bandcamp:
 
 >"In 2019, Barnacle was working on their debut album, *Freak on a Beach*. They poured their hearts and souls into the recordings, and they were excited to share their music with the world.
 >
@@ -217,11 +217,11 @@ The set arrived alongside a new video for "Bare Knuckle," edited by [Raphaël Sa
 ###[Century Palm](https://centurypalm.bandcamp.com/): "If You Could Read My Mind"
 ==Preview at [New Noise](https://centurypalm.bandcamp.com/album/century-palm-play-gordon-lightfoot)==
 
-I'm ill-equipped to eulogize someone with the stature and impact of Gordon Lightfoot, and with a wealth of tributes flooding in from all corners, there's little new I could offer. I can confidently say I stole my parents' beat-up copy of *Gord's Gold* years before my punk rock brain knew how to appreciate it. It seemed important — canonical. I wasn't wrong in that assumption if slow to realize it. My copy still has a War Amps return address sticker marring the cover; moms in the 80s stuck those on everything.
+I'm ill-equipped to eulogize someone with the stature and impact of [Gordon Lightfoot](https://gordonlightfoot.com/), and with a wealth of tributes flooding in from all corners, there's little new I could offer. I can confidently say I stole my parents' beat-up copy of *Gord's Gold* years before my punk rock brain knew how to appreciate it. It seemed important — canonical. I wasn't wrong in that assumption if slow to realize it. My copy still has a War Amps return address sticker marring the cover; moms in the 80s stuck those on everything.
 
 I am, however, particularly well suited to gush over [Century Palm](https://centurypalm.bandcamp.com/), the short-lived Toronto post-punk that brought members of [Tough Age](https://tough-age.bandcamp.com/), the [Ketamines](https://ketamines.bandcamp.com/), and [Zebrassieres](https://zebrassieres.bandcamp.com/) together to make cool new wave tunes. The band's debut arrived in early 2017, contemporaneous to the first Some Party mailings. You could say I imprinted on them, as I did many artists and festivals from this publication's early days.
 
-Century Palm remains utterly defunct, but given the news, they've unearthed a previously elusive cover of Lightfoot's untouchable "If You Could Read My Mind." The audio, available on Bandcamp, features Paul Lawton and Alex Handlyn (the latter on lead vocals). It's pretty neat, and given its sombre presentation, it feels entirely appropriate.
+Century Palm remains utterly defunct, but given the news, they've unearthed a previously elusive cover of Lightfoot's untouchable "If You Could Read My Mind." The audio, available on Bandcamp, features Paul Lawton and Alex Handlyn performing (with the latter on lead vocals). It's pretty neat, and given its sombre presentation, it feels entirely appropriate.
 
 Rest in peace, Gord.
 
