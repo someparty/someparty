@@ -119,7 +119,7 @@ Gloin features members of Toronto indie rock act [Brenda](https://heybrenda.band
 
 [Watch: Gloin - "Steady Drone" @ YouTube](https://youtu.be/IIZyv_VOaNM "#")
 
-[The Flatliners](http://www.theflatliners.com/)' [Chris Cresswell](https://twitter.com/CrustCrustwell) has a new solo track online titled "To The Wind." It features the punk frontman taking an introspective acoustic turn, backed in the studio by pianist Dave Grabowski and drummer Paul Ramirez. Cresswell is expected to play a set of solo shows the summer featuring new material.
+[The Flatliners](https://www.theflatliners.com)' [Chris Cresswell](https://twitter.com/CrustCrustwell) has a new solo track online titled "To The Wind." It features the punk frontman taking an introspective acoustic turn, backed in the studio by pianist Dave Grabowski and drummer Paul Ramirez. Cresswell is expected to play a set of solo shows the summer featuring new material.
 
 Cresswell last went solo with his 2014 contribution to Joey Cape's [One Week Records](https://www.oneweekrecords.com/) project.
 

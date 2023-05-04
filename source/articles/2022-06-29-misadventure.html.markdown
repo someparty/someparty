@@ -178,10 +178,10 @@ Parks' long-awaited new album, issued in May through [Fuzz Club](https://fuzzclu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ay_0hfyuTFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[The Flatliners](http://www.theflatliners.com/): "Souvenir"
+###[The Flatliners](https://www.theflatliners.com): "Souvenir"
 ==Watch on [YouTube](https://youtu.be/6KdlgVFHEQE)==
 
-Long-running Toronto punk group [The Flatliners](http://www.theflatliners.com/) recently issued "Souvenir," the second single from their upcoming album *New Ruin*. The song arrives accompanied by another video from director Mitch Barnes (The Dirty Nil) that furthers the narrative of the preceding "Performative Hours." It again centres on the character of the disastrous TV host Ron Regal, played by Rodrigo Fernandez-Stoll (Kim's Conveniences, Baroness Von Sketch Show). This time, though, he's confined to a coffin while the band performs at his funeral.
+Long-running Toronto punk group [The Flatliners](https://www.theflatliners.com) recently issued "Souvenir," the second single from their upcoming album *New Ruin*. The song arrives accompanied by another video from director Mitch Barnes (The Dirty Nil) that furthers the narrative of the preceding "Performative Hours." It again centres on the character of the disastrous TV host Ron Regal, played by Rodrigo Fernandez-Stoll (Kim's Conveniences, Baroness Von Sketch Show). This time, though, he's confined to a coffin while the band performs at his funeral.
 
 Vocalist/guitarist Chris Cresswell revealed:
 

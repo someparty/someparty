@@ -72,10 +72,10 @@ Speaking of [Possum](https://possumyyz.bandcamp.com/), the Toronto psych quintet
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BuRj7DwVYwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Imploders](https://neontasterecords.bandcamp.com/album/exd): *EXD*
+###[Imploders](https://www.instagram.com/implodersband/): *EXD*
 ==Preview and purchase at [Bandcamp](https://neontasterecords.bandcamp.com/album/exd)==
 
-Toronto's [Imploders](https://neontasterecords.bandcamp.com/album/imploders) preview their forthcoming LP on a new live tape available through [Neon Taste](https://neontasterecords.bandcamp.com/). *EXD* features ten songs, six brand new, recorded live off the floor. You can pick up one of the limited cassettes (with super gross cover art by Dylan "Skulls" Bowden) at Bandcamp. Christian Turner mixed and mastered the set.
+Toronto's [Imploders](https://www.instagram.com/implodersband/) preview their forthcoming LP on a new live tape available through [Neon Taste](https://neontasterecords.bandcamp.com/). *EXD* features ten songs, six brand new, recorded live off the floor. You can pick up one of the limited cassettes (with super gross cover art by Dylan "Skulls" Bowden) at Bandcamp. Christian Turner mixed and mastered the set.
 
 Imploders surfaced this past summer with a self-titled EP brimming with Californian hardcore influences. The band features ex-[Average Times](https://averagetimes.bandcamp.com) member Todd Faux on vocals, Joey Parenteau (Vicious Cycle, [Pink Wine](https://ilikepinkwine.bandcamp.com/)) on guitar, Mikey Microwave ([First Base](https://firstbase.bandcamp.com/), [Teen Archer](https://teenarcher.bandcamp.com/)) on bass, and Curtis Tone ([PlasticHeads](http://weareplasticheads.bandcamp.com/), [School Damage](https://schooldamage.bandcamp.com/)) drumming. The group recently played their first show, opening Chain Whip's one-stop Ontario tour. Their next big gig's lined up for February 5 at Hamilton's Doors Pub with labelmates [Anxious Pleasers](https://anxiouspleasers.bandcamp.com/), plus School Damage and Neurasthenia.
 

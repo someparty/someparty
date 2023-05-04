@@ -70,10 +70,10 @@ Bootlicker last released the killer *How To Love Life* in the fall, the fourth E
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1178853098/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=400458019/transparent=true/" seamless><a href="https://neontasterecords.bandcamp.com/album/s-t-lp">S/T LP by Bootlicker</a></iframe>
 
-###[Imploders](https://neontasterecords.bandcamp.com/album/imploders): "Dimwit" / "Rip Em Off"
+###[Imploders](https://www.instagram.com/implodersband/): "Dimwit" / "Rip Em Off"
 ==Preview and purchase at [Bandcamp](https://neontasterecords.bandcamp.com/album/imploders)==
 
-...but that's not all! Neon Taste also recently turned the spotlight on Toronto's [Imploders](https://neontasterecords.bandcamp.com/album/imploders), a sneering new group steeped in the aggression of 80s Californian hardcore. The band's hard at work on their full-length debut now, with a five-song, self-titled EP paving the way on August 20. You can preview "Dimwit" and "Rip Em Off" at Bandcamp now.
+...but that's not all! Neon Taste also recently turned the spotlight on Toronto's [Imploders](https://www.instagram.com/implodersband/), a sneering new group steeped in the aggression of 80s Californian hardcore. The band's hard at work on their full-length debut now, with a five-song, self-titled EP paving the way on August 20. You can preview "Dimwit" and "Rip Em Off" at Bandcamp now.
 
 Imploders are too new and too cool to have a complete lineup published, but a little light social snooping reveals that the group, at the very least, features Mikey Microwave ([First Base](https://firstbase.bandcamp.com/), [Teen Archer](https://teenarcher.bandcamp.com/)) and drummer Curtis Tone ([PlasticHeads](http://weareplasticheads.bandcamp.com/), [School Damage](https://schooldamage.bandcamp.com/)). Our pal [Sam Coffey](https://samcoffeyandtheironlungs.bandcamp.com/) (of the Iron Lungs) gets a mixing credit on this thing.
 

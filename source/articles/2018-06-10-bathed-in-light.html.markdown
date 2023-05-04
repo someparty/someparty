@@ -21,7 +21,7 @@ The Nil will debut new music on the road this summer with upcoming residencies i
 
 [Listen: The Dirty Nil - "Bathed In Light" @ YouTube](https://youtu.be/DIgmgqFnanA "#")
 
-[The Flatliners](http://www.theflatliners.com/), who toured alongside the Nil last summer, have announced new material of their own. The band is planning to release a new 7" vinyl EP next week titled *Mass Candescence*, a three-song set that carries forward with the sound of last year's *Inviting Light* LP. I hate to qualify it as the "more mature sound" as that's often said dripping with punk contempt, but for a band that made its name by writing upstroke skacore ragers 16 years ago, it's a little apt.
+[The Flatliners](https://www.theflatliners.com), who toured alongside the Nil last summer, have announced new material of their own. The band is planning to release a new 7" vinyl EP next week titled *Mass Candescence*, a three-song set that carries forward with the sound of last year's *Inviting Light* LP. I hate to qualify it as the "more mature sound" as that's often said dripping with punk contempt, but for a band that made its name by writing upstroke skacore ragers 16 years ago, it's a little apt.
 
 The EP will feature the new single "The Arousal of Repair," which you can stream below. Dine Alone will be selling a white variant of the record online, limited to 300 copies, with 200 pink slabs available at the band's upcoming shows.
 

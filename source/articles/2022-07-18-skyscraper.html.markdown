@@ -154,10 +154,10 @@ The new record arrives as Single Mothers' first proper full-length since 2018's 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DyEsmayhw80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[The Flatliners](http://www.theflatliners.com/): "Rat King"
+###[The Flatliners](https://www.theflatliners.com): "Rat King"
 ==Watch on [YouTube](https://youtu.be/mYiult7KU2c)==
 
-Last week Toronto punk heroes [The Flatliners](http://www.theflatliners.com/) issued the third and final preview of their upcoming album *New Ruin*. "Rat King" arrives with a video by director Mitch Barnes (The Dirty Nil) that concludes the narrative spun in "Performative Hours" And "Souvenir." It finishes the story of TV host Ron Regal (played by Rodrigo Fernandez-Stoll), last seen quite deceased in his coffin. The clip includes footage shot at Toronto venues Sneaky Dee's and the Hard Luck Bar.
+Last week Toronto punk heroes [The Flatliners](https://www.theflatliners.com) issued the third and final preview of their upcoming album *New Ruin*. "Rat King" arrives with a video by director Mitch Barnes (The Dirty Nil) that concludes the narrative spun in "Performative Hours" And "Souvenir." It finishes the story of TV host Ron Regal (played by Rodrigo Fernandez-Stoll), last seen quite deceased in his coffin. The clip includes footage shot at Toronto venues Sneaky Dee's and the Hard Luck Bar.
 
 On the song, vocalist/guitarist Chris Cresswell revealed:
 
