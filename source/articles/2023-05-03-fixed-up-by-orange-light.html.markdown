@@ -65,7 +65,7 @@ Tough Age's final full-length in their four-album run for [Mint Records](https:/
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=307647410/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2040831755/transparent=true/" seamless><a href="https://tough-age.bandcamp.com/album/waiting-here">Waiting Here by Tough Age</a></iframe>
 
-###[Odonis Odonis](https://odonisodonis.bandcamp.com/): "Beast" (ft. Tobacco)
+###[Odonis Odonis](https://odonisodonis.bandcamp.com/): "Beast" (ft. TOBACCO)
 ==Watch on [YouTube](https://youtu.be/meh3V5qO8vw) - Preview and purchase at [Bandcamp](https://odonisodonis.bandcamp.com/album/icon)==
 
 Toronto chameleons [Odonis Odonis](https://odonisodonis.bandcamp.com/) have undergone yet another conceptual shift, with the duo (Constantin (Dean) Tzenos and Denholm Whale) launching a collaborative era supporting an ambitious list of artists. The upcoming *ICON* EP features six songs, each lending the pair's industrial post-punk toolkit to a different collaborator. The set includes team-ups with Brooklyn noise heroes [A Place to Bury Strangers](https://www.aplacetoburystrangers.com/), Pittsburg producer [TOBACCO](https://tobaxxo.bandcamp.com/), LA industrial pop act [Patriarchy](https://patriarchy.bandcamp.com/), atmospheric Montreal art-rock group [SUUNS](https://suuns.bandcamp.com/), and a pair of Vancouver bands: the synth-punks [ACTORS](https://actors.bandcamp.com/) and darkwave artist [Terror Bird](https://terrorbird.bandcamp.com/).
@@ -215,7 +215,7 @@ The set arrived alongside a new video for "Bare Knuckle," edited by [Raphaël Sa
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=915218341/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://barnaclemtl.bandcamp.com/album/old-songs">Old Songs by Barnacle</a></iframe>
 
 ###[Century Palm](https://centurypalm.bandcamp.com/): "If You Could Read My Mind"
-==Preview at [New Noise](https://centurypalm.bandcamp.com/album/century-palm-play-gordon-lightfoot)==
+==Preview and purchase at [Bandcamp](https://centurypalm.bandcamp.com/album/century-palm-play-gordon-lightfoot)==
 
 I'm ill-equipped to eulogize someone with the stature and impact of [Gordon Lightfoot](https://gordonlightfoot.com/), and with a wealth of tributes flooding in from all corners, there's little new I could offer. I can confidently say I stole my parents' beat-up copy of *Gord's Gold* years before my punk rock brain knew how to appreciate it. It seemed important — canonical. I wasn't wrong in that assumption if slow to realize it. My copy still has a War Amps return address sticker marring the cover; moms in the 80s stuck those on everything.
 
