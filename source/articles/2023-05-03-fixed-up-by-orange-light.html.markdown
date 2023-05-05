@@ -120,7 +120,7 @@ Animator [Jordan 'Dr. Cool' Minkoff](http://www.jordanminkoff.com) (Teenanger, S
 
 *Pseudoscience Fiction* follows up on 2021's *Passion Play*. It's the third solo effort from North since he parted ways with the shambling punk act [Babysitter](https://babysitter.bandcamp.com/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/<iframe width="560" height="315" src="https://www.youtube.com/embed/S8x7_CGA5z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S8x7_CGA5z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ###[TV Erased](https://tverased.bandcamp.com): *TV Erased*
 ==Preview and purchase at [Bandcamp](https://tverased.bandcamp.com/album/tv-erased)==
