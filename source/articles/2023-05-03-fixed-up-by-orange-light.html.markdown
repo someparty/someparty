@@ -38,7 +38,7 @@ Woolworm last issued *Awe* in the fall of 2019 through [Mint Records](https://ww
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2986773888/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://woolworm.bandcamp.com/album/bangs">Bangs by WOOLWORM</a></iframe>
 
 ###[Imploders](https://www.instagram.com/implodersband/): "Call Your Bluff"
-==Preview at [New Noise](https://newnoisemagazine.com/premieres/track-premiere-imploders-call-your-bluff/)==
+==Preview and purchase at [Bandcamp](https://neontasterecords.bandcamp.com/album/imploders-2)==
 
 Livewire Toronto punk act [Imploders](https://www.instagram.com/implodersband/) return with their debut LP this summer. Look for it on June 16 through [Neon Taste](https://neontasterecords.bandcamp.com/) domestically and [Static Shock](https://staticshockrecords.bandcamp.com/) elsewhere. If you sneak over to [New Noise Magazine](https://newnoisemagazine.com/premieres/track-premiere-imploders-call-your-bluff/), you can preview the breakneck "Call Your Bluff," one of 16 songs packed onto the self-titled set. Speaking to the website, the band revealed:
 
@@ -47,6 +47,8 @@ Livewire Toronto punk act [Imploders](https://www.instagram.com/implodersband/) 
 Imploders congealed during the pandemic, brimming with pent-up grievances and the influence of early Californian hardcore. The band features Todd Faux (ex-[Average Times](https://averagetimes.bandcamp.com)) on vocals, Joey Parenteau ([Vicious Cycle](https://www.instagram.com/viciouscyclesudbury/), [Pink Wine](https://ilikepinkwine.bandcamp.com/)) on guitar, Mikey Microwave ([First Base](https://firstbase.bandcamp.com/), [Teen Archer](https://teenarcher.bandcamp.com/)) on bass, and Curtis Tone ([PlasticHeads](http://weareplasticheads.bandcamp.com/), [School Damage](https://schooldamage.bandcamp.com/)) drumming.
 
 The new album follows the band's recent live tape, *EXD*, and their similarly self-titled 2021 EP.
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2442151486/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://neontasterecords.bandcamp.com/album/imploders-2">Imploders by Imploders</a></iframe>
 
 ###[Tough Age](https://tough-age.bandcamp.com/): "Give It a Day"
 ==Preview and purchase at [Bandcamp](https://tough-age.bandcamp.com/album/waiting-here)==

@@ -124,7 +124,7 @@ La Gachette's just the latest Quebec punk act to appear on the scene-documenting
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1938832398/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://pilssessions.bandcamp.com/album/la-gachette-session-12-06-22">La Gachette - Session #12 06/22 by Pils Sessions</a></iframe>
 
-###[Nora Kelly Band](https://www.instagram.com/norakellyband/): "Change My Mind"
+###[Nora Kelly Band](https://norakellyband.bandcamp.com): "Change My Mind"
 ==Watch on [YouTube](https://youtu.be/T-H_cZHdqXs)==
 
 Nora Kelly's eponymous alt-country solo project continues to blaze trails on an entirely different wavelength from her post-punk trio [Dishpit](https://dishpitofficial.bandcamp.com/). The Montreal artist's latest single, "Change My Mind," arrived last week alongside a self-produced video. In a press release, Kelly commented on the track:

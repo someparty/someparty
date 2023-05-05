@@ -16,7 +16,7 @@ Kamikaze Nurse features vocalist/guitarist KC Wei ([hazy](https://hazyhazyhaze.b
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qc17tvRR1Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Nora Kelly Band](https://www.instagram.com/norakellyband/): "Hymn for Agnostics"
+###[Nora Kelly Band](https://norakellyband.bandcamp.com): "Hymn for Agnostics"
 ==Watch on [YouTube](https://youtu.be/uIvwEuQJKmk)==
 
 Nora Kelly's new project sounds worlds removed from the racket she makes fronting the grungy post-punk trio [Dishpit](https://dishpitofficial.bandcamp.com/). The Montreal artist used the pandemic downtime to reinvent themselves, crafting smouldering alt-country with the Nora Kelly Band. That group's new single "Hymn for Agnostics" just landed alongside a video directed by [Sasha Cay](https://sashacay.bandcamp.com/).
