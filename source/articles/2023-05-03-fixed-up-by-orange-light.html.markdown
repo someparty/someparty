@@ -2,7 +2,7 @@
 title: Fixed Up By Orange Light
 date: 2023-05-03
 author: adam@someparty.ca (Adam White)
-description: Westelaken, Woolworm, Imploders, Tough Age, Odonis Odonis, Plastic Act, Lost Love, Roach, Kristian North, TV Erased, Grimelda, Monsoon Moon, Pantayo, Boo Radley, Remy Verreault, Fucked Up, Barnacle, and Century Palm!
+description: News from Westelaken, Woolworm, Imploders, Tough Age, Odonis Odonis, Plastic Act, Lost Love, Roach, Kristian North, TV Erased, Grimelda, Monsoon Moon, Pantayo, Boo Radley, Remy Verreault, Fucked Up, Barnacle, and Century Palm!
 ---
 
 ###[Westelaken](https://westelaken.bandcamp.com): "Pear Tree"/"Fixed Up By Orange Light"
