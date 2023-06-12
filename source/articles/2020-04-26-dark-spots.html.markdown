@@ -95,7 +95,7 @@ These two releases follow the November single *Fall Into Snow* and before that t
 
 [Listen: Bitter Fictions - *Eloquent & Despairing* @ Bandcamp](http://bitterfictions.bandcamp.com/album/eloquent-despairing "#")
 
-[Flatliners](https://www.theflatliners.com) frontman [Chris Cresswell](https://twitter.com/CrustCrustwell) spent some of his time in isolation recording a thematically-apt set of cover songs. His new solo EP *The Inside Man* features peaceful acoustic renditions of classics like "So Lonely" by the Police, Fugazi's "Waiting Room," and Descendents' "Nothing With You." The seven-song collection's available on Bandcamp now.
+[Flatliners](https://www.theflatliners.com) frontman [Chris Cresswell](https://chriscresswell.bandcamp.com) spent some of his time in isolation recording a thematically-apt set of cover songs. His new solo EP *The Inside Man* features peaceful acoustic renditions of classics like "So Lonely" by the Police, Fugazi's "Waiting Room," and Descendents' "Nothing With You." The seven-song collection's available on Bandcamp now.
 
 The material follows a few recent solo singles from Cresswell, who's been showing off a new maturity in tracks like "Gather My Thoughts" and "To The Wind." Chris last went solo with his 2014 contribution to Joey Cape's [One Week Records](https://www.oneweekrecords.com/) project. The Flatliners last released the LP *Inviting Light* and the follow-up EP *Mass Candescence*, both on [Dine Alone Records](https://dinealonerecords.com/).
 

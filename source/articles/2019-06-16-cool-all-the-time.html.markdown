@@ -115,7 +115,7 @@ DOOMSQUAD's set to play some cool Ontario festivals this summer, including Paris
 
 [Watch: DOOMSQUAD - "Let Yourself Be Seen" @ CBC Music](https://www.cbc.ca/music/firstplaylive/first-play-live-doomsquad-let-yourself-be-seen-1.5151320 "#")
 
-[Flatliners](https://www.theflatliners.com) lead [Chris Cresswell](https://twitter.com/CrustCrustwell) has a new solo track online titled "Gather My Thoughts." It's the second new tune from the punk frontman in the past few months, following the in the same stylistic vein as the introspective "To The Wind."
+[Flatliners](https://www.theflatliners.com) lead [Chris Cresswell](https://chriscresswell.bandcamp.com) has a new solo track online titled "Gather My Thoughts." It's the second new tune from the punk frontman in the past few months, following the in the same stylistic vein as the introspective "To The Wind."
 
 Cresswell last went solo with his 2014 contribution to Joey Cape's [One Week Records](https://www.oneweekrecords.com/) project. The Flatliners most recently released an EP titled *Mass Candescence* and the preceding *Inviting Light* LP. Cresswell's been touring as a part of Hot Water Music in recent months, filling in for singer/guitarist Chris Wollard.
 
