@@ -10,9 +10,10 @@ gem 'tzinfo-data', platforms: %i[mswin mingw jruby]
 
 # Middleman Gems
 
+gem 'activesupport'
 gem 'builder', '~> 3.0' # For feed.xml
 gem 'fastimage'
-gem 'activesupport'
+gem 'kramdown', '>= 2.3.1'
 gem 'middleman'
 gem 'middleman-autoprefixer'
 gem 'middleman-blog'
@@ -21,13 +22,13 @@ gem 'middleman-meta-tags'
 gem 'middleman-minify-html'
 gem 'middleman-robots'
 gem 'middleman-search_engine_sitemap'
-gem "nokogiri", ">= 1.13.2"
+gem 'nokogiri', '>= 1.13.2'
 gem 'redcarpet', '>= 3.5.1'
-gem "kramdown", ">= 2.3.1"
-gem "rexml", ">= 3.2.5"
+gem 'rexml', '>= 3.2.5'
 
 # as per https://forum.middlemanapp.com/t/uninitialized-constant-haml-options/4643/3
 gem 'haml', '>= 4.0.5', '< 6.0'
 
 # development
 gem 'rubocop'
+gem 'rubocop-rails'

@@ -40,7 +40,9 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     elsif raw_html.include? 'twitter-tweet'
       doc.css('blockquote').add_class('dib tl')
       doc.css('iframe').add_class('lazyload')
-      format("<div class='wide-media media'><div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div></div>", doc.to_html)
+      format(
+        "<div class='wide-media media'><div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div></div>", doc.to_html
+      )
     elsif raw_html.include? 'bandcamp'
       doc.css('iframe').add_class('lazyload')
       # Bandcamp's narrow player doesn't center nicely with the provided inline styles
@@ -83,12 +85,12 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     else
       # No link in the header. Split on the : if it's thre
       split_text = text.split(':')
-      if split_text.size > 0
-        anchor = split_text[0]
-      else
-        # Just use the text
-        anchor = text
-      end
+      anchor = if split_text.size > 0
+                 split_text[0]
+               else
+                 # Just use the text
+                 text
+               end
     end
 
     anchor_id = anchor.parameterize(separator: '_')
@@ -110,25 +112,23 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
 
     css_class = 'black no-underline fw4 bb b--black'
 
-    if title
-      if title.start_with?('#')
-        css_class = 'black no-underline fw4 db tc f6 nt3 mb4'
-        if title.length > 1
-          title[0] = ''
-        else
-          title = nil
-        end
+    if title && title.start_with?('#')
+      css_class = 'black no-underline fw4 db tc f6 nt3 mb4'
+      if title.length > 1
+        title[0] = ''
+      else
+        title = nil
       end
     end
 
-    if !@local_options[:no_links]
-      attributes = { title: title, class: css_class, target: '_blank' }
+    if @local_options[:no_links]
+      link_string = link.dup
+      link_string << %("#{title}") if title.present? && title != alt_text
+      "[#{content}](#{link_string})"
+    else
+      attributes = { title:, class: css_class, target: '_blank' }
       attributes.merge!(@local_options[:link_attributes]) if @local_options[:link_attributes]
       scope.link_to(content, link, attributes)
-    else
-      link_string = link.dup
-      link_string << %("#{title}") if title && !title.empty? && title != alt_text
-      "[#{content}](#{link_string})"
     end
   end
 

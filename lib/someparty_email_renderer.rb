@@ -19,7 +19,7 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
       format('<h3 style="margin-bottom: 5px;"><br/><strong>%s</strong></h3>', text)
     else
       format('<h%s>%s</h%s>', header_level,
-        text, header_level)
+             text, header_level)
     end
   end
 
@@ -32,23 +32,21 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
 
     featured_media = false
 
-    if title
-      if title.start_with?('#')
-        featured_media = true
-        if title.length > 1
-          title[0] = ''
-        else
-          title = nil
-        end
+    if title && title.start_with?('#')
+      featured_media = true
+      if title.length > 1
+        title[0] = ''
+      else
+        title = nil
       end
     end
 
     if featured_media
       link_string = link.dup
-      link_string << %("#{title}") if title && !title.empty? && title != alt_text
+      link_string << %("#{title}") if title.present? && title != alt_text
       "<div style='text-align: center;'><strong><a href='#{link_string}'>#{content}</a></strong></div>"
     else
-      attributes = { title: title }
+      attributes = { title: }
       attributes.merge!(@local_options[:link_attributes]) if @local_options[:link_attributes]
       scope.link_to(content, link, attributes)
     end
@@ -64,7 +62,7 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
   end
 
   def paragraph(text)
-    if text.include? "<small>"
+    if text.include? '<small>'
       format('%s', text)
     else
       format('<p>%s</p>', text)
@@ -73,6 +71,6 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
 
   def highlight(text)
     # I'm hijacking highlight to use it to render the media links header line below H3s
-    format("<strong><small>%s</small></strong>", text)
+    format('<strong><small>%s</small></strong>', text)
   end
 end
