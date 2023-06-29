@@ -8,7 +8,7 @@ description: It's a noisy update from The Ape-ettes, Puffer, Bad Egg, Spleen, Ca
 ###[The Ape-ettes](https://theape-ettes.bandcamp.com/): "Hearing Protection"
 ==Watch on [YouTube](https://youtu.be/cw3Ft_j2Xcw) - Preview and purchase at [Bandcamp](https://retarecords.bandcamp.com/album/simply-the-ape-ettes?)==
 
-We have been waiting to hear something new from [The Ape-ettes](https://theape-ettes.bandcamp.com/) since 2017, and the Sudbury garage-rock trio makes a welcome return this summer with *Simply The Ape-Ettes*, a new four-song EP for [Reta Records](https://retarecords.bandcamp.com/) and Denver's [Snappy Little Numbers](https://snappylittlenumbers.bandcamp.com/). The collection, the band's first on vinyl, reunites drummer Melanie Mcdonald, bassist Andrée St-Onge, and guitarist/vocalist Julie Houle. The band recorded with Mitch Houle (of [Tommy and the Commies](https://tommyandthecommies.bandcamp.com) and [Statues](https://www.facebook.com/Statues-24116128619/)) as the Piss Factory in 2022. He also mixed and mastered the new tracks.
+We've been waiting to hear something new from [The Ape-ettes](https://theape-ettes.bandcamp.com/) since 2017, and the Sudbury garage-rock trio makes a welcome return this summer with *Simply The Ape-Ettes*, a new four-song EP for [Reta Records](https://retarecords.bandcamp.com/) and Denver's [Snappy Little Numbers](https://snappylittlenumbers.bandcamp.com/). The collection, the band's first on vinyl, reunites drummer Melanie Mcdonald, bassist Andrée St-Onge, and guitarist/vocalist Julie Houle. The band recorded with Mitch Houle (of [Tommy and the Commies](https://tommyandthecommies.bandcamp.com) and [Statues](https://www.facebook.com/Statues-24116128619/)) as the Piss Factory in 2022. He also mixed and mastered the new tracks.
 
 You can watch a video for the EP's hooky lead single "Hearing Protection" now, directed by [Strange Attractor](https://strangeattractor.bandcamp.com/)'s Jeff Houle and Curt Carriere of [Bad Taste Cinema](https://www.instagram.com/badtastecinema/). The clip presents the song, and its practical advice, as a high-school-set PSA. They reveal:
 
@@ -133,7 +133,7 @@ The EP finds Wyvern on vocals, guitar, ukulele, and kazoo, backed on select song
 ###[Taxi Girls](https://taxigirls.bandcamp.com): "After Effect"
 ==Preview and purchase at [Bandcamp](https://taxigirls.bandcamp.com/album/coming-up-roses-2)==
 
-Montreal punk'n'roll trio [Taxi Girls](https://taxigirls.bandcamp.com) recently shared the second single from their forthcoming EP. You can stream the album-opening "After Effect" at Bandcamp now. *Coming Up Roses*, the band's debut, arrives July 7. Look for it on vinyl through Italy's [Wild Honey Records](https://wildhoneyrecords.bandcamp.com/) and on tape from Portland's [Dirt Cult](https://dirtcultrecords.bandcamp.com/).
+Montreal punk'n'roll trio [Taxi Girls](https://taxigirls.bandcamp.com) recently shared the second single from their forthcoming EP. You can stream the propulsive album-opener "After Effect" at Bandcamp now. *Coming Up Roses*, the band's debut, arrives July 7. Look for it on vinyl through Italy's [Wild Honey Records](https://wildhoneyrecords.bandcamp.com/) and on tape from Portland's [Dirt Cult](https://dirtcultrecords.bandcamp.com/).
 
 Taxi Girls features [Pale Lips](https://palelips.bandcamp.com/)' rhythm section of bassist Jamie Radu and drummer Lynn Poulin - with the former taking up lead vocals and guitar. In Taxi Girls, they're joined on vocals, guitar, and bass by Vera Bozickovic. The trio recorded with Ryan Battistuzzi (Yesterday's Ring, Les Mains Sales, Conditions Apply) at Le Stuzzio. Ryan Morey (Wares, Daniel Romano) mastered the set.
 
@@ -177,8 +177,8 @@ PasMort brings together members of the Quebec punk groups [A Tree At Last](https
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=784807241/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://pasmort.bandcamp.com/track/dawsons-creek-vs-le-mortal-kombat">Dawson&#39;s Creek Vs. Le Mortal Kombat by PasMort</a></iframe>
 
-###[C.i.D.B.](https://cidb.bandcamp.com/): *Reaction*
-==Preview and purchase at [Bandcamp](https://pilssessions.bandcamp.com/album/reaction-st)==
+###[C.i.D.B.](https://cidb.bandcamp.com/): *C.i.D.B.*
+==Preview and purchase at [Bandcamp](https://pilssessions.bandcamp.com/album/c-i-d-b)==
 
 I missed it when announced in late May, but check out the self-titled debut from Montreal mosh-core bruisers [C.i.D.B.](https://cidb.bandcamp.com/). The band recorded their debut EP for Gatineau's [Pils Records](https://pilssessions.bandcamp.com) with Jamie Duyns engineering and Chany Pilote mastering. That set, clocking in at six songs digitally or eight on cassette, features proper studio versions of the band's earlier demos, including a cover of the Ramones' *Animal Boy* tune "Eat That Rat." You can also find a video for the anthemic "80HD" playing through the [Hardcore Worldwide](https://youtu.be/BXiSnA0OoPs) YouTube channel.
 
