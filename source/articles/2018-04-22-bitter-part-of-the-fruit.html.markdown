@@ -19,7 +19,7 @@ I've got something Pentagon Black related in the works for the next few weeks. W
 
 [Listen: Don't Bother - "Fuck The Rebel" @ Bandcamp](https://dontbothermusic.bandcamp.com/album/pentagon-black-compilation-no-4 "#")
 
-I've had a chance to listen to *In Bad Faith*, the new full length from guitar-pop group [Feel Alright](https://www.facebook.com/feelalrighttt/), and I'm all in. The band premiered a second new song from the record last week at [BeatRoute](http://beatroute.ca/2018/04/19/single-premiere-feel-alright-truth-us/). "Truth About Us" finds the Calgary act in a decidedly more upbeat mode than the pensive "Cool Water" from a few weeks ago.
+I've had a chance to listen to *In Bad Faith*, the new full length from guitar-pop group [Feel Alright](https://feelalright.bandcamp.com/), and I'm all in. The band premiered a second new song from the record last week at [BeatRoute](http://beatroute.ca/2018/04/19/single-premiere-feel-alright-truth-us/). "Truth About Us" finds the Calgary act in a decidedly more upbeat mode than the pensive "Cool Water" from a few weeks ago.
 
 Feel Alright's the brainchild of audio/visual artist Craig Fahner, with this new record following up 2011's *Hahahahahaha* LP and a smattering of short-form releases in the years since. Fahner spoke about the new track in the article, stating:
 

@@ -137,7 +137,7 @@ The new episode of [Come For a Ride](https://twitter.com/comeforaridepod) featur
 
 [Subscribe: Come for a Ride on iTunes](https://podcasts.apple.com/ca/podcast/come-for-a-ride/id1487586878 "#")
 
-Speaking of Jesse, [Motorists](https://motorists.bandcamp.com/), Locke's new band with [Feel Alright](https://www.facebook.com/feelalrighttt/)'s Craig Fahner and Matthew Learoyd, are showcased on the new episode of [City Slang](http://www.cityslang.ca/). Emmanuel Sayer (of Ottawa Explosion fame) and video director [Travis Boisvenue](http://travisboisvenue.ca/) host the Ottawa-area interview show.
+Speaking of Jesse, [Motorists](https://motorists.bandcamp.com/), Locke's new band with [Feel Alright](https://feelalright.bandcamp.com/)'s Craig Fahner and Matthew Learoyd, are showcased on the new episode of [City Slang](http://www.cityslang.ca/). Emmanuel Sayer (of Ottawa Explosion fame) and video director [Travis Boisvenue](http://travisboisvenue.ca/) host the Ottawa-area interview show.
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/12779084/height/90/theme/custom/thumbnail/no/direction/backward/render-playlist/no/custom-color/32444a/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 

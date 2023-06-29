@@ -45,7 +45,7 @@ TRAITRS features the duo of Shawn Tucker and Sean-Patrick Nolan. They're followi
 
 [Listen: TRAITRS - "The Suffering of Spiders" @ Post-Punk.com](http://www.post-punk.com/traitrs-premiere-the-icy-cold-wave-track-the-suffering-of-spiders/ "#")
 
-Finally, Pleasence announced the upcoming new full length from Calgary's guitar-pop act [Feel Alright](https://www.facebook.com/feelalrighttt/). The record, titled *In Bad Faith*, will arrive in June.
+Finally, Pleasence announced the upcoming new full length from Calgary's guitar-pop act [Feel Alright](https://feelalright.bandcamp.com/). The record, titled *In Bad Faith*, will arrive in June.
 
 Feel Alright is the brainchild of Calgary audio/visual artist Craig Fahner. The band's evolved over the years from a solo recording project into a live act. It's relocated, along with Fahner, several times and has been based out of Pittsburg and Montreal for periods before landing in Calgary. This new record follows a 2011 LP titled Hahahahahaha and an assortment of short form releases (including a split cassette with [Century Palm](https://centurypalm.bandcamp.com/) in 2016).
 

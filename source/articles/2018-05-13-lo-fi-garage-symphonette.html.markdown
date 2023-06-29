@@ -69,7 +69,7 @@ I'm a big fan of "Clay Turris," the crunchy new power-pop single from Montreal's
 
 [Watch: Lost Love - "Clay Turris" @ YouTube](https://youtu.be/_C7QRq3jLio "#")
 
-Calgary's [Feel Alright](https://www.facebook.com/feelalrighttt/) will release *In Bad Faith* next Friday on [Pleasence Records](http://www.pleasencerecords.com/). While you wait there's another new track to preview from the guitar-pop album, the lead-off track "A Lengthy End to a Bullfight." The band premiered the song at [The Alternative](http://www.getalternative.com/song-premiere-feel-alright-lengthy-end-bullfight/), where Feel Alright principle Craig Fahner commented:
+Calgary's [Feel Alright](https://feelalright.bandcamp.com/) will release *In Bad Faith* next Friday on [Pleasence Records](http://www.pleasencerecords.com/). While you wait there's another new track to preview from the guitar-pop album, the lead-off track "A Lengthy End to a Bullfight." The band premiered the song at [The Alternative](http://www.getalternative.com/song-premiere-feel-alright-lengthy-end-bullfight/), where Feel Alright principle Craig Fahner commented:
 
 > "The riff for this song got stuck in my head while I was at a grocery store. I came home and turned it into a song when I realized I wasn’t knocking off the lick from Sister Golden Hair by America. The song is about the way memories can seep through the texture of things – a scuff in the hardwood, some dusty scent, a song – throwing you back into moments you might have tried to forget. I was really hoping to capture the feeling of AM gold budget pop, so I buried a lot of acoustic guitars and cheap string synths under everything to get there."
 

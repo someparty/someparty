@@ -85,7 +85,7 @@ The Nil are nominated for *Master Volume*, their sophomore LP for [Dine Alone Re
 
 [Watch: The Dirty Nil - "You Ain't Seen Nothing Yet" @ YouTube](https://youtu.be/Vvx1BocERqo "#")
 
-Toronto's [Motorists](https://motorists.bandcamp.com/) are hot off the weekend release of their first EP, a 6-song set titled *From the Wreckage*. The power-pop group features a trio of Calgary transplants, with [Feel Alright](https://www.facebook.com/feelalrighttt/)'s Craig Fahner and Matt Learoyd upfront and Jesse Locke ([Tough Age](https://tough-age.bandcamp.com/), [Chandra](https://chandrachandra.bandcamp.com/), [Simply Saucer](https://www.simplysaucer.com/)) behind the kit. A limited run of cassettes is out now on [Planet of the Tapes](https://planet-tapes.bandcamp.com/).
+Toronto's [Motorists](https://motorists.bandcamp.com/) are hot off the weekend release of their first EP, a 6-song set titled *From the Wreckage*. The power-pop group features a trio of Calgary transplants, with [Feel Alright](https://feelalright.bandcamp.com/)'s Craig Fahner and Matt Learoyd upfront and Jesse Locke ([Tough Age](https://tough-age.bandcamp.com/), [Chandra](https://chandrachandra.bandcamp.com/), [Simply Saucer](https://www.simplysaucer.com/)) behind the kit. A limited run of cassettes is out now on [Planet of the Tapes](https://planet-tapes.bandcamp.com/).
 
 Locke jested on Twitter that they're going for a "punk Sloan" sound on the outing. As the songs here pair tightly wound jangle-punk with Fahner's world-weary vocals, that's not a bad description at all. You can find a video for the track "Go Back" on YouTube now or snag the digitals at [Bandcamp](https://motorists.bandcamp.com/).
 

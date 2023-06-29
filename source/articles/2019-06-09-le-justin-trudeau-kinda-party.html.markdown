@@ -123,7 +123,7 @@ Wilson last released the *Seaview* EP in 2018, which featured music tracked at [
 
 [Watch: Innes Wilson - "Of Love and Lost" teaser @ YouTube](https://youtu.be/zoraRwe0pF8 "#")
 
-There's no music to share from this last story just yet, but [Jesse Locke](https://twitter.com/wipeoutbeat) of [Tough Age](https://tough-age.bandcamp.com/), [Rotten Column](http://rottencolumn.bandcamp.com), and Chandra has a new band titled Motorists, featuring [Feel Alright](https://www.facebook.com/feelalrighttt/)'s Craig Fahner and Matthew Learoyd. Locke commented:
+There's no music to share from this last story just yet, but [Jesse Locke](https://twitter.com/wipeoutbeat) of [Tough Age](https://tough-age.bandcamp.com/), [Rotten Column](http://rottencolumn.bandcamp.com), and Chandra has a new band titled Motorists, featuring [Feel Alright](https://feelalright.bandcamp.com/)'s Craig Fahner and Matthew Learoyd. Locke commented:
 
 >"We’ve played in Feel Alright before and decided to write some new songs together since Craig moved to Toronto. It ended up kind of sounding like ‘80s R.E.M. if they were a punk band or the Wipers with more jangle and Grass Widow harmonies for good measure. I think you might like it."
 

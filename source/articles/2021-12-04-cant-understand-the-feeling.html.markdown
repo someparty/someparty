@@ -140,13 +140,13 @@ The gritty six-piece issued their new EP just a month after their last. *Fine Li
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dMFMy8mGIns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###[Total Waste](https://totalwastemtl.bandcamp.com): *Total Waste*
-==Watch on [YouTube](https://youtu.be/aG8XWWaXL0s) - Preview and purchase at [Bandcamp](https://totalwastemtl.bandcamp.com/album/total-waste-ep)==
+==Watch on [YouTube](https://youtu.be/aG8XWWaXL0s) - Preview and purchase at [Bandcamp](https://totalwastemtl.bandcamp.com/album/social-scars)==
 
-Montreal hardcore act [Total Waste](https://totalwastemtl.bandcamp.com) recently shared their thrashy self-titled debut. The three-song EP finds the four-piece working with producer Olivier Bourgeois. The group previously shared a showcasing the single "Black & Blue" back in October.
+Montreal hardcore act [Total Waste](https://totalwastemtl.bandcamp.com) recently shared their thrashy self-titled debut. The three-song EP finds the four-piece working with producer Olivier Bourgeois. The group previously showcased the single "Black & Blue" back in October.
 
 Total Waste features Dave on vocals, Alexis on bass, J-M on guitar, and Elie drumming.
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1689647468/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://totalwastemtl.bandcamp.com/album/total-waste-ep">Total Waste EP by TOTAL WASTE</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1549481623/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://totalwastemtl.bandcamp.com/album/social-scars">Social Scars by TOTAL WASTE</a></iframe>
 
 ###[Chastity](https://chastitysongs.bandcamp.com): "Vicious Circle" (ft. City and Colour)
 ==Watch on [YouTube](https://youtu.be/d8qEkkfH3S8)==

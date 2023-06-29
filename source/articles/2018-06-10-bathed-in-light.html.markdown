@@ -63,7 +63,7 @@ Booji Boys were peddling a cassette a little while ago which previews a pair of 
 
 [Listen: Booji Boys - *Sackville Tape* @ YouTube](https://www.youtube.com/watch?v=nPxxZ0W28PQ "#")
 
-I'm a massive fan of "Cool Water," the first single that Calgary guitar-pop act [Feel Alright](https://www.facebook.com/feelalrighttt/) shared in the lead-up to their recent Pleasance full-length *In Bad Faith*.
+I'm a massive fan of "Cool Water," the first single that Calgary guitar-pop act [Feel Alright](https://feelalright.bandcamp.com/) shared in the lead-up to their recent Pleasance full-length *In Bad Faith*.
 
 Last week the band issued a video for the song, animated by [Mat Lindenberg](http://matlindenberg.com/). Frontman Craig Fahner commented on it in the premiere at [Big Takeover](http://bigtakeover.com/news/video-premiere-cool-water-by-feel-alright):
 

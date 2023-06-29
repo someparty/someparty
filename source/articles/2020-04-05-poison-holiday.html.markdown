@@ -51,7 +51,7 @@ Alongside his solo work, Levesque plays as one of [Jon Creeden](http://www.joncr
 
 [Listen: Cory Levesque - *Alone, Together Vol.1* @ Bandcamp](https://corylevesque.bandcamp.com/album/alone-together-vol-1 "#")
 
-A few days ago Calgary guitar-pop act [Feel Alright](https://www.facebook.com/feelalrighttt/) broke their silence with a new two-song single. The big summer hooks of "In Your Eyes" paired with the wistful notes of "Coming True," mark the band's first studio material since their 2018 [Pleasence](http://www.pleasencerecords.com/) full-length *In Bad Faith*. The group's lineup for these recordings featured Craig Fahner backed by Brady Kirchner, Joey Mooney, and Dallin Ursenbach.
+A few days ago Calgary guitar-pop act [Feel Alright](https://feelalright.bandcamp.com/) broke their silence with a new two-song single. The big summer hooks of "In Your Eyes" paired with the wistful notes of "Coming True," mark the band's first studio material since their 2018 [Pleasence](http://www.pleasencerecords.com/) full-length *In Bad Faith*. The group's lineup for these recordings featured Craig Fahner backed by Brady Kirchner, Joey Mooney, and Dallin Ursenbach.
 
 Now located in Toronto, Fahner was last seen fronting the power-pop trio [Motorists](https://motorists.bandcamp.com/) alongside Jesse Locke of [Tough Age](https://tough-age.bandcamp.com/) and Matt Learoyd. That group released a six-song EP titled *From the Wreckage* just about a week before everything went sideways on us. You can probably still snag one from [Planet of the Tapes](https://planet-tapes.bandcamp.com/),
 

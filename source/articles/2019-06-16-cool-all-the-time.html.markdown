@@ -31,7 +31,7 @@ The band released *Outside the Off Licence* last week with a hometown show I mis
 
 [Listen: Good Grief - *Outside the Off Licence* @ Bandcamp](http://goodgriefgang.bandcamp.com/album/outside-the-off-licence "#")
 
-After an agonizing wait (not really, but it was a long three or four days), Toronto trio [Motorists](https://motorists.bandcamp.com/) have debuted with the single "Displacement Time." The group features vocals from [Feel Alright](https://www.facebook.com/feelalrighttt/)'s Craig Fahner, Jesse Locke of [Tough Age](https://tough-age.bandcamp.com/) behind the drum kit, and Matthew Learoyd (also of Feel Alright, along with a long list of Calgary bands like [Stalwart Sons](https://stalwartsons.bandcamp.com/), [Lab Coast](https://labcoast.bandcamp.com), and [Cold Water](https://coldwater.bandcamp.com/)).
+After an agonizing wait (not really, but it was a long three or four days), Toronto trio [Motorists](https://motorists.bandcamp.com/) have debuted with the single "Displacement Time." The group features vocals from [Feel Alright](https://feelalright.bandcamp.com/)'s Craig Fahner, Jesse Locke of [Tough Age](https://tough-age.bandcamp.com/) behind the drum kit, and Matthew Learoyd (also of Feel Alright, along with a long list of Calgary bands like [Stalwart Sons](https://stalwartsons.bandcamp.com/), [Lab Coast](https://labcoast.bandcamp.com), and [Cold Water](https://coldwater.bandcamp.com/)).
 
 Locke previously commented on the band's sound, stating:
 
