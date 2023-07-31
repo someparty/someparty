@@ -25,7 +25,7 @@ Saskatoon post-punk outfit [Slow Down Molasses](https://slowdownmolasses.bandcam
 
 "Some Fine Action" features a few guests as well. The interdisciplinary Prairie artist [respectfulchild](https://respectfulchild.com) appears on violin, while Kacy Lee Anderson of the Glentworth, SK folk group [Kacy & Clayton](https://kacyandclayton.bandcamp.com/) contributes backing vocals.
 
-The band's partnered with Halifax-based [Noyes Records](http://noyesrecords.limitedrun.com/) and Oxford's [Divine Schism](https://www.instagram.com/divineschism/) on the release. [Yamantaka // Sonic Titan](http://ytstlabs.com/)'s Alaska B mixed the record, with Ryan Morey (Wares, Chad VanGaalen) mastering. The group recorded with engineer Mike LeFebvre at Saskatoon's Sweat Shoppe.
+The band's partnered with Halifax-based [Noyes Records](https://noyesrecords.limitedrun.com) and Oxford's [Divine Schism](https://www.instagram.com/divineschism/) on the release. [Yamantaka // Sonic Titan](http://ytstlabs.com/)'s Alaska B mixed the record, with Ryan Morey (Wares, Chad VanGaalen) mastering. The group recorded with engineer Mike LeFebvre at Saskatoon's Sweat Shoppe.
 
 Slow Down Molasses features Tyson McShane on guitar and vocals, Aaron Scholz on guitar and synth, bass from Chris Morix, and Jordan Kurtz on drums.
 

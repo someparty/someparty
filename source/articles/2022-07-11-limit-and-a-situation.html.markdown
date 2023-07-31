@@ -48,7 +48,7 @@ Spite House features Maxime Lajoie on guitar and vocals, Marc Tremblay on percus
 ###[Jonathan Personne](https://jonathanpersonne.bandcamp.com/): "Rock & roll sur ton chemin"
 ==Preview and purchase at [Bandcamp](https://jonathanpersonne.bandcamp.com/track/rock-roll-sur-ton-chemin)==
 
-A few weeks back [Corridor](https://corridormtl.bandcamp.com) vocalist/guitarist Jonathan Robert shared the second pre-release single from his upcoming solo record as [Jonathan Personne](https://jonathanpersonne.bandcamp.com/). "Rock & roll sur ton chemin" is one of eight songs slated for the self-titled full-length, Robert's third. It arrives on August 26 through [Bonsound](http://www.bonsound.com/). The Montreal artist commented on the track, a paean to the genre that doesn't shy from the reality its decline:
+A few weeks back [Corridor](https://corridormtl.bandcamp.com) vocalist/guitarist Jonathan Robert shared the second pre-release single from his upcoming solo record as [Jonathan Personne](https://jonathanpersonne.bandcamp.com/). "Rock & roll sur ton chemin" is one of eight songs slated for the self-titled full-length, Robert's third. It arrives on August 26 through [Bonsound](https://www.bonsound.com). The Montreal artist commented on the track, a paean to the genre that doesn't shy from the reality its decline:
 
 >"Devoting oneself to a genre destined to failure, there's something pathetic about it, but also something very beautiful."
 

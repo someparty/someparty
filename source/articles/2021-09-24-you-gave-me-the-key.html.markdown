@@ -86,7 +86,7 @@ Saskatoon post-punk outfit [Slow Down Molasses](https://slowdownmolasses.bandcam
 
 >"[it] was one of the first songs written for this album... It seemed to set the tone for the subsequent writing sessions with us 'experimenting' with less layers and less effects, instead relying on interlocking parts to create all the tension and release we desired... Lyrically it is my personal rallying cry as an introvert who can't help but keep making music and trying to perform in front of crowds. No matter how much I love being on stage, it doesn't chase away my love of melting into the background or the shadows of a room. My internal conflict never stops."
 
-The 8-song *Minor Deaths* arrives October 8 through [Noyes Records](http://noyesrecords.limitedrun.com/) and [Divine Schism](https://www.instagram.com/divineschism/) as the follow-up to 2016's *100% Sunshine*. [Yamantaka // Sonic Titan](http://ytstlabs.com/)'s Alaska B mixed the new record, with Ryan Morey (Wares, Chad VanGaalen) mastering. The group recorded with engineer Mike LeFebvre at Saskatoon's Sweat Shoppe.
+The 8-song *Minor Deaths* arrives October 8 through [Noyes Records](https://noyesrecords.limitedrun.com) and [Divine Schism](https://www.instagram.com/divineschism/) as the follow-up to 2016's *100% Sunshine*. [Yamantaka // Sonic Titan](http://ytstlabs.com/)'s Alaska B mixed the new record, with Ryan Morey (Wares, Chad VanGaalen) mastering. The group recorded with engineer Mike LeFebvre at Saskatoon's Sweat Shoppe.
 
 Slow Down Molasses features Tyson McShane on guitar and vocals, Aaron Scholz on guitar and synth, bass from Chris Morix, and Jordan Kurtz on drums.
 

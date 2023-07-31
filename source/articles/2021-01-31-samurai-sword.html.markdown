@@ -27,7 +27,7 @@ Throughout the pandemic, VanGaalen's released a series of archival releases, inc
 ###[Headcheese](https://headcheesepunk.bandcamp.com/): "Talk To The Therapist"
 ==Preview and purchase at [Bandcamp](https://neontasterecords.bandcamp.com/album/headcheese)==
 
-[Neon Taste Records](https://neontasterecords.bandcamp.com/) has an LP lined up from Kamloops' thrillingly sardonic punk group [Headcheese](https://headcheesepunk.bandcamp.com/). The Vancouver label, home of bands like Dead Cells, Nutrition, and Bootlicker, recently shared two new tracks from the release: "Talk to the Therapist" and "Po Po." Label-head Josh Nickel shared his thoughts on the record through his Neon Waste webzine:
+[Neon Taste Records](https://www.neontasterecords.ca) has an LP lined up from Kamloops' thrillingly sardonic punk group [Headcheese](https://headcheesepunk.bandcamp.com/). The Vancouver label, home of bands like Dead Cells, Nutrition, and Bootlicker, recently shared two new tracks from the release: "Talk to the Therapist" and "Po Po." Label-head Josh Nickel shared his thoughts on the record through his Neon Waste webzine:
 
 > "To our ears, the sounds of White Pigs with Brutal Knights cuts through in a way that I don't hear too often from most bands releasing records these days and Headcheese kicks this style with precision. Callous, pissed hardcore with a good helping of humor to keep it light. Back when I was getting into punk and hardcore as a little piece of shit, it was records like this that grabbed me first because they were fun and wild. Now that I'm an old piece of shit I'm just as excited when I hear them and even more to be in a position to put these things out. Hope you'll agree!"
 

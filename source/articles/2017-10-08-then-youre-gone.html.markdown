@@ -77,7 +77,7 @@ Halifax-based garage rock band [Gun Jr.](https://gunjr.bandcamp.com) is gearing 
 
 [Listen: WINT - *Memory//Paranoia* @ Bandcamp](http://wint.bandcamp.com/album/memory-paranoia "#")
 
-[Dominionated](http://dominionated.ca/albums/lo-siento-bingo-bango/) shared the recently released debut full-length from St. John's indie-pop trio [Lo Siento](https://lo-siento.bandcamp.com/). I wouldn't have expected to find a Spanish-language twee-pop act out of Newfoundland, but what do I know? The band, which is fronted by the Buenos Aires-born multidisciplinary artist [Pepa Chan](http://www.pepachan.com), put out the 7-song *Bingo Bango* at the end of August.
+[Dominionated](https://dominionated.ca/albums/lo-siento-bingo-bango/) shared the recently released debut full-length from St. John's indie-pop trio [Lo Siento](https://lo-siento.bandcamp.com/). I wouldn't have expected to find a Spanish-language twee-pop act out of Newfoundland, but what do I know? The band, which is fronted by the Buenos Aires-born multidisciplinary artist [Pepa Chan](http://www.pepachan.com), put out the 7-song *Bingo Bango* at the end of August.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2607171012/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://lo-siento.bandcamp.com/album/bingo-bango">Bingo Bango by Lo Siento</a></iframe>
 

@@ -17,13 +17,13 @@ Ethier recorded the new album in his Toronto studio with producer [Sandro Perri]
 
 [Watch: André Ethier - "Dream on Pigs" @ YouTube](https://youtu.be/Bj-_-Fxi8Xw "#")
 
-Earlier in the summer, we learned that Montreal post-punk group [Corridor](https://corridormtl.bandcamp.com) would become the first francophone band signed to the Seattle's legendary [Sub Pop](https://www.subpop.com/). There was no new music to share at the time, but details have since come to light. We can now look forward to the 10-track full-length *Junior*, arriving this fall. The record's set to arrive on October 18, with [Bonsound](http://www.bonsound.com/) covering the release in Canada.
+Earlier in the summer, we learned that Montreal post-punk group [Corridor](https://corridormtl.bandcamp.com) would become the first francophone band signed to the Seattle's legendary [Sub Pop](https://www.subpop.com/). There was no new music to share at the time, but details have since come to light. We can now look forward to the 10-track full-length *Junior*, arriving this fall. The record's set to arrive on October 18, with [Bonsound](https://www.bonsound.com) covering the release in Canada.
 
 You can preview Corridor's new single "Topographe" in a wild new video directed by the band's Jonathan Robert. He had this to say about the clip, which should instantly call to mind Terry Gilliam's classic animated segments from Monty Python:
 
 > "While I've explored and mixed many different techniques in my past music videos, it's the first time that I took the process this far, blending all of them together in one place. It's a melting pot of stop motion, green screen, illustration, animation, collage, and live video. It's the visual equivalent of the progression of the song, a simple idea that takes amplitude through repetition."
 
-*Junior*, the band's third album, follows up on 2017's *Supermercado*.  Emmanuel Éthier produced their new material working with engineer Samuel Gemme. Corridor features Jonathan Robert on vocals, guitar and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming.
+*Junior*, the band's third album, follows up on 2017's *Supermercado*. Emmanuel Éthier produced their new material working with engineer Samuel Gemme. Corridor features Jonathan Robert on vocals, guitar and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ARlYyefSZgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

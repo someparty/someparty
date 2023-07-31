@@ -15,7 +15,7 @@ Last week Some Party ran one of the final previews of *14 Lashes* before it hits
 
 > "I read a news story about a 14-year-old girl that had her 20 something-year-old boyfriend living in the attic of her parents' house. I figured the only thing creepier was if you had your own stalker living in your attic and had no idea. Is it a real threat? Play the housing crisis out to its logical conclusion, and let's see I guess."
 
-In fact, you can now preview the entire record now at [Bandcamp](https://chainwhip.bandcamp.com/). *14 Lashes* arrives digitally on August 31, with the band pressing vinyl themselves through their Chain Whip Records imprint and [Sabotage Records](https://sabotagerecords.bandcamp.com/) handling the European release. In North America, you can snag a copy through the [Neon Waste](https://www.neonwaste.com/store/chain-whip-14-lashes-lp) store.
+In fact, you can now preview the entire record now at [Bandcamp](https://chainwhip.bandcamp.com/). *14 Lashes* arrives digitally on August 31, with the band pressing vinyl themselves through their Chain Whip Records imprint and [Sabotage Records](https://sabotagerecords.bandcamp.com/) handling the European release. In North America, you can snag a copy through the [Neon Taste](https://www.neontasterecords.ca) store.
 
 The band will launch *14 Lashes* with a [release party](https://www.facebook.com/events/2634630263216893/) at Vancouver's SBC Restaurant on Saturday, August 31. Kamloops' [Bootlicker](https://boot-licker.bandcamp.com/) (for whom Josh now plays second guitar), Edmonton's [Creeping Chill](https://creepingchill.bandcamp.com/), and the new Chilliwack group Cheat (members of [Nic Fit](https://nicfitvan.bandcamp.com)) will join them.
 

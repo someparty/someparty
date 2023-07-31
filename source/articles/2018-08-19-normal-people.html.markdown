@@ -55,7 +55,7 @@ Lonely Parade recorded at Toronto's Candle Recording Studio with Josh Korody of 
 I'm not sure how exactly to categorize Nanaimo's [Fine](http://fiiiine.bandcamp.com). The band tags themselves as "emo teens" and "whiney babies," neither of which are useful taxonomies. The four-piece features vocalist Max Pittet, guitarist/vocalist Charlotte Coleman, bassist Wes Mulholland and drummer/vocalist Chris Thompson. The band released an EP last week titled *Thanks For Asking* that puts forth a pleasing set of fuzzy indie pop numbers that are, on the surface, a bit melancholy but buoyed by a lot of fun vocal interplay.
 
 The EP was recorded and co-produced by Chris Thompson, with Jordan Koop (Dumb,
-The Courtneys) mastering. Thanks to Mac Cameron at [Dominionated](http://dominionated.ca/) for the recommendation here.
+The Courtneys) mastering. Thanks to Mac Cameron at [Dominionated](https://dominionated.ca/) for the recommendation here.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4256893490/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://fiiiine.bandcamp.com/album/thanks-for-asking">thanks for asking by fine</a></iframe>
 

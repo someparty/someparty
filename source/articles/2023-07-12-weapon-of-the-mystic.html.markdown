@@ -116,7 +116,7 @@ The new set follows a pair of 2021 Organ Eyes releases, the home-recorded EP *Ca
 
 Dartmouth electro-pop duo [Smaller Hearts](https://smallerhearts.bandcamp.com) have a new video online showcasing "Summerspun," a selection from their recent LP *Rock and Roll Was Here to Stay*. The group calls the dreamy track a "great accompaniment to those too rare summer days of relaxing in the sunshine" and "a doggy daydream of a sun washed beach walk." They capture the footage at  Nova Scotia's Conrad's Beach.
 
-You can pick up the 11-song LP through the Halifax label [Noyes Records](http://noyesrecords.limitedrun.com/). Smaller Hearts features Kristina Parlee (of [The Maynards](https://themaynards.bandcamp.com/) and, most recently, [Shoulder Season](https://shoulderseasonhfx.bandcamp.com)) paired with Ron Bates, a veteran of Moon Socket, [Orange Glass](https://orangeglass.bandcamp.com) and Elevator To Hell. *Rock and Roll Was Here to Stay* is the band's fourth LP, following 2021's *Attention*.
+You can pick up the 11-song LP through the Halifax label [Noyes Records](https://noyesrecords.limitedrun.com). Smaller Hearts features Kristina Parlee (of [The Maynards](https://themaynards.bandcamp.com/) and, most recently, [Shoulder Season](https://shoulderseasonhfx.bandcamp.com)) paired with Ron Bates, a veteran of Moon Socket, [Orange Glass](https://orangeglass.bandcamp.com) and Elevator To Hell. *Rock and Roll Was Here to Stay* is the band's fourth LP, following 2021's *Attention*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nu5wgcxBF_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

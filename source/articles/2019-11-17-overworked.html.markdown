@@ -57,7 +57,7 @@ Ben Cook's released an impressive slate of videos promoting this year's sibling 
 
 [Watch: Young Guv - "Luv Always" @ YouTube](https://youtu.be/BQhe-TPYFwA "#")
 
-Frenetic Vancouver punk act [Bedwetters Anonymous](https://bedwettersanonymous.bandcamp.com/) released one of my favourite sets of the year back in February. *R.U. EXPERIENCING DISCOMFORT (?)* remains a thrillingly brisk 12-song cassette and one that Vancouver label [Neon Waste](https://www.neonwaste.com) rightfully felt deserved another spotlight. The label's since picked a selection of the tape's best tracks to create the similarly-named *Have U Experienced Discomfort* 7". Here's label-head Josh Nickel on how the project came to be:
+Frenetic Vancouver punk act [Bedwetters Anonymous](https://bedwettersanonymous.bandcamp.com/) released one of my favourite sets of the year back in February. *R.U. EXPERIENCING DISCOMFORT (?)* remains a thrillingly brisk 12-song cassette and one that Vancouver label [Neon Taste](https://www.neontasterecords.ca) rightfully felt deserved another spotlight. The label's since picked a selection of the tape's best tracks to create the similarly-named *Have U Experienced Discomfort* 7". Here's label-head Josh Nickel on how the project came to be:
 
 >"Bedwetters Anonymous dropped a cassette off for review at [Neptoon Records](http://neptoon.com/) awhile ago which knocked my socks off. To me, it was a more-garage Deadbeats or an updated Urinals. It is classic sounding and fresh at the same time. Not so loose to be off-the-rails but riding that simple line that only comes naturally to the best punk bands. We've had the best five tracks from that demo remastered by Jordan at Noise Floor for vinyl and are pressing 200 copies at Clampdown Record Pressing."
 

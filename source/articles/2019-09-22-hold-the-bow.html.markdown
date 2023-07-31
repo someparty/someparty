@@ -56,7 +56,7 @@ Speaking to the publication, the band's Jonathan Robert commented:
 
 > "People are often glorifying what being an Artist or a musician can mean. Art doesn't necessarily make you a better person. There can be angst, stress and so on. It can have a negative, direct impact on the people closest to you. 'Domino' is about navigating just that. It is the first song out of 'Junior' that we've composed and we've played it live quite a few times already."
 
-The 10-song *Junior* arrives on October 18 from [Bonsound](http://www.bonsound.com/) in Canada and [Sub Pop](https://www.subpop.com/) elsewhere. Produced by Emmanuel Éthier, it's the band's third album and follow up to 2017's *Supermercado*. Corridor features Jonathan Robert on vocals, guitar, and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming.
+The 10-song *Junior* arrives on October 18 from [Bonsound](https://www.bonsound.com) in Canada and [Sub Pop](https://www.subpop.com/) elsewhere. Produced by Emmanuel Éthier, it's the band's third album and follow up to 2017's *Supermercado*. Corridor features Jonathan Robert on vocals, guitar, and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/48YbjRXfegA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

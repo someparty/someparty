@@ -89,7 +89,7 @@ Earlier in the pandemic, Young Guv released *Live in LA* to raise funds for the 
 
 >"'Domino' illustrates a link between one's work & mental health as well as its negative impact, in turn, on the people surrounding us. It therefore made sense to film ourselves breaking stuff for this video. I then spent some time with the footage to experiment with the treatment and the editing."
 
-Based in Montreal, Corridor features Robert on vocals, guitar, and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming. *Junior* arrived last year on [Bonsound](http://www.bonsound.com/) in Canada and Sub Pop elsewhere, with Corridor holding the distinction of being the first francophone act signed to the legendary Seattle label.
+Based in Montreal, Corridor features Robert on vocals, guitar, and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming. *Junior* arrived last year on [Bonsound](https://www.bonsound.com) in Canada and Sub Pop elsewhere, with Corridor holding the distinction of being the first francophone act signed to the legendary Seattle label.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q4NxOFoBpaQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

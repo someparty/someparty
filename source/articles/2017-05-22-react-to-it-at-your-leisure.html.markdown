@@ -13,7 +13,7 @@ In the span of time I've spent overthinking what form Some Party should take, [D
 
 Some Party is a weekly newsletter about Canadian rock'n'roll. I'm committing to that. Whatever it may become one day is inconsequential. We may not be big, but we're small.
 
-Dan Romano's LP *Modern Pressure* was released this past Friday. Jim Di Gioia of [Dominionated](http://dominionated.ca/), who's followed Romano's career extensively, [captured](http://dominionated.ca/albums/daniel-romano-modern-pressure/) it beautifully.
+Dan Romano's LP *Modern Pressure* was released this past Friday. Jim Di Gioia of [Dominionated](https://dominionated.ca/), who's followed Romano's career extensively, [captured](https://dominionated.ca/albums/daniel-romano-modern-pressure/) it beautifully.
 
 >Romano calls his sound "Mosey" music (naming his last album after it), and Modern Pressure further refines and defines what that sound is: a manipulation of genre and form; intricate layers and wild arrangements; the kinetic energy of inspiration and creativity. The history of popular music is malleable in Romano’s hands, and he crafts songs that are both familiar and challenging.
 

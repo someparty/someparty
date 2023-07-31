@@ -87,7 +87,7 @@ It's a fun tune. Bad Buzz will celebrate the new EP with a May 31 gig at the Mon
 
 [Watch: Bad Buzz - "Talkin' Shit" @ YouTube](https://youtu.be/RuZdTvoccPM "#")
 
-[Neon Taste](https://neontasterecords.bandcamp.com/) is streaming a track from *Nuclear Family*, the upcoming EP from Kamloops hardcore band [Bootlicker](https://boot-licker.bandcamp.com/). You can hear the song "Slasher" over at the label's sister zine [Neon Waste](https://www.neonwaste.com/new-blog/2019/4/9/bootlicker-nuclear-family-7-streaming-now). The site had this to say about the record:
+[Neon Taste](https://www.neontasterecords.ca) is streaming a track from *Nuclear Family*, the upcoming EP from Kamloops hardcore band [Bootlicker](https://boot-licker.bandcamp.com/). You can hear the song "Slasher" over at the label's sister zine [Neon Waste](https://www.neonwaste.com/new-blog/2019/4/9/bootlicker-nuclear-family-7-streaming-now). The site had this to say about the record:
 
 >"For those uninitiated, Bootlicker merge classic D-Beat with Oi while still paying attention to constructing tough riffs and lyrics spit with as much contempt as any other predecessor you’d care to mention. This is the first release after their appearance at Toronto’s Not Dead Yet Festival and hot on the heels of their 2018 releases on Warthog Speak and Neon Taste. Feel the shellshock. This is music for the end of the earth."
 

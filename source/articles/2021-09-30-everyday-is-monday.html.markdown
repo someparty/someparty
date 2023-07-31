@@ -113,7 +113,7 @@ Stomp's [YouTube channel](https://www.youtube.com/watch?v=qJbYk0HHnRE) recently 
 
 [Corridor](https://corridormtl.bandcamp.com) shared an unheard track from their archives this week to celebrate the 30th anniversary of the Université de Montréal's campus radio station [CISM](https://cism893.ca/). "Et Hop" dates back to the jangly post-punk group's 2017 sophomore LP, *Supermercado*. You can stream it now at Bandcamp.
 
-Corridor last released *Junior* in 2019 on [Sub Pop](https://www.subpop.com/), earning them the distinction of being the first francophone act signed to the famous Seattle label. [Bonsound](http://www.bonsound.com/) carried the record in Canada. Based in Montreal, Corridor features Jonathan Robert on vocals, guitar, and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming.
+Corridor last released *Junior* in 2019 on [Sub Pop](https://www.subpop.com/), earning them the distinction of being the first francophone act signed to the famous Seattle label. [Bonsound](https://www.bonsound.com) carried the record in Canada. Based in Montreal, Corridor features Jonathan Robert on vocals, guitar, and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2964225587/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://corridormtl.bandcamp.com/track/et-hop">Et Hop by Corridor</a></iframe>
 

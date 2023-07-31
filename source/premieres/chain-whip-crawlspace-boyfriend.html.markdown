@@ -22,6 +22,6 @@ I'm thrilled to bring you one of the final previews of *14 Lashes* before it hit
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/669743429%3Fsecret_token%3Ds-vNVYx&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-*14 Lashes* arrives digitally on August 31, with the band pressing vinyl themselves through their Chain Whip Records imprint and [Sabotage Records](https://sabotagerecords.bandcamp.com/) handling the European release. In North America, you can snag a copy through the [Neon Waste](https://www.neonwaste.com/store/chain-whip-14-lashes-lp) store.
+*14 Lashes* arrives digitally on August 31, with the band pressing vinyl themselves through their Chain Whip Records imprint and [Sabotage Records](https://sabotagerecords.bandcamp.com/) handling the European release. In North America, you can snag a copy through the [Neon Taste](https://www.neontasterecords.ca) store.
 
 The band will launch *14 Lashes* with a [release party](https://www.facebook.com/events/2634630263216893/) at Vancouver's SBC Restaurant on Saturday, August 31. Kamloops' [Bootlicker](https://boot-licker.bandcamp.com/) (for whom Josh now plays second guitar), Edmonton's [Creeping Chill](https://creepingchill.bandcamp.com/), and the new Chilliwack group Cheat (members of [Nic Fit](https://nicfitvan.bandcamp.com)) will join them.

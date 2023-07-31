@@ -25,11 +25,11 @@ The beauty of a project like this is how quick the turnaround can be when free o
 
 You can acquire any of the Pentagon Black paper LPs what still exist from [Bandcamp](https://thefamines.bandcamp.com/merch) or at shows.
 
-This week also say the release of the fourth [Dominionated](http://dominionated.ca/compilations/dominionated-iv/) compilation, a digital collection of classic Canadian songs covered and reinterpreted by modern Canadian bands. The labour of love was started back on the [Quick Before It Melts](http://www.quickbeforeitmelts.ca/) blog and has continued to the successor publication which shares its name. Part of the treat is the choice of songs, as "classic" doesn't necessarily imply "well-known" here and there's as much to explore in the source material as there are the performers.
+This week also say the release of the fourth [Dominionated](https://dominionated.ca/compilations/dominionated-iv/) compilation, a digital collection of classic Canadian songs covered and reinterpreted by modern Canadian bands. The labour of love was started back on the [Quick Before It Melts](http://www.quickbeforeitmelts.ca/) blog and has continued to the successor publication which shares its name. Part of the treat is the choice of songs, as "classic" doesn't necessarily imply "well-known" here and there's as much to explore in the source material as there are the performers.
 
 This year's model features Saskatoon's [The Garrys](https://thegarrys.bandcamp.com/) covering “Dusty Boy” by defunct Montreal band [The Peelies](https://thepeelies.bandcamp.com/). Regina's [Oiseaux](http://oiseauxoiseaux.com/) puts forth an aggressive and chaotic take on  Attack In Black's "Hunger of the Young." That's just two of nine, each of which is linked through to a wealth of worthwhile conversations on the Dominionated blog.
 
-You can download *DOMINIONATED IV* [here](http://dominionated.ca/compilations/dominionated-iv/).
+You can download *DOMINIONATED IV* [here](https://dominionated.ca/compilations/dominionated-iv/).
 
 In this weekend of brash, shallow celebrations, there's something eminently sane and dignified about how both *DOMINIONATED IV* and the recent Pentagon Black compilations treat the subject of Canada. Each accomplishes the goal of sharing and celebrating the creative culture of this country, and neither feel like they'll need be put away when you go back to work on July 4th.
 

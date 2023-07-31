@@ -57,7 +57,7 @@ Below you'll find a stream of Fiver's reinterpretation of the 1968 Dillard & Cla
 
 The Montreal post-punk group [Corridor](https://corridormtl.bandcamp.com) also has a new video online, giving life to the hypnotic *Junior* track "Grand Cheval." The clip features animation by the Calgary musician and animator [Chad VanGaalen](https://chadvangaalen.bandcamp.com/), revisiting the bizarre alien worlds and morphotypes we previously glimpsed in the *TARBOZ* short and his own "Host Body" video.
 
-*Junior* arrived last year on [Bonsound](http://www.bonsound.com/) in Canada and the legendary [Sub Pop](https://www.subpop.com/) elsewhere, with Corridor holding the distinction of being the first francophone act to join the latter. Produced by Emmanuel Éthier, *Junior* is the band's third album. Corridor features Jonathan Robert on vocals, guitar, and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming.
+*Junior* arrived last year on [Bonsound](https://www.bonsound.com) in Canada and the legendary [Sub Pop](https://www.subpop.com/) elsewhere, with Corridor holding the distinction of being the first francophone act to join the latter. Produced by Emmanuel Éthier, *Junior* is the band's third album. Corridor features Jonathan Robert on vocals, guitar, and synths, with Dominic Berthiaume on vocals and bass, Julian Perreault on guitar, and Julien Bakvis drumming.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xNBbCSPZWl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

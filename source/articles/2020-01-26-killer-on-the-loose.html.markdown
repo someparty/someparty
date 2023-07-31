@@ -25,7 +25,7 @@ This will be the band's first full-length since 2015's *Superbafrango*. Look for
 
 [Listen: Boids - "Bike Thief" @ Bandcamp](http://boids.bandcamp.com/album/quel-drag "#")
 
-Vancouver punk act [Bedwetters Anonymous](https://bedwettersanonymous.bandcamp.com/) put out one of my favourite releases of 2019. Back in February, the trio released a scrappy little tape with the typographically awkward title of *R.U. EXPERIENCING DISCOMFORT (?)*. That effort was remastered and abridged for a 7" release on [Neon Waste](https://www.neonwaste.com) later in the year, carrying the slightly modified label *Have U Experienced Discomfort*.
+Vancouver punk act [Bedwetters Anonymous](https://bedwettersanonymous.bandcamp.com/) put out one of my favourite releases of 2019. Back in February, the trio released a scrappy little tape with the typographically awkward title of *R.U. EXPERIENCING DISCOMFORT (?)*. That effort was remastered and abridged for a 7" release on [Neon Taste](https://www.neontasterecords.ca) later in the year, carrying the slightly modified label *Have U Experienced Discomfort*.
 
 With the *Discomfort* redux now out in the wild, the group's looking ahead to their next release, an EP titled *Framed*. While there's no word yet when it will see the light of day, the band has shared a single along with the cover art. You can listen to "Keep Six" now at Bandcamp. Bedwetters recorded the new material at Vancouver's Red Gate, with Jordan Koop (Dumb, The Courtneys) mastering.
 

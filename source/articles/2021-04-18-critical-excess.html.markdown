@@ -32,7 +32,7 @@ In a statement guitarist/vocalist Tyson McShane commented on the track, which ta
 
 >"...the song ruminates on the casual, but oft-underappreciated beauty of the urban environment and the predictability of a person's daily tasks... A place sometimes overflowing with creative energy, but where it often necessary to remind oneself of the casual brilliance of one's peers and the places we typically tend to haunt."
 
-The band worked with Halifax-based [Noyes Records](http://noyesrecords.limitedrun.com/) and Oxford's [Divine Schism](https://www.instagram.com/divineschism/) on the release. [Yamantaka // Sonic Titan](http://ytstlabs.com/)'s Alaska B mixed the track, with Ryan Morey (Wares, Chad VanGaalen) mastering. The group recorded with engineer Mike LeFebvre at Saskatoon's Sweat Shoppe (over a year ago - with the pandemic throwing a damper on their intended release plans).
+The band worked with Halifax-based [Noyes Records](https://noyesrecords.limitedrun.com) and Oxford's [Divine Schism](https://www.instagram.com/divineschism/) on the release. [Yamantaka // Sonic Titan](http://ytstlabs.com/)'s Alaska B mixed the track, with Ryan Morey (Wares, Chad VanGaalen) mastering. The group recorded with engineer Mike LeFebvre at Saskatoon's Sweat Shoppe (over a year ago - with the pandemic throwing a damper on their intended release plans).
 
 Slow Down Molasses features Tyson McShane on guitar and vocals, Aaron Scholz on guitar and synth, bass from Chris Morix, and Jordan Kurtz on drums. Scholz also directed a video featuring "Street Haunting," available now on YouTube.
 

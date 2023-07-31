@@ -36,7 +36,7 @@ I watched Deathsticks perform at the [Pentagon Black](https://www.pentagon.black
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/3w-KBq_1mj8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Jim Di Gioia at [Dominionated](http://dominionated.ca/songs/past-blue-youth/) wrote highly of the new self-titled EP from angsty Regina post-punk act [Blue Youth](https://blueyouthsk.bandcamp.com), which came out this past May on [Grind Central](https://www.facebook.com/grindcentralrecords/). It was the first I'd heard of the three piece but there's a ton of energy and potential there. If you're partial to wound-up At The Drive-In style punk, you'd best check out the whole five song set over at Bandcamp.
+Jim Di Gioia at [Dominionated](https://dominionated.ca/songs/past-blue-youth/) wrote highly of the new self-titled EP from angsty Regina post-punk act [Blue Youth](https://blueyouthsk.bandcamp.com), which came out this past May on [Grind Central](https://www.facebook.com/grindcentralrecords/). It was the first I'd heard of the three piece but there's a ton of energy and potential there. If you're partial to wound-up At The Drive-In style punk, you'd best check out the whole five song set over at Bandcamp.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1835833939/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://blueyouthsk.bandcamp.com/album/s-t-ep">s/t - EP by Blue Youth</a></iframe>
 
