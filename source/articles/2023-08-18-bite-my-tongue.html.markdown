@@ -172,3 +172,7 @@ Faith Healer last issued *Try ;-)* in 2017, also through Mint.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=348298731/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://faithhealer.bandcamp.com/album/the-hand-that-fits-the-glove-2">The Hand That Fits The Glove by Faith Healer</a></iframe>
 
+###Looks Like We Made It
+
+I wasn't able to attend [Sappyfest](http://www.sappyfest.com/) this year, but I'm eager to check out the new photo zine from my pal [Stephen McGill](https://www.instagram.com/steve_mcgill/). *Looks Like We Made It* chronicles ten years of the Sackville, New Brunswick music festival. You can find out more and snag a copy from Stephen [here](https://www.instagram.com/p/CwB0KBltqQV/).
+
