@@ -49,7 +49,7 @@ The whirlwind, lawsuit-courting career of WLMRT burned out after 2019's *Forever
 
 [Listen: Only God Forgives - "Movin' My Body" @ Bandcamp](https://onlygodforgivesto.bandcamp.com/album/movin-my-body "#")
 
-Sometimes I think the internet conspires to create busywork for me. Every Bandcamp Friday event's felt that way, with seemingly every band I cover dropping new material in tandem. The recent [Demo Fest](https://demo-fest.org) takes it to another extreme, with many of the bands created whole cloth for the occasion. The online collaborative project brought together over 350 artists worldwide to record new demo material, all of which dropped simultaneously on December 21 as a fundraiser benefitting the migrant justice network [Solidarity Without Borders](https://www.solidarityacrossborders.org/en/).
+Sometimes I think the internet conspires to create busywork for me. Every Bandcamp Friday event's felt that way, with seemingly every band I cover dropping new material in tandem. The recent [Demo Fest](https://demo-fest.org) takes it to another extreme, with many of the bands created whole cloth for the occasion. The online collaborative project brought together over 350 artists worldwide to record new demo material, all of which dropped simultaneously on December 21 as a fundraiser benefitting the migrant justice network [Solidarity Across Borders](https://www.solidarityacrossborders.org/en/).
 
 It appears that a great many of the artists I've covered on Some Party, particularly those linked by festivals like the Ottawa Explosion, have a disproportionate amount of new material to the mix. It's going to take a while to tease it all out.
 

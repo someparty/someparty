@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: A spectrum of sound by The Vapids, Headcheese, POPULATION II, Hobby, Nora Kelly Band, Psychic Void, Extensive Slaughter, Nova Doll, Komodo, Dead Broke, Baited, and Album (FET.NAT/Victime)
 ---
 
-Before we get started this week, I'd like to ask for your help! This August, I'm taking part in the [Great Cycle Challenge](https://greatcyclechallenge.ca/riders/AdamWhite1) to fight kids' cancer and support the SickKids Foundation. over 1,000 kids are diagnosed with cancer every year in Canada, and it's the biggest killer of children from disease in the country. I'll be taking to two wheels to help raise funds for the cause, and any pledge of support from the Some Party readership would be most welcome. You can donate to at my page [here](https://greatcyclechallenge.ca/riders/AdamWhite1).
+Before we get started this week, I'd like to ask for your help! This August, I'm taking part in the [Great Cycle Challenge](https://greatcyclechallenge.ca/riders/AdamWhite1) to fight kids' cancer and support the SickKids Foundation. Over 1,000 kids are diagnosed with cancer every year in Canada, and it's the biggest killer of children from disease in the country. I'll be taking to two wheels to help raise funds for the cause, and any pledge of support from the Some Party readership would be most welcome. You can donate at my page [here](https://greatcyclechallenge.ca/riders/AdamWhite1).
 
 ###[The Vapids](https://the-vapids.bandcamp.com): *Revenge Therapy*
 ==Preview and purchase at [Bandcamp](https://the-vapids.bandcamp.com/album/revenge-therapy)==

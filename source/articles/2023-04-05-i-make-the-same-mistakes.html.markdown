@@ -89,7 +89,7 @@ A four-piece, the collective Divorcer resume includes current and former dallian
 ###[Bratboy](https://bratboy.bandcamp.com): "Cuff Love"
 ==Watch on [YouTube](https://youtu.be/8UnvEKgSVuo) - Preview and purchase at [Bandcamp](https://bratboy.bandcamp.com/album/bratworld)==
 
-Later this month, Vancouver punk trio [Bratboy](https://bratboy.bandcamp.com) finally unleash their 10-song *Bradworld* LP. The set collects singles the band's teased out in digital venues since the fall of 2021. This album's indeed a long time coming, as the group recorded it in that blissfully innocent pre-pandemic winter of 2019. Jordan Koop (Dumb, The Courtneys, Apollo Ghosts) captured these songs live off the floor in late December of that year at the Gabriola Island studio, The Noise Floor.
+Later this month, Vancouver punk trio [Bratboy](https://bratboy.bandcamp.com) finally unleash their 10-song *Bratworld* LP. The set collects singles the band's teased out in digital venues since the fall of 2021. This album's indeed a long time coming, as the group recorded it in that blissfully innocent pre-pandemic winter of 2019. Jordan Koop (Dumb, The Courtneys, Apollo Ghosts) captured these songs live off the floor in late December of that year at the Gabriola Island studio, The Noise Floor.
 
 The announcement arrived alongside a preview of the album-opening "Cuff Love." You can hear it at Bandcamp or see it in action on YouTube through a visualizer (featuring footage shot and edited by Sam Weir and Ellie Cameron-Smith).
 
