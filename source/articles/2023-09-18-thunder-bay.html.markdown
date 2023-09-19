@@ -11,7 +11,7 @@ I can finally reveal that I've had the privilege of serving on the grand jury of
 
 I'm a hobbyist—an amateur. I always have been. That anyone bothers to read what I write or care what I have to say has always been a mystery to me. After nearly 25 years sunk between Punknews and Some Party, this pitch felt like the climax of that effort (even if it was out of public view). I should take a bow and hang it up; there's no higher validation I can think of. That said, the defining characteristic of my "writing career" has been a total inability to recognize my expiry date, so why start now?
 
-The Polaris Gala is tomorrow night at Massey Hall. Some remarkably strong records are in contention, and the prize could end up in any number of deserving hands. However it goes, for my small part, I'm pretty fucking proud of the role I played.
+The Polaris Gala is tomorrow night (Tuesday, September 19) at Toronto's legendary Massey Hall. Some remarkably strong records are in contention, and the prize could end up in any number of deserving hands. However it goes, for my small part, I'm pretty fucking proud of the role I played.
 
 Dallas Good Forever.
 
