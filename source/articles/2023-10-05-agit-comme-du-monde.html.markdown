@@ -47,7 +47,7 @@ Night Court released *Humans!*, their sixteen-song third album, in the summer vi
 ###[Tashme](https://tashme.bandcamp.com): *Promo 2023*
 ==Preview and purchase at [Bandcamp](https://tashme.bandcamp.com/album/promo-2023)==
 
-In September, Toronto hardcore quartet [Tashme](https://tashme.bandcamp.com) shared a searing 5-song EP, their first published work in nearly five years. I was lost in the Polaris Prize wilderness when this news first surfaced, so please don't read anything into my lack of punctuality as a lack of enthusiasm. Tashme sounds absolutely essential. The band, featuring members of [VCR](https://vcr-toronto.bandcamp.com/) and [Damagers](http://damagers.bandcamp.com), includes vocalist Lautaro Castillo-Oliva, guitarist Jackson Waite, bassist Campbell Falconer, and drummer Matt Avenins.
+In September, Toronto hardcore quartet [Tashme](https://tashme.bandcamp.com) shared a searing 5-song EP, their first published work in nearly five years. I was lost in the Polaris Prize wilderness when this news first surfaced, so please don't read my lack of punctuality as a lack of enthusiasm. Tashme sounds absolutely essential. The band, featuring members of [VCR](https://vcr-toronto.bandcamp.com/) and [Damagers](http://damagers.bandcamp.com), includes vocalist Lautaro Castillo-Oliva, guitarist Jackson Waite, bassist Campbell Falconer, and drummer Matt Avenins.
 
 The group's set to appear at the fast-approaching Hamilton festival [Yourin Fested](https://www.instagram.com/yo.ur.in/), sitting up near the top of the Friday, October 13 night of the three-day event alongside Wasted Age and Toronto legends [Career Suicide](https://careersuicide.bandcamp.com/).
 
