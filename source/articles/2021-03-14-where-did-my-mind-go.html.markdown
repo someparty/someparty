@@ -65,7 +65,7 @@ Montreal's Trafic des airs, the industrial/no wave side-project of [VICTIME](htt
 
 *Ascète* arrives on vinyl packaged with a photo zine documenting some of the scenery that inspired the work. The nine-song set features Gougoux on just about everything (vocals, percussion, guitar, synths, bass and violin), with Linsey Wellman appearing on sax. The new record follows TDA's self-titled 2019 EP. If you were into those Odonis Odonis tracks above, this should be next in your playlist.
 
-As a member of [VICTIME](https://victimelol.bandcamp.com/), Samuel Gougoux last released *Mi-tronc, mi-jambe* in 2019. Recent years have also seen him join the live incarnation of [Corridor](https://corridormtl.bandcamp.com), performing with the band on their pre-pandemic tours. News of TDA's debut comes just a few weeks after the news that VICTIME guitarist [Simon Provencher](https://simonprovencher.bandcamp.com/) was readying their own experimental solo-project, with the *Mesures* EP due for a digital release on March 26.
+As a member of [VICTIME](https://victimelol.bandcamp.com/), Samuel Gougoux last released *Mi-tronc, mi-jambe* in 2019. Recent years have also seen him join the live incarnation of [Corridor](https://corridormtl.bandcamp.com), performing with the band on their pre-pandemic tours. News of TDA's debut comes just a few weeks after the news that VICTIME guitarist [Simone Provencher](https://simoneprovencher.bandcamp.com/) was readying their own experimental solo-project, with the *Mesures* EP due for a digital release on March 26.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_UkU2nGg0A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

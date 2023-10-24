@@ -47,7 +47,7 @@ Gemstones assembles a trio of veteran players, with guitarist/vocalist KC Spidle
 ###[Album](https://albumalbumalbum.bandcamp.com/): "New and Annoying"
 ==Watch on [YouTube](https://youtu.be/PLYTWZRcIo4) - Preview and purchase at [Bandcamp](https://albumalbumalbum.bandcamp.com/track/new-and-annoying)==
 
-[Telephone Explosion](https://www.telephoneexplosion.com/) recently shared a second single from Hull's otherworldly [Album](https://albumalbumalbum.bandcamp.com/), the "glitch-groove" duo pairing [Simon Provencher](https://simonprovencher.bandcamp.com/) of the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/) with Olivier Fairfield of the confrontational punk-jazz group [FET.NAT](https://fetnat.bandcamp.com). "New and Annoying" arrives alongside a surreal animated video from Katerine Dennie-Marcoux.
+[Telephone Explosion](https://www.telephoneexplosion.com/) recently shared a second single from Hull's otherworldly [Album](https://albumalbumalbum.bandcamp.com/), the "glitch-groove" duo pairing [Simone Provencher](https://simoneprovencher.bandcamp.com/) of the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/) with Olivier Fairfield of the confrontational punk-jazz group [FET.NAT](https://fetnat.bandcamp.com). "New and Annoying" arrives alongside a surreal animated video from Katerine Dennie-Marcoux.
 
 The duo built the 11-track full-length from cut and pasted samples of live jam sessions. Philip Shaw Bova (Kiwi Jr., Lido Pimienta, John K. Samson) mastered the set, which arrives as a limited LP on July 9.
 

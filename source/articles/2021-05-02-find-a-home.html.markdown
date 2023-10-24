@@ -55,7 +55,7 @@ The Heavenly Blue demo arrived as a professionally manufactured cassette, limite
 ###[Album](https://albumalbumalbum.bandcamp.com/): "Hommage à M. Cusson Pour H. Hoek"
 ==Watch on [YouTube](https://youtu.be/iudwNQPcd9s) - Preview and purchase at [Bandcamp](https://albumalbumalbum.bandcamp.com/track/hommage-m-cusson-pour-h-hoek)==
 
-[Simon Provencher](https://simonprovencher.bandcamp.com/) and Olivier Fairfield have paired up as a duo to form [Album](https://albumalbumalbum.bandcamp.com/). The Hull-based band, self-described as an "experimental glitch-groove duo," will release a new album, the self-titled *Album*, this summer through [Telephone Explosion](https://www.telephoneexplosion.com/). You've likely heard both these players in recent years, with Provencher on guitar with the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/) and Fairfield drumming for the confrontational punk-jazz group [FET.NAT](https://fetnat.bandcamp.com).
+[Simone Provencher](https://simoneprovencher.bandcamp.com/) and Olivier Fairfield have paired up as a duo to form [Album](https://albumalbumalbum.bandcamp.com/). The Hull-based band, self-described as an "experimental glitch-groove duo," will release a new album, the self-titled *Album*, this summer through [Telephone Explosion](https://www.telephoneexplosion.com/). You've likely heard both these players in recent years, with Provencher on guitar with the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/) and Fairfield drumming for the confrontational punk-jazz group [FET.NAT](https://fetnat.bandcamp.com).
 
 The duo built the 11-track full-length by manipulating samples cut and pasted from live jam sessions. Olivier commented on the busy collage of sounds in a press release:
 

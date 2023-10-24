@@ -31,9 +31,9 @@ Along with Lauren Ray, Jock Tears also features former [Tough Age](https://tough
 
 [Watch: Jock Tears - "Jock Tears" @ YouTube](https://youtu.be/t57RNj6D8GM "#")
 
-Quebec City dance-punk three-piece [VICTIME](https://victimelol.bandcamp.com/) have released a new single titled "Dodo-prémonition," a track that will appear on their upcoming EP *Mi-tronc, mi-jambe*. That set isn't expected until March of 2019 from [Michel Records](https://www.facebook.com/MichelRecords/). The track, which cumulates in a complete saxophone freak-out by guest David-Dugas Dion, is the band's first new material since their February full-length *La femme taupe*. The song was engineered and mixed by Simon Provencher at Le Pantoum.
+Quebec City dance-punk three-piece [VICTIME](https://victimelol.bandcamp.com/) have released a new single titled "Dodo-prémonition," a track that will appear on their upcoming EP *Mi-tronc, mi-jambe*. That set isn't expected until March of 2019 from [Michel Records](https://www.facebook.com/MichelRecords/). The track, which cumulates in a complete saxophone freak-out by guest David-Dugas Dion, is the band's first new material since their February full-length *La femme taupe*. The song was engineered and mixed by Simone Provencher at Le Pantoum.
 
-VICTIME features bassist/vocalist Laurence Gauthier-Brown, drummer Samuel Gougoux, and guitarist Simon Provencher.
+VICTIME features bassist/vocalist Laurence Gauthier-Brown, drummer Samuel Gougoux, and guitarist Simone Provencher.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3794952101/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1600319868/transparent=true/" seamless><a href="http://victimelol.bandcamp.com/album/dodo-pr-monition">Dodo-prémonition by VICTIME</a></iframe>
 

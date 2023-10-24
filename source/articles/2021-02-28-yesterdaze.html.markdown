@@ -2,7 +2,7 @@
 title: Yesterdaze
 date: 2021-02-28
 author: adam@someparty.ca (Adam White)
-description: Cool stuff from Gemstones, Rogue Tenant, Belvedere, Champion Lover, Cult Message, Autogramm, Snake River, Leanne Betasamosake Simpson, Chad VanGaalen, Simon Provencher, Faiyaz And The Wasted Chances, The Effens, Guilhem, TUNS, The Bare Minimum, As We Suffer, Meanlife, Fly Pan Am, Feels Fine, and SNFU!
+description: Cool stuff from Gemstones, Rogue Tenant, Belvedere, Champion Lover, Cult Message, Autogramm, Snake River, Leanne Betasamosake Simpson, Chad VanGaalen, Simone Provencher, Faiyaz And The Wasted Chances, The Effens, Guilhem, TUNS, The Bare Minimum, As We Suffer, Meanlife, Fly Pan Am, Feels Fine, and SNFU!
 ---
 
 ###[Gemstones](http://gemstones.bandcamp.com): *Nevermind* EP
@@ -114,16 +114,16 @@ Throughout the pandemic, VanGaalen's released a series of archival releases. The
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2104050344/size=large/bgcol=ffffff/linkcol=0687f5/license_id=1626/tracklist=false/track=871098494/transparent=true/" seamless><a href="https://chadvangaalen.bandcamp.com/album/worlds-most-stressed-out-gardener">World&#39;s Most Stressed Out Gardener by Chad VanGaalen</a></iframe>
 
-###[Simon Provencher](https://simonprovencher.bandcamp.com/): "Et quart"
-==Watch on [YouTube](https://youtu.be/U-1KSfEBtXI) - Preview and purchase at [Bandcamp](https://simonprovencher.bandcamp.com/track/et-quart)==
+###[Simone Provencher](https://simoneprovencher.bandcamp.com/): "Et quart"
+==Watch on [YouTube](https://youtu.be/U-1KSfEBtXI) - Preview and purchase at [Bandcamp](https://simoneprovencher.bandcamp.com/track/et-quart)==
 
-Gatineau's [Simon Provencher](https://simonprovencher.bandcamp.com/) recently shared an experimental new single from his upcoming solo EP *Mesures*. "Et quart" is built around a series of clarinet loops by Elyze Venne-Deshaies. Armed with what's described as a "massive circuit of guitar pedals," the artist manipulates an unsettling, distorted counterpoint to the warmth of the woodwind. Provencher commented on the work in a press release:
+Gatineau's [Simone Provencher](https://simoneprovencher.bandcamp.com/) recently shared an experimental new single from her upcoming solo EP *Mesures*. "Et quart" is built around a series of clarinet loops by Elyze Venne-Deshaies. Armed with what's described as a "massive circuit of guitar pedals," the artist manipulates an unsettling, distorted counterpoint to the warmth of the woodwind. Provencher commented on the work in a press release:
 
 > "In 'Et quart', the feedback is relentless, sour, and displeasing; a stark contrast with the fleeting and soft clarinets. There is a clear opposition between the rigorous, mathematical, precise feedback and the breathy, living woodwinds. But, as Elyze's melodies take more and more space, the initially conflicting sounds seem to harmonize and merge, culminating in a sublime unison rise at the song's climax. The unstable sounds can't maintain this delicate equilibrium for long though."
 
 You can also preview the preview track "Choix multiples" at Bandcamp. *Mesures* arrives on March 26 from [Michel Records](https://www.facebook.com/MichelRecords/), featuring six eclectic soundscapes from Provencher with percussion by Olivier Fairfield ([FET.NAT](https://fetnat.bandcamp.com), [H. de Heutz](https://hdeheutz.bandcamp.com/)).
 
-Simon Provencher plays guitar for the dance-punk three-piece [VICTIME](https://victimelol.bandcamp.com/). That group last released *Mi-tronc, mi-jambe* in 2019.
+Simone Provencher plays guitar for the dance-punk three-piece [VICTIME](https://victimelol.bandcamp.com/). That group last released *Mi-tronc, mi-jambe* in 2019.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-1KSfEBtXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -37,7 +37,7 @@ One revelation from Rancic's list was the existence of the glitchy [Remote Contr
 
 Trois-Rivières quintet [Post-Rough](https://postrough.bandcamp.com/) recently shared a video for their goth-influenced single "Police." Described by the band as a "dronish-post-punk hymn," it's a marked departure from the group's early up-tempo material. The single appears on the band's recent four-song EP *Vous êtes un personnage de roman*. British artist Will Morrison directed the clip.
 
-This band recorded at Studio Pantouf in Saint-Élie-de-Caxton with engineering from Louis-Philippe Cantin (Perséide) and Pierre Brouillette Hamelin (Rorqual). Simon Provencher (Victime, Palissade) mixed the set, with mastering from JP Villemure (Fuudge, Bleu Nuit).
+This band recorded at Studio Pantouf in Saint-Élie-de-Caxton with engineering from Louis-Philippe Cantin (Perséide) and Pierre Brouillette Hamelin (Rorqual). Simone Provencher (Victime, Palissade) mixed the set, with mastering from JP Villemure (Fuudge, Bleu Nuit).
 
 Pre-COVID, Post-Rough had plans to release the record in July as part of the Trois-Rivières music festival FestiVoix, but with that gathering understandably sidelined the material's emerging online now. Post-Rough features guitarist/vocalist Bastien Mortimer, guitarist Alexis Vaillant-Gamache, bassist Tommy Dupuis, Olivier Durand on synth, and drummer Pierre-Olivier Lessard.
 

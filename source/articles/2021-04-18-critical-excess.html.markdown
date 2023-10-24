@@ -125,7 +125,7 @@ With the release of *Ascète* imminent, Montreal industrial/no wave act [TDA](ht
 
 *Ascète* arrives on vinyl April 23 through [Michel Records](https://www.facebook.com/MichelRecords/), packaged with a photo zine documenting the forests of Bas-St-Laurent that inspired the work. The nine-song set features Gougoux on just about everything (vocals, percussion, guitar, synths, bass, and violin), with Linsey Wellman appearing on sax. The record follows TDA's self-titled 2019 EP.
 
-As a member of the dance-punk trio VICTIME, Samuel Gougoux last released *Mi-tronc, mi-jambe* in 2019. Recent years have also seen him join the live incarnation of [Corridor](https://corridormtl.bandcamp.com), performing with the band on their pre-pandemic tours. VICTIME guitarist [Simon Provencher](https://simonprovencher.bandcamp.com/) coincidently just released an experimental solo project of his own, with the *Mesures* EP arriving in late March.
+As a member of the dance-punk trio VICTIME, Samuel Gougoux last released *Mi-tronc, mi-jambe* in 2019. Recent years have also seen him join the live incarnation of [Corridor](https://corridormtl.bandcamp.com), performing with the band on their pre-pandemic tours. VICTIME guitarist [Simone Provencher](https://simoneprovencher.bandcamp.com/) coincidently just released an experimental solo project of their own, with the *Mesures* EP arriving in late March.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tg3rLOBC-BI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -139,9 +139,9 @@ Mobina Galore features guitarist/vocalist Jenna Priestner and drummer/vocalist M
 ###[Album](https://albumalbumalbum.bandcamp.com/): "165 Refrains"
 ==Watch on [YouTube](https://youtu.be/8B4jTZFE5SU) - Preview and purchase at [Bandcamp](https://albumalbumalbum.bandcamp.com/track/165-refrains)==
 
-This weird summer dares you to embrace another bizarre video from Gatineau's [Album](https://albumalbumalbum.bandcamp.com/) - the generically named "glitch-groove" duo of [Simon Provencher](https://simonprovencher.bandcamp.com/) and Olivier Fairfield. "165 Refrains" is our latest preview of the group's self-titled LP, an 11-track set due July 9 through [Telephone Explosion](https://www.telephoneexplosion.com/). As with the other Album visuals, this clip comes from retro computer animator Katerine Dennie-Marcoux and (fittingly, given the music) defies all explanation.
+This weird summer dares you to embrace another bizarre video from Gatineau's [Album](https://albumalbumalbum.bandcamp.com/) - the generically named "glitch-groove" duo of [Simone Provencher](https://simoneprovencher.bandcamp.com/) and Olivier Fairfield. "165 Refrains" is our latest preview of the group's self-titled LP, an 11-track set due July 9 through [Telephone Explosion](https://www.telephoneexplosion.com/). As with the other Album visuals, this clip comes from retro computer animator Katerine Dennie-Marcoux and (fittingly, given the music) defies all explanation.
 
-Album pairs Simon Provencher of the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/), and Olivier Fairfield, known for the confrontational punk-jazz group [FET.NAT](https://fetnat.bandcamp.com). The Album album arrives on the heels of Provencher's experimental solo EP *Mesures*, released through [Michel Records](https://www.facebook.com/MichelRecords/) just a few months back.
+Album pairs Simone Provencher of the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/), and Olivier Fairfield, known for the confrontational punk-jazz group [FET.NAT](https://fetnat.bandcamp.com). The Album album arrives on the heels of Provencher's experimental solo EP *Mesures*, released through [Michel Records](https://www.facebook.com/MichelRecords/) just a few months back.
 
 FET.NAT most recently released the Polaris-shortlisted *Le Mal* in 2019. VICTIME's *Mi-tronc, mi-jambe* EP landed that same year.
 

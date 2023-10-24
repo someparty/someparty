@@ -2,7 +2,7 @@
 title: Cut Up High and Dry
 date: 2022-04-30
 author: adam@someparty.ca (Adam White)
-description: Wild new sounds from The Sadies, Nouveaux, Safeword, Simon Provencher, Among Legends, Marian, Blunt Chunks, The Fake Friends, Night Court, Julie & Dany, Weird Nightmare, Basketball Knees, Dislexic, Deathmarch, Death Waits, Man Crush, The Johnnys, Bad Waitress, Sauna, She Came to Quit, King Pong Productions, Jenny Berkel, Russian Tim and Pavel Bures, and B.A. Johnston
+description: Wild new sounds from The Sadies, Nouveaux, Safeword, Simone Provencher, Among Legends, Marian, Blunt Chunks, The Fake Friends, Night Court, Julie & Dany, Weird Nightmare, Basketball Knees, Dislexic, Deathmarch, Death Waits, Man Crush, The Johnnys, Bad Waitress, Sauna, She Came to Quit, King Pong Productions, Jenny Berkel, Russian Tim and Pavel Bures, and B.A. Johnston
 ---
 
 ###[The Sadies](https://www.thesadies.net/): "Cut Up High and Dry"
@@ -52,10 +52,10 @@ Safeword brings together members of [Shoulder Season](https://shoulderseasonhfx.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0fT_pTJ7JeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Simon Provencher](https://simonprovencher.bandcamp.com/): *Nouvelles*
+###[Simone Provencher](https://simoneprovencher.bandcamp.com/): *Nouvelles*
 ==Preview and purchase at [Bandcamp](https://simoneprovencher.bandcamp.com/album/nouvelles)==
 
-When not performing with the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/) or the glitch-groove duo [Album](https://albumalbumalbum.bandcamp.com/), [Simon Provencher](https://simonprovencher.bandcamp.com/)'s shown an increasing interest in ambient, effects-driven pieces that plunge the outer limits of guitar noise. Last week, his latest experiments arrived online as *Nouvelles*. The lengthy pair of discordant mood pieces gives some insight into the off-the-cuff nature of Provencher's current live performances, as he explains en Francais:
+When not performing with the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/) or the glitch-groove duo [Album](https://albumalbumalbum.bandcamp.com/), [Simone Provencher](https://simoneprovencher.bandcamp.com/)'s shown an increasing interest in ambient, effects-driven pieces that plunge the outer limits of guitar noise. Last week, their latest experiments arrived online as *Nouvelles*. The lengthy pair of discordant mood pieces gives some insight into the off-the-cuff nature of Provencher's current live performances, as she explains en Francais:
 
 >"Improvisations électroacoustiques faites avec un ensemble plutôt élaboré de pédales de guitare modifiées et de circuits faits-maison. Cette sortie se veut un peu un état des choses, une mise à jour sur ce qui m'anime ces temps-ci et une représentation de ce que je présente lors de mes spectacles."
 

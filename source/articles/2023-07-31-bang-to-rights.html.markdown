@@ -151,6 +151,6 @@ Gatineau glitch-groove duo [Album](https://albumalbumalbum.bandcamp.com/) return
 
 >"'Salade' is present music, looking forward while playing off a misremembered past. Through misuse of memory and off-angle interpolations, Album recalls NY improv groups that exist only in unconscious forms. An archetype reconstructed through a word salad of 'jazz-enough' reference points and simmering uncertainty."
 
-Following their 2021 self-titled debut, Album again pairs Olivier Fairfield of punk-jazz agitators [FET.NAT](https://fetnat.bandcamp.com) with [Simon Provencher](https://simonprovencher.bandcamp.com/) from the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/). Performers Philippe Charbonneau, Scott Warren, and Charlotte Savoie join them on this track. Look for *Portrait de l'artiste* on September 22.
+Following their 2021 self-titled debut, Album again pairs Olivier Fairfield of punk-jazz agitators [FET.NAT](https://fetnat.bandcamp.com) with [Simone Provencher](https://simoneprovencher.bandcamp.com/) from the dance-punk trio [VICTIME](https://victimelol.bandcamp.com/). Performers Philippe Charbonneau, Scott Warren, and Charlotte Savoie join them on this track. Look for *Portrait de l'artiste* on September 22.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ngK8Eb055c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

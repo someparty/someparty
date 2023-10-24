@@ -218,7 +218,7 @@ The band's [Chris Page](https://chrispage.bandcamp.com) has been quite active du
 
 Trois-Rivières increasingly-goth [Post-Rough](https://postrough.bandcamp.com/) have a new lyric video online featuring "Strange," a somber song from August's *Vous êtes un personnage de roman*.
 
-This quintet recorded their recent EP at Studio Pantouf in Saint-Élie-de-Caxton with engineering from Louis-Philippe Cantin (Perséide) and Pierre Brouillette Hamelin (Rorqual). Simon Provencher (Victime, Palissade) mixed the set, with mastering from JP Villemure (Fuudge, Bleu Nuit). Post-Rough features guitarist/vocalist Bastien Mortimer, guitarist Alexis Vaillant-Gamache, bassist Tommy Dupuis, Olivier Durand on synth, and drummer Pierre-Olivier Lessard.
+This quintet recorded their recent EP at Studio Pantouf in Saint-Élie-de-Caxton with engineering from Louis-Philippe Cantin (Perséide) and Pierre Brouillette Hamelin (Rorqual). Simone Provencher (Victime, Palissade) mixed the set, with mastering from JP Villemure (Fuudge, Bleu Nuit). Post-Rough features guitarist/vocalist Bastien Mortimer, guitarist Alexis Vaillant-Gamache, bassist Tommy Dupuis, Olivier Durand on synth, and drummer Pierre-Olivier Lessard.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y6c-29fay2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
