@@ -2,7 +2,7 @@
 title: The Game We Never Win
 date: 2023-10-23
 author: adam@someparty.ca (Adam White)
-description: The American Devices, Dermabrasion, Nüshu, Hot Garbage, Wayfarer, Big School, Hyness, Diamondtown, Fucked Up, Let's Go, Death Cassette, Outtacontroller, Autogramm, Spider Bite, and Bry Webb
+description: New rackets from The American Devices, Dermabrasion, Nüshu, Hot Garbage, Wayfarer, Big School, Hyness, Diamondtown, Fucked Up, Let's Go, Death Cassette, Outtacontroller, Autogramm, Spider Bite, and Bry Webb
 ---
 
 ###[The American Devices](https://theamericandevices.bandcamp.com/): "The Game We Never Win" / "Interlarding"
@@ -16,7 +16,7 @@ Celluloid Lunch has a pressing of 200 records available, wrapped in a Risograph-
 
 The record carries a dedication to Carl Helm, the band's founding drummer who performed as Cups Von Helm. He passed away in the summer of this year.
 
-American Devices launch the new single with a show this Thursday at Montreal's Sala Rossa. There, they'll share the stage with the aggressively erratic art-punk duo [Crabe](https://crabe.bandcamp.com/), with whom the band recently paired on the song "2020." That collaboration appeared on the CRABE's newly released LP *Visite du temple inné* (a guest-packed set that also features Annie-Claude Deschênes of [Duchess Says](https://duchesssays.bandcamp.com/), [Belle Grand Fille](https://www.bellegrandfille.com/), [N.NAO](https://nnao.bandcamp.com), [Simone Provencher](https://simoneprovencher.bandcamp.com) of [VICTIME](https://victimelol.bandcamp.com/), and [Hubert Lenoir](https://hubertlenoir.bandcamp.com/)). Rick Trembles shared some background on their pairing on Instagram, revealing:
+American Devices launch the new single with a show this Thursday at Montreal's Sala Rossa. There, they'll share the stage with the aggressively erratic art-punk duo [Crabe](https://crabe.bandcamp.com/), with whom the band recently paired on the song "2020." That collaboration appeared on CRABE's newly released LP *Visite du temple inné* (a guest-packed record that also features Annie-Claude Deschênes of [Duchess Says](https://duchesssays.bandcamp.com/), [Belle Grand Fille](https://www.bellegrandfille.com/), [N.NAO](https://nnao.bandcamp.com), [Simone Provencher](https://simoneprovencher.bandcamp.com) of [VICTIME](https://victimelol.bandcamp.com/), and [Hubert Lenoir](https://hubertlenoir.bandcamp.com/)). Rick Trembles shared some background on their pairing on Instagram, revealing:
 
 >"[CRABE] asked us to come up with several separate riff cycles & then recorded us playing them! They also asked me to make up a French story I could narrate over the end! Then they mixed everything together & sang over it, creating THIS monster! And the cherr(ies) on top? Not only are we gonna interpret this thing live at the launch of our vinyls... but so are Crabe! Three interpretations in one night! The vinyl version that never existed live, then two different live versions! DO NOT MISS!"
 
@@ -40,7 +40,7 @@ Look for Dermabrasion live in Toronto on November 18 at the Owl's Club with labe
 ###[Nüshu](https://nushu.bandcamp.com/): *Nüshu*
 ==Preview and purchase at [Bandcamp](https://nushu.bandcamp.com/album/n-shu)==
 
-Montreal post-punk / garage act [Nüshu](https://nushu.bandcamp.com/) returned this month with a self-titled full-length, their first since 2019's *Sexe Étranger*. A quartet, the group features Lydia Champagne on drums, guitarists Jean-Philippe Fréchette (aka [Navet Confit](https://navetconfit.bandcamp.com/)) and Jerry Lee Boucher, and bassist/vocalist/lyricist Jessica Pion. That sentence is likely a gross over-simplification of everyone's roles, as there's a swath of weird and wonderful instrumentation throughout the sonically busy *Nüshu*. The quartet recorded this past January at the Sushi Cat Studio in Montreal, with Confit and Boucher handling production duties. I was a big proponent of *Sexe Étranger*, and this set, tightly wound, angular, and at times loud-as-hell, feels like a worthy follow-up.
+Montreal post-punk / garage act [Nüshu](https://nushu.bandcamp.com/) returned this month with a self-titled full-length, their first since 2019's *Sexe Étranger*. A quartet, the group features Lydia Champagne on drums, guitarists Jean-Philippe Fréchette (aka [Navet Confit](https://navetconfit.bandcamp.com/)) and Jerry Lee Boucher, and bassist/vocalist/lyricist Jessica Pion. That sentence is likely a gross over-simplification of everyone's roles, as there's a swath of weird and wonderful instrumentation throughout the aurally busy LP. The quartet recorded this past January at the Sushi Cat Studio in Montreal, with Confit and Boucher handling production duties. I was a big proponent of *Sexe Étranger*, and this set, tightly wound, angular, and at times loud-as-hell, feels like a worthy follow-up.
 
 You can find a hypnotic video for the track "La comète ne pouvait être observée sur l'île mais plusieurs vacanciers manquèrent de savoir-vivre" on [YouTube](https://youtu.be/wdZVyWhZdyE?si=0GDrUH1PPl-VA1xU), directed by Lydia Champagne.
 
@@ -53,7 +53,7 @@ Heavy Toronto psych quartet [Hot Garbage](http://hotgarbagemusic.bandcamp.com) r
 
 >"Here Hot Garbage can be seen playing completely real instruments in their day-to-day attire. Seen in the video is: a live performance, a swing set, and a candid perspective of the daily grind. The video, with a budget of under $50 (mostly spent on fake blood), was shot on a cheap plastic toy camera and uses homemade props and movements from the camera and lights, resulting in a frantic, lo-fi presentation that is playful yet intense."
 
-The band again recorded with [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh at Palace Sound (surely an increasingly hot ticket given the producer's role on Debby Friday's Polaris-lauded *Good Luck*). Hot Garbage features bassist/vocalist Juliana Carlevaris, guitarist/vocalist Alex Carlevaris, keyboardist/vocalist Dylan Gamble, and drummer Mark Henein. James Plotkin mastered the new material.
+The band again recorded with [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh at Palace Sound (bound to become an increasingly hot ticket given the producer's role on Debby Friday's Polaris-lauded *Good Luck*). Hot Garbage features bassist/vocalist Juliana Carlevaris, guitarist/vocalist Alex Carlevaris, keyboardist/vocalist Dylan Gamble, and drummer Mark Henein. James Plotkin mastered the new material.
 
 *Previous Dream* follows up on the band's 2021 LP *RIDE*.
 
