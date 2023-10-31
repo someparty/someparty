@@ -24,7 +24,7 @@ Woolworm features Giles Roy on guitars and vocals, guitarist Alex Pomeroy, bassi
 
 I attended the Polaris gala last week. It was a fine-tuned event with a well-deserved outcome for the ultimate winner [Haviah Mighty](https://haviahmighty.ca/). As always, I did my best to stay out of the way. As a random shlub with an unremarkable newsletter, I try not to draw too much attention from Toronto's cultural elite, particularly while I'm trying to sneak their hors d'oeuvres. While every nominees' performance was enjoyable, I'm not sure I found any as singularly thrilling as last year's gleefully anarchic blowout from [Hubert Lenoir](https://hubertlenoir.bandcamp.com/).
 
-The Quebec glam rock upstart returned last week with a new single, a collaboration with Australia's androgynous alt-pop icon [Kirin J. Callinan](kirinjcallinan.bandcamp.com). Titled (in lower case) "hunny bunny," the track came paired with a 16mm video chronicling the love lives of vampire skateboarders. Gabriel Lapointe and Noémie D. Leclerc directed the clip.
+The Quebec glam rock upstart returned last week with a new single, a collaboration with Australia's androgynous alt-pop icon [Kirin J. Callinan](https://kirinjcallinan.bandcamp.com). Titled (in lower case) "hunny bunny," the track came paired with a 16mm video chronicling the love lives of vampire skateboarders. Gabriel Lapointe and Noémie D. Leclerc directed the clip.
 
 Speaking to [The Fader](https://www.thefader.com/2019/09/19/hubert-lenoir-kirin-j-callinan-hunny-bunny-music-video), Lenoir commented on the song:
 

@@ -56,7 +56,7 @@ The nine-song full-length lands July 8 through [Tin Angel Records](https://tinan
 ###[The Burning Hell](http://www.wearetheburninghell.com/): "Nigel the Gannet"
 ==Watch on [Youtube](https://youtu.be/ST4BCEu88po) - Preview and purchase at [Bandcamp](https://theburninghell.bandcamp.com/track/nigel-the-gannet-3)==
 
-[The Burning Hell](http://www.wearetheburninghell.com/) recently issued "Nigel The Gannet," the third single from their forthcoming *Garbage Island* LP. The quirky track arrived alongside a video painted and animated by the band's [Arial Sharratt](www.arielsharratt.com) (her first foray into animation). The group commented:
+[The Burning Hell](http://www.wearetheburninghell.com/) recently issued "Nigel The Gannet," the third single from their forthcoming *Garbage Island* LP. The quirky track arrived alongside a video painted and animated by the band's [Arial Sharratt](https://www.arielsharratt.com) (her first foray into animation). The group commented:
 
 >"You may have heard this song in our live shows over the last couple of years, but it's finally taking off! We recorded Nigel originally in 2019, and a version came out on [the limited edition lathe-cut EP] *Birdwatching on Garbage Island*. It's here now, re-mixed, re-jigged, and with some new treats and finally out for everyone to hear."
 
