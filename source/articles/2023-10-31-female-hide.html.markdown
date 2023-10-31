@@ -2,7 +2,7 @@
 title: Female Hide
 date: 2023-10-31
 author: adam@someparty.ca (Adam White)
-description: Spooky (and otherwise) sounds from Penny Diving, Surveillance, Matthew "Doc" Dunn, Ducks Ltd., 86 It, Jacob Barber, Phane, Wasting Time, Expanda Fuzz, No Waves, Innes Wilson's Freightliner, Needle Crafts, Christopher Sleightholm, Empty Nesters, and Big Thyme
+description: Spooky (and otherwise) sounds from Penny Diving, Surveillance, Matthew "Doc" Dunn, Ducks Ltd., 86 It, Jacob Barber, Phane, Wasting Time, Expanda Fuzz, No Waves, Innes Wilson's Freightliner, GAZM, Needle Crafts, Christopher Sleightholm, Empty Nesters, and Big Thyme
 ---
 
 ###[Penny Diving](https://pennydiving.bandcamp.com): "Female Hide"
@@ -10,7 +10,7 @@ description: Spooky (and otherwise) sounds from Penny Diving, Surveillance, Matt
 
 Montreal post-punk act [Penny Diving](https://pennydiving.bandcamp.com) unleashed a new EP this week. The compelling *Dirty Pets* follows the band's 2020 [Hands and Moment](https://handsandmoment.com/) full-length *Big Inhale*, and I'm thrilled to help debut the video for the lead single, "Female Hide." The group worked with [PRIORS](https://priorsmtl.bandcamp.com/)' Alan Hildebrandt of [Studio Del Scorpio](https://www.studiodelscorpio.com/) on the stylish short (we've seen his work before for bands like Taxi Girls, FRVITS, and NOBRO). You can check it out on YouTube. The video's swirl of dreamlike surrealism and spooky effects made it rather ideally suited for a Halloween premiere.
 
-The classic sound and style of both Sonic Youth and The Breeders resonate throughout *Dirty Pets*, yet the four-songs never veer too far into nostalgia. The band contrasted their new material with their earlier work in a statement, noting:
+The classic sound and style of both Sonic Youth and The Breeders resonate throughout *Dirty Pets*, yet the four songs never veer too far into nostalgia. The band contrasted their new material with their earlier work in a statement, noting:
 
 >"Whereas *Big Inhale* was introspective and dreamy, *Dirty Pets* awakes from subdued slumber. The music tugs at your ribcage, while the lyrics take aim at social status and class alienation. The overarching themes of female subordination and classist beliefs are conveyed through the lens of 4 female protagonists, present within each song."
 
@@ -71,7 +71,7 @@ The new collection follows up on last year's *Everyday Is* EP.
 
 [Jacob Barber](https://jacobbarber.bandcamp.com/), Sarnia's master of 60s-styled psychedelia, recently issued a new 7" single. The set features "Show Me The Way Home" backed by "I Can't Help But Wonder," with each track boasting a gleefully anachronistic (yet bafflingly authentic) take on the era. You can find the audio on Bandcamp or pick it up on a 7" from the artist.
 
-Barber recorded and mixed the new material from home with the aforementioned Asher Gould-Murtagh ([Mr. Joy](https://mrjoy.bandcamp.com/)) mastering. The material follows the *Floating Nowhere* LP, issued through [Glue Gun Records](https://gluegunrecords.bandcamp.com) in the fall of 2021. This past August, Barber shared a single titled "We're One With the Stars" to preview a forthcoming album of the same name. I'm unsure where that project resides, but the previously announced release date's come and gone.
+Barber recorded and mixed the new material from home with the aforementioned Asher Gould-Murtagh ([Mr. Joy](https://mrjoy.bandcamp.com/)) mastering. The material follows the *Floating Nowhere* LP, issued through [Glue Gun Records](https://gluegunrecords.bandcamp.com) in the fall of 2021. This past August, Barber shared a single titled "We're One With the Stars" to preview a forthcoming album of the same name. I'm unsure where that project resides, but the previously announced release date has come and gone.
 
 In recent years, Barber's fronted [Dream Seer](https://dreamseer.bandcamp.com) and the psych-rockers [Bad Habit](https://bad-habit.bandcamp.com). Over the past few months, he's performed with [The Adventurines](https://www.instagram.com/theaventurinesband/), recently taking part in the 6th annual [Oscillitarium Music Lab](https://www.instagram.com/theoscillitarium/) on Wolfe Island.
 
@@ -134,6 +134,15 @@ Guelph singer-songwriter [Innes Wilson](https://inneswilson.bandcamp.com/) recen
 The track follows April's five-song *II* EP and last year's self-titled debut. It features Wilson on lead vocals and tenor guitar, R. P. McMurphy on guitars, bass, and organ, and Joshua Osmond on drums and percussion. Richie Gregor recorded and mixed the set, with Heather Kirby mastering at Dreamlands. Back in the lockdown era, Wilson issued several collections of frustrated pop-punk tunes as [Part-Time Cool](https://parttimecool.bandcamp.com).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2410344019/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://inneswilson.bandcamp.com/album/county-fair-queen">County Fair Queen by Freightliner</a></iframe>
+
+###[GAZM](https://gazmmtl.bandcamp.com/): *Fuck You II*
+==Preview and purchase at [Bandcamp](https://gazmmtl.bandcamp.com/album/fuck-you-ii)==
+
+I awoke Halloween morning to find a new EP [GAZM](https://gazmmtl.bandcamp.com/) lurking in my inbox, and how could I let this edition slip by without a last-second addition of what may very well be Montreal's evilest band? *Fuck You II* showcases five full-throttle songs from the grimy, metal-tinged hardcore quartet. You can find it at Bandcamp.
+
+*Fuck You II* follows GAZM's 2019 LP *Heavy Vibe Music*. Pillea's Micah Brown recorded and mixed the set, with mastering by Brad Boatright.
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2690396542/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://gazmmtl.bandcamp.com/album/fuck-you-ii">Fuck You II by GAZM</a></iframe>
 
 ###[Needle Crafts](https://needlecrafts.bandcamp.com/): *Frow'd Up*
 ==Preview and purchase at [Bandcamp](https://needlecrafts.bandcamp.com/album/frowd-up)==
