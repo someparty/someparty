@@ -9,13 +9,13 @@ I named this project after a Constantines song that addresses the music industry
 
 Some Party's based in Niagara Falls, Ontario, within the lands addressed by Treaty 381.
 
-You can contact me through email at [adam@someparty.ca](mailto:adam@someparty.ca). You're free to add me to your mailing lists, PR folk, but note that the mission statement of this publication precludes me from writing about bands from North Dakota and the like. I have a thoroughly uninteresting presence on [Instagram](https://www.instagram.com/adamwhite/) should you wish to find me there. My [Twitter](https://twitter.com/adamwhite) account is currently unmonitored and inactive.
+You can contact me through email at [adam@someparty.ca](mailto:adam@someparty.ca). You're free to add me to your mailing lists, PR folk, but note that the mission statement of this publication precludes me from writing about bands from North Dakota and the like. I have a thoroughly uninteresting presence on [Instagram](https://www.instagram.com/adamwhite/) should you wish to find me there. My past social media accounts have all been left fallow.
 
 ##Why Canada?
 
-In 1972 the CBC's Peter Gzowski challenged listeners to complete the saying "as Canadian as..." (a counterpart to "as American as apple pie"). The winning submission, from Heather Scott, read "as Canadian as possible, under the circumstances."
+In 1972, the CBC's Peter Gzowski challenged listeners to complete the saying "as Canadian as..." (a counterpart to "as American as apple pie"). The winning submission, from Heather Scott, read "as Canadian as possible, under the circumstances."
 
-Some Party's mission is similarly dispassionate and ultimately pragmatic. I focus on this county not to celebrate it, but to explore the bonds forged between disparate local music scenes linked by little else than an inconvenient southern border. These are the lines we draw and the connections we make under the circumstances of where we just happen to be.
+Some Party's mission is similarly dispassionate and ultimately pragmatic. I focus on this county not to celebrate it but to explore the bonds forged between disparate local music scenes linked by little else than an inconvenient southern border. These are the lines we draw and the connections we make under the circumstances of where we just happen to be.
 
 ##Archives
 

@@ -3,7 +3,7 @@ title: "Acknowledgements"
 layout: page
 ---
 
-The photo in the background of the Some Party header was taken by [Courtney Michaud](http://www.courtneymichaudphotography.com/). It's of [The Beverleys](https://thebeverleys.bandcamp.com/) playing an [IndoorShoes](http://www.warehouseniagara.com/indoorshoes/) show at the Detour Music Hall in St. Catharines, Ontario on March 28, 2014.
+The photo in the background of the Some Party header was taken by [Courtney Michaud](https://www.courtneymichaudphotography.com/). It's of [The Beverleys](https://thebeverleys.bandcamp.com/) playing an [IndoorShoes](http://www.warehouseniagara.com/indoorshoes/) show at the Detour Music Hall in St. Catharines, Ontario on March 28, 2014.
 
 [Jordan Versluis](https://www.jordanversluis.net/) designed the Some Party logo.
 
