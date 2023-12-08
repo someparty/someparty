@@ -151,6 +151,8 @@ GEM
       ffi (~> 1.9)
     servolux (0.13.0)
     temple (0.10.2)
+    terser (1.1.20)
+      execjs (>= 0.3.0, < 3)
     thor (1.2.2)
     tilt (2.0.11)
     toml (0.3.0)
@@ -185,6 +187,7 @@ DEPENDENCIES
   rexml (>= 3.2.5)
   rubocop
   rubocop-rails
+  terser
   tzinfo-data
   wdm (~> 0.1.0)
 
