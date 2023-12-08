@@ -37,39 +37,12 @@
     </style>
 
     <script type="module">
-        import { Application, Controller } from "https://unpkg.com/@hotwired/stimulus/dist/stimulus.js"
-        window.Stimulus = Application.start()
+      import { Application } from "https://unpkg.com/@hotwired/stimulus/dist/stimulus.js"
+      import ShareController from "./javascripts/controllers/share_controller.js"
 
-        Stimulus.register("share", class extends Controller {
-          static targets = [ "container" ]
-
-          connect() {
-            const containerEl = this.containerTarget
-            const canonicalLink = document.getElementById('canonical')
-            let link = `${document.location.origin}${document.location.pathname}`
-
-            if(canonicalLink) {
-              link = canonicalLink.href
-            }
-
-            const anchor = this.element.previousElementSibling.id
-            if(anchor) {
-              let anchorLink = `${link}#${anchor}`
-
-              var shareLink = document.createElement('a')
-              shareLink.classList.add("black","no-underline","fw4","bb","b--black")
-              var linkText = document.createTextNode("Link here")
-              shareLink.appendChild(linkText)
-              shareLink.title = "Link directly to this section of the newsletter"
-              shareLink.href = anchorLink
-
-              containerEl.innerHTML = " - "
-              containerEl.appendChild(shareLink)
-            }
-
-          }
-        })
-      </script>
+      window.Stimulus = Application.start()
+       Stimulus.register("share", ShareController)
+    </script>
   </head>
   <body class="f3 ma0 fw3">
 
