@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'fastimage'
+require 'terser'
 
 # Starting with an environment variable of 'email' will trigger emails style
 # markdown rendering
@@ -102,7 +103,7 @@ configure :build do
   activate :minify_html
 
   # Minify Javascript on build
-  activate :minify_javascript
+  activate :minify_javascript, compressor: Terser.new
 
   activate :gzip
 
