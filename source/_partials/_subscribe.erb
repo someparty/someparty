@@ -1,8 +1,28 @@
 
-<form action="https://tinyletter.com/someparty" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/someparty', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true" class="mt3">
-  <input type="hidden" value="1" name="embed"/>
+<form class="mt3">
   <div class="flex">
-    <input type="text" name="email" id="tlemail" class="bn f6 f5-ns pl2 lh-copy h2 mr2 fg1" placeholder="you@domain.ca" />
-    <input type="submit" value="Sign me Up" class="bn ttu white bg-red dim f5 ph3 lh-copy h2" />
+    <input type="text" name="email" id="email" class="bn f6 f5-ns pl2 lh-copy h2 mr2 fg1" placeholder="you@domain.ca" />
+    <input type="submit" onclick="submitForm(event)" value="Sign me Up" class="bn ttu white bg-red dim f5 ph3 lh-copy h2" />
   </div>
 </form>
+<script>
+function submitForm(event) {
+    event.preventDefault();
+
+    var formData = {
+        email: document.getElementById("email").value
+    };
+
+    fetch('https://api.someparty.ca/some_party_subscribe', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData),
+    })
+    .then(response => response.json())
+    .then(data => console.log('Success:', data))
+    .catch(error => console.error('Error:', error));
+}
+</script>
+
