@@ -38,10 +38,12 @@
 
     <script type="module">
       import { Application } from "https://unpkg.com/@hotwired/stimulus/dist/stimulus.js"
-      import ShareController from "./javascripts/controllers/share_controller.js"
+      import ShareController from "/javascripts/controllers/share_controller.js"
+      import SubscribeController from "/javascripts/controllers/subscribe_controller.js"
 
       window.Stimulus = Application.start()
-       Stimulus.register("share", ShareController)
+      Stimulus.register("share", ShareController)
+      Stimulus.register("subscribe", SubscribeController)
     </script>
   </head>
   <body class="f3 ma0 fw3">
