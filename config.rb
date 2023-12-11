@@ -90,6 +90,8 @@ set :url_root, 'https://www.someparty.ca'
 activate :search_engine_sitemap
 activate :meta_tags
 
+set :build_dir, 'dispatch' if medium == :email
+
 # Build-specific configuration
 configure :build do
   activate :robots,
@@ -105,7 +107,7 @@ configure :build do
   # Minify Javascript on build
   activate :minify_javascript, compressor: Terser.new
 
-  activate :gzip
+  activate :gzip unless medium == :email
 
   after_build do |_builder|
     FileUtils.cp_r 'public/.', 'build'

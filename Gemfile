@@ -11,6 +11,7 @@ gem 'tzinfo-data', platforms: %i[mswin mingw jruby]
 # Middleman Gems
 
 gem 'activesupport'
+gem 'aws-sdk'
 gem 'builder', '~> 3.0' # For feed.xml
 gem 'fastimage'
 gem 'kramdown', '>= 2.3.1'
