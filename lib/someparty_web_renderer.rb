@@ -14,7 +14,7 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     doc = remove_iframe_src(doc)
 
     method = find_matching_method(raw_html)
-    method ? method.call(doc) : lazyload_iframe_default
+    method ? method.call(doc) : lazyload_iframe_default(doc)
   end
 
   def remove_iframe_src(doc)
