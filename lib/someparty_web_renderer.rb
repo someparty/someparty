@@ -5,71 +5,127 @@ require 'active_support/core_ext/string/inflections'
 
 # Extends the Redcarpet Markdown parser to generate Tachyons style CSS markup
 class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
+  # The lazyload class triggers the lazysizes.js loader to prevent all media
+  # from loading on page load. The src in an iframe has to be replaced with
+  # data-src for this library to work.
+
   def block_html(raw_html)
     doc = Nokogiri::HTML(raw_html)
+    doc = remove_iframe_src(doc)
 
-    # The lazyload class triggers the lazysizes.js loader to prevent all media
-    # from loading on page load. The src in an inframe has to be replaced with
-    # data-src as well.
+    method = find_matching_method(raw_html)
+    method ? method.call(doc) : lazyload_iframe_default
+  end
 
+  def remove_iframe_src(doc)
     doc.search('iframe').each do |iframe|
       iframe['data-src'] = iframe['src']
       iframe.remove_attribute('src')
     end
+    doc
+  end
 
-    if raw_html.include? 'youtube'
-      doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
-             doc.to_html)
-    elsif raw_html.include? 'facebook'
-      doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
-             doc.to_html)
-    elsif raw_html.include? 'brightcove'
-      doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
-             doc.to_html)
-    elsif raw_html.include? 'vimeo'
-      doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
-             doc.to_html)
-    elsif raw_html.include? 'instagram'
-      doc.css('blockquote').add_class('dib tl')
-      doc.css('iframe').add_class('lazyload')
-      format("<div class='center tc media'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
-    elsif raw_html.include? 'twitter-tweet'
-      doc.css('blockquote').add_class('dib tl')
-      doc.css('iframe').add_class('lazyload')
-      format(
-        "<div class='wide-media media'><div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div></div>", doc.to_html
-      )
-    elsif raw_html.include? 'bandcamp'
-      doc.css('iframe').add_class('lazyload')
-      # Bandcamp's narrow player doesn't center nicely with the provided inline styles
-      if raw_html.include? 'border: 0; width: 100%; height: 120px;'
-        doc.at_css('iframe').set_attribute('style', 'border: 0; width: 700px; max-width: 100%; height: 120px;')
-      end
-      format("<div class='center tc media'>%s</div>", doc.to_html)
-    elsif raw_html.include? 'cbc'
-      if raw_html.include? 'data-no-video=1'
-        doc.css('iframe').add_class('lazyload')
-        format("<div class='center tc media'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
-      else
-        doc.css('iframe').add_class('aspect-ratio--object lazyload')
-        format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
-               doc.to_html)
-      end
-    elsif raw_html.include? 'npr.org'
-      doc.css('iframe').add_class('aspect-ratio--object lazyload')
-      format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
-             doc.to_html)
-    elsif raw_html.include? 'soundcloud'
-      doc.css('iframe').add_class('lazyload')
-      format("<div class='wide-media media'><div class='center tc'>%s</div></div>", doc.to_html)
-    else
-      doc.css('iframe').add_class('lazyload')
-      format("<div class='center tc media'>%s</div>", doc.to_html)
+  def find_matching_method(raw_html)
+    iframe_method_mapping.each do |keywords, method|
+      return method if keywords.all? { |keyword| raw_html.include? keyword }
     end
+    nil
+  end
+
+  def iframe_method_mapping
+    {
+      ['youtube'] => method(:lazyload_youtube),
+      ['facebook'] => method(:lazyload_facebook),
+      ['brightcove'] => method(:lazyload_britecove),
+      ['vimeo'] => method(:lazyload_vimeo),
+      ['instagram'] => method(:lazyload_instagram),
+      ['twitter-tweet'] => method(:lazyload_twitter),
+      ['bandcamp', 'border: 0; width: 100%; height: 120px;'] => method(:lazyload_bandcamp_narrow),
+      ['bandcamp'] => method(:lazyload_bandcamp),
+      ['cbc', 'data-no-video=1'] => method(:lazyload_cbc),
+      ['cbc'] => method(:lazyload_cbc_video),
+      ['npr.org'] => method(:lazyload_npr),
+      ['soundcloud'] => method(:lazyload_soundcloud)
+    }
+  end
+
+  def lazyload_iframe_default(doc)
+    doc.css('iframe').add_class('lazyload')
+    format("<div class='center tc media'>%s</div>", doc.to_html)
+  end
+
+  def lazyload_soundcloud(doc)
+    doc.css('iframe').add_class('lazyload')
+    format("<div class='wide-media media'><div class='center tc'>%s</div></div>", doc.to_html)
+  end
+
+  def lazyload_youtube(doc)
+    doc.css('iframe').add_class('aspect-ratio--object lazyload')
+    format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+           doc.to_html)
+  end
+
+  def lazyload_facebook(doc)
+    doc.css('iframe').add_class('aspect-ratio--object lazyload')
+    format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+           doc.to_html)
+  end
+
+  def lazyload_britecove(doc)
+    doc.css('iframe').add_class('aspect-ratio--object lazyload')
+    format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+           doc.to_html)
+  end
+
+  def lazyload_instagram(doc)
+    doc.css('blockquote').add_class('dib tl')
+    doc.css('iframe').add_class('lazyload')
+    format("<div class='center tc media'><div class='dib tl w-100 maxread'>%s</div></div>",
+           doc.to_html)
+  end
+
+  def lazyload_vimeo(doc)
+    doc.css('iframe').add_class('aspect-ratio--object lazyload')
+    format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+           doc.to_html)
+  end
+
+  def lazyload_twitter(doc)
+    doc.css('blockquote').add_class('dib tl')
+    doc.css('iframe').add_class('lazyload')
+    format(
+      "<div class='wide-media media'><div class='center tc'><div class='dib tl w-100 maxread'>%s</div></div></div>",
+      doc.to_html
+    )
+  end
+
+  def lazyload_cbc_video(doc)
+    doc.css('iframe').add_class('aspect-ratio--object lazyload')
+    format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+           doc.to_html)
+  end
+
+  def lazyload_cbc(doc)
+    doc.css('iframe').add_class('lazyload')
+    format("<div class='center tc media'><div class='dib tl w-100 maxread'>%s</div></div>", doc.to_html)
+  end
+
+  def lazyload_bandcamp(doc)
+    doc.css('iframe').add_class('lazyload')
+    format("<div class='center tc media'>%s</div>", doc.to_html)
+  end
+
+  def lazyload_bandcamp_narrow(doc)
+    doc.css('iframe').add_class('lazyload')
+    # Bandcamp's narrow player doesn't center nicely with the provided inline styles
+    doc.at_css('iframe').set_attribute('style', 'border: 0; width: 700px; max-width: 100%; height: 120px;')
+    format("<div class='center tc media'>%s</div>", doc.to_html)
+  end
+
+  def lazyload_npr(doc)
+    doc.css('iframe').add_class('aspect-ratio--object lazyload')
+    format("<div class='wide-media media'><div class='overflow-hidden aspect-ratio aspect-ratio--16x9'>%s</div></div>",
+           doc.to_html)
   end
 
   def block_quote(text)
