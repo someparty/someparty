@@ -116,7 +116,7 @@ Ivan Raczycki's Guelph-based folk act [Ivan Rivers](https://ivanrivers.bandcamp.
 
 The song, engineered by Jef Harrison at Era Sun Sound, features "Heavenly" Devin Staple of The Old Salts on guitar and Kara Lea Manovich (Ensign Broderick, Justin Rutledge) accompanying on vocals. The track arrives as a stand-alone waypoint on the road to a forthcoming EP produced by Raczycki's Stuck Out Here bandmate [Emmett O'Reilly](https://emmettoreilly.bandcamp.com).
 
-With the Toronto punk act [Stuck Out Here](https://stuckouthere.bandcamp.com/), Raczycki last *Until We're Each Someone Else* in 2019. A follow-up is reportedly in the works. Solo, Ivan Rivers last issued a pair of EPs as part of 2020 EPs, respectively titled *Drag My Corpse Through the Country Music Hall of Fame* and *There's No Such Luck*.
+With the Toronto punk act [Stuck Out Here](https://stuckouthere.bandcamp.com/), Raczycki last put out *Until We're Each Someone Else* in 2019. A follow-up is reportedly in the works. Solo, Ivan Rivers last issued a pair of 2020 EPs, respectively titled *Drag My Corpse Through the Country Music Hall of Fame* and *There's No Such Luck*.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=95199670/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://ivanrivers.bandcamp.com/track/poppy">Poppy by Ivan Rivers</a></iframe>
 
