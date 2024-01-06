@@ -1,6 +1,6 @@
 ---
 title: Lovely Electricity
-date: 2024-01-05
+date: 2024-01-06
 author: adam@someparty.ca (Adam White)
 description: Starting the year off right with new music from Rick White, Wet Pleather, Mutated Void, Y'Know (Uh Huh), Self Defense, Union Thugs, Défaillance, Spectres, Ducks Ltd., Cinder, Shiv and the Carvers, Sea Of Troubles, Transcendental Rodeo, and Friesen/Hume/Waters.
 ---
