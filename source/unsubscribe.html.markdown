@@ -1,6 +1,6 @@
 ---
 title: "Unsubscribe"
-layout: page
+layout: unsubscribe
 ---
 
 You've unsubscribed from emails from Some Party.

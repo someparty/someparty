@@ -36,6 +36,7 @@
       }
     </style>
 
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js" defer></script>
     <script type="module">
       import { Application } from "https://unpkg.com/@hotwired/stimulus/dist/stimulus.js"
       import ShareController from "/javascripts/controllers/share_controller.js"
@@ -78,7 +79,6 @@
     </header>
 
     <div id="main" role="main" class="overflow-hidden relative">
-      <%= partial '/_partials/unsubscribe' if current_page.path.match(/^unsubscribe/) %>
       <%= yield %>
     </div>
 

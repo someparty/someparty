@@ -7,7 +7,6 @@ export default class extends Controller {
     const params = new URLSearchParams(window.location.search);
     const email = params.get('email');
     const uuid = params.get('uuid');
-
     this.emailTarget.value = email;
     this.uuidTarget.value = uuid;
 
@@ -18,6 +17,9 @@ export default class extends Controller {
 
   submit(event) {
     event.preventDefault()
+
+    event.target.style.display = 'none'
+
     const emailEl = this.emailTarget
     const uuidEl = this.emailTarget
     const feedbackEl = this.feedbackTarget
@@ -37,7 +39,9 @@ export default class extends Controller {
     })
 
     .then(response => response.text())
-    .then(data => console.log('Unsubscribe Success:', data))
+    .then(data =>
+      swal("Unsubscribe Request Submitted", data, "success")
+    )
     .catch(error => console.error('Unsubscribe Error:', error))
   }
 }

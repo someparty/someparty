@@ -1,97 +1,82 @@
-# standalone.rb
 require 'optparse'
 require 'aws-sdk-ses'
-require 'nokogiri'
+require 'json'
+require 'date'
+require_relative 'newsletter_email'
 
-def html_to_text(html_content)
-  # Parse the HTML
-  doc = Nokogiri::HTML(html_content)
+def update_log_file(subject, recipient, response, status)
+  log_file_path = "log/send_log_#{Time.now.strftime('%Y-%m-%d')}.jsonl"
 
-  # Add line breaks before some block-level elements
-  %w[p div br h1 h2 h3 h4 h5 h6 li].each do |tag|
-    doc.search(tag).each do |t|
-      t.before("\n")
-    end
+  log_entry = {
+    subject: subject,
+    email: recipient['email'],
+    uuid: recipient['uuid'],
+    datestamp: DateTime.now.iso8601,
+    response:,
+    status:
+  }
+
+  File.open(log_file_path, 'a') do |f|
+    f.puts(log_entry.to_json)
+  end
+end
+
+def update_remaining_recipient_list(recipients_file, successful_sends, recipients)
+  puts "Successfully sent to #{successful_sends.count} of #{recipients.count} recipients."
+
+  successful_sends.each do |recipient|
+    recipients.reject! { |r| r['email'] == recipient }
   end
 
-  # Get the text content of the HTML document
-  doc.text.strip
+  # Write the remaining recipients back to the file, ideally none should be left.
+  File.write("tmp/#{recipients_file}", JSON.pretty_generate(recipients)) unless recipients_file == 'test.json'
 end
 
 options = {}
 OptionParser.new do |opts|
-  opts.banner = "Usage: send.rb [options]"
+  opts.banner = 'Usage: send.rb [options]'
 
-  opts.on("-pPATH", "--path=PATH", "Path to the HTML file") do |v|
+  opts.on('-pPATH', '--path=PATH', 'Path to the HTML file') do |v|
     options[:path] = v
   end
+
+  opts.on('-rRECIPIENTS', '--recipients=RECIPIENTS', 'Recipients file') do |v|
+    options[:recipients] = v
+  end
+
+  options[:recipients] ||= 'test.json'
 end.parse!
 
 raise OptionParser::MissingArgument if options[:path].nil?
 
-file_path = File.join(__dir__, 'dispatch', options[:path], 'index.html')
+newsletter = NewsletterEmail.new(options[:path])
+recipients = JSON.parse(File.read("tmp/#{options[:recipients]}"))
 
-html_content = File.read(file_path)
-text_content = html_to_text(html_content)
-
-# Initialize the SES client
-ses = Aws::SES::Client.new(region: 'ca-central-1') # replace with your region
-
-# Define the template parameters
-template_name = 'Newsletter' # replace with your template name
-template_params = {
-  template: {
-    template_name: template_name,
-    subject_part: 'Some Party: {{article_title}}',
-    html_part: '{{html_body}} to unsubscribe use {{email}} and {{uuid}}',
-    text_part: '{{text_body}} to unsubscribe use {{email}} and {{uuid}}'
-  }
-}
-
-# Create or update the template
-begin
-  ses.get_template(template_name: template_name)
-  ses.update_template(template: template_params[:template])
-rescue Aws::SES::Errors::TemplateDoesNotExist
-  ses.create_template(template: template_params[:template])
+if recipients.empty?
+  puts "Error: No recipients found in tmp/#{options[:recipients]} Do you need to re-dump the subscriber list?"
+  exit
 end
 
-# The message may not include more than 50 recipients, across the To:, CC: and BCC: fields. If you need to send an email message to a larger audience, you can divide your recipient list into groups of 50 or fewer, and then call the SendBulkTemplatedEmail operation several times to send the message to each group.
+successful_sends = []
 
-# Define the email parameters
-email_params = {
-  source: 'adam@someparty.ca',
-  destinations: [
+ses = Aws::SES::Client.new(region: 'ca-central-1')
+
+recipients.each_with_index do |recipient, index|
+  puts "Sending to #{index + 1} of #{recipients.count}: #{recipient['email']}"
+
+  response = ses.send_raw_email(
     {
-      destination: {
-        to_addresses: ['adam+test@someparty.ca'],
-      },
-      replacement_template_data: %({
-        "email": "adam+test@someparty.ca",
-        "uuid": "12345678-1234-1234-1234-123456789012"
-      })
+      source: 'adam@someparty.ca',
+      raw_message: { data: newsletter.raw_message(recipient) },
+      destinations: [recipient['email']]
     }
-  ],
-  template: 'Newsletter',
-  default_template_data: %({
-    "html_body": #{html_content.to_json},
-    "text_body": #{text_content.to_json},
-    "article_title": "Test Email 2"
-  })
-}
+  )
 
-puts  %({
-  "html_body": #{html_content.to_json},
-  "text_body": #{text_content.to_json},
-  "article_title": "Test Email 2"
-})
-
-puts 'Sending email...'
-
-begin
-  response = ses.send_bulk_templated_email(email_params)
-  puts response
-rescue Aws::SES::Errors::ServiceError => error
-  puts "Email not sent: #{error.message}"
+  update_log_file(newsletter.subject, recipient, response.message_id, 'Success')
+  successful_sends << recipient['email']
+rescue Aws::SES::Errors::ServiceError => e
+  update_log_file(newsletter.subject, recipient, e.message, 'Error')
+  puts "Error sending to #{recipient['email']}: #{e.message}"
 end
 
+update_remaining_recipient_list(options[:recipients], successful_sends, recipients)
