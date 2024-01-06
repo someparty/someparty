@@ -3,7 +3,7 @@ title: "About Some Party"
 layout: page
 ---
 
-Some Party is an email newsletter sharing updates on independent Canadian rock music, curated and produced entirely as a solo project by Adam White. You may know me from 20-odd years as a [Punknews.org](https://www.punknews.org) writer and editor or more recently as a [Polaris Music Prize](https://polarismusicprize.ca/) jurist. I compile and deliver the email (more or less) weekly.
+Some Party is an email newsletter sharing updates on independent Canadian rock music, curated and produced entirely as a solo project by Adam White. You may know me from 20-odd years as a [Punknews.org](https://www.punknews.org) writer and editor or more recently as a [Polaris Music Prize](https://polarismusicprize.ca/) jurist.
 
 I named this project after a Constantines song that addresses the music industry from an outsider's perspective. Steve kindly gave me his retroactive blessing to use the name, not that I gave him much of a choice. Perhaps he was just being nice.
 
@@ -28,6 +28,7 @@ I've published Some Party's more-or-less weekly since May of 2017. You can explo
 * [2021](/2021/)
 * [2022](/2022/)
 * [2023](/2023/)
+* [2023](/2024/)
 * [Some Kicks Radio playlist (2020)](/some-kicks)
 
 ##Acknowledgements
