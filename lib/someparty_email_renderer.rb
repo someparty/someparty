@@ -71,6 +71,6 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
 
   def highlight(text)
     # I'm hijacking highlight to use it to render the media links header line below H3s
-    format('<strong><small>%s</small></strong>', text)
+    format('<div><strong><small>%s</small></strong></div>', text)
   end
 end

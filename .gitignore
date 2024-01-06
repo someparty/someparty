@@ -12,6 +12,7 @@
 /dispatch
 _site/
 /tmp
+/log
 
 # Ignore cache
 /.sass-cache
