@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'cgi'
 require 'nokogiri'
 
 # Processes the Middeleman generated HTML of a newsletter article
@@ -31,13 +32,16 @@ class NewsletterEmail
   def raw_message(recipient)
     boundary = SecureRandom.hex
 
+    url_email = CGI.escape(recipient['email'])
+    url_uuid = CGI.escape(recipient['uuid'])
+
     <<~RAW_EMAIL
       From: "Adam White" <adam@someparty.ca>
       To: #{recipient['email']}
       Subject: Some Party: #{@subject}
       MIME-Version: 1.0
       Content-type: multipart/alternative; boundary="#{boundary}"
-      List-Unsubscribe: <https://api.someparty.ca/some_party_unsubscribe?email=#{recipient['email']}&uuid=#{recipient['uuid']}>
+      List-Unsubscribe: <https://api.someparty.ca/some_party_unsubscribe?email=#{url_email}&uuid=#{url_uuid}>
       List-Unsubscribe-Post: List-Unsubscribe=One-Click
 
       --#{boundary}
@@ -51,7 +55,7 @@ class NewsletterEmail
       7695 Blackburn Parkway, Niagara Falls, Ontario L2H 0A6\n
       Content licensed under CC BT 4.0 (http://creativecommons.org/licenses/by/4.0/)\n
       Source code available under an MIT License at GitHub (https://github.com/someparty/someparty)\n\n
-      Sent to #{recipient['email']} - Unsubscribe: https://www.someparty.ca/unsubscribe?email=#{recipient['email']}&uuid=#{recipient['uuid']}
+      Sent to #{recipient['email']} - Unsubscribe: https://www.someparty.ca/unsubscribe?email=#{url_email}&uuid=#{url_uuid}
 
       --#{boundary}
       Content-type: text/html; charset="UTF-8"
@@ -72,7 +76,7 @@ class NewsletterEmail
             7695 Blackburn Parkway, Niagara Falls, Ontario L2H 0A6<br/>
             Content licensed under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><br/>
             Source code available at <a href="https://github.com/someparty/someparty">GitHub</a><br/><br/>
-            Sent to #{recipient['email']} - <a href="https://www.someparty.ca/unsubscribe?email=#{recipient['email']}&uuid=#{recipient['uuid']}">Unsubscribe</a>
+            Sent to #{recipient['email']} - <a href="https://www.someparty.ca/unsubscribe?email=#{url_email}&uuid=#{url_uuid}">Unsubscribe</a>
           </div></small>
         </body>
       </html>

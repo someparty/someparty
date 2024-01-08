@@ -2,11 +2,24 @@ require 'aws-sdk-dynamodb'
 require 'json'
 require 'aws-sdk-cloudwatchlogs'
 
+def valid_email?(email)
+  # Simple regex to validate email format
+  email =~ /\A[\w+\-.]+@[a-z\d\-]+(\.[a-z\d\-]+)*\.[a-z]+\z/i
+end
+
 def lambda_handler(event:, context:)
   # The email and uuid may be in the query string if using a One-Click Unsubscribe link
   body = event['body'] ? JSON.parse(event['body']) : {}
   email = body['email'] || event['queryStringParameters']['email']
   uuid = body['uuid'] || event['queryStringParameters']['uuid']
+
+  # Validate email format
+  unless valid_email?(email)
+    return {
+      statusCode: 400,
+      body: "Invalid email format"
+    }
+  end
 
   dynamo_db = Aws::DynamoDB::Client.new(region: 'ca-central-1')
   table_name = 'some_party_subscribers'

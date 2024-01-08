@@ -17,42 +17,47 @@ export default class extends Controller {
         uuid: uuid
     }
 
-    const result = await Swal.fire({
-      title: "Confirm Unsubscribe",
-      text: `Please confirm that you'd like unsubscribe ${email} from the newsletter?`,
-      showDenyButton: true,
-      showCancelButton: false,
-      confirmButtonText: "Yes, Unsubscribe Me",
-      denyButtonText: `Nevermind`,
-      icon: 'question'
-    })
+    console.dir(email)
 
-    if (result.isConfirmed) {
-      Swal.fire({
-        title: "Please wait",
-        html: spinner,
-        showCloseButton: false,
+    // Swal is loaded with defer so wait for the DOM to be ready
+    document.addEventListener('DOMContentLoaded', async (event) => {
+      const result = await Swal.fire({
+        title: "Confirm Unsubscribe",
+        text: `Please confirm that you'd like unsubscribe ${email} from the newsletter?`,
+        showDenyButton: true,
         showCancelButton: false,
-        showConfirmButton: false,
-        allowOutsideClick: false
+        confirmButtonText: "Yes, Unsubscribe Me",
+        denyButtonText: `Nevermind`,
+        icon: 'question'
       })
 
-      try {
-        const response = await fetch('https://api.someparty.ca/some_party_unsubscribe', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify(formData),
+      if (result.isConfirmed) {
+        Swal.fire({
+          title: "Please wait",
+          html: spinner,
+          showCloseButton: false,
+          showCancelButton: false,
+          showConfirmButton: false,
+          allowOutsideClick: false
         })
 
-        const data = await response.text()
-        await Swal.fire("Unsubscribe Request Submitted", data, "success")
-      } catch (error) {
-        await Swal.fire("Unsubscribe Error", error, "error")
+        try {
+          const response = await fetch('https://api.someparty.ca/some_party_unsubscribe', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(formData),
+          })
+
+          const data = await response.text()
+          await Swal.fire("Unsubscribe Request Submitted", data, "success")
+        } catch (error) {
+          await Swal.fire("Unsubscribe Error", error, "error")
+        }
+      } else if (result.isDenied) {
+        Swal.fire("Unsubscribe cancelled", "You're still subscribed to Some Party.", "info")
       }
-    } else if (result.isDenied) {
-      Swal.fire("Unsubscribe cancelled", "You're still subscribed to Some Party.", "info")
-    }
+    })
   }
 }

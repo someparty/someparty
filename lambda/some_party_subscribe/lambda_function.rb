@@ -3,9 +3,22 @@ require 'securerandom'
 require 'json'
 require 'aws-sdk-cloudwatchlogs'
 
+def valid_email?(email)
+  # Simple regex to validate email format
+  email =~ /\A[\w+\-.]+@[a-z\d\-]+(\.[a-z\d\-]+)*\.[a-z]+\z/i
+end
+
 def lambda_handler(event:, context:)
   body = JSON.parse(event['body'])
   email = body['email']
+
+  # Validate email format
+  unless valid_email?(email)
+    return {
+      statusCode: 400,
+      body: "Invalid email format"
+    }
+  end
 
   dynamo_db = Aws::DynamoDB::Client.new(region: 'ca-central-1')
   table_name = 'some_party_subscribers'
