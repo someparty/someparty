@@ -46,7 +46,12 @@ class NewsletterEmail
 
       #{@text_content}
       \n\n
-      You can unsubscribe from this newsletter by visiting: https://www.someparty.ca/unsubscribe?email=#{recipient['email']}&uuid=#{recipient['uuid']}
+
+      Some Party by Adam White\n
+      7695 Blackburn Parkway, Niagara Falls, Ontario L2H 0A6\n
+      Content licensed under CC BT 4.0 (http://creativecommons.org/licenses/by/4.0/)\n
+      Source code available under an MIT License at GitHub (https://github.com/someparty/someparty)\n\n
+      Sent to #{recipient['email']} - Unsubscribe: https://www.someparty.ca/unsubscribe?email=#{recipient['email']}&uuid=#{recipient['uuid']}
 
       --#{boundary}
       Content-type: text/html; charset="UTF-8"
@@ -62,8 +67,12 @@ class NewsletterEmail
         </head>
         <body>
           #{@html_content}
-          <div style='text-align: center; margin-top: 1em; margin-bottom: 2em;'><small>
-            You can <a href="https://www.someparty.ca/unsubscribe?email=#{recipient['email']}&uuid=#{recipient['uuid']}">unsubscribe</a> from this newsletter at any time.
+          <div style='text-align: center; margin-top: 4em; margin-bottom: 2em; padding-left: 16px; padding-right: 16px; line-height: 1.3;'><small>
+            <a href="https://www.someparty.ca">Some Party</a> by Adam White<br/>
+            7695 Blackburn Parkway, Niagara Falls, Ontario L2H 0A6<br/>
+            Content licensed under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><br/>
+            Source code available at <a href="https://github.com/someparty/someparty">GitHub</a><br/><br/>
+            Sent to #{recipient['email']} - <a href="https://www.someparty.ca/unsubscribe?email=#{recipient['email']}&uuid=#{recipient['uuid']}">Unsubscribe</a>
           </div></small>
         </body>
       </html>

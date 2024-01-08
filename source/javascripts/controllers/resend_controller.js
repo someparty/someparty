@@ -29,7 +29,7 @@ export default class extends Controller {
     spinnerEl.innerHTML = spinner
     inputEl.style.display = 'none'
 
-    fetch('https://api.someparty.ca/some_party_subscribe', {
+    fetch('https://api.someparty.ca/some_party_resend', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
@@ -42,14 +42,14 @@ export default class extends Controller {
     .then(data => {
         spinnerEl.innerHTML = ''
         inputEl.style.display = ''
-        Swal.fire("You're on the list", data, "success")
+        Swal.fire("Unsubscribe Link Sent", "If you're a current subscriber, an email has been sent with your custom unsubscribe link.", "success")
       }
     )
     .catch(error => {
       console.error('Subscribe Error:', error)
       spinnerEl.innerHTML = ''
       inputEl.style.display = ''
-      Swal.fire("Error subscribing", "There was a problem confirming your subscription. Please try again.", "error")
+      Swal.fire("Error requesting the link", "There was a problem confirming your subscription. Please try again.", "error")
     })
   }
 }

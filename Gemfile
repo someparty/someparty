@@ -31,6 +31,7 @@ gem 'rubyzip'
 
 # as per https://forum.middlemanapp.com/t/uninitialized-constant-haml-options/4643/3
 gem 'haml', '>= 4.0.5', '< 6.0'
+gem 'debug'
 
 # development
 gem 'rubocop'
