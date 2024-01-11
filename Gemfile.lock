@@ -1665,6 +1665,7 @@ GEM
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 1.33.0, < 2.0)
+    ruby-limiter (2.3.0)
     ruby-progressbar (1.13.0)
     rubyzip (2.3.2)
     sassc (2.4.0)
@@ -1710,6 +1711,7 @@ DEPENDENCIES
   rexml (>= 3.2.5)
   rubocop
   rubocop-rails
+  ruby-limiter
   rubyzip
   terser
   tzinfo-data

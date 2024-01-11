@@ -1,8 +1,8 @@
 require 'optparse'
-require 'aws-sdk-ses'
 require 'json'
 require 'date'
 require_relative 'newsletter_email'
+require_relative 'email_sender'
 
 def update_log_file(subject, recipient, response, status)
   log_file_path = "log/send_log_#{Time.now.strftime('%Y-%m-%d')}.jsonl"
@@ -51,6 +51,7 @@ raise OptionParser::MissingArgument if options[:path].nil?
 
 newsletter = NewsletterEmail.new(options[:path])
 recipients = JSON.parse(File.read("tmp/#{options[:recipients]}"))
+email_sender = EmailSender.new
 
 if recipients.empty?
   puts "Error: No recipients found in tmp/#{options[:recipients]} Do you need to re-dump the subscriber list?"
@@ -58,20 +59,9 @@ if recipients.empty?
 end
 
 successful_sends = []
-
-ses = Aws::SES::Client.new(region: 'ca-central-1')
-
 recipients.each_with_index do |recipient, index|
   puts "Sending to #{index + 1} of #{recipients.count}: #{recipient['email']}"
-
-  response = ses.send_raw_email(
-    {
-      source: 'adam@someparty.ca',
-      raw_message: { data: newsletter.raw_message(recipient) },
-      destinations: [recipient['email']]
-    }
-  )
-
+  response = email_sender.send_email(recipient, newsletter)
   update_log_file(newsletter.subject, recipient, response.message_id, 'Success')
   successful_sends << recipient['email']
 rescue Aws::SES::Errors::ServiceError => e
