@@ -50,7 +50,7 @@
       Stimulus.register("subscribe", SubscribeController)
       Stimulus.register("unsubscribe", UnsubscribeController)
       Stimulus.register("resend", ResendController)
-</script>
+    </script>
   </head>
   <body class="f3 ma0 fw3">
     <%= partial '/_partials/premiere' if premiere_active && !current_page.path.match(/^premieres/) %>
