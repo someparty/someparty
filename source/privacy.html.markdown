@@ -5,16 +5,20 @@ layout: page
 
 I require your email address so I can send you this newsletter. That's it.
 
-I have no use for your email otherwise. You won't receive unsolicited marketing junk from me or anyone I'm affiliated with as a result of you subscribing to Some Party.
+I have no use for your email otherwise. Your subscription won't result in unsolicited marketing junk from me or anyone else.
 
-[Tiny Letter](http://tinyletter.com), a lightweight mailing list service owned by [MailChimp](https://mailchimp.com/), distributes the Some Party newsletter and houses the subscriber list. They have a detailed [privacy policy](http://tinyletter.com/site/legal/privacy/) of their own that explains how their system handles recipient emails (look for the "[Privacy for Contacts](https://mailchimp.com/legal/privacy/#3._Privacy_for_Contacts)" section). MailChimp is owned by Intuit.
+You're free to cancel your subscription to Some Party at any using the unsubscribe link available in the footer of every email. If you've lost that link, you can [request a new one](https://www.someparty.ca/unsubscribe). Upon unsubscription, your email address is removed entirely from my records.
 
-In short, they say they also won't sell your email address or utilize that information for anything other than the operation of the email list.
+Some Party emails do not include tracking mechanisms to determine if you've opened the message or clicked any links.
 
-You're free to unsubscribe from Some Party at any time. You can also avoid touching the 3rd party email service entirely by using the [Some Party RSS feed](/feed.xml) to roll your own. The contents of every newsletter will be shared there in full.
+My list of email subscribers is stored securely on cloud computing infrastructure provided by [Amazon AWS](https://aws.amazon.com/), specifically stored in their Montreal data centre (ca-central-1). Email is sent through [Amazon Simple Email Service](https://aws.amazon.com/ses/), operating from the same Canadian computing region. The mechanics of how I achieve that are visible in the Some Party source code, published at [GitHub](https://github.com/someparty/someparty) and available under an [MIT license](https://github.com/someparty/someparty/blob/main/LICENSE).
 
-The source code for Some Party is published at [GitHub](https://github.com/someparty/someparty) and is available under an [MIT license](https://github.com/someparty/someparty/blob/main/LICENSE). GitHub is a subsidiary of Microsoft.
+I host the Some Party website through [GitHub Pages](https://pages.github.com/), with the [complete source code](https://github.com/someparty/someparty) also available for anyone to see. GitHub is a subsidiary of Microsoft. Common Javascript libraries used by the site may be hosted at Content Delivery Networks like JsDelivr and Unpkg.
 
-Bands and labels rely on third-party companies to host audio and video. It's possible that some of the services I share media from (YouTube, SoundCloud, Bandcamp, Instagram, Twitter, Facebook, Vimeo, etc.) may include traffic measurement or tracking cookie mechanisms in their embedded media players. YouTube may also display advertising in their media player. Install an ad blocker or use a privacy-friendly web browser like Firefox if you're concerned about that sort of thing.
+The Some Party website does not use a third-party traffic measurement or analytics service. It should set no cookies.
 
-This website no longer utilizes a traffic measurement service and, as such, should set no cookies of its own.
+I fully acknowledge the hypocrisy that my efforts to run Some Party as a DIY, privacy-focused publication ultimately rely upon cloud infrastructure owned by Amazon and Microsoft.
+
+##Embedded Media
+
+Bands and labels rely on third-party companies to host audio and video. These services (YouTube, SoundCloud, Bandcamp, Instagram, Facebook, Vimeo, etc.) likely include traffic measurement and tracking cookie mechanisms in their embedded media players. YouTube may also display advertising in its media player. Install an ad blocker or use a privacy-focused web browser if you're concerned about that sort of thing.

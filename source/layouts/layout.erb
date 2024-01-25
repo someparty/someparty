@@ -36,16 +36,23 @@
       }
     </style>
 
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11" defer></script>
+
     <script type="module">
       import { Application } from "https://unpkg.com/@hotwired/stimulus/dist/stimulus.js"
       import ShareController from "/javascripts/controllers/share_controller.js"
+      import SubscribeController from "/javascripts/controllers/subscribe_controller.js"
+      import UnsubscribeController from "/javascripts/controllers/unsubscribe_controller.js"
+      import ResendController from "/javascripts/controllers/resend_controller.js"
 
       window.Stimulus = Application.start()
-       Stimulus.register("share", ShareController)
-    </script>
+      Stimulus.register("share", ShareController)
+      Stimulus.register("subscribe", SubscribeController)
+      Stimulus.register("unsubscribe", UnsubscribeController)
+      Stimulus.register("resend", ResendController)
+</script>
   </head>
   <body class="f3 ma0 fw3">
-
     <%= partial '/_partials/premiere' if premiere_active && !current_page.path.match(/^premieres/) %>
 
     <header class="mb4 ph3 bg-black someparty-back cover">

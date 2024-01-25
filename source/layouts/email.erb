@@ -1,23 +1,26 @@
 <!doctype html>
 <html>
   <head>
-    <style>
-      body {
-        max-width: 1000px;
-        margin: 0px auto;
-        font-size: 100%;
-      }
+    <title>Some Party: <%= current_article.title unless current_article.nil? %></title>
+    <style type="text/css">
+      <% css_path = sitemap.resources.select { |p| p.source_file.match(/email[.]css$/) }.first %>
+      <%= css_path.render %>
     </style>
   </head>
   <body>
-    <div><a href="https://www.someparty.ca<%= current_article.url unless current_article.nil? %>" target="_blank"><img alt="Some Party" class="tl-email-image" height="240" src="https://www.someparty.ca/images/some-party-email-logo.jpg" style="width: 640px; max-width: 640px;" width="640" /></a></div>
-    <p><%= current_article.date.strftime('%A %B %e, %Y') %></p>
-    <h1><%= current_article.title unless current_article.nil? %></h1>
-    <p><small><em>Some Party is a newsletter sharing the latest in independent Canadian rock&#39;n&#39;roll, curated weekly by <a href="https://www.buymeacoffee.com/someparty">Adam White</a>. Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way. You can read this edition in full <a href="https://www.someparty.ca<%= current_article.url unless current_article.nil? %>"> on the web</a>.</em></small></p>
-    <%= yield %>
-    <br/>
-    <h3><strong>Merch Table</strong></h3>
-    <p>If you find this newsletter useful, please share it. The audience for Canadian punk-adjacent music updates is smaller than you'd think, but we're so interconnected that you likely know someone who'd dig this. Every section of the letter comes with a handy direct link for easy sharing, just visit <a href="https://www.someparty.ca<%= current_article.url unless current_article.nil? %>">someparty.ca</a> and look for "link here" under each subtitle.</p>
-    <p>Of course, I'd not complain if you <a href="https://www.buymeacoffee.com/someparty">bought me a coffee</a> for my troubles or picked up one of the remaining <i>Under The Circumstances</i> tapes at <a href="https://someparty.bandcamp.com/">Bandcamp</a>.</p>
+    <div id="content">
+      <div style="text-align: center">
+        <a href="https://www.someparty.ca<%= current_article.url unless current_article.nil? %>"><img alt="Some Party" height="240" src="https://www.someparty.ca/images/some-party-email-logo.jpg" style="width: 100%; max-width: 640px; height: auto;" width="640"
+        alt="Some Party" title="Some Party" /></a>
+      </div>
+      <p style="font-size: 85%; margin-bottom: 5px"><%= current_article.date.strftime('%A %B %e, %Y') %></p>
+      <h1><%= current_article.title unless current_article.nil? %></h1>
+      <p><em>Some Party is a newsletter sharing the latest in independent Canadian rock&#39;n&#39;roll, curated weekly by <a href="https://www.buymeacoffee.com/someparty">Adam White</a>. Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way. You can read this edition in full <a href="https://www.someparty.ca<%= current_article.url unless current_article.nil? %>">on the web</a>.</em></small></p>
+      <%= yield %>
+      <br/>
+      <h3><strong>Merch Table</strong></h3>
+      <p>If you find this newsletter useful, please share it. You can link directly to any section (visit <a href="https://www.someparty.ca<%= current_article.url unless current_article.nil? %>">someparty.ca</a> and look for "link here" under any subheading).</p>
+      <p>To support Some Party directly, you can <a href="https://www.buymeacoffee.com/someparty">buy me a coffee</a> or pick up one of the remaining <i>Under The Circumstances</i> tapes at <a href="https://someparty.bandcamp.com/">Bandcamp</a>.</p>
+    </div>
   </body>
 </html>
