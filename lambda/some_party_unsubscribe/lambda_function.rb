@@ -4,7 +4,7 @@ require 'aws-sdk-cloudwatchlogs'
 
 def valid_email?(email)
   # Simple regex to validate email format
-  email =~ /\A[\w+\-.]+@[a-z\d\-]+(\.[a-z\d\-]+)*\.[a-z]+\z/i
+  email =~ /\A[\w+\-.]+@[a-z\d-]+(\.[a-z\d-]+)*\.[a-z]+\z/i
 end
 
 def lambda_handler(event:, context:)
@@ -17,7 +17,7 @@ def lambda_handler(event:, context:)
   unless valid_email?(email)
     return {
       statusCode: 400,
-      body: "Invalid email format"
+      body: 'Invalid email format'
     }
   end
 

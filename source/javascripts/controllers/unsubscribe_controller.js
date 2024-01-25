@@ -17,8 +17,6 @@ export default class extends Controller {
         uuid: uuid
     }
 
-    console.dir(email)
-
     // Swal is loaded with defer so wait for the DOM to be ready
     document.addEventListener('DOMContentLoaded', async (event) => {
       const result = await Swal.fire({
