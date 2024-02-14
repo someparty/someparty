@@ -182,10 +182,15 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
       link_string << %("#{title}") if title.present? && title != alt_text
       "[#{content}](#{link_string})"
     else
-      attributes = { title:, class: css_class, target: '_blank' }
+      attributes = { title:, class: css_class }
+      attributes[:target] = external_link?(link) ? '_blank' : '_self'
       attributes.merge!(@local_options[:link_attributes]) if @local_options[:link_attributes]
       scope.link_to(content, link, attributes)
     end
+  end
+
+  def external_link?(link)
+    link.start_with?('http://', 'https://')
   end
 
   def list(content, list_type)
