@@ -11,24 +11,67 @@ The Some Party website is built using [Middleman](http://middlemanapp.com/), a s
 With Middleman and Ruby installed, to run a server locally enter the directory into which you've checked out Some Party and run
 
 ```
-middleman server
+bundle exec middleman server
 ```
 
-The site will then be available at: http://localhost:4567/
+The site will then be available to preview at: http://localhost:4567/
 
 To build the project for the web run
 
 ```
-middleman build
+bundle exec middleman build
 ```
 
-To run the project with simplified markup and no CSS, which is best used when copied into the mailing list email body, use:
+This will compile the static site into the build directory, which can then be pushed up to Github Pages.
+
+## Sending Newsletters
+
+### Create email HTML
+
+Generate an email-formatted version of the site with:
 
 ```
-MEDIUM='email' middleman server
+MEDIUM=email bundle exec middleman build
 ```
 
-You can then navigate to an individual article and copy the markup.
+This will create a version of the static site with email-friendly HTML and inline CSS, deposited into the dispatch directory.
+
+### Fetch recipients
+
+The local copy of recipients.json should be empty from the previous send. Pull the latest subscribers down from S3 with:
+
+```
+ruby fetch_subscribers.rb
+```
+
+### Send a test email
+
+Ensure the tmp/test.json file has some recipient data, such as:
+
+```
+[
+  {
+    "uuid": "ABCDEFG-12345",
+    "date_subscribed": "2023-12-08T20:26:06Z",
+    "email": "adam@someparty.ca",
+    "timestamp_subscribed": "0.1702067166e10"
+  }
+]
+```
+
+Send the email to the test subscriber, noting the exact file name of the generated article HTML (in this example, "2024-02-14-hex") you wish to send:
+
+```
+ruby send.rb -p 2024-02-14-hex -r test.json
+```
+
+### Send to all recipients
+
+If the test looks good, send the email to the actual subscribers:
+
+```
+ruby send.rb -p 2024-02-14-hex -r recipients.json
+```
 
 ## Functional css
 

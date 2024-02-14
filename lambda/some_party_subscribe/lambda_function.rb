@@ -10,7 +10,7 @@ end
 
 def lambda_handler(event:, context:)
   body = JSON.parse(event['body'])
-  email = body['email']
+  email = body['email']&.strip&.downcase
 
   # Validate email format
   unless valid_email?(email)

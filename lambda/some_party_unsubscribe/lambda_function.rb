@@ -13,6 +13,9 @@ def lambda_handler(event:, context:)
   email = body['email'] || event['queryStringParameters']['email']
   uuid = body['uuid'] || event['queryStringParameters']['uuid']
 
+  # Sanitize the email
+  email = email&.strip&.downcase
+
   # Validate email format
   unless valid_email?(email)
     return {

@@ -19,13 +19,27 @@ dynamodb = Aws::DynamoDB::Client.new(region: 'ca-central-1')
 # Specify the table name
 table_name = 'some_party_subscribers'
 
-# Query DynamoDB to get all items in the table
-response = dynamodb.scan(table_name:)
+last_evaluated_key = nil
+subscribers = 0
 
-# Extract items from the response
-items = response.items
+loop do
+  # Query DynamoDB to get all items in the table
+  response = dynamodb.scan(
+    table_name: table_name,
+    exclusive_start_key: last_evaluated_key
+  )
 
-# Write items to the JSON file
-File.write(output_file_path, JSON.pretty_generate(items))
+  # Extract items from the response
+  items = response.items
 
-puts "#{items.count} subscribers written to #{output_file_path}"
+  # Write items to the JSON file
+  File.write(output_file_path, JSON.pretty_generate(items))
+
+  subscribers += items.count
+
+  break if response.last_evaluated_key.nil?
+
+  last_evaluated_key = response.last_evaluated_key
+end
+
+puts "#{subscribers} subscribers written to #{output_file_path}"
