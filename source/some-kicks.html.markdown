@@ -182,7 +182,7 @@ Pale Lips - "That Old Ghost Don't Lie"
 <small><br/>Montreal, QC - [Bandcamp](https://palelips.bandcamp.com)</small>
 
 The Fuckin Astronauts - "The Man From An Unknown Time"
-<small><br/>Toronto, ON - [Bandcamp](https://thefuckinastronauts.bandcamp.com)</small>
+<small><br/>Toronto, ON - [Bandcamp](https://tfa2000.bandcamp.com)</small>
 
 Lungbutter - "Flat White"
 <small><br/>Montreal, QC - [Bandcamp](https://lungbuttermtl.bandcamp.com)</small>

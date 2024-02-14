@@ -57,7 +57,7 @@ Ciggie & The Darts features members of [Chloroform](https://chloroforming.bandca
 
 [Listen: Ciggie & The Darts - "Struttin'" / "Cosmonaut" @ Bandcamp](https://ciggieandthedarts.bandcamp.com/album/liquor-leather-denim-darts "#")
 
-Halifax singer-songwriter [Jon Mckiel](https://jonMckiel.bandcamp.com/) has a new video online showcasing "Object Permanence," the lead single from his upcoming LP *Bobby Joe Hope*. The surreal clip from director Andrea Thorne features a collage of psychedelic imagery. A likewise suitably oblique statement commented:
+Halifax singer-songwriter [Jon Mckiel](https://jonmckiel.bandcamp.com/) has a new video online showcasing "Object Permanence," the lead single from his upcoming LP *Bobby Joe Hope*. The surreal clip from director Andrea Thorne features a collage of psychedelic imagery. A likewise suitably oblique statement commented:
 
 > "Magic recombines ordinary objects to wake us; acknowledge mystery. Pluck from the landscape a rose or a bruise. World forms and unforms in universe around us - a moment comes and then dissolves. Tides and life; on the shore let us embrace beneath Moon and tremble a little as lovers and kin while we tumble through time in the wandering place."
 

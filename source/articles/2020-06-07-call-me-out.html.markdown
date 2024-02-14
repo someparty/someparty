@@ -129,11 +129,11 @@ The Friend Ship Committee organized 2019's Friend Ship cruise, a show hosted on 
 
 [Listen: *Friend Ship From Home Vol. 3* @ Bandcamp](http://friendshipcommittee.bandcamp.com/album/friend-ship-from-home-vol-3-blm-fundraiser "#")
 
-I was instantly taken by a buzzing synth-punk track on the previous *Friend Ship* compilation by [The Fuckin Astronauts](https://thefuckinastronauts.bandcamp.com), and that song now has a second lease on life. The duo's "The Man From an Unknown Time" was recently remastered by [ROY](https://thesoundofroy.bandcamp.com) and shared on Bandcamp last Friday.
+I was instantly taken by a buzzing synth-punk track on the previous *Friend Ship* compilation by [The Fuckin Astronauts](https://tfa2000.bandcamp.com/album/pj-tyle), and that song now has a second lease on life. The duo's "The Man From an Unknown Time" was recently remastered by [ROY](https://thesoundofroy.bandcamp.com) and shared on Bandcamp last Friday.
 
 If you're a fan of Michigan punk weirdos The Spits, this should be right up your alley.
 
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2121214617/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://thefuckinastronauts.bandcamp.com/track/the-man-from-an-unknown-time">The Man from an Unknown Time by The Fuckin Astronauts</a></iframe>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2121214617/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tfa2000.bandcamp.com/track/the-man-from-an-unknown-time">The Man from an Unknown Time by TFA</a></iframe>
 
 [Listen: The Fuckin Astronauts - "The Man From an Unknown Time" @ Bandcamp](http://thefuckinastronauts.bandcamp.com/track/the-man-from-an-unknown-time "#")
 

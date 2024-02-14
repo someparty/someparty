@@ -22,10 +22,10 @@ Handheld put out a half dozen releases in their original incarnation, last issui
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ObfhoNhETx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[The Fuckin Astronauts](https://thefuckinastronauts.bandcamp.com): *PJ $TYLE*
-==Watch at [YouTube](https://youtu.be/16lFolVoCL8) - Preview and purchase at [Bandcamp](https://thefuckinastronauts.bandcamp.com/album/pj-tyle)==
+###[The Fuckin Astronauts](https://tfa2000.bandcamp.com): *PJ $TYLE*
+==Watch at [YouTube](https://youtu.be/16lFolVoCL8) - Preview and purchase at [Bandcamp](https://tfa2000.bandcamp.com/album/pj-tyle)==
 
-This week Toronto synth-punk duo [The Fuckin Astronauts](https://thefuckinastronauts.bandcamp.com) unveiled *PJ $STYLE*, the fledgling group's first EP after a string of one-offs. The set features four tracks (well, three full songs and one atmospheric interlude), including the recently shared "Pistol John." These are dirty, lo-fi recordings delivered with cooly dispassionate vocals. It's the tossed-off, attitude-driven scuzz you need to survive in this absurd world. The album closer's a great example of this - a mean road tune with the nonsensical premise of hauling Pogs in a big rig.
+This week Toronto synth-punk duo [The Fuckin Astronauts](https://tfa2000.bandcamp.com) unveiled *PJ $STYLE*, the fledgling group's first EP after a string of one-offs. The set features four tracks (well, three full songs and one atmospheric interlude), including the recently shared "Pistol John." These are dirty, lo-fi recordings delivered with cooly dispassionate vocals. It's the tossed-off, attitude-driven scuzz you need to survive in this absurd world. The album closer's a great example of this - a mean road tune with the nonsensical premise of hauling Pogs in a big rig.
 
 You can see a full-length EP visualizer on YouTube, courtesy of the Toronto scene zine [Ultra](https://www.ultramag.online/). Look for the first live appearance from The Fuckin Astronauts later this month at Sarnia's [Empty Fest](https://www.eventbrite.com/e/empty-fest-11-tickets-291554345897). They're playing the April 30 show at Maud's Variety alongside Psychic Void, Burner, Not A Band, and Roof Rats. You better believe the band's making Pogs as merch.
 

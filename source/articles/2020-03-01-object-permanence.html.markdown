@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Music and visuals from Jon Mckiel, Daniel Romano and The Outfit, S.H.I.T., Ariel Sharratt & Mathias Kom, Pretty Matty, METZ, Zen Bamboo, Guilhem, L'Affaire Pélican, The Drew Thomson Foundation, Aquakultre, Snotty Nose Rez Kids, Young Guv, and D.O.A.
 ---
 
-Halifax singer-songwriter [Jon Mckiel](https://jonMckiel.bandcamp.com/) returns with a new full-length this April, titled *Bobby Joe Hope*. The record's due from [You've Changed Records](https://youvechangedrecords.com/), following-up on Mckiel's 2017 LP *Memorial Ten Count*. This album arrives under some truly unique circumstances, as described by Sackville poet Geordie Miller in a press release (of which this is just an excerpt):
+Halifax singer-songwriter [Jon Mckiel](https://jonmckiel.bandcamp.com/) returns with a new full-length this April, titled *Bobby Joe Hope*. The record's due from [You've Changed Records](https://youvechangedrecords.com/), following-up on Mckiel's 2017 LP *Memorial Ten Count*. This album arrives under some truly unique circumstances, as described by Sackville poet Geordie Miller in a press release (of which this is just an excerpt):
 
 >"How do you speak through a stranger? Contain multitudes. And begin to find new kinds of design in accident. True story. In September 2015 Jon bought an old Teac A-2340, a reel-to-reel tape recorder, tapes included. He exchanged a few emails with the online seller while negotiating a deal, but they never met. The first time Jon tested out the machine at home it disclosed a beautiful dream. A single tape of astounding samples from an unknown source. He nicknamed it the Royal Sampler. They began to jam together..."
 

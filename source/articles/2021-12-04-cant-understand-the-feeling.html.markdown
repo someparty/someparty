@@ -56,8 +56,7 @@ Last month, Mononegatives unleashed the *Frequencies Rotating Clockwise* single 
 
 Patrick Lefler's Toronto-based psych-pop project [ROY](https://thesoundofroy.bandcamp.com) surprised this week with a brand new album. *Capitalism* defies its title by arriving as a free download via Bandcamp. The record also carries a playful concept, making "Saga of the Dancing Raincoat" and "I'm a Bic" more than just quirky song titles:
 
->"Each and every song embodies the personality and sonic capabilities of the object in the song title. Many songs feature the actual use the of the object itself to creative psycho acoustic soundscapes capable of projecting the listener into a world run by objects, not people.
-Every object is owned and loved and plays a critical role in the daily life of ROY."
+>"Each and every song embodies the personality and sonic capabilities of the object in the song title. Many songs feature the actual use the of the object itself to creative psycho acoustic soundscapes capable of projecting the listener into a world run by objects, not people. Every object is owned and loved and plays a critical role in the daily life of ROY."
 
 Lefler recorded at The Submarine and Maison Du Bonheur with Jeff McMurrich mastering at Sonology. The 10-song set follows May's [Idée Fixe](http://ideefixerecords.com/) LP, *Roy's Garage* (not to mention July's *Lunar Gardens* album as one-fifth of Possum).
 

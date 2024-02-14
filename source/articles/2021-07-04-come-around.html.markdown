@@ -83,10 +83,10 @@ Huron Lines recorded with [Psychic Void](https://psychicvoid.bandcamp.com)'s Jos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iy14uZESTko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Jon Mckiel](https://jonMckiel.bandcamp.com/): "Morning Dove"
+###[Jon Mckiel](https://jonmckiel.bandcamp.com/): "Morning Dove"
 ==Watch on [YouTube](https://youtu.be/HYbYW_CjE3g) - Preview and purchase at [Bandcamp](https://jonmckiel.bandcamp.com/album/bobby-joe-hope)==
 
-I don't entirely believe it, but [Jon Mckiel](https://jonMckiel.bandcamp.com/)'s evocative *Bobby Joe Hope* LP only came out last year. The set was perhaps just too delicate and otherworldly to avoid being swallowed by the long months since April 2020. Thankfully Mckiel resurfaced today with a video to remind us of the lovely album-opener "Morning Dove," a track that, after all this time, feels like coming up for air.
+I don't entirely believe it, but [Jon Mckiel](https://jonmckiel.bandcamp.com/)'s evocative *Bobby Joe Hope* LP only came out last year. The set was perhaps just too delicate and otherworldly to avoid being swallowed by the long months since April 2020. Thankfully Mckiel resurfaced today with a video to remind us of the lovely album-opener "Morning Dove," a track that, after all this time, feels like coming up for air.
 
 Of course, the Halifax singer-songwriter also reemerged to promote an upcoming performance through Bandcamp's new live stream platform. A six-song set featuring songs from *Bobby Joe Hope* airs [July 18](https://jonmckiel.bandcamp.com/merch/with-songs-from-bobby-joe-hope) for ticket holders.
 

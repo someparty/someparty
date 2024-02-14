@@ -67,10 +67,10 @@ Lambke, known as a guitarist and co-vocalist of the beloved [Constantines](http:
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3159545319/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stevenlambke.bandcamp.com/album/sea-level-acorns-and-beach-stones">Sea Level / Acorns And Beach Stones by Steven Lambke</a></iframe>
 
-###[The Fuckin Astronauts](https://thefuckinastronauts.bandcamp.com): "Pistol John"
+###[The Fuckin Astronauts](https://tfa2000.bandcamp.com/album/pj-tyle): "Pistol John"
 ==Watch at [YouTube](https://youtu.be/EhTpY3qCS1k)==
 
-Last week Toronto synth-punk duo [The Fuckin Astronauts](https://thefuckinastronauts.bandcamp.com) shared a video for "Pistol John." The new single continues the band's descent into scuzzy lo-fi, a quest they've approached with an aggressive zeal that reminds me of The Spits. The track premiered via the Toronto scene zine [Ultra](https://www.ultramag.online/).
+Last week Toronto synth-punk duo [The Fuckin Astronauts](https://tfa2000.bandcamp.com) shared a video for "Pistol John." The new single continues the band's descent into scuzzy lo-fi, a quest they've approached with an aggressive zeal that reminds me of The Spits. The track premiered via the Toronto scene zine [Ultra](https://www.ultramag.online/).
 
 The Fuckin Astronauts features Liam Cosby ([Vypers](https://vypers.bandcamp.com/), [Dark Trip](https://darktrip.bandcamp.com/), [ROY](https://thesoundofroy.bandcamp.com)) with Dorrie Mack. The new song's slated for an EP dubbed *PJ $TYLE*, due on April 20.
 
