@@ -96,10 +96,10 @@ Labour features Kate O'Neill (of the folk/shoegaze group [Diamondtown](http://di
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KrDzCmk1aQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Basement Revolver](https://www.basementrevolver.com/): "Skin"
+###[Basement Revolver](https://basementrevolver.bandcamp.com): "Skin"
 ==Watch on [YouTube](https://youtu.be/BV8XFzmeTd8) - Preview and Purchase at [Bandcamp](https://basementrevolver.bandcamp.com/track/skin)==
 
-Hamilton dream pop group [Basement Revolver](https://www.basementrevolver.com/) recently returned with "Skin," the first single from their forthcoming sophomore LP *Embody*. The band describes the track in a press release as:
+Hamilton dream pop group [Basement Revolver](https://basementrevolver.bandcamp.com) recently returned with "Skin," the first single from their forthcoming sophomore LP *Embody*. The band describes the track in a press release as:
 
 >"...a self-aware slow burn. Desperate to feel like her body was okay or good enough, Chrisy was perched on the edge of a dock when this song began tumbling out. The first time she has ever explicitly written about the struggles she feels with her body, 'Skin' has helped Chrisy love the parts of her body that have often been scrutinized in the mirror."
 
