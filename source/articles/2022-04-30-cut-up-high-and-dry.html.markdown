@@ -114,13 +114,13 @@ The Fake Friends emerged over the pandemic from members of [Trigger Effect](http
 ###[Night Court](https://nightcourtpunk.bandcamp.com): "Brighten the Corner"
 ==Watch at [YouTube](https://youtu.be/MV6YK0DLtNU) - Preview and purchase at [Bandcamp](https://nightcourtpunk.bandcamp.com/track/brighten-the-corner)==
 
-My pals in the frenetic Vancouver indie/punk trio [Night Court](https://nightcourtpunk.bandcamp.com) recently shared a video for "Brighten the Corner," their latest preview of *Nervous Birds! Too*, the fast-approaching second volume of their two-part debut. The quirky animated clip premiered through [Big Takeover](https://bigtakeover.com/news/VideoPremiereBrightentheCornerbyNightCourt), where the band's Dave Patterson commented:
+My pals in the frenetic Vancouver indie/punk trio [Night Court](https://nightcourtpunk.bandcamp.com) recently shared a video for "Brighten the Corner," their latest preview of *Nervous Birds! Too*, the fast-approaching second volume of their two-part debut. The quirky animated clip premiered through [Big Takeover](https://bigtakeover.com/news/VideoPremiereBrightentheCornerbyNightCourt), where the band's Dave-O commented:
 
 >"The song reflects on the idea that individuals can make the world at large a better place by improving their own small corner of it."
 
 *Nervous Birds! Too* arrives May 6 through [Debt Offensive Records](https://debtoffensiverecords.bandcamp.com/) and [Snappy Little Numbers](https://snappylittlenumbers.bandcamp.com/). The first volume in the set landed back in December.
 
-Night Court features bassist/vocalist Jiffy Marx (of the BC new wavers [Autogramm](http://autogramm.bandcamp.com)), guitarist Dave Patterson ([Jiffy Marker](https://jiffymarker.bandcamp.com/), [Blood Meridian](https://bloodmeridiancanada.bandcamp.com/)), and drummer Emilor Jane ([Synchromantics](https://synchromantics.bandcamp.com), [Pet Blessings](https://petblessings.bandcamp.com)).
+Night Court features bassist/vocalist Jiffy Marx (of the BC new wavers [Autogramm](http://autogramm.bandcamp.com)), guitarist Dave-O ([Jiffy Marker](https://jiffymarker.bandcamp.com/), [Blood Meridian](https://bloodmeridiancanada.bandcamp.com/)), and drummer Emilor Jane ([Synchromantics](https://synchromantics.bandcamp.com), [Pet Blessings](https://petblessings.bandcamp.com)).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MV6YK0DLtNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
