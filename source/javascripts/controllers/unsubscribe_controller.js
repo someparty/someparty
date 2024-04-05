@@ -12,50 +12,58 @@ export default class extends Controller {
       return
     }
 
-    var formData = {
-        email: email,
-        uuid: uuid
-    }
+    // Swal is loaded with defer so wait
+    this.checkSwalLoaded = setInterval(async () => {
+      if (window.Swal) {
+        clearInterval(this.checkSwalLoaded);
+        await this.promptUnsubscribe(email, uuid)
+      }
+    }, 100);
+  }
 
-    // Swal is loaded with defer so wait for the DOM to be ready
-    document.addEventListener('DOMContentLoaded', async (event) => {
-      const result = await Swal.fire({
-        title: "Confirm Unsubscribe",
-        text: `Please confirm that you'd like unsubscribe ${email} from the newsletter?`,
-        showDenyButton: true,
+  async promptUnsubscribe(email, uuid) {
+    var formData = {
+      email: email,
+      uuid: uuid
+   }
+
+    const result = await Swal.fire({
+      title: "Confirm Unsubscribe",
+      text: `Please confirm that you'd like unsubscribe ${email} from the newsletter.`,
+      showDenyButton: true,
+      showCancelButton: false,
+      confirmButtonText: "Yes, Unsubscribe Me",
+      denyButtonText: `Nevermind`,
+      icon: 'question'
+    })
+
+    if (result.isConfirmed) {
+      Swal.fire({
+        title: "Please wait",
+        html: spinner,
+        showCloseButton: false,
         showCancelButton: false,
-        confirmButtonText: "Yes, Unsubscribe Me",
-        denyButtonText: `Nevermind`,
-        icon: 'question'
+        showConfirmButton: false,
+        allowOutsideClick: false
       })
 
-      if (result.isConfirmed) {
-        Swal.fire({
-          title: "Please wait",
-          html: spinner,
-          showCloseButton: false,
-          showCancelButton: false,
-          showConfirmButton: false,
-          allowOutsideClick: false
+      try {
+        const response = await fetch('https://api.someparty.ca/some_party_unsubscribe', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(formData),
         })
 
-        try {
-          const response = await fetch('https://api.someparty.ca/some_party_unsubscribe', {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-            },
-            body: JSON.stringify(formData),
-          })
-
-          const data = await response.text()
-          await Swal.fire("Unsubscribe Request Submitted", data, "success")
-        } catch (error) {
-          await Swal.fire("Unsubscribe Error", error, "error")
-        }
-      } else if (result.isDenied) {
-        Swal.fire("Unsubscribe cancelled", "You're still subscribed to Some Party.", "info")
+        const data = await response.text()
+        await Swal.fire("Unsubscribe Request Submitted", data, "success")
+      } catch (error) {
+        await Swal.fire("Unsubscribe Error", error, "error")
       }
-    })
+    } else if (result.isDenied) {
+      Swal.fire("Unsubscribe cancelled", "You're still subscribed to Some Party.", "info")
+    }
+
   }
 }
