@@ -44,12 +44,14 @@
       import SubscribeController from "/javascripts/controllers/subscribe_controller.js"
       import UnsubscribeController from "/javascripts/controllers/unsubscribe_controller.js"
       import ResendController from "/javascripts/controllers/resend_controller.js"
+      import ContestController from "/javascripts/controllers/contest_controller.js"
 
       window.Stimulus = Application.start()
       Stimulus.register("share", ShareController)
       Stimulus.register("subscribe", SubscribeController)
       Stimulus.register("unsubscribe", UnsubscribeController)
       Stimulus.register("resend", ResendController)
+      Stimulus.register("contest", ContestController)
     </script>
   </head>
   <body class="f3 ma0 fw3">

@@ -3,6 +3,8 @@ require 'securerandom'
 require 'json'
 require 'aws-sdk-cloudwatchlogs'
 
+SOME_PARTY_SUBSCRIBERS = 'some_party_subscribers'.freeze
+
 def valid_email?(email)
   # Simple regex to validate email format
   email =~ /\A[\w+\-.]+@[a-z\d-]+(\.[a-z\d-]+)*\.[a-z]+\z/i
@@ -21,12 +23,11 @@ def lambda_handler(event:, context:)
   end
 
   dynamo_db = Aws::DynamoDB::Client.new(region: 'ca-central-1')
-  table_name = 'some_party_subscribers'
 
-  if email_exists?(dynamo_db, table_name, email)
+  if email_exists?(dynamo_db, email)
     logger("Subscriptipion #{email} already exists")
   else
-    create_subscriber(dynamo_db, table_name, email)
+    create_subscriber(dynamo_db, email)
     logger("New subscription #{email}")
   end
 
@@ -39,10 +40,10 @@ def lambda_handler(event:, context:)
   }
 end
 
-def email_exists?(dynamo_db, table_name, email)
+def email_exists?(dynamo_db, email)
   existing_subscriber = dynamo_db.query(
     {
-      table_name:,
+      table_name: SOME_PARTY_SUBSCRIBERS,
       key_condition_expression: 'email = :email',
       expression_attribute_values: {
         ':email' => email
@@ -52,13 +53,13 @@ def email_exists?(dynamo_db, table_name, email)
   !existing_subscriber.items.empty?
 end
 
-def create_subscriber(dynamo_db, table_name, email)
+def create_subscriber(dynamo_db, email)
   uuid = SecureRandom.uuid
   current_datetime = Time.now.utc
   timestamp_subscribed = current_datetime.to_i
 
   dynamo_db.put_item({
-                       table_name:,
+                       table_name: SOME_PARTY_SUBSCRIBERS,
                        item: {
                          'email' => email,
                          'uuid' => uuid,

@@ -19,6 +19,10 @@ The Some Party website does not use a third-party traffic measurement or analyti
 
 I fully acknowledge the hypocrisy that my efforts to run Some Party as a DIY, privacy-focused publication ultimately rely upon cloud infrastructure owned by Amazon and Microsoft.
 
+##Contests & Giveaways
+
+Some Party occasionally run giveaways as a perk for subscribers. The contest entry form requires an email address. After cross-referencing the entry against the list of current subscribers, I store the email in an AWS database. Upon declaring a winner, I delete all entry email addresses are deleted. The winner's email address is retained only to contact them to arrange prize delivery (which may mean putting you in touch with the third party providing the prize). I do not share participant addresses with third parties otherwise.
+
 ##Embedded Media
 
 Bands and labels rely on third-party companies to host audio and video. These services (YouTube, SoundCloud, Bandcamp, Instagram, Facebook, Vimeo, etc.) likely include traffic measurement and tracking cookie mechanisms in their embedded media players. YouTube may also display advertising in its media player. Install an ad blocker or use a privacy-focused web browser if you're concerned about that sort of thing.

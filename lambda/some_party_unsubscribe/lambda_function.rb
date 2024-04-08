@@ -2,6 +2,8 @@ require 'aws-sdk-dynamodb'
 require 'json'
 require 'aws-sdk-cloudwatchlogs'
 
+SOME_PARTY_SUBSCRIBERS = 'some_party_subscribers'.freeze
+
 def valid_email?(email)
   # Simple regex to validate email format
   email =~ /\A[\w+\-.]+@[a-z\d-]+(\.[a-z\d-]+)*\.[a-z]+\z/i
@@ -25,10 +27,9 @@ def lambda_handler(event:, context:)
   end
 
   dynamo_db = Aws::DynamoDB::Client.new(region: 'ca-central-1')
-  table_name = 'some_party_subscribers'
 
-  if subscriber_exists(dynamo_db, table_name, email, uuid)
-    unsubscribe_subscriber(dynamo_db, table_name, email, uuid)
+  if subscriber_exists(dynamo_db, email, uuid)
+    unsubscribe_subscriber(dynamo_db, email, uuid)
     # Log the unsubscribe event
     logger("Unsubscribed #{email} (UUID: #{uuid})")
 
@@ -45,10 +46,10 @@ def lambda_handler(event:, context:)
   end
 end
 
-def unsubscribe_subscriber(dynamo_db, table_name, email, uuid)
+def unsubscribe_subscriber(dynamo_db, email, uuid)
   dynamo_db.delete_item(
     {
-      table_name:,
+      table_name: SOME_PARTY_SUBSCRIBERS,
       key: {
         'email' => email,
         'uuid' => uuid
@@ -57,11 +58,11 @@ def unsubscribe_subscriber(dynamo_db, table_name, email, uuid)
   )
 end
 
-def subscriber_exists(dynamo_db, table_name, email, uuid)
+def subscriber_exists(dynamo_db, email, uuid)
   # Check if the email and UUID combination exists
   existing_subscriber = dynamo_db.query(
     {
-      table_name:,
+      table_name: SOME_PARTY_SUBSCRIBERS,
       key_condition_expression: '#email = :email AND #uuid = :uuid',
       expression_attribute_names: {
         '#email' => 'email',

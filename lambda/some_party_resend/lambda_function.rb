@@ -4,6 +4,8 @@ require 'aws-sdk-ses'
 require 'cgi'
 require 'json'
 
+SOME_PARTY_SUBSCRIBERS = 'some_party_subscribers'.freeze
+
 def valid_email?(email)
   # Simple regex to validate email format
   email =~ /\A[\w+\-.]+@[a-z\d-]+(\.[a-z\d-]+)*\.[a-z]+\z/i
@@ -14,6 +16,9 @@ def lambda_handler(event:, context:)
 
   body = JSON.parse(event['body'])
   email = body['email']
+
+  # Sanitize the email
+  email = email&.strip&.downcase
 
   # Validate email format
   unless valid_email?(email)
@@ -28,8 +33,7 @@ end
 
 def handle_email(email)
   dynamo_db = Aws::DynamoDB::Client.new(region: 'ca-central-1')
-  table_name = 'some_party_subscribers'
-  subscriber = confirm_subscriber(dynamo_db, table_name, email)
+  subscriber = confirm_subscriber(dynamo_db, email)
 
   if subscriber
     logger("Unsubscribe link requested for #{email}")
@@ -73,10 +77,10 @@ def send_unsubscribe_email(email, subscriber)
   )
 end
 
-def confirm_subscriber(dynamo_db, table_name, email)
+def confirm_subscriber(dynamo_db, email)
   existing_subscriber = dynamo_db.query(
     {
-      table_name:,
+      table_name: SOME_PARTY_SUBSCRIBERS,
       key_condition_expression: 'email = :email',
       expression_attribute_values: {
         ':email' => email
