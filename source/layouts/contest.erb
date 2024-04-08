@@ -1,0 +1,19 @@
+<% wrap_layout :layout do %>
+  <article class="pa3 pa4-ns lh-copy f5 f4-ns">
+    <h1 class="f2 mt1 mb0 maxread center"><%= current_page.data.title unless current_page.data.title.nil? %></h1>
+    <%= yield %>
+    <div class="maxread center">
+      <%= partial '/_partials/contest' %>
+    </div>
+  </article>
+
+  <p class="maxread center"><small><em>
+    Some Party draws winners at random from the list of entries. Entries must be current mailing list subscribers upon submission and during the draw. The drawn entrant must answer a mathematical skill-testing question to clinch their victory, as per the silly Canadian Criminal Code. Upon declaring a winner, Some Party deletes all entry email addresses. The winner's email address is retained only to contact them to arrange prize delivery (which may mean putting you in touch with the third party providing the prize). Some Party does not share participant addresses with third parties otherwise.
+    </em></small>
+  </p>
+
+  <div class="pa3-l measure-wide center">
+    <%= partial '/_partials/cta' %>
+  </div>
+<% end %>
+

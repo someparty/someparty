@@ -3,7 +3,7 @@ require 'zip'
 
 lambda_client = Aws::Lambda::Client.new(region: 'ca-central-1')
 
-function_names = %w[some_party_subscribe some_party_unsubscribe some_party_resend]
+function_names = %w[some_party_subscribe some_party_unsubscribe some_party_resend some_party_enter_contest]
 
 function_names.each do |function_name|
   zip_file_path = "./tmp/#{function_name}.zip"
