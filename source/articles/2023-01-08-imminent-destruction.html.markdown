@@ -88,7 +88,7 @@ Regina's hard rocking [Maxstone](https://maxstone.bandcamp.com) roared into 2023
 
 Toronto's weird-Americana quartet [Hobby](https://hobbytoronto.bandcamp.com/) is on a roll, following up on December's charming *Dog Don't Mind* EP with a batch of three new songs. You can preview "Buck 75," "Early Riser," and "Take a Hit" through a series of videos recorded from the floor of Dining Room Sound. You'll find the clips on YouTube, filmed by Eli Speigel and Shelby Wilson. There's no word yet where the studio versions of these tracks will end up.
 
-Hobby features guitarists Stephen Pitman ([Only God Forgives](https://onlygodforgivesto.bandcamp.com), [Tallies](http://tallies.bandcamp.com)) and Cameron Fraser ([Luge](https://hugeluge.bandcamp.com)), with bassist Duncan Wardlaw and drummer Foster Medeiros. The recent slate of material follows up on the group's 2021 LP *Weed* and a split with the folk-punkers [Westelaken](https://westelaken.bandcamp.com/).
+Hobby features guitarists Stephen Pitman ([Only God Forgives](https://onlygodforgivesto.bandcamp.com)) and Cameron Fraser ([Luge](https://hugeluge.bandcamp.com)), with bassist Duncan Wardlaw and drummer Foster Medeiros. The recent slate of material follows up on the group's 2021 LP *Weed* and a split with the folk-punkers [Westelaken](https://westelaken.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/brgMft94PFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

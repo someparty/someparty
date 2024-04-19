@@ -90,7 +90,7 @@ This track, in particular, features contributions from Kyle McDonnell on drums a
 
 Weird-Americana quartet [Hobby](https://hobbytoronto.bandcamp.com/) recently the three-song Dog Don't Mind, with each canine-themed track maintaining the Toronto band's pleasantly-unhurried outlook. As with earlier works, this project feels charmingly self-aware of its anachronistic nature but somehow never stumbles into parody.
 
-Hobby features guitarists Stephen Pitman ([Only God Forgives](https://onlygodforgivesto.bandcamp.com), [Tallies](http://tallies.bandcamp.com)) and Cameron Fraser ([Luge](https://hugeluge.bandcamp.com)), with bassist Duncan Wardlaw and drummer Foster Medeiros (with vocal credits all around). The new set follows up on the group's 2021 LP *Weed* and a split with the folk-punkers [Westelaken](https://westelaken.bandcamp.com/).
+Hobby features guitarists Stephen Pitman ([Only God Forgives](https://onlygodforgivesto.bandcamp.com)) and Cameron Fraser ([Luge](https://hugeluge.bandcamp.com)), with bassist Duncan Wardlaw and drummer Foster Medeiros (with vocal credits all around). The new set follows up on the group's 2021 LP *Weed* and a split with the folk-punkers [Westelaken](https://westelaken.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2009169168/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://hobbytoronto.bandcamp.com/album/dog-dont-mind">Dog Don&#39;t Mind by Hobby</a></iframe>
 

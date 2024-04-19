@@ -234,7 +234,7 @@ Class of 91 features vocalist/guitarist Ian Ferguson, guitarist Brock Sarault, b
 ###[Night Lunch](https://nightlunch.bandcamp.com): "Junkyard of Love"
 ==Watch on [YouTube](https://youtu.be/zSrfKlAnGvE?si=3_1WpddEuKN1_YWp) - Preview and purchase at [Bandcamp](https://nightlunch.bandcamp.com/album/fire-in-the-rose-garden)==
 
-Montreal's off-kilter indie-pop act [Night Lunch](https://nightlunch.bandcamp.com) marked their SXSW voyage with a new video from *Fire in the Rose Garden*. The band worked with artist [Phil Osborne](https://osborneoddities.wixsite.com/) of Osborne Oddities on a surrealist piece celebrating "Junkyard of Love." The director revealed how the clip came together:
+Montreal's off-kilter indie-pop act [Night Lunch](https://nightlunch.bandcamp.com) marked their SXSW voyage with a new video from *Fire in the Rose Garden*. The band worked with artist [Phil Osborne](https://www.youtube.com/user/rabidreels/videos) of Osborne Oddities on a surrealist piece celebrating "Junkyard of Love." The director revealed how the clip came together:
 
 >"Lukie gave me some footage that he and Marlee shot in a junkyard. I edited what I thought were the best parts then did some rotoscoping of Lukie over the footage using a computer screen as my rotoscope machine. Going frame by frame with paper on the screen, tracing him playing guitar or dancing. These parts were inspired by Rick Raxlen's animations. Then I decided to improvise some more animation based on what is said in the lyrics, including some junkyard-type creatures such as a love tank shooting hearts out of its eyes. All drawings were done using sharpies on 8.5" by 11" paper. At least 600 drawings in total."
 

@@ -65,7 +65,7 @@ Look for POPULATION II on stage late on the first night of the [FME](https://www
 
 The lovably weird urban Americana quartet [Hobby](https://hobbytoronto.bandcamp.com/) recently shared the studio version of "Take a Hit," a twangy earworm we first previewed as a live recording back in January. You can see the single visualized in a new video directed by Shelby Wilson of [Only God Forgives](https://onlygodforgivesto.bandcamp.com). The Toronto band recorded with Jimmy Bowskill at Cobourg, Ontario's Ganaraska Recording Co. [Little Kid](https://littlekid.bandcamp.com/)'s Paul Vroom mixed and mastered.
 
-Hobby features guitarists Stephen Pitman (Only God Forgives, [Tallies](http://tallies.bandcamp.com)) and Cameron Fraser ([Luge](https://hugeluge.bandcamp.com)), with bassist Duncan Wardlaw and drummer Foster Medeiros. The new single follows up on their 2021 LP *Weed* and a split with the like-minded alt-folk act [Westelaken](https://westelaken.bandcamp.com/).
+Hobby features guitarists Stephen Pitman (Only God Forgives) and Cameron Fraser ([Luge](https://hugeluge.bandcamp.com)), with bassist Duncan Wardlaw and drummer Foster Medeiros. The new single follows up on their 2021 LP *Weed* and a split with the like-minded alt-folk act [Westelaken](https://westelaken.bandcamp.com/).
 
 Look for Hobby live on August 12 at Toronto's Bar Orwell, supporting the [Nora Kelly Band](https://norakellyband.bandcamp.com). Speaking of...
 
