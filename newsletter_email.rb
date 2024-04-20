@@ -35,6 +35,9 @@ class NewsletterEmail
     url_email = CGI.escape(recipient['email'])
     url_uuid = CGI.escape(recipient['uuid'])
 
+    personalized_text_content = @text_content.gsub('EMAIL_PLACEHOLDER', recipient['email'])
+    personalized_html_content = @html_content.gsub('EMAIL_PLACEHOLDER', recipient['email'])
+
     <<~RAW_EMAIL
       From: "Adam White" <adam@someparty.ca>
       To: #{recipient['email']}
@@ -48,7 +51,7 @@ class NewsletterEmail
       Content-type: text/plain; charset="UTF-8"
       Content-transfer-encoding: 7bit
 
-      #{@text_content}
+      #{personalized_text_content}
       \n\n
 
       Some Party by Adam White\n
@@ -70,7 +73,7 @@ class NewsletterEmail
           <title>Some Party: #{@subject}</title>
         </head>
         <body>
-          #{@html_content}
+          #{personalized_html_content}
           <div style='text-align: center; margin-top: 4em; margin-bottom: 2em; padding-left: 16px; padding-right: 16px; line-height: 1.3;'><small>
             <a href="https://www.someparty.ca">Some Party</a> by Adam White<br/>
             7695 Blackburn Parkway, Niagara Falls, Ontario L2H 0A6<br/>

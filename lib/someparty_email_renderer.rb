@@ -48,6 +48,13 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     else
       attributes = { title: }
       attributes.merge!(@local_options[:link_attributes]) if @local_options[:link_attributes]
+
+      # Check if the link is for a contest
+      if link.start_with?('https://www.someparty.ca/contests/')
+        # Append the URL variable
+        link << '?email=EMAIL_PLACEHOLDER'
+      end
+
       scope.link_to(content, link, attributes)
     end
   end

@@ -26,7 +26,10 @@ export default class extends Controller {
   }
 
   async promptEntry(email) {
-    const confirm = this.element.dataset.confirm
+    const inputEl = this.inputTarget
+
+    let confirm = this.element.dataset.confirm;
+    confirm = confirm.replace('EMAIL_PLACEHOLDER', email);
 
     const result = await Swal.fire({
       title: "Confirm Entry",
@@ -51,6 +54,8 @@ export default class extends Controller {
       await this.confirmEntry(email)
     } else if (result.isDenied) {
       Swal.fire("Contest entry cancelled", "You haven't entered the draw.", "info")
+      inputEl.style.display = 'flex'
+      window.history.replaceState({}, document.title, window.location.pathname)
     }
   }
 
@@ -77,6 +82,7 @@ export default class extends Controller {
   async confirmEntry(email) {
     const spinnerEl = this.spinnerTarget
     const contest = this.element.dataset.contest
+    const inputEl = this.inputTarget
 
     if(!email || !contest) {
       return

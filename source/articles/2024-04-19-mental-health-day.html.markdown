@@ -16,6 +16,11 @@ The group's new album, *Such a Waste*, arrives this weekend. It's an eight-song 
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2902802448/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://barnaclemtl.bandcamp.com/album/such-a-waste">Such A Waste by Barnacle</a></iframe>
 
+###Subscriber Perk: [Win Tickets to No Man's Land](https://www.someparty.ca/contests/no-mans-land/)
+==Enter the draw [here](https://www.someparty.ca/contests/no-mans-land/)==
+
+Some Party subscribers can score tickets to the [No Man's Land](https://www.someparty.ca/contests/no-mans-land/) music festival, happening May 25 and 26 in downtown St. Catharines, Ontario. The event features Protest The Hero, The Flatliners, Dead Tired, Chastity, Moneen, Cancer Bats, and more! Enter today for your chance to win.
+
 ###[Bootlicker](https://boot-licker.bandcamp.com/): "Mercy Dog"
 ==Preview and purchase at [Bandcamp](https://neontasterecords.bandcamp.com/album/bootlicker-1000-yard-stare)==
 
