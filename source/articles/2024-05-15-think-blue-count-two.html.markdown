@@ -6,7 +6,7 @@ description: Back from a break with new music from Golden Drag (Greys), Laughing
 ---
 
 ###[Golden Drag](https://goldendrag.bandcamp.com): *Twin Paradise*
-==Preview and purchase at [Bandcamp](https://goldendrag.bandcamp.com/album/twin-paradise)==
+==Watch "Think Blue Count Two" at [YouTube](https://youtu.be/tJ9C2BBxnps?si=3g7Wm5WalcFaCv83) - Preview and purchase at [Bandcamp](https://goldendrag.bandcamp.com/album/twin-paradise)==
 
 [Greys](https://greys.bandcamp.com/) had one hell of an arc. The Toronto noise-punk group teased new frontiers with each subsequent release, ending somewhere entirely different from where they began and demonstrating growth with a grace that bands often find elusive. As a solo project, [Golden Drag](https://goldendrag.bandcamp.com) probably shouldn't have to shoulder the weight of its predecessor, but it's hard to hear Shehzaad Jiwani's vocals without putting the two into conversation. I still rock an increasingly threadbare Greys t-shirt, so I'm not the best judge of when to let go.
 
@@ -42,8 +42,8 @@ Private Lives' debut LP *Hit Record* came out last summer, as did PRIORS' [Mothl
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3337912713/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://cosmicclub.bandcamp.com/album/dont-dream-at-night">Don&#39;t Dream at Night by Cosmic Club</a></iframe>
 
-###[Stephen Hamm Theremin Man](https://thereminman.bandcamp.com): "Planet Earth"
-==Watch on [YouTube](https://youtu.be/8cLUn2lazXQ?si=PQ8LkaLVQMCrV5AZ)==
+###[Stephen Hamm Theremin Man](https://thereminman.bandcamp.com): *Songs For The Future*
+==Watch "Planet Earth" on [YouTube](https://youtu.be/8cLUn2lazXQ?si=PQ8LkaLVQMCrV5AZ)==
 
 Stephen Hamm has a rather storied history in the Vancouver music universe, from the infamous 80s punk act [Slow](https://slow.bandcamp.com) to the absurdist [Canned Hamm](https://cannedhamm.bandcamp.com) and eventually a stint with [Nardwuar](http://www.nardwuar.com/)'s manic [Evaporators](https://theevaporators.bandcamp.com). Hamm's solo efforts of late have focused on the theremin and dive gleefully into space rock. That's the case, sonically and thematically, with *Songs For The Future*, the artist's new LP as [Stephen Hamm Theremin Man](https://thereminman.bandcamp.com).
 
@@ -182,4 +182,3 @@ The silk-screened album cover, which opens in the centre (barn door style), feat
 Mudie's known for his years fronting bands like [The Sainte Catherines](https://thesaintecatherines.bandcamp.com/) and [Yesterday's Ring](https://yesterdaysringmtl.bandcamp.com) before launching a prolific and varied solo career. Subb was a staple of the early 2000s Montreal ska-punk scene. They last issued *To This Beat* in 2009 on Stomp.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2552348629/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://thousandislandsrecords.bandcamp.com/album/subb-x-mudie-cat-songs">Subb x Mudie - Cat Songs by Subb x Mudie</a></iframe>
-
