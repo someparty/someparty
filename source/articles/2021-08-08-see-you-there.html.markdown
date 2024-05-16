@@ -42,7 +42,7 @@ The original album, Moore's third LP, arrived in March of last year, recorded by
 ###[The Garrys](https://thegarrys.bandcamp.com/): "It's Over"
 ==Preview and purchase at [Bandcamp](https://thegarrys.bandcamp.com/track/its-over)==
 
-Lenore Maier of Sakadoon trio [The Garrys](https://thegarrys.bandcamp.com/) meanwhile plays in the one-off Rock Lotto act Russian Boys. Last week, her main gig released their third preview of *Get Thee To a Nunnery*. The Saskatoon psych-surf trio commented on the vintage sounds of "It's Over":
+Lenore Maier of Sakatoon trio [The Garrys](https://thegarrys.bandcamp.com/) meanwhile plays in the one-off Rock Lotto act Russian Boys. Last week, her main gig released their third preview of *Get Thee To a Nunnery*. The Saskatoon psych-surf trio commented on the vintage sounds of "It's Over":
 
 >"'It's Over' is a breakup track taking its cues from late-1950s teenage heartbreak anthems and classic Girl Group melodrama. Oozing vintage style, with pensive guitars and misty-eyed vocal harmonies, The Garrys sway and bounce on an emotional high-wire between the failed-relationship extremes of 'it's fine' and 'I wanna die', and invite the listener to join them in a moment of indulging every messy feeling that can bubble up in the aftermath of a breakup."
 

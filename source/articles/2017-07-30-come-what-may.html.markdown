@@ -50,7 +50,7 @@ Punknews.org [premiered](https://www.punknews.org/article/64372/media-dead-broke
 
 While you're at Punknews, make sure you check out the second new single from Vancouver's [Woolworm](https://woolworm.bandcamp.com/). "Seer" will appear on the band's sophomore LP *Deserve To Die*, due out on August 25th on [Mint Records](https://www.mintrecs.com/). It gives a pretty good sense of the album's "hardcore band plays moody alt-rock" vibe and shows off some of the big production values they got working with Jesse Gander at Rain City (White Lung, Japandroids).
 
-The site also [premiered](https://www.punknews.org/article/64384/exclusivevideos-the-creepshow-sticks-and-stones-punknews-exclusive) a video for the stomping rock'n'roll song "Sticks & Stones" by Montreal punk / psychobilly group [The Creepshow](https://www.facebook.com/TheCreepshowOfficial/). The song will appear on *Death at my Door*, a September 15th release through [Stomp Records](https://stomprecords.com/).
+The site also [premiered](https://www.punknews.org/article/64384/exclusivevideos-the-creepshow-sticks-and-stones-punknews-exclusive) a video for the stomping rock'n'roll song "Sticks & Stones" by Montreal punk / psychobilly group [The Creepshow](https://thecreepshow.bandcamp.com). The song will appear on *Death at my Door*, a September 15th release through [Stomp Records](https://stomprecords.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SJ-KGGS_SY0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 

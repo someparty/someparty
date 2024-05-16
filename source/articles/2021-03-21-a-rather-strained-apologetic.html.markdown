@@ -176,7 +176,7 @@ Moncton, New Brunswick's [Zero Zero UFO](https://zerozeroufo.bandcamp.com) charg
 
 Hamilton psych-punk supergroup [Rules](https://rulesareaband.bandcamp.com/) has a new video online featuring the track "Victims," a fuzzy scorcher from their recent debut full-length *The Bummer Circus Comes To Truth City*. It's the album's second single following "Burning Bridges." The aforementioned [Stomp](https://stomprecords.com/) (who are all over this week's newsletter) issued the record earlier this month.
 
-Rules worked with producer Roman Marcone on the 14-song record. The band features [Chuck Coles](https://chuckcoles.bandcamp.com/) ([The Creepshow](https://www.facebook.com/TheCreepshowOfficial/), Organ Thieves), Ben Rispin ([Saint Alvia](https://www.facebook.com/saintalvia/), The Video Dead), Adam Michael ([Say Yes](https://www.facebook.com/sayyesofficial), Walk Off The Earth) and Alex Standen ([The Penske File](https://thepenskefileband.bandcamp.com/)).
+Rules worked with producer Roman Marcone on the 14-song record. The band features [Chuck Coles](https://chuckcoles.bandcamp.com/) ([The Creepshow](https://thecreepshow.bandcamp.com), Organ Thieves), Ben Rispin ([Saint Alvia](https://www.facebook.com/saintalvia/), The Video Dead), Adam Michael ([Say Yes](https://www.facebook.com/sayyesofficial), Walk Off The Earth) and Alex Standen ([The Penske File](https://thepenskefileband.bandcamp.com/)).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ekK5Pcj8-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

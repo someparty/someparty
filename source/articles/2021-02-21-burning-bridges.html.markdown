@@ -14,7 +14,7 @@ Rules worked with producer Roman Marcone, using a vintage SSL mixing console onc
 
 You can preview the 14-song album now through the aggressive "Burning Bridges." Fans of Gallows or raw-throated LA punks The Bronx should definitely take note of this one. You'll also find Luke Bentham of The Dirty Nil shouting along in the background on the track.
 
-Rules brings together [Chuck Coles](https://chuckcoles.bandcamp.com/) ([The Creepshow](https://www.facebook.com/TheCreepshowOfficial/), Organ Thieves), Ben Rispin ([Saint Alvia](https://www.facebook.com/saintalvia/), The Video Dead), Adam Michael ([Say Yes](https://www.facebook.com/sayyesofficial), Walk Off The Earth) and Alex Standen ([The Penske File](https://thepenskefileband.bandcamp.com/)). The group last released the extended single "You Decide" in 2016.
+Rules brings together [Chuck Coles](https://chuckcoles.bandcamp.com/) ([The Creepshow](https://thecreepshow.bandcamp.com), Organ Thieves), Ben Rispin ([Saint Alvia](https://www.facebook.com/saintalvia/), The Video Dead), Adam Michael ([Say Yes](https://www.facebook.com/sayyesofficial), Walk Off The Earth) and Alex Standen ([The Penske File](https://thepenskefileband.bandcamp.com/)). The group last released the extended single "You Decide" in 2016.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=97281324/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=2581137986/transparent=true/" seamless><a href="https://rulesareaband.bandcamp.com/album/the-bummer-circus-comes-to-truth-city">The Bummer Circus Comes To Truth City by Rules</a></iframe>
 

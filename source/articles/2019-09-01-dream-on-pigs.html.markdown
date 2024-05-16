@@ -124,7 +124,7 @@ Toronto punk/hard rock act [The Anti-Queens](https://theanti-queens.bandcamp.com
 
 The Anti-Queens features Emily Bones on lead vocals and guitar, Valerie Knox (of Oshawa's [Black Cat Attack](https://blackcatattack.bandcamp.com/)) on guitar and vocals, Dallas Conte on drums, and Taylor Cos (of Newmarket's [Rue Bella](https://ruebella.bandcamp.com/)) on bass and vocals.
 
-The Anti-Queens will play a handful of record-release shows in Montreal, Jonquière, Quebec City, and Toronto over the next month before heading to Europe for a tour with labelmates [The Creepshow](https://www.facebook.com/TheCreepshowOfficial/). You can find those details over at [Punknews](https://www.punknews.org/article/70681/exclusivevideos-check-out-the-new-video-for-worse-than-death-by-the-anti-queens).
+The Anti-Queens will play a handful of record-release shows in Montreal, Jonquière, Quebec City, and Toronto over the next month before heading to Europe for a tour with labelmates [The Creepshow](https://thecreepshow.bandcamp.com). You can find those details over at [Punknews](https://www.punknews.org/article/70681/exclusivevideos-check-out-the-new-video-for-worse-than-death-by-the-anti-queens).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rW_oxZBQDfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

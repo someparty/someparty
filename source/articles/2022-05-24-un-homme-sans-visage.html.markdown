@@ -151,7 +151,7 @@ Ryan Brown's Saint John power-pop project [Sunnyside Uppers](https://sunnysideup
 ###[The Slime](https://theslimehardcore.bandcamp.com):  "Real Garbage"
 ==Preview and purchase at [Bandcamp](https://theslimehardcore.bandcamp.com/track/real-garbage)==
 
-Toronto punk quartet [The Slime](https://theslimehardcore.bandcamp.com/) recently shared "Real Garbage," the first single from their forthcoming EP *Living on Borrowed Slime*. Described as a "blast of pure unadulterated old school hardcore," the relentless track delivers just that as it crashes through 80 pounding seconds. The band recorded their new material at Dundas, Ontario's School House Studios, with Nick Ginn ([Hellbent](https://hellbentband.bandcamp.com/)) mixing and ex-[Cancer Bats](http://www.cancerbats.com/) guitarist Scott Middleton mastering.
+Toronto punk quartet [The Slime](https://theslimehardcore.bandcamp.com/) recently shared "Real Garbage," the first single from their forthcoming LP *Living on Borrowed Slime*. Described as a "blast of pure unadulterated old school hardcore," the relentless track delivers just that as it crashes through 80 pounding seconds. The band recorded their new material at Dundas, Ontario's School House Studios, with Nick Ginn ([Hellbent](https://hellbentband.bandcamp.com/)) mixing and ex-[Cancer Bats](http://www.cancerbats.com/) guitarist Scott Middleton mastering.
 
 *Living on Borrowed Slime* follows up on the group's 2021 single *Death Champs*. Look for it on 12" vinyl later this year through [Cursed Blessings Records](https://www.cursedblessingsrecords.com/). The Slime features vocalist Andy Mc, guitarist Robert Pasiak, bassist CD Grind, and drummer Derek Slime.
 
