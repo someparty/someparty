@@ -38,7 +38,7 @@ Nap Eyes released *Snapshot of a Beginner*, their fourth LP, in early 2020 throu
 ###[Rick White](https://rickwhitearchive.bandcamp.com) and [The Sadies](https://www.thesadies.net/)
 ==Preview and purchase at [Bandcamp](https://rickwhitearchive.bandcamp.com/album/rick-white-and-the-sadies-2024)==
 
-After the passing of Dallas Good, the ties binding [The Sadies](https://www.thesadies.net/) tp indie legend [Rick White](https://rickwhitearchive.bandcamp.com) only became stronger. With the loss still raw, Rick celebrated his longtime collaborator with a faithful album of Sadies covers. This summer brings the artists closer still with the arrival of a communal album of brand-new material. The 13-song *Rick White and the Sadies*, recorded in the early winter months of 2024, lands this week through Rick's [Blue Fog Recordings](https://bluefogrecordings.bigcartel.com/). LPs are on order now, with the digital set available early through Bandcamp.
+After the passing of Dallas Good, the ties binding [The Sadies](https://www.thesadies.net/) to indie legend [Rick White](https://rickwhitearchive.bandcamp.com) only became stronger. With the loss still raw, Rick celebrated his longtime collaborator with a faithful album of Sadies covers. This summer brings the artists closer still with the arrival of a communal album of brand-new material. The 13-song *Rick White and the Sadies*, recorded in the early winter months of 2024, lands this week through Rick's [Blue Fog Recordings](https://bluefogrecordings.bigcartel.com/). LPs are on order now, with the digital set available early through Bandcamp.
 
 On the project, White revealed:
 
