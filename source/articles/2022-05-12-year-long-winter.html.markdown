@@ -205,10 +205,10 @@ Cellos are following up on a 2019 split 7" with Toronto's [Not Of](https://notof
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=783359654/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://cellos.bandcamp.com/album/the-downward-gaze">The Downward Gaze by Cellos</a></iframe>
 
-###[Juice](https://juicebc.bandcamp.com/album/demonic-frequency): *Demonic Frequency*
+###[Juice](https://juicebc.bandcamp.com): *Demonic Frequency*
 ==Preview and purchase at [Bandcamp](https://juicebc.bandcamp.com/album/demonic-frequency)==
 
-Last week [Demolition Records](https://demolitionrecords.bigcartel.com/product/juice-demonic-frequency-7-preorder) announced a new three-song 7" from Vancouver bruisers [Juice](https://juicebc.bandcamp.com/album/demonic-frequency). *Demonic Frequency* marks the hardcore band's first new material since their well-regarded 2018 demo. Fifty records are due on clear lathe cut vinyl, pending pressing delays. The band recorded with Robert Foster engineering.
+Last week [Demolition Records](https://demolitionrecords.bigcartel.com/product/juice-demonic-frequency-7-preorder) announced a new three-song 7" from Vancouver bruisers [Juice](https://juicebc.bandcamp.com). *Demonic Frequency* marks the hardcore band's first new material since their well-regarded 2018 demo. Fifty records are due on clear lathe cut vinyl, pending pressing delays. The band recorded with Robert Foster engineering.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3447918136/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://juicebc.bandcamp.com/album/demonic-frequency">Demonic Frequency by Juice</a></iframe>
 

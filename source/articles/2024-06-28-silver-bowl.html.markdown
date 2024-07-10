@@ -2,7 +2,7 @@
 title: Silver Bowl
 date: 2024-06-28
 author: adam@someparty.ca (Adam White)
-description: Recapping new music from Dog Day, PONY, Heavenly Sweetheart, Energy Slime, Laughing, Heavenly For Real, Frozen Lake, Conditioner, Knitting, Avem, Burner, Frank Dux, B.A.L.M. Squad, Ichi-Bons, Random Assault, Phane, The Readys, Jade Hairpins, Fucked Up, and Chastity!
+description: Recapping new music from Dog Day, PONY, Heavenly Sweetheart, Energy Slime, Laughing, Heaven For Real, Frozen Lake, Conditioner, Knitting, Avem, Burner, Frank Dux, B.A.L.M. Squad, Ichi-Bons, Random Assault, Phane, The Readys, Jade Hairpins, Fucked Up, and Chastity!
 ---
 
 ###[Dog Day](https://fundog.bandcamp.com): "Silver Bowl"
