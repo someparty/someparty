@@ -142,7 +142,7 @@ The label recently compiled *GUV I* and *GUV II* into one massive 19-song double
 
 [Listen: Young Guv - "Caught Lookin'" (Turbotito Remix) @ Bandcamp](http://youngguv.bandcamp.com/track/caught-lookin-turbotito-remix "#")
 
-BC punk legends [D.O.A.](https://www.suddendeath.com/) have a new album out March 15, titled <i>Treason</i>. It arrives on  [Sudden Death Records](https://www.suddendeath.com/) as the follow-up to the veteran band's 40th-anniversary full-length *Fight Back*. [Punknews](https://www.punknews.org/article/72036/check-out-the-new-single-by-doa) recently premiered the track "All The President's Men." Speaking with the site, frontman Joey "Shithead" Keithley commented on the politically aggrieved tune:
+BC punk legends [D.O.A.](https://www.suddendeath.com/) have a new album out March 15, titled *Treason*. It arrives on  [Sudden Death Records](https://www.suddendeath.com/) as the follow-up to the veteran band's 40th-anniversary full-length *Fight Back*. [Punknews](https://www.punknews.org/article/72036/check-out-the-new-single-by-doa) recently premiered the track "All The President's Men." Speaking with the site, frontman Joey "Shithead" Keithley commented on the politically aggrieved tune:
 
 >"In 'All The President's Men,' we sampled Rudy Guilliani stating 'What is the truth?' Well we know what the fucking truth is. It's time to put all the President's men in the pen! One day Trump can join them."
 
