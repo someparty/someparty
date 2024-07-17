@@ -17,6 +17,8 @@ If you want to hedge your bets and buy tickets regardless, make sure to use the 
 
 CONTESTWIDGET
 
+<small>The winner will be provided with a pair of electronic tickets for Polaris Gala, seated in the Massey Hall gallery (third floor). Electronic tickets be provided to winner closer to the Gala (likely in September). Tickets are non-transferable.</small>
+
 ## The 2024 Polaris Music Prize Short List
 
 This year's contenders for the Polaris Prize include:
