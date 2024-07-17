@@ -1655,7 +1655,7 @@ GEM
     nokogiri (1.16.5)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    nokogiri (1.16.5-arm64-darwin)
+    nokogiri (1.16.5-x86_64-linux)
       racc (~> 1.4)
     padrino-helpers (0.15.3)
       i18n (>= 0.6.7, < 2)
@@ -1684,8 +1684,8 @@ GEM
     regexp_parser (2.9.2)
     reline (0.5.7)
       io-console (~> 0.5)
-    rexml (3.2.8)
-      strscan (>= 3.0.9)
+    rexml (3.3.2)
+      strscan
     rubocop (1.63.5)
       json (~> 2.3)
       language_server-protocol (>= 3.17.0)
@@ -1727,8 +1727,8 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  arm64-darwin-21
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   activesupport
