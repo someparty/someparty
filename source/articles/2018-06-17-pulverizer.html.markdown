@@ -15,7 +15,7 @@ Whenever the new record arrives, it will follow up Fountain's recent collection 
 
 [Watch: Fountain - "Pulverizer" @ YouTube](https://youtu.be/gfaJHKBJ5Gg "#")
 
-It's been a quiet year for [Vallens](https://www.facebook.com/vallensband/) but the atmospheric Toronto act has returned with a new EP For [Hand Drawn Dracula](http://handdrawndracula.com/) titled *Dimmed in my Display*. The four-song set features guitarist/vocalist Robyn Phillips backed by Marta Cikojevic of Montreal's [TOPS](http://www.tttopsss.com/) on keys, drummer Colin J. Morgan ([Cellphone](http://cellphone100.bandcamp.com/)), and bassist Devon Henderson (Valery Gore). Henderson also served as producer for the EP.
+It's been a quiet year for [Vallens](https://www.facebook.com/vallensband/) but the atmospheric Toronto act has returned with a new EP For [Hand Drawn Dracula](https://www.handdrawndracula.com) titled *Dimmed in my Display*. The four-song set features guitarist/vocalist Robyn Phillips backed by Marta Cikojevic of Montreal's [TOPS](http://www.tttopsss.com/) on keys, drummer Colin J. Morgan ([Cellphone](http://cellphone100.bandcamp.com/)), and bassist Devon Henderson (Valery Gore). Henderson also served as producer for the EP.
 
 If you've never run into Vallens, the band last released a widely acclaimed LP in 2016 titled *Consent* that saw them drawing from shoegaze and goth to craft a dark, cinematic record that was both sonically dense and thematically heavy. A David Lynch-inspired video for the record's title track has, rightly or wrongly, tied the band's image to the filmmaker's unsettling aesthetic since it was released.
 

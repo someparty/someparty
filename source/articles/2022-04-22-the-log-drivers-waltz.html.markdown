@@ -230,7 +230,7 @@ Sluice's debut LP, issued last April via [Acadian Embassy](http://acadianembassy
 ###[Tallies](http://tallies.bandcamp.com): "Hearts Underground"
 ==Watch at [YouTube](https://youtu.be/5rOQ6CoI_ew) - Preview and purchase at [Bandcamp](https://tallies.bandcamp.com/track/hearts-underground)==
 
-Toronto dream-pop quartet [Tallies](http://tallies.bandcamp.com) recently announced details on their forthcoming full-length. *Patina* arrives on July 29 through [Hand Drawn Dracula](http://handdrawndracula.com/), [Kanine Records](http://kaninerecords.com/), and [Bella Union](https://bellaunion.com/). The announcement arrived with a video for the new single "Hearts Underground." On that, the vocalist Sarah Cogan commented:
+Toronto dream-pop quartet [Tallies](http://tallies.bandcamp.com) recently announced details on their forthcoming full-length. *Patina* arrives on July 29 through [Hand Drawn Dracula](https://www.handdrawndracula.com), [Kanine Records](http://kaninerecords.com/), and [Bella Union](https://bellaunion.com/). The announcement arrived with a video for the new single "Hearts Underground." On that, the vocalist Sarah Cogan commented:
 
 >"This song is that little voice that kicks yourself. The voice that says, 'why'd you do that?'. In this case, it was about how it holds me back, sometimes for the better. It's about self-sabotage. Sometimes you wish this little voice would speak up sooner and not just after the fact. I wrote a song about that little voice that I've heard my whole life; it's a reflection on times when I've held back too much or when I wish I'd held back more."
 
@@ -243,7 +243,7 @@ Tallies are currently billed as a trio, featuring singer/guitarist Sarah Cogan b
 
 If you thought there'd be a lull between [Young Guv](https://youngguv.bandcamp.com)'s pair of 2022 records, you'd be mistaken. With *GUV III* fresh in hand, the cycle's already started for the fourth volume in the eponymous series. "Change Your Mind" isn't our first preview of the next LP, as the 12-song tracklist includes both "Cold in the Summer" and "Maybe I Should Luv Somebody Else" - songs we first heard as one-off singles back in 2020. "Change Your Mind" is a psych-pop number with just a hint of country twang - likely owed to the harmonica and pedal steel guitar.
 
-*GUV IV* lands on June 24 through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](http://handdrawndracula.com/). When he isn't writing timeless little pop songs like these, Cook's, of course, known as the frontman of Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666) and as a former guitarist for [Fucked Up](http://fuckedup.cc/).
+*GUV IV* lands on June 24 through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com). When he isn't writing timeless little pop songs like these, Cook's, of course, known as the frontman of Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666) and as a former guitarist for [Fucked Up](http://fuckedup.cc/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1449087289/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=357901242/transparent=true/" seamless><a href="https://youngguv.bandcamp.com/album/guv-iv">GUV IV by Young Guv</a></iframe>
 
@@ -278,7 +278,7 @@ Now based in Europe, having taken flight from Toronto during the pandemic, Delil
 ###[Tess Parks](https://www.tessparks.com/): "Do You Pray?"
 ==Watch on [YouTube](https://youtu.be/vE5dtPZp-j8) - Preview and purchase at [Bandcamp](https://tessparks.bandcamp.com/track/do-you-pray)==
 
-[Tess Parks](https://www.tessparks.com/) continues to floor me with the smokey psych-pop of *And Those Who Were Seen Dancing*, her new LP arriving May 20 through [Fuzz Club](https://fuzzclub.com/) and [Hand Drawn Dracula](http://handdrawndracula.com/). The track "Do You Pray?" recently surfaced as the album's third preview, a song that ties in elements of the traditionals "My Bonnie Lies Over The Ocean" and "When the Saints Go Marching In."
+[Tess Parks](https://www.tessparks.com/) continues to floor me with the smokey psych-pop of *And Those Who Were Seen Dancing*, her new LP arriving May 20 through [Fuzz Club](https://fuzzclub.com/) and [Hand Drawn Dracula](https://www.handdrawndracula.com). The track "Do You Pray?" recently surfaced as the album's third preview, a song that ties in elements of the traditionals "My Bonnie Lies Over The Ocean" and "When the Saints Go Marching In."
 
 In a press release, Parks commented on the choreography central to the "Do You Pray?" video:
 

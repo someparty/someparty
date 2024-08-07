@@ -116,7 +116,7 @@ As with the recent single, Barber recorded and mixed the new album from his home
 ###[Dermabrasion](https://dermabrasion.bandcamp.com): "Goblin Dance"
 ==Watch on [YouTube](https://youtu.be/79NZ613f5FI?si=U4K8NAeCpv52QMTh) - Preview and purchase at [Bandcamp](https://handdrawndracula.bandcamp.com/album/pain-behaviour)==
 
-Industrial/goth duo [Dermabrasion](https://dermabrasion.bandcamp.com) embrace a bizarre collection of early internet memes for their "Goblin Dance" visualizer. The video, directed by the band's Kat McGouran, delivers our second sinister preview of the band's upcoming debut LP *Pain Behaviour*. The album arrives on January 26th via [Hand Drawn Dracula](http://handdrawndracula.com/).
+Industrial/goth duo [Dermabrasion](https://dermabrasion.bandcamp.com) embrace a bizarre collection of early internet memes for their "Goblin Dance" visualizer. The video, directed by the band's Kat McGouran, delivers our second sinister preview of the band's upcoming debut LP *Pain Behaviour*. The album arrives on January 26th via [Hand Drawn Dracula](https://www.handdrawndracula.com).
 
 Dermabrasion features Kat McGouran on vocals and bass with Adam Bernhardt on guitar and synths. The pair previously played together in the storied Toronto punk act [WLMRT](https://wlmrt.bandcamp.com/). Josh Korody recorded, produced, and mixed the 10-track LP from Candle Recording with Noah Mintz mastering. *Pain Behaviour* is the band's first album, following up on their 2021 EP, *Lunate*.
 

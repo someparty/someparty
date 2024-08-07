@@ -49,7 +49,7 @@ I wrote quite a bit about "[Raise Your Voice Joyce](https://www.someparty.ca/201
 
 [Listen: Fucked Up - "House of Keys" @ YouTube](https://youtu.be/aPqJuCIKgNw "#")
 
-Toronto artist/producer Derek McKeon has announced a new full-length as the psych-pop act [ZONES](https://zonesmusic.bandcamp.com/). The album, titled *The State of Light*, is an 8-track trip due on October 5 from [Hand Drawn Dracula](http://handdrawndracula.com/).
+Toronto artist/producer Derek McKeon has announced a new full-length as the psych-pop act [ZONES](https://zonesmusic.bandcamp.com/). The album, titled *The State of Light*, is an 8-track trip due on October 5 from [Hand Drawn Dracula](https://www.handdrawndracula.com).
 
 The new album announcement came with an interactive video created by experimental LA artist [Vinyl Williams](https://vinylwilliams.bandcamp.com/). It features the album-closing track "The Syzygy." McKeon commented on the track in a statement:
 

@@ -99,7 +99,7 @@ Private Hell played just a handful of shows during the pandemic, appearing as a 
 ###[Bonnie Trash](https://bonnietrash.bandcamp.com/): "Perfect Moment (A Beautiful Reunion)"
 ==Watch on [YouTube](https://youtu.be/6fXXzyDN7A8) - Preview and purchase at [Bandcamp](https://handdrawndracula.bandcamp.com/track/perfect-moment-a-beautiful-reunion)==
 
-Guelph drone-rock duo [Bonnie Trash](https://bonnietrash.bandcamp.com/) recently shared another new preview of *Malocchio*, their new LP due October 28 through [Hand Drawn Dracula](http://handdrawndracula.com/). You can see the dissonant "Perfect Moment (A Beautiful Reunion)" visualized in a video from Sam Maloney of the Toronto psych-rockers [Kali Horse](https://kalihorse.bandcamp.com). The band shared the following statement, referencing the mystical aspects of the Italian diaspora that forms the core of their songwriting:
+Guelph drone-rock duo [Bonnie Trash](https://bonnietrash.bandcamp.com/) recently shared another new preview of *Malocchio*, their new LP due October 28 through [Hand Drawn Dracula](https://www.handdrawndracula.com). You can see the dissonant "Perfect Moment (A Beautiful Reunion)" visualized in a video from Sam Maloney of the Toronto psych-rockers [Kali Horse](https://kalihorse.bandcamp.com). The band shared the following statement, referencing the mystical aspects of the Italian diaspora that forms the core of their songwriting:
 
 >"How do you see yourself dying? How do others see you dying? How does it feel to be left to die, when there's nothing else you can do, waiting for that 'perfect' moment of one last euphoria: a beautiful reunion. This song is a genuflection to all of the nonni who passed during the pandemic and could not be held."
 

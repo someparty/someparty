@@ -25,7 +25,7 @@ Big Rig's self-titled set's due on June 24 through Courtney Gavin's [Peaceful Ta
 ###[Fake Palms](https://www.instagram.com/fakepalmsband/): "Satellite"
 ==Watch on [YouTube](https://youtu.be/c7qK0b3CeKY) - Preview and purchase at [Bandcamp](https://handdrawndracula.bandcamp.com/album/lemons)==
 
-Hot on the heels of *Dose Yourself*, the full-length debut from his synth-pop trio [Sauna](http://saunaaa.bandcamp.com), Toronto's Michael le Riche is readying the return of his rock band [Fake Palms](https://fakepalms-pleasence.bandcamp.com/). The group's lined up *Lemons*, their third LP, for a September 16 release through [Hand Drawn Dracula](http://handdrawndracula.com/). You can hear the album's first single, the taut, angular "Satellite," streaming now and visualized in a video by director [Justis Krar](https://www.immvproductions.com/).
+Hot on the heels of *Dose Yourself*, the full-length debut from his synth-pop trio [Sauna](http://saunaaa.bandcamp.com), Toronto's Michael le Riche is readying the return of his rock band [Fake Palms](https://fakepalms-pleasence.bandcamp.com/). The group's lined up *Lemons*, their third LP, for a September 16 release through [Hand Drawn Dracula](https://www.handdrawndracula.com). You can hear the album's first single, the taut, angular "Satellite," streaming now and visualized in a video by director [Justis Krar](https://www.immvproductions.com/).
 
 le Riche spoke about the album's stripped-down approach in a press release:
 
@@ -79,7 +79,7 @@ Last year Fiver issued the improvisational *Fiver with the Atlantic School Of Sp
 ###[Bonnie Trash](https://bonnietrash.bandcamp.com/): "Teeth"
 ==Watch on [YouTube](https://youtu.be/72sSupDhEb4) - Preview and purchase at [Bandcamp](https://handdrawndracula.bandcamp.com/track/teeth)==
 
-Guelph, Ontario drone-rock duo [Bonnie Trash](https://bonnietrash.bandcamp.com/) have signed with [Hand Drawn Dracula](http://handdrawndracula.com/), sharing the muscular single "Teeth" as the first preview of their forthcoming debut LP. The song arrives alongside a video directed by the band, a piece that reflects their Italian ancestry and family lore. They comment:
+Guelph, Ontario drone-rock duo [Bonnie Trash](https://bonnietrash.bandcamp.com/) have signed with [Hand Drawn Dracula](https://www.handdrawndracula.com), sharing the muscular single "Teeth" as the first preview of their forthcoming debut LP. The song arrives alongside a video directed by the band, a piece that reflects their Italian ancestry and family lore. They comment:
 
 >"We created a short film to help narrate stories our Nonna Maria told us about being haunted and followed by a curse in her hometown of San Zenone degli Ezzelini in Treviso, Italy. That short eventually became the concept of our album, which is woven into our first music video, 'Teeth.' Shot at the Apollo Cinema in Kitchener, Ontario, 'Teeth' bridges generations of being haunted - we see ourselves watching our work without understanding that we too have conjured the curse. A malocchio follows."
 

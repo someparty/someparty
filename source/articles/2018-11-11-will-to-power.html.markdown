@@ -35,7 +35,7 @@ The release is set for November 30 from [Bad Timing Records](http://www.badtimin
 
 [Listen: John K. Samson - "Saturday Night On Utopia Parkway" @ YouTube](https://youtu.be/Md3PvL5Ib1I "#")
 
-Toronto psych-pop act [ZONES](https://zonesmusic.bandcamp.com/) has a new video online for the song "Wine Cop." It appears on *The State of Light*, an 8-track set released October 5 on [Hand Drawn Dracula](http://handdrawndracula.com/). In the premiere at [Tiny Mix Tapes](https://www.tinymixtapes.com/chocolate-grinder/premiere-zones-wine-cop) ZONES principal Derek McKeon commented:
+Toronto psych-pop act [ZONES](https://zonesmusic.bandcamp.com/) has a new video online for the song "Wine Cop." It appears on *The State of Light*, an 8-track set released October 5 on [Hand Drawn Dracula](https://www.handdrawndracula.com). In the premiere at [Tiny Mix Tapes](https://www.tinymixtapes.com/chocolate-grinder/premiere-zones-wine-cop) ZONES principal Derek McKeon commented:
 
 > "This was the first track I wrote for the LP and its loose, off the grid feeling rhythm section completely inspired the direction and sound of the record. It emerged out of a series of magical jams and opened a door to a whole sonic world I needed to explore, full of midi slap bass and all"
 

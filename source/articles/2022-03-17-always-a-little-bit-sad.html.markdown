@@ -65,7 +65,7 @@ Doiron and Placard, a couple outside of their professional relationship, worked 
 ###[Tess Parks](https://www.tessparks.com/) : "Brexit At Tiffany's"
 ==Watch on [YouTube](https://youtu.be/4qf5Wj86zUE) - Preview and purchase at [Bandcamp](https://tessparks.bandcamp.com/track/brexit-at-tiffanys)==
 
-Everything we've heard from [Tess Parks](https://www.tessparks.com/)' upcoming full-length sounds positively stunning. The psych-pop singer-songwriter's gearing up for the release of *And Those Who Were Seen Dancing*. It arrives May 20 through [Fuzz Club](https://fuzzclub.com/) and [Hand Drawn Dracula](http://handdrawndracula.com/). Her latest single, cheekily titled "Brexit at Tiffany's," finds Parks channelling Patti Smith with an engaging spoken-word delivery.
+Everything we've heard from [Tess Parks](https://www.tessparks.com/)' upcoming full-length sounds positively stunning. The psych-pop singer-songwriter's gearing up for the release of *And Those Who Were Seen Dancing*. It arrives May 20 through [Fuzz Club](https://fuzzclub.com/) and [Hand Drawn Dracula](https://www.handdrawndracula.com). Her latest single, cheekily titled "Brexit at Tiffany's," finds Parks channelling Patti Smith with an engaging spoken-word delivery.
 
 In a press release, the Toronto-born Parks commented on how the track came together:
 

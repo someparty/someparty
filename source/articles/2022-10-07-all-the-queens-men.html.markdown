@@ -110,7 +110,7 @@ Before *Otto Motto*, BDR hasn't issued a new record since their 2016 Depeche Mod
 ###[Bonnie Trash](https://bonnietrash.bandcamp.com/): "Silence is a Killer"
 ==Watch on [YouTube](https://youtu.be/6fXXzyDN7A8) - Preview and purchase at [Bandcamp](https://handdrawndracula.bandcamp.com/album/malocchio)==
 
-This week Guelph drone-rock duo [Bonnie Trash](https://bonnietrash.bandcamp.com/) shared the final preview of *Malocchio*, their new LP due October 28 through [Hand Drawn Dracula](http://handdrawndracula.com/). The haunting "Silence is a Killer" directly engages with the Italian curse from which the album gets its name, as the band reveals:
+This week Guelph drone-rock duo [Bonnie Trash](https://bonnietrash.bandcamp.com/) shared the final preview of *Malocchio*, their new LP due October 28 through [Hand Drawn Dracula](https://www.handdrawndracula.com). The haunting "Silence is a Killer" directly engages with the Italian curse from which the album gets its name, as the band reveals:
 
 >"Infatuated with the soul it captures, the malocchio becomes one with you. And you? You eerily love every minute of it. It tricks you into thinking this is now your life, drenched in evil. It will haunt you until the end. How can you break the curse? 'Silence Is A Killer' is a lyric video following a Trevisani recipe on how to remove a malocchio, or at least buy some time: boil and burn all the feathers in your pillow, then throw them in the river."
 

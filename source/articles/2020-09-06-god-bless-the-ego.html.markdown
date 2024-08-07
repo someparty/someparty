@@ -109,7 +109,7 @@ This October, [Yeah Right! Records](http://yeahrightrecords.com/) is offering up
 
 [Watch: The Spitfires - *Live At The Pic* @ Bandcamp](https://yeahrightrecords.bandcamp.com/album/live-at-the-pic "#")
 
-Toronto synthpop group [Sahara](https://saharatoronto.bandcamp.com/) has a new video online for "Indoor Pool," a track from their recent debut LP for [Hand Drawn Dracula](http://handdrawndracula.com/). That record, dubbed *Pure Glass*, featured nine songs that tied together 90s shoegaze noise with dream pop notes the early Cure's influence.
+Toronto synthpop group [Sahara](https://saharatoronto.bandcamp.com/) has a new video online for "Indoor Pool," a track from their recent debut LP for [Hand Drawn Dracula](https://www.handdrawndracula.com). That record, dubbed *Pure Glass*, featured nine songs that tied together 90s shoegaze noise with dream pop notes the early Cure's influence.
 
 Sahara recorded *Pure Glass* with Dylan Frankland of Tallies in the studio. The group features vocalist/guitarist Andrew Wilson, guitarist Joseph Elaschuk, bassist Julie MacKinnon, and drummer Edan Scime Stokell.
 

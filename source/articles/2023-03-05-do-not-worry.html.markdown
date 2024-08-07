@@ -223,7 +223,7 @@ Guelph drone-rock duo [Bonnie Trash](https://bonnietrash.bandcamp.com/) has a ne
 
 >"This song is about the bumps on your skin when you're scared and the jolt in your legs just before you fall asleep. Who or what is causing this? Something or someone is haunting you and it lingers. Never doubt the ghosts who follow you."
 
-*Malocchio*, an album shrouded in Italian mysticism, landed in October through [Hand Drawn Dracula](http://handdrawndracula.com/). Bonnie Trash features guitarist Emmalia and drummer/vocalist Sarafina Bortolon-Vettor. The sisters recorded with Josh Korody co-producing at Candle Recording Studio in Toronto.
+*Malocchio*, an album shrouded in Italian mysticism, landed in October through [Hand Drawn Dracula](https://www.handdrawndracula.com). Bonnie Trash features guitarist Emmalia and drummer/vocalist Sarafina Bortolon-Vettor. The sisters recorded with Josh Korody co-producing at Candle Recording Studio in Toronto.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sNcv-0qZr1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

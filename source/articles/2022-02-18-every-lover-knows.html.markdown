@@ -154,7 +154,7 @@ This album again finds Ghostkeeper's core duo of Shane Ghostkeeper and Sarah Hou
 
 Toronto dream-pop quartet [Tallies](http://tallies.bandcamp.com) recently unveiled "Wound Up Tight" and "Heavens Touch," two new songs from their forthcoming record. The tracks follow up "No Dream of Fayres," which kicked off this cycle in November. "Wound Up Tight" arrived alongside a video directed by Christopher Mills (FRIGS, Zoon).
 
-All this material comes from studio sessions produced by [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh and the band's own Dylan Frankland. The group's new material arrives via [Hand Drawn Dracula](http://handdrawndracula.com/) in Canada, with [Kanine Records](http://kaninerecords.com/) handling the US and [Bella Union](https://bellaunion.com/) looking after Europe. A release date is pending.
+All this material comes from studio sessions produced by [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh and the band's own Dylan Frankland. The group's new material arrives via [Hand Drawn Dracula](https://www.handdrawndracula.com) in Canada, with [Kanine Records](http://kaninerecords.com/) handling the US and [Bella Union](https://bellaunion.com/) looking after Europe. A release date is pending.
 
 Tallies are currently billed as a trio, featuring singer/guitarist Sarah Cogan backed by Dylan Frankland on guitar and Cian O'Neill drumming. The group last released a self-titled LP in 2019.
 

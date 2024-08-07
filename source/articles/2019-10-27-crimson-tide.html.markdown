@@ -81,7 +81,7 @@ Last week the Toronto synthpop duo [Ice Cream](https://icecreeeammm.bandcamp.com
 
 [Watch: Ice Cream - "Doves Cry" @ YouTube](https://youtu.be/jMo2s8quWkw "#")
 
-[Hand Drawn Dracula](http://handdrawndracula.com/) recently released *Hi-Action*, the new full-length from Toronto 'space-motorik' trio [Mimico](https://mimico.bandcamp.com/). The album dropped alongside a video for "Tobacco Eyes," one of six sprawling songs from the set. Directed by Christopher Mills (FRIGS, Tallies), the clip puts the band's live performance through a kaleidoscope, with a sea of visual effects washing over the 7-plus minute track.
+[Hand Drawn Dracula](https://www.handdrawndracula.com) recently released *Hi-Action*, the new full-length from Toronto 'space-motorik' trio [Mimico](https://mimico.bandcamp.com/). The album dropped alongside a video for "Tobacco Eyes," one of six sprawling songs from the set. Directed by Christopher Mills (FRIGS, Tallies), the clip puts the band's live performance through a kaleidoscope, with a sea of visual effects washing over the 7-plus minute track.
 
 The psych-rock trio recorded *Hi-Action* with [Do Make Say Think](http://domakesaythink.com/)'s Justin Small producing. They worked on the album at the famous Bathhouse Studio and Toronto's Palace Sound. Mimico features the talents of Ben Oginz, Jeremiah Knight, and Nick Kervin.
 

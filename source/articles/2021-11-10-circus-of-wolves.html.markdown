@@ -100,7 +100,7 @@ Toronto dream-pop quartet [Tallies](http://tallies.bandcamp.com) recently shared
 
 >"'No Dreams of Fayres' is a reflection of thoughts that I remember going through my mind when I stayed still in bed. Feeling as though staying still in bed was the only thing that would help the sadness - basically, disconnecting myself from family, friends, and having a life. Finding the way out of depression was hard but possible. 'No Dreams of Fayres' is also about the realization of letting yourself feel real feelings but not mistaking them for emotions. I had to learn to get a grip of what I wanted out of life and go for it with no self-sabotage - which was music, as cliché as it sounds. It pulled me out of bed, physically and mentally."
 
-Tallies recorded with [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh and the band's own Dylan Frankland producing at Palace Sound, Baskitball 4 Life, and Candle Recording in Toronto. The group's new material arrives via [Hand Drawn Dracula](http://handdrawndracula.com/) in Canada, with [Kanine Records](http://kaninerecords.com/) handling the US and [Bella Union](https://bellaunion.com/) looking after Europe.
+Tallies recorded with [Holy Fuck](https://www.holyfuckmusic.com/)'s Graham Walsh and the band's own Dylan Frankland producing at Palace Sound, Baskitball 4 Life, and Candle Recording in Toronto. The group's new material arrives via [Hand Drawn Dracula](https://www.handdrawndracula.com) in Canada, with [Kanine Records](http://kaninerecords.com/) handling the US and [Bella Union](https://bellaunion.com/) looking after Europe.
 
 Tallies are currently billed as a trio, featuring Cogan backed by Dylan Frankland on guitar and Cian O'Neill drumming.
 

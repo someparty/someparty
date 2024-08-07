@@ -80,7 +80,7 @@ The Toronto psych-rock act [Mimico](https://mimico.bandcamp.com/) premiered a ne
 
 That grim quest is captured in a sci-fi clip from director [Kate Young](https://twitter.com/misskateyoung) that stars Toronto photojournalist [Galit Yael Rodan](https://www.instagram.com/galit_r/).
 
-"Common Tar" will appear on the 'space-motorik' trio's upcoming full-length, *Hi-Action*, which is due for a fall release on [Hand Drawn Dracula](http://handdrawndracula.com/). The band recorded with producer Justin Small (of [Do Make Say Think](http://domakesaythink.com/)) in sessions at both the storied Bathhouse Studio (The Tragically Hip, The Sadies) and Toronto's Palace Sound (Absolutely Free). The album features contributions from violinist Laura C. Bates (Volür) and guest-vocals from Ida Maidstone (Hush Pup). Mimico features Ben Oginz, Jeremiah Knight, and Nick Kervin.
+"Common Tar" will appear on the 'space-motorik' trio's upcoming full-length, *Hi-Action*, which is due for a fall release on [Hand Drawn Dracula](https://www.handdrawndracula.com). The band recorded with producer Justin Small (of [Do Make Say Think](http://domakesaythink.com/)) in sessions at both the storied Bathhouse Studio (The Tragically Hip, The Sadies) and Toronto's Palace Sound (Absolutely Free). The album features contributions from violinist Laura C. Bates (Volür) and guest-vocals from Ida Maidstone (Hush Pup). Mimico features Ben Oginz, Jeremiah Knight, and Nick Kervin.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GTFJiQduh9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

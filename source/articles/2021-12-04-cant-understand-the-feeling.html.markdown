@@ -36,7 +36,7 @@ Last week Ben Cook's [Young Guv](https://youngguv.bandcamp.com) issued a second 
 
 The single arrives alongside a video co-directed by Cook and Faiza Kracheni. The upcoming albums feature material written while isolating in Taos, New Mexico and later recorded in LA.
 
-*GUV III* arrives March 11 through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](http://handdrawndracula.com/). Cook issued the similarly presented *GUV I* and *II* LPs in 2019.
+*GUV III* arrives March 11 through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com). Cook issued the similarly presented *GUV I* and *II* LPs in 2019.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lWWu3vsOpxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

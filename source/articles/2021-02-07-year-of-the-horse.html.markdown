@@ -65,7 +65,7 @@ Bad Waitress recorded the new track with Dave Schiffman (PUP, The OBGMs). The so
 ==Watch on [YouTube](https://youtu.be/ihWkJC-Lh9w) - Preview and purchase at [Bandcamp](https://handdrawndracula.bandcamp.com/track/if-i-dont)==
 
 Atmospheric Toronto trio [Vallens](https://www.facebook.com/vallensband/) returns this year with their sophomore full-length for
-[Hand Drawn Dracula](http://handdrawndracula.com/). *In Era* arrives March 19 as a 10-song set featuring the group's new single "If I Don't." You can preview that song, a slow-burn that builds to soaring heights, at Bandcamp or through a video from director Allison Johnston.
+[Hand Drawn Dracula](https://www.handdrawndracula.com). *In Era* arrives March 19 as a 10-song set featuring the group's new single "If I Don't." You can preview that song, a slow-burn that builds to soaring heights, at Bandcamp or through a video from director Allison Johnston.
 
 Vallens features vocalist/guitarist/keyboardist Robyn Phillips backed by Devon Henderson on bass and synth, with Colin J Morgan drumming. The group recorded their latest material with Henderson in the producer's chair and Alex Gamble (Surrender, Fucked Up) engineering.
 

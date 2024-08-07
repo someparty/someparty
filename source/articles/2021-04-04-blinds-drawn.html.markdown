@@ -50,7 +50,7 @@ Toronto space-motorik trio [MIMICO](https://mimico.bandcamp.com/) has a new EP o
 >So as to not overburden
 >An already Heavy Earth.'"
 
-The new set follows the [Hand Drawn Dracula](http://handdrawndracula.com/)-issued *Hi-Action*, with much of the group's new material recorded during the same sessions that produced the 2019 album. A feature running in the latest issue of the Toronto scene zine [Ultra](https://www.ultramag.online/) delves further into the record, and is well worth a read.
+The new set follows the [Hand Drawn Dracula](https://www.handdrawndracula.com)-issued *Hi-Action*, with much of the group's new material recorded during the same sessions that produced the 2019 album. A feature running in the latest issue of the Toronto scene zine [Ultra](https://www.ultramag.online/) delves further into the record, and is well worth a read.
 
 MIMICO features Ben Oginz (synths, mellotron, organs, piano), Jeremiah Knight (vocals, bass, guitar), and Nick Kervin (vocals, drums, percussion, bass, piano). *Heavy Earth* again finds the band working with [Do Make Say Think](http://domakesaythink.com/)'s Justin Small in the producer's chair, with Alex Gamble mixing and mastering.
 

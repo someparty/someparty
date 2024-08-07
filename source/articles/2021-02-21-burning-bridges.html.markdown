@@ -98,7 +98,7 @@ Every new track we've heard from [Vallens](https://www.facebook.com/vallensband/
 
 >"Because I've taught myself to play piano in the past two years, there's actually not a lot of guitar on the album. A lot of people see me as a guitar player or Vallens as a guitar-driven band, so I think that's why this feels to me like even more of a departure. That's not the only thing I can do. I don't use as many effects anymore. I'm focused way more on singing and getting back to my primary instrument, which is actually my voice."
 
-The new track follows "If I Don't" in previewing the 10-song full-length, due March 19 from [Hand Drawn Dracula](http://handdrawndracula.com/).
+The new track follows "If I Don't" in previewing the 10-song full-length, due March 19 from [Hand Drawn Dracula](https://www.handdrawndracula.com).
 
 Vallens features vocalist/guitarist/keyboardist Robyn Phillips backed by Devon Henderson on bass and synth, with Colin J Morgan drumming. The group recorded their latest material with Henderson in the producer's chair and Alex Gamble (Surrender, Fucked Up) engineering.
 
