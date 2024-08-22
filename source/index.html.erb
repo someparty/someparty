@@ -8,7 +8,7 @@ front: true
 <% page_articles.each_with_index do |article, i| %>
   <article class="pa3 pa4-ns lh-copy f5 f4-ns">
     <div class="f5 maxread center"><%= article.date.strftime('%A %B %e, %Y') %></div>
-    <h2 class="f2 mt1 mb0 maxread center"><%= link_to article.title, article, class: "black no-underline", id: "canonical" %></h2>
+    <h2 class="f2 mt1 lh-title mb0 maxread center"><%= link_to article.title, article, class: "black no-underline", id: "canonical" %></h2>
     <%= partial '/_partials/tagline' %>
     <%= article.body %>
   </article>

@@ -44,4 +44,4 @@ Confirmed performers for this year's event include Charlotte Cardin, Jeremy Dutc
 - Time: 8:00 PM
 - Venue: Massey Hall, Toronto
 
-I'll draw winners for our draw on August 31, 2024. See the bottom of this page for terms and conditions.
+I'll draw winners on August 31, 2024. See the bottom of this page for terms and conditions.

@@ -1,6 +1,6 @@
 # Some Party
 
-Some Party is a newsletter sharing the latest in independent Canadian rock'n'roll, curated more-or-less weekly by Adam White.
+[Some Party](https://www.someparty.ca) is a newsletter sharing the latest in independent Canadian rock'n'roll, curated more-or-less weekly by Adam White.
 
 Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way.
 
@@ -59,10 +59,10 @@ Ensure the tmp/test.json file has some recipient data, such as:
 ]
 ```
 
-Send the email to the test subscriber, noting the exact file name of the generated article HTML (in this example, "2024-07-16-saved-by-rock-and-roll") you wish to send:
+Send the email to the test subscriber, noting the exact file name of the generated article HTML (in this example, "2024-08-21-corporate-funded-killing-technology") you wish to send:
 
 ```
-ruby send.rb -p 2024-07-16-saved-by-rock-and-roll -r test.json
+ruby send.rb -p 2024-08-21-corporate-funded-killing-technology -r test.json
 ```
 
 ### Send to all recipients
@@ -70,7 +70,7 @@ ruby send.rb -p 2024-07-16-saved-by-rock-and-roll -r test.json
 If the test looks good, send the email to the actual subscribers:
 
 ```
-ruby send.rb -p 2024-07-16-saved-by-rock-and-roll -r recipients.json
+ruby send.rb -p 2024-08-21-corporate-funded-killing-technology -r recipients.json
 ```
 
 ## Functional css
