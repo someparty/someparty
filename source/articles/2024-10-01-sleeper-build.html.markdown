@@ -32,7 +32,7 @@ Y'Know emerged in early 2024 as an offshoot of [Uh Huh](https://uhhuhband.bandca
 ###[Sea Of Troubles](https://seaoftroublesband.bandcamp.com/): "Sleeper Build"
 ==Preview and purchase at [Bandcamp](https://seaoftroublesband.bandcamp.com/track/sleeper-build)==
 
-Hamilton noise-punks [Sea of Troubles](https://seaoftroublesband.bandcamp.com/) are decidedly less defunct than they were a month ago, but their current form remains an enigma. The project rebooted in the late summer with a veritable deluge of material from project-lead A.R. Neptune (Denzel Gordon), with 17 digital releases of various lengths and styles spilling out since late August. While the group's penchant for noisy feedback remains unrestrained and daunting, they can craft a truly focused gem when they let the chaos ebb. Chief among those is the compelling "Sleeper Build," a standout single that notably namedrops Single Mothers' Drew Thompson and NOFX's Eric Melvin in a single verse.
+Hamilton noise-punks [Sea of Troubles](https://seaoftroublesband.bandcamp.com/) are decidedly less defunct than they were a month ago, but their current form remains an enigma. The project rebooted in the late summer with a veritable deluge of material from project-lead A.R. Neptune (Denzel Gordon), with 17 digital releases of various lengths and styles spilling out since late August. While the group's penchant for noisy feedback remains unrestrained and daunting, they can craft a truly focused gem when they let the chaos ebb. Chief among those is the compelling "Sleeper Build," a standout single that notably namedrops Single Mothers' Drew Thomson and NOFX's Eric Melvin in a single verse.
 
 Neptune reflected on the song in the Bandcamp notes:
 
