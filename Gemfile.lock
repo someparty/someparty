@@ -1684,8 +1684,7 @@ GEM
     regexp_parser (2.9.2)
     reline (0.5.7)
       io-console (~> 0.5)
-    rexml (3.3.6)
-      strscan
+    rexml (3.3.9)
     rubocop (1.63.5)
       json (~> 2.3)
       language_server-protocol (>= 3.17.0)
@@ -1711,7 +1710,6 @@ GEM
       ffi (~> 1.9)
     servolux (0.13.0)
     stringio (3.1.0)
-    strscan (3.1.0)
     temple (0.10.3)
     terser (1.2.2)
       execjs (>= 0.3.0, < 3)
