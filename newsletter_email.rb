@@ -74,13 +74,15 @@ class NewsletterEmail
         </head>
         <body>
           #{personalized_html_content}
-          <div style='text-align: center; margin-top: 4em; margin-bottom: 2em; padding-left: 16px; padding-right: 16px; line-height: 1.3;'><small>
+          <div style='text-align: center; margin-top: 4em; margin-bottom: 2em; padding-left: 16px; padding-right: 16px; line-height: 1.3;'>
+            <small>
             <a href="https://www.someparty.ca">Some Party</a> by Adam White<br/>
             7695 Blackburn Parkway, Niagara Falls, Ontario L2H 0A6<br/>
             Content licensed under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><br/>
             Source code available at <a href="https://github.com/someparty/someparty">GitHub</a><br/><br/>
             Sent to #{recipient['email']} - <a href="https://www.someparty.ca/unsubscribe?email=#{url_email}&uuid=#{url_uuid}">Unsubscribe</a>
-          </div></small>
+            </small>
+          </div>
         </body>
       </html>
 
