@@ -72,7 +72,7 @@ Vancouver/Seattle bruisers [Punitive Damage](https://punitivedamage.bandcamp.com
 
 The five-piece recorded with Jesse Gander at Rain City Recorders (Pack Rat, Wares). Taylor Young mixed at The Pit, with Carl Saff mastering. Jess Nyx of the Calgary heavies [Mortality Rate](https://mortalityrate.bandcamp.com) and [World Of Pleasure](https://worldofpleasure.bandcamp.com) makes a guest appearance on vocals.
 
-The single-sided 12" EP arrives in several colour variants through both labels, following up on the band's 2022 LP *This Is The Blackout* ([Atomic Action! Records](https://atomicactionrecords.bandcamp.com/)). Punitive Damage features vocals from Steph Jerkova of Seattle powerviolence act [Regional Justice Center](https://regionaljusticecenter.bandcamp.com/).
+The single-sided 12" EP arrives in several colour variants through both labels, following up on the band's 2022 LP *This Is The Blackout* ([Atomic Action! Records](https://atomicactionrecords.bandcamp.com/)). The roster of Punitive Damage includes current and past members of World of Pleasure, [Keep it Clear](https://xkeepitclearx.bandcamp.com), Change,  [Woolworm](https://woolworm.bandcamp.com), and [Regional Justice Center](https://regionaljusticecenter.bandcamp.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2829977767/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://punitivedamage.bandcamp.com/album/hate-training">Hate Training by Punitive Damage</a></iframe>
 

@@ -12,7 +12,7 @@ In the past, I've likely declared that I feel little pressure to keep this newsl
 ⌘+A+delete / breathe
 
 ###[S.H.I.T.](https://whatwedoissecrete.bandcamp.com): "Corporate Funded Killing Technology"
-==Preview and purchase at [Bandcamp](https://whatwedoissecrete.bandcamp.com/track/corporate-funded-killing-technology-2)==
+==Preview and purchase at [Bandcamp](https://whatwedoissecrete.bandcamp.com/album/for-a-better-world)==
 
 Toronto hardcore institution [S.H.I.T.](https://whatwedoissecrete.bandcamp.com) recently unveiled "Corporate Funded Killing Technology," the first single from their upcoming 12" *For A Better World*. The new record's now available for pre-order through [La Vida Es Un Mus](https://www.lavidaesunmus.com/) and [Iron Lung Records](https://ironlungrecords.bandcamp.com).
 
@@ -26,7 +26,7 @@ Sorry State Records' Daniel Lupton lauds the new material as a return to the gui
 
 This release features the finished studio versions of some demos we previewed in early 2023 ("Haunted" and "Imminent Destruction"). Those tracks surfaced over a year ago, paired with Crucifix and Blitz covers. In May of 2022, S.H.I.T. issued a 7" compiling their pandemic-era "Hidden In Eternity" and "Eraser III" singles. The band's most recent LP, *What Do You Stand For?*, came out in 2018.
 
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=4126467065/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://whatwedoissecrete.bandcamp.com/track/corporate-funded-killing-technology-2">Corporate Funded Killing Technology by S.H.I.T.</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2486675522/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://whatwedoissecrete.bandcamp.com/album/for-a-better-world">For A Better World by S.H.I.T.</a></iframe>
 
 ###[VICTIME](https://victimelol.bandcamp.com/): "M.A."
 ==Watch on [YouTube](https://youtu.be/qrCyiA2_mwA?si=HtfKaFerpOhn12gp) - Preview and purchase at [Bandcamp](https://victimelol.bandcamp.com/album/en-conversation-avec)==
@@ -43,7 +43,7 @@ You can see "M.A." visualized in a new video from director Liam Hamilton. He com
 
 VICTIME features vocalist/keyboardist Laurence Gauthier-Brown (of [Ponctuation](https://ponctuation.bandcamp.com/) and [Pure Carrière](https://purecarriere.bandcamp.com/)), guitarist Simone Provencher ([Album](https://albumalbumalbum.bandcamp.com/)), and drummer Samuel Gougoux ([TDA](https://tda444.bandcamp.com/) and a recent addition to [Corridor](https://corridormtl.bandcamp.com)).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qrCyiA2_mwA?si=HtfKaFerpOhn12gp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1191299141/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://victimelol.bandcamp.com/album/en-conversation-avec">En conversation avec by VICTIME</a></iframe>
 
 ###[Chris Burns & His Going Concerns](https://celluloidlunch.bandcamp.com/album/kablooey): *Kablooey!*
 ==Preview and purchase at [Bandcamp](https://celluloidlunch.bandcamp.com/album/kablooey)==
