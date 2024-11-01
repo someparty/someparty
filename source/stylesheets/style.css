@@ -295,6 +295,7 @@ article p.contest {
 
 .subscribe-form {
   margin-top: 1rem;
+  width: 100%;
 }
 
 form > div {
