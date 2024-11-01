@@ -14,8 +14,8 @@ Ignoring all sound advice to the contrary, I'm thrilled to plumb new depths of m
 
 *Under The Circumstances* will be a periodic ongoing series of limited-run tape compilations showcasing new, rare, and weird tracks from some of the coolest Canadian artists from across the spectrum of punk, psych, garage, and indie rock. Volume 1 is available to order now and is shipping immediately. I'm thrilled that some of my all-time favourite artists have contributed material for this inaugural set.
 
-<div class="tc dib mv3">
- <a href="https://someparty.bandcamp.com/" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Buy Now</a>
+<div class="store-button">
+ <a href="https://someparty.bandcamp.com/" target="_blank">Buy Now</a>
 </div>
 
 ## Side A
@@ -44,8 +44,8 @@ Ignoring all sound advice to the contrary, I'm thrilled to plumb new depths of m
 
 Some Party can neither confirm or deny the existence of a B side to this tape. It certainly wouldn't feature a sampler of other cool material from these same artists, along with a few twists and turns along the way. The very notion is preposterous.
 
-<div class="tc dib mv3">
- <a href="https://someparty.bandcamp.com/" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Want one?</a>
+<div class="store-button">
+ <a href="https://someparty.bandcamp.com/" target="_blank">Want one?</a>
 </div>
 
 ## So What's With The Title?
@@ -56,8 +56,8 @@ Some Party's mission is similarly pragmatic. I focus on this county not to celeb
 
 These are the lines we draw and the connections we make under the circumstances of where we just happen to be.
 
-<div class="tc dib mv3">
- <a href="https://someparty.bandcamp.com/" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">Buy Now</a>
+<div class="store-button">
+ <a href="https://someparty.bandcamp.com/" target="_blank">Buy Now</a>
 </div>
 
 ## Burning Questions
@@ -82,6 +82,6 @@ I've got 100. The bands have a few more on top of that. These could move quickly
 
 The online store is hosted by Bandcamp and they handle the credit card or PayPal transactions. Some Party never touches the card numbers, so everything's entirely PCI compliant (if that means anything to you).
 
-<div class="tc dib mv3">
- <a href="https://someparty.bandcamp.com/" target="_blank" class="bn ttu link white bg-purple dim f4 ph4 pv3 lh-copy h2">So... anyone want a tape?</a>
+<div class="store-button">
+ <a href="https://someparty.bandcamp.com/" target="_blank">So... anyone want a tape?</a>
 </div>

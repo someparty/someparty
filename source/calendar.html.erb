@@ -3,19 +3,19 @@ layout: archive
 ---
 
 <% if paginate && num_pages > 1 %>
-  <p class="maxread center">Page <%= page_number %> of <%= num_pages %></p>
+  <p>Page <%= page_number %> of <%= num_pages %></p>
 
   <% if prev_page %>
-    <p class="maxread center"><%= link_to 'Previous page', prev_page %></p>
+    <p><%= link_to 'Previous page', prev_page %></p>
   <% end %>
 <% end %>
 
-<ul class="list pl0 maxread center">
+<ul class="back-issues">
   <% page_articles.each_with_index do |article, i| %>
-    <li class="mb4">
-      <div class="f5 center"><%= article.date.strftime('%A %B %e, %Y') %></div>
-      <div><%= link_to article.title, article, class: 'black no-underline fw4 bb b--black' %></div>
-      <div class="small maxread mt1"><%= article.data.description %></div>
+    <li class="back-issue">
+      <div class="back-issue-date"><%= article.date.strftime('%A %B %e, %Y') %></div>
+      <%= link_to article.title, article, class: 'back-issue-title' %>
+      <div class="back-issue-description"><%= article.data.description %></div>
     </li>
   <% end %>
 </ul>

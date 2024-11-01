@@ -17,7 +17,6 @@ export default class extends Controller {
       let anchorLink = `${link}#${anchor}`
 
       var shareLink = document.createElement('a')
-      shareLink.classList.add("black","no-underline","fw4","bb","b--black")
       var linkText = document.createTextNode("Link here")
       shareLink.appendChild(linkText)
       shareLink.title = "Link directly to this section of the newsletter"

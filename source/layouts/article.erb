@@ -1,14 +1,13 @@
 <% wrap_layout :layout do %>
-  <article class="pa3 pa4-ns lh-copy f5 f4-ns">
-    <div class="f5 maxread center"><%= current_article.date.strftime('%A %B %e, %Y') %></div>
-    <h1 class="f2 mt1 lh-title mb0 maxread center"><%= current_article.title unless current_article.nil? %></h1>
+  <article>
+    <div class="date"><%= current_article.date.strftime('%A %B %e, %Y') %></div>
+    <h1 class="page-title"><%= current_article.title unless current_article.nil? %></h1>
     <%= partial '/_partials/tagline' %>
     <%= yield %>
   </article>
 
-  <div class="pa3-l measure-wide center">
+  <div class="post-article">
     <%= partial '/_partials/pager', :locals => { :article => current_article } %>
     <%= partial '/_partials/cta' %>
   </div>
-
 <% end %>

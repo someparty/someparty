@@ -73,12 +73,6 @@ If the test looks good, send the email to the actual subscribers:
 ruby send.rb -p 2024-10-28-living-in-a-shadow -r recipients.json
 ```
 
-## Functional css
-
-On the web, Some Party uses the [Tachyons](http://tachyons.io/) functional CSS framework. The included CSS is based on a subset of Tachyons 4.6.1 (only the tags needed, nothing more).
-
-All Some Party articles are written in Markdown and parsed using the [Redcarpet](https://github.com/vmg/redcarpet) Markdown parsing library. The file someparty_web_renderer.rb contains overrides for the default Redcarpet / Middleman implementation to insert Tachyons-style CSS tags the generated HTML tags.
-
 ## Bug Reports
 
 Github Issues are used for managing bug reports and feature requests for Some Party. If you run into issues, please search the issues and submit new problems: https://github.com/someparty/someparty/issues

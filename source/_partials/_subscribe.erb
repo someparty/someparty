@@ -1,7 +1,7 @@
-<form class="mt3" data-controller="subscribe" data-action="submit->subscribe#submit">
-  <div class="flex" data-subscribe-target="input">
-    <input type="text" name="email" id="email" class="bn f6 f5-ns pl2 lh-copy h2 mr2 fg1" placeholder="you@domain.ca" data-subscribe-target="email" />
-    <input type="submit"  value="Sign me Up" class="bn ttu white bg-red dim f5 ph3 lh-copy h2" />
+<form class="subscribe-form" data-controller="subscribe" data-action="submit->subscribe#submit">
+  <div data-subscribe-target="input">
+    <input type="text" name="email" id="email" class="email" placeholder="you@domain.ca" data-subscribe-target="email" />
+    <input type="submit" value="Sign me Up" class="submit" />
   </div>
-  <div class="flex justify-center items-center-ns" data-subscribe-target="spinner"></div>
+  <div class="spinner" data-subscribe-target="spinner"></div>
 </form>

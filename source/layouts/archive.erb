@@ -1,6 +1,6 @@
 <% wrap_layout :layout do %>
-  <article class="pa3 pa4-ns lh-copy f5 f4-ns">
-    <h1 class="f2 mt1 lh-title mb0 maxread center">
+  <article>
+    <h1 class="page-title">
       <% case page_type
         when 'day' %>
         <%= Date.new(year, month, day).strftime('%b %e %Y') %>
@@ -13,7 +13,7 @@
     <%= yield %>
   </article>
 
-  <div class="pa3-l measure-wide center">
+  <div class="post-article">
     <%= partial '/_partials/cta' %>
   </div>
 

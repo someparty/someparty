@@ -1,29 +1,13 @@
-  <div class="bg-black cover white pv4 ph4 someparty-back">
-    <div class="maxcta">
-      <div>
-      <h2 class="f4 f4-l mt0 mb2">React to it at your leisure</h2>
-      <p class="f6 f5-l lh-copy pb0 mv2">
+  <div class="bottom-cta-wrapper">
+    <div class="bottom-cta">
+      <h2>React to it at your leisure</h2>
+      <p>
       Some Party is Adam White's misguided quest to share the latest in Canadian garage rock, punk, psych, and more. Subscribe and get it in your inbox more-or-less weekly. Your information's always kept private, and unsubscribing is easy.
       </p>
-    </div>
 
-    <div class="maxform">
       <%= partial '/_partials/subscribe' %>
-
-        <ul class="list pa0 ma0 flex f7 justify-end">
-          <li class="dib mv2 mr2"><%= link_to 'About Some Party', '/about', class: "no-underline white bb b--white" %></li>
-          <li class="dib mv2"><%= link_to 'Privacy Policy', '/privacy', class: "no-underline white bb b--white" %></li>
-        </ul>
-      </div>
+      <%= partial '/_partials/menu' %>
+      <%= partial '/_partials/coffee' %>
     </div >
-
-    <div class="maxcta flex justify-center items-center mt3">
-      <a href="https://www.buymeacoffee.com/someparty" class="no-underline white mr2" target="_blank">
-        <%= image_tag 'coffee.svg', alt: "Creative Commons Attribution 4.0 International license", width: "50px" %>
-      </a>
-      <p class="f6 f5-l lh-copy pb0 mv2">
-      Enjoying the newsletter? You can now also support Some Party by <a href="https://www.buymeacoffee.com/someparty" class="no-underline white bb b--white" target="_blank">buying me a coffee</a>!</p>
-      </p>
-    </div>
 
   </div>

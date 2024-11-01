@@ -8,8 +8,6 @@
     <meta name="theme-color" content="#000000"/>
     <link rel="canonical" href="https://www.someparty.ca<%= current_page.url %>">
 
-    <%= javascript_include_tag "lazysizes.min.js", :async => true %>
-
     <%= auto_display_meta_tags %>
 
     <%= favicon_tag 'images/icons/favicon.ico' %>
@@ -26,15 +24,10 @@
 
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 
-    <% css_path = sitemap.resources.select { |p| p.source_file.match(/style[.]css$/) }.first %>
-    <style type="text/css">
-      <%= css_path.render %>
-      @media screen and (min-width: 40em) {
-        .someparty-back {
-          background-image: url("<%= image_path("the-beverleys-courtney-michaud-bg-wide.jpg") %>");
-        }
-      }
-    </style>
+    <%= stylesheet_link_tag "style.css", rel: 'preload', as: 'style' %>
+    <%= stylesheet_link_tag "style.css", rel: 'stylesheet' %>
+
+    <%= javascript_include_tag "lazysizes.min.js", :async => true %>
 
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11" defer></script>
 
@@ -54,36 +47,28 @@
       Stimulus.register("contest", ContestController)
     </script>
   </head>
-  <body class="f3 ma0 fw3">
+  <body>
     <%= partial '/_partials/premiere' if premiere_active && !current_page.path.match(/^premieres/) %>
 
-    <header class="mb4 ph3 bg-black someparty-back cover">
-      <div class="white tc pv4">
-        <div class="maxread mauto flex-ns justify-between items-center-ns">
-          <div class="w-100 tc tl-ns dib mr3">
-            <a href="/">
-              <%= image_tag 'logo-wide.svg', alt: "Some Party", class: "w-100 mw5 mw5-l dn-ns mb4" %>
-              <%= image_tag 'logo.svg', alt: "Some Party", class: "w-100 dn dib-ns mw5 mw4-m mw-logo" %>
-            </a>
-            <h1 class="dn">The Some Party Newsletter</h1>
-          </div>
-          <div class="mw-header-cta  tl">
-
-            <h2 class="f4 f4-l mt0 mb2">Get on the list.</h2>
-            <p class="f6 f5-l lh-copy pb0 mv2">Subscribe to get the latest on weird Canadian rock music weekly in your inbox. Forever free. Forever private. No ads or marketing.</p>
-            <%= partial '/_partials/subscribe' %>
-
-            <ul class="list pa0 ma0 flex f7 justify-end">
-              <li class="dib mv2 mr2"><%= link_to 'About Some Party', '/about', class: "no-underline white bb b--white" %></li>
-              <li class="dib mv2"><%= link_to 'Privacy Policy', '/privacy', class: "no-underline white bb b--white" %></li>
-            </ul>
-
-          </div>
+    <header>
+      <div class="header-content">
+        <div class="branding">
+          <a href="/">
+            <%= image_tag 'logo-wide.svg', alt: "Some Party", class: "logo-wide" %>
+            <%= image_tag 'logo.svg', alt: "Some Party", class: "logo-square" %>
+          </a>
+          <h1>The Some Party Newsletter</h1>
+        </div>
+        <div class="header-cta">
+          <h2>Get on the list.</h2>
+          <p>Subscribe to get the latest on weird Canadian rock music weekly in your inbox. Forever free. Forever private. No ads or marketing.</p>
+          <%= partial '/_partials/subscribe' %>
+          <%= partial '/_partials/menu' %>
         </div>
       </div>
     </header>
 
-    <div id="main" role="main" class="overflow-hidden relative">
+    <div id="main" role="main">
       <%= yield %>
     </div>
 

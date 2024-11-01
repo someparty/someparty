@@ -1,14 +1,12 @@
 <% wrap_layout :layout do %>
-  <article class="pa3 pa4-ns lh-copy f5 f4-ns">
-    <h1 class="f2 mt1 lh-title mb0 maxread center"><%= current_page.data.title unless current_page.data.title.nil? %></h1>
+  <article>
+    <h1 class="page-title"><%= current_page.data.title unless current_page.data.title.nil? %></h1>
     <% content = capture_html do %>
       <%= yield %>
     <% end %>
 
     <% widget = capture_html do %>
-      <div class="maxread center">
-        <%= partial '/_partials/contest' %>
-      </div>
+      <%= partial '/_partials/contest' %>
     <% end %>
 
     <% if content.include?("CONTESTWIDGET") %>
@@ -18,21 +16,18 @@
       <%= widget %>
     <% end %>
 
-    <p class="maxread center tc mt4">
-      <img class="mt4" src="<%= current_page.data.contest_image_uri %>" alt="<%= current_page.data.contest_image_alt %>">
+    <p>
+      <img src="<%= current_page.data.contest_image_uri %>" alt="<%= current_page.data.contest_image_alt %>">
     </p>
 
-    <p class="maxread center mt4"><small><em>
+    <p><small><em>
       Some Party draws winners at random from the list of entries. Entries must be current mailing list subscribers upon submission and during the draw. The drawn entrant must answer a mathematical skill-testing question to clinch their victory, as per the silly Canadian Criminal Code. Upon declaring a winner, Some Party deletes all entry email addresses. The winner's email address is retained only to contact them to arrange prize delivery (which may mean putting you in touch with the third party providing the prize). Some Party does not share participant addresses with third parties otherwise.
       </em></small>
     </p>
 
   </article>
 
-
-
-
-  <div class="pa3-l measure-wide center">
+  <div class="post-article">
     <%= partial '/_partials/cta' %>
   </div>
 <% end %>
