@@ -138,7 +138,10 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
       # Use the first link in the header, usually the band name, as the anchor ID
       anchor = header_link.first.content
       artist_title = header_link
-      media_title = text.sub(header_link.first.to_s, '')
+      # media_title = text.sub(header_link.first.to_s, '')
+      split_text = text.split('</a>')
+      split_text.shift
+      media_title = split_text.join
     else
       # No link in the header. Split on the : if it's thre
       split_text = text.split(':')
