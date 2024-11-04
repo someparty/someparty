@@ -181,7 +181,7 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     css_class = ''
 
     if title && title.start_with?('#')
-      css_class = 'black no-underline fw4 db tc f6 nt3 mb4'
+      css_class = 'legacy-media-link'
       if title.length > 1
         title[0] = ''
       else

@@ -719,3 +719,11 @@ small {
   max-width: 600px;
   margin-top: 0.25rem;
 }
+
+.legacy-media-link {
+  font-weight:400;
+  display:block;
+  text-align:center;
+  font-size:.875rem;
+  margin-bottom: 3rem;
+}
