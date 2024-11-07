@@ -24,8 +24,10 @@
 
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 
-    <%= stylesheet_link_tag "style.css", rel: 'preload', as: 'style' %>
-    <%= stylesheet_link_tag "style.css", rel: 'stylesheet' %>
+    <% css_path = sitemap.resources.select { |p| p.source_file.match(/style[.]css$/) }.first %>
+    <% timestamp = File.mtime(css_path.source_file).to_i %>
+    <%= stylesheet_link_tag "style.css?v=#{timestamp}", rel: 'preload', as: 'style' %>
+    <%= stylesheet_link_tag "style.css?v=#{timestamp}", rel: 'stylesheet' %>
 
     <%= javascript_include_tag "lazysizes.min.js", :async => true %>
 

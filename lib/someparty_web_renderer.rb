@@ -2,6 +2,7 @@
 
 require 'middleman-core/renderers/redcarpet'
 require 'active_support/core_ext/string/inflections'
+require 'debug'
 
 # Extends the Redcarpet Markdown parser tack on some useful classes to reign in the media embeds.
 # In the past when I was using an atomic CSS framework this was useful for appending the right tags
@@ -137,11 +138,9 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     if header_link.size.positive?
       # Use the first link in the header, usually the band name, as the anchor ID
       anchor = header_link.first.content
-      artist_title = header_link
-      # media_title = text.sub(header_link.first.to_s, '')
+      artist_title = header_link.map { |x| x.to_s }.join('<div class="split">&</div>')
       split_text = text.split('</a>')
-      split_text.shift
-      media_title = split_text.join
+      media_title = split_text[-1]
     else
       # No link in the header. Split on the : if it's thre
       split_text = text.split(':')
@@ -157,8 +156,10 @@ class SomePartyWebRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
         media_title = text.sub(split_text[0], '')
       end
     end
-    # Remove the leading colon, this is kept for the email that doesn't have the same styling.
+    # Remove the leading colon, slash, ampersand, etc this is kept for the email that doesn't have the same styling.
     media_title = media_title.sub(/^: /, '') if media_title
+    media_title = media_title.sub(/^& /, '') if media_title
+    media_title = media_title.sub(%r{^/ }, '') if media_title
 
     anchor_id = anchor.parameterize(separator: '_')
 
