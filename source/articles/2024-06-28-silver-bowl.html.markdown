@@ -64,7 +64,7 @@ Montreal quartet [Laughing](https://laughingonline.bandcamp.com) are celebrating
 
 > "... it's a scorcher if I do say so myself. A lyrical fever dream, please enjoy our bleach-stained post-shoegaze classic rock salute to the whammy bars of the world, which sway in and out of reality like a spiral flag of nowhere."
 
-Laughing brings together Josh Salter of [Nap Eyes](https://napeyes.bandcamp.com/) and [Monomyth](https://mmyth.bandcamp.com/), Cole Woods of [Human Music](https://humanmusic.bandcamp.com/), singer/songwriter [André Charles Thériault](https://andrecharlestheriault.bandcamp.com), and [Fountain](https://fountain.bandcamp.com)'s Laura Jeffery. Jeffrey drums while the others trade off on guitar, bass, and vocals. The group recorded the brunt of the 11-song set with [Faith Healer](https://faithhealer.bandcamp.com/) 's [Renny Wilson](http://rennywilson.com/) at Value Sound.
+Laughing brings together Josh Salter of [Nap Eyes](https://napeyes.bandcamp.com/) and [Monomyth](https://mmyth.bandcamp.com/), Cole Woods of [Human Music](https://humanmusic.bandcamp.com/), singer/songwriter [André Charles Thériault](https://andrecharlestheriault.bandcamp.com), and [Fountain](https://fountain.bandcamp.com)'s Laura Jeffery. Jeffrey drums while the others trade off on guitar, bass, and vocals. The group recorded the brunt of the 11-song set with [Faith Healer](https://faithhealer.bandcamp.com/)'s [Renny Wilson](http://rennywilson.com/) at Value Sound.
 
 Laughing sounds impressively detached from the present, offering up a breezy, easy-to-digest guitar sound that's comfortingly unhurried. It's less of a throwback than it feels effortlessly timeless. I don't have the cultural authority to declare the "sound of the summer," but you could do worse.
 
