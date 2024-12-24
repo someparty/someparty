@@ -59,10 +59,10 @@ Ensure the tmp/test.json file has some recipient data, such as:
 ]
 ```
 
-Send the email to the test subscriber, noting the exact file name of the generated article HTML (in this example, "2024-11-19-shopping-in-the-toothpaste-aisle") you wish to send:
+Send the email to the test subscriber, noting the exact file name of the generated article HTML (in this example, "2024-12-23-the-great-canadian-going-out-of-business-sale") you wish to send:
 
 ```
-ruby send.rb -p 2024-11-19-shopping-in-the-toothpaste-aisle -r test.json
+ruby send.rb -p 2024-12-23-the-great-canadian-going-out-of-business-sale -r test.json
 ```
 
 ### Send to all recipients
@@ -70,7 +70,7 @@ ruby send.rb -p 2024-11-19-shopping-in-the-toothpaste-aisle -r test.json
 If the test looks good, send the email to the actual subscribers:
 
 ```
-ruby send.rb -p 2024-11-19-shopping-in-the-toothpaste-aisle -r recipients.json
+ruby send.rb -p 2024-12-23-the-great-canadian-going-out-of-business-sale -r recipients.json
 ```
 
 ## Bug Reports
