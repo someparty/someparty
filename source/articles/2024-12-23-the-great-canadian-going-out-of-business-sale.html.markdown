@@ -31,7 +31,7 @@ I'll leave it up to you whether to queue "TV Light" before or after that [six-an
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1832204896/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://snakeriver.bandcamp.com/track/tv-light">TV Light by Snake River</a></iframe>
 
-###[Taxi Girls](https://taxigirls.bandcamp.com): "Rainy"
+###[Taxi Girls](https://taxigirls.bandcamp.com): *Rainy*
 ==Preview and purchase at [Bandcamp](https://taxigirls.bandcamp.com/album/rainy-2)==
 
 Montreal punk'n'roll quartet [Taxi Girls](https://taxigirls.bandcamp.com) have a new 7" out through [Wild Honey](https://wildhoneyrecords.bandcamp.com/) and [Dirt Cult Records](https://dirtcultrecords.bandcamp.com/). "Rainy" leads the two-song set, paired with "The Lion's Share" on the flip. In a press release, the band shared some background on both tracks:
