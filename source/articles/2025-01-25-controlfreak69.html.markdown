@@ -53,7 +53,7 @@ Josh Herlihey's proto-punk vehicle [Plastic Act](https://plasticact.bandcamp.com
 
 While Plastic Act started as a purely solo affair, this outing finds Herlihey backed by [PRIORS](https://priorsmtl.bandcamp.com)' Drew Demers on drums and Chance Hutchison on backing vocals. The band recorded with Adrian Popovich ([FRVITS](https://www.instagram.com/_frvits_/), [American Lips](https://americanlips.bandcamp.com)) engineering and mixing, with Dave Forcier ([The Steve Adamyk Band](https://steveadamykband.com/), [CIVIC](https://civicivic.bandcamp.com)) mastering. [Pack Rat](https://packratpunk.bandcamp.com)'s Patrick McEachnie penned liner notes celebrating the release, dubbing it "something you've almost heard on a compilation of NY underbelly rock."
 
-Herlihey plays in the Montreal post-punk quartet [Private Lives](https://privatelivesmtl.bandcamp.com) alongside Jackie Blenkarn ([Pale Lips](https://palelips.bandcamp.com/)), Chance Hutchison, and Frank Climenhage ([Lonely Parade](https://thelonelyparade.bandcamp.com/)). Plastic Act's self-titled debut EP arrived in 2023 through [Brain Gum Records](https://braingumrecords.bigcartel.com/).
+Herlihey plays in the Montreal post-punk quartet [Private Lives](https://privatelivesmtl.bandcamp.com) alongside Jackie Blenkarn ([Pale Lips](https://palelips.bandcamp.com/)), Chance Hutchison, and Drew Demers. Plastic Act's self-titled debut EP arrived in 2023 through [Brain Gum Records](https://braingumrecords.bigcartel.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3958742349/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://plasticact.bandcamp.com/album/now">Now! by Plastic Act</a></iframe>
 
