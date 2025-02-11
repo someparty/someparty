@@ -55,11 +55,11 @@ Last summer, [Dany Laj and the Looks](http://danylaj.com/) shared "Meet Me On Th
 ###[Cult Crime](https://cultcrimeband.bandcamp.com): "Desperation"
 ==Preview and purchase at [Bandcamp](https://cultcrimeband.bandcamp.com/track/desperation)==
 
-Toronto punks [Cult Crime](https://cultcrimeband.bandcamp.com) have their debut full-length on deck through [Ugly Pop Records](https://uglypoprecords.bigcartel.com). Due March 3, the nine-song LP promises a potent blend of early punk influences. The label took the courtesy of listing the big names, so I didn't have to:
+Toronto's [Cult Crime](https://cultcrimeband.bandcamp.com) have their debut full-length on deck through [Ugly Pop Records](https://uglypoprecords.bigcartel.com). Due March 3, the nine-song LP promises a potent blend of early punk influences. The label took the courtesy of listing the big names, so I didn't have to:
 
 >"...snarling, hard-nosed punk that recalls 1981 hardcore on both sides of the Atlantic, seasoning classic LA a la Adolescents/TSOL/pre-Henry Flag with a dash of primo Blitz. No mere genre exercise, these are tough but memorable songs delivered with hooks and skill."
 
-Those hooks and skills come, in part, from Matt Menard, veteran of a laundry list of killer Windsor and Toronto bands. That includes the lo-fi punk act [No Fix](https://nofixforyou.bandcamp.com), psych-punks [Psychic Void](https://psychicvoid.bandcamp.com), and the hardcore group [Brain Itch](https://brainitch.bandcamp.com). Cult Crime recorded with [Jimmy Vapid](https://jimmyvapid.bandcamp.com/) of veteran Burlington punks [The Vapids](https://the-vapids.bandcamp.com/). Josh Kaiser mastered the set.
+Those hooks and skills come, in part, from Matt Menard, veteran of a laundry list of killer Windsor and Toronto bands. That includes the lo-fi punk act [No Fix](https://nofixforyou.bandcamp.com), psych-punks [Psychic Void](https://psychicvoid.bandcamp.com), and the hardcore group [Brain Itch](https://brainitch.bandcamp.com). Cult Crime recorded with [Jimmy Vapid](https://jimmyvapid.bandcamp.com/) of veteran Burlington goons [The Vapids](https://the-vapids.bandcamp.com/). Josh Kaiser mastered the set.
 
 You can crash through the lead single "Desperation" now, delivering equal parts speed and snot in just under two minutes.
 
@@ -68,7 +68,7 @@ You can crash through the lead single "Desperation" now, delivering equal parts 
 ###[Outtacontroller](https://outtacontroller.bandcamp.com): "Cheap Pop"
 ==Preview and purchase at [Bandcamp](https://outtacontroller.bandcamp.com/track/cheap-pop)==
 
-Halifax punk quartet [Outtacontroller](https://outtacontroller.bandcamp.com) kicked off the year with "Cheap Pop," another in their reliably strong series of fuzzed-out power-pop gems. As with past efforts, the band said little about the track outside of the usual promise of more to come. I remain delightfully baffled at how consistently great the band sounds and how well they can place a hook in under two minutes.
+Halifax punk quartet [Outtacontroller](https://outtacontroller.bandcamp.com) kicked off the year with "Cheap Pop," another in their reliably strong series of fuzzed-out power-pop gems. As with past efforts, the band said little about the track outside of the usual promise of more to come. I remain delightfully baffled at how consistently great this band sounds. Their nonchalant ability to craft Buzzcocks-quality hooks time after time feels entirely underappreciated.
 
 Outtacontroller features vocalist/guitarists Terry A'hearn and James O'Toole, bassist AJ Boutilier, and drummer Sean Parsons. Late last year, the band convened in their Bunker studio to start work on the full-length follow-up to their 2022 LP *Come Alive*. There's no word yet on their release plans.
 
@@ -79,11 +79,9 @@ Last year saw a few one-off singles from the group, including "Gimme Nothin'" an
 ###[Doctor Mother Father](https://doctormotherfather.bandcamp.com/): "Break the Same"
 ==Preview and purchase at [Bandcamp](https://doctormotherfather.bandcamp.com/album/break-the-same)==
 
-Saint John power trio [Doctor Mother Father](https://doctormotherfather.bandcamp.com/) recently shared "Break the Same," the crunchy first single from their upcoming EP *It All Depends On How You Wanna Hurt*. The band promises "an energizing soundtrack to hard times in the maritimes in the midst of a crashing economy," and this track certainly has the hooks to back that up. Look for the complete set in June.
+Saint John power trio [Doctor Mother Father](https://doctormotherfather.bandcamp.com/) recently shared "Break the Same," the crunchy first single from their upcoming EP *It All Depends On How You Wanna Hurt*. The band's teasing "an energizing soundtrack to hard times in the maritimes in the midst of a crashing economy." You'll have to wait until June to hear that in full, but this track certainly delivers on that promise.
 
-Corey Bonnevie ([Little You, Little Me](https://lylm.bandcamp.com/)) wrote and recorded the EP at his [Monopolized Records](https://monopolizedrecords.com/) studio, backed by bassist Kortni Nicols ([Lionsault](https://lionsault.bandcamp.com/)) and drummer Colin Ferris (Sheik, Cool Dudes Fighting, Butcher).
-
-The new material follows Doctor Mother Father's 2024 full-length *Feelin' Fine*.
+Corey Bonnevie ([Little You, Little Me](https://lylm.bandcamp.com/)) wrote and recorded the EP at his [Monopolized Records](https://monopolizedrecords.com/) studio, backed by bassist Kortni Nicols ([Lionsault](https://lionsault.bandcamp.com/)) and drummer Colin Ferris (Sheik, Cool Dudes Fighting, Butcher). The new material follows Doctor Mother Father's 2024 full-length *Feelin' Fine*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=804292490/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://doctormotherfather.bandcamp.com/album/break-the-same">Break the Same by Doctor Mother Father</a></iframe>
 
@@ -92,26 +90,25 @@ The new material follows Doctor Mother Father's 2024 full-length *Feelin' Fine*.
 
 I know it's been a good week if I can pepper a column with multiple references to [Booji Boys](https://boojiboysfuneral.bandcamp.com/) personnel.
 
-[Living Mad](https://livingmad.bandcamp.com) is a scrappy new hardcore side-project from frequent collaborators Cody Googoo and Luke Mumford. The duo issued the three-song *Ungrateful Fucks* tape through the former's cassette label Don't Wanna Talk Records. It's loud, fast, and all of four minutes in length.
+[Living Mad](https://livingmad.bandcamp.com) is a scrappy new hardcore side-project from frequent collaborators Cody Googoo and Luke Mumford. The duo issued the three-song *Ungrateful Fucks* tape through the former's cassette label Don't Wanna Talk Records. It's loud, fast, and says all it needs to in under four minutes.
 
-Cody's everywhere these days, performing on recent records from [Gemstones](http://gemstones.bandcamp.com), [Heavenly Blue](https://heavenlyblue.bandcamp.com), and [Mutated Void](https://mutatedvoid.bandcamp.com), ranging from throwback garage rock to nigh-unlistenable skate thrash. Mumford surfaces more often in a production role but has a list of credits that are just as long. That includes [Negative Rage](https://negativerage.bandcamp.com/), [Genetic Angry](https://geneticangry.bandcamp.com/), [The Mark Vodka Group](https://markvodka.bandcamp.com/), and [LeDrew, Luke & Crowe](http://musicbyllc.bandcamp.com/).
+Cody's everywhere these days, performing on recent records from [Gemstones](http://gemstones.bandcamp.com), [Heavenly Blue](https://heavenlyblue.bandcamp.com), and [Mutated Void](https://mutatedvoid.bandcamp.com), in styles ranging from throwback garage rock to nigh-unlistenable skate thrash. Mumford surfaces more often in a production capacity but has a list of credits that's just as long. That includes stints with [Negative Rage](https://negativerage.bandcamp.com/), [Genetic Angry](https://geneticangry.bandcamp.com/), [The Mark Vodka Group](https://markvodka.bandcamp.com/), and [LeDrew, Luke & Crowe](http://musicbyllc.bandcamp.com/).
 
-The new tape landed the same week that [Sewercide Records](http://sewerciderecords.limitedrun.com/) issued the long-awaited split between Googoo's searing lo-fo duo [Misanthropic Minds](https://misanthropicmutantmusic.bandcamp.com/) and the Finnish hardcore band [Häpeä](https://hapeahardcore.bandcamp.com). You'll hear three new tracks from each on the 7", which is shipping now.
+The new tape landed the same week that [Sewercide Records](http://sewerciderecords.limitedrun.com/) finally issued the long-awaited split between Googoo's searing [Misanthropic Minds](https://misanthropicmutantmusic.bandcamp.com/) and the Finnish hardcore band [Häpeä](https://hapeahardcore.bandcamp.com). You'll hear three new tracks from each band on the 7", which is shipping now.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1365956358/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://livingmad.bandcamp.com/album/ungrateful-fucks">Ungrateful Fucks by Living Mad</a></iframe>
 
 ###[Yesterday's Man](https://yesterdaysman.bandcamp.com): *Yesterday's Man*
 ==Preview and purchase at [Bandcamp](https://yesterdaysman.bandcamp.com/album/yesterdays-man)==
 
-To date, and without intent, I somehow overlooked every update regarding the Vancouver duo [Yesterday's Man](https://yesterdaysman.bandcamp.com). I'll see if I can get us up to speed. The band's recent debut is delightfully uncomplicated and deftly channels a beloved era of Canadian indie. I'd hate to let it pass unmentioned.
+To date, and without intent, I somehow overlooked every update regarding the Vancouver duo [Yesterday's Man](https://yesterdaysman.bandcamp.com). I'll see if I correct that and can get us up to speed. If you're of the right age, I suspect you'll find the band's deft revival of early-2000s indie pop downright calming.
 
-The group features Gal Av-Gay of the slacker-punks [Dumb](https://dumbband.bandcamp.com/) paired with their spouse Alie Lynch ([Supermoon](https://allmoonsaresuper.bandcamp.com/), [Movieland](https://movieland.bandcamp.com/album/blows-up), [Kidnap Kids](https://kidnapkids.bandcamp.com)). The couple's played together for years, touring North America a few times with the indie groups [TV Ugly](https://tvugly.bandcamp.com/) and [Megamall](https://megamall.bandcamp.com). Both also appeared as members of DJ On's [Non La](https://nonla.bandcamp.com/) act.
+The group features Gal Av-Gay of the slacker-punks [Dumb](https://dumbband.bandcamp.com/) paired with their spouse Alie Lynch ([Supermoon](https://allmoonsaresuper.bandcamp.com/), [Movieland](https://movieland.bandcamp.com/album/blows-up), [Kidnap Kids](https://kidnapkids.bandcamp.com)). The couple's played together for years, touring North America a few times with [TV Ugly](https://tvugly.bandcamp.com/) and [Megamall](https://megamall.bandcamp.com). Both also appeared as members of DJ On's [Non La](https://nonla.bandcamp.com/) act.
 
-The 12-song self-titled *Yesterday's Man* arrived on New Year's Day through the [Mono Tapes](https://monotapes.ca) label, delivering what the band describes as "classic indie rock," the product of years of under-the-radar co-writing (filtered, as all things are, through the lens of the pandemic). The duo self-produced the record, with Dominick Civiero mixing and Greg Mindorff mastering. In the label's words:
+The 12-song self-titled *Yesterday's Man* arrived on New Year's Day through the [Mono Tapes](https://monotapes.ca) label, delivering what the band describes as "classic indie rock," the product of years of under-the-radar collaboration (filtered, as all things are, through the trials of the pandemic). The duo self-produced the record, with Dominick Civiero mixing and Greg Mindorff mastering. In the label's words:
 
 >"The songs are meant to sound comforting and familiar, while the lyrics evoke the dark inner turmoil and consequential warm relief that comes from isolation."
 
-Writer Alex Hudson commented on "Fleetwood Mac," the album's first single, noting that it "throws back to the golden age of blog-rock without sounding nostalgic." I couldn't agree more, and if early-2000s Mint Records holds a place in your heart, you'll be right at home here.
+Writer Alex Hudson commented on "Fleetwood Mac," the album's first single, noting that it "throws back to the golden age of blog-rock without sounding nostalgic." I couldn't agree more, and if early-2000s Mint Records holds a place in your heart, you'll be right at home here. It's a delight.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=949951061/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://yesterdaysman.bandcamp.com/album/yesterdays-man">Yesterday&#39;s Man by Yesterdays Man</a></iframe>
-
