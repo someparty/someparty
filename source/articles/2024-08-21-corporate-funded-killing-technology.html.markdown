@@ -61,7 +61,7 @@ Burns recorded in 2021 at Montreal's Hotel 2 Tango Studios, tracking the songs i
 
 Two toilet bands in a single edition? This new shortened format's nothing but class.
 
-Hamilton junk trio [Golden Shitters](https://goldenshitters.bandcamp.com) have a new EP out through [Ugly Pop Records](https://uglypop.bigcartel.com/). The four-song *Love Blows* picks up the plot from the band's debut, delivering what the label rightfully describes as "concise, furious punk rock" in the shameless lineage of Ramones. The guiding light's tinted, the label notes, with "traces of deadpan Spits barrage, snotty early Weasel tuneage, and blazing hard rock leads."
+Hamilton junk trio [Golden Shitters](https://goldenshitters.bandcamp.com) have a new EP out through [Ugly Pop Records](hhttps://uglypoprecords.bigcartel.com/). The four-song *Love Blows* picks up the plot from the band's debut, delivering what the label rightfully describes as "concise, furious punk rock" in the shameless lineage of Ramones. The guiding light's tinted, the label notes, with "traces of deadpan Spits barrage, snotty early Weasel tuneage, and blazing hard rock leads."
 
 The Shitters feature Matt Ellis ([Anxious Pleasers](https://anxiouspleasers.bandcamp.com/), [The Vapids](https://the-vapids.bandcamp.com/)) and Dave Tyson ([Dark Trip](https://darktrip.bandcamp.com/), [Sam Coffey & the Iron Lungs](https://samcoffeyandtheironlungs.bandcamp.com/)) trading off on guitar and bass, backed by [The Dirty Nil](https://thedirtynil.bandcamp.com/)'s Kyle Fisher on drums. Everyone's singing at one point or another.
 
