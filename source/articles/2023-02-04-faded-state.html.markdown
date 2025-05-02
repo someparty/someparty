@@ -33,7 +33,7 @@ Toronto post-punk / psych-jazz / funk-whatever combo [Bart](https://barttheband.
 
 Multi-instrumentalists and co-vocalists Christopher Shannon and Nathan Vanderwielen once again spearhead the project. They're backed here by a new core band of familiar faces, including Harrison Forman ([Hieronymus Harry](https://hieronymusharry.bandcamp.com/), [Mr. Joy](https://mrjoy.bandcamp.com/)), Patrick Lefler ([ROY](https://thesoundofroy.bandcamp.com), [Possum](https://possumyyz.bandcamp.com/)), and drummer Micael Brushey. The new album draws even deeper from the Toronto psych scene, with appearances from [Fresh Pepper](https://freshpepper.bandcamp.com)'s Joseph Shabason (tenor sax), Jason Bhattacharya (percussion), [Zacht Automaat](https://zachtautomaat.bandcamp.com/)'s Carl Didur (piano/synth), Patrick Smith (soprano sax, flute), Ewan Farncombe (trumpet), [Eliza Niemi](https://elizaniemi.bandcamp.com/) (cello), and Rachel Cardiello (viola).
 
-*Some Kind of Way* arrives on April 7 through [Idée Fixe](http://ideefixerecords.com/). It follows the band's 2019 album *Today, Tomorrow, & The Next Day*.
+*Some Kind of Way* arrives on April 7 through [Idée Fixe](https://www.ideefixerecords.com). It follows the band's 2019 album *Today, Tomorrow, & The Next Day*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4041623911/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://barttheband.bandcamp.com/album/some-kind-of-way">Some Kind of Way by Bart</a></iframe>
 

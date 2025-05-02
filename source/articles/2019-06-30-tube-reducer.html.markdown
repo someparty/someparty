@@ -75,7 +75,7 @@ Canada Day saw the release of *Upper Canada Blues*, the third full-length in rec
 
 The album arrives alongside a Laura-Lynn Petrick-directed video for the song "Ribbons," featuring dancer Nyda Kwasowsky. The clip premiered last week at [NOW](https://nowtoronto.com/music/doc-dunn-wlmrt-daniel-caesar/).
 
-Dunn's [U.S. Girls](http://yousgirls.blogspot.ca/)-backing psych-jazz combo [The Cosmic Range](http://thecosmicrange.bandcamp.com) recently released *The Gratitude Principle* on [Idée Fixe Records](http://ideefixerecords.com/).
+Dunn's [U.S. Girls](http://yousgirls.blogspot.ca/)-backing psych-jazz combo [The Cosmic Range](http://thecosmicrange.bandcamp.com) recently released *The Gratitude Principle* on [Idée Fixe Records](https://www.ideefixerecords.com).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h3z7NUOzios" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

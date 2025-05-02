@@ -125,7 +125,7 @@ Toronto synthpop trio [Sauna](http://saunaaa.bandcamp.com) recently shared "Floa
 
 The new songs follow the double A-side singles "Only Luck" and "Modernization" in previewing the new album, due May 20 through the band's namesake Sauna Records. The group features Michael le Riche of [Fake Palms](https://fakepalms-pleasence.bandcamp.com/) on vocals and synths, performing with ex-[Weaves](https://www.weavesband.com/) bassist Zach Bines and [Greys](https://greys.bandcamp.com/) drummer Braeden Craig. Sauna recorded at Palace Sound with Christopher Sandes producing.
 
-The new LP follows up on Sauna's 2019 debut, a self-titled EP issued through [Idée Fixe Records](http://ideefixerecords.com/).
+The new LP follows up on Sauna's 2019 debut, a self-titled EP issued through [Idée Fixe Records](https://www.ideefixerecords.com).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ENiMmBKb8JI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

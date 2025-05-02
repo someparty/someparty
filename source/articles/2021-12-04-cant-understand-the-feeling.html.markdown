@@ -58,7 +58,7 @@ Patrick Lefler's Toronto-based psych-pop project [ROY](https://thesoundofroy.ban
 
 >"Each and every song embodies the personality and sonic capabilities of the object in the song title. Many songs feature the actual use the of the object itself to creative psycho acoustic soundscapes capable of projecting the listener into a world run by objects, not people. Every object is owned and loved and plays a critical role in the daily life of ROY."
 
-Lefler recorded at The Submarine and Maison Du Bonheur with Jeff McMurrich mastering at Sonology. The 10-song set follows May's [Idée Fixe](http://ideefixerecords.com/) LP, *Roy's Garage* (not to mention July's *Lunar Gardens* album as one-fifth of Possum).
+Lefler recorded at The Submarine and Maison Du Bonheur with Jeff McMurrich mastering at Sonology. The 10-song set follows May's [Idée Fixe](https://www.ideefixerecords.com) LP, *Roy's Garage* (not to mention July's *Lunar Gardens* album as one-fifth of Possum).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2020185695/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://thesoundofroy.bandcamp.com/album/capitalism">CAPITALISM by ROY</a></iframe>
 
@@ -67,7 +67,7 @@ Lefler recorded at The Submarine and Maison Du Bonheur with Jeff McMurrich maste
 
 Speaking of [Possum](https://possumyyz.bandcamp.com/), the Toronto psych quintet promoted the repress of *Lunar Gardens* with a new video for "Leyline Riders." The clip, featuring a swirling trip by visual arts collective [The Oscillitarium](https://www.instagram.com/theoscillitarium/), premiered last week through [Its Psychedelic Baby](https://www.psychedelicbabymag.com/2021/12/leyline-riders-by-possum-lunar-gardens-repress.html). The new pressing, the record's second, ships out in early December.
 
-*Lunar Gardens* arrived in July through [Idée Fixe Records](http://ideefixerecords.com/), following up 2019's *Space Grade Assembly*. Possum plays as a quintet featuring Brandon Bak, Tobin Hopwood, Patrick Lefler, Christopher Shannon, and Bradley Thibodeau. Sisters Sarah and Sophia Bassakyros join Hopwood as members of The Oscillitarium.
+*Lunar Gardens* arrived in July through [Idée Fixe Records](https://www.ideefixerecords.com), following up 2019's *Space Grade Assembly*. Possum plays as a quintet featuring Brandon Bak, Tobin Hopwood, Patrick Lefler, Christopher Shannon, and Bradley Thibodeau. Sisters Sarah and Sophia Bassakyros join Hopwood as members of The Oscillitarium.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BuRj7DwVYwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

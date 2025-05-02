@@ -116,7 +116,7 @@ The collection marks the group's third release over the past year, with their se
 
 A celebrated multi-instrumentalist, 'Twig' Turnbull's long list of credits include stints as a songwriter and producer for both U.S. Girls and [Darlene Shrugg](https://darleneshrugg.bandcamp.com/). He also appears regularly as a member of the psych-jazz group [The Cosmic Range](http://thecosmicrange.bandcamp.com). His Ensemble features Jay Anderson on drums, Chris Bezant on guitar, Alia O'Brien on the Flute, percussionist Ed Squires, and Giosuè Rosati on bass. This record finds the lineup expanded to include saxophonist Karen Ng, as well. The liner notes credit Turnbull with all manner of keys and synthesizers this time out.
 
-Jennifer Castle released the *Monarch Season* LP just last month on [Idée Fixe Records](http://ideefixerecords.com/) and [Paradise of Bachelors](http://www.paradiseofbachelors.com/).
+Jennifer Castle released the *Monarch Season* LP just last month on [Idée Fixe Records](https://www.ideefixerecords.com) and [Paradise of Bachelors](http://www.paradiseofbachelors.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3786471390/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=978302288/transparent=true/" seamless><a href="https://bbadgepoqueensemble2.bandcamp.com/album/self-help">Self Help by Badge Époque Ensemble</a></iframe>
 

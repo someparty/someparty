@@ -44,13 +44,13 @@ Last week brought another preview of *What's Tonight to Eternity*, the upcoming 
 
 [Listen: Cindy Lee - "I Want You To Suffer" @ YouTube](https://youtu.be/y59XYOjU1Hs "#")
 
-April 17 will see [Idée Fixe Records](http://ideefixerecords.com/) servicing a new full-length from the Toronto psych-pop act [ROY](https://thesoundofroy.bandcamp.com). You can preview the work, titled *Pease Love and Outer Space*, through the preview track "Is It You (Sky Brother)." While it's an authentically druggy tune, befitting of its 60s influences, it's also surprisingly concise. "It Is You" clocks in at an efficient two minutes and 13 seconds. You'd expect this type of thing to noodle off in a spaced-out haze, so this is interesting for its restraint alone.
+April 17 will see [Idée Fixe Records](https://www.ideefixerecords.com) servicing a new full-length from the Toronto psych-pop act [ROY](https://thesoundofroy.bandcamp.com). You can preview the work, titled *Pease Love and Outer Space*, through the preview track "Is It You (Sky Brother)." While it's an authentically druggy tune, befitting of its 60s influences, it's also surprisingly concise. "It Is You" clocks in at an efficient two minutes and 13 seconds. You'd expect this type of thing to noodle off in a spaced-out haze, so this is interesting for its restraint alone.
 
 What's not restrained is the campy tale spun around the album's creation. Here's a paragraph from the lengthy press release, plucked at random, so you know what you're in for:
 
 > "Months later I was visited by Sky Brother and Sky Sister again. I entered their spaceship willingly and blissfully. I remember the sensation of hovering, and spinning at the perfect pace to calm my systems. They told me that they were going to leave and not return until the time was truly righteous and all minds truly open. They left me with the most powerful gift anyone has ever been given. It was a glowing stone. Within it I saw the past and future of not only our world but other worlds in and out of this dimension. I refer to this as the STONE OF INFINITE POWER. The Stone was an object of true authority, and it was highly sought after."
 
-You can dive into the [full narrative](http://ideefixerecords.com/if024.html) at the label's website. This new record follows up Roy's 2018 self-titled tape.
+You can dive into the [full narrative](https://www.ideefixerecords.comif024.html) at the label's website. This new record follows up Roy's 2018 self-titled tape.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2737552867/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://thesoundofroy.bandcamp.com/album/peace-love-and-outer-space">PEACE LOVE AND OUTER SPACE by ROY</a></iframe>
 

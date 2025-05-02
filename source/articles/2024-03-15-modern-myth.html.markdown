@@ -122,7 +122,7 @@ The audio is available on a limited 12" vinyl pressing.
 ###[ROY](https://thesoundofroy.bandcamp.com): "Spoons for the World"
 ==Listen at [YouTube](https://youtu.be/bwM69AKJIYk?si=H5Mu-gO-laja-wJ2) - Purchase at [Bandcamp](https://thesoundofroy.bandcamp.com/album/spoons-for-the-world)==
 
-[Raven Sings The Blues](https://www.ravensingstheblues.com/roy-spoons-for-the-world/) recently premiered the title track to [ROY](https://thesoundofroy.bandcamp.com)'s upcoming album *Spoons for the World*,  a confidently unhurried psych-pop gem. It's our second preview of the record following the ballad "Now You Know." [Idée Fixe Records](http://ideefixerecords.com/) wrote enthusiastically about the reveal, sharing:
+[Raven Sings The Blues](https://www.ravensingstheblues.com/roy-spoons-for-the-world/) recently premiered the title track to [ROY](https://thesoundofroy.bandcamp.com)'s upcoming album *Spoons for the World*,  a confidently unhurried psych-pop gem. It's our second preview of the record following the ballad "Now You Know." [Idée Fixe Records](https://www.ideefixerecords.com) wrote enthusiastically about the reveal, sharing:
 
 >"The perfect album opener, Spoons brings the optimistic message that every day is filled with fresh promise. A kitchen jammer to be certain replete with Altec crushed acoustic leads blazing over Kali Horse's Sam and Des' swooning vocals as Harrison Foreman weaves magic and Jay Anderson keeps it all together."
 

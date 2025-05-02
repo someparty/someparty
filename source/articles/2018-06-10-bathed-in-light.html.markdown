@@ -121,7 +121,7 @@ The label detailed the collection's origins in their press release:
 
 [Listen: Bruce Haack - "When Mothers of Salem" @ SoundCloud](https://soundcloud.com/telephoneexplosion/bruce-haack-when-mothers-of-salem-previously-unreleased "#")
 
-Toronto psych/folk act [The Highest Order](https://www.facebook.com/TheHighestOrder/) has announced an upcoming live record. *Live at the Silver Dollar* will arrive in the fall on [Idée Fixe Records](http://ideefixerecords.com/), and as it says in the title it'll feature recordings of the band's performances in the now-shuttered Silver Dollar Room, which closed in the spring of 2017. The live set follows up the group's 2016 studio LP *Still Holding*.
+Toronto psych/folk act [The Highest Order](https://www.facebook.com/TheHighestOrder/) has announced an upcoming live record. *Live at the Silver Dollar* will arrive in the fall on [Idée Fixe Records](https://www.ideefixerecords.com), and as it says in the title it'll feature recordings of the band's performances in the now-shuttered Silver Dollar Room, which closed in the spring of 2017. The live set follows up the group's 2016 studio LP *Still Holding*.
 
 The Highest Order released a video featuring one of their captured live performances, a cover of the Allman Brothers Band's iconic "Midnight Rider." You can check it out below.
 

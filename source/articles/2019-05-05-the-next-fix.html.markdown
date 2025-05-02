@@ -17,7 +17,7 @@ The group shares a few members with [N0V3L](https://n0v3l.bandcamp.com), the sim
 
 [Watch: Crack Cloud - "The Next Fix" @ YouTube](https://youtu.be/xvtM_zKpZJ4 "#")
 
-Last week Toronto's experimental prog-pop act [Absolutely Free](http://absolutelyfree.ca/) announced the *Geneva Freeport* EP, set for a June 20 release as a 12" on [Idée Fixe](http://ideefixerecords.com/). The lead single from the three-song set is "Currency," a track that features Meg Remy of [U.S. Girls](http://yousgirls.blogspot.ca/) singing lead. If you were a fan of Remy's acclaimed LP *In a Poem Unlimited*, you'll find a similar vein of cosmic disco underscoring her words here. From the press release:
+Last week Toronto's experimental prog-pop act [Absolutely Free](http://absolutelyfree.ca/) announced the *Geneva Freeport* EP, set for a June 20 release as a 12" on [Idée Fixe](https://www.ideefixerecords.com). The lead single from the three-song set is "Currency," a track that features Meg Remy of [U.S. Girls](http://yousgirls.blogspot.ca/) singing lead. If you were a fan of Remy's acclaimed LP *In a Poem Unlimited*, you'll find a similar vein of cosmic disco underscoring her words here. From the press release:
 
 >"'Currency' is a nervy post-punk shuffle that gradually blossoms into a dense cosmic house track featuring Meg Remy of U.S. Girls on lead vocals. The lyrics contemplate how social frameworks like gender performance are built, and finds Absolutely Free reckoning with privilege and how to best use their social capital."
 

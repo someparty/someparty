@@ -42,7 +42,7 @@ During the pandemic, Denholm Whale released several recordings under his solo gu
 
 The enigmatic Toronto psych-pop act [ROY](https://thesoundofroy.bandcamp.com) returns this year with *Roy's Garage*. The new 13-song full-length comes on the heels of *Peace Love and Outer Space*, a lush celestial concept album released last year. While no less heady, the new work promises a more grounded approach - appearing to set aside the benevolent aliens and higher-dimensional concerns of its predecessor.
 
-The announcement arrived along with the single "Where Did My Mind Go?", a track that label [Idée Fixe](http://ideefixerecords.com/) touts as a "Wilson-esque pocket symphony." It's showcased in a new video from director Sam Maloney, one that's both appropriately trippy and suitably vintage in its kaleidoscopic trappings. [Shindig! Magazine](https://www.shindig-magazine.com/) premiered the clip, commenting:
+The announcement arrived along with the single "Where Did My Mind Go?", a track that label [Idée Fixe](https://www.ideefixerecords.com) touts as a "Wilson-esque pocket symphony." It's showcased in a new video from director Sam Maloney, one that's both appropriately trippy and suitably vintage in its kaleidoscopic trappings. [Shindig! Magazine](https://www.shindig-magazine.com/) premiered the clip, commenting:
 
 >"this 2 minute wonder is a beautifully melodic ode dischronometria, or could it be something more otherworldly? Mesmeric organ stabs, lush strings and some suitably wobbly fuzz guitar sit alongside a falsetto voice pleading for answers. Lovely."
 

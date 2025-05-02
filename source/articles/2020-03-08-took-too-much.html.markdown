@@ -111,7 +111,7 @@ Conditioner features Nick Giles on drums and vocals, bassist Jeff Gibson, guitar
 
 A mellow second single recently materialized from the Toronto psych-pop act [ROY](https://thesoundofroy.bandcamp.com). You can stream "Love (Sky Sister)" below. It serves as a lower-key counterpart to the bombastic "Is It You (Sky Brother)" that reintroduced ROY to the world a month ago, with both tracks directly addressing the celestial narrative wrapped around the band's upcoming album *Pease Love and Outer Space*.
 
-ROY's new LP arrives April 17 from [Idée Fixe Records](http://ideefixerecords.com/). A special edition of the album will be available with a bonus cassette, featuring "synthesizer compositions" intended to be played alongside the LP.
+ROY's new LP arrives April 17 from [Idée Fixe Records](https://www.ideefixerecords.com). A special edition of the album will be available with a bonus cassette, featuring "synthesizer compositions" intended to be played alongside the LP.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2737552867/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=3829819477/transparent=true/" seamless><a href="http://thesoundofroy.bandcamp.com/album/peace-love-and-outer-space">PEACE LOVE AND OUTER SPACE by ROY</a></iframe>
 

@@ -49,7 +49,7 @@ In 2018 the [Telephone Explosion](https://www.telephoneexplosion.com/) label col
 
 Acclaimed Ontario singer-songwriter [Jennifer Castle](https://jennifercastle.bandcamp.com/) returns this fall with a new full length. *Monarch Season* follows up on 2018's *Angels Of Death*, with the artist working entirely solo from her Port Stanley home. Without the accompaniment of other musicians, Castle's crafted a far more vulnerable and intimate sound this time out. That sense of space allowed Castle the room to incorporate field recordings of insects, waterfowl, and the waves on Lake Erie into the mix (physical versions of the release include expanded segments of these as ambient interludes).
 
-Castle worked with longtime co-producer Jeff McMurrich on the album. Early editions of the LP, due from [Idée Fixe Records](http://ideefixerecords.com/) and [Paradise of Bachelors](http://www.paradiseofbachelors.com/), include a songbook with photographs from the recording sessions and sheet music for each song. The record arrives on October 16.
+Castle worked with longtime co-producer Jeff McMurrich on the album. Early editions of the LP, due from [Idée Fixe Records](https://www.ideefixerecords.com) and [Paradise of Bachelors](http://www.paradiseofbachelors.com/), include a songbook with photographs from the recording sessions and sheet music for each song. The record arrives on October 16.
 
 Castle premiered *Monarch Season* with the delicate and airy new single, "Justice." It arrived alongside a hand-drawn animated video from Toronto visual artist [Jesi Jordan](https://www.instagram.com/yogawithjesi/).
 

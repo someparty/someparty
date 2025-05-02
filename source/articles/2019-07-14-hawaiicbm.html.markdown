@@ -108,7 +108,7 @@ In a statement Eliza Niemi commented on the song:
 >
 >The chorus begins hinting at waiting for a relationship to finally feel reciprocal, and ends with the reveal of me actually waiting for it to fall apart / knowing all along that it was doomed."
 
-The record finds Niemi and co-vocalist Nick Everett splitting songwriting duties across 11 new tracks that the four-piece recorded at [Chad VanGaalen](https://chadvangaalen.bandcamp.com/)'s Yoko Eno studio. They're following up their 2017 [Idée Fixe](http://ideefixerecords.com/) release *Tuning*.
+The record finds Niemi and co-vocalist Nick Everett splitting songwriting duties across 11 new tracks that the four-piece recorded at [Chad VanGaalen](https://chadvangaalen.bandcamp.com/)'s Yoko Eno studio. They're following up their 2017 [Idée Fixe](https://www.ideefixerecords.com) release *Tuning*.
 
 The band will unleash *Really Well* while making an appearance at [Sappyfest](http://www.sappyfest.com/) in Sackville, New Brunswick. They join a slate of performers this year that includes [Shotgun Jimmie](https://shotgunjimmie.net/), [LAL](https://lalforest.bandcamp.com/), [WHOOP-Szo](https://thenoisymountain.bandcamp.com), [Snotty Nose Rez Kids](https://snottynoserezkids.com/), [The Weather Station](https://www.theweatherstation.net/), [Haviah Mighty](https://haviahmighty.ca/), and [Apollo Ghosts](https://apolloghosts.bandcamp.com/). Sappy runs from August 2 to the 4th.
 

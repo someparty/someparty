@@ -89,7 +89,7 @@ Bassist Lesley Marshall directed the clip.
 
 Toronto's experimental prog-pop trio [Absolutely Free](http://absolutelyfree.ca/) has a new video online showcasing the title track of their newly released *Geneva Freeport* EP.  Directed by [Bile Sister](https://bilesister.ca/)'s Julie Reich, the clip wanders through a surreal 3D art gallery, evoking and parodying the record's namesake (a warehouse complex in Switzerland that hides away an estimated $100 billion art collection).
 
-The three-song EP came out last Friday on [Idée Fixe](http://ideefixerecords.com/). It features contributions from Meg Remy of [U.S. Girls](http://yousgirls.blogspot.ca/) and [Carl Didur](https://carldidur.bandcamp.com/) of the Toronto psych duo [Zacht Automaat](https://zachtautomaat.bandcamp.com/).
+The three-song EP came out last Friday on [Idée Fixe](https://www.ideefixerecords.com). It features contributions from Meg Remy of [U.S. Girls](http://yousgirls.blogspot.ca/) and [Carl Didur](https://carldidur.bandcamp.com/) of the Toronto psych duo [Zacht Automaat](https://zachtautomaat.bandcamp.com/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v9N2q5ztOQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

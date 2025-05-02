@@ -84,5 +84,5 @@ I'm a big fan of *La Papessa*, the 2017 [Polaris Music Prize](https://polarismus
 
 Finally last week [Jennifer Castle](https://jennifercastle.bandcamp.com/) returned to [The Lagniappe Sessions](https://aquariumdrunkard.com/2018/05/30/the-lagniappe-sessions-jennifer-castle-second-session/), recording her second set of covers for the project. On this outing, she performed tracks by Bob Marley and Brooke Benton. The Lagniappe Sessions is an ongoing part of the longstanding LA-based music blog [Aquarium Drunkard](https://aquariumdrunkard.com).
 
-Castle recently released the full-length *Angels of Death*, on [Idée Fixe](http://ideefixerecords.com/) in Canada and [Paradise of Bachelors](http://www.paradiseofbachelors.com/) elsewhere.
+Castle recently released the full-length *Angels of Death*, on [Idée Fixe](https://www.ideefixerecords.com) in Canada and [Paradise of Bachelors](http://www.paradiseofbachelors.com/) elsewhere.
 

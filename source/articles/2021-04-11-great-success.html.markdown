@@ -60,7 +60,7 @@ David O'Connor and Nathan Burger of Hamilton's [TV Freaks](https://teeveefreakzz
 ###[ROY](https://thesoundofroy.bandcamp.com): "I'm Not Afraid"
 ==Listen at [YouTube](https://youtu.be/psQA6Qwb6a8) - Purchase at [Bandcamp](https://thesoundofroy.bandcamp.com/album/roys-garage)==
 
-[Idée Fixe](http://ideefixerecords.com/) recently shared the second preview of *Roy's Garage*, the new 13-track full-length from Patrick Lefler's psych-pop project [ROY](https://thesoundofroy.bandcamp.com). "I'm Not Afraid" shuffles along with a vintage mix of acoustic strumming and harmonica, with Lefler's baritone vocals front and center. The tune throws off some serious Doors vibes over its two-minute runtime.
+[Idée Fixe](https://www.ideefixerecords.com) recently shared the second preview of *Roy's Garage*, the new 13-track full-length from Patrick Lefler's psych-pop project [ROY](https://thesoundofroy.bandcamp.com). "I'm Not Afraid" shuffles along with a vintage mix of acoustic strumming and harmonica, with Lefler's baritone vocals front and center. The tune throws off some serious Doors vibes over its two-minute runtime.
 
 *Roy's Garage* arrives May 14 as the down-to-earth counterpart of 2020's lush concept record *Peace Love and Outer Space*. It lands just a few months prior to the new album from Toronto psych outfit [Possum](https://possumyyz.bandcamp.com/), also featuring Lefler. That group returns this summer with *Lunar Gardens*. I shared some news and a song from that record in [last week's edition](https://www.someparty.ca/2021-04-04-blinds-drawn/), so don't miss out.
 

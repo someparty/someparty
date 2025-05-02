@@ -68,7 +68,7 @@ Some Party's been [tracking](https://www.someparty.ca/2021-02-28-yesterdaze/) Ge
 ###[Possum](https://possumyyz.bandcamp.com/): "Gala at the Universe City"
 ==Preview and purchase at [Bandcamp](https://possumyyz.bandcamp.com/track/gala-at-the-universe-city)==
 
-Toronto psych group [Possum](https://possumyyz.bandcamp.com/) returns this summer with *Lunar Gardens*, the follow-up to their 2019 debut *Space Grade Assembly*. The record arrives July 2 through [Idée Fixe Records](http://ideefixerecords.com/). In a statement, the band compared their new album to its predecessor, with the attached press release claiming only a "passing resemblance" between the two works:
+Toronto psych group [Possum](https://possumyyz.bandcamp.com/) returns this summer with *Lunar Gardens*, the follow-up to their 2019 debut *Space Grade Assembly*. The record arrives July 2 through [Idée Fixe Records](https://www.ideefixerecords.com). In a statement, the band compared their new album to its predecessor, with the attached press release claiming only a "passing resemblance" between the two works:
 
 >"While *Space Grade Assembly* dealt more with space in a cold literal sense, *Lunar Gardens*' approach is more 'space as metaphor for consciousness in all of its infinite expanding fractal forms,' a surrealist escapist space fantasy of impossible spaces — the type of place you might go when the things are too heavy here in 3D. If we were talking movies, one might say *Space Grade Assembly* is *2001: A Space Odyssey* and *Lunar Gardens* is *The Holy Mountain*."
 

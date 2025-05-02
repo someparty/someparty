@@ -121,7 +121,7 @@ Writing about the record for Sub Pop, Jesse Locke described the new songs:
 
 >"'Your Feel' dances into frame with a zigzagging solo from Dinosaur Jr.'s J Mascis and swelling mellotron from producer Asher Gould-Murtaugh, as Dunn's insistent vocals conjure the pains of longing for a lover's touch. 'Look In' mellows the tempo to a country slow-dance with glistening slide guitar, as Dunn wipes the tears from his eyes and moseys off into the sunset."
 
-Last year Dunn, known as the frontman of [The Cosmic Range](http://thecosmicrange.bandcamp.com), teamed up with members of [Mr. Joy](https://mrjoy.bandcamp.com/) to form the supergroup [Dr. Joy](https://dr-joy.bandcamp.com), issuing an LP through [Idée Fixe](http://ideefixerecords.com/). We haven't heard new solo material from Dunn since 2020's country-rock outing *Rain, Rain, Rain*.
+Last year Dunn, known as the frontman of [The Cosmic Range](http://thecosmicrange.bandcamp.com), teamed up with members of [Mr. Joy](https://mrjoy.bandcamp.com/) to form the supergroup [Dr. Joy](https://dr-joy.bandcamp.com), issuing an LP through [Idée Fixe](https://www.ideefixerecords.com). We haven't heard new solo material from Dunn since 2020's country-rock outing *Rain, Rain, Rain*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MoKQZ3ORa-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

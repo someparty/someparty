@@ -30,7 +30,7 @@ The inertia broke earlier this year, as Webb reveals:
 
 You'll find Constantines' Will Kidman, Doug MacGregor, and Dallas Wehrle among those collaborators. Backing vocals on the record come courtesy of [Jennifer Castle](https://jennifercastle.bandcamp.com/), [Julie Doiron](https://juliedoiron.bandcamp.com/), [Daniel Romano](https://www.danielromanomusic.com/), and [Steph Yates](https://stephyates.com). Yates' group [Cots](https://cotsmusic.bandcamp.com/) also joins Webb on the road for a string of Ontario and Quebec shows in the coming weeks and months.
 
-The 10-song *Run With Me* arrives November 3 through [Idée Fixe](http://ideefixerecords.com/). It follows Webb's 2015 *Live at Massey Hall* LP. Constantines issued the single "Call Me Out" in the summer of 2021, raising funds for the Unist'ot'en Camp and Black Lives Matter. It was their first new work published since 2008.
+The 10-song *Run With Me* arrives November 3 through [Idée Fixe](https://www.ideefixerecords.com). It follows Webb's 2015 *Live at Massey Hall* LP. Constantines issued the single "Call Me Out" in the summer of 2021, raising funds for the Unist'ot'en Camp and Black Lives Matter. It was their first new work published since 2008.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3963560609/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://brywebb.bandcamp.com/album/run-with-me">Run With Me by Bry Webb</a></iframe>
 
