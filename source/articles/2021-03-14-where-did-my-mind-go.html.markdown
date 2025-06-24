@@ -83,7 +83,7 @@ Founded in 2016, Dark Time's shifting lineup now finds vocalist Cayley O'Neill (
 
 Matt Post of the Whitby-bred noise-punk duo [Deathsticks](https://buysomedeathsticks.bandcamp.com/) recently debuted new solo material as the [Matt Post Band](https://mattpostband.bandcamp.com/), sharing a five-song self-titled EP. With hushed vocals layered atop propulsive, industrial-styled instrumentation, the album-opening "Black Cheetahs" marks a stark departure from Post's blown-out past work.
 
-During the summer, Matt shared the first self-titled EP from the lo-fi punk group [The Gunge](https://thegunge.bandcamp.com). Deathsticks, Post's two-piece with drummer Laura Klinduch, last released the 2019 EP *Soon the Troubles Will Be Over*.
+During the summer, Matt shared the first self-titled EP from the lo-fi punk group [The Gunge](https://thegunge.bandcamp.com). Deathsticks, Post's two-piece with drummer Laura, last released the 2019 EP *Soon the Troubles Will Be Over*.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2156795926/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://mattpostband.bandcamp.com/album/ep">EP by Matt Post Band</a></iframe>
 

@@ -10,7 +10,7 @@ thumbnail: 'premieres/deathsticks-social.jpg'
 
 "Small band! Big town!"
 
-That's the refrain guitarist Matt Post and drummer Laura Klinduch of [Deathsticks](https://buysomedeathsticks.bandcamp.com/) shout in their new single "Finger Food." It's undoubtedly a reference to the lightbulb-screaming noise-punk duo's recent move from Peterborough, Ontario up to Ottawa. While the nation's capital may boast an active music scene, particularly in the gritty garage vein that Deathsticks revel in, it's certainly a bigger pond, for better and worse.
+That's the refrain guitarist Matt Post and drummer Laura of [Deathsticks](https://buysomedeathsticks.bandcamp.com/) shout in their new single "Finger Food." It's undoubtedly a reference to the lightbulb-screaming noise-punk duo's recent move from Peterborough, Ontario up to Ottawa. While the nation's capital may boast an active music scene, particularly in the gritty garage vein that Deathsticks revel in, it's certainly a bigger pond, for better and worse.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2948844392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1405792995/transparent=true/" seamless><a href="http://buysomedeathsticks.bandcamp.com/album/deathsnacks">Deathsnacks by Deathsticks</a></iframe>
 
