@@ -71,7 +71,7 @@ It's a fool's errand to try keeping tabs on Vancouver agitators [Shearing Pinx](
 
 As expected, these tapes feature a smattering of archival cuts culled from underground live shows and rehearsal space shenanigans, the oldest of which (on the Murder Murder tape) reaches back to 2014. Nic Hughes (vocals/guitar/electronics) and Jeremy Van Wyck (vocals/drums/electronics) helm Shearing Pinx, with contributions on these recordings from Erin Ward, Jesse Taylor, and Sydney Koke.
 
-Outside of their seemingly unending cassette splits, Shearing Pinx last issued *People* LP in 2014 through [Psychic Handshake](http://www.psychichandshake.com/). In 2021, the enigmatic band released *When You Have No Taste, You Can Do Anything*, an anthology of previously unreleased material spanning 2008 through 2019.
+Outside of their seemingly unending cassette splits, Shearing Pinx last issued *People* LP in 2014 through [Psychic Handshake](https://psychichandshakerecordings.bandcamp.com). In 2021, the enigmatic band released *When You Have No Taste, You Can Do Anything*, an anthology of previously unreleased material spanning 2008 through 2019.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3413184098/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://isolatednowwaves.bandcamp.com/album/murder-murder-shearing-pinx">Murder Murder / Shearing Pinx by MURDER MURDER / SHEARING PINX</a></iframe>
 

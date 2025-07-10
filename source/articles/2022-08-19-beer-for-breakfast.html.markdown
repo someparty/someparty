@@ -67,7 +67,7 @@ First, the group has a split out with The Drivers, the solo project of Chris And
 
 The second split finds Shearing Pinx paired with the Vancouver no-wave/noise trio [Ex-Softess](https://ex-softess.bandcamp.com/), who deliver a pair of instrumentals. The Pinx side of the tape's also instrumental, presenting material recorded with Jesse Taylor of the electronic/darkwave group [In Mirrors](https://inmirrors2.bandcamp.com).
 
-Both sets are available in cassette runs of 50, with whatever's remaining up for sale on Bandcamp. Shearing Pinx last issued the LP *People* in 2014 through [Psychic Handshake](http://www.psychichandshake.com/). That same year they appeared on at least a half-dozen splits with then-active bands like Hag Face and Soupcans. Last year the group put out *When You Have No Taste, You Can Do Anything*, an anthology of previously unreleased material spanning 2008 through 2019.
+Both sets are available in cassette runs of 50, with whatever's remaining up for sale on Bandcamp. Shearing Pinx last issued the LP *People* in 2014 through [Psychic Handshake](https://psychichandshakerecordings.bandcamp.com). That same year they appeared on at least a half-dozen splits with then-active bands like Hag Face and Soupcans. Last year the group put out *When You Have No Taste, You Can Do Anything*, an anthology of previously unreleased material spanning 2008 through 2019.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3468238964/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://isolatednowwaves.bandcamp.com/album/ex-softess-shearing-pinx">Ex-Softess / Shearing Pinx by EX-SOFTESS / SHEARING PINX</a></iframe>
 
