@@ -19,7 +19,7 @@ Some Party's mission is similarly dispassionate and ultimately pragmatic. I focu
 
 ##Archives
 
-I've published Some Party's more-or-less weekly since May of 2017. You can explore yearly archives here:
+I've published Some Party since May of 2017, weekly at first and closer to monthly as the years have gone on. You can explore yearly archives here:
 
 * [2017](/2017/)
 * [2018](/2018/)

@@ -49,7 +49,7 @@ Neon Taste has the album out now on cassette and vinyl, all of which boast what 
 ###[Penny & The Pits](https://pennyandthepits.bandcamp.com): *Liquid Compactor*
 ==Watch "Pool Party" on [YouTube](https://youtu.be/-OrxnTlj1T4?si=QUXwM52S-RudC_kJ) - Preview and purchase at [Bandcamp](https://pennyandthepits.bandcamp.com/album/liquid-compactor)==
 
-I'm hot and cold on Fredericton's [Motherhood](https://motherhoodmusic.bandcamp.com/). While I appreciate the freewheeling attitude driving the trio's art rock, they don't tailor their albums for casual listening. Penelope Stevens' new spinoff project [Penny & The Pits](https://pennyandthepits.bandcamp.com) hits differently. While *Liquid Compactor* doesn't shy away from spinning Motherhood's zany roulette wheel of styles, The Pits wrap that dynamism in a cool surf-rock package that goes down easy. Stevens acknowledges this approach in a press release, stating:
+I'm hot and cold on Fredericton's [Motherhood](https://motherhoodmusic.bandcamp.com/). While I appreciate the devil-may-care attitude driving the trio's art rock, they don't exactly tailor their albums for casual listening. Penelope Stevens' new spinoff project [Penny & The Pits](https://pennyandthepits.bandcamp.com) hits differently. While *Liquid Compactor* doesn't shy away from spinning a similarly zany wheel of styles, The Pits wrap that dynamism in a cool surf-rock package that goes down easy. Stevens acknowledges this approach in a press release, stating:
 
 >"I spent a lot of time making challenging work that would test both myself and the listener. Now, I'm trying to make music that feels good; music that connects the heart to the body."
 
@@ -79,7 +79,7 @@ Past and present members of the lauded alt-electronica act [Holy Fuck](https://w
 
 In a press release, Holy Fuck founder Brian Borcherdt detailed the creation of the harrowing "Dinosaur," written and recorded at a cottage in Black Point, Nova Scotia. He revealed:
 
->"We came up with this sort of lumbering monstrous baritone guitar part, something like a scary 'Hella Good'=Neptunes kind of hook. We had the title 'Dinosaur' due to this Godzilla vibe, but no words. I found a rehearsal tape that was perfect - it was still gibberish, but the vibe was right. Being centred around an 808 beat, I knew it'd fit. So I overlaid that take and was done."
+>"We came up with this sort of lumbering monstrous baritone guitar part, something like a scary 'Hella Good'-Neptunes kind of hook. We had the title 'Dinosaur' due to this Godzilla vibe, but no words. I found a rehearsal tape that was perfect - it was still gibberish, but the vibe was right. Being centred around an 808 beat, I knew it'd fit. So I overlaid that take and was done."
 
 Cut Cult features Borcherdt and current Holy Fuck bassist Matt McQuaid, reunited with that project's original drummer Loel Campbell (Wintersleep, Contrived). They're joined on the recording by Màiri Chaimbeul on harp and synth bass. Matt Wiggins (Glass Animals, !!!, Florence and the Machine) mixed the EP with mastering by Matt Colton.
 
