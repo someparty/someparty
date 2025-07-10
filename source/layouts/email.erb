@@ -15,7 +15,7 @@
       </div>
       <p style="font-size: 85%; margin-bottom: 5px"><%= current_article.date.strftime('%A %B %e, %Y') %></p>
       <h1><%= current_article.title unless current_article.nil? %></h1>
-      <p><em>Some Party is a newsletter sharing the latest in independent Canadian rock&#39;n&#39;roll, curated weekly by <a href="https://www.buymeacoffee.com/someparty">Adam White</a>. Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way. You can read this edition in full <a href="https://www.someparty.ca<%= current_article.url unless current_article.nil? %>">on the web</a>.</em></p>
+      <p><em>Some Party is a newsletter sharing the latest in independent Canadian rock&#39;n&#39;roll, curated by <a href="https://www.buymeacoffee.com/someparty">Adam White</a>. Each edition explores punk, garage, psych, and otherwise uncategorizable indie rock, drawing lines from proto to post and taking some weird diversions along the way. You can read this edition in full <a href="https://www.someparty.ca<%= current_article.url unless current_article.nil? %>">on the web</a>.</em></p>
       <p><em>You can stream featured songs from the latest editions of the newsletter via the Some Party Playlists, available on <a href="https://music.apple.com/ca/playlist/some-party/pl.u-2j4LIq9p0l">Apple Music</a> and <a href="https://open.spotify.com/playlist/4Lj4aJm4PkpVWsvnv6taGm?si=Hp_gF34nRGuKw2vN2gMeyg">Spotify</a>.</em></p>
       <%= yield %>
       <br/>
