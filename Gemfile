@@ -2,12 +2,6 @@
 # the following line to use 'http://'
 source 'https://rubygems.org'
 
-# For faster file watcher updates on Windows:
-gem 'wdm', '~> 0.1.0', platforms: %i[mswin mingw]
-
-# Windows does not come with time zone data
-gem 'tzinfo-data', platforms: %i[mswin mingw jruby]
-
 # Middleman Gems
 
 gem 'activesupport'
@@ -28,6 +22,8 @@ gem 'redcarpet', '>= 3.5.1'
 gem 'rexml', '>= 3.2.5'
 gem 'ruby-limiter'
 gem 'rubyzip'
+gem 'sassc', github: 'sass/sassc-ruby', ref: 'refs/pull/233/head'
+gem 'sassc-embedded'
 gem 'terser'
 
 # as per https://forum.middlemanapp.com/t/uninitialized-constant-haml-options/4643/3

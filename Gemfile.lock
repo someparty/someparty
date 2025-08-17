@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/sass/sassc-ruby.git
+  revision: 244d3dcc8b985e25bab066b296f0f202e43e41ad
+  ref: refs/pull/233/head
+  specs:
+    sassc (2.4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -1660,6 +1667,7 @@ GEM
       aws-eventstream (~> 1, >= 1.0.2)
     backports (3.25.0)
     base64 (0.3.0)
+    bigdecimal (3.2.2)
     builder (3.3.0)
     coffee-script (2.4.1)
       coffee-script-source
@@ -1681,6 +1689,12 @@ GEM
     fastimage (2.3.1)
     ffi (1.17.0)
     ffi (1.17.0-x86_64-linux-gnu)
+    google-protobuf (4.32.0)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.32.0-x86_64-linux-gnu)
+      bigdecimal
+      rake (>= 13)
     haml (5.2.2)
       temple (>= 0.8.0)
       tilt
@@ -1785,6 +1799,7 @@ GEM
     rack-livereload (0.3.17)
       rack
     rainbow (3.1.1)
+    rake (13.3.0)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
@@ -1815,8 +1830,13 @@ GEM
     ruby-limiter (2.3.0)
     ruby-progressbar (1.13.0)
     rubyzip (2.3.2)
-    sassc (2.4.0)
-      ffi (~> 1.9)
+    sass-embedded (1.90.0)
+      google-protobuf (~> 4.31)
+      rake (>= 13)
+    sass-embedded (1.90.0-x86_64-linux-gnu)
+      google-protobuf (~> 4.31)
+    sassc-embedded (1.80.5)
+      sass-embedded (~> 1.80)
     servolux (0.13.0)
     stringio (3.1.1)
     temple (0.10.3)
@@ -1860,9 +1880,9 @@ DEPENDENCIES
   rubocop-rails
   ruby-limiter
   rubyzip
+  sassc!
+  sassc-embedded
   terser
-  tzinfo-data
-  wdm (~> 0.1.0)
 
 BUNDLED WITH
    2.3.24
