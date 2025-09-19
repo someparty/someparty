@@ -37,7 +37,7 @@ Bike Thiefs features bassist Kris Pandierada, drummer Andrew Fasken, and guitari
 
 After what seems like a long time off the grid, Toronto's [Peeling](https://peeling.bandcamp.com/) returns this November with a new record. The group's first full-length release, titled *Worshopper*, arrives on the 27th from their newly formed Labyrinth Records. You can stream "Suck," the record's the first single, now at Bandcamp.
 
-Spearheaded by Annabelle Lee (Anna Timoshenko - formerly of [Mexican Slang](https://mexicanslang.bandcamp.com/)), Peeling last released the EPs *Rats In Paradise* and *7 Years of Blood* in 2016 and 2017. Then working with [Buzz Records](http://buzzrecords.ca), the band's early lineup featured members of Dilly Dally, Odonis Odonis, and The Golden Dogs. These new songs find Lee on all instruments, with [Preoccupations](http://preoccupationsband.com/)' drummer Michael Wallace appearing on six of the album's nine tracks.
+Spearheaded by Annabelle Lee (Anna Timoshenko - formerly of [Mexican Slang](https://mexicanslang.bandcamp.com/)), Peeling last released the EPs *Rats In Paradise* and *7 Years of Blood* in 2016 and 2017. Then working with [Buzz Records](http://buzzrecords.ca), the band's early lineup featured members of Dilly Dally, Odonis Odonis, and The Golden Dogs. These new songs find Lee on all instruments, with [Preoccupations](https://preoccs.com/)' drummer Michael Wallace appearing on six of the album's nine tracks.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4005969686/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://peeling.bandcamp.com/album/worshipper">Worshipper by Peeling</a></iframe>
 
@@ -89,7 +89,7 @@ The Canadian music world spent much of the past week celebrating the 10th annive
 
 The anniversary coincided with a five-song rarity set from the now-defunct band. *Rarities 2007 - 2010* arrives on October 2 as a limited edition vinyl release. You can preview the track "Everyone Is So In Love With You" at Bandcamp now.
 
-Women featured vocalist/guitarist Patrick Flegel, bassist Matt Flegel, guitarist Chris Reimer, and drummer Michael Wallace, with [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) serving as the band's producer and studio collaborator. In the years following the 2012 death of Chris Reimer, Patrick Flegel's performed as the acclaimed [Cindy Lee](https://cindylee-w25th.bandcamp.com), with Matt and Michael landing as a part of [Preoccupations](http://preoccupationsband.com/).
+Women featured vocalist/guitarist Patrick Flegel, bassist Matt Flegel, guitarist Chris Reimer, and drummer Michael Wallace, with [Chad VanGaalen](https://chadvangaalen.bandcamp.com/) serving as the band's producer and studio collaborator. In the years following the 2012 death of Chris Reimer, Patrick Flegel's performed as the acclaimed [Cindy Lee](https://cindylee-w25th.bandcamp.com), with Matt and Michael landing as a part of [Preoccupations](https://preoccs.com/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=617717577/size=large/bgcol=ffffff/linkcol=0687f5/license_id=1399/tracklist=false/transparent=true/" seamless><a href="https://womenband.bandcamp.com/album/rarities-2007-2010">Rarities 2007 - 2010 by Women</a></iframe>
 

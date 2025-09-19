@@ -112,7 +112,7 @@ Conditioner last issued *Low Point* in 2020.
 
 Montreal indie rock quartet [Knitting](https://knitting.bandcamp.com) are back with "Spirit Gum," the first single from their upcoming LP *Some Kind Of Heaven*. Look for that record on September 6 through [Mint Records](https://www.mintrecs.com/). The track finds the lo-fi act harkens back to the 90s to weave a brooding tale that draws equally from grunge and shoegaze. You can see it visualized in a new video that features both a cast of puppets and a heel-turn cameo appearance from singer [Marlaena Moore](https://marlaenamoore.bandcamp.com).
 
-Knitting features Mischa Dempsey (formerly of Peterborough's [Lonely Parade](https://thelonelyparade.bandcamp.com/)), guitarist Sarah Harris, bassist Piper Curtis, and drummer Andy Mulcair. The group recorded with [Preoccupations](http://preoccupationsband.com/)' Scott Munro at Studio St. Zo.
+Knitting features Mischa Dempsey (formerly of Peterborough's [Lonely Parade](https://thelonelyparade.bandcamp.com/)), guitarist Sarah Harris, bassist Piper Curtis, and drummer Andy Mulcair. The group recorded with [Preoccupations](https://preoccs.com/)' Scott Munro at Studio St. Zo.
 
 The band is following up on their 2021 self-titled EP and a string of digital singles issued in the years since, including 2022's "Throwaway Year" and 2023's "Fix."
 

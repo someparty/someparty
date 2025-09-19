@@ -190,7 +190,7 @@ Calgary dream-pop act [Crystal Eyes](https://crystaleyesband.bandcamp.com/) rece
 
 >"We wrote this track starting with the synth line and formed all the other parts around that. The drums are actually built off a loop of the live drumming (played by Kenny Murdoch), that our producer, Andrew Woods, built. The guitar part (that guitarist Jordan Tettensor) wrote felt incredibly Joy Division - this is one of the darker tracks on the record. We were definitely going for something moody and also sanguine."
 
-Andrew Woods and Basia Bulat produced the new album at Montreal's Breakglass Studios. Mark Lawson (Arcade Fire, Yves Jarvis, and the above-mentioned Sunglaciers) mixed it. This song features Jenkins on vocals and guitar, backed by Jordan Tettensor on guitar, [Preoccupations](http://preoccupationsband.com/)' Scott Munro on bass and synth, Joleen Toner on organ and synth (a Canadian-made [Theravox](https://therevox.com) in particular), with Kenny Murdoch drumming.
+Andrew Woods and Basia Bulat produced the new album at Montreal's Breakglass Studios. Mark Lawson (Arcade Fire, Yves Jarvis, and the above-mentioned Sunglaciers) mixed it. This song features Jenkins on vocals and guitar, backed by Jordan Tettensor on guitar, [Preoccupations](https://preoccs.com/)' Scott Munro on bass and synth, Joleen Toner on organ and synth (a Canadian-made [Theravox](https://therevox.com) in particular), with Kenny Murdoch drumming.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bTE9BT_VZa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -69,7 +69,7 @@ You can preview the track "Waving Goodbye From a Tree" below. It's one of 15 son
 
 [Listen: Chris Reimer - "Waving Goodbye from a Tree" @ Bandcamp](http://chrisreimer.bandcamp.com/track/waving-goodbye-from-a-tree "#")
 
-Several of Reimer's bandmates from Women are of course now members of [Preoccupations](http://preoccupationsband.com/) (the band once contentiously known as Viet Cong). That group recently released the first single from their upcoming third studio album. The song's titled "Espionage," and it will appear on *New Material* when it arrives on March 23. [Flemish Eye](http://www.flemisheye.com/) will handle the release in Canada, with [Jagjaguwar](https://jagjaguwar.com/) working the set elsewhere.
+Several of Reimer's bandmates from Women are of course now members of [Preoccupations](https://preoccs.com/) (the band once contentiously known as Viet Cong). That group recently released the first single from their upcoming third studio album. The song's titled "Espionage," and it will appear on *New Material* when it arrives on March 23. [Flemish Eye](http://www.flemisheye.com/) will handle the release in Canada, with [Jagjaguwar](https://jagjaguwar.com/) working the set elsewhere.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kl1oQE2uzxw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

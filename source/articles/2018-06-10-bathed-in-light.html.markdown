@@ -79,7 +79,7 @@ Vancouver's slacker-punk act [Dumb](https://dumbband.bandcamp.com/) recently pre
 
 [Listen: Dumb - "Romeo" @ SoundCloud](https://soundcloud.com/mint-records/dumb-romeo "#")
 
-Fresh off their successful [crowdfunding campaign](https://www.gofundme.com/preoccupationsgearfund) to replace virtually all of their stolen gear, Alberta's [Preoccupations](http://preoccupationsband.com/) have released a new video for the song "Decompose." The Evan Henderson directed clip was shot live by Adam Stewart on the Horseshoe Tavern in Toronto. The video's visual style comes from film which had been boiled in salt water brine for weeks.
+Fresh off their successful [crowdfunding campaign](https://www.gofundme.com/preoccupationsgearfund) to replace virtually all of their stolen gear, Alberta's [Preoccupations](https://preoccs.com/) have released a new video for the song "Decompose." The Evan Henderson directed clip was shot live by Adam Stewart on the Horseshoe Tavern in Toronto. The video's visual style comes from film which had been boiled in salt water brine for weeks.
 
 "Decompose" comes from the band's March-released album *New Material*, the third from the post-punk act. It was released via [Flemish Eye](http://www.flemisheye.com/) in Canada and [Jagjaguwar](https://jagjaguwar.com/) elsewhere.
 

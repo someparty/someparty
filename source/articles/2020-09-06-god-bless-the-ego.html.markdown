@@ -9,7 +9,7 @@ In a recent letter to fans, [Protruders](https://protruders.bandcamp.com)' Joe C
 
 >"Drawing influence from the looser end of the Ork records catalogue, the sensitive side of Ohio's proto-punk scene and the grittiest and most sluggish tangent of 70's power pop, Itchy Self's debut 12" is an exploration of fully formed songs treated with spontaneous delivery. The group got together in early 2020 for 3 practices and a recording session and here are the results, laid out in their raw form. This is cross-generational racket n roll music that wears its heart on its loosey goosey sleeve."
 
-The group features Chamandy on guitar and vocals, Scott Brown on bass, Chris Burns on guitar, and Zak Slax on drums. Moss Lime's [Hélène Barbier](https://helenebarbier.bandcamp.com/) sings backup, along with Kay Moon (Dead Beat Poet Society) and [Preoccupations](http://preoccupationsband.com/)' Scott Munro. Munro recorded the five-song set, with mastering performed by Mikey Young of the Eddy Current Suppression Ring and Total Control.
+The group features Chamandy on guitar and vocals, Scott Brown on bass, Chris Burns on guitar, and Zak Slax on drums. Moss Lime's [Hélène Barbier](https://helenebarbier.bandcamp.com/) sings backup, along with Kay Moon (Dead Beat Poet Society) and [Preoccupations](https://preoccs.com/)' Scott Munro. Munro recorded the five-song set, with mastering performed by Mikey Young of the Eddy Current Suppression Ring and Total Control.
 
 The single "God Bless The Ego" is streaming now at Bandcamp, with a video directed by [Équivoc](https://equivoc.org/)'s Olivia Faye Lathuillière now playing at [YouTube](https://youtu.be/IIZkgB_OgGw).
 

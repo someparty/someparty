@@ -202,7 +202,7 @@ The six-song *Little Piece of Hair* arrived in the spring of 2021 through the [F
 ###[Marlaena Moore](https://marlaenamoore.bandcamp.com): "Pacer"
 ==Watch on [YouTube](https://youtu.be/FYWYc97oGsI) - Preview and purchase at [Bandcamp](https://marlaenamoore.bandcamp.com/track/pacer)==
 
-Edmonton singer-songwriter [Marlaena Moore](https://marlaenamoore.bandcamp.com) recently shared "Pacer," a delicate new single co-written and produced by [Preoccupations](http://preoccupationsband.com/)' Scott Munro. The song's one of her first since 2020's well-received *Pay Attention, Be Amazed!* LP. Peroccupations drummer Michael Wallace handles the percussion on the track, with Munro on guitar and synth. Moore plays bass and, of course, sings lead. You can now find the pensive tune at Bandcamp or featured in a new video from director Sasha Khalimonova.
+Edmonton singer-songwriter [Marlaena Moore](https://marlaenamoore.bandcamp.com) recently shared "Pacer," a delicate new single co-written and produced by [Preoccupations](https://preoccs.com/)' Scott Munro. The song's one of her first since 2020's well-received *Pay Attention, Be Amazed!* LP. Peroccupations drummer Michael Wallace handles the percussion on the track, with Munro on guitar and synth. Moore plays bass and, of course, sings lead. You can now find the pensive tune at Bandcamp or featured in a new video from director Sasha Khalimonova.
 
 Moore recorded at The Schoolhouse in Ymir BC, Junimo Studio in Calgary, and Studio Saint Zo in Montreal. There's no word yet on the eventual home for this song, but I'd wager we'll see a follow-up to *Pay Attention* later this year.
 

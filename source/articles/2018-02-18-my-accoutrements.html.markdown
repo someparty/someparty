@@ -118,7 +118,7 @@ Hamilton, Ontario's [The Crowleys](https://thecrowleys.bandcamp.com/) have relea
 
 [Listen: The Crowleys - "Pink Rainbows" @ Bandcamp](https://thecrowleys.bandcamp.com/ "#")
 
-Alberta's post-punk act [Preoccupations](http://preoccupationsband.com/) continue to garner a ton of press in the lead up to their third studio album, *New Material*. The band just released a stylish video for the song "Antidote," a percussion-driven number with (in my humble opinion) a pretty damn compelling hook in the chorus. Michael Wallace and Evan Pearce directed the video.
+Alberta's post-punk act [Preoccupations](https://preoccs.com/) continue to garner a ton of press in the lead up to their third studio album, *New Material*. The band just released a stylish video for the song "Antidote," a percussion-driven number with (in my humble opinion) a pretty damn compelling hook in the chorus. Michael Wallace and Evan Pearce directed the video.
 
 *New Material* arrives on March 23. [Flemish Eye](http://www.flemisheye.com/) will, of course, handle the release in Canada, with [Jagjaguwar](https://jagjaguwar.com/) carrying the record elsewhere.
 

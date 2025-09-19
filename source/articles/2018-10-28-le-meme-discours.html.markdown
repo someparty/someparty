@@ -62,7 +62,7 @@ I've been following Zen Bamboo since seeing them rock an alley in the rain at FM
 
 [Listen: Zen Bamboo - "Kanye" @ Bandcamp](https://zenbamboo.bandcamp.com/album/volume-4-retour-aux-sources "#")
 
-Calgary's [Preoccupations](http://preoccupationsband.com/) are headed out on a [co-headlining tour](https://exclaim.ca/music/article/preoccupations_and_protomartyr_team_up_for_north_american_tour) with Detroit's [Protomartyr](https://www.protomartyrband.com/) in late November, but before that the bands will release a split 7" titled *Telemetry at Howe Bridge*. The record will feature Protomartyr reimagining "Forbidden" from Preoccupations' 2016 debut, while the Albertan act performs their version of "Pontiac ’87" from 2015's Protomartyr's *The Agent Intellect* on the reverse.
+Calgary's [Preoccupations](https://preoccs.com/) are headed out on a [co-headlining tour](https://exclaim.ca/music/article/preoccupations_and_protomartyr_team_up_for_north_american_tour) with Detroit's [Protomartyr](https://www.protomartyrband.com/) in late November, but before that the bands will release a split 7" titled *Telemetry at Howe Bridge*. The record will feature Protomartyr reimagining "Forbidden" from Preoccupations' 2016 debut, while the Albertan act performs their version of "Pontiac ’87" from 2015's Protomartyr's *The Agent Intellect* on the reverse.
 
 Protomartyr’s vocalist Joe Casey commented on their cover:
 
