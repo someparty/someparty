@@ -14,7 +14,7 @@ No Frills captured the core of *Sad Clown* in loose sessions with engineers Chri
 
 The lead single, "Shopping in the Toothpaste Aisle," is now streaming everywhere. You can experience the fluorescent-lit purgatory of wandering a Shoppers Drug Mart in the accompanying video, available on [YouTube](https://youtu.be/acl00z_vLMU?si=6MM6_G7_Y5N9H-Qm).
 
-No Frills finds Busheikin backed by bassist Maddy Wilde ([Rapport](https://rapport.bandcamp.com/)), guitarist Matt Buckberrough ([Twist](https://www.twistofficial.com/), [Beds](https://bedss.bandcamp.com/)), and drummer Jonathan Pappo ([WHIMM](https://whimm.bandcamp.com/), [Ducks Ltd.](https://ducksltdband.bandcamp.com)).
+No Frills finds Busheikin backed by bassist Maddy Wilde ([Rapport](https://rapport.bandcamp.com/)), guitarist Matt Buckberrough ([Twist](https://twist.bandcamp.com), [Beds](https://bedss.bandcamp.com/)), and drummer Jonathan Pappo ([WHIMM](https://whimm.bandcamp.com/), [Ducks Ltd.](https://ducksltdband.bandcamp.com)).
 
 If you're in Toronto on December 5, you'll find No Frills and [PACKS](https://packstheband.bandcamp.com) pooling their languid, lo-fi powers for a can't miss show at Ted's Collision.
 

@@ -121,7 +121,7 @@ Hippie Hourrah features Cédric Marinelli of [Les Marinellis](https://lesmarinel
 ###[BEDS](https://bedss.bandcamp.com/): "Manowar Beach"
 ==Preview and purchase at [Bandcamp](https://bedss.bandcamp.com/track/manowar-beach)==
 
-The Toronto garage-soul combo [BEDS](https://bedss.bandcamp.com/) recently issued "Manowar Beach" via the [Rare Drugs](https://raredrugs.bandcamp.com) collective. The track features Kuba Pie on vocals and lead guitar, Matt Buckberrough ([No Frills](https://nofrillsmusic.bandcamp.com/), [Twist](https://www.twistofficial.com/)) on bass, and Happy Jade on drums, with backing vocals and additional instrumentation from both [Edmund Stay](https://edmundstay.bandcamp.com/) and Marci.s
+The Toronto garage-soul combo [BEDS](https://bedss.bandcamp.com/) recently issued "Manowar Beach" via the [Rare Drugs](https://raredrugs.bandcamp.com) collective. The track features Kuba Pie on vocals and lead guitar, Matt Buckberrough ([No Frills](https://nofrillsmusic.bandcamp.com/), [Twist](https://twist.bandcamp.com)) on bass, and Happy Jade on drums, with backing vocals and additional instrumentation from both [Edmund Stay](https://edmundstay.bandcamp.com/) and Marci.s
 
 The track follows up on the single "Colour Blue," issued in March of 2021, and before that, 2020's "Dictate." As typical, BEDS reveals very little on their process and trickles out material at an unhurried pace, so don't hold your breath waiting for their next.
 

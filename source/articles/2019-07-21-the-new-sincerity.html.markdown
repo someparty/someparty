@@ -83,7 +83,7 @@ Chain Whip is Josh Nickel of [Fashionism](https://fashionism.bandcamp.com/) (and
 
 [Listen: Chain Whip - "On a Rope" @ Bandcamp](https://chainwhip.bandcamp.com/track/on-a-rope "#")
 
-Toronto jangle-pop quartet [Ducks Unlimited](http://ducksunlimitedband.bandcamp.com) are preparing an EP for release later this year. Last week the band dropped a preview in the form of "Get Bleak," a track featuring guest vocals from Laura Hermiston of [Twist](https://www.twistofficial.com/).
+Toronto jangle-pop quartet [Ducks Unlimited](http://ducksunlimitedband.bandcamp.com) are preparing an EP for release later this year. Last week the band dropped a preview in the form of "Get Bleak," a track featuring guest vocals from Laura Hermiston of [Twist](https://twist.bandcamp.com).
 
 Lead vocalist Tom Mcgreevy spoke to [Paste](https://www.pastemagazine.com/articles/2019/07/exclusive-ducks-unlimited-new-single-get-bleak.html) about the new track:
 

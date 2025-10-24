@@ -27,7 +27,7 @@ Art-rock outfit [Rogue Tenant](https://roguetenant.bandcamp.com) recently shared
 
 That friend was Brian Lahaie, Rogue Tenant's drummer who passed in 2019 following a diagnosis of cancer. Lahaie was a key collaborator on the band's 2019 EP, *Compassion*. This new record finds Patrick primarily recording at home, working in solitude due to the pandemic. You can read more on how Grant sought to honour his late friend in a revealing piece at [Exclaim](https://exclaim.ca/music/article/rogue_tenant_gone_video_premiere).
 
-Patrick Grant's served in several Toronto groups over the years, including [Skydome Hotel](https://skydomehotel.bandcamp.com) and [Twist](https://www.twistofficial.com/). The six-song *Always Another Day* is due this Friday.
+Patrick Grant's served in several Toronto groups over the years, including [Skydome Hotel](https://skydomehotel.bandcamp.com) and [Twist](https://twist.bandcamp.com). The six-song *Always Another Day* is due this Friday.
 
 I was a huge fan of the eclectic Toronto duo Fembots back in the day, and this song evokes much of that same spirit. Highly recommended.
 

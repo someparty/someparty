@@ -53,7 +53,7 @@ Toronto pop-punk group [PONY](https://ponytheband.ca/) has released details on t
 
 [Listen: PONY - "Small Things" @ YouTube](https://www.youtube.com/watch?v=eVbfxvDtXHw "#")
 
-Speaking of [Buzz](http://buzzrecords.ca/), Toronto's [Twist](https://www.twistofficial.com/) previously announced that they'd release an EP on the label on September 22 titled *Benefits*. The bouncy second single from the Michael Butler produced set showed up this week, titled "Leave This Town."
+Speaking of [Buzz](http://buzzrecords.ca/), Toronto's [Twist](https://twist.bandcamp.com) previously announced that they'd release an EP on the label on September 22 titled *Benefits*. The bouncy second single from the Michael Butler produced set showed up this week, titled "Leave This Town."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xb5yKs1G33I" frameborder="0" allowfullscreen></iframe>
 

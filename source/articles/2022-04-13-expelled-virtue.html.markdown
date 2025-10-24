@@ -151,7 +151,7 @@ Toronto bummer-pop heroes [No Frills](https://nofrillsmusic.bandcamp.com/) celeb
 
 Buckle up.
 
-Led by songwriter Daniel Busheikin, No Frills features Kelvin Grove (Daniel's bandmate in [Grounders](https://grounders.bandcamp.com/)), Jon Pappo ([Hooded Fang](https://hoodedfang.bandcamp.com/), [WHIMM](https://whimm.bandcamp.com/), and the live version of [Ducks Ltd.](https://ducksltdband.bandcamp.com)), Matt 'Bucky' Buckberrough ([Twist](https://www.twistofficial.com/), [Beds](https://bedss.bandcamp.com/)), and Maddy Wilde ([Rapport](https://rapport.bandcamp.com/)).
+Led by songwriter Daniel Busheikin, No Frills features Kelvin Grove (Daniel's bandmate in [Grounders](https://grounders.bandcamp.com/)), Jon Pappo ([Hooded Fang](https://hoodedfang.bandcamp.com/), [WHIMM](https://whimm.bandcamp.com/), and the live version of [Ducks Ltd.](https://ducksltdband.bandcamp.com)), Matt 'Bucky' Buckberrough ([Twist](https://twist.bandcamp.com), [Beds](https://bedss.bandcamp.com/)), and Maddy Wilde ([Rapport](https://rapport.bandcamp.com/)).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vfmtMuqq17M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

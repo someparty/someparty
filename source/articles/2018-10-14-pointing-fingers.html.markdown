@@ -31,7 +31,7 @@ The appropriately weird "Head Boy" video was directed by vocalist Kaiva Gotham a
 
 [Watch: Luge - "Head Boy" @ YouTube](https://youtu.be/fTfN43RLiDc "#")
 
-Toronto's [Twist](https://www.twistofficial.com/) recently announced their sophomore album and follow-up to 2016's *Spectral*. The group plans to release *Distancing* on December 7 through [Buzz Records](http://buzzrecords.ca/). This record will once again feature the core duo of BB Guns' Laura Hermiston and the aforementioned Brian Borcherdt, this time out backed by members of Zeus, Biblical, and Michael Rault's backing band in the studio.
+Toronto's [Twist](https://twist.bandcamp.com) recently announced their sophomore album and follow-up to 2016's *Spectral*. The group plans to release *Distancing* on December 7 through [Buzz Records](http://buzzrecords.ca/). This record will once again feature the core duo of BB Guns' Laura Hermiston and the aforementioned Brian Borcherdt, this time out backed by members of Zeus, Biblical, and Michael Rault's backing band in the studio.
 
 The new album will feature 10 tracks recorded at Toronto's Palace and Union Sound studios. Twist has again worked with Michael Butler ([Beta Frontiers](http://www.betafrontiers.com/)) to mix the record. You can preview the song "Venus" in a video directed by Shawn Kosmo below.
 

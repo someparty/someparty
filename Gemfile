@@ -9,7 +9,10 @@ gem 'aws-sdk'
 gem 'builder', '~> 3.0' # For feed.xml
 gem 'fastimage'
 gem 'kramdown', '>= 2.3.1'
-gem 'middleman'
+# Swapped to the main branch until this PR is in a release:
+# https://github.com/middleman/middleman/pull/2855/files
+# Otherwise 4.6.2 breaks the custom renderer.
+gem 'middleman', github: 'middleman/middleman', branch: 'main'
 gem 'middleman-autoprefixer'
 gem 'middleman-blog'
 gem 'middleman-livereload'

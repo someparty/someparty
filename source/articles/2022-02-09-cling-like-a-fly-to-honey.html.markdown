@@ -78,7 +78,7 @@ Toronto bummer pop group [No Frills](https://nofrillsmusic.bandcamp.com/) contin
 
 The song follows "I Don't Wanna Be Your Dog Anymore," "Ice Cream Cone," and "Drip" in previewing the new record, due April 1.
 
-*Downward Dog* arrives as the follow-up to No Frills' 2018 debut EP *Nice To Meet You*. That record saw Daniel Busheikin (of [Grounders](https://grounders.bandcamp.com/)) establish the band's relaxingly downtrodden outlook, backed by his fellow Grounder Kelvin Grove, Jon Pappo (of [Hooded Fang](https://hoodedfang.bandcamp.com/), [WHIMM](https://whimm.bandcamp.com/), and the touring version of [Ducks Ltd.](https://ducksltdband.bandcamp.com)), and Matt 'Bucky' Buckberrough (of [Twist](https://www.twistofficial.com/) and [Beds](https://bedss.bandcamp.com/)).
+*Downward Dog* arrives as the follow-up to No Frills' 2018 debut EP *Nice To Meet You*. That record saw Daniel Busheikin (of [Grounders](https://grounders.bandcamp.com/)) establish the band's relaxingly downtrodden outlook, backed by his fellow Grounder Kelvin Grove, Jon Pappo (of [Hooded Fang](https://hoodedfang.bandcamp.com/), [WHIMM](https://whimm.bandcamp.com/), and the touring version of [Ducks Ltd.](https://ducksltdband.bandcamp.com)), and Matt 'Bucky' Buckberrough (of [Twist](https://twist.bandcamp.com) and [Beds](https://bedss.bandcamp.com/)).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g1aoJ2pAqcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -100,7 +100,7 @@ The song arrived alongside a video directed and animated by [Rosalie H. Maheux](
 
 Bandcamp recently restarted its artist-supporting Bandcamp Friday events, unleashing a predictable surge of new material from all quarters. Among the crowd, rootsy Toronto art-rock outfit [Rogue Tenant](https://roguetenant.bandcamp.com) resurfaced to share "Hallway Full Of Mirrors (Epitaphs)," a home-recorded song that follows up on last year's *Always Another Day* EP. The track finds principal Patrick Grant on vocals, guitar, keys, and accordion, with Daniela Gassi appearing on strings.
 
-The credits note that Grant borrowed the "uh huhs" in the chorus from the [Twist](https://www.twistofficial.com/) song "Blowin'" (the closing track from 2018's *Distancing*). Grant played in the Laura Hermiston-fronted group while they were active.
+The credits note that Grant borrowed the "uh huhs" in the chorus from the [Twist](https://twist.bandcamp.com) song "Blowin'" (the closing track from 2018's *Distancing*). Grant played in the Laura Hermiston-fronted group while they were active.
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=979798219/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://roguetenant.bandcamp.com/track/hallway-full-of-mirrors-epitaphs">Hallway Full Of Mirrors (Epitaphs) by Rogue Tenant</a></iframe>
 

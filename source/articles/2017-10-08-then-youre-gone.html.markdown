@@ -33,7 +33,7 @@ After a 30 year hiatus, [The Hot Nasties](http://citizenfreak.com/artists/96693-
 
 [Watch: The Hot Nasties - "Hey There Girl" @ YouTube](https://www.youtube.com/watch?v=hkXRBorLZtQ&feature=youtu.be "#")
 
-Toronto's garage-pop act [Twist](https://www.twistofficial.com/) has shared a stylish and cinematic video for the song "Freak" from their recently released [Buzz Records](http://buzzrecords.ca/) EP *Benefits*. It was produced and directed by Jacq Andrade and Brittany Lucas. I suppose it's notable *now* that this was financed by the now-defunct video funding engine MuchFACT, so enjoy this sort of thing while it lasts. In an interview with [Noisey](https://noisey.vice.com/en_ca/article/evpqwj/break-free-from-toxic-relationships-with-twists-freak-video), Twist lead Laura Hermiston commented:
+Toronto's garage-pop act [Twist](https://twist.bandcamp.com) has shared a stylish and cinematic video for the song "Freak" from their recently released [Buzz Records](http://buzzrecords.ca/) EP *Benefits*. It was produced and directed by Jacq Andrade and Brittany Lucas. I suppose it's notable *now* that this was financed by the now-defunct video funding engine MuchFACT, so enjoy this sort of thing while it lasts. In an interview with [Noisey](https://noisey.vice.com/en_ca/article/evpqwj/break-free-from-toxic-relationships-with-twists-freak-video), Twist lead Laura Hermiston commented:
 
 >"The video showcases the places the mind can go. It shows the illusions that people can create for themselves that turns into a world of obsession, mania, and, ultimately, regret. In relation to the song, I think this drives home the idea of feeling manipulated and figuring out how to leave a situation— regaining your control."
 
