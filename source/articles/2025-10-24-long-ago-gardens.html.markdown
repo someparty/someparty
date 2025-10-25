@@ -90,7 +90,7 @@ Time's been incredibly kind to the group's 2024 full-length *Born Again*, at lea
 ###[Home Front](https://arewenothomefront.bandcamp.com): "Street City Kids (In A New Dark Age)"
 ==Preview and purchase at [Bandcamp](https://arewenothomefront.bandcamp.com/album/street-city-kids-in-a-new-dark-age)==
 
-I know I just wrote [at length](https://www.someparty.ca/2025-09-19-light-sleeper/#home_front) about [Home Front](https://arewenothomefront.bandcamp.com), but the band's write-up for their recently shared [Inepsy](https://www.discogs.com/artist/1179914-Inepsy) cover is so packed with nerdy punk Canadiana that I couldn't resist. The Edmonton duo applied their electric mix of new wave, street punk and Oi! to "Street City Kids" by Montreal underground favourites [Inepsy](https://www.discogs.com/artist/1179914-Inepsy). The original appeared on the band's 2003 album *Rock'N'Roll Babylon*. Home Front's full-throttle reimagining updates the title to "Street City Kids (In A New Dark Age)."
+I know I just wrote [at length](https://www.someparty.ca/2025-09-19-light-sleeper/#home_front) about [Home Front](https://arewenothomefront.bandcamp.com), but the band's write-up for their recently shared cover is so packed with nerdy punk Canadiana that I couldn't resist. The Edmonton duo applied their electric mix of new wave, street punk and Oi! to "Street City Kids" by Montreal underground favourites [Inepsy](https://www.discogs.com/artist/1179914-Inepsy). The original appeared on the band's 2003 album *Rock'N'Roll Babylon*. Home Front's full-throttle reimagining updates the title to "Street City Kids (In A New Dark Age)."
 
 Writing on Bandcamp, Home Front vocalist Graeme MacKinnon shared:
 
