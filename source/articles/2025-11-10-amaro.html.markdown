@@ -2,7 +2,7 @@
 title: Amaro
 date: 2025-11-10
 author: adam@someparty.ca (Adam White)
-description: Canadian music news from Bibi Club, Leanne Betasamosake Simpson, GUV, Papal Visit, Plastic War, The Deposed, and Rec Centre.
+description: Canadian music news from Bibi Club, Leanne Betasamosake Simpson, GUV, Papal Visit, Plastic War, Deposed, and Rec Centre.
 ---
 
 ###[Bibi Club](https://bibiclub.bandcamp.com): "Amaro"
@@ -72,10 +72,10 @@ Plastic War features Ogden with Blair Phillips (Halo, Born Under Satellites) and
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=610877735/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://plasticwar.bandcamp.com/track/cold-air-experiment">Cold Air Experiment by Plastic War</a></iframe>
 
-###[The Deposed](https://thedeposed.bandcamp.com): *Downhill*
+###[Deposed](https://thedeposed.bandcamp.com): *Downhill*
 ==Preview and purchase at [Bandcamp](https://thedeposed.bandcamp.com/album/downhill)==
 
-Drummerless Toronto "punk impostors" [The Deposed](https://thedeposed.bandcamp.com) resurfaced in September with *Downhill*, their third digital single and the follow-up to last year's *Dumb it Down*. The title track takes its inspiration from graffiti scrawled on the rehearsal room wall at Toronto's Houndstooth bar: "It's all downhill from here." Paul Kelly shared:
+Drummerless Toronto "punk impostors" [Deposed](https://thedeposed.bandcamp.com) resurfaced in September with *Downhill*, their third digital single and the follow-up to last year's *Dumb it Down*. The title track takes its inspiration from graffiti scrawled on the rehearsal room wall at Toronto's Houndstooth bar: "It's all downhill from here." Paul Kelly shared:
 
 >"It's about the big rip-off, you know, the big, cosmic, existential one. Or maybe it's about retirement planning (we're getting up there). I think it sounds a bit like Wire (conceptual overall structure, chorus like their 'Heartbeat') but a friend tells me it's just a 'Born in the USA' rip-off."
 
@@ -85,7 +85,7 @@ The A-side is backed by the sardonic "E to C (Post-punk school)," which I couldn
 
 The song features an interlude that references "A Matter of Gender" by Scottish band The Associates, with Kelly attempting to mimic their vocalist, Billy McKenzie.
 
-The Deposed features Paul Downes and Paul Kelly. The pair recorded with [Colm Hinds](https://colmhinds.format.com) ([Lammping](https://lammping.bandcamp.com/), [Rosseau](https://rosseau.bandcamp.com)) at Dining Room Sound. He plays piano on the title track.
+Deposed features Paul Downes and Paul Kelly. The pair recorded with [Colm Hinds](https://colmhinds.format.com) ([Lammping](https://lammping.bandcamp.com/), [Rosseau](https://rosseau.bandcamp.com)) at Dining Room Sound. He plays piano on the title track.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=473094655/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://thedeposed.bandcamp.com/album/downhill">Downhill by Deposed</a></iframe>
 
