@@ -115,14 +115,14 @@ Slow Death has a limited run of 50 cassettes in the works. Smuther plays as a fi
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=313954291/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://slow-death-records.bandcamp.com/album/smuther-demo-2022">SMUTHER - Demo 2022 by Smuther</a></iframe>
 
-###[Young Guv](https://youngguv.bandcamp.com): "Good Time"
+###[Young Guv](https://guvofficial.bandcamp.com): "Good Time"
 ==Watch on [YouTube](https://youtu.be/8h_BOytZEfE) - Preview and purchase at [Bandcamp](https://youngguv.bandcamp.com/track/good-time)==
 
-With the release of "Good Time," we nearly have the full A-side of [Young Guv](https://youngguv.bandcamp.com)'s *GUV III* available to preview. Ben Cook commented on the upbeat guitar pop tune in a statement, referencing back the band's isolation-era residency in Taos, New Mexico:
+With the release of "Good Time," we nearly have the full A-side of [Young Guv](https://guvofficial.bandcamp.com)'s *GUV III* available to preview. Ben Cook commented on the upbeat guitar pop tune in a statement, referencing back the band's isolation-era residency in Taos, New Mexico:
 
 >"When [James Matthew VII](https://jamesmatthewvii.bandcamp.com) said he wanted to come down and join us in the high desert, I contacted our landlord in [The Earthship](https://www.atlasobscura.com/places/earthships) and she towed small trailer up and put it in our land and he lived in it. James got into a deep groove with how we were living immediately. He would knock on my door every morning and wake me up and play me ideas. He's big on working every single day, and he really helped take the relaxed creative schedule we'd all been on and turnEd it into more of a productive daily routine. 'Good Time' was the first songs we created when he pulled up. It's obviously a bit of a Tom Petty/Jeff Lynne cosplay/worship track, and I'm totally ok with that".
 
-*GUV III* arrives on March 11 through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com), to be followed by *GUV IV* later in the year. Cook issued the similarly adorned *GUV I* and *II* LPs in 2019. Wearing a far more aggressive hat, Cook's known as the frontman of Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666) and a former guitarist for [Fucked Up](http://fuckedup.cc/).
+*GUV III* arrives on March 11 through [Run For Cover](https://runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com), to be followed by *GUV IV* later in the year. Cook issued the similarly adorned *GUV I* and *II* LPs in 2019. Wearing a far more aggressive hat, Cook's known as the frontman of Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666) and a former guitarist for [Fucked Up](http://fuckedup.cc/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8h_BOytZEfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -79,7 +79,7 @@ The release follows Phane's 2019 EP *All In Self Destruction* and a split with t
 
 Toronto's [Young Guv](https://youngguv.bandcamp.com/) shared a twangy new single this week titled "Maybe I Should Luv Somebody Else," an unexpected but satisfyingly executed country turn for the artist. It's the second one-off single from the Guv's camp this year, following August's "Cold In The Summer."
 
-Earlier in the pandemic, Young Guv released *Live in LA* to raise funds for the employees of that city's shuttered Zebulon venue. The pop songwriting vehicle of [Fucked Up](http://fuckedup.cc/) and [No Warning](https://www.facebook.com/pg/nowarning666)'s Ben Cook, Young Guv released the twin LPs *GUV I* and *GUV II* last year on [Run For Cover Records](http://www.runforcoverrecords.com).
+Earlier in the pandemic, Young Guv released *Live in LA* to raise funds for the employees of that city's shuttered Zebulon venue. The pop songwriting vehicle of [Fucked Up](http://fuckedup.cc/) and [No Warning](https://www.facebook.com/pg/nowarning666)'s Ben Cook, Young Guv released the twin LPs *GUV I* and *GUV II* last year on [Run For Cover Records](https://runforcoverrecords.com).
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1435609718/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://youngguv.bandcamp.com/track/maybe-i-should-luv-somebody-else">Maybe I Should Luv Somebody Else by Young Guv</a></iframe>
 

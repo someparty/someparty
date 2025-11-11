@@ -31,7 +31,7 @@ Likewise, a [crowdfunding](https://www.gofundme.com/f/zebulon-employee-and-neces
 
 Mike Kriebel recorded the power-pop unit's *Live in LA* set, which clocks in with 10 songs. The Young Guv touring band at this juncture featured Cook up front on vocals and guitar backed by guitarist/vocalist The Major, bassist Ryan Gavel, guitarist Tony Price, and drummer Benjamin Wessels.
 
-The LPs *GUV I* and *GUV II* came out last year on [Run For Cover Records](http://www.runforcoverrecords.com).
+The LPs *GUV I* and *GUV II* came out last year on [Run For Cover Records](https://runforcoverrecords.com).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=610776444/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://youngguv.bandcamp.com/album/live-in-la">LIVE IN LA by Young Guv</a></iframe>
 

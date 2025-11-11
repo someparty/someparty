@@ -103,7 +103,7 @@ St Pierre spoke with [Brooklyn Vegan](http://www.brooklynvegan.com/stream-casper
 
 [Watch: Casper Skulls - "O My Enemy" @ YouTube](https://youtu.be/KQe5rFyrhjY "#")
 
-Peterborough folk-rocker [Nick Ferrio](http://www.nickferrio.com/) is continuing a streak of recent videos featuring songs from his new record *Have a Nice Day*. The latest is "Quit the Band," a Kurtis Watson directed clip that was shot on location in Sackville, New Brunswick at this past summer's [Sappyfest](http://www.sappyfest.com/). Ferrio is in the midst of a [tour](https://www.facebook.com/tours/1689150844547354/) supporting the new album, with shows coming up in Hamilton, Toronto, and Sudbury. God willing, I'll be at the Toronto gig this coming Saturday while my kids and heroic wife go see the Wiggles across town.
+Peterborough folk-rocker [Nick Ferrio](https://nickferrio.bandcamp.com/) is continuing a streak of recent videos featuring songs from his new record *Have a Nice Day*. The latest is "Quit the Band," a Kurtis Watson directed clip that was shot on location in Sackville, New Brunswick at this past summer's [Sappyfest](http://www.sappyfest.com/). Ferrio is in the midst of a [tour](https://www.facebook.com/tours/1689150844547354/) supporting the new album, with shows coming up in Hamilton, Toronto, and Sudbury. God willing, I'll be at the Toronto gig this coming Saturday while my kids and heroic wife go see the Wiggles across town.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rtDgKzqetq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

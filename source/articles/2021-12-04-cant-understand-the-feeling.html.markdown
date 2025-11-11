@@ -27,16 +27,16 @@ This set follows both *Pink Dreams* and Dave's 2017's solo debut *Mental Jails* 
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=494004890/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://sweetdave.bandcamp.com/album/now-more-than-ever">Now, More Than Ever... by Sweet Dave</a></iframe>
 
-###[Young Guv](https://youngguv.bandcamp.com): "Only Wanna See U Tonight"
+###[Young Guv](https://guvofficial.bandcamp.com): "Only Wanna See U Tonight"
 ==Watch on [YouTube](https://youtu.be/lWWu3vsOpxs) - Preview and purchase at [Bandcamp](https://youngguv.bandcamp.com/track/only-wanna-see-u-tonite)==
 
-Last week Ben Cook's [Young Guv](https://youngguv.bandcamp.com) issued a second single from their upcoming double LPs *GUV III* and *GUV IV*. "Only Wanna See U Tonight" is a bright power-pop tune with soaring choruses and one foot in the 60s, emblematic of the nostalgic vibes Cook honed on the past few Guv records. The Toronto musician commented:
+Last week Ben Cook's [Young Guv](https://guvofficial.bandcamp.com) issued a second single from their upcoming double LPs *GUV III* and *GUV IV*. "Only Wanna See U Tonight" is a bright power-pop tune with soaring choruses and one foot in the 60s, emblematic of the nostalgic vibes Cook honed on the past few Guv records. The Toronto musician commented:
 
 >"After being stranded due to Covid mid-tour in March 2020, we headed deep into the New Mexico high desert mountains. We got a house from a friend of a friend, and had no idea what to do with ourselves except to start writing right away. Within hours we had a little studio set up and this was the first song we came up remotely via WhatsApp with Tommy [The Major](https://themajorsound.bandcamp.com) who had escaped back to his home in Sudbury, Ontario. I heard Tony strumming the first three chords of the chorus with a little bit of a melody from the kitchen and a couple hours later this song was done."
 
 The single arrives alongside a video co-directed by Cook and Faiza Kracheni. The upcoming albums feature material written while isolating in Taos, New Mexico and later recorded in LA.
 
-*GUV III* arrives March 11 through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com). Cook issued the similarly presented *GUV I* and *II* LPs in 2019.
+*GUV III* arrives March 11 through [Run For Cover](https://runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com). Cook issued the similarly presented *GUV I* and *II* LPs in 2019.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lWWu3vsOpxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

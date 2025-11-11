@@ -37,7 +37,7 @@ A promo for *Easy*, animated by Jacobs, can be found below.
 
 [Watch: Paul Jacobs - *Easy* Promo @ YouTube](https://youtu.be/r7oKc9KMyGc "#")
 
-Peterborough's folk-rock mainstay [Nick Ferrio](http://www.nickferrio.com/) has a new single out titled "Don't Know How Long." It's the first new track he's released following last year's *Soothsayer* LP, and the first from an upcoming record titled *Have a Nice Day*.
+Peterborough's folk-rock mainstay [Nick Ferrio](https://nickferrio.bandcamp.com/) has a new single out titled "Don't Know How Long." It's the first new track he's released following last year's *Soothsayer* LP, and the first from an upcoming record titled *Have a Nice Day*.
 
 In the premiere at [Substream](https://substreammagazine.com/2018/07/premiere-nick-ferrio-dont-know-how-long/) the artist commented on the anti-gentrification message expressed in the song:
 

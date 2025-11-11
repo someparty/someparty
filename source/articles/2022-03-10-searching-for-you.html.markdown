@@ -230,16 +230,16 @@ This album features guitarists Dan Loughrin and Troy Lafontaine backed by drumme
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3495441038/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://babylabour.bandcamp.com/album/kissin-hands-and-shakin-babies">Kissin&#39; Hands and Shakin&#39; Babies by BABY LABOUR</a></iframe>
 
-###[Young Guv](https://youngguv.bandcamp.com): "Take Up All My Time"
+###[Young Guv](https://guvofficial.bandcamp.com): "Take Up All My Time"
 ==Watch on [YouTube](https://youtu.be/brqUq_S2hQI) - Preview and purchase at [Bandcamp](https://youngguv.bandcamp.com/track/take-up-all-my-time)==
 
-You'll probably have [Young Guv](https://youngguv.bandcamp.com)'s *GUV III* in hand by the time this email reaches you, but don't miss the final video issued in the lead-up to Ben Cook's latest slate of throwback guitar pop. "Take Up All My Time" arrived last week alongside a clip co-starring [Eliza Niemi](https://elizaniemi.bandcamp.com). Director [Adam Stewart](https://www.instagram.com/glasseyemerchant/) gives the clip a distinctive look through a process that saw the film boiled in saltwater.
+You'll probably have [Young Guv](https://guvofficial.bandcamp.com)'s *GUV III* in hand by the time this email reaches you, but don't miss the final video issued in the lead-up to Ben Cook's latest slate of throwback guitar pop. "Take Up All My Time" arrived last week alongside a clip co-starring [Eliza Niemi](https://elizaniemi.bandcamp.com). Director [Adam Stewart](https://www.instagram.com/glasseyemerchant/) gives the clip a distinctive look through a process that saw the film boiled in saltwater.
 
 Cook discussed the new tune in a press release, stating:
 
 >"I made a demo of this song really high in the middle of night when I lived in NYC, still pre-pandemic. I don't have a clue how to play it and all the guitar tracks are in different capo positions. I'll probably never know. When I got to the mountains in New Mexico, this was an instrumental that I always had planned to write lyrics to, but I hadn't had the chance yet. Again, I wrote the words and recorded the vocals in the middle of the night, very high, and put it on my hard drive and never listened to it again. I knew it would be on the album because I knew I'd never write a ballad-esque, emotionally-driven high-desert-by-way-of-Brooklyn shuffle ever again. When we got to the studio in LA to record the live drums that's all we did to it. I left all the demo tracks and all my home recorded vocals on it because I couldn't recreate the mood–and like I said... I have no idea how to play this song. It's about the feeling of wanting to throw yourself into someone else and completely disappear, that feeling of wanting to spend every waking moment together. I deeply fear that in this new world of intense isolation I might never feel that again."
 
-*GUV III* arrives tomorrow (March 11) through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com), to be followed by *GUV IV* later in the year. Cook issued the similarly adorned *GUV I* and *II* LPs in 2019.
+*GUV III* arrives tomorrow (March 11) through [Run For Cover](https://runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com), to be followed by *GUV IV* later in the year. Cook issued the similarly adorned *GUV I* and *II* LPs in 2019.
 
 Wearing a far more aggressive hat, Cook's known as the frontman of Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666) and a former guitarist for [Fucked Up](http://fuckedup.cc/).
 

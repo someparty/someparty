@@ -47,12 +47,12 @@ That same recommendation to check out Needle Crafts also tipped me to the St. Jo
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1460170034/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tunnelvision709.bandcamp.com/album/2022">2022 by Tunnel Vision</a></iframe>
 
-###[Young Guv](https://youngguv.bandcamp.com): "Nervous Around U"
+###[Young Guv](https://guvofficial.bandcamp.com): "Nervous Around U"
 ==Watch on [YouTube](https://youtu.be/Hk87GHPVOlk) - Preview and purchase at [Bandcamp](https://youngguv.bandcamp.com/track/nervous-around-u)==
 
-Ben Cook's *GUV IV*, the fourth in a prolific run of similarly-packaged full-lengths, arrives this week through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com). The latest preview takes a bit of a left turn from the sun-soaked power pop that's come to define the series, with "Nervous Around U" delivering a brisk burst of 80's-styled electropop instead. It exemplifies the increasingly diverse directions explored in this latest volume and lands alongside a video from director Pat Salway.
+Ben Cook's *GUV IV*, the fourth in a prolific run of similarly-packaged full-lengths, arrives this week through [Run For Cover](https://runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com). The latest preview takes a bit of a left turn from the sun-soaked power pop that's come to define the series, with "Nervous Around U" delivering a brisk burst of 80's-styled electropop instead. It exemplifies the increasingly diverse directions explored in this latest volume and lands alongside a video from director Pat Salway.
 
-When he isn't writing timeless pop songs with [Young Guv](https://youngguv.bandcamp.com), Cook's known as the frontman of the bruising Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666). He also formerly appeared as a guitarist with hardcore innovators [Fucked Up](http://fuckedup.cc/). The eponymous *GUV* series kicked off in 2019, with the material for this latest pair of albums largely written in Taos, New Mexico, where the band waited out the pandemic.
+When he isn't writing timeless pop songs with [Young Guv](https://guvofficial.bandcamp.com), Cook's known as the frontman of the bruising Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666). He also formerly appeared as a guitarist with hardcore innovators [Fucked Up](http://fuckedup.cc/). The eponymous *GUV* series kicked off in 2019, with the material for this latest pair of albums largely written in Taos, New Mexico, where the band waited out the pandemic.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hk87GHPVOlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

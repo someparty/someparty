@@ -134,7 +134,7 @@ The group worked with Atlanta-based producer Kato on the song (he previously pro
 
 [Watch: Snotty Nose Rez Kids - "Real Deadly" @ YouTube](https://youtu.be/8mcCeIXmzCY "#")
 
-Toronto power-pop act [Young Guv](https://youngguv.bandcamp.com/) recently shared a remix of his track "Caught Lookin'" by the Los Angeles-based DJ/producer [Turbotito](https://www.facebook.com/Turbotito/). The original version of the tune appeared on *GUV II*, one of the pair of LPs that Guv released on [Run For Cover Records](http://www.runforcoverrecords.com) in 2019.
+Toronto power-pop act [Young Guv](https://youngguv.bandcamp.com/) recently shared a remix of his track "Caught Lookin'" by the Los Angeles-based DJ/producer [Turbotito](https://www.facebook.com/Turbotito/). The original version of the tune appeared on *GUV II*, one of the pair of LPs that Guv released on [Run For Cover Records](https://runforcoverrecords.com) in 2019.
 
 The label recently compiled *GUV I* and *GUV II* into one massive 19-song double album, with two unreleased demos tacked on as a bonus. Young Guv is the alter-ego of Ben Cook, who you know as a member of [Fucked Up](http://fuckedup.cc/) and the frontman of [No Warning](https://www.facebook.com/pg/nowarning666).
 

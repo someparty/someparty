@@ -115,7 +115,7 @@ Casper Skulls last released the full-length *Mercy Works* on [Buzz Records](http
 
 Later this week Ben Cook will release *GUV II*, his second full-length of the year as [Young Guv](https://youngguv.bandcamp.com/). A final preview of the album arrived last week in the form of "She's a Fantasy," the power-pop record's lead track. You can check it out below, and good luck getting this one out of your head.
 
-*GUV II* will arrive from [Run For Cover Records](http://www.runforcoverrecords.com) on Friday. It follows the *GUV I* installment from this past summer. Cook's last release as Young Guv was 2018's *2 Sad 2 Funk*. In the year since that album, he's put out acclaimed work as part of the Toronto hardcore groups [No Warning](https://www.facebook.com/pg/nowarning666) and [Fucked Up](http://fuckedup.cc/).
+*GUV II* will arrive from [Run For Cover Records](https://runforcoverrecords.com) on Friday. It follows the *GUV I* installment from this past summer. Cook's last release as Young Guv was 2018's *2 Sad 2 Funk*. In the year since that album, he's put out acclaimed work as part of the Toronto hardcore groups [No Warning](https://www.facebook.com/pg/nowarning666) and [Fucked Up](http://fuckedup.cc/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-O9b9q5PVik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

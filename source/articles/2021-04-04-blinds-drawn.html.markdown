@@ -136,12 +136,12 @@ In his civilian life, Sonic Hz goes by the name of Nicholas Karl McNally. He las
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4047816297/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tjcabot.bandcamp.com/album/out-of-touch-2021-digital-3-song-maxi">Out Of Touch (2021- digital 3-song maxi) by TJ Cabot &amp; Sonic Hz</a></iframe>
 
-###[Young Guv](https://youngguv.bandcamp.com) & [James Matthew VII](https://jamesmatthewvii.bandcamp.com): "Til I Find Love Again"
+###[Young Guv](https://guvofficial.bandcamp.com) & [James Matthew VII](https://jamesmatthewvii.bandcamp.com): "Til I Find Love Again"
 ==Preview and purchase at [Bandcamp](https://youngguv.bandcamp.com/track/til-i-find-love-again)==
 
 Ben Cook's [Young Guv](https://youngguv.bandcamp.com/) has a new collaborative single out with his frequent collaborator [James Matthew VII](https://jamesmatthewvii.bandcamp.com). You can stream "Til I Find Love Again" at Bandcamp now.
 
-Sometimes billed as Matt Delong, JMVII's played in several bands with Cook over the years, from the earliest days of [No Warning](https://www.facebook.com/pg/nowarning666) through the [Marvelous Darlings](https://derangedrecords.bandcamp.com/album/single-life) to the present-day Young Guv records. He last released the psych-country solo effort *Stoned When I Pray* on Idée Fixe and regularly appears as a session guitarist on Matthew 'Doc' Dunn's albums. Cook, a regular member of [Fucked Up](http://fuckedup.cc/), last released the twin LPs *GUV I* and *GUV II* for [Run For Cover Records](http://www.runforcoverrecords.com).
+Sometimes billed as Matt Delong, JMVII's played in several bands with Cook over the years, from the earliest days of [No Warning](https://www.facebook.com/pg/nowarning666) through the [Marvelous Darlings](https://derangedrecords.bandcamp.com/album/single-life) to the present-day Young Guv records. He last released the psych-country solo effort *Stoned When I Pray* on Idée Fixe and regularly appears as a session guitarist on Matthew 'Doc' Dunn's albums. Cook, a regular member of [Fucked Up](http://fuckedup.cc/), last released the twin LPs *GUV I* and *GUV II* for [Run For Cover Records](https://runforcoverrecords.com).
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=4157566009/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://youngguv.bandcamp.com/track/til-i-find-love-again">Til I Find Love Again by Young Guv, James Matthew VII</a></iframe>
 

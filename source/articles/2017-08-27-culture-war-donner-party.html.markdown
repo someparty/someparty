@@ -57,7 +57,7 @@ The song will appear on the band's upcoming full-length *Pure Mind*, due on Sept
 
 [Watch: Fake Palms - "I'm Not There" @ YouTube](https://www.youtube.com/watch?time_continue=10&v=bZDwB0TQvyo "#")
 
-We've finally got a song to share from *Soothsayer*, the new full-length from Peterborough, Ontario’s [Nick Ferrio](http://www.nickferrio.com/). The title track of the new record finds the singer-writer diverging from the folk bent of his past work for a more rock'n'roll, full band approach. *Soothsayer*, a 10 song set, is due for a September 29th release. The album was recorded with [Sean Conway](https://seanconway.bandcamp.com/) on bass and [Brandon Munro](https://brandonmunro.bandcamp.com/) on drums.
+We've finally got a song to share from *Soothsayer*, the new full-length from Peterborough, Ontario’s [Nick Ferrio](https://nickferrio.bandcamp.com/). The title track of the new record finds the singer-writer diverging from the folk bent of his past work for a more rock'n'roll, full band approach. *Soothsayer*, a 10 song set, is due for a September 29th release. The album was recorded with [Sean Conway](https://seanconway.bandcamp.com/) on bass and [Brandon Munro](https://brandonmunro.bandcamp.com/) on drums.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/333775229&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 

@@ -129,7 +129,7 @@ The new single follows June's "Transition," which broke the group's nearly four-
 
 Welland-based Texan-transplant [Carson McHone](https://carsonmchone.bandcamp.com) recently issued *ODES*, a covers EP offering clever reinterpretations of classics from Conway Twitty, Arthur Russell, Margo Guryan, and the MC5. The set's available digitally and as a self-released 7".
 
-McHone recorded *ODES* with her partner [Daniel Romano](https://danielromano.bandcamp.com), backed by members of The Outfit. That cast includes Ian Romano, Tommy Major ([Tommy and the Commies](https://tommyandthecommies.bandcamp.com), [Young Guv](https://youngguv.bandcamp.com)), and Shannon McGrath.
+McHone recorded *ODES* with her partner [Daniel Romano](https://danielromano.bandcamp.com), backed by members of The Outfit. That cast includes Ian Romano, Tommy Major ([Tommy and the Commies](https://tommyandthecommies.bandcamp.com), [Young Guv](https://guvofficial.bandcamp.com)), and Shannon McGrath.
 
 In a social post on the release day, McHone commented:
 

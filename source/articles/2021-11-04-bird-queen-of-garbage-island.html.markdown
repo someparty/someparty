@@ -18,10 +18,10 @@ While The Burning Hell's technically following up 2017's *Revival Beach*, one sh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2hXxz5YQSCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Young Guv](https://youngguv.bandcamp.com): "Lo Lo Lonely"
+###[Young Guv](https://guvofficial.bandcamp.com): "Lo Lo Lonely"
 ==Watch on [YouTube](https://youtu.be/vlY5EKX5D6g) - Preview and purchase at [Bandcamp](https://youngguv.bandcamp.com/track/lo-lo-lonely)==
 
-Ben Cook's [Young Guv](https://youngguv.bandcamp.com) returns in 2022 with a new double LP. *GUV III* and *IV* look to follow the template established by 2019's *GUV I* and *II*, capturing even more of the songwriter's seemingly endless well of timeless power-pop. Of course, these songs will again offer a stark contrast to the decidedly louder avenues Cook explores with [No Warning](https://www.facebook.com/pg/nowarning666) and as a guitarist in [Fucked Up](http://fuckedup.cc/)). You can preview the new set now through the melodic single "Lo Lo Lonely."
+Ben Cook's [Young Guv](https://guvofficial.bandcamp.com) returns in 2022 with a new double LP. *GUV III* and *IV* look to follow the template established by 2019's *GUV I* and *II*, capturing even more of the songwriter's seemingly endless well of timeless power-pop. Of course, these songs will again offer a stark contrast to the decidedly louder avenues Cook explores with [No Warning](https://www.facebook.com/pg/nowarning666) and as a guitarist in [Fucked Up](http://fuckedup.cc/)). You can preview the new set now through the melodic single "Lo Lo Lonely."
 
 Cook crafted these songs in Taos, New Mexico while riding out the pandemic amidst a community of curiously designed, off-the-grid homes known as [Earthships](https://www.atlasobscura.com/places/earthships). He encamped there for nine months, living with his five bandmates and slowly writing as the public health crisis ground on. They eventually put the songs to tape in an LA studio.
 

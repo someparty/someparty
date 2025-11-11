@@ -119,7 +119,7 @@ METZ features guitarist/vocalist Alex Edkins, bassist Chris Slorach, and drummer
 
 Toronto's [Young Guv](https://youngguv.bandcamp.com/) shared a new single this week titled "Cold In The Summer," with proceeds from the track to be donated to the [International Indigenous Youth Council](https://indigenousyouth.org/)'s [Southwest COVID-19 Emergency Response](https://donorbox.org/iiyc-covid-19-fund). The song follows the power-pop unit's recent *Live in LA* set, which raised funds for the employees of that city's shuttered Zebulon venue.
 
-Young Guv, the pop songwriting vehicle of [Fucked Up](http://fuckedup.cc/) and [No Warning](https://www.facebook.com/pg/nowarning666)'s Ben Cook, released the twin LPs *GUV I* and *GUV II* last year on [Run For Cover Records](http://www.runforcoverrecords.com).
+Young Guv, the pop songwriting vehicle of [Fucked Up](http://fuckedup.cc/) and [No Warning](https://www.facebook.com/pg/nowarning666)'s Ben Cook, released the twin LPs *GUV I* and *GUV II* last year on [Run For Cover Records](https://runforcoverrecords.com).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t5vszJ0bJxM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

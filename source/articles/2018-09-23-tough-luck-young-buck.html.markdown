@@ -5,7 +5,7 @@ author: adam@someparty.ca (Adam White)
 description: Music and news from Nick Ferrio, Kim Barlow, Jock Tears, Deathsticks, Zouz, Crumb, Bootlicker, Fly Pan Am, Rebuild/Repair, Ruby's Kiss and DA SLYME!
 ---
 
-This week folk-rocker [Nick Ferrio](http://www.nickferrio.com/) will release *Have a Nice Day*, his follow-up to last year's *Soothsayer* LP. The Peterborough-based singer-songwriter recently unveiled a video for the song "How Will I Know," a reflective track that looks upon music as a source of wonder. It's an earnest and affecting tune from an artist who's made a career out of that sort of thing. This is the second preview we've seen from the record, following the gentrification screed "Don't Know How Long."
+This week folk-rocker [Nick Ferrio](https://nickferrio.bandcamp.com/) will release *Have a Nice Day*, his follow-up to last year's *Soothsayer* LP. The Peterborough-based singer-songwriter recently unveiled a video for the song "How Will I Know," a reflective track that looks upon music as a source of wonder. It's an earnest and affecting tune from an artist who's made a career out of that sort of thing. This is the second preview we've seen from the record, following the gentrification screed "Don't Know How Long."
 
 Ferrio commented on the song in a press release:
 

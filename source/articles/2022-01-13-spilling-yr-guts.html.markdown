@@ -110,12 +110,12 @@ For nearly a decade, TJ Felix recorded some distinctively anxious off-kilter pun
 
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2468270652/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tjfelix.bandcamp.com/track/clutterbugs-wasted-breath">Clutterbug&#39;s Wasted Breath by TJ Felix</a></iframe>
 
-###[Young Guv](https://youngguv.bandcamp.com): "It's Only Dancin'"
+###[Young Guv](https://guvofficial.bandcamp.com): "It's Only Dancin'"
 ==Watch on [YouTube](https://youtu.be/sXwgnCGLddI) - Preview and purchase at [Bandcamp](https://youngguv.bandcamp.com/track/its-only-dancin)==
 
-Over the break, Ben Cook's [Young Guv](https://youngguv.bandcamp.com) issued a third single from *GUV III*, one of two records due this year from the productive power-pop songwriter. With the bright and clean "It's Only Dancin'" on hand, you can now listen to a significant chunk of A-side of the upcoming record. The press release pegs it as "Tom Petty on a Paul Collins kick," and that's not too far off. You can stream the track now or see it paired with a visualizer on YouTube.
+Over the break, Ben Cook's [Young Guv](https://guvofficial.bandcamp.com) issued a third single from *GUV III*, one of two records due this year from the productive power-pop songwriter. With the bright and clean "It's Only Dancin'" on hand, you can now listen to a significant chunk of A-side of the upcoming record. The press release pegs it as "Tom Petty on a Paul Collins kick," and that's not too far off. You can stream the track now or see it paired with a visualizer on YouTube.
 
-Cook and his band wrote these forthcoming albums while isolating in Taos, New Mexico. Ben shares a writing credit on this one with frequent collaborator Ryan Gavel and [The Major](https://themajorsound.bandcamp.com) (who we of course know and love from Sudbury's [Tommy and the Commies](https://tommyandthecommies.bandcamp.com)). *GUV III* arrives March 11 through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com), to be followed by *GUV IV* later in the year. Cook issued the similarly labelled *GUV I* and *II* LPs in 2019.
+Cook and his band wrote these forthcoming albums while isolating in Taos, New Mexico. Ben shares a writing credit on this one with frequent collaborator Ryan Gavel and [The Major](https://themajorsound.bandcamp.com) (who we of course know and love from Sudbury's [Tommy and the Commies](https://tommyandthecommies.bandcamp.com)). *GUV III* arrives March 11 through [Run For Cover](https://runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com), to be followed by *GUV IV* later in the year. Cook issued the similarly labelled *GUV I* and *II* LPs in 2019.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXwgnCGLddI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

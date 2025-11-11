@@ -39,7 +39,7 @@ A Tribe Called Red last released *We Are The Halluci Nation* in 2017.
 
 [Listen: A Tribe Called Red - "The OG" (featuring Black Bear) @ YouTube](https://youtu.be/zgsuWSxs1fw "#")
 
-Last week the enigmatic Toronto songwriter Ben Cook unveiled more music from his upcoming [Young Guv](https://youngguv.bandcamp.com/) record, *GUV 1*. He shared the track "Roll With Me," a song that label [Run For Cover Records](http://www.runforcoverrecords.com) described as "a 100% certified rocker" akin to "Elliott Smith power pop." You can check it out below.
+Last week the enigmatic Toronto songwriter Ben Cook unveiled more music from his upcoming [Young Guv](https://youngguv.bandcamp.com/) record, *GUV 1*. He shared the track "Roll With Me," a song that label [Run For Cover Records](https://runforcoverrecords.com) described as "a 100% certified rocker" akin to "Elliott Smith power pop." You can check it out below.
 
 *GUV 1* is due to arrive on August 2 from Run For Cover. The 8-song set, which follows up 2018's heavily stylized *2 Sad 2 Funk*, will serve as the first in a two-album series, with its counterpart due in the fall. Ben Cook's, of course, well known for his more aggressive outings, be it as the frontman of the Toronto hardcore unit [No Warning](https://www.facebook.com/pg/nowarning666) or as one of the many moving parts that comprise the critically acclaimed [Fucked Up](http://fuckedup.cc/).
 

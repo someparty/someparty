@@ -51,7 +51,7 @@ Look for Psychic Void to take part in a very special Some Party project to be fo
 
 Ben Cook's released an impressive slate of videos promoting this year's sibling *GUV I* and *GUV II* LPs. Even with both albums now out in the wild, that pace doesn't seem to be slowing. Last week Young Guv, Cook's power-pop alter-ego when not making noise with [Fucked Up](http://fuckedup.cc/) and [No Warning](https://www.facebook.com/pg/nowarning666), shared "Luv Always." The clip, directed by Tristan C-M, finds Cook as part of a five-piece performing the jangly 60s-flavoured tune against a desert sunset.
 
-[Run For Cover Records](http://www.runforcoverrecords.com) recently released *GUV I* and *GUV II* as one massive 19-song double album, with two unreleased demos tacked on as a bonus.
+[Run For Cover Records](https://runforcoverrecords.com) recently released *GUV I* and *GUV II* as one massive 19-song double album, with two unreleased demos tacked on as a bonus.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BQhe-TPYFwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -53,7 +53,7 @@ That change may very well allude to the band's base of operations. The press rel
 
 [Listen: Dead Soft - "I Believe You" @ YouTube](https://youtu.be/wDKi6MYHHkU "#")
 
-Prolific Toronto songwriter Ben Cook recently previewed the first song from *GUV II*, the second chapter in a series of power-pop records planned for this year under his [Young Guv](https://youngguv.bandcamp.com/) moniker. The first, *GUV I*, arrived in August from [Run For Cover Records](http://www.runforcoverrecords.com). That label will also handle this chapter, which clocks in with nine songs. You can preview it now with the single "Try Not to Hang On So Hard," a track that Cook admits was written on "a bit of acid."
+Prolific Toronto songwriter Ben Cook recently previewed the first song from *GUV II*, the second chapter in a series of power-pop records planned for this year under his [Young Guv](https://youngguv.bandcamp.com/) moniker. The first, *GUV I*, arrived in August from [Run For Cover Records](https://runforcoverrecords.com). That label will also handle this chapter, which clocks in with nine songs. You can preview it now with the single "Try Not to Hang On So Hard," a track that Cook admits was written on "a bit of acid."
 
 > "I was house-sitting for my mom and looking at all the photos and all the very British trinkets she keeps around and on her walls that make her happy. It had a pretty profound emotional effect on me, probably due to the LSD, so I wrote a song about how it's ok to feel a little lost or lonely and to keep things around you that make you feel comforted."
 

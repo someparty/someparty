@@ -11,7 +11,7 @@ description: The Burning Hell return, Drew Thomson's new solo LP, new music from
 
 *Revival Beach* was recorded and mixed by Al Harle at [Big Jelly Studios](http://www.bigjellystudios.com/) in Ramsgate, UK this past June. Look for a September 29th release on [BB*ISLAND](http://bbislandmusic.com/shop/the-burning-hell-revival-beach-vinyl-cd). You can check out the cover art, track listing, and more over at the label's website.
 
-Speaking of The Burning Hell, a frequent member in recent years has been Peterborough's [Nick Ferrio](http://www.nickferrio.com/). While Nick's taking a paternity leave from the group for this LP, he does have a collection of his own music that's also set for a September 29th release. Ferrio's new 10 song record is titled *Soothsayer* and was recorded with James McKenty in Peterborough with [Sean Conway](https://seanconway.bandcamp.com/) on bass and [Brandon Munro](https://brandonmunro.bandcamp.com/) on drums. There's no audio to share from this one yet, but expect it soon.
+Speaking of The Burning Hell, a frequent member in recent years has been Peterborough's [Nick Ferrio](https://nickferrio.bandcamp.com/). While Nick's taking a paternity leave from the group for this LP, he does have a collection of his own music that's also set for a September 29th release. Ferrio's new 10 song record is titled *Soothsayer* and was recorded with James McKenty in Peterborough with [Sean Conway](https://seanconway.bandcamp.com/) on bass and [Brandon Munro](https://brandonmunro.bandcamp.com/) on drums. There's no audio to share from this one yet, but expect it soon.
 
 ##Of Note
 

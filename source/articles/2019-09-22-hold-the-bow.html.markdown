@@ -140,7 +140,7 @@ Mitch Barnes and Victor Malang directed the "Idiot Victory" video. The Dirty Nil
 
 Last week the prolific Toronto songwriter Ben Cook shared a video for his new single "Try Not To Hang On So Hard." Shot by Tristan C-M and Kevin Fitz-Henry, the clip shows Cook and his bandmates in a home recording session and out roaming the streets of Brooklyn. Cook wrote the material for both the upcoming *GUV II* and the summer-released *GUV I* while living in New York City last May.
 
-*GUV II* is the second chapter in a series of power-pop records slated for this year under Cook's [Young Guv](https://youngguv.bandcamp.com/) persona. *GUV I* arrived in August from [Run For Cover Records](http://www.runforcoverrecords.com), with this second chapter due from the label on October 25.
+*GUV II* is the second chapter in a series of power-pop records slated for this year under Cook's [Young Guv](https://youngguv.bandcamp.com/) persona. *GUV I* arrived in August from [Run For Cover Records](https://runforcoverrecords.com), with this second chapter due from the label on October 25.
 
 Ben Cook's, of course, no stranger to this newsletter, as he's both the frontman of the Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666) and a member of the acclaimed [Fucked Up](http://fuckedup.cc/). This pair of new Young Guv albums follow 2018's *2 Sad 2 Funk*.
 

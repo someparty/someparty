@@ -60,7 +60,7 @@ Speaking to Simpson about the piece, Monnet wrote:
 >
 >I was particularly inspired by one sentence in the lyrics that says 'I hold your hand, without touching it'. Made me think of trees and how they grow together, making sure they make room for every branch to grow higher. Somehow your song speaks to me about memories. Creating new ones, but also those that fade away. That's why I decided to use the mirroring effect so everyone could see their own memories, could navigate between two dimensions and create new ones."
 
-Simpson, an acclaimed Michi Saagiig Nishnaabeg scholar and musician, released *Theory of Ice* last March via You've Changed. The record features instrumental backing from [Ansley Simpson](http://www.ansleysimpson.com/) and [Nick Ferrio](http://www.nickferrio.com/), with production from [Evening Hymns](http://www.eveninghymns.com/)' Jonas Bonetta and [Jim Bryson](http://www.jimbryson.org/).
+Simpson, an acclaimed Michi Saagiig Nishnaabeg scholar and musician, released *Theory of Ice* last March via You've Changed. The record features instrumental backing from [Ansley Simpson](https://www.ansleysimpson.com/) and [Nick Ferrio](https://nickferrio.bandcamp.com/), with production from [Evening Hymns](https://eveninghymns.bandcamp.com/)' Jonas Bonetta and [Jim Bryson](http://www.jimbryson.org/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jlmg8yzgUNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

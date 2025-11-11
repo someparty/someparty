@@ -238,12 +238,12 @@ Tallies are currently billed as a trio, featuring singer/guitarist Sarah Cogan b
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5rOQ6CoI_ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Young Guv](https://youngguv.bandcamp.com): "Change Your Mind"
+###[Young Guv](https://guvofficial.bandcamp.com): "Change Your Mind"
 ==Preview and purchase at [Bandcamp](https://youngguv.bandcamp.com/track/change-your-mind)==
 
-If you thought there'd be a lull between [Young Guv](https://youngguv.bandcamp.com)'s pair of 2022 records, you'd be mistaken. With *GUV III* fresh in hand, the cycle's already started for the fourth volume in the eponymous series. "Change Your Mind" isn't our first preview of the next LP, as the 12-song tracklist includes both "Cold in the Summer" and "Maybe I Should Luv Somebody Else" - songs we first heard as one-off singles back in 2020. "Change Your Mind" is a psych-pop number with just a hint of country twang - likely owed to the harmonica and pedal steel guitar.
+If you thought there'd be a lull between [Young Guv](https://guvofficial.bandcamp.com)'s pair of 2022 records, you'd be mistaken. With *GUV III* fresh in hand, the cycle's already started for the fourth volume in the eponymous series. "Change Your Mind" isn't our first preview of the next LP, as the 12-song tracklist includes both "Cold in the Summer" and "Maybe I Should Luv Somebody Else" - songs we first heard as one-off singles back in 2020. "Change Your Mind" is a psych-pop number with just a hint of country twang - likely owed to the harmonica and pedal steel guitar.
 
-*GUV IV* lands on June 24 through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com). When he isn't writing timeless little pop songs like these, Cook's, of course, known as the frontman of Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666) and as a former guitarist for [Fucked Up](http://fuckedup.cc/).
+*GUV IV* lands on June 24 through [Run For Cover](https://runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com). When he isn't writing timeless little pop songs like these, Cook's, of course, known as the frontman of Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666) and as a former guitarist for [Fucked Up](http://fuckedup.cc/).
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1449087289/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=357901242/transparent=true/" seamless><a href="https://youngguv.bandcamp.com/album/guv-iv">GUV IV by Young Guv</a></iframe>
 

@@ -174,14 +174,14 @@ Trask followed *TV Dinner* with a string of online-only archival singles dubbed 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBjQu4tGzpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###[Young Guv](https://youngguv.bandcamp.com): "Nowhere At All"
+###[Young Guv](https://guvofficial.bandcamp.com): "Nowhere At All"
 ==Watch on [YouTube](https://youtu.be/M1Ifts8DRwU) - Preview and purchase at [Bandcamp](https://youngguv.bandcamp.com/track/nowhere-at-all)==
 
 Ben Cook continues to roll out new material from his twin 2022 LPs. "Nowhere At All" landed last week as the fourth pre-release track from June's *GUV IV*. The artist detailed the song in a press release, stating:
 
 >"This was the very last song written for these records in Los Angeles. Another nice co-write with [James Matthew VII](https://jamesmatthewvii.bandcamp.com) and Tommy Major ([The Major](https://themajorsound.bandcamp.com)) on the lead guitar. I feel I've always hinted at new wave and sophistapop with the Guv project, and it's definitely something I will be exploring much more on my next albums. Lyrics were taken from a little notebook I kept on me while in Taos - I actually had written this originally as this Tom Petty folk joint and they then were tried on a side project song for a jokey psych rock band we were calling Taosman 5 - but eventually found their home on this track. I think it's my favorite single."
 
-*GUV IV* lands on June 24 through [Run For Cover](http://www.runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com). When he isn't writing timeless pop songs, Cook's known as the frontman of Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666) and as a former guitarist for [Fucked Up](http://fuckedup.cc/).
+*GUV IV* lands on June 24 through [Run For Cover](https://runforcoverrecords.com) and [Hand Drawn Dracula](https://www.handdrawndracula.com). When he isn't writing timeless pop songs, Cook's known as the frontman of Toronto hardcore group [No Warning](https://www.facebook.com/pg/nowarning666) and as a former guitarist for [Fucked Up](http://fuckedup.cc/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M1Ifts8DRwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

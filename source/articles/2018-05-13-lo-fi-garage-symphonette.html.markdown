@@ -109,7 +109,7 @@ Weaves last released the record *Wide Open* on [Buzz Records](http://buzzrecords
 
 The second slate of performers has been confirmed for [Sappyfest](http://www.sappyfest.com/), the early-August music festival that takes place annually in Sackville, New Brunswick.
 
-The latest batch of bands includes [Boyhood](https://boyhoodsongs.bandcamp.com/), [Darlene Shrugg](https://darleneshrugg.bandcamp.com/), [Cris Derksen](http://crisderksen.virb.com/), [Nick Ferrio](http://www.nickferrio.com/), [Ice Cream](https://icecreeeammm.bandcamp.com/), [Motherhood](http://motherhood-music.com/), Nap Eyes, [Quaker Parents](https://quakerparents.bandcamp.com/), [Ansley Simpson](http://www.ansleysimpson.com/), and a reunion of [Dog Day](http://dogdaymusic.com/). They'll join previously announced performers like U.S. Girls, Jennifer Castle, and B.A. Johnston.
+The latest batch of bands includes [Boyhood](https://boyhoodsongs.bandcamp.com/), [Darlene Shrugg](https://darleneshrugg.bandcamp.com/), [Cris Derksen](http://crisderksen.virb.com/), [Nick Ferrio](https://nickferrio.bandcamp.com/), [Ice Cream](https://icecreeeammm.bandcamp.com/), [Motherhood](http://motherhood-music.com/), Nap Eyes, [Quaker Parents](https://quakerparents.bandcamp.com/), [Ansley Simpson](https://www.ansleysimpson.com/), and a reunion of [Dog Day](http://dogdaymusic.com/). They'll join previously announced performers like U.S. Girls, Jennifer Castle, and B.A. Johnston.
 
 Dog Day is a Halifax based rock act that's been on hiatus for the past five years. The band's original lineup, joined by new addition Meg Yoshida, will be making one of their first performances since since the release of their debut album *Fade Out* back in 2013.
 
