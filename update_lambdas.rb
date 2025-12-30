@@ -8,7 +8,7 @@ function_names = %w[some_party_subscribe some_party_unsubscribe some_party_resen
 function_names.each do |function_name|
   zip_file_path = "./tmp/#{function_name}.zip"
   FileUtils.rm_f(zip_file_path)
-  Zip::File.open(zip_file_path, Zip::File::CREATE) do |zipfile|
+  Zip::File.open(zip_file_path, create: true) do |zipfile|
     zipfile.add('lambda_function.rb', "./lambda/#{function_name}/lambda_function.rb")
   end
 

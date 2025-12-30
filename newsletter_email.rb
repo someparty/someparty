@@ -3,7 +3,7 @@
 require 'cgi'
 require 'nokogiri'
 
-# Processes the Middeleman generated HTML of a newsletter article
+# Processes the Middleman generated HTML of a newsletter article
 # into text and html formats for sending through SES
 class NewsletterEmail
   def initialize(article_slug)
