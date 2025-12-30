@@ -50,7 +50,7 @@ def handle_email(email, contest)
 
   {
     statusCode: 200,
-    body: 'Your entry has been received. Note that only entires from current subscribers are eligable to win. This response is not an indication of your subscription status.'
+    body: 'Your entry has been received. Note that only entires from current subscribers are eligible to win. This response is not an indication of your subscription status.'
   }
 end
 

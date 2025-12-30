@@ -1,4 +1,4 @@
-require: rubocop-rails
+plugins: rubocop-rails
 
 Rails:
   Enabled: true
@@ -6,7 +6,7 @@ Rails:
 AllCops:
   NewCops: enable
   DisplayCopNames: true
-  TargetRubyVersion: 3.3
+  TargetRubyVersion: 3.4
 
 Layout/LineLength:
   Max: 120

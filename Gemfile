@@ -25,8 +25,6 @@ gem 'redcarpet', '>= 3.5.1'
 gem 'rexml', '>= 3.2.5'
 gem 'ruby-limiter'
 gem 'rubyzip'
-gem 'sassc', github: 'sass/sassc-ruby', ref: 'refs/pull/233/head'
-gem 'sassc-embedded'
 gem 'terser'
 
 # as per https://forum.middlemanapp.com/t/uninitialized-constant-haml-options/4643/3

@@ -37,13 +37,6 @@ GIT
       uglifier (>= 3, < 5)
       webrick
 
-GIT
-  remote: https://github.com/sass/sassc-ruby.git
-  revision: 244d3dcc8b985e25bab066b296f0f202e43e41ad
-  ref: refs/pull/233/head
-  specs:
-    sassc (2.4.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -1753,12 +1746,6 @@ GEM
     fastimage (2.4.0)
     ffi (1.17.2)
     ffi (1.17.2-x86_64-linux-gnu)
-    google-protobuf (4.32.1)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.32.1-x86_64-linux-gnu)
-      bigdecimal
-      rake (>= 13)
     haml (5.2.2)
       temple (>= 0.8.0)
       tilt
@@ -1839,7 +1826,6 @@ GEM
     rackup (2.2.1)
       rack (>= 3)
     rainbow (3.1.1)
-    rake (13.3.0)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
@@ -1875,13 +1861,8 @@ GEM
     ruby-limiter (2.3.0)
     ruby-progressbar (1.13.0)
     rubyzip (3.2.0)
-    sass-embedded (1.93.2)
-      google-protobuf (~> 4.31)
-      rake (>= 13)
-    sass-embedded (1.93.2-x86_64-linux-gnu)
-      google-protobuf (~> 4.31)
-    sassc-embedded (1.80.5)
-      sass-embedded (~> 1.80)
+    sassc (2.4.0)
+      ffi (~> 1.9)
     securerandom (0.4.1)
     servolux (0.13.0)
     stringio (3.1.7)
@@ -1930,9 +1911,7 @@ DEPENDENCIES
   rubocop-rails
   ruby-limiter
   rubyzip
-  sassc!
-  sassc-embedded
   terser
 
 BUNDLED WITH
-   2.3.24
+   2.6.9
