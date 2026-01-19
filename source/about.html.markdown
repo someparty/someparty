@@ -30,7 +30,8 @@ I've published Some Party since May of 2017, weekly at first and closer to month
 * [2023](/2023/)
 * [2024](/2024/)
 * [2025](/2025/)
-* [Some Kicks Radio playlist (2020)](/some-kicks)
+* [2026](/2026/)
+* [Some Kicks pandemic radio playlist (2020)](/some-kicks)
 
 ##Acknowledgements
 
