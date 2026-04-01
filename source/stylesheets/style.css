@@ -10,7 +10,7 @@ html {
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji",
-  "Segoe UI Emoji";
+    "Segoe UI Emoji";
   color: #393939;
   font-size: 1.5rem;
   margin: 0;
@@ -33,9 +33,11 @@ hr {
 img {
   border-style: none;
   width: 100%;
+  max-width: 600px;
 }
 
-ol, ul {
+ol,
+ul {
   max-width: 600px;
   margin-right: auto;
   margin-left: auto;
@@ -145,6 +147,7 @@ article h3 {
   gap: .25rem;
 
 }
+
 .artist-title a {
   padding: .25rem 1rem;
   background-color: black;
@@ -344,7 +347,7 @@ article p.contest {
   width: 100%;
 }
 
-form > div {
+form>div {
   display: flex;
 }
 
@@ -385,7 +388,7 @@ input.submit:focus {
   opacity: 0.5;
 }
 
-.subscribe-spinner  {
+.subscribe-spinner {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -768,9 +771,9 @@ small {
 }
 
 .legacy-media-link {
-  font-weight:400;
-  display:block;
-  text-align:center;
-  font-size:.875rem;
+  font-weight: 400;
+  display: block;
+  text-align: center;
+  font-size: .875rem;
   margin-bottom: 3rem;
 }

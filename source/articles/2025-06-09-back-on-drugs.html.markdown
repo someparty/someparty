@@ -29,7 +29,7 @@ Jim's Plumbing and Electrical plays as a five-piece here. Alex Jakimczuk recorde
 ###[Neil Haverty](https://neilhaverty.bandcamp.com): "Man Down"
 ==Watch on [YouTube](https://youtu.be/Pv-Zfw2KlcA?si=Qnv9YBYxnqlYnl2M) - Preview and purchase at [Bandcamp](https://neilhaverty.bandcamp.com/track/man-down)==
 
-[Neil Haverty](https://neilhaverty.bandcamp.com)'s been through the wringer. The narrative arc of indie bands, particularly esoteric late-2000s regional acts, is often brief. While it's not surprising that [Bruce Peninsula](http://bruce-peninsula.com/) spent years off the grid, their absence goes beyond the usual "got a real job" narrative. While that's indeed part of the story — Haverty's spent a decade composing for film and television; he's also spent the better part of that time battling leukemia.
+[Neil Haverty](https://neilhaverty.bandcamp.com)'s been through the wringer. The narrative arc of indie bands, particularly esoteric late-2000s regional acts, is often brief. While it's not surprising that [Bruce Peninsula](https://brucepeninsula.bandcamp.com) spent years off the grid, their absence goes beyond the usual "got a real job" narrative. While that's indeed part of the story — Haverty's spent a decade composing for film and television; he's also spent the better part of that time battling leukemia.
 
 The diagnosis and his subsequent struggles factor heavily into "Man Down," Neil's first solo single in over ten years. The vocalist's brooding growl should be instantly familiar to anyone who followed Bruce Peninsula's striking string of rootsy, gospel-tinged records. On the sombre track, he grapples with the messy reality of healing, addressing the clumsy fits-and-starts of recovery and re-prioritizing a life:
 

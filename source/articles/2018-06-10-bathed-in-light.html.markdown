@@ -87,7 +87,7 @@ Fresh off their successful [crowdfunding campaign](https://www.gofundme.com/preo
 
 [Watch: Preoccupations - "Decompose" @ YouTube](https://youtu.be/ry4pw4XDWc4 "#")
 
-Welland, Ontario three-piece Turbonegro-inspired scuzz-punk act [Dboy](https://www.dboylove.com), which features members of [The Snips](https://www.facebook.com/thesnipsmusic/) and [Northern Primitive](https://northernprimitive.bandcamp.com/), has a new video out for the track "Born With a Hard On," which was shot by Brent Kore.
+Welland, Ontario three-piece Turbonegro-inspired scuzz-punk act [Dboy](https://dboyintl.bandcamp.com), which features members of [The Snips](https://www.facebook.com/thesnipsmusic/) and [Northern Primitive](https://northernprimitive.bandcamp.com/), has a new video out for the track "Born With a Hard On," which was shot by Brent Kore.
 
 The song appears on the band's recent full-length, the mock-live record *Prove Your Love - Live in Belem*, which was recorded by [Daniel Romano](https://www.danielromanomusic.com/).
 
