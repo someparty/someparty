@@ -21,7 +21,7 @@ Constantines features guitarist/keyboardist Will Kidman, guitarist/vocalist Stev
 
 On the topic of unheralded returns, Welland's otherwise dormant rock group [Northern Primitive](https://northernprimitive.bandcamp.com/) re-emerged last week with a new 5-song EP titled *More Songs From Saturn West*, with 100% of the proceeds from their digital sales similarly bound for [Black Lives Matter Toronto](https://blacklivesmatter.ca/). The set marks the band's first release since a 7" split with [The Dirty Nil](https://thedirtynil.bandcamp.com/) in 2013.
 
-The set, recorded in 2019, features the distinctively tortured slow-burn vocals of  Matt Sajn ([Dboy](https://www.dboylove.com)'s unmasked frontman) backed by Ross Miller (now of The Dirty Nil), Billy Topolinsky, and [Attack In Black](https://attackinblack.bandcamp.com/)'s Ian Romano. Romano recorded and mixed the set, which the above-mentioned Kenneth Meehan mastering.
+The set, recorded in 2019, features the distinctively tortured slow-burn vocals of  Matt Sajn ([Dboy](https://dboyintl.bandcamp.com)'s unmasked frontman) backed by Ross Miller (now of The Dirty Nil), Billy Topolinsky, and [Attack In Black](https://attackinblack.bandcamp.com/)'s Ian Romano. Romano recorded and mixed the set, which the above-mentioned Kenneth Meehan mastering.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3929658902/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://northernprimitive.bandcamp.com/album/more-songs-from-saturn-west">More songs from Saturn West by Northern Primitive</a></iframe>
 

@@ -35,7 +35,7 @@ The new track marks a busy fall for Menard's various projects, with Psychic Void
 
 [Listen: No Fix - "See It Through" @ Bandcamp](http://nofixforyou.bandcamp.com/track/see-it-through "#")
 
-Welland's satin-clad, gimp-masked, Soviet punk trio [Dboy](https://www.dboylove.com) has a pair of new songs online. You can stream "Attn Spam" and "Satellites of Luv" at your digital platform of choice now.
+Welland's satin-clad, gimp-masked, Soviet punk trio [Dboy](https://dboyintl.bandcamp.com) has a pair of new songs online. You can stream "Attn Spam" and "Satellites of Luv" at your digital platform of choice now.
 
 While these tracks carry studio credits for Pierre Hasapogiannis, we're still awaiting word on the band's recent sessions with Steve Albini. This past summer the group recorded at Chicago's [Electrical Audio](http://www.electricalaudio.com/) with the storied engineer, presumably crafting their sophomore full-length for [Dine Alone Records](https://dinealonerecords.com/). In the interim, Dboy's put out several recent short-form releases, including the 3-song *Dboy for President* 7" and a split with Daniel Romano's [Ancient Shapes](https://youvechangedrecords.bandcamp.com/album/ancient-shapes).
 

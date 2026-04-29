@@ -31,7 +31,7 @@ Charlottetown punk rabble [Antibodies](https://antibodieschtn.bandcamp.com/) rec
 
 [Listen: Antibodies - *LP 2019* @ Bandcamp](http://antibodieschtn.bandcamp.com/album/lp-2019 "#")
 
-I'm a romantic, so I'm very much looking forward to spending Valentine's Day with my wife watching the gimp-masked maniacs in [Dboy](https://www.dboylove.com) celebrate their new LP. In the lead up to Friday's release, the satin-clad, Soviet-style trio shared a video featuring the record's first two songs: "Why Do You Only Luv a Dboy (who's down)?" and "Thumbless." The band issued a hyperbolic statement on the matter, all in capitals:
+I'm a romantic, so I'm very much looking forward to spending Valentine's Day with my wife watching the gimp-masked maniacs in [Dboy](https://dboyintl.bandcamp.com) celebrate their new LP. In the lead up to Friday's release, the satin-clad, Soviet-style trio shared a video featuring the record's first two songs: "Why Do You Only Luv a Dboy (who's down)?" and "Thumbless." The band issued a hyperbolic statement on the matter, all in capitals:
 
 > "CITIZENS OF THE WORLD. WITH PERMISSION FROM THE PERFORMANCE AND RECREATION COUNCIL, DBOY PRESENTS 'WHY DO YOU ONLY LUV A DBOY (WHO'S DOWN)?' AND 'THUMBLESS'.  AS EXPRESSIONS OF BREVITY AND AESTHETIC INGENUITY, THE TRACKS ARE CELEBRATIONS OF THE 13 POINT PROGRAM TO END SONIC AUSTERITY, AND THEREFORE OF THE THREE WOLVES THEMSELVES.  SUCH SHORT PLAYS FOR THE PACE AGE CAN BE FOUND ON THE FORTHCOMING ALBUM, APTLY TITLED 'NEW RECORDS IN HUMAN POWER'.  AS THE FAT HAS BEEN SO CLEARLY CUT FROM THE BONE, ALL THAT REMAINS ARE DENSE SHAPES AND SOUNDS WHICH MOVE TOWARDS A NEW LANGUAGE OF LUV.  NOW, SPEAK IT WITH THE INTERNATIONAL ORDER OF DBOY SCOUTS."
 

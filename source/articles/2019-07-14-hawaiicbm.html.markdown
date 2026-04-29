@@ -148,7 +148,7 @@ In the midst of their headlining UK tour, [Single Mothers](https://singlemothers
 
 [Watch: Single Mothers - "Metropolis" @ YouTube](https://youtu.be/MmQ5oFkx6kc "#")
 
-[Bruce Peninsula](http://bruce-peninsula.com/2016/)'s [Misha Bower](http://mishabower.com/) has a new video online for the song "Trying to Have it All," the title track to her recent debut solo album. It was filmed by Travis Welowszky at the Western Fair in London, Ontario. Bower commented on how the setting resonated:
+[Bruce Peninsula](https://brucepeninsula.bandcamp.com)'s [Misha Bower](http://mishabower.com/) has a new video online for the song "Trying to Have it All," the title track to her recent debut solo album. It was filmed by Travis Welowszky at the Western Fair in London, Ontario. Bower commented on how the setting resonated:
 
 >"The bigger ride, the better prize, the chance that life will deliver an experience that quenches desire once and for all."
 

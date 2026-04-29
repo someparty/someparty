@@ -27,6 +27,13 @@ class SomePartyEmailRenderer < Middleman::Renderers::MiddlemanRedcarpetHTML
     '<hr/>'
   end
 
+  def image(link, title, alt_text)
+    link = "https://www.someparty.ca/images/#{link}" unless link.start_with?('http://', 'https://')
+    attributes = "src=\"#{link}\" alt=\"#{alt_text}\""
+    attributes << " title=\"#{title}\"" if title.present?
+    "<img #{attributes}/>"
+  end
+
   def link(link, title, content)
     # Centered, bold media links are indicated by a title that starts with "#"
 
