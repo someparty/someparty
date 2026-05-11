@@ -145,7 +145,7 @@ These songs were previously released as a limited early bonus alongside that LP,
 
 [Listen: Jesse LeBourdais - "See You In The Storm" @ Bandcamp](https://jesselebourdais.bandcamp.com/album/see-you-in-the-storm "#")
 
-London, Ontario's riffy power-punk duo [Heart Attack Kids](https://www.facebook.com/heartattackkids/) have a new video online for the song "Do What You Do." Speaking to [Exclaim](https://exclaim.ca/music/article/heart_attack_kids_premiere_do_what_you_do_video), vocalist/guitarist Jared Ellul commented on the rowdy clip:
+London, Ontario's riffy power-punk duo [Heart Attack Kids](https://heartattackkidsband.bandcamp.com) have a new video online for the song "Do What You Do." Speaking to [Exclaim](https://exclaim.ca/music/article/heart_attack_kids_premiere_do_what_you_do_video), vocalist/guitarist Jared Ellul commented on the rowdy clip:
 
 >"This video was shot in our jam space and took the help of a few friends, some streamers, confetti cannons and hundreds of balloons... By the time we were done shooting there was so much confetti and burst balloons you couldn't see the floor. It was one of the most fun videos we've done, and we are still finding confetti falling from the ceiling as we jam."
 
